@@ -1,0 +1,166 @@
+                             645 of 1000 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                            March 17, 2016 Thursday
+
+
+
+Sprint Demonstrates Speeds of More Than 300 Mbps on Samsung Galaxy S7
+
+
+
+LENGTH: 386  words
+
+
+
+DATELINE: Lahore
+
+
+
+
+
+
+
+ Kansas: Sprint Corporation has issued the following Press release:
+
+
+
+
+
+
+
+  Sprint (NYSE: S) today demonstrated speeds of more than 300 Mbps using the
+
+Samsung Galaxy S7, one of the first devices on the market with hardware able to
+
+support three-channel carrier aggregation capable of delivering real-world peak
+
+speeds of more than 200 Mbps.
+
+
+
+
+
+
+
+
+
+
+
+ Today Sprint uses two-channel carrier aggregation to deliver peak speeds of
+
+more than 100 Mbps in more than 150 LTE Plus markets across the country. With
+
+the availability of the Samsung Galaxy S7, Sprint and Samsung have begun testing
+
+three-channel carrier aggregation to prepare for Sprint's future deployment in
+
+Sprint's super-fast LTE Plus Network.
+
+
+
+
+
+
+
+ Three-channel carrier aggregation is a feature of LTE-Advanced that bonds
+
+together bands of spectrum to create wider channels and produce more capacity
+
+and faster speeds on capable devices. Essentially it creates a wider lane that
+
+allows more traffic to travel at higher rates. Today with two-channel carrier
+
+aggregation Sprint uses 40MHz of spectrum on select 2.5GHz cell sites. With
+
+three-channel carrier aggregation Sprint will utilize 60MHz of spectrum.
+
+
+
+
+
+
+
+ "Our high-band 2.5GHz spectrum excels at moving high volumes of data at very
+
+fast speeds. And while 60MHz of spectrum can deliver the kind of phenomenal
+
+speeds shown today, we're just getting started," said Dr. John Saw, Sprint CTO.
+
+"With holdings of more than 160MHz of 2.5GHz spectrum in the top 100 U.S.
+
+markets, we have more capacity than any other carrier in the U.S. This is a
+
+tremendous advantage, allowing us to keep adding the capacity and speed needed
+
+to serve our customers' demand for data now and well into the future.
+
+Two-channel carrier aggregation has already had a significant impact on our
+
+network performance and we're excited to take it to the next level with
+
+Samsung."
+
+
+
+
+
+
+
+ Today Sprint is device testing three-channel carrier aggregation in its lab
+
+located in Reston, Virginia, to evaluate overall performance, speed and
+
+reliability using the Samsung Galaxy S7. The company expects to test new devices
+
+as they become available in preparation for deployment of three-channel carrier
+
+aggregation within the super-fast LTE Plus Network.
+
+
+
+
+
+
+
+ In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+
+
+
+
+LOAD-DATE: March 18, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2016 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

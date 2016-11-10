@@ -1,0 +1,140 @@
+                             702 of 1000 DOCUMENTS
+
+
+
+
+
+
+
+                           Investor's Business Daily
+
+
+
+                                August 18, 2016
+
+
+
+Galaxy Note 7: Apple Supplier Qualcomm Leads Broadcom, Qorvo, IDT
+
+
+
+BYLINE: ALLISON GATLIN
+
+
+
+SECTION: TECHNOLOGY
+
+
+
+LENGTH: 305 words
+
+
+
+
+
+http://www.investors.com/wp-content/uploads/2016/08/IT15_samsung_081816_company.
+
+jpg
+
+
+
+Apple (AAPL) supplier Qualcomm (QCOM) leads Broadcom (AVGO), Qorvo (QRVO) and
+
+Integrated Device Technology (IDTI) in the Samsung Galaxy Note 7, industry
+
+tracker iFixit found Thursday in a teardown of Samsung's newest phablet.
+
+
+
+Qualcomm boasts six chips inside the latest of "Samsung's line of
+
+phones-that-don't-fit-in-your-pocket," iFixit wrote in a teardown report. The
+
+Galaxy Note 7 touts an Apple iPhone 6S-quashing battery. But its power falls
+
+short of the Galaxy S7 Edge.
+
+
+
+Among Qualcomm's offerings -- a processor, an audio codec, two radio-frequency
+
+chips and two power management chips. Fellow RF Qorvo chipmaker brings three
+
+chips to the mix: a high-band RF fusion module, a front-end module and a
+
+receiver.
+
+
+
+IBD'S TAKE: Dot-com boom darling Qualcomm sports a fast-growing dividend. Check
+
+out IBD's Dividend Leaders.
+
+
+
+Broadcom has at least one confirmed chip, but its Wi-Fi system-on-a-chip is also
+
+likely contained within Samsung's Wi-Fi module, iFixit found. Samsung itself
+
+supplies two other chips for flash memory and dynamic random-access memory
+
+(DRAM).
+
+
+
+Integrated Device Technology supplied a wireless power receiver, an iteration of
+
+the component it supplies for the Apple Watch.
+
+
+
+The chipset is nearly identical to those of the S7 and S7 Edge, iFixit found.
+
+The Note 7 scored a four out of a best-possible 10 in repairability. Many of the
+
+components can be replaced independently, but the chassis is vulnerable to
+
+cracking.
+
+
+
+Noted iFixit, "Because of the curved screen, replacing the front glass without
+
+destroying the display is probably impossible."
+
+
+
+In afternoon trading
+
+
+
+Integrated Device Technology stock closed up 3.25% on the stock market today,
+
+and Qorvo rose 1.2%. Broadcom ticked up 0.5%, and Qualcomm added 1.2%. Apple
+
+stock dipped 0.1%.
+
+
+
+LOAD-DATE: August 25, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                 Copyright 2016 Investor's Business Daily, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

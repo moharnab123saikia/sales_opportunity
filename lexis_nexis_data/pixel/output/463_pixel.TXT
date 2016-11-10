@@ -1,0 +1,98 @@
+                              463 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                           November 22, 2014 Saturday
+
+
+
+US Patent granted to Google Inc. (California) on November 18 titled as "System
+
+and method for coding video using color segmentation"
+
+
+
+LENGTH: 191  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,891,627, on
+
+November 18, 2014, to Google Inc. (California), titled as "System and method for
+
+coding video using color segmentation"
+
+
+
+Inventors: Bankoski; James (Mountain View, CA), Wilkins; Paul (Cambridge, GB),
+
+Xu; Yaowu (San Diego, CA)
+
+Assignee: Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Disclosed herein is method for encoding a video signal having at least one
+
+frame with a plurality of blocks having pixels. The method includes identifying
+
+a first color of pixels in a block in the at least one frame, assigning pixels
+
+in the block having the first color to a first source segment and assigning
+
+pixels in the block having a color different than the first color to a second
+
+source segment and determining a set of motion vectors derived from first source
+
+segment and a set of motion vectors derived from the second source segment."
+
+
+
+The patent was filed on April 18, 2011 Application no. 13/088,615
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: November 22, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,280 @@
+                              721 of 820 DOCUMENTS
+
+
+
+
+
+                               The Economic Times
+
+
+
+                             April 7, 2016 Thursday
+
+
+
+6 developments that impact how we use technology
+
+
+
+SECTION: PANACHE
+
+
+
+LENGTH: 1118 words
+
+
+
+
+
+The Possibility of Dropping the 3.5mm Port
+
+
+
+There's a lot of discussion around this topic for a couple of reasons: it's
+
+rumoured that Apple will be the first to drop the ubiquitous 3.5mm audio jack
+
+from its phones this year. And it's kind of touching a nerve because this is
+
+something that been around since the early days of the cellphone. It's universal
+
+(almost), found on many different devices (phones, tablets, laptops, desktops,
+
+TVs, voice recorders, gaming consoles), cheap to produce and include, earphones
+
+using this port can be had very cheap and many people already have their
+
+favourite earphones/headphones that they use with all of their devices.
+
+
+
+Contrary on what you may think, there are a couple of good reasons to drop this
+
+aging standard. If you've ever seen the innards of a modern smartphone, you'll
+
+know what we mean. With devices getting thinner, lighter and more powerful,
+
+miniaturisation is key! Every component inside the phone is purpose built, as
+
+small as possible and tolerances are down to fractions of a millimetre. In the
+
+middle of all this wizardry sits this comparatively giant black casing - the
+
+3.5mm jack. It actually prevents screen bezels from becoming smaller, eats up
+
+space that could have been used up by battery and prevents the phone from
+
+getting thinner. In addition, earphones could go digital, using connectors like
+
+Lightning, micro USB and USB type C instead.
+
+
+
+USB Type C - Is It Really Universal?
+
+
+
+You've heard it before: "the reversible USB type C is the future" and "soon, all
+
+phones will switch to USB C ports". The reality is a bit different and USB type
+
+C has a long way to go before achieving the scale that micro USB has. The main
+
+reason for this is that cables are being produced in mass numbers without any
+
+proper adherence to standards set by the USB-IF (implementers forum - the
+
+governing body that describes the standards).
+
+
+
+Improper cables and flimsy adapters that convert micro USB to USB type C can end
+
+up damaging your device's ports permanently or worse, damaging the internal
+
+components like main boards. This also means that you should not be using USB
+
+type C cables/adapters that came with one device with something else. In the
+
+meantime, if you really want to be safe, you can head to USB.org where they have
+
+a list of certified USB type C cables
+
+
+
+The Differences Between Fast Chargers
+
+
+
+Many power users struggle with battery life on their devices. Until battery
+
+technology catches up with our requirements, an easy workaround is fast
+
+charging. Fast charging is not just a marketing term - it actually works and is
+
+a technology developed by Qualcomm. Marketing by various companies splits it up
+
+into different names like quick charge, rapid charge, turbo charge and more. In
+
+reality, they're all basically the same thing: a combination of four things -
+
+better quality batteries, advanced charging circuitry in the device, smart power
+
+adapters that output higher voltages and cables/ports that are capable of
+
+handing these increased loads.
+
+
+
+Specifications and charging times have been getting better over time, which is
+
+why you see different claims by manufacturers. Quick Charge 3.0 is the latest
+
+spec and it is four times faster than conventional charging, twice as fast as
+
+Quick Charge 1.0 and 38% faster as compared to Quick Charge 2.0. This is
+
+available on select devices right now and Qualcomm has a list up on their
+
+website with phones that support 3.0 (Xiaomi Mi 5, LG G5, HTC One A9, LeEco Le
+
+Max Pro etc) and a list of compatible chargers you can use.
+
+
+
+If you are interested in the specs and how it works - read on! Look at the tiny
+
+text on any wall charger you have: it will have an output rating in volts and
+
+amperes (this could be 5 volts - 1 amp, or 5 volts - 2 amp and so on). You can
+
+multiply these two to get the output p owe r i n watts. Quick Charge adapters
+
+will have multiple outputs at 9 volts and 12 volts - they switch between outputs
+
+intelligently. The technology first scales up the power to the battery until it
+
+reaches saturation point (typically 70 to 80% of capacity) and then scales it
+
+down till it reaches 100%. This is why the claims always state things like
+
+"reaches 0 to 70% charge in 35 minutes". The remaining 30% will take far longer
+
+but a 70% charge is a lot too.
+
+
+
+Dual Cameras in Phones
+
+
+
+One of the main issue with camera modules on smartphones is that they have to be
+
+really tiny. This means they have tiny lens elements and small sensors - which
+
+means that camera performance will not match up to the quality offered by even a
+
+point and shoot camera. However, the scales can tilt in the favour of
+
+smartphones with dual camera setups.
+
+
+
+In a dual camera setup, the additional lenssensor can work on capturing depth,
+
+additional light or even improve colours and sharpness. Technically, instead of
+
+increasing sensor size, they're just increasing the number of sensors, which is
+
+more easily doable in a slim device. A number of manufacturers including Huawei,
+
+Qiku, Xolo and HTC have already launched devices with dual cameras that deliver
+
+good results. In the near future, we might see some dual camera setups that
+
+actually provide for some sort of optical zoom without needing any moving lens
+
+elements.
+
+
+
+Touchscreens for Full Car Control
+
+
+
+Touch interfaces are easy and intuitive. However, when it comes to cars, most
+
+stick to buttons and dials while touchscreens stay in high-end cars. Cars with
+
+touchscreens usually have them for infotainment and navigation rather than for
+
+control of car features. Going forward, drive-by-wire systems will become the
+
+norm in cars. This means, there will be no physical linkages and this makes it
+
+easy to have touch control. You'll be able to view and set tyre pressure,
+
+climate control, fuel economy and so on in the same window. Considering that
+
+Tesla has already managed to integrate a 15-inch touchscreen into their upcoming
+
+$35,000 car and remove all dials and buttons from the dashboard, this is a trend
+
+that could catch on.
+
+
+
+Android Cameras
+
+
+
+The open nature of Android means that it can be modified to suit any device. We
+
+have seen Android in home appliances, car entertainment units, media players and
+
+televisions. However, when it comes to cameras, there hasn't been much work done
+
+on integration of Android (apart from a couple of attempts by Samsung and one by
+
+Nikon).
+
+
+
+There are multiple advantages of using Android in standalone cameras: instant
+
+image transfers over WiFi, quick sharing over Bluetooth and on social media, app
+
+support plus on-screen editing of images. With standalone camera sales declining
+
+and improvements in Android in terms of features and stability over the last few
+
+years, we really want camera manufacturers to step up their game.
+
+
+
+For Reprint Rights: timescontent.com
+
+
+
+LOAD-DATE: April 6, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2016 Bennett Coleman & Co. Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

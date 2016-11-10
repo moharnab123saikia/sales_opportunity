@@ -1,0 +1,110 @@
+                              819 of 997 DOCUMENTS
+
+
+
+
+
+                                  EFYtimes.com
+
+
+
+                     September 4, 2014 Thursday 6:30 AM EST
+
+
+
+Chrome 38 Brings New Responsive Image Element- 'Picture'
+
+
+
+LENGTH: 323  words
+
+
+
+
+
+The Picture element is based on new image tag in HTML 5.1 that helps developers
+
+to design responsive websites more efficiently.
+
+
+
+Thursday, September 04, 2014: The pictures and photograph on website, known as
+
+simple images are all static images. But, Google's Chrome 38 is set to change
+
+this old concept with a new responsive element called 'picture'. This would
+
+bring a new responsive design to the website. The responsive design renders and
+
+scales the elements on webpage in appropriate format for the screen size.
+
+
+
+Senior Symbolic Software Engineer at Google, Andreas Rossberg said, "The Picture
+
+element will bring elegant solution of responsive images on the website.
+
+Previously, users were shown a duplicate resource of image. Developers can list
+
+multiple images under one picture element, so that browser can pick up
+
+appropriate image according to the screen size, pixel density and other
+
+factors".
+
+
+
+The HTML 5.1 has replaced image tag with superset element for image containers.
+
+Google's picture element is based on this technology in W3C HTML 5.1. The HTML
+
+5.1 specification draft says, "The picture element has multiple ing element
+
+resouces. It helps authors to control or hint user's browser about which image
+
+resource to choose. These image resources are of different screen size, pixel
+
+density, viewport size, image format and other factors".
+
+
+
+Chrome 38 will come with 64-bit build for Mac OSX. Some Linux distributions
+
+namely, Ubuntu, Fedora, openSUSE, Debian and Red Hat already have a 64-bit beta
+
+channel support but for Mac, this will be the first browser to provide 64-bit
+
+build. Currently, Mac users can run Canary branch of Chrome to get a 64-bit
+
+version of Chrome. Canary branch tends to crash every now and then. It is full
+
+of bugs and issues. This new 64-bit build of Chrome for Mac should bring the
+
+most stable and usable web browser for Mac platform. Chrome 37 64-bit build for
+
+Windows is supposed to release in the same week.
+
+
+
+LOAD-DATE: September 4, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+      Copyright 2014 EFY Enterprises Pvt Ltd., distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

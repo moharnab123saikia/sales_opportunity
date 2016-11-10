@@ -1,0 +1,118 @@
+                              712 of 997 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                          October 31, 2012, Wednesday
+
+
+
+Torvalds on laptops: Make higher-def resolution standard;
+
+Linux czar praises high portable display resolutions, slams misconceptions
+
+
+
+BYLINE: Jon Gold
+
+
+
+LENGTH: 268 words
+
+
+
+
+
+The outspoken creator of Linux, Linus Torvalds, called for laptop makers to
+
+follow the tablet world's lead in using thehighest-resolution displays possible
+
+on mobile devices, in a post on Google Plus.
+
+
+
+MORE NEXUS 10: First Look: Google's Nexus 10 tablet MORE LINUS: Does OpenStack
+
+need a Linus Torvalds?
+
+
+
+"So with even a $399 tablet [the Samsung/Google Nexus 10] doing 2560x1600 pixel
+
+displays, can we please just make that the new standard laptop resolution? Even
+
+at 11"? Please. Stop with the 'retina' crap, just call it 'reasonable
+
+resolution'. The fact that laptops stagnated ten years ago (and even regressed,
+
+in many cases) at around half that in both directions is just sad," he wrote.
+
+
+
+Torvalds also hit out at "less-than-gifted tech pundits" who assert that
+
+high-resolution displays mean smaller, more difficult-to-read font sizes.
+
+
+
+"And the next technology journalist that asks you whether you want fonts that
+
+small, I'll just hunt down and give an atomic wedgie. I want pixels for
+
+high-quality fonts, and yes, I want my fonts small, but 'high resolution' really
+
+doesn't equate 'small fonts,'" he added, noting also that high-res fonts help
+
+those with poor eyesight read more easily.
+
+
+
+Particularly given the references to retina displays, Torvalds' post is easy to
+
+interpret, in part, as a dig at Apple. The Nexus 10 to which Torvalds referred
+
+actually outstrips the latest retina display iPad in terms of pixels-per-inch,
+
+and the new iPad mini has a comparatively low display resolution of 1024x768, in
+
+order to preserve app compatibility.
+
+
+
+Email Jon Gold at jgold@nww.com and follow him on Twitter at @NWWJonGold.
+
+
+
+
+
+
+
+
+
+LOAD-DATE: November 5, 2012
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2012 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

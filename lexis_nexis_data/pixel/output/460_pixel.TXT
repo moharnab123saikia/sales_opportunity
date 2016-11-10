@@ -1,0 +1,360 @@
+                              460 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                  The Guardian
+
+
+
+                      April 14, 2015 Tuesday 12:00 PM GMT
+
+
+
+Dell XPS 13 review: a screen to beat Apple;
+
+Company's new powerful 13in aluminium ultrabook has a better-than-retina quad
+
+HD+ screen with virtually no bezels squeezed into an 11in laptop frame
+
+
+
+BYLINE: Jack Schofield
+
+
+
+SECTION: TECHNOLOGY
+
+
+
+LENGTH: 1055 words
+
+
+
+
+
+Star Rating: 5 stars
+
+
+
+Dell's latest ultrabook is squarely aimed at Apple's MacBook Pro with a
+
+better-than-retina high resolution screen and aluminium body - a Windows MacBook
+
+killer.
+
+
+
+Since Dell turned private in 2013 it has rekindled its innovative spirit, first
+
+with a super-thin tablet with an edge-to-edge display, now with a laptop that is
+
+thin, light and practically bezel-less.
+
+
+
+The new XPS 13 is a "hero product" that shows what the company can do. I can't
+
+remember the last time I really wanted to test a Dell laptop.
+
+
+
+Better than retina
+
+
+
+The Dell XPS 13 (2015) may look like a traditional aluminium ultrabook, but it
+
+really makes an impact when you open it up.
+
+
+
+The screen looks huge, because the bezels are tiny - a 13.3in "infinity" screen
+
+fitted into something the size of an 11in laptop. It is also is very bright and
+
+very sharp, with a resolution of 3200 x 1800 pixels and a pixel density of 276
+
+pixels per inch.
+
+
+
+For comparison a MacBook Pro with a 13.3in retina screen has a resolution of
+
+2560 x 1600 and 227ppi, and Google's Chromebook Pixel a 12.9in screen with a
+
+2560 x 1700 resolution and 239 ppi, meaning the Dell has both the Apple and
+
+Google laptops beat on sharpness.
+
+
+
+The higher the pixel density the sharper the text, the clearer the details in
+
+images and the better the screen looks - it's the same principle used by
+
+smartphones and tablets.
+
+
+
+Specifications as tested
+
+
+
+     ·    Screen: 13.3in Quad HD+ infinity screen, 3200 x 1800 (276 pixels per
+
+          inch)
+
+     ·    Processor: 2.4GHz Intel Core i7 i7-5500U processor
+
+     ·    RAM: 8GB
+
+     ·    Storage: 256GB SSD
+
+     ·    Connectivity: Wi-Fi 802.11ac, BT 4.0, USB3.0, mini DisplayPort, SD
+
+          card reader
+
+     ·    Camera: 720p
+
+     ·    Dimensions: 304 x 200 x 15mm
+
+     ·    Weight: 1.26kg
+
+
+
+
+
+
+
+Real power
+
+
+
+The XPS 13 is one of the first new laptops using Intel's fifth-generation 14nm
+
+Core chips, code-named Broadwell. They provide a small increase in performance
+
+over current Haswell designs, but should deliver significantly better battery
+
+life.
+
+
+
+The fan-cooled Core i7-5500U is fast for an ultrabook - especially one that
+
+measures only 15mm thick - and the extra performance of its HD5500 graphics
+
+processor makes it usable for 1080p gaming. It's quite a step up from the slow
+
+performance of the fanless Core-M chip used in the Lenovo Yoga 3 and Apple's
+
+latest MacBook.
+
+
+
+But small sizes require compromises, and the XPS 13 is no exception. The memory
+
+chips are soldered to the motherboard so not upgradable and the battery is
+
+sealed in, as it is with quite a few of its competitors.
+
+
+
+The XPS 13 has two USB 3.0 ports, a mini-DisplayPort for video, an SD card slot,
+
+and a 3.5mm headset jack. More connections can be provided via an optional USB
+
+dongle. The webcam is positioned in an odd place - underneath the screen on the
+
+left-hand side - because there's no room for it in the thin bezel around the
+
+screen. The view from the webcam is therefore, less flattering.
+
+
+
+Battery lasts about a day
+
+
+
+Dell estimates the XPS 13 with the infinity screen will last approximately 11
+
+hours of browsing or eight hours of video playback. With high performance
+
+settings and the screen brightness turned up, I got slightly less than that in
+
+normal use.
+
+
+
+With more balanced settings, the XPS13 should get through a normal day's work.
+
+But if you play World of Warcraft on your lunch break, you might not make it.
+
+
+
+The power adapter is tiny, however, and the machine charges in about two hours.
+
+Dell also offers a Power Companion battery that will recharge it, but if battery
+
+life is a priority, the lower resolution full HD-screen versions last longer.
+
+
+
+'Adaptive brightness' potentially a plague
+
+
+
+The infinity screen is excellent - arguably one of the best available on a
+
+laptop - but there's a potential problem.
+
+
+
+The screen has an "adaptive brightness" feature that varies the screen
+
+brightness according to content, not just the ambient light. It's a technology
+
+used in high-end smartphones and tablets by Samsung and others, which makes the
+
+display look as good as possible.
+
+
+
+However, the colour and brightness changing technology cannot be turned off and
+
+makes it impossible to calibrate the display, which is the first thing a pro
+
+photographer or video editor would want to do with this type of machine.
+
+
+
+Some people think it is very important, and many have complained about it
+
+online, but I confess I didn't really notice it in daily use. Dell ought to
+
+provide a way to turn it off, and until it does, it could be a real problem for
+
+people in the creative industries.
+
+
+
+Keyboard and trackpad
+
+
+
+The chiclet-style keyboard is good, but not great. I found the backlit keys
+
+slightly small, which reflects the fact that the XPS 13's chassis is closer to
+
+an 11.6in than a 13.3in laptop. I would also have preferred a little more
+
+travel, but then, I grew up with mechanical typewriters and clicky keyboards.
+
+
+
+The large Microsoft Precision touchpad is much better than those in most Windows
+
+laptops, though still not up to Apple standards. It's also very sensitive, which
+
+takes some getting used to.
+
+
+
+Price
+
+
+
+The Dell XPS 13 comes in several different models starting at £799 and rising to
+
+£1,249, with faster processors, the quad HD+ screen and more storage.
+
+
+
+The version tested costs £1,099 with 256GB of storage, 8GB of RAM and a quad HD+
+
+screen.
+
+
+
+Verdict
+
+
+
+The Dell XPS 13's Quad HD+ screen, thin bezels, good touchpad, solid keyboard,
+
+aluminium construction and aggressive pricing make it a strong competitor in the
+
+high-end PC market. Not even Apple offers a better-than-retina screen and a Core
+
+i7 in something close to the size of an 11in MacBook Air.
+
+
+
+There are other high-end laptops such as the Lenovo ThinkPad Carbon X1, HP
+
+EliteBooks, Asus Zenbooks and similar machines, but if you want a laptop for
+
+Windows or Linux, the XPS 13 is probably the best you can get at the moment.
+
+
+
+The elephant in the room? Dude, you're getting a Dell. That won't put off
+
+business buyers, who make up the vast majority of Dell's customers, but it's
+
+probably not going to appeal to the hipsters in Starbucks, who are brand
+
+followers not brand leaders.
+
+
+
+Pros: excellent quad HD+ screen, solid build, powerful, good touchpad,
+
+touchscreen  Cons: battery life could be better, adaptive brightness can't be
+
+turned off, memory not upgradable
+
+
+
+Other reviews
+
+
+
+                     · Surface Pro 3 review: the most lappable tablet yet
+
+
+
+· Five best laptops to suit any budget
+
+
+
+LOAD-DATE: April 14, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: WEBGNS
+
+
+
+
+
+  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
+
+                              All Rights Reserved
+
+
+
+
+

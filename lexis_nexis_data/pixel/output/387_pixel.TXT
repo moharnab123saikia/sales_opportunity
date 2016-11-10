@@ -1,0 +1,94 @@
+                              387 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                           December 17, 2013 Tuesday
+
+
+
+US Patent granted to Google Inc (California) on December 17 titled as "Panoramic
+
+image fill"
+
+
+
+LENGTH: 158  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,611,696 on
+
+December 17, 2013, to Google Inc (California), titled as "Panoramic image fill"
+
+
+
+Inventors:  Zhu; Jiajun (Mountain View, CA), Ogale; Abhijit (Mountain View, CA)
+
+
+
+Assignee:  Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Systems and methods for filling panoramic images having valid and invalid pixel
+
+regions are provided. An invalid region is identified in an initial panoramic
+
+image. Pixel data of invalid pixels in the initial panoramic image are replaced
+
+with pixel data of pixels from a valid region in at least one nearby panoramic
+
+image to obtain a valid fill region."
+
+
+
+The patent was filed on April 6, 2012 Application no. 13/441,588
+
+
+
+For more information please visit: http://www.uspto.gov/. In case of any query
+
+regarding this article or other content needs please contact:
+
+editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: December 18, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2013 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

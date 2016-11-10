@@ -1,0 +1,136 @@
+                              301 of 997 DOCUMENTS
+
+
+
+
+
+                              Open Source FOR You
+
+
+
+                                October 6, 2016
+
+
+
+Android 7.1 to bring iOS-like Night Light mode
+
+
+
+BYLINE: Jagmeet Singh
+
+
+
+LENGTH: 385  words
+
+
+
+
+
+Google premiered Android 7.1 Nougat alongside unveiling its very first Pixel
+
+phone on Tuesday. This new Android version is now reported to come preloaded
+
+with Night Light mode to take on Apple's iOS.
+
+
+
+Apple developed iOS 9.3 with a Night Shift mode to "warm up" the display panels
+
+of iPhones and iPads to ease the reading experience. Likewise, Google has this
+
+time designed its Night Light to reduce blue light emitted by Android devices at
+
+night.
+
+
+
+Alongside the Night Light mode, as reported by Android Police, Google is
+
+offering Android 7.1 with Daydream VR mode to support Google's Daydream View and
+
+various other advanced VR headsets. The operating system also includes a
+
+fingerprint swipe feature to let you check your notifications simply by swiping
+
+down on the built-in fingerprint sensor of your device.
+
+
+
+Developer-centric features
+
+
+
+The Android update additionally comes with some developer-centric features such
+
+as APIs for app shortcuts and shortcut manager, circular app icon support,
+
+keyboard image insertion, fingerprint gesture support, improved VR thread
+
+scheduling, enhancements to wallpaper metadata, multi-endpoint calling and a
+
+storage manager to identify installed apps as well as stored files. Google has
+
+also provided inputs for some MNO (mobile network operator) requirements,
+
+including PCDMA voice privacy, source type support for visual voicemail and
+
+carrier configuration options to manage video telephony.
+
+
+
+Exclusive experience for Pixel
+
+
+
+In addition to the latest features for all users, Google has reportedly designed
+
+some options specifically for the Pixel users. These include a Pixel launcher,
+
+unlimited access to Google Photos, Smart Storage and Support. The platform also
+
+has a quick switch adapter to enable wired setup for alien users, new camera app
+
+and various aesthetic changes.
+
+
+
+Notably, Android 7.1 comes preloaded with Google Assistant that wakes up with a
+
+long-press of the home button This AI-backed feature is appeared to be limited
+
+to the Pixel devices and would not come to your device no matters if it is a
+
+Nexus device and runs on the newest Android variant.
+
+
+
+Having said that, all this shows that Google's freshest Android Nougat flavour
+
+will have enough power to rival iOS. However, the search giant might restrict
+
+some open sourced areas to largely promote its Pixel smartphones.
+
+
+
+LOAD-DATE: October 6, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Magazine
+
+
+
+
+
+      Copyright 2016 EFY Enterprises Pvt Ltd., distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

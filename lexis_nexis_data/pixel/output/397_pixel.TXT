@@ -1,0 +1,140 @@
+                              397 of 997 DOCUMENTS
+
+
+
+
+
+                              Open Source FOR You
+
+
+
+                                October 17, 2016
+
+
+
+After Pixel phone, Google could directly enter smartwatch world with Android
+
+Wear 2.0
+
+
+
+BYLINE: Jagmeet Singh
+
+
+
+LENGTH: 424  words
+
+
+
+
+
+With the launch of its Pixel phone earlier this month, Google already became a
+
+hardware company. But now, the search giant is apparently aiming to expand its
+
+business with new smartwatches based on Android Wear 2.0.
+
+
+
+Google has been maintaining its Android Wear platform for wearables since March
+
+2014. The operating system so far existed on the hardware offered by original
+
+equipment manufacturers (OEMs) like LG, Motorola, Samsung and Sony. However, the
+
+company led by Indian-American engineer Sundar Pichai is now likely to make a
+
+big shift and develop its very first hardware attempt.
+
+
+
+Not just one but two models in the pipeline
+
+
+
+Prolific leakster and technology journalist Evan Blass has hinted the debut of
+
+Google in the world of smartwatches. Blass preferred Twitter recently to suggest
+
+that first two Google smartwatches would launch in 2017. "Google's two
+
+smartwatches will be released with Android Wear 2.0 in Q1 2017," he tweeted.
+
+
+
+The new smartwatches by Google are expected to have enough features to counter
+
+Apple Watch 2 Series. These smartwatch models could offer real-time GPS tracking
+
+to influence fitness enthusiasts as well as come with a new silicon to deliver
+
+more power than the current Android Wear range.
+
+
+
+Taking open source efforts apart
+
+
+
+Foraying into the smartwatch market was not the exact plan when the Pichai team
+
+unveiled Android Wear in 2014. But it appears that over time, the company set to
+
+take on Apple with its own hardware developments. This consideration would give
+
+a hit to the open source community as Apple's original model is nowhere helping
+
+developers leverage offerings like iOS or watchOS for their next projects.
+
+
+
+Earlier this month, Google unveiled Pixel phone as its first "Made by Google"
+
+device. This smartphone brought the latest Nougat experience with some exclusive
+
+features that are not available to developers through Android Open Source
+
+Project (AOSP). Notably, Google Assistant, the smarter version of Google Now to
+
+rival Apple's Siri and Microsoft's Cortana, is also so far limited to Pixel
+
+launcher that comes preloaded on the latest smartphone hardware.
+
+
+
+Though some recent instances are making Google an as close sourced company as
+
+Apple, the former is still trying to persuade developers with various open
+
+sourced IT solutions. The company still has the core Android as an open source
+
+platform, and upcoming developments like Fuchsia and Andromeda could soon expand
+
+its existing community-centric solutions. Moreover, Android Wear 2.0 is also
+
+expected to have some goodies right for app developers.
+
+
+
+LOAD-DATE: October 17, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Magazine
+
+
+
+
+
+      Copyright 2016 EFY Enterprises Pvt Ltd., distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

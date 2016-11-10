@@ -1,0 +1,110 @@
+                              448 of 820 DOCUMENTS
+
+
+
+
+
+                            The Times of India (TOI)
+
+
+
+                            August 11, 2016 Thursday
+
+
+
+Here's what Google has to say on the Android bug affecting 900 million phones
+
+
+
+SECTION: TECH NEWS
+
+
+
+LENGTH: 337 words
+
+
+
+
+
+NEW DELHI: Recently, it was found that a bug named QuadRooter puts almost 1
+
+billion Android handsets at risk. The vulnerability, discovered by security
+
+company Check Point, is said to give hackers access to user's personal
+
+information by remotely rooting the smartphones. According to the company, the
+
+security bug affects devices with Qualcomm chips, which are installed into
+
+devices during the manufacturing process.The flaw includes four vulnerabilities,
+
+any of which can be used by hackers to take control of a smartphone.
+
+
+
+Now, Google has reportedly given its stance on the matter claiming that the
+
+threat is not as serious as it has been projected.The search giant, as reported
+
+by Tech Insider, has said that out of the aforementioned four vulnerabilities it
+
+has fixed three issues as a part of the August Android OS security update. The
+
+fourth vulnerability will be fixed in September's security update.Although
+
+Google is already sending out fixes for the bug, it still remains unlikely that
+
+all the 900 million smartphones would receive the update. Google adds that its
+
+'Verify Apps' feature would also be ruling out the malicious apps. The feature
+
+will scan the apps before installing them on the handset. Verify Apps is
+
+switched on by default.However, those users who have older versions of Android
+
+OS running on their handsets (older than Jelly Bean) would have to manually
+
+activate the 'Verify Apps' feature.The QuadRooter vulnerability affects
+
+smartphone drivers which control communication between the various chipset
+
+components. Check Point recommends users to download and install the latest
+
+Android updates as soon as they become available, avoid side-loading apk files,
+
+read app permission requests carefully while installing apps and more.Some of
+
+the latest smartphones that are said to be vulnerable to QuadRooter are Samsung
+
+Galaxy S7, Galaxy S7 Edge , OnePlus 3, Google Nexus 5X, Nexus 6, Nexus 6P, LG
+
+G4, LG G5 , LG V10, OnePlus One, OnePlus 2, OnePlus 3 and more.
+
+
+
+For Reprint Rights: timescontent.com
+
+
+
+LOAD-DATE: August 10, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2016 Bennett Coleman & Co. Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

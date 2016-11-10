@@ -1,0 +1,178 @@
+                              648 of 997 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                            June 27, 2012, Wednesday
+
+
+
+Google unveils 7-inch tablet, new Android version;
+
+Nexus 7 tablet tightly integrated with Google Play online store
+
+
+
+BYLINE: Network World Staff
+
+
+
+LENGTH: 588 words
+
+
+
+
+
+Google today announced its first tablet product, the Nexus 7, fitted with a
+
+powerful quadcore processor and specificallydesigned to work with the expanding
+
+Google Play, the online media and apps site.
+
+
+
+MORE FROM GOOGLE I/O 2012: First look -- Google's new Nexus 7 tablet Ask the
+
+magic 8-ball: Google's Nexus Q brings Play to the home Seven Nexus 7 concepts
+
+Unveiled today at the Google I/O conference in San Frncisco, the tablet has a
+
+7-inch diagonal screen, with 1280 x 800 high definition display, with a pixel
+
+density of 216 pixels per inch (compared to Apple's Retina Display on the new
+
+iPad of 264 pixels per inch). It's powered by a four-core Tegra 3 processor,
+
+including a 12-core graphics processing unit.
+
+
+
+It's equipped with the Google Chrome web browser, Google Currents, which is a
+
+mobile magazine format for news feed with integrated Google Translate. The
+
+tablet has a front-facing 1.2 megapixel camera, Bluetooth, a micro USB port and
+
+near field communication.
+
+
+
+The Nexus 7 is priced at $199, and Google is offering several movies, books and
+
+complimentary magazine subscriptions as a starting package.
+
+
+
+It runs the next Android version, Android 4.1, dubbed Jelly Bean. One of Jelly
+
+Bean's key features is Project Butter, a comprehensive effort by Google to boost
+
+Android performance and response time by increasing the frame rate to 60 fps.
+
+The demonstration showed fast, smooth animations, and the tablet's CPU
+
+automatically speeds up when it detects an onscreen touch.
+
+
+
+The Android notification system has been revamped. Alerts now expand and shrink
+
+automatically as they appear. You can see a preview of an MMS image, and view it
+
+in full size all inside Android's notification area.
+
+
+
+Also part of Jelly Bean is Google Now, with a redesigned user interface for your
+
+mobile searchers. It now features, like Apple's Siri, a very realistic
+
+synthesized voice interface to respond to search requests or remind you of
+
+appointments. But Google Now blends this with a predictive capability: it uses
+
+data about your location, the date, from your contacts and prior searches to
+
+proactively recommend an alternative way home if your usual commuting route is
+
+congested. And the app will verbally update you on new offers or changes as you
+
+walk past restaurants or retails stores.
+
+
+
+Jelly Bean will appear first on the Galaxy Nexus, Nexus S and Xoom devices in
+
+mid-July. The SDK is available for developers now as part of preview.
+
+
+
+Google also unveiled its first consumer electronics product, called Google Q, a
+
+ball-shaped Android computer that Google calls the first social media streaming
+
+device. Controlled by Android tablets or smartphone, Google Q has
+
+high-definition interfaces to plug directly into speakers and flatscreen TVs.
+
+It's designed specifically to exploit the content available through Google Play,
+
+the online market for Android content and apps, so you can't stream audio or
+
+video from your Android tablet or smarphone, for example.
+
+
+
+It has a micro HDMI output, an HDMI cable, optical audio port, Ethernet, and
+
+speaker connections; an integrated 25-watt amplifier, Wi-Fi, Bluetooth, and NFC.
+
+
+
+In a demonstration, one user's Google Play library of music and video is
+
+displayed on a TV screen. It streams an audio track to a set of speakers in a
+
+selected room, in this case the living room. Nexus Q is a "cloud-connected
+
+jukebox" - a group of people can add music tracks from their own Google Play
+
+library to a shared queue, from which it can stream to the living room speakers.
+
+Google Q ships in July, with pre-orders staring today.
+
+
+
+
+
+
+
+
+
+LOAD-DATE: July 2, 2012
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2012 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

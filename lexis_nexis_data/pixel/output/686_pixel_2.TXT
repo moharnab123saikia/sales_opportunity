@@ -1,0 +1,100 @@
+                              686 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                           February 14, 2015 Saturday
+
+
+
+US Patent granted to Google Inc (California) on February 10 titled as "Noise
+
+estimation for images"
+
+
+
+LENGTH: 199  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,953,877, on
+
+February 10, 2015, to Google Inc (California), titled as "Noise estimation for
+
+images"
+
+
+
+Inventors:  Babacan; Sevket Derin (San Francisco, CA)
+
+Assignee:  Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Implementations relate to estimating noise in images. In some implementations,
+
+a method includes extracting a plurality of sample blocks of pixels from a
+
+received image, where each sample block includes a subset of pixels of the
+
+image. One or more of the sample blocks are examined for texture content based
+
+on whether the sample blocks include one or more edges based on a predetermined
+
+threshold. At least one sample block determined to include texture content is
+
+removed. The method determines one or more average color variances based on the
+
+remaining sample blocks that have not been removed, where noise estimations for
+
+the image are based on the average color variances."
+
+
+
+The patent was filed on May 14, 2013 Application no. 13/894,364
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: February 16, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2015 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

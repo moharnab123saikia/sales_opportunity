@@ -1,0 +1,208 @@
+                              997 of 997 DOCUMENTS
+
+
+
+
+
+                                  Stock Watch
+
+
+
+                       April 19, 2016 Tuesday 6:30 AM EST
+
+
+
+YouTube to provide 360-degree live streaming and spatial audio on its service
+
+from today
+
+
+
+BYLINE: John DiPietro
+
+
+
+LENGTH: 802  words
+
+
+
+
+
+From today, YouTube will start supporting 360-degree live streaming on its video
+
+sharing service. Also, YouTube will support spatial audio for on-demand YouTube
+
+videos. With this, YouTube has become the first video sharing website to launch
+
+360-degree live streaming and spatial audio at scale.
+
+
+
+Among the first videos to be shown in the more immersive format is this year's
+
+live stream from music event Coachella. Selected performances from the festival
+
+will be live streamed in 360 degrees. During the starting, spatial audio will be
+
+available for on-demand videos and not live videos.
+
+
+
+The feature is limited to Android smartphones used with headphones. Spatial
+
+audio means playing the sounds the same way people actually hear. You Tube
+
+explained that it is about letting you listen as you do in real life. In it,
+
+depth, distance and intensity also play a role, said Neal Mohan, Chief Product
+
+Officer for YouTube.
+
+
+
+Google is already rolling out support for spatial audio elsewhere in its product
+
+line, including for its VR platform, Google Cardboard. You Tube creators said
+
+that all it takes to derive the benefit of the new feature is a camera that
+
+supports the technology.
+
+
+
+You Tube has also announced the support of 1440p 60fps resolution for live
+
+stream on its service. Live streams at 1440p have 70% more pixels than the
+
+standard HD resolution of 1080p. It will not only offer you a great experience
+
+for the live 360 streams, but also benefit video game streams as well. The
+
+second aspect will also benefit You Tube's Twitch competitor, You Tube Gaming.
+
+
+
+No extra technology or headset is required to watch 360-degree live streams, as
+
+they are available on any device, including desktop, tablet, iOS or Android.
+
+This feature makes them more accessible than higher-end VR technologies
+
+currently in development.
+
+
+
+You Tube has been working with camera and software vendors to make support
+
+possible for both 360 live streams and spatial audio.
+
+
+
+According to a report from the TechCrunch, "Google had already been rolling out
+
+support for spatial audio elsewhere in its product line, including most
+
+importantly, for its VR platform, Google Cardboard. In January, it made it
+
+possible for developers to support this option in their own apps, with updates
+
+for the Cardboard SDKs for Unity and Android, for example. So it's not
+
+surprising to see the technology being expanded on YouTube."
+
+
+
+YouTube additionally announced today the support of 1440p 60fps resolution for
+
+live streams on its service. Live streams at 1440p have 70 percent more pixels
+
+than the standard HD resolution of 1080p, to give you an idea of the nature of
+
+this improvement. This not only offers a great experience for the new live 360
+
+streams, which are best enjoyed at high resolutions and high frame rates, but
+
+will benefit video game streams, too. The latter will benefit YouTube's Twitch
+
+competitor, YouTube Gaming.
+
+
+
+In other news TheVerge reported, "Mohan's announcement arrives just one week
+
+after Facebook unveiled its plans for expanding live-streaming and its own
+
+design for a 360-degree camera, although it can't yet support the combination of
+
+live and 360. The two biggest players in online video are racing toward the same
+
+goal: completely immersive entertainment that transports the viewer to another
+
+world. But they are taking strikingly different paths to get there."
+
+
+
+For YouTube, Live 360 content is the gateway drug between what most people watch
+
+today and the immersive era of virtual reality that is just getting underway.
+
+"As a user, you don't need to do anything," says Mohan. Open the YouTube app on
+
+your mobile device or launch it on the web and you're ready to go. "There is no
+
+fancy technology to purchase or integrate." That's a not so subtle jab at
+
+Facebook's Oculus Rift, which offers cutting edge virtual reality, but retails
+
+for $599, not counting the $1,000 gaming PC that powers it.
+
+
+
+In a statement provided to Techspective News, "YouTube announced that it now
+
+supports 360-degree video for live streams, and spatial audio. Both of these
+
+technologies have the potential to fundamentally change the video streaming
+
+experience, and put you in control of experiencing the scene as if you were
+
+physically there."
+
+
+
+"What excites me most about 360-degree storytelling is that it lets us open up
+
+the world's experiences to everyone. Students can now experience news events in
+
+the classroom as they unfold. Travelers can experience faraway sites and
+
+explorers can deep-sea dive, all without the physical constraints of the real
+
+world," proclaimed Neal Mohan, Chief Product Officer for YouTube in a blog post.
+
+"And today's kids dreaming of going to a basketball game or a concert can access
+
+those experiences firsthand, even if they're far away from the court. What were
+
+once limited experiences are now available to anyone, anywhere, at any time."
+
+
+
+LOAD-DATE: April 19, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+          Copyright 2016 Manas Informatics, distributed by Contify.com
+
+                              All Rights Reserved
+

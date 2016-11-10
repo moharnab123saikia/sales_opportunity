@@ -1,0 +1,240 @@
+                              858 of 997 DOCUMENTS
+
+
+
+
+
+                         The Straits Times (Singapore)
+
+
+
+                          November 21, 2012 Wednesday
+
+
+
+First look: Samsung Ativ S
+
+
+
+SECTION: DIGITAL LIFE; Spotlight
+
+
+
+LENGTH: 630 words
+
+
+
+
+
+Battery and storage
+
+
+
+The Samsung Ativ S values practicality over aesthetics in its design. Its
+
+removable case makes it easy for you to replace the battery with a spare should
+
+the juice run dry. It also allows you to insert a microSD card to expand the
+
+phone's storage capacity.
+
+
+
+Speaker
+
+
+
+Unfortunately, the phone's speaker is placed at the rear bottom area. When you
+
+hold the phone, your palm will block the speaker, resulting in muffled audio.
+
+
+
+Placing the phone on the table does not help as the speaker will be firing
+
+downwards onto its surface. Your best bet is to use a pair of wired or
+
+Bluetooth-enabled earphones.
+
+
+
+Display
+
+
+
+Among the Windows Phone 8 line-up of devices, the Ativ S takes the lead with its
+
+massive 4.8-inch display. But with a larger display and a screen resolution of
+
+720 x 1,280 pixels, you get a lower display density of 306 pixels per inch.
+
+Nonetheless, its Super Amoled display technology, which is generally more power
+
+efficient and delivers richer colours, enhances its display prowess.
+
+
+
+Physical buttons
+
+
+
+The power and camera buttons are situated on the right of the device. Locating
+
+them is relatively easy as the buttons are sufficiently raised from the surface.
+
+
+
+Start button
+
+
+
+Unlike most Windows Phone devices, the Samsung smartphone chose to use a
+
+physical key for its Start button, while its back and
+
+search keys remain as touch-sensitive buttons. A physical button is much easier
+
+to click but repeated clicking may result in a damaged button.
+
+
+
+Tips & tricks
+
+
+
+Shared Google calendars
+
+
+
+If you have shared calendars in your Google account, here are some extra steps
+
+to take before they show up on your phone:
+
+
+
+1. Launch Internet Explorer on your Windows phone, then go to M.google.com/sync
+
+and sign in to your Google account.
+
+
+
+2. Select your Windows Phone device. By default, it should be named Windows
+
+Phone.
+
+
+
+3. Select the additional calendars.
+
+
+
+4. Click on the Start button, swipe left and down until you find Settings.
+
+Select Email+Account, press and hold on Google account and select Sync. Your
+
+shared Google calendars will now appear in the Calendar hub.
+
+
+
+Automatic photo upload
+
+
+
+Switch on Automatic Photo Uploads if you want to ensure that your photos are
+
+accessible from your phone and any PC when you log in to your SkyDrive account.
+
+
+
+Be warned that this may also jack up your data usage. If you wish to keep your
+
+data usage in check, keep this function switched off. You can do this via
+
+Settings, then Backup and turning it off in the Photos option.
+
+
+
+Multi-tasking
+
+
+
+As in earlier versions, you activate multi-tasking by holding down the Back
+
+button on your Windows Phone. This will bring up the thumbnails of recently used
+
+apps on your phone.
+
+
+
+Only up to seven apps will be listed, so you will have to go back to your Start
+
+screen to find apps that were opened much earlier.
+
+
+
+Clicking on the back button will let you exit and close an app, allowing another
+
+app to be featured on the multi-task menu.
+
+
+
+Selecting the app in the multi-task menu will bring you back to the exact point
+
+where you left off, so if you were conversing halfway in WhatsApp, it will bring
+
+you back to the conversation.
+
+
+
+However, if you were to return to the Start screen and enter the app, you will
+
+not continue where you left off. This is inconvenient.
+
+
+
+Downloading apps
+
+
+
+Apps and games are deposited quite differently on Windows Phone. All apps are
+
+found under the app list, which is accessed by swiping left on the Start screen.
+
+Games are stored separately under the Games hub, which is also linked to your
+
+Xbox gamertag.
+
+
+
+Apps can also be pushed to your phone via the Windows Phone store website. But
+
+you will need to allow push notifications on your Windows Phone before you can
+
+send apps to that device. Go to Settings, followed by Find My Phone. Select Send
+
+Apps To My Phone Using Push Notifications.
+
+
+
+LOAD-DATE: November 20, 2012
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                Copyright 2012 Singapore Press Holdings Limited
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,324 @@
+                              904 of 997 DOCUMENTS
+
+
+
+
+
+                             Waterloo Region Record
+
+
+
+                           January 16, 2016 Saturday
+
+                                 First Edition
+
+
+
+Google's Kitchener hub impacting lives globally;
+
+Gmail, Chrome, Google Ads, Pixel ... intimately tied to Canadian R&D efforts
+
+
+
+BYLINE: Terry Pender, Record staff, tpender@therecord.com
+
+
+
+SECTION: BUSINESS; Pg. E10
+
+
+
+LENGTH: 1013 words
+
+
+
+
+
+The 350 software and hardware engineers in Google's office in the Breithaupt
+
+Block work on a long list of products that underscore how much the technology
+
+giant has changed since it started out as a search engine 18 years ago.
+
+
+
+The Kitchener office is the centre of the company's research and development
+
+efforts in Canada, and teams here do leading edge work on products used by
+
+billions of people around the world.
+
+
+
+The products developed here, or largely developed here include Gmail, Chrome,
+
+Inbox, the OnHub Wi-Fi Router, Google Ads and Google Fibre, and high performance
+
+tablets and laptops like Google Flip and the Pixel.
+
+
+
+Engineers in Kitchener also develop mobile applications and mobile ads and work
+
+on virtual reality as part of Google Cardboard.
+
+
+
+Gmail is good example of the impact of the engineering and development teams in
+
+Kitchener. The email service is used by more than 900 million people a day, and
+
+75 per cent of them are on mobile devices, said Google engineer Matthew Izatt.
+
+
+
+"So this is a really big product," he said. "The Canadian site is one of three
+
+main engineering sites for Gmail world wide."
+
+
+
+All of the Gmail-related development work for iPhones and iPads was done in
+
+Kitchener.
+
+
+
+"The Gmail app and the Inbox Gmail app are all developed solely in Canada,"
+
+Izatt said.
+
+
+
+More than 100,000 businesses in Canada use Gmail and Google Ads. Many
+
+universities, school boards and cities do as well.
+
+
+
+"The team here is really impactful across both consumers and businesses," Izatt
+
+said.
+
+
+
+Chrome, the open source web browser, was largely developed by Google in
+
+Kitchener. And a team here continues to enhance and expand Chrome products.
+
+
+
+"There are 800 million users searching the Internet on their mobile devices
+
+using Chrome every single day," Alex Nicolaou, engineering director for the
+
+Chrome team, said.
+
+
+
+With the rise of mobile browsing, Nicolaou approached his bosses about forming a
+
+dedicated team.
+
+
+
+That was in 2010. He formed a team with deep expertise in mobile computing and
+
+the touchable web, which involves interacting with information by touching the
+
+screen.
+
+
+
+Google engineers have done their jobs right when you drag your finger across the
+
+screen of Chrome laptops Pixel or Flip and it feels like you are manipulating an
+
+object behind the screen.
+
+
+
+"And that takes a tonne of engineering work," said, Rick Byers, senior software
+
+engineer for the Touch platform.
+
+
+
+Byers and Nicolaou are working to make operating systems disappear. That will
+
+make computers faster and easier to use.
+
+
+
+"So instead of having to worry about bar scanners or software installs or
+
+software updates, all you do is turn it on, you type in what you want, and you
+
+get that from the web," Nicolaou said.
+
+
+
+The developers working on Google Ads in Kitchener have access to one of the
+
+world's largest computer systems. The server infrastructure that keeps Google
+
+Ads working 24-7 is a massive technical challenge. It brings together
+
+advertisers and some of the world's biggest content providers, protects privacy
+
+and keeps other ads off client sites.
+
+
+
+As the capabilities of computers and mobile devices increased the Wi-Fi routers
+
+in homes lagged.
+
+
+
+Frequent interruptions in Internet service were made worse by tiresome reboot
+
+steps. So Google engineers and developers in Kitchener went to work, and created
+
+the OnHub Wi-Fi Router.
+
+
+
+"This is one of the highest performance routers you can buy on the market
+
+today," said Jay Shah, a lead engineer for the OnHub team.
+
+
+
+The software for OnHub learns and adapts the more it is used. With a sleek
+
+design - it has no external antenna - it can be placed out in the open where
+
+Wi-Fi works best.
+
+
+
+Like 60 per cent of the Google engineers working in Kitchener, Shah is a
+
+graduate of the University of Waterloo. He was one of the three founders of
+
+BufferBox, an automated parcel delivery startup that Google acquired for $17
+
+million in 2012.
+
+
+
+"Another cool thing about it is you manage it through an app," said Melissa
+
+Dominguez, an OnHub developer. "We have an Android and iOS app, which we
+
+developed right here."
+
+
+
+Users get real-time information about their Wi-Fi usage on their smartphones.
+
+They also can share their passwords with visitors by sending the information to
+
+their phone instead of looking for a piece of paper that fell off the
+
+refrigerator door.
+
+
+
+Google Fibre is the stuff of near legend, providing ultrafast Internet services.
+
+It starts with a connection that provides Internet service at a speed of up to
+
+1,000 megabits per second. Since it was founded in 2012, Google Fibre has been
+
+rolled out in Austin, Kansas City and Provo, Utah.
+
+
+
+Several other U.S. cities are on the list, but so far there are no plans to
+
+bring Google Fibre to any Canadian cities. That may seem strange when people
+
+learn that a lot of the engineering work for Google Fibre is done in Kitchener.
+
+
+
+Fibre engineers and developers here work on the infrastructure that is needed to
+
+light up a city with super-fast Internet. They also work on expanding
+
+opportunities for Fibre in apartment buildings, small business, school boards
+
+and universities.
+
+
+
+The Google team for FibreTV develops both hardware and software. The network box
+
+that brings the fast Internet into a residence was developed here.
+
+
+
+So was the TV box that connects a TV to the Internet through either the ethernet
+
+of coaxial cable.
+
+
+
+FibreTV is controlled with a traditional remote, or an app on a smartphone.
+
+Users can type in the name of their favourite actor, and every movie that actor
+
+was in will be recorded for your FibreTV. Google HD-DVR can record up to eight
+
+shows at the same time and can hold up to 20 days of HD content.
+
+
+
+With FibreTV you can also watch live TV and on-demand content on mobile devices.
+
+
+
+Steve Woods, the head of engineering for Google Canada, said these products pave
+
+the way into the Internet of Things, the world in which common objects are
+
+connected to the Internet and can communicate with each other.
+
+
+
+"We are interested in hardware and consumers and their homes," Woods said. "So
+
+those give us entry into those product areas and we will experiment. Some things
+
+will launch, some things won't."
+
+
+
+tpender@therecord.com
+
+
+
+LOAD-DATE: January 16, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2016 Metroland Media Group Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

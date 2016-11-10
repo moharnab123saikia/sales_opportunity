@@ -1,0 +1,328 @@
+                              355 of 997 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                     October 5, 2016 Wednesday 08:53 AM EST
+
+
+
+What #MadeByGoogle really means
+
+
+
+BYLINE: Steven Max Patterson
+
+
+
+SECTION: NEWSANALYSIS
+
+
+
+LENGTH: 1315  words
+
+
+
+
+
+Click for image
+
+
+
+Google announced some cool consumer electronics devices at its San Francisco
+
+event yesterday hashtagged #MadeByGoogle: Google Home personal digital
+
+assistant, two new flagship phones under the new Pixel brand, Chromecast Ultra
+
+(capable of 4K video), Google Wi-Fi, and a VR headset for the Pixel phones. The
+
+usual sales channels-Verizon, Best Buy and Google Play-will distribute them.
+
+
+
+It sounds like the consumer electronics business, but it is not.
+
+
+
+Each product is thoughtfully designed with features that appeal to consumers.
+
+But they also enable Google to extend its infrastructure to increase revenues in
+
+existing businesses, to create new lines of business, and in the case of the
+
+Google Home digital assistant, to acquire a deeper understanding of users than
+
+its search engine provides.
+
+
+
++ Also on Network World: Amazon Echo, Google Home and their competitors will be
+
+a $2.1 billion market by 2020 +
+
+
+
+Google's hardware partners in past September announcements would deliver a
+
+complete product that Google would add its name and brand and sell it through
+
+its Play Store and through its channels. Google changed the relationship. Google
+
+engineers sat elbow to elbow with partner engineers, designing and engineering
+
+responsive application-specific devices. In the short term, custom-designed
+
+hardware built for specific applications perform better than commodity hardware.
+
+However, in the longer term, commodity hardware gets faster and less expensive,
+
+eliminating the need for customer hardware.
+
+
+
+Looking at these devices from Google's perspective, the company has a good
+
+reason for its #MadeByGoogle hashtag-to deliver high-performance hardware that
+
+enables Google's services.
+
+
+
+Google Home: Google Home pictured to the left in the photo below is an
+
+attractive, vase-shaped personal assistant that doubles as a streamed music
+
+sound system. Somewhat like Amazon's Alexa, it can answer direct questions based
+
+on the 70 billion entries in Google's knowledge graph ranked internet sites and
+
+interface with home control systems to, for instance, turn on lights when asked.
+
+It can also conversationally clarify a request for action, such as call an Uber.
+
+
+
+Plus, it is the front end to machine learning systems in Google's cloud to
+
+conversationally interact with users. Google Home has to be responsive,
+
+understand what a user said, filter noise from the background, and with very low
+
+latency, send the user's part of the conversation to Google's cloud for
+
+interpretation and a response.
+
+
+
+Google Home is powered by Google Assistant, which also was demonstrated on the
+
+new Pixel phone. Peeling away the layers, there are public machine learning APIs
+
+that let independent developers create their own Google Assistant app. And
+
+finally, underneath all of the layers is the embedded Google Assistant software
+
+developer kit (SDK), due to for release next year, that lets other consumer
+
+hardware makers build Google Assistant features into their products.
+
+
+
+Google CEO Sundar Pichai said Google's intention is to shift from being a
+
+mobile-first company to become an AI-first company. AI-first means humans
+
+interact with machines conversationally, not just with phones. There is no
+
+reason why a conversational agent has to run on one type of device, such as a
+
+Pixel phone or the Home device. Google Assistant could be built into a
+
+refrigerator, a vacuum or a car with the SDK.
+
+
+
+The Home device is a stable, responsive platform. It is better suited as a
+
+personal assistant than a smartphone because it is plugged in, so it is always
+
+ready. And its dedicated hardware makes it responsive to interpreting users'
+
+voices.
+
+
+
+During the Home demonstration, it appeared as though the conversation was taking
+
+place locally. However, it communicated with machine learning systems in
+
+Google's cloud to understand and respond.
+
+
+
+Like Google search uses machine learning to optimize the interpretation of user
+
+searches and rank results learned from search history, Google Assistant running
+
+on Home, Android and elsewhere will learn to respond by better understanding
+
+what the user has asked and better predict the response that best serves the
+
+user.
+
+
+
+If Google Assistant can be optimized to better understand and predict, Google
+
+can use the same technique to predict which ads will appeal to a consumer and
+
+perhaps create new ways to monetize its free services. Home also will learn in a
+
+different context than search: in users' homes. And if it makes itself an
+
+indispensable personal assistant, it will know everything about everyone living
+
+in these homes, improving its ability to predict which ads are most appealing to
+
+users.
+
+
+
+Google Pixel and Pixel XL: These two beautifully engineered phones with a 5-in.
+
+and 5.5-in. screen, respectively, have been optimized to serve two purposes.
+
+First, the Pixel is Google's new entry into the flagship phone race. It has a
+
+smooth, beautifully designed, glass-and-metal housing that looks and feels like
+
+the best flagship phones. Like all flagships, it has an amazing camera that
+
+achieved a top score of 89 from camera researcher DxOMark. And its specs,
+
+reported by GSM Arena, reflect excellent engineering and curation of top-tier
+
+components into a polished device.
+
+
+
+It is also the first Daydream-ready, VR smartphone designed to be inserted in
+
+the Daydream View headset (pictured below). The Pixel design has been optimized
+
+when worn with the Daydream View headset with a very low latency gyroscope and
+
+inertial measurement unit (IMU) to track the user's head movement and a very
+
+fast Qualcomm Snapdragon 821 SoC designed for VR that can render VR video on the
+
+screen that match the user's changing head orientation.
+
+
+
+More engineering and more expensive high-performance components have gone into
+
+the Pixel than would be required even for a flagship to make VR apps perform
+
+well while keeping the price in the flagship price range. A smartphone maker
+
+would not ordinarily pay for more expensive VR-ready components unless they were
+
+investing in a new application like Google is in VR.
+
+
+
+Google Wi-Fi and Chromecast Ultra: These two devices are best explained
+
+together. Home Wi-Fi routers aren't keeping pace with the steadily rising number
+
+of consumer devices in the home that stream audio and video. And they are hard
+
+to set up.
+
+
+
+Google does not want to be a cable company like Comcast, but it does want users
+
+to stream more audio and video content from its Play Store and video content
+
+from YouTube, creating a bigger workload as content shifts from HD to Ultra-HD
+
+4K resolution and 3D VR video. For most consumers, buying the right routers,
+
+configuring them and setting them up, and placing them throughout the home to
+
+provide a strong, evenly distributed Wi-Fi signal is beyond their skill levels.
+
+
+
+Google's Wi-Fi business model differs from that of a typical router company that
+
+tries to make a small profit in the cutthroat router market. Google has an
+
+incentive to solve the setup, configuration and signal distribution problem for
+
+the consumer because a better, faster and evenly distributed Wi-Fi signal will
+
+enable users to stream video and audio, as well as stream YouTube where its
+
+margins are much greater compared to routers.
+
+
+
+Google Wi-Fi automatically configures multiple access points. Network management
+
+by its smart Network Assist automatically helps avoid Wi-Fi congestion and
+
+transitions the user to the closest Wi-Fi point for the best signal.
+
+
+
+Chromecast Ultra fits into this network scheme. It is almost twice as fast as
+
+the second-generation Chromecast, and it supports streaming of 4K video to the
+
+latest high-resolution TVs and Daydream VR headsets.
+
+
+
+Google doesn't want to be Apple or Comcast. It wants billions of users to spend
+
+more time in front of every type of screen and immersed in VR consuming its
+
+content. Right now, the hardware needs to be optimized for this task. If
+
+successful, many consumer device makers will build devices like these to expand
+
+Google's ecosystem.
+
+
+
+LOAD-DATE: October 6, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                 Copyright 2016 International Data Group, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

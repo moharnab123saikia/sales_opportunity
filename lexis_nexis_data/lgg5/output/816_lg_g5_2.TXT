@@ -1,0 +1,5884 @@
+                              816 of 820 DOCUMENTS
+
+
+
+           Copyright (c) 2014 I/S: A Journal of Law & Policy for the
+
+                              Information Society
+
+          I/S: A Journal of Law and Policy for the Information Society
+
+
+
+                                  Winter, 2014
+
+
+
+          I/S: A Journal of Law and Policy for the Information Society
+
+
+
+                                  9 ISJLP 531
+
+
+
+LENGTH: 21366 words
+
+
+
+SYMPOSIUM: COMPETITION & INNOVATION IN THE BROADBAND AGE: Market Definition
+
+Analysis in Latin America with Applications to Internet- Based Industries
+
+
+
+NAME: David S. Evans* and Elisa V. Mariscal**
+
+
+
+BIO: * Evans is Founder, Market Platform Dynamics; Lecturer, University of
+
+Chicago Law School; Executive Director, Jevons Institute for Competition Law and
+
+Economics and Visiting Professor, University College London
+
+(devans@marketplatforms.com).
+
+
+
+
+
+** Mariscal is Managing Director, Market Platform Dynamics; Visiting Professor,
+
+Centro de Investigaci n y Docencia Econ micas (CIDE) and Lecturer Instituto
+
+Tecnol gico Aut nomo de M xico (ITAM) (emarsical@marketplatforms.com). We would
+
+like to thank Alexis Pirchio for excellent research help and Google for research
+
+support. We retain sole ownership of any errors.
+
+
+
+LEXISNEXIS SUMMARY:
+
+ ... The consumers who are most likely to switch are "marginal consumers" who
+
+were already predisposed to consider other products because they view them as
+
+good substitutes.  ... Nonetheless, CADE, who as we mentioned has not formally
+
+adopted these guidelines to date, has noted in its resolutions the importance of
+
+considering competitive constraints, noting that firms that are followed or
+
+observed by other suppliers and by consumers in their negotiations to determine
+
+prices and establish commercial conditions, must be included in the relevant
+
+market. .  ... To illustrate the importance of competitive constraints in the
+
+analysis of markets and power in internet-based industries we use the
+
+Microsoft/Skype decision, which illustrates the types of questions that ought to
+
+be posed and answered by an authority when investigating anticompetitive
+
+practices or mergers in these industries-we do not, of course, mean to judge
+
+this decision as a whole.  ... Even with the total time spent by internet users
+
+on the web increasing by nearly a factor of five over this period, the 85
+
+percent of attention losing websites in the top 15,000 in September 2002,
+
+managed to lose a total of 460 million of hours by September 2012.  ... However,
+
+because they are software-based media properties, these attention rivals can
+
+engage in highly targeted advertising that is customized to the person viewing
+
+the advertisement.  ... and Twitter illustrates, the fact that ads in one firm
+
+are displayed and look different than they do in the other, does not mean that
+
+the entry of one rival into the market (Twitter) cannot divert marginal
+
+consumers from one firm to the other-going back to our best practices
+
+lexicon-and therefore can effectively constrain competition for Yahoo!  ...
+
+Focusing on competition between specific products and services, rather than
+
+attention, could result in competition authorities and courts making either
+
+false- negative or false-positive errors in their decisions.  ... For example, a
+
+number of transactions involved vertical integration between Internet access
+
+providers and online content producers; others involved horizontal acquisitions
+
+either in the jurisdictions themselves or elsewhere but with effects in Latin
+
+American countries; some of these involved online businesses, others mergers of
+
+online and offline businesses.  ... Analyses based on functional equivalence
+
+among services are wrong as attention rivals impose competitive constraints on
+
+each other across boundaries defined by the products and services they provide
+
+to consumers and advertisers.
+
+
+
+
+
+
+
+HIGHLIGHT:
+
+Abstract: There has been a surge of recent antitrust cases involving Internet-
+
+based industries around the world, including in Latin America. These types of
+
+industries present special challenges for authorities, as their analysis
+
+requires an understanding of the fast-paced, innovative, and multi-sided nature
+
+of these businesses. In this paper we present methods and techniques for market
+
+definition and power analysis which emphasize the need to focus on competitive
+
+constraints rather than structural or functional characteristics of products and
+
+services-a particularly relevant issue in Internet-based industries. We next
+
+explore whether the legal frameworks of Argentina, Brazil, and Mexico can
+
+accommodate this type of analyses. Our focus then shifts to how competition
+
+takes place in Internet-based industries; we describe how firms vie for consumer
+
+attention and provide this attention to advertisers and developers using the
+
+concept of "attention rivalry." Taking this theoretical background into account,
+
+we pose the question of whether the three largest Latin American economies have
+
+the tools, legal ability, and expertise to undertake these types of complex
+
+analyses. We use cases to illustrate where they have done so, and review the
+
+most relevant work they have undertaken in Internet- based industries since
+
+2000. In our view, nothing prevents competition agencies in these countries from
+
+conducting the correct economic analyses.
+
+
+
+TEXT:
+
+ [*532]
+
+
+
+   I. INTRODUCTION
+
+
+
+
+
+   Antitrust has expanded rapidly in Latin America over the last two decades as
+
+a result of economic development in a number of countries, and the effort to
+
+open up to competition former public monopolies, such as telecom and
+
+electricity, and to modernize regulatory institutions charged with overseeing
+
+them. These efforts have been part of a push to change the drivers of economic
+
+growth from those that emphasized the government's role in leading the economy
+
+to one that considers market- based competition to be best in spurring economic
+
+performance. By the end of 2012, seventeen of the twenty Latin American
+
+countries had competition laws and authorities in place to enforce them. The
+
+first country that adopted a modern competition law was Chile in 1973, but since
+
+then the remaining authorities have adopted new laws, with the Dominican
+
+Republic being the most recent one in 2008. Tellingly, the current head of the
+
+International Competition Network is the President of the Mexican Federal
+
+Competition Commission.
+
+
+
+
+
+   As with many countries, the practice of competition law enforcement is a work
+
+in progress in Latin American countries. Competition authorities and courts are
+
+developing best practices often by adapting methods that have been refined in
+
+other jurisdictions to their national contexts. The purpose of this paper is to
+
+gauge whether there is room in the current legislations for following some of
+
+these best practices for defining markets, and analyzing market power, in merger
+
+and monopolization cases, and to highlight their importance when studying
+
+Internet-based industries. Market definition and market power are usually the
+
+foundations on which merger and monopolization analyses are based. Getting this
+
+part of the analysis correct is therefore essential.
+
+
+
+
+
+   Some of the most complex applications of antitrust analysis concern Internet-
+
+based industries. These industries pose challenges to the traditional analysis
+
+of market definition and market power in part because they are highly dynamic
+
+and the boundaries between products are typically fluid. n1 In Latin America, as
+
+in most other parts  [*533]  of the world, Internet-based industries have become
+
+increasingly important in the economies. Around twenty years after the birth of
+
+commercial Internet the pace of change is accelerating as a result of greater
+
+access to the Internet. A key contributor to this acceleration has been the
+
+deployment of smart mobile devices and applications that run on these devices,
+
+which are connected to the Internet. n2 For this reason, to illustrate best
+
+practices in a complex, fast changing and innovative environment, this paper
+
+focuses on the analysis of market definition and power in Internet-based
+
+industries for the three Latin American economies that have already begun to
+
+review and investigate these industries: Argentina, Brazil, and Mexico.
+
+
+
+
+
+   The paper is organized as follows. Section I describes methods and techniques
+
+for market definition and market power analysis. The section is meant to provide
+
+background on the type of analyses based on international best practices that
+
+are currently being undertaken by different authorities. It is based in part on
+
+guidelines the authors developed for Mexico. n3
+
+
+
+
+
+   The next section looks at the legal frameworks underlying relevant market and
+
+market power determination in the three largest Latin American countries. We
+
+also look at how relevant market guidelines for each of these countries support
+
+or expand on the elements included in the laws. There is a tendency particularly
+
+in less mature agencies-not required by the law and unfounded in economic
+
+principles-to use mechanical approaches to market definition and market power.
+
+In this, Latin America is not unique, as actual and best practices will
+
+sometimes deviate.
+
+
+
+
+
+   Section III then turns to market definition in Internet-based industries. It
+
+focuses on market definition for a class of Internet-based firms that we call
+
+"attention rivals". These firms vie for the time of consumers and then direct
+
+some of that attention to advertisers. The competitive constraints for attention
+
+rivals comes from other attention rivals regardless of whether they are offering
+
+the same product or service. That, in part, is the explanation for the fact that
+
+it  [*534]  is widely perceived that Amazon, Apple, Facebook, and Google are
+
+each other's most significant rivals even though each specializes in very
+
+different products and services. The section concludes with a discussion of the
+
+European Commission's decision approving Microsoft's acquisition of Skype-an
+
+example that used most of the principles we outline throughout this paper.
+
+
+
+
+
+   Section IV poses the question as to whether Latin America's antitrust
+
+authorities in its three largest economies have the technical know-how,
+
+experience, and the operate under a sufficiently flexible legal framework-which
+
+we review in detail in section II-to apply best practices and undertake complex
+
+analyses in internet-based industries. In this section we begin by addressing
+
+the issue of experience in undertaking complex analyses by presenting examples
+
+of casework, unrelated to Internet-based industries, for each country where
+
+authorities have used some of the principles we outlined in section II. We then
+
+summarize the types of Internet-based cases that have historically come up in
+
+these jurisdictions since 2000. Although the degree of complexity of these cases
+
+has not yet required the tools and analyses we discuss here, in our opinion,
+
+there is a good possibility that authorities will be in a position to apply
+
+these tools to future Internet-related cases.
+
+
+
+
+
+   II. BEST PRACTICES FOR MARKET DEFINITION AND MARKET POWER
+
+
+
+
+
+   The purpose of market definition is to identify the competitive constraints
+
+on the supplier of the product under consideration - the market forces that
+
+reduce the profitability of raising prices above competitive levels or lowering
+
+quality. If the buyers of a particular product from firm A can realistically
+
+only turn to firm B if firm A raises its prices substantially, for instance,
+
+then B provides the only competitive constraint on A. In general, the strength
+
+of the competitive constraints determines whether practices engaged in by the
+
+supplier of the product under consideration, or the combination of two or more
+
+suppliers, could harm competition and consumers. For example, it is unlikely
+
+that the merger of two firms could harm competition if consumers could turn to
+
+many alternative and comparable suppliers. Those firms, once merged, would not
+
+be able to raise prices because consumers would simply buy elsewhere.
+
+
+
+
+
+   Market definition is closely related to the assessment of market power. n4
+
+Market power concerns the ability of a supplier of a product to  [*535]  charge
+
+prices that are significantly higher than those that would occur under perfect
+
+(i.e., very intense) competition. Most businesses have some market power;
+
+business practices are anticompetitive only when engaged in by those with
+
+substantial market power (with the exception of hardcore cartel behavior, of
+
+course). A particular business practice, such as entering into exclusive
+
+contracts, could harm competition if the supplier has substantial market power
+
+but could be benign if the supplier does not have such power. Likewise, a merger
+
+of two firms could only result in higher prices if the concentration results in
+
+the merged firm having significantly greater market power than either firm had
+
+alone. Market definition is the first step in assessing market power; it
+
+identifies the sources of competitive constraints that determine the degree of
+
+power that a supplier (or a combination of suppliers) likely has. The weaker the
+
+competitive constraints a firm faces, the greater its market power.
+
+
+
+
+
+   Market definition is not, however, an end in itself. This analytical device
+
+is useful only to the extent that it assists in assessing the competitive
+
+constraints that are relevant for the matter under consideration. In fact, the
+
+assessment of the relevant market could lead to significant error if it resulted
+
+in ignoring competitive constraints, as this could lead to the false conclusion
+
+that practices are harmful to competition, or if it resulted in exaggerating
+
+competitive constraints, as this could lead to the false conclusion that the
+
+practices are lawful.
+
+
+
+
+
+   Several practices are advisable to minimize errors in market definition. We
+
+list these as recommendations next.
+
+
+
+
+
+   A. Identifying Competitive Constraints
+
+
+
+
+
+   1. Always Come Back to Competitive Constraints
+
+
+
+
+
+   Since the ultimate purpose of the analysis of market definition and power is
+
+to assess competitive constraints it is important that the analysis of the
+
+relevant market and market power accurately reflect these constraints.
+
+Therefore, best practice requires that each of these competitive constraints-or
+
+lack thereof-are carefully considered in the analysis.
+
+
+
+
+
+   There are several key competitive constraints that could limit the ability of
+
+the supplier of the product at issue to make changes that are adverse to the
+
+interest of consumers. Assessing whether a merger or competitive conduct harms
+
+consumers often requires the balancing of positive and negative effects,
+
+including price, quality, and the rate of innovation. It is important to focus
+
+on "net" changes since is it possible that price could increase but that
+
+consumers would be better off because the quality of the product more than
+
+compensates for the  [*536]  increase in price; or that price could fall but not
+
+enough to compensate for reductions in quality or other factors. In such an
+
+assessment, key competitive factors include:
+
+
+
+
+
+   Demand substitutability. Could consumers turn to other products so that an
+
+adverse change by the producer would result in consumers reducing consumption of
+
+its product in favor of other products?
+
+
+
+
+
+   Switching costs. Can consumers readily switch to an alternative product or do
+
+they incur costs that would make them captive to the supplier at issue?
+
+
+
+
+
+   Multihoming. Do consumers have ready access to several alternative versions
+
+of a product or service so that they could easily switch from one version if it
+
+imposed adverse conditions? The concept of multihoming is particularly relevant
+
+when consumers make sequential decisions to "join" a service (e.g., a particular
+
+type of payment card) and "use" the service (e.g., using a type of card
+
+available to pay a merchant).
+
+
+
+
+
+   Supply substitutability. Could other producers of substitute products expand
+
+output to avail themselves of increased demand by consumers for alternatives to
+
+the product at issue?
+
+
+
+
+
+   Entry. Could new firms enter in competition with the supplier of the product
+
+at issue or could existing firms switch production capacity to supply substitute
+
+products?
+
+
+
+
+
+   Innovation. Does incremental or drastic innovation occur rapidly enough to
+
+either make significant market power temporary or to force the supplier at issue
+
+to both improve its product and limit any adverse changes?  [*537]
+
+
+
+   Buyer power. Do buyers of the product at issue have significant market power
+
+that could prevent or limit the supplier of the product at issue from making
+
+adverse changes?
+
+
+
+
+
+   Complementary products. Does the supplier at issue supply complementary
+
+products whose demand, and profitability, would fall if it made adverse changes?
+
+A special case of this involves multi-sided platforms that serve as
+
+intermediaries between multiple customer groups. An adverse change to consumers
+
+on one side would reduce the value received and the price paid on the other
+
+side.
+
+
+
+
+
+   Regulation. Do regulatory constraints limit the ability of the supplier at
+
+issue to make adverse changes? Alternatively do regulatory constraints limit the
+
+ability of new firms to enter the market or expand output?
+
+
+
+
+
+   Unfortunately, through statutes, case law, or actual practice by enforcement
+
+agencies, some jurisdictions have adopted approaches that limit the ability to
+
+consider some of these constraints in defining the relevant market. Moving
+
+toward best practice requires the consideration of these constraints as part of
+
+the assessment of market power and whether the conduct at issue harms consumers.
+
+Errors arise when the analysis ignores one or more of these constraints in the
+
+market definition exercise and then refuses to consider them, or treats them in
+
+passing, in the remainder of the analysis. Failure to properly weigh these
+
+competitive constraints not only causes mistakes in market definition; it
+
+encourages parties to a dispute to believe that whoever wins the market
+
+definition battle will win the war and thereby puts undue emphasis on market
+
+definition.
+
+
+
+
+
+   2. Focus on "Marginal" Consumers
+
+
+
+
+
+   The basic question that motivates the assessment of market power is whether
+
+enough consumers would switch to substitute products in response to a price
+
+increase by a supplier of the product under consideration to make the price
+
+increase unprofitable. The consumers who are most likely to switch are "marginal
+
+consumers" who were already predisposed to consider other products because they
+
+view  [*538]  them as good substitutes. If there are enough of these consumers
+
+who would switch then the price increase would not be profitable. Identifying,
+
+measuring, and estimating the behavior of these marginal consumers is critical
+
+to best practice market definition.
+
+
+
+
+
+   Figure 1
+
+
+
+    [figure]
+
+
+
+
+
+   Figure 1 above illustrates this point by considering the case where every
+
+consumer buys at most one unit, a reasonable approximation for some
+
+durable-goods markets (e.g., central air conditioners or washing machines).
+
+Consumers are, in effect, listed on the demand schedule at the point
+
+corresponding to the most they would be willing to pay for the good. The diagram
+
+shows the case where a 5 percent price increase results in a 20 percent decrease
+
+in the quantity demand, as a result of there being a significant number of
+
+consumers at the margin between wanting to buy the product in question rather
+
+than substitute products. Once the price goes up, they switch.
+
+
+
+
+
+   A common mistake in the analysis of market definition and market power is to
+
+focus on what the "typical" or "average" consumer would do. The typical or
+
+average consumer may not in fact switch to substitute products when a supplier
+
+increases its price. That is the case shown in Figure 1. But it usually is not
+
+the average consumer who determines whether a supplier can profit from a price
+
+increase. So long as there are enough consumers "at the margin" between the
+
+supplier's product and alternatives, the price increase cannot result in greater
+
+profits. Suppose, for example, that a firm has variable cost per unit of $ 5 and
+
+would sell 100 units at a price of $ 10 for a profit, before  [*539]  fixed
+
+costs, of $ 500. (This may or may not be enough to cover fixed costs, of
+
+course.) Suppose 80 percent of consumers would buy from this supplier even with
+
+a small price increase of say $ 1, so that the "typical" consumer will not
+
+switch in response to this price change. But suppose that 20 percent are
+
+extremely price sensitive, so that if this firm raised its price to $ 11, all
+
+would switch to another product. That would reduce sales to 80 units and reduce
+
+profit before fixed costs to $ 480, making the price increase unprofitable. For
+
+details of how to analyze this in practice, see Section III below. n5
+
+
+
+
+
+   When there is product differentiation, which is present in most real-world
+
+markets, there may be discrete categories of consumers that will switch from a
+
+product in question at various price points or based on particular product
+
+attributes. Depending on what the price is, and how much it is changing, many or
+
+a few consumers might switch in response to a price change. Understanding how
+
+the market is segmented is important in these cases. For example,
+
+telecommunications cases have often brought up the question of whether fixed and
+
+mobile phones are substitutes and whether price changes would entice consumers
+
+to switch from one to the other. Although, for some consumers, phones-whether
+
+fixed-line or mobile-may represent a means of voice communication, in reality
+
+the ability to communicate by voice "on the move" using the latter means that
+
+for mobile phone consumers, a fixed- line phone is probably not a good
+
+substitute even ignoring the other features that mobile phones provide; the same
+
+of course is not true for fixed-line phones for which a mobile phone may well be
+
+a good substitute. In both cases, it is the number of consumers who would likely
+
+switch (the marginal consumers) that will determine whether these products are,
+
+or are not, good substitutes.
+
+
+
+
+
+   3. Use the Right Basis for Assessing Competitive Constraints
+
+
+
+
+
+   One of the consequences of a firm already having significant market power is
+
+that the firm may have raised the price so much that marginal consumers might
+
+have already switched to poor substitutes. This is the well-known cellophane
+
+paradox based on a US case. n6 The cellophane producer had raised prices so high
+
+that the marginal consumers considered paper and other methods for covering food
+
+as  [*540]  alternatives. The only reason these products were substitutes is
+
+because the firm had exercised market power. The cellophane paradox highlights
+
+the fact that the analysis of market definition and market power needs to be
+
+careful about the vantage point from which it is assessing market power.
+
+
+
+
+
+   In a monopolization matter, the relevant question ordinarily concerns whether
+
+the party at issue in the case has significant market power. For this purpose
+
+the question is whether it is currently able to adopt pricing and related
+
+policies that differ significantly from what a competitive firm would do. Thus,
+
+the benchmark for assessing competitive constraints is the constraints that
+
+would limit a competitive producer of the product. In particular, the relevant
+
+demand-side substitutes are the ones that consumers would consider if price were
+
+increased from the competitive level.
+
+
+
+
+
+   In a merger matter, by contrast, the relevant question concerns whether the
+
+merging parties could, through their combination, make things worse for
+
+consumers. In this case the relevant question is whether, given the state of the
+
+industry today, competitive constraints would limit the merging parties from
+
+raising prices. The fact that either or both merging parties have significant
+
+market power does not affect the analysis since for the purposes of a merger
+
+review competition law usually accepts the market as it is now. It is only the
+
+worsening of market conditions that causes antitrust concerns. So here, the
+
+relevant demand-side substitutes are the ones that consumers would consider if
+
+prices were increased from the current level even if the current level is not
+
+competitive.
+
+
+
+
+
+   4. Recognize that No Real Competitive Market Looks Like Textbook Competition
+
+
+
+
+
+   There are two features of real-world competitive markets that competition
+
+analysis needs to account for.
+
+
+
+
+
+   First, almost all real-world markets involve products and services that are
+
+differentiated from each other. Consumers have different preferences for
+
+products and services and different needs depending on their circumstances.
+
+People even of the same income like different kinds of beer and different types
+
+of cars. There is therefore a market opportunity to cater to these preferences
+
+and needs. Businesses respond to these market opportunities by creating
+
+different types of products and coming up with innovations that will appeal to
+
+particular people. Businesses have strong incentives to exploit the differences.
+
+There are usually limited profit opportunities in producing the same product and
+
+service as everyone else. Therefore, hardly anything is a perfect substitute for
+
+anything else. But many  [*541]  products are imperfect substitutes and these,
+
+individually or collectively, could constrain the ability of a firm to impose
+
+adverse conditions on consumers.
+
+
+
+
+
+   Second, most seemingly competitive real-world industries do not, and cannot,
+
+operate at the point where price equals marginal cost-the equilibrium that
+
+maximizes welfare in the standard model of perfect competition used by
+
+economists. n7 The reason is that most firms incur fixed costs including the
+
+fixed costs of establishing the business in the first place. To recover these
+
+fixed costs, and therefore earn at least a competitive return on their capital,
+
+they have to charge prices that are in excess of marginal cost; that is they
+
+must have a positive operating margin to cover their costs. Many firms in
+
+seemingly competitive industries engage in value pricing-that is price
+
+discrimination-to earn enough profit from various subsets of consumers to cover
+
+their fixed costs of production.
+
+
+
+
+
+   5. Collect Evidence from Multiple Sources
+
+
+
+
+
+   In practice, competition policy analysis seldom has available conclusive
+
+evidence. Most types of evidence are subject to frailties or open to
+
+interpretation. By combining multiple sources of evidence, however, it is
+
+possible to reach more robust conclusions. Key sources of evidence include:
+
+
+
+
+
+   Interchangeability information. Do consumers switch between products based on
+
+common knowledge? That is, are there documents, studies or other evidence that
+
+would provide information on the relative ease or difficulty of adopting
+
+different technologies or switching to alternative products? Is this a simple
+
+process or does it require specialized knowledge or learning? Do all consumers
+
+or only some consumers do this? This may help focus the analysis on the marginal
+
+consumer.
+
+
+
+
+
+   Company records on competitors. Who do company executives say they compete
+
+with? Sales force documents, minutes of meetings among senior management,
+
+securities filings,  [*542]  and public documents such as those provided to
+
+investors may say. Especially when produced in the normal course of business
+
+such evidence is highly informative.
+
+
+
+
+
+   Win-loss sales reports. What do company sales records show about who they win
+
+sales from and who they lose sales from most frequently (particularly important
+
+for business to business, or B2B). This is particularly strong evidence on who
+
+effectively constrains a company in the marketplace.
+
+
+
+
+
+   Customer surveys. These are surveys whose questionnaires have been designed
+
+to obtain an insight into consumer reactions to price increase. They ask
+
+consumers what products they would switch to if prices went up. They also allow
+
+to better focus on marginal vs. average consumers.
+
+
+
+
+
+   Statistical estimates. Conduct statistical analysis of historical data on
+
+prices and demand. Historical analysis can prove useful in determining whether
+
+recent price information is indeed the right basis for assessing competitive
+
+constraints, nevertheless, even what economists note as "data regularities" may
+
+not necessarily be regular and additional evidence is also beneficial.
+
+
+
+
+
+   Natural experiments. Compare demand patterns between different places with
+
+different prices. These types of analyses are very useful provided that
+
+allowances are made for variables that can capture and isolate differences not
+
+solely explained by price variations.
+
+
+
+
+
+   Standard tests used to analyze mergers and antitrust cases, with a particular
+
+focus on price. Hypothetical monopolist test or small but significant and non-
+
+transitory increase in price  [*543]  (SSNIP) test. We would caution on the use
+
+of these tests, however, as they tend to focus on price competition only, and
+
+ignore other dimensions of competition that are relevant to a firm's business.
+
+
+
+
+
+   We now look at the underlying legal institutions as well as the case law,
+
+which governs competition determinations in the three largest Latin American
+
+economies. We seek to determine whether these best practices are either
+
+explicitly mentioned or whether there are legal impediments to their
+
+application.
+
+
+
+
+
+   III. CASE LAW AND DECISIONAL PRACTICE IN LATIN AMERICA
+
+
+
+
+
+   It is widely recognized among antitrust authorities and practitioners that
+
+competition analysis needs to incorporate economic thinking in decisions.
+
+Furthermore, there needs to be a flexible approach in employing economic tools
+
+to diverse industries, and to accommodate technological change. The recent
+
+Organisation for Economic Co-operation and Development (OECD) Roundtable
+
+discussions on Market Definition, n8 for example, note the importance of
+
+recognizing the existence of multiple methods to arrive at an answer for the
+
+main goal of market definition: to capture competitive constraints faced by a
+
+firm as accurately as possible.
+
+
+
+
+
+   Over the last 25 years, many jurisdictions around the world have made an
+
+effort to modernize their approach to antitrust. It began in the US in the
+
+mid-1970s, when courts began incorporating economic analysis into their
+
+decisions, and was continued and deepened as authorities issued the 1982 merger
+
+guidelines. In Latin America, this effort to make transparent its use of
+
+economic tools in antitrust analysis is just underway, with the publication of
+
+guidelines starting in the late 1990s. It is not a simple undertaking.
+
+
+
+
+
+   Modernizing antitrust can be a more challenging exercise in countries with
+
+civil law traditions that tend to have hierarchical laws each with a precise
+
+interpretation mostly based on the letter of the law and not always its intent.
+
+Changes to the interpretation of this vast body of laws very often require a
+
+redrafting of the statutes by the legislative branch. It is particularly
+
+challenging in countries whose  [*544]  legal systems have tended to be
+
+particularly formal, or whose judges are not entirely attuned to a subject so
+
+intricately related with economics. Nevertheless, Latin America can look to
+
+other jurisdictions for some direction. In the US and the EU there has been a
+
+push for more economic thinking, particularly in merger cases. n9 Both these
+
+jurisdictions have followed up by modernizing their approaches to market
+
+definition through guidelines, and/or notices and regulations that have inserted
+
+economic thinking into decisions.
+
+
+
+
+
+   With rapid technological advances revolutionizing many industries, it is
+
+critically important to modernize antitrust analysis. Internet, mobile, and
+
+other technological changes have made traditional formalistic methods obsolete,
+
+as these were designed for industrial settings that were fundamentally different
+
+from the dynamic and fluid industries that authorities are increasingly
+
+addressing in mergers or conduct cases. There is a clear recognition of this
+
+among most mature competition agencies around the world, as emphasized in the
+
+OECD discussion paper cited above.
+
+
+
+
+
+   By reviewing the legal frameworks of Argentina, Brazil, and Mexico in this
+
+section, we make a case that there is nothing holding back Latin American
+
+countries from following the modernization efforts of other jurisdictions. In
+
+fact, some of these countries are taking such steps already. In Section IV, we
+
+use some recent technical decisions by the three authorities regarding mergers
+
+and anticompetitive practices to illustrate the application of economic tools to
+
+antitrust cases.
+
+
+
+
+
+   A. Competition Law Framework in Argentina, Brazil, and Mexico
+
+
+
+
+
+   1. Argentina
+
+
+
+
+
+   Argentina's enabling statute is its 1980 Law 22,262, which was subsequently
+
+modified in 1999 with Law 25,156. The 1980 law was largely based on Articles 85
+
+and 86 (now Articles 101 and 102 TFEU) of European Union's Treaty of Rome, thus
+
+prohibiting price fixing agreements (cartels) and banning abuse of dominance
+
+(unilateral practices). n10 Merger control was not introduced until 1999 with
+
+the new law.
+
+
+
+     [*545]
+
+
+
+   This law created the National Commission for the Defense of Competition,
+
+under the jurisdiction of the Ministry of Commerce and International Economic
+
+Negotiations, which subsequently rendered a final decision. The 1999 law created
+
+an autonomous National Tribunal for the Defense of Competition with the
+
+authority to resolve cases and impose remedies and fines; the Tribunal has not
+
+yet been created.
+
+
+
+
+
+   Meanwhile, all decisions by administrative authorities can be challenged
+
+before courts in the federal system. Most appeals are heard before the Federal
+
+Civil and Commercial Court of Appeals in Buenos Aires, which is a
+
+quasi-specialized court, but not specialized in competition matters. n11 Its
+
+decisions can be further appealed to the Supreme Court. Although the legal
+
+system does not create binding precedent, cases decided by the courts,
+
+especially the Supreme Court, do have practical effects on antitrust decisions.
+
+
+
+
+
+   2. Brazil
+
+
+
+
+
+   Brazil's first competition law was enacted in 1962 (Law 4137-62). The law was
+
+subsequently reformed in 1994 (Law 8884/94) and more recently in 2011 (Law
+
+12,529/12). n12 The new statute considers violations of the law cartels (article
+
+36, paragraph 3), and various unilateral and concerted actions (also within the
+
+purview of article 36), noting more generally that any actions which limit or
+
+restrict competition, control markets, arbitrarily increase profits, or
+
+constitute an abuse dominant position are economic violations under the law. The
+
+law prohibits mergers that eliminate competition in a substantial portion of the
+
+relevant market or that enhance a position of dominance in a relevant market.
+
+The biggest change in the new law relates to merger review. The previous law had
+
+language that would apparently require all agreements, not just mergers, to be
+
+reviewed; this is clarified under the new law, which also streamlines review
+
+[*546]  procedures and updates thresholds (Title VII, Chapter I, articles 88-
+
+91). n13
+
+
+
+
+
+   In Brazil, the law that created the current competition authority, the
+
+Administrative Council for Economic Defense (CADE), was enacted before the
+
+1990s. The 1962 Law 4137/62 created CADE and up until 2011, CADE shared
+
+competition enforcement responsibilities with the Secretariat of Economic Law of
+
+the Ministry of Justice (SDE) and the Secretariat for Economic Monitoring of the
+
+Ministry of Finance (SEAE). The new law establishes that the Brazilian
+
+Competition Defense System is made up of CADE and SEAE. n14 It transfers SDE's
+
+investigative and preliminary enforcement responsibilities to a new CADE
+
+Superintendent, and terminates SEAE's advisory role in conduct and merger
+
+investigations. The new law grants CADE judicial powers and makes it a federal
+
+agency that depends on the Ministry of Justice, but continues SEAE's competition
+
+advocacy responsibilities.
+
+
+
+
+
+   An internal appeal exists before CADE's Plenary and is then appealed before
+
+courts. Courts are a significant source of delay in CADE's decisions. Federal
+
+courts of first instance hear appeals, with a second appeal from regional courts
+
+of appeals and then the Supreme Court of Justice. Cases involving claims of
+
+unconstitutionality may be appealed beyond the Superior Court of Justice to the
+
+Supreme Federal Court. Even though judges are not obligated to follow higher
+
+court decisions, they have begun to do so. Generally, the merits of the
+
+decisions are currently left to specialized tribunals such as CADE.
+
+
+
+
+
+   3. Mexico
+
+
+
+
+
+   Mexico's first prohibition of monopoly comes from its 1857 Constitution. n15
+
+With no legislation to make this prohibition effective, competition policy did
+
+not really exist until 1993, when it was adopted  [*547]  as part of the
+
+conditions for the signing of the North American Free Trade Agreement (NAFTA).
+
+The Federal Law for Economic Competition (LFCE), n16 largely inspired by US
+
+statutes, has been praised for its simplicity and breadth by the OECD in its
+
+2004 review, n17 but it has proven to be difficult to understand for courts and
+
+practitioners, because of the widespread use of economic concepts throughout it.
+
+The law divides conduct into two types: those that ought to be reviewed under a
+
+per se standard, and those that ought to be reviewed under a rule of reason
+
+standard. Cartels lie in the first category ("absolute monopolistic practices"),
+
+and all other conduct that must be analyzed under a rule of reason
+
+standard-including unilateral conduct-under the second type ("relative
+
+monopolistic practices"). Merger review was also included in the original law,
+
+with thresholds pegged to minimum wages to ensure that these are in line with
+
+current economic conditions.
+
+
+
+
+
+   The law created the Federal Competition Commission (CFC) as a technically
+
+autonomous agency, dependent in its budget on the Ministry of the Economy. It is
+
+responsible for enforcing the law and has other attributions outside the LFCE
+
+and noted under laws in regulated sectors, mainly overseeing competition
+
+conditions in regulated sectors that, if absent, may trigger price regulation
+
+imposed by sectoral regulators. It can also give binding opinions in certain
+
+public tender processes and administrative bills, which can only be overturned
+
+by a Presidential veto.
+
+
+
+
+
+   During its initial years the CFC's decisions were subjected to an avalanche
+
+of appeals before the courts. Economic agents not only appealed decisions, but
+
+also every single administrative act through district judges, appellate
+
+tribunals, and the Supreme Court. In its decisions, the courts have made clear
+
+that the use of economic terminology in the law is constitutional. To strengthen
+
+the CFC, there have been two reforms to the law, in 2006 and 2011, mostly
+
+granting the CFC additional powers, streamlining its merger procedures, allowing
+
+for a leniency program (to incentivize self-reporting of violations), and
+
+increased fines for violations. Another round of  [*548]  reforms are currently
+
+under discussion to increase the powers of the CFC.
+
+
+
+
+
+   B. Market Definition and Market Power
+
+
+
+
+
+   1. Argentina
+
+
+
+
+
+   While the law makes no specific mention of relevant market definition,
+
+Article 5 identifies three factors to be considered in determining the existence
+
+of market power: the degree of substitution of the product or service (including
+
+the possibility of substituting with imports, the conditions for substitution
+
+and the time required to substitute); legal barriers to access these substitute
+
+goods by consumers or suppliers; and the ability of a seller to unilaterally
+
+influence prices. These factors should be considered in both merger and
+
+unilateral conduct cases. The guidelines issued for merger analysis (Resolution
+
+164/2001) describe relevant market and power determinations. These are official
+
+guidelines, binding on the authority in merger cases. While not required in
+
+unilateral conduct cases, the guidelines are usually followed by agencies,
+
+especially when other guidance does not exist.
+
+
+
+
+
+   Resolution 164/2001 notes that the product market includes those goods and/or
+
+services that are substitutes based on characteristics, prices, and consumption
+
+purpose. Substitutes are those goods that capture the demand of a consumer, and
+
+should therefore be included in the same market. While the guidelines include
+
+the SSNIP test as a valid methodology for determining relevant market, it notes
+
+that the test is not conclusive to relevant market determination. The guidelines
+
+consider the possibility that price could be higher than marginal costs due to
+
+high fixed or sunk costs and takes into account characteristics other than price
+
+to determine demand substitution, such as additional services supplied by the
+
+company. None of these statements would contradict or negate the competitive
+
+constraints analysis that we discussed previously.
+
+
+
+
+
+   2. Brazil
+
+
+
+
+
+   While the law makes no explicit mention of how to define relevant markets, it
+
+states that dominance is presumed when a company or group of companies wields
+
+more than 20% of a relevant market (but grants discretion to CADE to modify this
+
+threshold for specific sectors). Thus, market shares are a hard boundary in the
+
+analysis of both mergers and unilateral conduct, making market definition a
+
+critical step in the process.
+
+
+
+     [*549]
+
+
+
+   CADE has mentioned, but never formally adopted the Horizontal Merger
+
+Guidelines issued by SDE and SEAE in 2001. n18 The guidelines mention elements
+
+for the definition of a relevant market-including undertaking a hypothetical
+
+monopolist test- and the need to evaluate the probability of exercising market
+
+power-with a safe harbor of up to 20% market share and a measure of the
+
+participation of the four largest firms (C4), below 75%, or up to a 10% market
+
+share and a C4, above 75%. Thus, the guidelines posit a traditional or
+
+formalistic merger analysis, which would require a clearly defined relevant
+
+market where market shares could be determined, and an identification of
+
+economic agents and their joint shares in the market (at least the four
+
+largest). n19 Nonetheless, CADE, who as we mentioned has not formally adopted
+
+these guidelines to date, has noted in its resolutions the importance of
+
+considering competitive constraints, noting that firms that are followed or
+
+observed by other suppliers and by consumers in their negotiations to determine
+
+prices and establish commercial conditions, must be included in the relevant
+
+market. n20
+
+
+
+
+
+   3. Mexico
+
+
+
+
+
+   In Mexico, market definition is a legal prerequisite for a finding of harm-in
+
+the case of abuse of dominance or monopolization claims (relative monopolistic
+
+practices under Mexican law)-and a requirement for a finding of potential
+
+harm-in the case of mergers, the analysis of public tenders, and determinations
+
+of effective competition conditions in regulated sectors. n21 As such, market
+
+definition and power determinations must reach hard boundaries, including
+
+estimating or considering market shares before any decision is taken requiring
+
+this analysis.
+
+
+
+
+
+   According to statute, a market definition analysis must examine substitution
+
+possibilities, (article 12, paragraph I); transportation costs for the relevant
+
+product, its inputs, complements, and  [*550]  substitutes to determine the
+
+relevant geographic market (article 12, paragraph II); users' possibilities of
+
+switching to alternative product or service offerings-to a large extent a
+
+re-statement of substitution possibilities-(article 12, paragraph III); and
+
+barriers to entry or expansion (article 12, paragraph IV). For market power
+
+determination the law requires that the authority "consider" market shares and
+
+the economic agent's ability to fix prices unilaterally (article 13, paragraph
+
+I); barriers to entry (article 13, paragraph II); the existence and power of
+
+rivals (article 13, paragraph III); access to inputs (article 13, paragraph IV);
+
+recent behavior (article 13, V); and other criteria established in the bylaws.
+
+
+
+
+
+   The statute, while imposing strict requirements on any analysis (e.g. market
+
+share "consideration"), does not establish thresholds or methodologies, noting
+
+only that there must be a finding of harm. In mergers, harm is described as
+
+those mergers "whose objective or effect is to reduce, harm or prevent
+
+competition and free market access of products and services that are equal,
+
+similar or substantially related . . ." these are prohibited. In conduct
+
+investigations, harmful actions are those ". . . whose object or effect is or
+
+may be to unduly displace other agents from the market, substantially foreclose
+
+their access, or establish exclusive advantages in favor of one or more persons
+
+. . ." Because the law is silent about possible methodologies for relevant
+
+market and market power determination, the authority has some flexibility to use
+
+new or different analytical tools to support its conclusions and eventual
+
+decisions.
+
+
+
+
+
+   An increased awareness of the need for methodological guidance recently led
+
+the CFC to commission white papers on market definition and market power. The
+
+reference documents are intended to be used for any procedures that require this
+
+analysis, not just mergers. The previous section draws largely from these two
+
+white papers. n22
+
+
+
+
+
+   C. Summary
+
+
+
+
+
+   While all three authorities incorporate elements of a formalistic approach in
+
+their legislations, including the need to calculate market shares (Mexico), and
+
+even safe harbors (Brazil and Argentina), they also require (Argentina) or
+
+suggest (Brazil) the use of the hypothetical monopolist test, and mention
+
+minimum elements that need to be accounted for in market definition analysis,
+
+such as substitution, and in market power determination, for example barriers.
+
+We summarize  [*551]  and compare the flexibility in each country's legal
+
+framework to accommodate different technical elements in their analysis of
+
+markets and power in the following table.
+
+
+
+
+
+   Table 1: Market Definition and Market Power Determination in Latin America.
+
+
+
+   [SEE TABLE IN ORIGINAL]
+
+
+
+   + n23
+
+
+
+   + n24
+
+
+
+
+
+   + n25
+
+
+
+   ? n26
+
+
+
+
+
+   ? n27
+
+
+
+   ? n28
+
+
+
+   + n29
+
+
+
+
+
+   + n30
+
+
+
+   + n31
+
+
+
+    [*552]  [SEE TABLE IN ORIGINAL]
+
+
+
+   + n32
+
+
+
+   + n33
+
+
+
+   + n34
+
+
+
+   + n35
+
+
+
+   + n36
+
+
+
+   + n37
+
+
+
+   + n38
+
+
+
+   + n39
+
+
+
+   + n40
+
+
+
+   ? n41
+
+
+
+   ? n42
+
+
+
+   + n43  [*553]  [SEE TABLE IN ORIGINAL]
+
+
+
+   ? n44
+
+
+
+   + n45
+
+
+
+   ? n46
+
+
+
+   + n47
+
+
+
+   + n48
+
+
+
+   + n49
+
+
+
+   + n50
+
+
+
+   + n51
+
+
+
+   ? n52
+
+
+
+   + n53  [*554]  [SEE TABLE IN ORIGINAL]
+
+
+
+   + n54
+
+
+
+   + n55
+
+
+
+   ? n56
+
+
+
+
+
+
+
+   Table 1 suggests a consensus about the goals and elements required for market
+
+definition and determination of market power, with other elements still to be
+
+defined as the case law and practice evolve. There is sufficient latitude in the
+
+legal frameworks of these three jurisdictions to determine competitive
+
+constraints. In our view, nothing in the legal framework prevents competition
+
+agencies in these countries from conducting the correct economic analysis.
+
+
+
+
+
+   Nonetheless, as the next section discusses, internet-based industries exhibit
+
+traits that make economic analysis more complex relative to other industries and
+
+which, if ignored, can lead to incorrect conclusions. We discuss some of the
+
+principles that ought to be considered in defining markets and analyzing market
+
+power for online businesses, largely based on the idea that many of these firms
+
+are in fact rivals for users' attention. n57 To illustrate the importance of
+
+competitive constraints in the analysis of markets and power in internet-based
+
+industries we use the Microsoft/Skype decision, which illustrates the types of
+
+questions that ought to be posed and answered by an authority when investigating
+
+anticompetitive practices or mergers in these industries-we do not, of course,
+
+mean to judge this decision as a whole. A more recent case, which also undertook
+
+this  [*555]  type of analysis, is the decision by the High People's Court in
+
+China in the matter of Qihoo v. Tencent. The Court in this matter concluded that
+
+Tencent did not have a dominant position partly because it competed against
+
+several other platforms that attracted traffic by using different products and
+
+services and led to profits from the sale of advertising and value-added
+
+services. n58
+
+
+
+
+
+   IV. INTERNET-BASED INDUSTRIES
+
+
+
+
+
+   A. The Development of Online Industries
+
+
+
+
+
+   The online industry has resulted from the evolution of two related
+
+technologies, the World Wide Web and the development of mobile
+
+telecommunications. The first, the Web, consists of pages that people can see
+
+with a browser and accessed over the Internet. Internet-based industries,
+
+however, now transcend products and services offered and accessed through these
+
+pages only, as they increasingly include offline products and services among
+
+their offerings, e.g. Amazon.com competes with brick and mortar stores, Google
+
+Drive competes with Microsoft's Windows/Office offerings; in fact there are
+
+traditional appliances that are now controlled over the internet (thermostats,
+
+washer and dryers).
+
+
+
+
+
+   Up until recently webpages were primarily accessed using personal computers.
+
+This is no longer the case, which leads us to the second major development of
+
+the World Wide Web: the development of mobile communications. Most people in the
+
+world have a mobile phone that they can use over domestic wireless networks. A
+
+steadily increasing fraction of those users have "smart mobile devices" which
+
+enable them to access the Internet. Those devices are computers with operating
+
+systems that support mobile applications and browsers. Both developments have
+
+spurred the creation of businesses, or extensions of existing businesses, that
+
+rely on these online technologies. These online businesses conduct many of their
+
+activities "in the cloud"-collections of server computers that are accessed
+
+through the Internet.
+
+
+
+
+
+   The development of the Internet has led to the creation of an "online world"
+
+of commerce and community. The development of smart mobile phones has resulted
+
+in the deep penetration of the online world through the day and across physical
+
+location. The result is that increasingly the Internet is always on, everywhere.
+
+[*556]  Importantly, the development of smart mobile phones is spurring the
+
+growth of online industries in developing and lesser-developed economies because
+
+it lowers the cost of access significantly to a large portion of people and
+
+businesses.
+
+
+
+
+
+   Today, and looking forward, the online and offline worlds are merging.
+
+Internet connectivity over wireless is being integrated into more devices such
+
+as point-of- sale devices for merchants, cars, and televisions. Moreover, an
+
+increasing number of people carry during their movement through the physical
+
+world smart mobile phones with location-based technologies that enable
+
+Internet-connected applications to know where users are. The result of this is
+
+that many physical activities, including shopping, are integrating online
+
+aspects.
+
+
+
+
+
+   Despite the fact that the development of the commercial Internet happened
+
+almost two decades ago there remains rapid growth and innovation. In the United
+
+States, for example, which has one of the most advanced online industries,
+
+online commerce still accounts for only 5 percent of total commerce. There is a
+
+common misconception-known as the "end of history illusion"-that we have seen
+
+all the change there is and that the most recent revolution is the last, this
+
+illusion recurs whenever we face a major technological change or drastic
+
+innovation. It is useful to keep this illusion in mind in considering market
+
+definition for the online world. Six years ago-but more than a decade after the
+
+rise of the commercial Internet-smart phones, social networking, and
+
+micro-blogging were insignificant activities. Six years hence it would appear
+
+likely that there will be new activities as disruptive as these.
+
+
+
+
+
+   Before we begin our analysis of competitive constraints for online businesses
+
+it is useful to survey the current state of development of these businesses in
+
+Latin America and the three countries that we are focused on. Most Latin
+
+American countries have a vibrant Internet-sector with many consumers engaging
+
+in online activities. As a general matter e-commerce is not as highly developed
+
+in most Latin American countries as it is in the US and most of the EU
+
+countries. Nevertheless, there are certain similarities; about 25 percent of the
+
+time spent online in the region involves using social networks compared with 29
+
+percent in the US. Table 2 summarizes key aspects of Internet use in Argentina,
+
+Brazil, and Mexico. We have also provided comparisons to the US. Obviously, the
+
+use of the Internet in Latin America also shows significant differences between
+
+major cities and outlying areas.
+
+
+
+     [*557]
+
+
+
+   Table 2: Summary of Internet Use in Argentina, Brazil, and Mexico
+
+
+
+[SEE TABLE IN ORIGINAL]
+
+
+
+     n59
+
+
+
+    n60
+
+
+
+    n61
+
+
+
+    n62
+
+
+
+
+
+   While there are differences in infrastructure build-up (broadband
+
+penetration) and even in device ownership (percent of people with smart phones),
+
+it is interesting to note that the one variable where all three countries have
+
+similar numbers is the average time they spend each month using the Internet,
+
+regardless of the means by which they are accessing it, which is roughly 26
+
+hours. This reflects a fairly hard constraint-all Internet-based firms must
+
+compete for a share of the total amount of time users spend using the Internet.
+
+We call this "competition for scarce attention" and discuss it in more detail
+
+below. n63
+
+
+
+     [*558]
+
+
+
+   B. Basic Economics of Online Industries
+
+
+
+
+
+   There are several aspects of online businesses that can affect the
+
+competitive constraints that online businesses face.
+
+
+
+
+
+   1. Multi-Sided Platforms
+
+
+
+
+
+   Many online businesses are multi-sided platforms that serve as
+
+intermediaries-or in some way connect-two or more distinct groups of customers.
+
+n64 The most common situation involves properties that connect consumers with
+
+merchants. Some of these properties attract consumers with content and then
+
+present advertisements that help merchants obtain sales. Others provide online
+
+malls that create a place for consumers to shop and merchants to sell online.
+
+Other platforms attract users and support application developers. Many of those
+
+application developers in turn connect consumers and merchants. Like many
+
+multi-sided platforms, online platforms often provide services to one side of
+
+the platform at no charge (the "subsidy side") and make money from the other
+
+side (the "money side").
+
+
+
+
+
+   Multi-sided platforms often have indirect network effects. Users on one side
+
+of the platform value having a larger number of users on the other side of the
+
+platform. That creates a start-up problem because platforms need to have a
+
+critical mass of customers on both sides to be viable. An online mall is not
+
+valuable to shoppers unless there are enough merchants, and is not valuable to
+
+merchants unless there are enough shoppers. That also creates an engine for
+
+growth. Once a platform reaches critical mass, more users on one side may entice
+
+more users on the other side; these sorts of positive feedback effects can fuel
+
+growth.
+
+
+
+
+
+   In the early days of the Internet, some commentators argued that positive
+
+feedback effects would result in first-movers attaining monopolies. In fact, as
+
+we will see below reality has been much more complicated than that. Many
+
+investors who bet on the positive feedback strategy as the road to monopoly and
+
+riches were wiped out in the dot.com crash of 2001. As we will see below, churn
+
+has largely characterized these industries, not just during a stock market
+
+crash, and this includes those firms who arrived first to market and who were
+
+regarded as unseatable.
+
+
+
+     [*559]
+
+
+
+   2. Technology
+
+
+
+
+
+   Online businesses rely almost entirely on software that runs in the cloud.
+
+That software could be a sophisticated platform such as Facebook, or it could be
+
+a simple web site designed to display content. As a result, these businesses
+
+typically involve a fixed cost for developing the software n65 and a low
+
+marginal cost for people accessing that software. This software can support
+
+third-party developers by exposing Application Programming Interfaces (APIs) and
+
+providing other services; that is, the software becomes a multi-sided software
+
+platform. n66
+
+
+
+
+
+   The underlying software and IT technology for online businesses has two
+
+implications. At least in terms of the physical infrastructure for the business
+
+the cost of entry is relatively low. It is possible to start and grow rapidly
+
+with a programmer and rented server space. It is also relatively easy-since it
+
+involves writing code-to change and add features to the products and services
+
+being offered. And once those changes and features are added it is possible to
+
+make them available to all customers instantly. Thus, online businesses are very
+
+different from physical businesses and particularly manufacturing businesses.
+
+
+
+
+
+   3. Competition for Scarce Attention
+
+
+
+
+
+   Many online businesses seek the attention of consumers and then make that
+
+attention available to advertisers, merchants, developers, and others. That
+
+attention, however, is a scarce commodity. People only have so much attention
+
+since they have to sleep, work, and do various other things that cannot be done
+
+offline. This scarcity creates intense competition among online businesses to
+
+get that attention. It is the main driver behind innovation as businesses try to
+
+develop something new to attract attention. Competition among these online
+
+attention rivals is the principal focus of the remainder of this section because
+
+they constitute the preponderance of online activity and shape the dynamics of
+
+much online competition.
+
+
+
+
+
+   We focus on evidence from the United States in much of this discussion since
+
+it is one of the more advanced online markets and therefore provides a harbinger
+
+of developments for Latin America. There is also systematic data over long
+
+periods of time available in the  [*560]  US to assess dynamic competition,
+
+which may not always be readily available even for the largest or more advanced
+
+Latin American economies, which we have studied here. Whenever possible, we will
+
+provide similar information for Argentina, Brazil, and/or Mexico or for the
+
+region as a whole.
+
+
+
+
+
+   C. Attention Rivalry
+
+
+
+
+
+   People only have so much time-precisely 168 hours a week. That time gets
+
+parceled out to various activities involving work, leisure, and sleep. Increases
+
+in activities that one can do online can draw time away from other activities
+
+that comprise this fixed time constraint for consumers. However, that
+
+substitution becomes harder to do since it is difficult for consumers to curtail
+
+activities such as work, sleep, and various leisure activities.
+
+
+
+
+
+   1. Evidence on Competition for Scarce Attention
+
+
+
+
+
+   In fact, in the United States the amount of time the average Internet user
+
+spent online doubled between 2001 and 2010. n67 But the number of distinct web
+
+servers increased six fold in part because of the entry of new web properties
+
+and the expansion of those properties. The amount of content likely increased
+
+more than six fold since those servers were able to handle an increasing amount
+
+of capacity as memory prices declined. Therefore, the amount of online content
+
+increased far more rapidly than the amount of attention available for that
+
+content.
+
+
+
+
+
+   A study for the US conducted by Evans found that of the top 15,000 websites
+
+in September 2002, 12,775 (85 percent) had fewer hours spent by visitors in
+
+September 2012 than in September 2002. n68 Furthermore, 14,036 (94 percent)
+
+increased the total time spent by less than the 373 percent increase in the
+
+overall time spent on websites, and therefore had declining shares of attention.
+
+Even with the total time spent by internet users on the web increasing by nearly
+
+a factor of five over this period, the 85 percent of attention losing  [*561]
+
+websites in the top 15,000 in September 2002, managed to lose a total of 460
+
+million of hours by September 2012. These 460 million hours represent 30 percent
+
+of the total number of hours spent on all websites in September 2002.
+
+
+
+
+
+   A further analysis suggested that, over the decade, consumers shifted not
+
+just between websites in the same category, such as playing games online, but
+
+between different categories. In particular the share of the amount of time
+
+spent on portals (including search) declined from 68 percent in 2002 to 28
+
+percent in 2012 while the share of time spent on social networking increased
+
+from 2 percent in 2002 to 29 percent in 2012.
+
+
+
+
+
+   There is one important point to note on the scarcity of attention. The
+
+development of smart mobile phones resulted in a discrete jump in the attention
+
+available for online activities. That is because people can use mobile devices
+
+throughout the day and engage in multi-tasking with them in ways that they could
+
+not do as conveniently with computers. That jump occurred in the late 2000s as
+
+people started acquiring the new iPhone and then Android-based phones. The trend
+
+is continuing as more people acquire these and other smart mobile phones and
+
+tablets.
+
+
+
+
+
+   2. Competition for Seeking Attention
+
+
+
+
+
+   Attention rivals see each other as competitors. As Yahoo! observed, "[w]e
+
+also compete with social media and networking sites which are attracting a
+
+substantial and increasing share of users and users' online time, and may
+
+continue to attract an increasing share of online advertising dollars." n69 A
+
+review of financial filings by leading web properties found that many of them
+
+identify other properties that provide very different products and services as
+
+rivals. n70 What these properties all have in common is that they are seeking
+
+attention from consumers and are trying to make money by selling that attention
+
+to retailers or programmers.
+
+
+
+
+
+   In this part we examine the competitive constraints they impose on each other
+
+for seeking attention and in the next for providing attention.
+
+
+
+     [*562]
+
+
+
+   a. Scarcity of Attention
+
+
+
+
+
+   Consumer attention is an input into selling advertising, sales services, and
+
+other services. It is scarce because consumers have a limited amount of time
+
+available and because a minute spent on one website is a minute less available
+
+for another website. As with any scarce input, firms must compete vigorously in
+
+order to attain it. The pursuit of attention sets up the basic dynamic of much
+
+online competition.
+
+
+
+
+
+   On this basis, competition occurs among very different offerings of site
+
+content, such as: search sites, social networking, social media, portals,
+
+auction sites, newspapers, entertainment, multimedia, games, etc. In Table 3 we
+
+show the different types of competition that websites competing for advertise
+
+are facing.
+
+
+
+
+
+   Table 3. Ranking of types of websites in the selected countries by Total
+
+Minutes stayed at the site. n71
+
+
+
+    [SEE TABLE IN ORIGINAL]  [*563]  [SEE TABLE IN ORIGINAL]
+
+
+
+
+
+   It is interesting to note that time spent is not overwhelmingly concentrated
+
+in one or a couple of websites. If we estimate a Herfindahl Hirschman Index
+
+(HHI) for these 20 attention grabbers in Latin America (based on Argentina's top
+
+20) the HHI's for Argentina, Mexico, and Brazil are 1,220 1,198 and 1,308
+
+respectively-figures that denote relatively unconcentrated markets.
+
+Concentration is overestimated with this measure as it excludes all other
+
+websites that do not make the top 20-it assumes they have a zero share of the
+
+market for consumers' web minutes.
+
+
+
+
+
+   b. Pricing for Securing Attention
+
+
+
+
+
+   Attention seekers typically do not charge consumers for visiting their online
+
+properties and in fact entice them to come to their sites, and spend time there,
+
+with valuable services. This practice is similar to that of many multi-sided
+
+platforms that make access free, or indeed subsidize, one group of consumers.
+
+They do that, as is the case with attention seekers, in part because that group
+
+of consumers is highly valuable to the other side. In the case of attention
+
+rivals, it is especially not surprising that consumers get services for free
+
+given that there is intense competition for scarce attention.
+
+
+
+
+
+   c. Feature Competition
+
+
+
+
+
+   Given a price of zero, attention seekers primarily compete for attention by
+
+offering new attractive features. That constant feature competition is
+
+particularly apparent to users of smart mobile devices. Many times over the
+
+space of the year users are prompted to update their applications often as a
+
+result of the addition of new features. Feature competition is rapid and
+
+pervasive among attention seekers in part because of how they attract new
+
+customers and keep existing ones engaged. Consumers have come to expect that
+
+online businesses will do this and that their online businesses must introduce
+
+new  [*564]  features regularly to remain competitive. Importantly, a website
+
+can add a new feature and all of its users all around the world can immediately
+
+have access to it.
+
+
+
+
+
+   d. Drastic Innovation
+
+
+
+
+
+   In addition to feature competition, there is "drastic innovation" which
+
+creates completely new and highly trafficked categories. Examples of these over
+
+the last decade include Facebook, Pinterest, Twitter, Wikipedia, and YouTube.
+
+These websites brought new products and services in the market previously not
+
+even in the consumer's imagination.
+
+
+
+
+
+   e. Entry, Exit, and Churn
+
+
+
+
+
+   There is frequent entry by advertising-supported online attention seekers.
+
+These range from small businesses such as blogs to ones that become large
+
+quickly such as Twitter. As the study by Evans documented for the US, each
+
+month, Compete.com reports the top 15,000 websites by unique visitors. Out of
+
+the top 15,000 websites in the January 2012 list, 3,954 (26 percent) were
+
+replaced by different websites on the July 2012 list, just six months later. n72
+
+Many of these new entrants quickly grew to a substantial size. The largest 100
+
+of them each had more than 150,000 hours of time, which would have placed them
+
+in the top sixth of the January 2012 list. n73 Over a longer time period, out of
+
+the 15,000 websites in the September 2002 list, 12,257 (82 percent) were
+
+replaced by different websites on the September 2012 list, a full ten years
+
+later. n74 As a consequence of this growth, the number of very large websites is
+
+growing. Table 4 shows the growth in the number of websites with more than one
+
+million hours of attention per month.
+
+
+
+     [*565]
+
+
+
+   Table 4: Growth in the Number of Websites Attracting Large Amounts of Time
+
+Spent in the US. n75
+
+
+
+    [SEE TABLE IN ORIGINAL]
+
+
+
+
+
+   We see this churn in Latin America as well. Tables 5-7 show the change in the
+
+rankings of websites between 2006 and 2013 measured by number of visits, based
+
+on data from Alexa for our three study countries. n76 In each country many top
+
+websites fall out of the top ranking and other websites increase or decrease
+
+their standing.
+
+
+
+
+
+   Table 5: Top 20 Websites Visited in Argentina in 2006 and 2013.
+
+
+
+    [SEE TABLE IN ORIGINAL]  [*566]  [SEE TABLE IN ORIGINAL]
+
+
+
+
+
+   Table 6: Top 20 Websites Visited in Brazil in 2006 and 2013.
+
+
+
+    [SEE TABLE IN ORIGINAL]  [*567]  [SEE TABLE IN ORIGINAL]
+
+
+
+
+
+   Table 7: Top 20 Websites Visited in Mexico in 2006 and 2013.
+
+
+
+    [SEE TABLE IN ORIGINAL]  [*568]  [SEE TABLE IN ORIGINAL]
+
+
+
+
+
+   f. Number of Competitors
+
+
+
+
+
+   Thousands of firms compete for consumer attention in this way on the
+
+Internet. Of the top 500 websites in the US as measured by time spent, 135
+
+primarily gather attention and sell it to advertisers, defined narrowly. The HHI
+
+for these websites is 1345-a figure denoting a relatively un-concentrated
+
+market-based on time on site and assuming zero share for websites outside of the
+
+top 500; as a result of the zero share assumption, this HHI is therefore
+
+overstated. The five largest sellers of attention have 67 percent of the
+
+attention garnered by these 135 websites. Defined slightly more broadly, 233 of
+
+the top 500 websites primarily gather attention and sell it to advertisers. n77
+
+The HHI for these websites is 1088, again assuming a zero share for  [*569]
+
+websites outside of the top 500. The five largest attention sellers have 60
+
+percent of the attention garnered by these 233 websites. Attention seeking is
+
+not a winner- take-all business.
+
+
+
+
+
+   3. Competition for Providing Attention
+
+
+
+
+
+   In this part we focus on attention rivals that earn revenue by selling
+
+attention to advertisers. We comment on the relevance of this to offline
+
+attention rivals that provide other commerce-related services at the end of this
+
+section. Online attention rivals are similar to traditional
+
+advertising-supported media platforms such as newspapers, magazines, and
+
+television. They provide news and entertainment to attract viewers and then sell
+
+display-advertising spots on their pages. However, because they are
+
+software-based media properties, these attention rivals can engage in highly
+
+targeted advertising that is customized to the person viewing the advertisement.
+
+
+
+
+
+   Online advertising-supported attention rivals sell many different kinds of
+
+advertising. These include search-based, social media, and display advertising.
+
+The advertisements themselves range from short text ads to image-heavy display
+
+ads to video ads. Some, primarily display ads, are sold based on the number of
+
+people who see the ads, while others are sold based on whether individuals click
+
+on the ads. Most online advertising is targeted based on information, or
+
+educated guesses, about the person looking at the screen at a particular point
+
+in time.
+
+
+
+
+
+   Advertisers buy online advertising because they want to sell products and
+
+services to consumers-to obtain what are called "conversions." n78 They
+
+therefore make decisions on how much to spend on advertising and how to allocate
+
+that spending across different advertising channels-offline as well as online-by
+
+comparing the rate of return on incremental investment across different
+
+channels. Historically, advertisers have faced challenges in making these
+
+decisions rigorously because of lack of data on the relationship between
+
+advertising spending and conversions. They have had to make them judgmentally
+
+based on a mixture of subjective and objective information.
+
+
+
+
+
+   In recent years, however, advertisers have started using sophisticated
+
+software- known as cross-channel attribution technologies-for determining the
+
+marginal return on investment of  [*570]  expenditures on different channels.
+
+n79 These technologies collect data on who has seen various ads, match that data
+
+to information on whether there was a sale, assess the importance of different
+
+ads in generating that sale and in some cases provide dynamic reallocations of
+
+advertising budgets across sales channels based on results. n80 A survey of 607
+
+entities in late 2011 found that 77 percent of advertising agencies and 62
+
+percent of markets used these technologies. n81 A study of 53 marketers examined
+
+how they used cross-channel attribution technologies. n82 Virtually all of them
+
+used it to "measure the value and performance of digital channels" (98 percent).
+
+Almost two thirds (64 percent) "use attribution to make improvements to
+
+in-flight or future interactive marketing strategies like channel allocation and
+
+media planning optimization." They used these attribution technologies to
+
+examine many different channels. More than 70 percent of the markets said they
+
+considered paid search, online display, natural search, affiliate partners and
+
+email. More than a third also considered Facebook posts, comparison shopping
+
+engines, Twitter, online video ads, and the brand's own website.
+
+
+
+
+
+   The existence and widespread use of cross-channel marketing technologies
+
+shows that advertisers (or advertising and marketing firms which serve as their
+
+agents) see different online channels as substitutes. Otherwise they would not
+
+be using products that facilitate  [*571]  the comparison of their marginal
+
+returns on investment. The availability and widespread use of these technologies
+
+also makes it likely that these different channels have relatively high degrees
+
+of substitution. Advertisers compare them using a single metric and can make
+
+quick adjustments to their campaigns depending on the rates of return, which
+
+depend on costs and results. In fact, the survey of 607 marketers and agencies
+
+in the US and UK discussed above found that users of channel- attribution
+
+technologies changed their spending as result of their use of these
+
+technologies. As shown in Figure 2, responses from 179 of those surveyed shows
+
+that they appeared to have substituted between both online media as well as
+
+between online and offline media.
+
+
+
+
+
+   Figure 2: Substitution between Advertising Channels
+
+
+
+    [figure]
+
+
+
+     [*572]
+
+
+
+   4. Product Differentiation and Attention Seeking
+
+
+
+
+
+   Attention rivals are obviously dramatically different from each other.
+
+Twitter provides a very different service to viewers (micro-blogging) than
+
+Yahoo! (content curation). Twitter also provides a very different service to
+
+advertisers-tweets with short urls for links-than Yahoo!-multi-color display
+
+ads. The point of this section, however, is that those differences are not
+
+necessarily relevant for assessing competition among online businesses. These
+
+attention rivals are all competing aggressively with each other to secure
+
+attention. The emergence of Twitter likely took viewers away from Yahoo!. And
+
+the fact that services like Twitter can become quickly established and grow
+
+explosively puts constant pressure on attention seekers. These attention rivals
+
+then compete for advertisers to buy access to some of that attention. But
+
+advertisers are constantly looking for ways to reallocate their budgets among
+
+different channels to get what they often really want-a sale. They do not
+
+necessarily care whether that sale came from a tweet, a search, a social network
+
+ad, or a variety of other media.
+
+
+
+
+
+   This section does not claim that attention rivals are necessarily all in the
+
+same market. As usual with competition policy analysis we need to consider the
+
+facts. Those facts may show product differentiation among platforms softens
+
+competition enough to make the relevant antitrust market narrower than "all
+
+attention rivals." But differentiation is not functional equivalence, meaning
+
+that companies ought to offer services with equivalent functions in order to be
+
+considered competitors. Indeed, this is exactly the point we argue against in
+
+section I of this paper. As our previous example of Yahoo! and Twitter
+
+illustrates, the fact that ads in one firm are displayed and look different than
+
+they do in the other, does not mean that the entry of one rival into the market
+
+(Twitter) cannot divert marginal consumers from one firm to the other-going back
+
+to our best practices lexicon-and therefore can effectively constrain
+
+competition for Yahoo!
+
+
+
+
+
+   In contrast, we could consider that there are enough facts to determine that
+
+one attention rival does not share the same market as another. There could be
+
+differences among the people providing attention. An advertiser seeking to sell
+
+an expensive automobile is interested in getting the attention of high-income
+
+people who are likely in the market for buying a car. The attention of a teenage
+
+game player is not a substitute. Hence the importance of garnering information
+
+about customers by age and income group; for example, in 2006, in Mexico 58% of
+
+internet users were between 12-24 years old, 34% were between 25-44 years old,
+
+and 8% were more than 45  [*573]  years old; in 2010, 50% of internet users were
+
+between 12-24 years old, 29% were between 25-44 years old, and 11% were more
+
+than 44 years old. n83 There could also be differences in the manner in which
+
+attention is generated which in turn reduces substitution possibilities. The
+
+value of messages that are delivered on a search results page, as a display
+
+advertisement on a web page, or as part of a web- based video could differ.
+
+There are differences in the formats that are dictated in part by the method of
+
+producing the attention. The context in which the attention is generated could
+
+also lead to differences in the value of attention to advertisers. Such product
+
+differentiation could result in some attention seekers, or some segments of
+
+attention seekers, having significant market power. n84
+
+
+
+
+
+   There are several factors, however, that tend to reduce the importance of
+
+differentiation for online platforms. Physical media often have differentiated
+
+content because this tends to attract particular types of consumers who are
+
+attractive to particular advertisers, alternatively this type of media may also
+
+bundle content in the hope of attracting a widest possible audience who will
+
+select the content they find appealing. In the case of online media, software
+
+and data-based targeting technologies can be used to identify particular kinds
+
+of consumers without the need to bundle and differentiate their content to a
+
+wide audience in order to engage the "right" audience. They are therefore less
+
+reliant on content differentiation for targeting  [*574]  the right people. It
+
+is also easier for online attention rivals to reposition themselves in the event
+
+that there is a market opportunity in another niche. They can add features,
+
+including content, to attract particular consumers.
+
+
+
+
+
+   5. Extensions of Offline Attention Seekers
+
+
+
+
+
+   There are reasonable arguments for why different types of offline attention
+
+seekers do not compete with each other. Consider offline advertising-supported
+
+platforms. Historically advertisers did not have good data for comparing the
+
+effectiveness of television, radio, and print advertising. Their budgeting and
+
+allocation decisions were therefore highly judgmental. These media were
+
+different from each other and therefore arguably served different advertising
+
+purposes. Entry and expansion was much harder than it is for online advertising.
+
+It would also be hard to argue that advertising-supported platforms were close
+
+substitutes for commerce platforms such as shopping malls, if for no other
+
+reason than the time cost and inconvenience of travel.
+
+
+
+
+
+   The emergence of online advertising and development of sophisticated
+
+technologies has changed this in several ways. The fact that it is possible to
+
+measure and determine incremental returns of investment for online attention
+
+seeking places pressure to consider the same issues for offline attention
+
+seeking. Knowing the return on investment (ROI) for online display advertising
+
+encourages advertisers to think through the likely ROI for offline advertising
+
+to make budgeting decisions. In addition, the development of computer
+
+technologies has made it increasingly possible to measure conversions in
+
+physical advertising-such as using coupon codes in print advertising.
+
+
+
+
+
+   As noted above, some of the cross-channel attribution technologies compare
+
+online with offline advertising channels. Figure 2 showed that this comparison
+
+has encouraged substitution particularly away from print and towards online.
+
+Goldfarb and Tucker have also found evidence of substitution between online and
+
+offline advertising. n85 The online and offline worlds for commerce are
+
+converging and this is likely to increase the degree of substitution. The use of
+
+mobile devices is bringing the online world into physical spaces.   [*575]
+
+Advertisers and marketers are using increasingly mobile applications to drive
+
+physical commerce. n86
+
+
+
+
+
+   D. The Analysis of Market Definition and Market Power
+
+
+
+
+
+   This section has argued that "attention"-its acquisition and its delivery-is
+
+the relevant dimension for analyzing the competitive constraints these rivals
+
+impose on each other. n87 In practice, attention rivals more frequently face
+
+significant competition from purveyors of new products or services that could
+
+divert consumer attention from them, than from the entry of close substitutes
+
+for their existing products or services. Ostensibly different attention rivals
+
+often substitute for each other from the standpoint of consumers and merchants.
+
+Product differentiation tempers the significance of these constraints. Product
+
+differentiation is relevant, however, when it involves aspects of the attention
+
+that is procured and sold, rather than particular features of the products and
+
+services used for acquiring and delivering that attention to advertisers.
+
+
+
+
+
+   Antitrust analysis should therefore focus on competition for securing and
+
+delivering attention in considering market definition, market power, and
+
+competitive effects. Focusing on competition between specific products and
+
+services, rather than attention, could result in competition authorities and
+
+courts making either false- negative or false-positive errors in their
+
+decisions. False-negative errors could result from concluding that attention
+
+rivals do not compete because they offer dissimilar products or services. False
+
+positive errors could follow from ignoring competition among attention rivals
+
+that offer different products and services. Analyzing attention, which is the
+
+dimension on which these rivals compete in fact, reduces the likelihood of these
+
+errors. The precise contours of  [*576]  markets, market power, and impacts on
+
+competition will depend on the particular circumstances of the subjects of the
+
+antitrust analysis, the conduct under consideration, and the extent of
+
+differentiation among relevant attention rivals.
+
+
+
+
+
+   There is no doubt that the Internet has resulted in the emergence of large
+
+global firms that lead their categories. To take a few examples, Facebook is
+
+clearly the leader in social networking, Google in search, and Twitter in
+
+micro-blogging. However, as we have shown, several factors need to be considered
+
+in evaluating whether these entities have long-lived market power and whether
+
+product or services categories correspond to relevant antitrust markets:
+
+
+
+
+
+   The product or services categories morph quickly and easily. Google has moved
+
+into social networking, Facebook into search, and Apple into
+
+advertising-supported media;
+
+
+
+
+
+   There is rapid displacement of leaders both overall and within categories.
+
+Facebook very quickly displaced Google as the most trafficked web property
+
+globally- it took a little longer, however, to displace Brazil's social
+
+networking site, Orkut- and Apple displaced Blackberry as the software
+
+development platform for mobile devices, with Google, through its Android
+
+platform, now contending strongly for this market; and
+
+
+
+
+
+   The Internet-based industry is highly dynamic with frequent drastic
+
+innovation, a feature that is consistently mentioned in best practice relevant
+
+market and market power determination as difficult to analyze within a
+
+traditional, hypothetical monopolist or structuralist approach to do it right.
+
+Every time we think the online industry has reached maturity, disruptive
+
+innovation changes it all.
+
+
+
+
+
+   Attention rivals impose competitive constraints on each other across
+
+boundaries defined by products and services they provide to consumers and
+
+advertisers. It is an empirical matter whether these  [*577]  constraints are
+
+strong enough to place particular attention rivals in the same relevant
+
+antitrust market and to significantly limit the market power of particular
+
+platforms. This will ultimately depend, in part, on the extent to which
+
+consumers and advertisers turn from one attention seeker to another as prices,
+
+quality, and features change. Some standard tools of competition
+
+analysis-diversion analysis and econometric analysis of demand, adjusted for
+
+applicability to multi-sided platforms- can help analysts obtain the evidence
+
+necessary for a proper assessment. We offer here the example of relevant
+
+questions that the European authority posed in reviewing the merger between
+
+Skype and Microsoft. Our next section offers examples of how Argentina, Brazil,
+
+and Mexico have posed similar such questions, which follow the best practices we
+
+outlined, to reach an informed conclusion on cases which unfortunately have not
+
+yet been about Internet-based industries.
+
+
+
+
+
+   As we noted at the outset of this paper, what is important in assessing
+
+market definition and market power is a careful analysis of competitive
+
+constraints rather than formalistic methods that do not correspond to economic
+
+realities. A good example of these principles involves the EU's analysis of
+
+Microsoft's proposed acquisition of Skype. n88 The European Commission's
+
+decision approving Microsoft's acquisition of Skype echoes many of the themes we
+
+have discussed above. Skype is an Internet-based company. It provides software
+
+that enables people to communicate over the Internet through instant messaging,
+
+voice calls, and video calls. Microsoft agreed to acquire Skype in 2011 for $
+
+8.5 billion. Among other things Microsoft also has an Internet-based
+
+communication service call "Windows Live Messenger" (WLM). n89 The combination
+
+would result in Microsoft having an 80-90 percent share of video calls in the
+
+European Economic Area (EEA). Yet the European Commission considered the
+
+possible effects of the merger and approved it without conditions. n90
+
+
+
+     [*578]
+
+
+
+   The Commission recognized the ease of entry into web-based businesses and how
+
+quickly these new businesses could grow:
+
+
+
+
+
+   "... the use of sites such as Facebook, Google+, LinkedIn, and Twitter has
+
+more than doubled since January 2009."
+
+
+
+
+
+   "The Commission observes several recent entries into the consumer
+
+communications services markets. The example of Viber Media ... shows that it is
+
+possible even for a small company to enter the market and attract a significant
+
+number of users within a short period of time."
+
+
+
+
+
+   "The Commission notes that IM is a dynamic market, as illustrated by the fast
+
+growth of Facebook that has become the leader for IM in less than three years
+
+with a market share of approximately 50%."
+
+
+
+
+
+   "... smaller players have succeeded in rapidly entering, and gaining traction
+
+in the consumer communications sector with innovative products."
+
+
+
+
+
+   In addition, it noted that existing firms innovate and add new features
+
+constantly.
+
+
+
+
+
+   "The innovation cycles in these markets are short. As a result, software and
+
+platforms are constantly being redeveloped. Innovators generally enjoy a short
+
+lead in the market."
+
+
+
+
+
+   This innovation is important because feature competition is important.
+
+
+
+
+
+   "Since consumer communications services are mainly provided for free,
+
+consumers pay more attention to other features. Quality is therefore a
+
+significant parameter of competition."  [*579]
+
+
+
+   "Consumers are very sensitive to innovative services or products in consumer
+
+communications services. Providers ... lose traction quickly if they are unable
+
+to offer users new and innovative functionality. For example, Skype's
+
+innovations over the last eight years highlight the critical role innovation
+
+plays in its success....."
+
+
+
+
+
+   The Internet-based communication providers are also price takers.
+
+
+
+
+
+   "These markets, and this is also true for video calls, are currently free of
+
+charge. If a company were to charge for its service, competitors would switch to
+
+alternative providers offering their service free of charge. This is confirmed
+
+by internal documents of Skype showing that [>75%] of its users would switch to
+
+an alternative provider if Skype started charging for its free service (in
+
+particular for video calls)."
+
+
+
+
+
+   The Commission declined to define communication markets based on
+
+functionality given the ease with which consumers could switch between different
+
+services. And, while it also declined to define specific markets, its decision
+
+to approve the merger is clearly based on finding that ease of entry, feature
+
+competition, price-taking behavior, and rapid innovation defeated the exercise
+
+of market power. Despite finding that Microsoft would obtain a dominant position
+
+in video calling it approved the acquisition without conditions. In doing so it
+
+specifically relied on evidence that the providers are price-takers and would
+
+lose customers if they did not compete on feature innovation.
+
+
+
+
+
+   V. TECHNICAL CAPACITY: ARE AUTHORITIES READY?
+
+
+
+
+
+   Throughout this paper we have underscored the need to look at competitive
+
+constraints in assessing markets and power. We've included some examples of key
+
+competitive factors, and have noted that some of these are particularly relevant
+
+for internet-based industries such as the possibility of using multiple devices
+
+to access similar content-including mobile devices-(multihoming), the speed of
+
+innovation, and the importance that seeking and providing attention plays for
+
+firms in this market. The analysis of Internet-based  [*580]  industries has a
+
+degree of complexity that is not always present in more traditional industries,
+
+which begs the question of whether Latin American competition agencies are
+
+equipped to undertake them.
+
+
+
+
+
+   In this section we use non-Internet cases reviewed or investigated by each of
+
+the three authorities to illustrate how they have in fact undertaken complex
+
+analyses and have used the best practices in market definition and power that
+
+we've outlined. We also include as a general reference, a compendium of
+
+historical cases that do involve Internet-based industries. To date, none of the
+
+Internet cases have used the complex analysis to which we have referred to
+
+before.
+
+
+
+
+
+   A. Competitive Constraints Analysis in Practice: Selected Case Studies
+
+
+
+
+
+   1. Argentina
+
+
+
+
+
+   In December 2004, Telef nica M viles S.A. announced the acquisition of the
+
+assets of BellSouth Corporation. In Argentina, Grupo Telef nica was one of the
+
+two main suppliers of fixed telephony services, and one of the four main
+
+suppliers of mobile telephony services. BellSouth, also one of the four main
+
+suppliers of mobile telephony services, had minor market shares in other
+
+telecommunications activities including data transmission, Internet, cable
+
+television, and long distance fixed telephony. At the time, the CNDC identified
+
+seven markets where both companies were active and evaluated the likely effects
+
+of the merger over the competitive dynamics of the market, as well as potential
+
+vertical effects derived from the concentration. n91
+
+
+
+
+
+   Although a traditional market share analysis was undertaken considering
+
+participation prior to and following the merger, the authority observed that
+
+between 2001 and 2004, the market shares of the participants had varied. Hence,
+
+it considered that the intensity of the competition in the market was high,
+
+given the volatility of the market shares. Furthermore, it reasoned that
+
+competitors would be in a position to respond to any potential increases in
+
+price from the merged company, as they possessed enough spectrum to increase
+
+their service offerings and offset any exercise of market power by the merged
+
+company. Lastly, the Commission considered that although spectrum accumulation
+
+by itself can determine competitive conditions in the telecommunication
+
+industry, accumulation can also lead to efficiencies in the market due to
+
+reductions in marginal and total cost.
+
+
+
+     [*581]
+
+
+
+   2. Brazil
+
+
+
+
+
+   The operation involved an agreement between Nestl and Garoto Brasil in which
+
+Nestl would acquire new stocks issued by Garoto. Considering the market of
+
+chocolates as a whole, Nestl was the leading company, alternating the first
+
+place with Kraft Foods (Lacta), with Garoto as the third largest firm. Nestl 's
+
+average market share between 1998 and 2001 was of 34.5%, while Garoto's was 23%.
+
+n92
+
+
+
+
+
+   The merging parties and Kraft filed dueling market definition studies,
+
+employing price elasticity models to estimate consumer reactions to relative
+
+prices among different chocolate formats and chocolate brands. Because results
+
+were dramatically different CADE was forced to consider a host of methodology
+
+issues associated with simulation models, including identification of the
+
+relevant demand function, assessment of the statistical uncertainty associated
+
+with demand elasticity estimates, and examination of the potential defects in
+
+the differentiated products models that the simulations employed.
+
+
+
+
+
+   Other hotly contested issues included barriers to entry and the prospects for
+
+expansion of such rival brands as Mars and Hershey. The Council studied the
+
+minimum efficient scale required to enter the market, the time required for
+
+entry to be effective, minimum investments required to enter and selling
+
+possibilities. CADE concluded it was unlikely that Kraft would make investments
+
+necessary to offset market power. This conclusion together with the difficulty
+
+of entry into the market led CADE to conclude that the probabilities that the
+
+merged firm would abuse its market power was high.
+
+
+
+
+
+   3. Mexico
+
+
+
+
+
+   The case involved a renewed complaint by Pepsi Bottling Group against
+
+Coca-Cola for exclusive dealings in the small retail shop distribution outlet,
+
+which comprised 70% of all sales in the industry and involved more than 1
+
+million points of sale nationwide. This conduct was foreclosing the market for
+
+Pepsi's own carbonated beverages. n93
+
+
+
+     [*582]
+
+
+
+   The Federal Competition Commission (CFC) constructed a three-step structured
+
+rule of reason test to determine potential harm arising from the conduct. It
+
+considered that there was a high probability of harm if any of the following
+
+three conditions existed (a) if, under normal conditions, an entrant that is as
+
+efficient as a standard industry measure of efficiency cannot enter (does not
+
+reach a Minimum Efficient Scale or MES); or (b) if the conduct is prevalent-that
+
+is sufficiently widespread-such that it prevents industry participants from
+
+attaining "normal" levels of efficiency; and/or (c) if the conduct determines
+
+the incumbent's ability to maintain or increase its dominance.
+
+
+
+
+
+   The authority found that Pepsi was able to attain a MES and in some cases,
+
+was in fact operating in the decreasing returns to scale portion of its costs.
+
+Through a survey of depositions by store keepers offered as evidence by the
+
+complainant, it found the conduct was relatively infrequent (less than 4% of the
+
+small shops confirmed the exclusivity agreements) and had a short duration (less
+
+than 1 year). Finally, the CFC found that consumers have access to other
+
+products in the distribution channel; that there was a competitive dynamic in
+
+the market (entry, exit, innovation-new drinks, etc.); and that Coca-Cola's
+
+market power arose mostly from the value of its brand and the efficiency with
+
+which it operates its distribution network. The case was closed and the decision
+
+withstood an appeal before the Commission.
+
+
+
+
+
+   As evidenced by the three cases presented here, authorities have focused on
+
+competitive dynamics and non-price information when determining ex ante harm to
+
+competition (mergers) as well as ex post anticompetitive conduct
+
+(investigations). The case in Argentina illustrates how the CNDC recognized that
+
+shares were not a useful metric of market power when these are volatile and
+
+there are other dimensions for rivals to compete aggressively (e.g. spectrum).
+
+Brazil's case highlights the importance of evaluating diverse evidence to reach
+
+a determination, and to review evidence based on accepted economic methodologies
+
+that CADE determined in this case. It also illustrates the importance of
+
+including estimates of minimum efficient scale (MES) of entry when reviewing
+
+barriers to entry. MES played an important role in the decision by the Mexican
+
+authority also, as it determined whether foreclosure was indeed possible as an
+
+effect of exclusive deals. The Mexican case shows how market power should not
+
+focus solely on the level of market shares held by the defendant but on whether
+
+its conduct increases this level and causes harm.
+
+
+
+     [*583]
+
+
+
+   B. Internet Analyses in Practice: Case Studies
+
+
+
+
+
+   In order to give a broad perspective of the types of cases that the
+
+authorities have reviewed and the degree of complexity and depth that has so far
+
+been required in analyzing them, we present a selection of cases-the majority of
+
+them-that the CNDC, CADE, and the CFC have reviewed over a period of time that
+
+spans 2000 through 2009. The fast pace of change in the industry is not only
+
+evident in the cases, but also in the agencies' decisions. In addition, since
+
+2000-the first internet-based case we have on record-there have been important
+
+changes in the technical know-how and expertise within the agencies themselves,
+
+as they have garnered knowledge and experience, and have sought training for
+
+their employees. The cases are grouped into three different types of analyses.
+
+For example, a number of transactions involved vertical integration between
+
+Internet access providers and online content producers; others involved
+
+horizontal acquisitions either in the jurisdictions themselves or elsewhere but
+
+with effects in Latin American countries; some of these involved online
+
+businesses, others mergers of online and offline businesses. In each case,
+
+authorities seemed to be posing traditional questions to analyze a new industry.
+
+For vertical mergers, the acquisition of a website by an access provider focuses
+
+on an essential facility-type of query; for horizontal mergers, concerns seem
+
+more focused on whether content offerings or services are sufficiently similar
+
+to be considered substitutes or if these operations appear to be analogous to a
+
+company acquiring a portfolio of content. n94
+
+
+
+
+
+   It is evident from the resolutions of the three authorities we included here,
+
+however, that they have been careful in not constraining themselves to set
+
+relevant market definitions or to strict methodologies for market power
+
+determination. It is particularly interesting to note the evolving description
+
+of Microsoft's business over the course of time as the Brazilian authorities
+
+analyzed the different merger deals, from a very generally defined market in
+
+2001-software development-to a broader conception of its business that goes
+
+beyond the IT industry: programming and correlated services for any customers
+
+involving online, business, and peripherals including entertainment. Yahoo! also
+
+conceives of its business as having a wider  [*584]  reach than just search
+
+capabilities or advertising revenues. Its business is no longer restricted to
+
+Internet, but includes features we associate with telecommunications and
+
+broadcasting markets, such as email, messaging, video streaming, and music. It
+
+is also interesting to highlight how Argentina's advertising market analysis
+
+tends to include all broadcasting distribution outlets: printed, video,
+
+streaming and internet media. In the case of Mexico, the information included in
+
+its case summaries points to a wide conception of the product market, again
+
+underscoring care in not overly constraining case law to narrowly defined
+
+markets in a rapidly changing industry.
+
+
+
+
+
+   1. Offline and Online Mergers
+
+
+
+
+
+   a. AOL/Time Warner-Argentina
+
+
+
+
+
+   In 2000, Argentina's CNDC analyzed the effects in its territory of the merger
+
+between America Online and Time Warner. n95 The analysis does not suggest
+
+recognition that this was a two-sided market where market share analysis could
+
+provide little insight into market power; it also ignored any indirect
+
+externalities between each side of the respective offline and online content
+
+providers. Instead the agency's focus was on identifying overlaps between the
+
+two companies considering each side of the market as distinct. Thus,
+
+distribution of online and offline content was analyzed in two distinct
+
+channels: TV and Internet, finding no competition concerns. The CNDC also
+
+analyzed the other side of the market as a separate advertising market. This
+
+broad product dimension, led to a conclusions that the effects of the merger
+
+were very small as most advertising revenues did not come from pay TV or
+
+internet and were distributed as follows: coming from free to air TV (close to
+
+40%), newspapers (23%), pay TV (12%), and internet advertising at 0.1%.
+
+
+
+
+
+   b. Microsoft/aQuantive-Brazil
+
+
+
+
+
+   In 2007, Microsoft sought to acquire aQuantive. n96 aQuantive participated in
+
+the advertising sector through 3 business divisions: technology for digital
+
+publicity, digital communication performance,  [*585]  and digital marketing.
+
+Microsoft described its business as creation, development, and provision of
+
+computer software and related services. Brazil's SDE considered that there was
+
+no horizontal overlap between the different companies, but noted that 90% of
+
+aQuantive's revenues came from Microsoft, so that the transaction had a vertical
+
+component. It consequently looked at the market offering online advertising
+
+services and found that there were a large number of competitors worldwide and
+
+therefore no evidence of upstream closure. The operation was approved.
+
+
+
+
+
+   c. Microsoft/Fast Search-Brazil
+
+
+
+
+
+   In 2008 Microsoft purchased all shares for Fast Search & Transfer ASA, n97 a
+
+Norwegian firm that developed and marketed software for corporate search.
+
+Microsoft described its business to the Brazilian authorities as a firm that
+
+participated in the market for operating systems, computer software and
+
+production of video, videogames, computer games, and other peripherals, as well
+
+as corporate search. The latter was the only market subject to analysis by SDE.
+
+SDE did not undertake a complete relevant market definition analysis as it
+
+considered that there were a large number of participants in the market, that
+
+Fast and Microsoft's participation was modest and that each party's service
+
+offerings were complementary. In addition, clients stated no opposition to the
+
+deal.
+
+
+
+
+
+   d. Microsoft/Yahoo!-Brazil
+
+
+
+
+
+   In 2009, Microsoft and Yahoo! decided on an exclusive licensing agreement for
+
+10 years whereby Microsoft would grant Yahoo! technology to undertake
+
+algorithmic and sponsored searches. n98 Following the 10 year period, the
+
+license would continue but with no exclusivity. Microsoft also agreed to offer
+
+advertising text services to Yahoo! and Yahoo! would become the sole worldwide
+
+representative of both companies in their sales relationship with premium
+
+advertisers. The agreement excluded web products, email services, instant
+
+messaging, graphic publicity, or other businesses. Microsoft's  [*586]
+
+programming and correlated services were described as including 5 segments:
+
+clients; suppliers and tools; online services; Microsoft business division; and
+
+accessories and entertainment division. Yahoo!'s services were divided into 6
+
+categories: "Front Door" services (free to users and financed through
+
+advertisements); communities services; search services, also financed through
+
+advertising revenues; communication services; advertising and premium services,
+
+including TV and music services; and applications to access internet. Brazil's
+
+SDE defined online markets following previous jurisprudence, as global with an
+
+open geographic reach. SDE concluded that the deal would allow the parties to
+
+better compete with Google globally, and would improve advertising competition,
+
+benefiting those seeking to advertise, consumers, and improve websites.
+
+
+
+
+
+   e. Yahoo!-Brazil
+
+
+
+
+
+   There are two operations involving Yahoo! that the Brazilian competition
+
+agencies reviewed. The first in 2002 involved the acquisition of Starmedia, n99
+
+and was reviewed by all three Brazilian competition agencies. The second,
+
+involved the 2003 acquisition of Inktomi, n100 was also reviewed by the three
+
+agencies. In the first case Starmedia operated a Brazilian search engine named
+
+"Cade?" that edited and catalogued Brazilian websites. Both companies obtained
+
+revenues through advertising sales. Even though the advertising market could
+
+include TV, radio, printed media, and internet, CADE decided to take a narrow
+
+view of the market as internet advertising in Brazil, reasoning that it was a
+
+small but growing industry and data could not yet be secured to allow for a
+
+substitution analysis between "virtual" publicity and publicity in more
+
+traditional media outlets. Nevertheless, the transaction represented too small a
+
+market share to require further scrutiny. In the proposed acquisition of Inktomi
+
+Corporation by Yahoo! the authorities determined the relevant market to be
+
+internet search, where Yahoo! did not participate but purchased search
+
+technology from Google, who did compete with Yahoo! in offering website
+
+services. Although the authorities did foresee future vertical relations among
+
+the parties, they did not consider this to be a concern. In the case of the
+
+Brazilian authorities' analysis of Yahoo!'s  [*587]  acquisition of Starmedia as
+
+early as 2003, the small size of this market and lack of data to allow for a
+
+more in depth analysis of substitution among different advertising media
+
+outlets, led the authority to only make general statements about possible
+
+elements that would differentiate internet based advertising from other types of
+
+advertising. Here, CADE took the view of deciding on a narrowly defined market
+
+for Internet advertising, and noted only differences in what it called directed
+
+advertising, publicity where the consumer takes an active role in searching for
+
+a product or service, in contrast with creative advertising, where a message
+
+reaches a consumer with the intent of persuading him or her about the qualities
+
+of certain products or services and conquering him or her for a client or
+
+advertiser. It noted that Internet advertising could include either one of these
+
+types of publicity.
+
+
+
+
+
+   2. Online Content Mergers
+
+
+
+
+
+   a. BtoB Factory/btoben.com Inc.-Argentina
+
+
+
+
+
+   For very early cases (c. 2000) there is a tendency to separate markets based
+
+on functional interchangeability. For example, Argentina's analysis of the
+
+merger between BtoB Factory and btoben.com Inc. in 2001, n101 delved into the
+
+types of internet portals involved in the operation, noting that there were 3
+
+distinguishable segments: business to consumers (B2C), business to business
+
+(B2B), and consumer to consumer (C2C). Based on this separation, the CNDC noted
+
+that there was no overlap between the business served by BtoB factory, the B2C
+
+segment, and that served by btoben.com Inc., the B2B segment. According to CNDC,
+
+since the focus of the analysis was on type of content provided by each party,
+
+the universe of existing and potential Internet content providers was
+
+sufficiently vast and barriers sufficiently low so as to deem any one company
+
+incapable of exercising significant influence.
+
+
+
+
+
+   b. Google Brasil/Akwan-Brazil
+
+
+
+
+
+   Brazil's SEAE reviewed the acquisition of Akwan by Google Brasil in 2005.
+
+n102 Both companies were regarded as having a similar  [*588]  line of business:
+
+search for final consumers with revenues generated mainly through the sale of
+
+Internet advertising space. But the line of business was not translated into one
+
+two-sided market, but instead SEAE defined the relevant markets under review as
+
+(1) Internet search technology, (2) Internet advertising space, and (3)
+
+corporate search, which was an additional service offered by Akwan and not by
+
+Google. As was the case of Argentina before, two-sided markets were defined as
+
+two one-sided markets, and even within those services, there were further narrow
+
+classifications: in Internet search technology, the authority distinguished
+
+between search firms that offered their own searching capabilities and those
+
+that searched linking to other search engines. SEAE ultimately approved the
+
+transaction.
+
+
+
+
+
+   3. Vertical Mergers: Internet Access and Online Content
+
+
+
+
+
+   a. Terra Networks/Infosel-Mexico
+
+
+
+
+
+   There were three operations reviewed by Mexico's competition authority
+
+involving access providers and content producers, we look at the two that have
+
+more information on the analysis. n103 The first, in 1999, where Terra Networks
+
+Mexico, a Spanish holding, purchased Infosel, a Mexican society offering media
+
+and news content through TV, telephony, messaging, internet, cable, electronic
+
+and telegraphic media. According to the CFC, Terra and Infosel coincided in the
+
+following relevant markets: financial information (content), financial
+
+electronic commerce, business to business, corporate services (internet service
+
+provision and solutions) and consumer services (internet service provision and
+
+websites). That same year, Via Net, which marketed Internet access services and
+
+other value added services (electronic data exchange, email, remote access to
+
+data bases), entered the Mexican market through the acquisition of Infoacces.
+
+Via Net, who offered Internet access services, installation and administration
+
+of networks and was authorized to offer value added services in various cities
+
+in Mexico. In both cases the Commission seems to have taken a mechanistic view
+
+of the markets it was reviewing: the type of content involved in the operation
+
+was  [*589]  noted, as was the service for each type of consumer (corporate or
+
+final consumers). However, true to its legal underpinnings, the CFC's analyses
+
+really focused on the effects: in both cases, the operation involved a new
+
+entrant, market definition was simply accessory to the final decision which
+
+focused on new entry, which is always good for competition, and hence received
+
+the Commission's approval.
+
+
+
+
+
+   b. Terra Networks/Lycos Inc.-Mexico
+
+
+
+
+
+   The 2000 merger between Terra Networks and Lycos Inc., which originated in
+
+the US was analyzed in Argentina as a vertical merger, that of an Internet
+
+access provider (Terra Networks, owned by Telefonica) and an online content
+
+provider, Lycos. n104 Since the parties also coincided in online content
+
+provision, the market was also analyzed. As was the case of the AOL/Time Warner
+
+merger, two one- sided markets were reviewed instead of one two-sided market. On
+
+the content production side, the CNDC argued that the parties coincided in
+
+search and content generation, with Lycos being a fairly new entrant. On the
+
+selling side of the platform, treated as an independent market from content
+
+production, an analysis similar to the AOL/Time Warner merger was undertaken.
+
+
+
+
+
+   c. Google/Motorola-Mexico
+
+
+
+
+
+   In 2011, the CFC reviewed the acquisition by Google of the Mexican
+
+subsidiaries of Motorola. n105 Google's business included search and online
+
+advertising, as well as an open architecture operating system for mobile
+
+devices, Android. Motorola, marketed hardware (mobile devices and set-top boxes
+
+or STBs) in two business segments: mobile devices including smartphones and
+
+tablets, and home appliances including broadband access solutions. The
+
+Commission concluded that there were no horizontal overlaps between the parties,
+
+but a vertical relationship. Again, following its law in determining whether the
+
+merger had or could have as object or effect harm or hindrance to the
+
+competition process, it concluded that Google had no incentives to refuse or
+
+condition the sale of Android as a result of its acquisition of Motorola.
+
+Furthermore, it reasoned, there  [*590]  were important competitors, including
+
+Nokia, Samsung, and LG. This led to an unconditional approval of the merger.
+
+n106
+
+
+
+
+
+   VI. CONCLUSIONS
+
+
+
+
+
+   In Latin America, modern antitrust institutions have emerged as a result of a
+
+changing perspective on the role that government should play in the economy.
+
+Public policy no longer considers the State as a key driver of economic growth;
+
+rather, modern antitrust policy in many of these countries regards markets as
+
+key to growth, so that interventions by an agency are usually limited to
+
+ensuring that firms follow a competitive process. As part of the efforts to
+
+"catch up" with more mature agencies, antitrust authorities in the region have
+
+made conscious efforts to "spell out" and follow best practices, particularly
+
+through guidelines. The implementation of best practices can be seen in certain
+
+antitrust analyses of Brazil, Mexico, and Argentina.
+
+
+
+
+
+   We presented three examples of casework, not necessarily related to internet-
+
+based industries, where these competition agencies have undertaken a market
+
+definition and power analysis that follows best practices. But some questions
+
+remain:
+
+
+
+
+
+   Will agencies be able to apply these same concepts as they face mergers and
+
+investigations into "new economy" industries? They certainly do have the
+
+technical capabilities to do so.
+
+
+
+
+
+   Will they have an awareness of the ways in which these practices ought to be
+
+reviewed in light of the special features that characterize these industries?
+
+We've presented considerations that must make up any competition analysis into
+
+this industry when reviewing competition matters, to ensure that their fast pace
+
+of change, multi-sided characteristics and attention seeking rivalry form part
+
+of any relevant market and power analysis.
+
+
+
+     [*591]
+
+
+
+   As one of us has argued in a previous paper, attention seeking by online
+
+rivals means that in many instances competition is not occurring "for the
+
+market" but "in the market" and this is an empirical question that authorities
+
+need to address. Analyses based on functional equivalence among services are
+
+wrong as attention rivals impose competitive constraints on each other across
+
+boundaries defined by the products and services they provide to consumers and
+
+advertisers.
+
+
+
+
+
+   Finally, while this degree of detail in the analyses of cases involving
+
+Internet-based industries have not yet been used by the competition agencies we
+
+study here, it is very likely that cases will be brought before these
+
+authorities soon. It is only a matter of time before we hopefully see a decision
+
+that provides in-depth analytical considerations about market definition and
+
+power concepts in a highly dynamic, multi-sided industry. At least that would be
+
+our wish.
+
+
+
+Legal Topics:
+
+
+
+For related research and practice materials, see the following legal topics:
+
+Antitrust & Trade LawMarket DefinitionGeneral OverviewComputer & Internet
+
+LawCivil ActionsDamagesMergers & Acquisitions LawAntitrustMarket Definition
+
+
+
+FOOTNOTES:
+
+
+
+
+
+
+
+
+
+n1  Douglas H. Ginsburg and Joshua D. Wright, Dynamic Analysis and the Limits of
+
+Antitrust Institutions, 78 Antitrust L. J. 1 (2012), available at
+
+http://ssrn.com/abstract=2084355.
+
+
+
+
+
+
+
+
+
+n2  Growing arrays of other devices are also being connected to the Internet,
+
+such as television sets, point-of-sale devices for card acceptance, and
+
+household appliances.
+
+
+
+
+
+
+
+
+
+n3  Federal Competition Commission of Mexico, Assessment of Market Power in
+
+Competition Matters, (March 2011), available at
+
+http://www.cfc.gob.mx/images/stories/Documentos/guias/ultdoctopodersustmercado.p
+
+df [hereinafter, Market Power Report]; Federal Competition Commission of Mexico,
+
+Assessment of the Relevant Market in Competition Matters, (March 2011),
+
+available at
+
+http://www.cfc.gob.mx/images/stories/Documentos/guias/doctoreferenciadefmercrele
+
+vant. pdf [hereinafter, Market Definition Report].
+
+
+
+
+
+
+
+
+
+n4  For further discussion, see Market Power Report.
+
+
+
+
+
+
+
+
+
+n5  See also, Market Definition Report, Section 2.
+
+
+
+
+
+
+
+
+
+n6  George W. Stocking and Willard F. Mueller, The Cellophane Case and the New
+
+Competition, The American Economic Review Vol. 45, No. 1 (1955): 29-63,
+
+available at http://www.jstor.org/stable/1811582.
+
+
+
+
+
+
+
+
+
+n7  Louis Kaplow and Carl Shapiro, Antitrust, Harvard Law and Economics
+
+Discussion Paper No. 575 (2007), available at http://ssrn.com/abstract=961264.
+
+
+
+
+
+
+
+
+
+n8  OECD Policy Roundtables, Market Definition, Directorate for Financial and
+
+Enterprise Affairs, Competition Committee (2012), available at
+
+http://www.oecd.org/daf/competition/Marketdefinition2012.pdf.
+
+
+
+
+
+
+
+
+
+n9  See The Commission of European Communities, "Case No IV/M.1524 -
+
+Airtours/First Choice," (Sept. 1999), available at
+
+http://ec.europa.eu/competition/mergers/cases/decisions/m1524 en.pdf.
+
+
+
+
+
+
+
+
+
+n10  Inter-American Development Bank, Organisation for Economic Co- operation
+
+and Development, Competition Law and Policy in Argentina: A Peer Review, OECD
+
+Country Studies (2006), available at
+
+http://www.oecd.org/daf/competition/Argentina-CompetitionLawPolicy.pdf.
+
+
+
+
+
+
+
+
+
+n11  The court has competency to resolve cases related in commercial matters and
+
+has decided various competition cases. However, the Supreme Court has intervened
+
+in some so that it is still unclear whether this court has indeed competence to
+
+review all competition-related cases, hence the term quasi-specialized that we
+
+use here. See Jorge Otamendi, Tribunales competentes en material de aplicaci n
+
+de la ley de defense de la competencia, LA LEY 2006-C, 656-Derecho Comercial
+
+Doctrinas Esenciales, Tomo V, 505, available at
+
+http://www.gbreuer.com.ar/admin/files/boletin
+
+archivos/Tribunales%20competentes.pdf.
+
+
+
+
+
+
+
+
+
+n12  Brazil National Law 12, 529/12 (2011), available at
+
+http://www.cade.gov.br/Default.aspx?84a467a9769494b68e.
+
+
+
+
+
+
+
+
+
+n13  Description based on Inter-American Development Bank, Organisation for
+
+Economic Co-operation and Development, Competition Law and Policy in Brazil: A
+
+Peer Review, OECD Country Studies (2010), available at
+
+http://www.oecd.org/daf/competition/45154362.pdf.
+
+
+
+
+
+
+
+
+
+n14  Id., Article 3.
+
+
+
+
+
+
+
+
+
+n15  Constituci n Politica de la Rep blica Mexicana de 1857(Constitution of the
+
+Republic of Mexico of 1857), art. 28, available at
+
+http://www.juridicas.unam.mx/infjur/leg/conshist/pdf/1857.pdf. "There will be no
+
+monopolies or state monopolies of any kind, nor prohibitions aimed at protection
+
+of industry. Excepted only those relating to the coinage of money, to the
+
+privileges that, for a limited time, the law grants to inventors or improvers
+
+for some improvement."
+
+
+
+
+
+
+
+
+
+n16  The enabling law, bylaws, internal code of rules as well as court
+
+jurisprudence legal statute are available at Comisi n Federal de Competencia M
+
+xico, Compendio Normativo en Materia de Competencia Econ mica, (2012), available
+
+at www.cfc.gob.mx/images/stories/Leyes/compendionormativo/2012/compendiocfc 2012
+
+octubre .pdf.
+
+
+
+
+
+
+
+
+
+n17  Inter-American Development Bank, Organisation for Economic Co- operation
+
+and Development, Competition Law and Policy in Mexico: An OECD Peer Review
+
+(2004), available at http://www.oecd.org/mexico/31430869.pdf.
+
+
+
+
+
+
+
+
+
+n18  Joint Directive SEAE/SDE No. 50 (Aug. 1, 2001), available at
+
+http://www.cade.gov.br/internacional/Horizontal Merger Guidelines.pdf.
+
+
+
+
+
+
+
+
+
+n19  The guidelines also mention the "hypothetical monopolist test," also part
+
+of a traditional or formalistic merger analysis.
+
+
+
+
+
+
+
+
+
+n20  See Resolution 15/98, available at
+
+http://www.cfc.gob.mx/docs/pdf/ra-15-98.pdf.
+
+
+
+
+
+
+
+
+
+n21  See Directorate for Financial and Enterprise Affairs Competition Committee,
+
+Roundtable on Market Definition, OECD (2012), available at
+
+http://search.oecd.org/officialdocuments/displaydocumentpdf/?cote=DAF/COMP(2012)
+
+13&do clanguage=en.
+
+
+
+
+
+
+
+
+
+n22  See Market Power Report and Market Definition Report.
+
+
+
+
+
+
+
+
+
+n23  Secretaria de la Competencia, la Desregulaci n y la Defensa del Consumidor
+
+(Secretary of Competition, Regulation, and Consumer Defense), Resolution
+
+164/2001, available at http://www.infoleg.gob.ar/infolegInternet/anexos/70000-
+
+74999/70302/norma.htm.
+
+
+
+
+
+
+
+
+
+n24  Joint Directive, SEAE/SDE No. 50 (2001) at 8, available at
+
+http://www.cade.gov.br/internacional/Horizontal Merger Guidelines.pdf. Product
+
+and geographic dimension of the relevant market are defined in Item 28.
+
+
+
+
+
+
+
+
+
+n25  Resolution 164/2001, available at
+
+http://www.infoleg.gob.ar/infolegInternet/anexos/70000-74999/70302/norma.htm.
+
+Note that this test is not conclusive.
+
+
+
+
+
+
+
+
+
+n26  Joint Directive, SEAE/SDE No. 50 (2001) at 8, available at
+
+http://www.cade.gov.br/internacional/Horizontal Merger Guidelines.pdf. The SSNIP
+
+test is defined in Item 30 of the Guidelines of Horizontal Mergers but is not
+
+used often in the analysis of cases.
+
+
+
+
+
+
+
+
+
+n27  While not explicitly mentioned, Resolution 164/2001 does not prohibit it
+
+either.
+
+
+
+
+
+
+
+
+
+n28  It is not explicitly described in law, Guidelines or cases.
+
+
+
+
+
+
+
+
+
+n29  See Market Definition Report, which is a suggested set of best practices
+
+but non-binding to the authority.
+
+
+
+
+
+
+
+
+
+n30  Resolution 164/2001, available at
+
+http://www.infoleg.gob.ar/infolegInternet/anexos/70000-74999/70302/norma.htm. It
+
+is important to analyze the producers' location for the determination of the
+
+relevant geographic market.
+
+
+
+
+
+
+
+
+
+n31  Joint Directive, SEAE/SDE No. 50 (2001) at 9, available at
+
+http://www.cade.gov.br/internacional/Horizontal Merger Guidelines.pdf. Item 32
+
+of the Guidelines for horizontal concentrations describes that the agency must
+
+consider suppliers' location, but this is not always included in the analysis of
+
+all cases.
+
+
+
+
+
+
+
+
+
+n32  Resolution 164/2001 requires evidence that consumers are able to move to
+
+other areas due to changes in price in order to buy the product.
+
+
+
+
+
+
+
+
+
+n33  Joint Directive, SEAE/SDE No. 50 (2001) at 9, available at
+
+http://www.cade.gov.br/internacional/Horizontal Merger Guidelines.pdf. Item 32
+
+of the Guidelines for horizontal concentrations notes that the agency must
+
+consider consumers' location, but this is not always considered in every case.
+
+
+
+
+
+
+
+
+
+n34  Resolution 164/2001 can be interpreted as saying both that rapid entrants
+
+need to be considered (a low barriers to entry argument) and that supply- side
+
+substitution ought to be included as well, since the example it presents is that
+
+of paper whereby a company can adjust its production technology to produce
+
+different grades of paper.
+
+
+
+
+
+
+
+
+
+n35  Joint Directive, SEAE/SDE No. 50/2001 at 9, available at
+
+http://www.cade.gov.br/internacional/Horizontal Merger Guidelines.pdf. According
+
+to Item 32 of the Guidelines for horizontal concentrations, the agency must
+
+consider time and costs involved in producing substitute products, but this is
+
+not always included in all of the cases analyzed.
+
+
+
+
+
+
+
+
+
+n36  By allowing for technical possibilities of substitution of a product or
+
+service within paragraph I of article 12, the law is allowing for supply-side
+
+substitution within the relevant market definition analysis. Federal Law of
+
+Economic Competition, Mexico.
+
+
+
+
+
+
+
+
+
+n37  Resolution 164/2001, available at
+
+http://www.infoleg.gob.ar/infolegInternet/anexos/70000-74999/70302/norma.htm.
+
+
+
+
+
+
+
+
+
+n38  Resolution 164/2001, subsection II.3 (and is also applied where
+
+concentrations are horizontal or vertical).
+
+
+
+
+
+
+
+
+
+n39  Resolution 164/2001, subsection II.4 (and in several cases when the type of
+
+concentration is horizontal or vertical).
+
+
+
+
+
+
+
+
+
+n40  Resolution 164/2001, subsection IV. Consider supply side substitution as an
+
+element for the possibility of abusing market power.
+
+
+
+
+
+
+
+
+
+n41  Although not explicitly excluded, marginal consumers' considerations are
+
+not taken into account neither in the Resolution 164/2001 nor in case decisions.
+
+
+
+
+
+
+
+
+
+n42  Marginal consumers are not considered in law or in the Guidelines for
+
+Horizontal Mergers. They are not considered either in the cases analyzed, but
+
+this type of analysis is not prohibited.
+
+
+
+
+
+
+
+
+
+n43  Market Power Report at 13-14.
+
+
+
+
+
+
+
+
+
+n44  Resolution 164/2001 subsection III.b. Non-price competition, mainly
+
+innovation, is considered as part of the unilateral effects to measure the
+
+competitive assessments, but is not mentioned with regards to market power.
+
+
+
+
+
+
+
+
+
+n45  Market Power Report; Market Definition Report.
+
+
+
+
+
+
+
+
+
+n46  Is not explicitly defined in Resolution 168/2001 but an outline of this
+
+subject could be seen in subsection VII, and in various cases vertical relations
+
+of parties to a concentration, where upstream and downstream effects are
+
+analyzed and the agency has explores any changes to buying power.
+
+
+
+
+
+
+
+
+
+n47  Market Power Report, 16-17.
+
+
+
+
+
+
+
+
+
+n48  Resolution 168/2001, Subsection IV.
+
+
+
+
+
+
+
+
+
+n49  Horizontal Merger Guidelines, Item 45, available at
+
+http://www.cade.gov.br/internacional/Horizontal Merger Guidelines.pdf.
+
+
+
+
+
+
+
+
+
+n50  Article 12 of rulings to the law (Federal Law of Economic Competition,
+
+Mexico) describes different elements that can be considered barriers to entry,
+
+such as financial costs, investment amounts and indivisibilities, legal
+
+barriers, advertising expenditures and legal limitations, but does not
+
+explicitly describe timeliness, likeliness and sufficiency of entry.
+
+
+
+
+
+
+
+
+
+n51  Resolution 168/2001, Subsection VI.
+
+
+
+
+
+
+
+
+
+n52  Horizontal Merger Guidelines, Items 61-65, available at
+
+http://www.cade.gov.br/internacional/Horizontal Merger Guidelines.pdf.
+
+
+
+
+
+
+
+
+
+n53  This is contained within the definition of relative monopolistic
+
+practices-conduct analyzed by rule of reason (article 10)-and of anticompetitive
+
+mergers (article 16). The language for both note that in order to establish an
+
+infringement to the law it is necessary to determine that their objective or
+
+effect is to unduly displace, substantially foreclose or establish exclusive
+
+advantages, for conduct investigations; or to reduce, harm or impede competition
+
+and free market access for anticompetitive mergers. Federal Law of Economic
+
+Competition, Mexico.
+
+
+
+
+
+
+
+
+
+n54  Resolution 164/2001. Unilateral effects are not explicitly stated as such,
+
+but the Resolution states that a merger review must consider whether the company
+
+eliminated was a vigorous and effective competitor.
+
+
+
+
+
+
+
+
+
+n55  Resolution 164/2001. Coordinated effects are not explicitly stated as such,
+
+but the Resolution states that the characteristics of the remaining competitors
+
+in the relevant market have to be considered, and if they tend to accept
+
+stability and behave as followers, competitive conditions could be harmed.
+
+
+
+
+
+
+
+
+
+n56  Federal Law of Economic Competition, Mexico. This is still an open
+
+question. Article 17 of the law clearly foresees unilateral effects but adds
+
+that any act or attempt to exercise monopolistic practices is evidence of an
+
+anticompetitive merger. This has currently been interpreted as a possibility to
+
+review coordinated effects within a merger.
+
+
+
+
+
+
+
+
+
+n57  This section draws largely from David S. Evans, Attention Rivalry among
+
+Online Platforms and Its Implications for Antitrust Analysis, Journal of
+
+Competition Law and Economics (forthcoming). University of Chicago Institute for
+
+Law & Economics Olin Research Paper No. 627 (2013), available at
+
+http://dx.doi.org/10.2139/ssrn.2195340.
+
+
+
+
+
+
+
+
+
+n58  See David S. Evans, Vanessa Zhang, and Howard Chang, Analyzing Competition
+
+among Internet Players: Qihoo v. Tencent, CPI Antitrust Chronicle(2013).
+
+
+
+
+
+
+
+
+
+n59  Lucia Bibolini and Lawrence Baker, Latin American Broadband and Internet
+
+Market, 9th ed., available at http://www.budde.com.au/Research/2010-Latin-
+
+American-Broadband-and-Internet-Market.html.
+
+
+
+
+
+
+
+
+
+n60  Comscore, available at http://www.comscore.com (last accessed Dec. 2011).
+
+
+
+
+
+
+
+
+
+n61  Comscore, available at http://www.comscore.com (last accessed June 2007).
+
+
+
+
+
+
+
+
+
+n62  Google and Ipsos, 2012, available at
+
+http://www.rcrwireless.com/americas/20120522/devices/smartphone-penetration-24-i
+
+n- argentina-20-in-mexico-14-in-brazil.
+
+
+
+
+
+
+
+
+
+n63  The advent of smart mobile devices has increased the amount of time that
+
+consumers realistically have available for Internet-based activities. They are
+
+still constrained by having no more than 168 hours a week.
+
+
+
+
+
+
+
+
+
+n64  See David S. Evans and Richard Schmalensee, The Antitrust Analysis of
+
+Multi-Sided Platform Businesse, Oxford Handbook on International Antitrust
+
+Economics, eds. Roger Blair and Daniel Sokal (Oxford University Press, 2013).
+
+Also available in University of Chicago Institute for Law & Economics, Olin
+
+Research Paper No. 623 (forthcoming), available at
+
+http://ssrn.com/abstract=2185373.
+
+
+
+
+
+
+
+
+
+n65  The fixed cost could be endogenous in the sense that firms invest more in
+
+the asset in anticipation of attracting more people.
+
+
+
+
+
+
+
+
+
+n66  See David S. Evans, Andrei Hagiu, and Richard Schmalensee, Invisible
+
+Engines: How Software Platforms Drive Innovation and Transform Industries (MIT
+
+Press, 2006).
+
+
+
+
+
+
+
+
+
+n67  David S. Evans, Attention Rivalry among Online Platforms and Its
+
+Implications for Antitrust Analysis, University of Chicago Institute for Law &
+
+Economics Olin, Research Paper No. 627 (2013) at 9-10, available at
+
+http://ssrn.com/abstract=2195340 or http://dx.doi.org/10.2139/ssrn.2195340. The
+
+total amount of time spent online increased by 373 percent between September
+
+2002 and September 2012. That figure includes both the increase in the number of
+
+people online and the increase in the average amount of time spent online.
+
+
+
+
+
+
+
+
+
+n68  Id.
+
+
+
+
+
+
+
+
+
+n69  United States Securities and Exchange Commission, Yahoo Inc. Annual Fiscal
+
+Report (Washington D.C. 2011) at 14, available at
+
+http://www.sec.gov/Archives/edgar/data/1011006/000119312513085111/d442073d10k.ht
+
+m.
+
+
+
+
+
+
+
+
+
+n70  See Evans, Attention Rivalry.
+
+
+
+
+
+
+
+
+
+n71  Comscore, available at http://www.comscore.com (last accessed Apr. 2013).
+
+
+
+
+
+
+
+
+
+n72  Some of these new websites do not represent new businesses, but are rather
+
+new websites for existing businesses.
+
+
+
+
+
+
+
+
+
+n73  Compete.com database, January 2012 and July 2012.
+
+
+
+
+
+
+
+
+
+n74  Compete.com, September 2002 to September 2012.
+
+
+
+
+
+
+
+
+
+n75  Compete.com, September 2002, September 2007, and September 2012.
+
+
+
+
+
+
+
+
+
+n76  www.alexa.com.
+
+
+
+
+
+
+
+
+
+n77  Under the narrower definition, a website counts as an advertising-
+
+supported attention seeker if 1) it is consumer-focused, and 2) its revenues
+
+come exclusively or almost exclusively from banner ads, search ads, or flat
+
+listing fees for items for sale. Under the broader definition, a website counts
+
+as an attention- seeker if 1) it is consumer focused, 2) it earns substantial
+
+revenue from banner ads, search ads, fees for items for sales (whether flat
+
+listing fees, commissions, revenue sharing, buyer fees, or sales lead fees), 3)
+
+its other revenue comes from advertising-related sources, such as consumer
+
+research, marketing campaign design, other marketing services, premium
+
+membership fees for consumers to avoid ads and/or receive additional services,
+
+and credits for virtual goods.
+
+
+
+
+
+
+
+
+
+n78  Conversions are defined as the proportion of visitors to a website who take
+
+action to go beyond a casual content view or website visit as a result of subtle
+
+or direct request from marketers, advertisers, and content creators.
+
+
+
+
+
+
+
+
+
+n79  See Catherine Tucker, The Implications of Improved Attribution and
+
+Measurability for Online Advertising Markets?, (Competition Conference,
+
+University of Melbourne, Nov. 6, 2012), available at
+
+http://ipria.org.au/events/conf/Competition Conference/Measureabiltiy and online
+
+ads. pdf.
+
+
+
+
+
+
+
+
+
+n80  According to marketing material for Visual IQ's IQ Intelligence Suite,
+
+which is one of the leading cross-channel attribution technologies, "Once your
+
+marketing performance data and customer data (and any other data you wish to
+
+include) has been collected, formatted, normalized and integrated during the
+
+software set-up process, IQ Insight presents it to you through its powerful, yet
+
+easy to use dashboard and reporting interface. This allows you the flexibility
+
+to view, report upon and compare the performance of every channel, campaign and
+
+marketing tactic side by side, and to analyze that performance by any criteria
+
+specific to your company, industry or business model. IQ Insight provides both
+
+executive overview and granular views of your marketing ecosystem using a common
+
+set of your own key performance indicators (KPIs)," available at
+
+http://www.visualiq.com/products/iq-intelligence- suite (last accessed Nov.
+
+2012).
+
+
+
+
+
+
+
+
+
+n81  Econsultancy (2012). The data were collected from September 26 through
+
+October 23, 2011. Of 607 respondents, 44 percent were located in North America
+
+and 33 percent were in the United Kingdom.
+
+
+
+
+
+
+
+
+
+n82  Forrester Interactive Attribution (2012).
+
+
+
+
+
+
+
+
+
+n83  Asociaci n Mexicana de Televisi n (AMIPCI), H bitos de los usuarios de
+
+Internet en Mexico. May 17, 2011 and October 2007, 2011 version available at
+
+http://www.slideshare.net/venturis/amipci-hbitos-de-los-usuarios-de-internet-en-
+
+mxico-2011.
+
+
+
+
+
+
+
+
+
+n84  Different sources of attention may have different values to advertisers
+
+because of differences in "how attentive" people are to advertisements on the
+
+property and the context in which they are seeing the advertisements. These
+
+differences between source of attention lead to differences in the likelihood
+
+that a view by a consumer will result in a "conversion"-that is a sale of a
+
+good-for the merchant. However, these differences do not necessarily lead to
+
+traditional product differentiation issues. For example, if property A leads to
+
+10 percent of the conversions per person viewing an advertisement as property B,
+
+and that is the only difference, the price for showing an ad to a person on
+
+property B would be 10 percent of the price of the same advertisement on
+
+property A. At these prices the two properties would be close substitutes. For
+
+example, it is much "cheaper" per click to buy display ads on Facebook than to
+
+buy search ads on Google. But the Facebook ads result in much fewer conversions
+
+per click than do the Google ads. See Larry Kim, Google Display Network vs.
+
+Facebook Advertising, Wordstream (2012), available at
+
+http://www.wordstream.com/blog/ws/2012/05/15/ipo-facebook-vs-google-display-
+
+advertising; see also, JCD Repair, Google Adwords vs. Facebook Ads - It Was No
+
+Contest, (2012), available at http://www.jcdrepair.com/blog/google-adwords-vs-
+
+facebook-ads-it-was-no-contest/645.
+
+
+
+
+
+
+
+
+
+n85  Avi Goldfarb and Catherine Tucker, Substitution between Offline and Online
+
+Advertising Markets (2010), available at http://dx.doi.org/10.2139/ssrn.1721001.
+
+
+
+
+
+
+
+
+
+n86  Chantal Tode, Macy's makes mobile integral part of Black Friday strategy to
+
+drive in-store sales, Mobile Commerce Daily (2012), available at
+
+http://www.mobilecommercedaily.com/macy%E2%80%99s-enhances-mobile-app-to-facilit
+
+ate- shopping-on-black-friday; Chantal Tode, Fairmont Hotels enhances foursquare
+
+check-ins with location-based offers, Mobile Commerce Daily (2012), available at
+
+http://www.mobilecommercedaily.com/fairmont-hotels-enhances-foursquare-check-ins
+
+- with-location-based-offers.
+
+
+
+
+
+
+
+
+
+n87  For the purposes of this Article, attention is the time that consumers
+
+spend focusing their minds on content. Attention rivals provide products and
+
+services to buyers, such as advertisers, who would like to get some of this
+
+attention. This attention is not necessarily fungible. Depending on the
+
+circumstances in which it is provided advertisers might have a chance of getting
+
+more attention or greater focused from consumers or might get attention in a
+
+context that makes that attention more valuable because they have a greater
+
+chance of persuading consumers to buy something.
+
+
+
+
+
+
+
+
+
+n88  Although an example from one of the three Latin American countries we have
+
+presented here would have been ideal, our research into the experiences of
+
+Argentina, Brazil, and Mexico in reviewing internet-based cases offered very
+
+little information about their analysis. Nevertheless, we present a summary of
+
+this research in an Appendix to the paper.
+
+
+
+
+
+
+
+
+
+n89  Skype and Microsoft provide communication services to consumers and
+
+enterprises. For the sake of brevity this section just considers the merger
+
+issues relevant for the consumer services.
+
+
+
+
+
+
+
+
+
+n90  EC Microsoft Skype Decision, Case No. Comp/M.6281-Microsoft/Skype (2011) at
+
+20, available at http://ec.europa.eu/competition/mergers/cases/decisions/m6281
+
+20111007 20310 2079398 EN.pdf.
+
+
+
+
+
+
+
+
+
+n91  National Commission for Defense of Competition (CNDC), Dict men 196/2004,
+
+Grupo Telef nica and BellSouth Corporation (2004).
+
+
+
+
+
+
+
+
+
+n92  Ato de Concentra o 08012.001697/2002-89. Oficio SDE/GAB 050/2002. Nestle
+
+Brasil LTDA. e Chocolates Garoto S.A. (2002), available at
+
+http://www.cade.gov.br/Default.aspx?e142c252a3798dadb8.
+
+
+
+
+
+
+
+
+
+n93  Case number DE-013-2008 (appeal RA-037-2012), available at
+
+http://resoluciones.cfc.gob.mx/ (last accessed June 2012).
+
+
+
+
+
+
+
+
+
+n94  It is unfortunate, however, that the level of detail in the analysis of
+
+these cases is scant in the case of Argentina and most notably in Mexico.
+
+Nevertheless, to the extent that we can present their decisions as a reference
+
+of what the agency considered the relevant markets to be and whether market
+
+power existed in this industry, we've included the authorities' determinations
+
+here.
+
+
+
+
+
+
+
+
+
+n95  CNDC, Dictamen 144, America Online Inc. and Time Warner Inc. (Oct. 24,
+
+2000), available at http://www.cndc.gov.ar/dictamenes/39 1 000144.pdf.
+
+
+
+
+
+
+
+
+
+n96  Department of Justice, Secretary of Economic Law, Ato de Concentra ao
+
+08012.008554/2007-11, Microsoft Corporation and aQuantive Inc. (2007), available
+
+at http://www.cade.gov.br/plenario/Sessao 404/Pareceres/ParecerProcade AC
+
+08012.008554- 2007-11 001.pdf.
+
+
+
+
+
+
+
+
+
+n97  Department of Justice, Secretary of Economic Law, Ato de Concentra ao
+
+08012.000710/2008-78, Microsoft Corporation and Fast Search & Transfer Asa.
+
+(2008), available at http://www.cade.gov.br/temp/t1010201310013648.pdf.
+
+
+
+
+
+
+
+
+
+n98  Departmentof Justice, Secretary of Economic Law, Ato de Concentra ao
+
+08012.006419/2009-94, Ministerio Da Justi a. Secretaria de Direito Econ mico.
+
+Microsoft Corporation y Yahoo! Inc. (Aug. 24 2009), available at
+
+http://www.cade.gov.br/temp/t1010201310013966.pdf.
+
+
+
+
+
+
+
+
+
+n99  Department of Justice, Administrative Council for Economic Defense, Ato de
+
+Concentra ao 08012.000182/2002-61, Yahoo! Do Brasil Internet y Starmedia do
+
+Brasil Ltda.
+
+
+
+
+
+
+
+
+
+n100  Department of Justice, Secretary of Economic Law, Ato de Concentra ao
+
+08012.000212/2003-11 Yahoo! Inc. y Inktomi Corporation (Jan. 14, 2003).
+
+
+
+
+
+
+
+
+
+n101  CNDC, Dictamen 197, B to B Factory Ventures S.A. y Consalvi International
+
+Inc. (Jan. 25 2001).
+
+
+
+
+
+
+
+
+
+n102  Department of Finance, Secretary for Economic Monitoring, Ato de Concentra
+
+ao 08012.006162/2005-47, Google Brasil Internet Ltda. y Akwan S.A. (Aug. 26
+
+2005), available at http://www.abusando.org/denuncias/akwan-cade google1.pdf.
+
+
+
+
+
+
+
+
+
+n103  CNT-138-1999 (Terra Networks Mexico, SA de CV / Informacion Selectiva, SA
+
+de CV / Infoshare Communications, Inc / Interdata Infosel, SA de CV / Seguridad
+
+Privada, SA de CV), (October 4, 1999), available at
+
+http://www.cfc.gob.mx/docs/pdf/cnt-138-99.pdf; CNT-139-1999 (Via Net Works, Inc
+
+/ Infoaccess, SA de CV), (Nov. 15, 1999), available at
+
+http://www.cfc.gob.mx/IMAGES/STORIES/PUBLICACIONES/GACETAS/05SEPTIEMBRED
+
+ICIEMBRE1999/ G5-2CONCENTRACIONES.PDF; CNT-41-2004 (Flux International / MVS Net
+
+/ Clearwire Corporation), (May 19, 2004), available at
+
+http://www.cfc.gob.mx/docs/pdf/cnt-41- 2004.htm.pdf.
+
+
+
+
+
+
+
+
+
+n104  CNDC, Dictamen 153, Terra Networks y Lycos Virginia (Nov. 17 2000),
+
+available at http://www.cndc.gov.ar/dictamenes/39 1 000153.pdf.
+
+
+
+
+
+
+
+
+
+n105  Federal Competition Comission, Expediente No. CNT 090-2011, Google Inc.
+
+and Motorola Mobility Holding (Dec. 8 2011), available at
+
+http://www.cfc.gob.mx/cfcresoluciones/docs/concentraciones/V414/1/1613669.pdf.
+
+
+
+
+
+
+
+
+
+n106  Google/Motorola was also reviewed and approved by CADE. It is currently
+
+under review in Argentina by the CNDC.
+
+
+
+
+

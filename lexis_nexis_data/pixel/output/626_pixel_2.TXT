@@ -1,0 +1,112 @@
+                              626 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                            December 5, 2014 Friday
+
+
+
+US Patent granted to Google Inc. (California) on December 2, titled as
+
+"Detection and suppression of flicker in a sequence of images"
+
+
+
+LENGTH: 267  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,903,171, on
+
+December 2, 2014, to Google Inc. (California), titled as "Detection and
+
+suppression of flicker in a sequence of images"
+
+
+
+Inventors:  Volcker; Bjorn (Bromma, SE), Kleijn; Willem Bastiaan (Lower Hutt,
+
+NZ)
+
+Assignee:  Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office: "The
+
+invention relates to a method, device and computer-program product for detection
+
+of undesired temporal variations (flicker) in a sequence of video frames. In one
+
+embodiment, frame-wise luminance means are compared with a reference level and
+
+the crossing frequency is compared with expected variation frequencies, such as
+
+frequencies associated with an illumination frequency through aliasing. The
+
+crossings count can be refined by introducing a latency zone around the
+
+reference level. In case of a positive detection of an undesired temporal
+
+variation, there is further provided a correction method, device and
+
+computer-program product using cumulated distribution functions. The visual
+
+detriment of flicker-induced saturation of pixels is alleviated either by
+
+brightening non-saturated pixels or by replacing the saturated pixels by
+
+randomly sampled values in accordance with a reference cumulated distribution
+
+function. The invention provides embodiments suitable for real-time processing
+
+of streamed video sequences."
+
+
+
+The patent was filed on February 6, 2010 Application no. 13/521,144
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: December 5, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

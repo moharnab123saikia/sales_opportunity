@@ -1,0 +1,108 @@
+                              213 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                             July 3, 2014 Thursday
+
+
+
+USPTO Published Patent application of Google Inc titled as "Determining Image
+
+Alignment Failure"
+
+
+
+LENGTH: 223  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has received an application no.
+
+20140176731, published on June 26, 2014, by Google Inc, titled as "Determining
+
+Image Alignment Failure" for the registration of patent.
+
+
+
+Inventors: Geiss; Ryan; (San Jose, CA)
+
+Assignee: Google Inc.
+
+Mountain View
+
+CA
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office: "A
+
+first set of pixels of a short exposure image and a second set of pixels of a
+
+long exposure image may be obtained. The short exposure image may have been
+
+captured using a short total exposure time (TET) and the long exposure image may
+
+have been captured using a long TET. The long TET may be greater than the short
+
+TET. The first set of pixels and the second set of pixels may be aligned. A
+
+first pixel value of a first pixel in the first set of pixels and a second pixel
+
+of a second pixel in the second set of pixels value may be compared. Based on
+
+the comparison, an alignment error value for the first pixel and the second
+
+pixel may be determined. Based at least on the alignment error value, an output
+
+image may be provided."
+
+
+
+The Patent was filed on December 20, 2012 under application No. 20140176731
+
+
+
+For more information please visit: http://www.uspto.gov/. In case of any query
+
+regarding this article or other content needs please contact:
+
+editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: July 4, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

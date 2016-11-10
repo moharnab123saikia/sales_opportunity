@@ -1,0 +1,606 @@
+                              234 of 999 DOCUMENTS
+
+
+
+
+
+                            The New York Times Blogs
+
+                                     (Bits)
+
+
+
+                           September 9, 2014 Tuesday
+
+
+
+Answers to Questions About Apple's Announcements, Including the Watch and iPhone
+
+6
+
+
+
+BYLINE: NICOLE PERLROTH
+
+
+
+SECTION: TECHNOLOGY
+
+
+
+LENGTH: 1749 words
+
+
+
+
+
+
+
+HIGHLIGHT: We try to answer your pressing questions about Apple&#8217;s new line
+
+of products. It doesn&#8217;t look good for left-handed watches.
+
+
+
+
+
+Updated | There had been weeks of rumors and speculation about what Apple would
+
+announce. On Tuesday, we got a glimpse of the company's new offerings, which
+
+included two bigger versions of the iPhone, as well as a smartwatch, dubbed
+
+Apple Watch.
+
+
+
+During the announcement, readers submitted their questions on everything from
+
+how Apple's new payment system will work to when the new phones would be
+
+available.
+
+
+
+Below are responses to select questions, answered by Times reporters and
+
+editors:
+
+
+
+Q.
+
+
+
+Keith from Denver asks, "Is there a left-handed version of the watch, with the
+
+crown on the left side of the watch?"
+
+
+
+A.
+
+
+
+The Apple event only featured watches for right-handed users and we may not know
+
+definitively if there will be a left-handed watch until it becomes available
+
+early next year. Apple co-founder Steven P. Jobs was ambidextrous so one would
+
+hope Apple would cater to lefties as well, but an Apple employee tells us there
+
+is currently no left-handed version.
+
+
+
+Q.
+
+
+
+Several readers asked about the pricing for non-contract, unlocked phones.
+
+
+
+A.
+
+
+
+The new iPhone pricing presented by Apple today featured the cost of the devices
+
+when combined with a two-year cellular service contract. The iPhone 6 starts at
+
+$199 and goes to $299 and $399 depending on memory. The $199 offers 16 GB of
+
+memory; the $299 offers 64 GB of memory and the $399 model has 128 GB of memory,
+
+double the previous maximum of 64 GB. The iPhone 6 Plus starts at $299 with a
+
+two-year contract for 16 GB of storage and is $399 and $499 for 64 GB and 128 GB
+
+of storage, respectively.
+
+
+
+Non-contract phones are significantly more expensive. Without a contract, the
+
+iPhone 6 costs $649 for 16 GB; $749 for 64 GB; and $849 for 128 GB. Without a
+
+contract, the iPhone 6 Plus costs $749, $849 and $949.
+
+
+
+Both devices will become available on Sept. 19, and can be preordered on Sept.
+
+12.
+
+
+
+Q.
+
+
+
+A reader asks, "As a petite woman I find that my old iPhone 4 is the maximum
+
+size that will fit in many of my pants pockets. The 5 is really stretching
+
+things (literally). Will Apple continue to provide smaller phones for smaller
+
+people? Would the health tracking features of the 6 work if the phone is in a
+
+bag rather than a pocket? Would I look like a kid trying on mommy's watch even
+
+with the smaller iWatch?"
+
+
+
+A.
+
+
+
+Unfortunately for us petite women, it doesn't appear Apple is going to make
+
+smaller phones any time in the near future. They will, however, continue to sell
+
+the iPhone 5C, but as my colleague Brian X. Chen reports, Apple is catering to
+
+the growing appetite for bigger smartphones.
+
+
+
+IDC, the research firm, estimates that at least 20 percent of all smartphones
+
+shipped last year in China, the world's largest smartphone market, were five
+
+inches or larger. IDC predicts that manufacturers this year will ship more
+
+"phablets"- smartphones with screens measuring more than 5.5 inches diagonally -
+
+than laptops.
+
+
+
+To deal with concerns that a bigger phone will make typing with one hand
+
+difficult, some changes to the design of the iPhones' user interface will allow
+
+people to type or use apps with just one hand; there will be a one-handed mode
+
+that can be switched on and off, two employees said.
+
+
+
+As for the Apple watch, the watch case ranges from 38 mm to 42 mm, or about the
+
+size of a quarter and postage stamp.
+
+
+
+Q.
+
+
+
+Similarly, a reader in New York asks, "What are the actual dimensions of the new
+
+phones? I'm trying to get a sense of how tall/ wide they are. For example, I am
+
+trying to assess if the 5.5" iPhone 6 Plus will be comfortable to hold!"
+
+
+
+A.
+
+
+
+The iPhone 6 and iPhone 6 Plus are thinner and larger than the previous iPhone 5
+
+models. Compared with the iPhone 5S display, which measures 4 inches diagonally,
+
+the iPhone 6 and iPhone 6 Plus measure 4.7 inches and 5.5 inches diagonally,
+
+respectively.
+
+
+
+Q.
+
+
+
+Tess asks, "Do I need to carry my iPhone with me if I'm using the watch? Or is
+
+it independent of the watch?"
+
+
+
+A.
+
+
+
+Good question. Apple was pretty vague in its announcement. The Apple Watch pairs
+
+with the newer iPhones - including the iPhone 5, 5S, 5C and iPhone 6 - and pass
+
+information back and forth. If you don't have your iPhone with you, basic watch
+
+functions like time and health and fitness tracking will work, but users will
+
+have limited functionality without their iPhones as far as messaging, music and
+
+other features.
+
+
+
+Q.
+
+
+
+A reader in Portland, Oregon asks, "Any sense of why Apple Pay won't launch
+
+until October?"
+
+
+
+A.
+
+
+
+Since Apple Pay appears to only work with the latest versions of the iPhone -
+
+the 6 and 6 Plus - the delay is likely to give the phone time to propagate
+
+throughout the market and possibly also to give its merchant partners like
+
+Disney and Whole Foods time to implement the necessary near-field communication
+
+terminals and payment systems.
+
+
+
+Q.
+
+
+
+@nicoleperlroth @nytimes @nytimesbits What was in the big box/building outside
+
+Flint Center? - Suzanne Khan (@NDcarTwit)9 Sep 14
+
+
+
+A.
+
+
+
+Bono, apparently.
+
+
+
+Q.
+
+
+
+Chris from Connecticut writes, "What ever happened with all the talk about
+
+sapphire screens?"
+
+
+
+A.
+
+
+
+So, about those sapphire screens. One publication reported that the new iPhone 6
+
+models would incorporate sapphire screens that would be harder to shatter than
+
+glass. Not so. The new iPhone 6 and 6 Plus are made with old-fashioned glass.
+
+However, the displays for the most basic Apple Watch and Watch Edition models
+
+will be protected by polished sapphire crystal. Apple chose the material
+
+because, next to diamond, it is the hardest transparent material on earth. The
+
+Apple Watch Sport, however, will be protected by Ion-X glass, which is lighter
+
+and makes more sense for running and other exercise.
+
+
+
+Q.
+
+
+
+David from New Jersey asks: "Does the new watch allow for NFC transactions?
+
+There's a Passbook App on the watch, but the keynote was blank about it. If the
+
+watch does do NFC transactions, will it work with older iPhones. For example, if
+
+someone has an iPhone 5C or 5S, could they do NFC via the watch?"
+
+
+
+A.
+
+
+
+The iPhone 6 models and the new watches support near-field communication, or
+
+NFC, which allows devices to send information wirelessly over very short
+
+distances. Apple teamed up with American Express, Mastercard and Visa to support
+
+the NFC payment system, so that iPhone users can use their phone as a digital
+
+wallet.
+
+
+
+Apple Pay will only work with the iPhone 5 models if the user has one of the
+
+newer watches, but won't work until the watches are available early next year.
+
+
+
+Security experts are cheering Apple's move to NFC because it incorporates the
+
+chip-based smart card standard known as EMV - for Europay-Mastercard-Visa - the
+
+companies that first backed the technology. Security gurus say EMV is more
+
+secure than the magnetic strips on credit cards, because it uses a unique code
+
+for each purchase, making it exceedingly difficult - albeit not impossible -for
+
+hackers to use stolen card numbers for future purchases, or to counterfeit
+
+cards.
+
+
+
+The influx of NFC-enabled iPhones could help jump-start mobile payments, which
+
+has yet to take off. Google released a digital wallet in 2011 with little
+
+success. And the unfortunately named Isis - a mobile wallet backed by three
+
+major carriers which was recently renamed Softcard - never caught on either.
+
+
+
+Q.
+
+
+
+Jordan Moore in Los Angeles, "Does the watch have an altimeter, like FitBit One,
+
+so you know how many flights of stairs or their equivalent you've climbed?"
+
+
+
+A.
+
+
+
+Apple did not specifically mention an altimeter. The company only said the watch
+
+will include all the capabilities of an all-day fitness tracker and a highly
+
+advanced sports watch. Here's what Apple said it will measure specifically: An
+
+accelerometer that measures total body movement, a heart rate sensor, and an
+
+Activity app which shows how often you've stood up. The watch will use the GPS
+
+and Wi-Fi in your iPhone to track how far you've moved.
+
+
+
+Q.
+
+
+
+Sam from Boston writes, "Is watch water resistant or waterproof? They didn't
+
+mention it, but if a $350 device I'm supposed to wear all day and through
+
+workouts isn't, it seems like a deal breaker."
+
+
+
+A.
+
+
+
+Apple did not mention whether its new watches will be water resistant or
+
+waterproof, but if Apple ads featuring hot models dripping sweat onto their new
+
+Apple Watch are any indication, then one hopes they will be! Otherwise, some
+
+models just broke a lot of brand new Apple Watches.
+
+
+
+Q.
+
+
+
+John from New York writes, "What's the anticipated timing of a refresh on the
+
+iPad line? Is it reasonable to expect something before the 2014 holiday season?
+
+Thanks!"
+
+
+
+A.
+
+
+
+Apple typically upgrades their iPads once a year. The company has not upgraded
+
+the iPad since last October, so the rumor is we can expect an iPad upgrade
+
+before the holiday season.
+
+
+
+Q.
+
+
+
+Jon C from Albuquerque, New Mexico asks, "Will the iWatch have an ambient light
+
+sensor, like the Moto 360, to dim the display?"
+
+
+
+A.
+
+
+
+Apple didn't mention an ambient light sensor, but we can expect some kind of
+
+sensor that detects motion or light to turn the device on.
+
+
+
+Q.
+
+
+
+Mike from New York asks, "Can it be that the lowest capacity iPhone 6 will have
+
+only 16 GB capacity, two GBs LESS capacity than my current iPhone 5? Will this
+
+make a noticeable difference to someone who does not view many videos or play
+
+any games on the phone?"
+
+
+
+A.
+
+
+
+No. If you don't watch videos or download games on your phone, you will only
+
+have to worry about photo storage. And you definitely don't have to worry about
+
+app sizes growing. As Phil Schiller noted on stage Tuesday, the current 1.3
+
+million apps that work on earlier iPhones will automatically work on the new
+
+iPhone 6 and iPhone 6 Plus models.
+
+
+
+Q.
+
+
+
+John from Massachusetts asks, "Apple mentioned nightly charging requirement; how
+
+long does it take to charge? How long will it run with minimal use?"
+
+
+
+A.
+
+
+
+Great question. Apple executives did not mention battery life or charging times,
+
+possibly because the company is still trying to figure it out.
+
+
+
+Q.
+
+
+
+One reader from New York asks, "The Watch obviously doesn't have a lock screen
+
+or require a passcode - so what happens if I lose my watch or it's stolen? Won't
+
+thieves have access to my apps, and my Apple Pay?"
+
+
+
+A.
+
+
+
+Great question. Several reporters asked Apple executives this very question at
+
+the event and the company did not offer any answers. If Apple does not offer any
+
+authentication on the Watch, the device will be ripe for theft and hacking.
+
+
+
+Q.
+
+
+
+Will Larche, a reader from the East Village asks, "Is it true that if I sprinkle
+
+lemon juice on them, they won't brown so fast when cut?"
+
+
+
+A.
+
+
+
+Will, I believe you are looking for the NYT Cooking site.
+
+
+
+LOAD-DATE: September 9, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+DOCUMENT-TYPE: News
+
+
+
+PUBLICATION-TYPE: Web Blog
+
+
+
+
+
+                   Copyright 2014 The News York Times Company
+
+                              All Rights Reserved
+
+
+
+
+

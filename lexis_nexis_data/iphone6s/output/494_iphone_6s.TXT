@@ -1,0 +1,156 @@
+                             494 of 1000 DOCUMENTS
+
+
+
+
+
+
+
+                                  The Guardian
+
+
+
+                      October 8, 2015 Thursday 9:48 AM GMT
+
+
+
+iPhones 6s battery life 'varies by up to two hours depending on chip supplier';
+
+
+
+TSMC and Samsung make chips for iPhone 6s and 6s Plus, but power consumption
+
+varies markedly, according to user reports
+
+
+
+BYLINE: Alex Hern
+
+
+
+SECTION: TECHNOLOGY
+
+
+
+LENGTH: 464 words
+
+
+
+
+
+Two seemingly identical, brand new, iPhones 6s may have a battery life that
+
+differs by up to two hours depending on which of two companies manufactured
+
+their processor, according to reports from owners.
+
+
+
+The investigations were sparked by a report from technology news site Anandtech
+
+that Apple is dual-sourcing one of the key components of the new phones. The A9
+
+"system on a chip", the lump of silicon that lies at the heart of the iPhone 6s
+
+and iPhone 6s Plus, is designed by Apple but manufactured by two independent
+
+contractors: Korea's Samsung Electronics and Taiwan's TSMC. The two chips
+
+interact with the rest of the hardware identically, based as they are on the
+
+same designs, but differences in their production is apparently having an effect
+
+on how efficient they are at doing their jobs.
+
+
+
+TSMC's implementation of Apple's designs uses a manfacturing process with a
+
+minimum transistor width of 16nm compared to Samsung's 14nm, and results in a
+
+chip that is physically larger by 8.5mm 2. But as well as the physical
+
+difference, the TSMC version of the chip also seems to have markedly better
+
+power consumption, according to user reports shared on sites including Mac
+
+Rumours and Reddit. One user, with two iPhone 6s Pluses with different chips,
+
+reported a difference of two hours in battery life between the phones: the TSMC
+
+chip hit almost eight hours while running a suite of battery-intensive
+
+activities, while the Samsung one managed barely six.
+
+
+
+It is tricky to determine which version of the chip is installed in a particular
+
+phone, but some apps such as Lirum Device Info can tell owners. Samsung's chip
+
+shows up as N66AP or N71AP, while TSMC's appears as N66MAP or N71MAP.
+
+
+
+This is not the first time Apple has run into trouble dual-sourcing key
+
+components. In 2012, when it launched the Retina MacBook Pro, the company bought
+
+screens from two different suppliers, LG and Samsung. The LG-provided screens
+
+turned out to suffer from significant "burn-in" issues, displaying a ghost of
+
+any image left onscreen for too long. Despite calls for a recall from users, the
+
+company didn't publicly acknowledge the difference in quality, but did
+
+apparently begin replacing the defective laptops if users brought them in to a
+
+store complaining about the quality.
+
+
+
+Earlier this year, the Wall Street Journal reported that attempts to dual-source
+
+the new "taptic engine" in the Apple Watch had also led to issues. One of the
+
+two providers of the ground-breaking vibration component, AAC Technologies, was
+
+apparently unable to consistently provide reliable parts, leading Apple to drop
+
+it as a supplier and scrap some completed watches. In the end, the company only
+
+used parts provided by Japan's Nidec, which didn't experience the same problem.
+
+
+
+Apple has not responded to a request for comment.
+
+
+
+LOAD-DATE: October 8, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: WEBGNS
+
+
+
+
+
+  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
+
+                              All Rights Reserved
+
+
+
+
+

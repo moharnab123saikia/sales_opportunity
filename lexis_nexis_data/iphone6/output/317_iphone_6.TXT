@@ -1,0 +1,552 @@
+                              317 of 999 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                            January 18, 2013, Friday
+
+
+
+iPhone 6 rumor rollup for the week ending Jan. 18;
+
+El Cheapo rising, home button fingerthingy, OMG specs
+
+
+
+BYLINE: John Cox
+
+
+
+LENGTH: 2147 words
+
+
+
+
+
+The iOSphere was feasting this week on Notes to Investors, those alchemical
+
+documents that transmute the lead of iPhone6 rumors into the gold of
+
+authoritative fact.
+
+
+
+How else could we know the many details of iPhone cheapo that emerged in such
+
+plenitude, including multiple release dates, and sizes, not to mention the
+
+suffering of "billions" who yearn for it and yet must wait.
+
+
+
+Also this week, fingering the home button, how iPhone 6 stacks up against
+
+another nonexistent smartphone, the specter of 2014, consumer longings, and whoa
+
+of un-wow.
+
+
+
+You read it here second.
+
+
+
+__________ __________ Not one but two Next iPhones will be announced around June
+
+or July 2013, according to an ever-more-widely cited "note to investors" from
+
+KGI Securities analyst Ming-Chi Kuo.
+
+
+
+CATCH UP: Week of Jan.11 iPhone 6 rumor roundup Among Kuo's "expectations" is
+
+that one of the iPhones, dubbed iPhone 5S, will "very similar to the current
+
+iPhone 5" but it will have a new processor (the A7), a fingerprint sensor, and
+
+an improved camera with a f2.0 aperture and smart LED flash.
+
+
+
+Somewhat disappointingly, Kuo "believes that the lower-cost iPhone will in many
+
+ways simply be an iPhone 5 repackaged into a slightly thicker (8.2 mm vs. the
+
+current 7.6 mm) plastic enclosure available in six colors," according to
+
+MacRumors' Eric Slivka, one of many who repeated the Kuo expectations.
+
+
+
+According to a handy "breakdown of specs" chart helpfully included by Slivka,
+
+Kuo's "iPhone 5S" will have a bill of materials estimate of $230-$250 (making it
+
+more expensive to build than the estimated $210-$230 for iPhone 5); but the
+
+retail price for an unlocked model would be in the same range as iPhone 5:
+
+$600-$700.
+
+
+
+Kuo "expects" the unlocked iPhone cheapo to retail for $350-$450, and to be free
+
+-- as in "FREE!" -- with a two-year contract.
+
+
+
+That Apple would offer a brand new product for a price of $0 seems a stretch; it
+
+currently offers an 8GB iPhone 4 for $0 and two-year contract with AT&T, Sprint
+
+or Verizon, or $450 if unlocked.
+
+
+
+Slivka assures readers (who otherwise might be inclined, cynically, to consider
+
+notes to investors, or NTIs for short, as the copy/paste results of analysts
+
+reading Apple rumor sites), that Kuo "has a very good track record in predicting
+
+Apple's product plans."
+
+
+
+This would be the same Ming-Chi Kuo who last August released an NTI that
+
+predicted the soon-to-be-announced iPad mini had suffered delays because it
+
+would use a "thinner and lighter 'GF Ditto' touch structure," according to the
+
+same Eric Slivka who faithfully summarized Kuo's expectations. Instantly known
+
+as "GFD," this new "touch structure" was (and as far as The Rollup can tell
+
+remains) a completely unexplained and possibly nonexistent innovation. But that
+
+didn't inhibit Slivka from claiming that "Apple is said to be the first company
+
+in the world to commercialize and mass produce the technology."
+
+
+
+AppleInsider leveraged Kuo's NTI to the max. Slivka's colleague, Neil Hughes,
+
+provided new details of Kuo's expectations regarding the fingerprint sensor for
+
+the Next iPhone.
+
+
+
+"Apple is expected to launch a new iPhone this year with a fingerprint sensor
+
+hidden beneath the home button -- an intuitive design that could be difficult
+
+for competing Android and Windows Phone devices to copy," Hughes enthused.
+
+
+
+Kuo and Hughes expect that the fingerprint sensor will be based on technology
+
+acquired last year when Apple bought AuthenTec, which makes a variety of
+
+silicon-based "smart sensors" with functions like fingerprint recognition but
+
+also highly accurate touch and gesture processing. According to Hughes, Kuo
+
+"believes Apple will find a way to integrate the fingerprint sensor into the
+
+home button, allowing Apple to keep its 'minimalist design.'" Hughes continued:
+
+"In contrast, many Android and Windows Phone devices have more than one button
+
+below the display, and those buttons frequently lack the mechanical push of
+
+Apple's home button. As a result, attempts to integrate fingerprint scanning on
+
+competing devices would be less intuitive, and could frustrate users, Kuo said."
+
+
+
+Combining the iPhone home button with a fingerprint sensor lets Apple "replace
+
+the use of usernames and passwords, allowing users to authenticate in a more
+
+efficient manner. [Kuo] also expects that the fingerprint scanner will integrate
+
+with applications such as Passbook to enhance their functionality."
+
+
+
+For background, Hughes links to an August 2012 analysis by AppleInsider's Daniel
+
+Eran Dilger on the AuthenTec acquisition.
+
+
+
+Much of the industry coverage focused on the fingerprint sensing technology and
+
+the prospect of adding a fingerprint sensor to the iPhone, and other Apple
+
+products, to lock/unlock the devices.
+
+
+
+But Dilger examines how the home button could use AuthenTec's technology to be
+
+transformed into a complement to the iPhone's touchscreen: using swipes of
+
+different fingers not only to unlock and activate specific apps and to trigger
+
+customized tasks, but also to launch faster screen scrolling or more precise
+
+screen touch for specific apps.
+
+
+
+In addition, he notes that AuthenTec "also develops IP cores for accelerating
+
+cryptography and encryption/decryption, features Apple could add to its System
+
+on a Chip designs to simplify and enhance the performance of iOS devices in
+
+handling HDCP (HDMI content protection) or integrating hardware acceleration of
+
+disk encryption, VPN services, app and iOS platform authentication (thwarting
+
+jailbreaks)."
+
+
+
+So even if Kuo is right, there may be more to the fingerprint sensor than meets
+
+the i.
+
+
+
+It's part of the iOSphere's surreal charm that it can compare two unreleased and
+
+unannounced products, complete with assertions that simultaneously sound fully
+
+authoritative and utterly baffling.
+
+
+
+"iPhone 6 vs. HTC M7: Will HTC Follow Samsung's Footsteps in Beating Apple's
+
+Smartphone?" wonders Kristin Dian Mariano, posting at International Business
+
+Times.
+
+
+
+This is the iOSphere convention of rhetorical question, where the answer is
+
+implicit in the question. "It seems that HTC aims to follow the path paved by
+
+Samsung overtaking Apple," she announces.
+
+
+
+She begins by citing another recent Note To Investors, this one by Jefferies
+
+stock analyst Peter Misek, who predicts that "the iPhone 5S/6 has a new 'super
+
+HD camera/screen, a better battery, and NFC,' and 'possible updates include an
+
+IGZO screen for Retina+, 128GB storage.'" Authoritative. Yet it becomes baffling
+
+because in IBT's comparison of the two nonexistent smartphones, nearly all of
+
+the specs and features show the non-existent iPhone 6 matching if not besting
+
+the nonexistent M7.
+
+
+
+For example, "Screen Display - Upcoming iPhone 6 is speculated to boast 5-inch
+
+Full HD display. HTC M7 will have 4.7 inches 1080p display." So, the iPhone will
+
+have a larger screen than the M7. The term "1080p," according to Wikipedia,
+
+"usually assumes a widescreen aspect ratio of 16:9, implying a resolution of
+
+1920 × 1080 (2.1 megapixel) often marketed as Full HD."
+
+
+
+Or take "Internal Storage - Apple's smartphone will have 128GB storage. HTC's
+
+upcoming smartphone is speculated to come with 32GB of internal storage."
+
+
+
+And OMG both devices will have LTE and NFC, LOL. ARGH.
+
+
+
+That's the bad news. The good news is it will be preceded in June or July 2013
+
+by the iPhone 5S.
+
+
+
+GottaBeMobile's Josh Smith seems sold by the latest Note To Investors by
+
+Jefferies stock analyst Misek.
+
+
+
+This year, Apple will release only a "minor iPhone 5 upgrade," Smith posts,
+
+based on Misek's NTI. But. Next year. Who Knows.
+
+
+
+Misek "believes Apple is planning a 4.8-inch iPhone 6," Smith reveals. And it
+
+won't have a home button. That would be bad news for KGI Securities analyst Kuo,
+
+of course, who is predicting the Next iPhone, one of them anyway, will have an
+
+improved phone button.
+
+
+
+This prediction is "based on a prototype." To keep this in perspective, it's
+
+probably best to think of an "iPhone prototype" as sort of like "iPhone fan art
+
+turned into a 3D model."
+
+
+
+Misek also has exspectulations (a combination of "expectations" and
+
+"speculations") that the iPhone cheapo will, in Smith's phrasing, "focus on
+
+low-cost instead of being 'cheap'" and have a "polycarbonate case with 4"
+
+non-Retina display and no LTE."
+
+
+
+And speaking of cheaper, GottaBeMobile's Chuong Nguyen says that "a Cheaper
+
+iPhone 6 Doesn't Matter to You, But it Does to Billions."
+
+
+
+Billions. Pining, longing, yearning for iPhone, if only it was cheaper or less
+
+expensive or lower-priced. Apple, are you listening?
+
+
+
+"It's still unclear what the cost savings and profit margin would be for a
+
+cheaper iPhone, but with emerging markets like China, India, and Africa, the
+
+tradeoff would be greater and more lucrative market share for Apple," Nguyen
+
+assures us.
+
+
+
+Of course, Apple Senior Vice President of Worldwide Marketing Phil Schiller
+
+recently assured us that Apple will "never blindly pursue market share." [Also
+
+see: "Will Apple introduce a lower-priced iPhone?"]  Part of the issue in
+
+overseas markets, according to Nguyen, is that carrier subsidies may not be as
+
+generous, or even available, as in the U.S. "In China, after high national
+
+taxes, the true cost of a base model iPhone 5 may be as high as $800 or $900,"
+
+Nguyen says.
+
+
+
+But last December, when the iPhone 5 went on sale in mainland China, there were
+
+two tiers of pricing. Fortune's Philip Elmer-DeWitt, based on a report by
+
+China's Shanghai Daily, reported that "Traffic may have been light at the Apple
+
+retail outlets that were selling only unsubsidized iPhones (i.e. starting at US
+
+$846), but Apple's partners were having a field day selling the iPhone 5 under
+
+contract for as little as US $96." That's affordable by almost anyone's
+
+definition.
+
+
+
+Part of that affordability was driven by unprecedented big trade-in discounts
+
+for older iPhone models, according to a ZDNet account.
+
+
+
+Elmer-DeWitt continued: "In addition to the 300,000 pre-orders racked up last
+
+week by China Unicom -- up 50% from the 200,000 it took for the [iPhone] 4S last
+
+January -- the carrier sold 5,000 more before Friday noon in Shanghai alone.
+
+China Telecom, for its part, expected to sell 10,00 units in Shanghai by the end
+
+of the day Friday."
+
+
+
+Game over, man.
+
+
+
+"Writer and radio producer" Eric Mack, writing in CNET's Crave gadget blog,
+
+declares "The iPhone 6 won't wow: 6 reasons why."
+
+
+
+"Back in September [2012], after the much-awaited and meh-filled unveiling of
+
+the iPhone 5, I made a declaration that's being borne out further in this week's
+
+headlines -- the iPhone jumped the shark some time ago," Mack reminds us.
+
+"Jumping the shark" was a phrase originally coined for the point where a
+
+television series runs out of real ideas and resorts to gimmicks.
+
+
+
+The iPhone 5 demonstrated, Mack reiterates, the "lack of any groundbreaking
+
+innovation."
+
+
+
+He thinks there will be an "iPhone 5s" with some dinky "iterative updates" and
+
+possibly a lower-cost iPhone cheapo. "But the real question is: then what?" he
+
+asks.
+
+
+
+Not much, apparently.
+
+
+
+"My gut tells me the iPhone as we know it will be done at that point," Mack
+
+says. "I have a hunch there will never be an iPhone 6, because Apple will be
+
+forced to move into a significantly different form factor to keep people
+
+interested and compete with the movement toward bigger phablet-like thingies and
+
+emerging wearable electronics."
+
+
+
+When you put it that way, it's all so obvious: the Big Ones and the Unmistakable
+
+Irreversible Trend to "wearable electronics."
+
+
+
+We can quickly summarize Mack's six reasons why the iPhone 6, which hunchwise
+
+will never appear anyway but if it does, will fail to wow, because the same six
+
+reasons have been pretty widely cited since the iPhone 4S, at least.
+
+
+
+Here they are:
+
+
+
+* "iOS is stale" * "Samsung and Android are rocking lately" * "Apple is
+
+different under Tim Cook" (here "different" means "worse" because now Apple is a
+
+company "that seems to follow the more traditional model of giving customers
+
+what they want, rather than the Jobs model of dictating to consumers what they
+
+will want.") * "Young people don't think Apple is cool anymore" * "Price does
+
+matter" because "Money talks, and during these economic times it actually
+
+screams" * "To wow, you need a wow factor. ... Right now I'm having a hard time
+
+imagining any iPhone 6 that will elicit that most joyous of palindromes"Almost
+
+needless to say, Mack doesn't bother quantifying any of these "reasons" which
+
+amount to little more than opinions, or even prejudices. An operating system is
+
+not, for example, like a loaf of bread. The fact that Samsung is rocking is
+
+irrelevant to Apple's success, both in sales and more importantly profitability:
+
+all the indications are that Apple next week will announce its most successful
+
+quarter for iPhone sales ever. And "young people" probably means "Eric Mack."
+
+
+
+Mack's main mistake is to think that wowing the impressionable iOSphere hive
+
+mind is the same thing as having a successful and profitable product.
+
+
+
+John Cox covers wireless networking and mobile computing for Network World.
+
+Twitter: @johnwcoxnwwEmail: john_cox@nww.com
+
+
+
+
+
+
+
+LOAD-DATE: January 21, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2013 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

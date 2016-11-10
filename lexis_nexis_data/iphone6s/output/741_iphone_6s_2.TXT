@@ -1,0 +1,230 @@
+                             741 of 1000 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                       March 13, 2016 Sunday 02:01 PM EST
+
+
+
+iPhone 7 Rumor Rollup: Superfast LTE; wraparound OLED screen; Case of the
+
+missing Earjack hole
+
+
+
+BYLINE: Bob Brown
+
+
+
+SECTION: NEWSANALYSIS
+
+
+
+LENGTH: 704  words
+
+
+
+
+
+Click for image
+
+
+
+Apple has officially pre-empted the iPhone 7 rumors by inviting all of us to a
+
+live-streamed event on March 21 to presumably "loop you in" on a new 5-inch
+
+iPhone 5se and "mini" 9.7-inch iPad Pro, but let's not stop us from rounding up
+
+the latest speculation on what comes after all that...
+
+
+
+INTEL INSIDE
+
+
+
+How many times has that headline been used over the years? Anyway, reports
+
+surfaced this month that Intel will supply a "significant portion" of LTE modems
+
+for the iPhone 7 - not such good news for fellow supplier Qualcomm. Motley Fool,
+
+citing a report from CLSA Securities, writes that this could be a $1 billion
+
+(yes, with a B) opportunity for Intel.
+
+
+
+Motley Fool goes on to suggest this must refer to Intel's XMM 7360 modem, which
+
+supports LTE category 10, which boasts downlink speeds of 450Mbps and uplink
+
+speeds of 100Mbps. "This would represent a substantial improvement over the
+
+Qualcomm MDM9635 modem inside of the iPhone 6s/6s Plus, which supports 300
+
+megabits per second download and just 50 megabits per second upload." But there
+
+is a question of whether this deal is really true, and how Apple would then need
+
+to manage building CDMA-friendly phones with Qualcomm chips for some regions and
+
+non-CDMA phones for others with the Intel or Qualcomm processors...
+
+
+
+MacRumors says that Apple already boosted LTE on its iPhone 6s and 6s Plus
+
+phones, but with users' chowing down more video and other demanding apps, you
+
+can understand why they'd keep pushing.
+
+
+
+WRAPAROUND SCREEN
+
+
+
+Not to get ahead of ourselves (well, actually that's pretty much all we do in
+
+this column), some now say that the much discussed possible iPhone with OLED
+
+display could be a whopping 5.8 inches and wrap around the sides of the
+
+smartphone. Apple's largest phone now is the 5.5-inch iPhone 6s Plus.
+
+
+
+Colleague Yoni Heisler, citing a DigiTimes report that such a phone with an
+
+organic light-emitting diode screen could hit the market by next year or the
+
+year after, suggests that a much bigger iPhone isn't a crazy idea.
+
+
+
+"Though Apple was once beholden to the iPhone's 3.5-inch form factor, the
+
+company in recent years has demonstrated a bit more flexibility as it pertains
+
+to screen size."
+
+
+
+Then again, there are some big doubts about this big phone ever becoming a
+
+reality. Look no further than AppleInsider's "Absurd report claims Apple is
+
+prepping a 5.8" iPhone with OLED display for 2018."
+
+
+
+DUAL-CAMERA BECOMES MORE REAL
+
+
+
+People just can't wait to see how Apple implements a dual-lens camera (one being
+
+a zoom) into its iPhone 7 line-up.
+
+
+
+Boy Genius Report speculates that Apple could even pull a page from the new
+
+Android-based Samsung Galaxy S7's book by coming out with a dual-lens camera
+
+using some of the same innards.
+
+
+
+"The camera of the Galaxy S7 is without a doubt one of the best new features in
+
+Samsung's newest flagship series. In fact, when unveiling the new camera,
+
+Samsung compared it extensively to the iPhone 6s to prove to the audience how
+
+much better it is. In an ironic twist of events, could the same image sensor
+
+make its way to the upcoming iPhone 7?"
+
+
+
+BGR goes on to point out that Samsung boasted in a non-Galaxy S7 press release
+
+this past week about its fancy camera sensor and will be making the technology
+
+available to partners. While Apple might not be one of those, it is possible
+
+that Apple could fetch similar technology from Sony, whose camera sensor
+
+technology has also been shown to be used in the latest Samsung smartphone.
+
+
+
+ Matt Gonzalez from MacRumors does a nice job envisioning how the Apple iPhone 7
+
+dual-lens camera could work in this video as well.
+
+
+
+CASE OF THE IPHONE 7 CASE
+
+
+
+One way that iPhone rumormongers and rumor followers sniff out news about the
+
+next great Apple smartphones is by keeping an eye on what new cases look like,
+
+and cases glimpsed this past week add credence to the idea that Apple is
+
+abandoning the traditional 3.5mm headset jack for a proprietary Lightning-based
+
+one.
+
+
+
+9to5Mac, citing images shared via the Twitter account @OnLeaks, notes that these
+
+cases don't have a hole for a 3.5mm headphone jack. Suspicious indeed!
+
+
+
+APPLE vs. FBI A LAUGHING MATTER
+
+
+
+Or so thinks Samantha Bee, the newish late night TV show host, who hacked her
+
+own phone before the government got a chance to do so.
+
+
+
+LOAD-DATE: March 14, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                 Copyright 2016 International Data Group, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

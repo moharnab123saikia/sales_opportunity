@@ -1,0 +1,152 @@
+                              863 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                             June 26, 2014 Thursday
+
+
+
+Washington: This is your screen on retina
+
+
+
+LENGTH: 468  words
+
+
+
+DATELINE: Washington
+
+
+
+
+
+New Organizing Institute has issued the following news release:
+
+
+
+This is part 3 of our 5 part tip series this week on Data and Technology. To
+
+talk about these issues and more join us this Saturday, June 28th for UpRoots
+
+Data and Technology. UpRoots is an unconference bringing the lessons and
+
+collaborative spirit we share at RootsCamp year-round. You can get your tickets
+
+here.
+
+
+
+Over the past few years there has been an increasing trend towards
+
+high-resolution "retina" screens. A high-DPI (dots per inch), or "retina"
+
+display, is a display that has a significantly larger number of pixels
+
+(individual dots that can be a mixture of red, green, and blue) per square inch,
+
+making text and shapes appear extra crisp and clear.
+
+
+
+Viewing text at that size, however, would be nearly impossible, so phones and
+
+computers "scale" the image, usually by a factor of 2. Then they use algorithms
+
+to fill in the extra pixels. Every pixel on my device is scaled to be 4 pixels
+
+-- this means that the text is "vector" based, like the text in this email, and
+
+it appears crisp and clear. Content in a .png or .jpg format, or "raster based,
+
+requires that the device turns 1 pixel into 4, and it appears blurry by
+
+comparison.
+
+
+
+So how do we optimize for retina screens? Here are some ways that you can ensure
+
+your content looks good:
+
+
+
+Make all your images double the resolution. If an image in your email, or on
+
+your website, is meant to be 300 pixels wide by 50 pixels tall, make sure the
+
+original is 600 pixels wide by 100 pixels tall and set the 300px by 50px image
+
+size in your HTML or CSS. This will allow both retina and non-retina browsers to
+
+determine the best way to scale the image for the user's display.
+
+    Default to using text. Besides just being a best practice for accessibility,
+
+browsers will automatically render text for retina resolutions. For websites, if
+
+you don't like the default fonts available with most browsers, try hosted
+
+services like Google Fonts or consider paying for a webfont via Adobe Typekit.
+
+Unfortunately there is limited support for custom fonts in emails. I recommend
+
+adapting a default font in your email wrappers and make your logos 2x bigger.
+
+    Make your site's icons vector-based. This is also a website-only option, but
+
+consider defaulting to SVG (scalable vector images) for any icons or glyphs on
+
+your website. Browsers will automatically scale these to be crisp at any
+
+resolution.  Though you'll need to do a bit of work to support Internet Explorer
+
+8.
+
+
+
+A word of warning: be careful with your file sizes. It's sometimes better to
+
+have one slightly blurry image instead of a very large image that loads slowly
+
+on your user's mobile devices.
+
+
+
+If you follow these rules, your content will look great at any resolution!
+
+
+
+For further information please visit: http://www.neworganizing.com
+
+
+
+LOAD-DATE: June 27, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

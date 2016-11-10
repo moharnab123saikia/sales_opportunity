@@ -1,0 +1,164 @@
+                              914 of 997 DOCUMENTS
+
+
+
+
+
+                         Star Tribune (Minneapolis, MN)
+
+
+
+                          December 16, 2015 Wednesday
+
+                                 METRO EDITION
+
+
+
+How to show Apple screen on your TV
+
+
+
+BYLINE: STEVE ALEXANDER, STAR TRIBUNE (Mpls.-St. Paul)
+
+
+
+SECTION: BUSINESS; Pg. 6D
+
+
+
+LENGTH: 467 words
+
+
+
+
+
+Q: I read your column about how to transfer a Windows 10 screen image to a
+
+Samsung Smart TV (see tinyurl.com/jto844d.) How could I do the same thing with
+
+an Apple computer?
+
+
+
+MIKE DOSCH, EAGAN
+
+
+
+A: There are a couple of ways to transfer the view on your Macintosh computer
+
+screen to your HDTV, a process called screen mirroring.
+
+
+
+To do it Apple's way, you'll need a newer computer and operating system that can
+
+handle the AirPlay feature. Macs that can handle the task include the iMac, Mac
+
+Mini, MacBook Air or MacBook Pro models from 2011 or later, Mac Pro models from
+
+late 2013 onward and MacBook models from earlier this year. Those Macs must use
+
+the operating system OS X Mountain Lion version 10.8, or a newer one.
+
+
+
+In addition, you'll need an Apple TV device that plugs into your TV's HDMI port,
+
+then wirelessly connects to your Mac. The most basic Mac-to-Apple TV connection,
+
+which uses a home Wi-Fi network as an intermediary, requires a second-generation
+
+or later Apple TV unit.
+
+
+
+If you want to link a Mac directly to your HDTV without a Wi-Fi network, you'll
+
+need a third-generation Apple TV and a 2012 or newer Mac running the operating
+
+system OS X Yosemite version 10.10, or a newer one. For details, see
+
+tinyurl.com/nnldkga.
+
+
+
+A non-Apple method for screen mirroring involves linking, via a Wi-Fi network,
+
+Google's Chrome Web browser on the Mac and Google's Chromecast device that plugs
+
+in to your TV's HDMI port. See tinyurl.com/hfpdpoe. For Mac system requirements
+
+and a Chrome browser download site, see tinyurl.com/l7w8wdf and click "Mac."
+
+
+
+Q: I had Google Earth installed on my Windows 7 PC before I upgraded to Windows
+
+10. Now when I use Google Earth, the screen image is poor at my "start location"
+
+and gets worse when I move to other geographic places. In addition, once I close
+
+Google Earth, I have to restart the PC in order to open the program again. I
+
+tried uninstalling and reinstalling Google Earth, but it didn't help. What
+
+should I do?
+
+
+
+TOM MADERE, LAPLACE, LA.
+
+
+
+A: Google Earth is acting as if your Windows 10 computer doesn't have high
+
+enough screen resolution (picture sharpness) to display its images. That can be
+
+fixed by changing the PC's DPI, or dots per inch, setting for Google Earth.
+
+(While screen resolution is often measured by the number of pixels horizontally
+
+and vertically, DPI counts just the pixels in a line 1 inch long.)
+
+
+
+To alter the DPI setting, use Windows Explorer to find the Google Earth program
+
+on your C drive. Right click the Google Earth application folder, select
+
+"properties," then choose "compatibility." Under "settings," uncheck the box in
+
+front of "disable display scaling on high DPI settings."
+
+
+
+E-mail tech questions to steve.j.alexander@gmail.com or write to Tech Q&A, 650
+
+3rd Av. S., Suite 1300, Minneapolis, MN 55488. Include name, city and telephone
+
+number.
+
+
+
+LOAD-DATE: December 16, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                          Copyright 2015 Star Tribune
+
+                              All Rights Reserved
+
+
+
+
+

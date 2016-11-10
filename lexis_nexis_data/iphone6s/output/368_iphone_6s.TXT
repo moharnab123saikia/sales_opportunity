@@ -1,0 +1,164 @@
+                             368 of 1000 DOCUMENTS
+
+
+
+
+
+
+
+                                    Scotsman
+
+
+
+                             April 5, 2016 Tuesday
+
+
+
+New iPhone 6s bug lets hackers access photos and contacts
+
+
+
+BYLINE: Sam Shedden
+
+
+
+LENGTH: 371  words
+
+
+
+
+
+A new iPhone 6s bug has been found that lets anyone access your photos and
+
+contacts. Here's how to stop it.
+
+
+
+Multiple users of the iPhone 6s and 6s Plus are reporting a new Siri bug that
+
+has the potential to let anyone access pictures and stored contacts on the phone
+
+even when it is locked.
+
+
+
+What is the bug?
+
+
+
+The bug is similar to other flaws in the iOS that have been
+
+{http://www.scotsman.com/news/world/apple-issues-advice-over-error-53-message-1-
+
+4022959| exploited in the past.}
+
+
+
+The hacker asks Siri to find tweets including an email address. Once a suitable
+
+tweet is found, the iPhone's 3D Touch can be used to add that address to a
+
+contact - a process that opens up the entire address book.
+
+
+
+When selecting a contact to add the email address to, the user can choose any of
+
+the stored contacts on the iPhone, revealing their phone numbers, email or
+
+addresses. And by selecting an option to edit a contact's profile photo, they
+
+can access the entire photo library.
+
+
+
+READ MORE: {http://www.scotsman.com/future-scotland/tech/new-affordable-iphone
+
+-expected-to-be-unveiled-on-monday-1-4078145 | New affordable iPhone expected to
+
+be unveiled on Monday}
+
+
+
+Specialist Apple news site, {http://9to5mac.com/2016/04/04/new-iphone-6s
+
+-passcode-bypass-access-photos-contacts-how-to-protect-yourself/?utm_source=dlvr
+
+.it&utm_medium=twitter| 9to5Mac}, stress that on the whole there is no reason to
+
+be overly worried as the odds of getting hacked are very slim.
+
+
+
+Am I at risk?
+
+
+
+The bypass only works on the iPhone 6s and iPhone 6s Plus, because those devices
+
+feature 3D Touch, which is used for this particular variant of the passcode
+
+bypass trick.
+
+
+
+So if you don't have either of these models you have nothing to worry about.
+
+
+
+You can check if your phone is susceptible to the passcode bypass by following
+
+the steps in the video above.
+
+
+
+READ MORE:
+
+{http://www.scotsman.com/news/world/apple-celebrates-40th-anniversay-1-4087233 |
+
+Apple celebrates 40th anniversary}
+
+
+
+How can I protect my phone?
+
+
+
+Turn off Siri's access to your phone when it is locked.
+
+
+
+Apple eggheads will likely be working on solution to this bug, but for now the
+
+only way to prevent it is to disable Siri functions.  Go to Settings, then
+
+Privacy, then select Photos and deselect Siri.
+
+
+
+LOAD-DATE: April 5, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: STTS
+
+
+
+
+
+                       Copyright 2016 Johnston Press Plc
+
+                              All Rights Reserved
+
+
+
+
+

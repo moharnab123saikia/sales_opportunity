@@ -1,0 +1,530 @@
+                              536 of 999 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                             June 21, 2013, Friday
+
+
+
+iPhone 6 rumor rollup for the week ending June 21;
+
+Leaking components, Labor Day frenzy, fingerprinting bezel, liquid cooling
+
+
+
+BYLINE: John Cox
+
+
+
+LENGTH: 2080 words
+
+
+
+
+
+Tantalizing images of iPhone 6, or 5S, components sent the iOSphere into
+
+transports of joy, even though no one couldexplain what the components revealed
+
+about the Next iPhone.
+
+
+
+Also this week: Labor Day will be The Day of the Next iPhone's release,
+
+transforming the summer's traditional last vacation day from traveling frenzy to
+
+shopping frenzy; patents show the long-desired fingerprint scanner will be
+
+formed into the iPhone's bezel not incorporated with the home button; and
+
+"interest" in liquid cooling is translated into production schedules.
+
+
+
+You read it here second.
+
+
+
+__________ __________ There is nothing quite like Next iPhone components to set
+
+off the iOSphere. Especially, if no one can make anything of them.
+
+
+
+Because then you can make up anything about them.
+
+
+
+First to appear early Monday morning on June 17 was the Next iPhone's logic
+
+board. MacRumors early picked up the trail through Japanese tech sites, and
+
+posted "three photos of what may be the bare logic board from the iPhone 5S."
+
+
+
+"Unsurprisingly, the shape of the board is nearly identical to that of the
+
+iPhone 5 logic board, although it appears to have a slightly different curve
+
+along the bottom edge where the logic board would meet the speaker enclosure,"
+
+writes Eric Slivka.
+
+
+
+When all you can say about a new component is that it has "a slightly different
+
+curve along the bottom edge," your breaking news starts to look distinctly like
+
+broken down news.
+
+
+
+But the purported logic board apparently lured out other photos. By early
+
+afternoon that same day, Slivka posted another revelation: "iPhone 5S Display
+
+Assembly Surfaces, Appears to Fit Leaked Logic Board."  "Several repair firms,
+
+including iHeart Repair, have shared with MacRumors a new set of images from a
+
+supplier showing the display assembly of the iPhone 5S," Slivka announced. He
+
+concludes, apparently based on nothing more than the fact he can't notice any
+
+differences, that these new low-resolution images reveal no "significant
+
+changes" to Apple's display technology.
+
+
+
+Here is the display assembly montage in all its low-res glory.  But "there is
+
+one item of interest supporting the claim that the logic board photos from
+
+earlier today are genuine," Slivka concludes.
+
+
+
+That one item of interest is that, if you compare the display assemblies of the
+
+alleged iPhone 5S and iPhone 5, you can see that the pair of connectors on the
+
+flex cables at the top are different. And that those 5S connectors seem to match
+
+what may be corresponding connectors on the top of the logic board.
+
+
+
+And this means ... well, Slivka never says what it means. It apparently just
+
+means that 1) Apple changed some things in the iPhone 5S and b) the purported
+
+display assembly supports the claim that the purported logic board is the Real
+
+Deal.
+
+
+
+Another tech site, FanaticFone, later posted larger images at much higher
+
+resolution, purporting to be the iPhone 5S digitizer and LCD screen assembly.
+
+Here's their comparison of the assemblies from iPhone 5 and iPhone 5S.  What to
+
+make of these "leaked" images?
+
+
+
+AppleInsider was cautious. "While not concrete evidence that the two parts are
+
+indeed made to be interoperable, the pairing does make the rumored device leaks
+
+somewhat plausible," according to the site's anonymous post. "It should be
+
+noted, however, that the components may not necessarily be bound for the
+
+next-gen iPhone, and could be prototype versions built for testing purposes."
+
+
+
+Exactly so. Assuming the components are genuine, there's nothing to indicate at
+
+what point they appeared in Apple's development work with its supply chain
+
+partners.
+
+
+
+And in most of the posts reviewed by The Rollup, none of the authors made any
+
+attempt to analyze, or find someone who could analyze, the images themselves.
+
+Having a "slightly curved edge" at one end doesn't tell us very much about the
+
+Next iPhone.
+
+
+
+Because there are so few apparent differences, most posts conclude there are
+
+minimal changes ahead for iPhone 5S. "We know this might disappoint many Apple
+
+fans, but we are sad to say that you'd better not expect too much improvement in
+
+the iPhone 5S screen compared to the iPhone 5," according to FanaticFone. "The
+
+flex cable of the iPhone 5S is much longer than the iPhone 5, which indicates
+
+that the inner components of the iPhone 5S do indeed have some differences
+
+compared to the earlier model."
+
+
+
+There you have it. The Next iPhone will be, somehow, somewhat different from the
+
+current iPhone.
+
+
+
+That would be Monday, Sept. 2, for the calendarly challenged.
+
+
+
+This bold prediction is based on the distinctive style of reasoning at Stabley
+
+Times -- a kind of reasoning unmoored from any real facts.
+
+
+
+We'll let the post's author, Phil Moore, unfold the chain of logic in what
+
+appears to be a hastily written and poorly edited post.
+
+
+
+"Apple says the release date for the iOS 7 system software is in the fall of
+
+2013, which it won't acknowledge the existence of the iPhone 6, it'll be
+
+released the same week as iOS 7," he declares. This sounds like Moore has
+
+uncovered some deeply buried Apple secret. But most people clearly expect that
+
+whenever the Next iPhone is released, it will be running the next version of
+
+iOS.
+
+
+
+"But a look inside the early test versions of iOS 7 says it's more complete than
+
+its beta 1 tag would suggest, and that it may be ready to go well ahead of the
+
+beginning of fall in late September," Moore continues. What "beta 1" and "ready
+
+to go" mean to Apple insiders with regard to a major release of its mobile
+
+operating system is not very clear.
+
+
+
+"Even if Apple takes three full months to get iOS 7 ready for prime time, that
+
+still means the iPhone 6 release date can come as early as the end of August or
+
+Labor Day," Moore concludes in a breathtaking leap of logic. "All that Apple has
+
+to do is put the iPhone 6 into factory production sooner, to match the ready
+
+date for iOS 7."
+
+
+
+"All that Apple has to do ..." Moore seems to think that all those Chinese
+
+worker bees in Foxconn's assembly plants are just sitting around smoking
+
+cigarettes and playing mahjong as they wait for Apple CEO Tim Cook to call from
+
+One Infinite Loop and bark, "Throw the switch!"
+
+
+
+One can only hope that Cook next remembers to call all the shipping and
+
+logistics firms, the carrier partners, retailers, marketing collateral
+
+designers, box companies, sales trainers, customer support staff, and the rest
+
+of the multitudes involved in actually bringing a product to market.
+
+
+
+But let's not get bogged down in details. "Between now and then, the best way to
+
+gauge how soon the iPhone 6 release date is coming is to keep an ear to the
+
+ground regarding the ongoing development of iOS 7 as the summer progresses,"
+
+Moore assures his readers. "Early reports peg it as being rather far along. If
+
+that keeps up, the iPhone 6 will arrive sooner than later.
+
+
+
+The smart bet is Labor Day."
+
+
+
+Of course it is, when about 35 million people, who will have been traveling at
+
+least 50 miles from home (based on AAA's historical data) are fighting traffic
+
+and each other on their way back. That's roughly the same number AAA forecast
+
+for Memorial Day 2013. Maybe they'll cut short their three-day weekend at Myrtle
+
+Beach, S.C. Or change their travel destinations to the nearest Apple retail
+
+store in Charleston, S.C., just two hours and 19 minutes away.
+
+
+
+The iPhone Fingerprint Scanner rumor lives on, now having mutated. Since at
+
+least July 2012, when Apple's acquisition of AuthenTec was revealed, the
+
+iOSphere has been saying that Apple will incorporate that vendor's fingerprint
+
+scanner into the iPhone's home button.
+
+
+
+Now, it's going to be embedded somewhere in the bezel, apart from the button.
+
+
+
+The source of this latest rumor is the revelation of another Apple patent
+
+application, filed in January-April of this year, and covered this week by
+
+PatentlyApple. The headline: "Apple Invents a Fingerprint Scanner that could be
+
+Discretely Hidden within the Bezel of an iDevice, MacBook & Beyond."
+
+
+
+"Apple states that technically, 'bezel' means a unitary, substantially uniformly
+
+composed structure, most typically metal or conductive plastic," according to
+
+Jack Purcher. "The die and the bezel are encased in a unitary encapsulation
+
+structure to protect those elements from mechanical, electrical, and
+
+environmental damage, yet with a portion of a surface of the die and the bezel
+
+exposed or at most thinly covered by the encapsulation or other coating material
+
+structure."
+
+
+
+It's a bit unclear as to why this is seen as a breakthrough. Depending on the
+
+actual implementation, Apple's approach might mean that the scanner would be
+
+invisible or largely unnoticed under the bezel, and activated by pressing or
+
+swiping your thumb.
+
+
+
+Which would seem to mean that the scanner takes up another section of the bezel,
+
+separate from the section occupied by the current home button.
+
+
+
+As usual, neither the patent application nor PatentlyApple used the term "iPhone
+
+6" but that didn't stop some in the iOSphere.
+
+
+
+The headline at TrustedReviews: "iPhone 6 fingerprint scanner could be hidden in
+
+the bezel."
+
+
+
+And at KnowYourMobile: "iPhone 6 fingerprint scanner detailed in patent filing."
+
+
+
+"We say the iPhone 6 because recent leaked images [see above 'iPhone 5S logic
+
+board and display assembly materialize'] of the iPhone 5S show nothing remotely
+
+resembling this feature," KnowYourMobile's Richard Goodwin confidently declares.
+
+
+
+He's right. You couldn't see a space on the display assembly labeled
+
+"Fingerprint scanner goes here."
+
+
+
+"Increasingly it seems the iPhone 5S - like the iPhone 4S - will be an
+
+incremental update, adding in only a few snippets of updated hardware and some
+
+new imaging capabilities," Goodwin, damning with faint, very faint, praise. "The
+
+iPhone 6 will be the big one - or, the update people have been waiting for since
+
+2012 - and is expected to carry a larger display, different chassis design, and
+
+- if Apple's recent patent is anything to go by - a fingerprint scanner built
+
+into its bezel."
+
+
+
+Goodwin fully and faithfully embraces the Apple Technological Imperative: if
+
+Apple has applied for a patent on it, then it will appear in the next iPhone.
+
+
+
+With just five brief paragraphs this week, DigiTimes, the technology haiku
+
+experts, again sent a thrill through the iOSphere.
+
+
+
+Here's the headline: "First-tier players may release smartphones that adopt heat
+
+pipes by the end of the year."
+
+
+
+From the post, by reporters Aaron Lee and Joseph Tsai: "Smartphone players such
+
+as Apple, Samsung Electronics and High Tech Computer (HTC) have started showing
+
+interest in adopting ultra-thin heat pipes for their smartphones and are
+
+expected to release heat pipe-adopted models in the fourth quarter, at the
+
+earliest, according to sources from cooling module player."
+
+
+
+They note that NEC recently released in Japan the Medias X06E smartphone, which
+
+uses heat pipe technology to keep it running cool.
+
+
+
+According to the Wikipeida entry, heat pipes in this case would be very
+
+small-diameter tubes, filled with a heat-sensitive fluid kept at very low
+
+pressure. As the liquid absorbs heat from, say, a hard-working smartphone CPU,
+
+it turns to vapor. Then it flows through the tube to a cold "interface" where it
+
+condenses into a liquid again, releasing the latent heat in the process.
+
+
+
+Capillary action through surface tension is enough to move the fluid back to the
+
+heat source. It's reportedly a very efficient heat transfer system, without any
+
+moving parts. It's already being used in some notebooks and ultrabooks.
+
+
+
+The DigiTimes post concludes by noting there are "several cooling module players
+
+including Japan-based Furukawa Electric, Taiwan-based Chaun-Choung Technology,
+
+Auras and TaiSol Electronics, who are all developing the super-thin tubes."
+
+
+
+The iOSphere easily drew a lot of conclusions from the revelation that Apple,
+
+among others, has "started to show interest" in this technology.
+
+
+
+"Apple is planning a liquid-cooled iPhone (and so are Samsung and HTC)," read
+
+the headline from Jony Evans, writing Computerworld's Apple Holic blog.
+
+
+
+"There is talk the technology will be ready for smartphones by the end of this
+
+year so there is a very good chance it could be found in the Galaxy S5 and the
+
+iPhone 6 next year," said the ever-optimistic Mark Chubb, at PhonesReview.
+
+
+
+Not everyone was impressed. "Personally, I'd rather have chip companies make
+
+more power efficient chips than to see smartphone makers start adopting exotic
+
+cooling solutions," writes Stefan Constantinescu of iPhoneHacks. "What's next, a
+
+phone with an exhaust vent?"
+
+
+
+John Cox covers wireless networking and mobile computing for Network World.
+
+Twitter: @johnwcoxnwwEmail: john_cox@nww.com
+
+
+
+
+
+
+
+LOAD-DATE: June 24, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2013 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

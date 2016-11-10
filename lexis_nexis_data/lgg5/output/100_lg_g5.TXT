@@ -1,0 +1,318 @@
+                              100 of 820 DOCUMENTS
+
+
+
+
+
+                          The Business Times Singapore
+
+
+
+                             May 14, 2016 Saturday
+
+
+
+When the parts add up;
+
+South Korean tech giant LG has built the world's first mass-market modular
+
+smartphone.
+
+
+
+BYLINE: Sherwin Loh , When the parts add up
+
+
+
+SECTION: DESIGN; Lifestyle
+
+
+
+LENGTH: 936 words
+
+
+
+
+
+HAVE you ever wanted your smartphone to be more flexible, and do more? More than
+
+what it was designed for, and more flexible than what it is currently capable
+
+of'
+
+
+
+This is what tech companies plan for, which explains why they always come out
+
+with new, slightly improved products each year, to meet rising expectations. The
+
+industry calls it "the rolling out of incremental upgrades", to convince owners
+
+that their current devices are not good enough.
+
+
+
+But what if these upgrades were made available in another way'
+
+
+
+The latest LG G5 flagship Android smartphone is an upgrade from last year's LG
+
+G4, in that it has a slightly faster processor and a better camera, but it
+
+retains the quad high-definition screen from before.
+
+
+
+What the South Korean tech giant has done though, is build the world's first
+
+mass-market modular smartphone.
+
+
+
+A modular smartphone is a device made of different components that can be
+
+independently upgraded or replaced.
+
+
+
+Since some phone parts, such as the screen, memory, RAM and even camera, are
+
+good enough to last a few years, users do not have to change them often. The
+
+base of the LG G5 can be removed by pressing a release catch, and there are
+
+currently two upgrade modules to pick from, to fit onto the phone.
+
+
+
+The first is the LG Hi-Fi Plus with B&O PLAY. This module is slightly larger
+
+than the original one removed from the G5, and it introduces high definition 32
+
+Bit audio playback on the device.
+
+
+
+This trumps the 24 Bit playback on the LG G5, but not everyone appreciates,
+
+enjoys or needs 32 Bit audio.
+
+
+
+While some phones offer software-based upscaling for high resolution audio, the
+
+Hi-Fi Plus module uses an actual digital-to-analogue converter processor. The
+
+other module is the LG Cam Plus, which upgrades the camera's operations with a
+
+better camera grip, and actual camera buttons.
+
+
+
+Once fitted, users hold the phone horizontally. The module adds a rear bump to
+
+the phone and the buttons offer precise video and photo taking.
+
+
+
+Granted, the purchase of the phone and both modules drive up the overall price
+
+of ownership, but the choice to upgrade is now yours.
+
+
+
+The true test of this modular design is seeing how LG intends to grow the
+
+segment. One can forsee a separate camera lens or gamepad module but if nothing
+
+new comes out, or if next year's follow-up is not compatible with this batch of
+
+modules, consumers will know that the company has no long-term plans for the
+
+market.
+
+
+
+The Android Marshmallow operating system provides greater security to the
+
+platform and if you are a fan of Android's menu drawer, LG does have it
+
+available as a separate download from its store.
+
+
+
+Design wise, LG has dropped its use of a removable rear panel, though the
+
+removable bottom module keeps one of the best features of LG's phones, which is
+
+a removable battery that can be easily replaced.
+
+
+
+The switch to a metal chassis also puts it on a par with the likes of Apple,
+
+Samsung and Huawei, in maintaining a more premium look and feel for flagship
+
+devices. Previously, LG had the power and volume controls placed on the rear
+
+panel, just under the camera lens. This is very useful, since you no longer have
+
+to use your thumb to unlock the biometric sensor on phones, and the volume
+
+controls are within reach of the forefinger. For some reason, LG has kept the
+
+power and biometric sensor on the rear here, but they have moved the volume
+
+controls back to the edge of the phone.
+
+
+
+As for the camera, LG has added a dual camera here, and with it comes an amazing
+
+wide angle option for the 8MP lens, but not for the sharper 16MP one.
+
+
+
+Wide angle lens allows for more of the scene to be recorded, whether it is a
+
+group shot or a close-up of the food on the dining table. Unfortunateky, the
+
+16MP rear camera, while an improvement over last year's G4, is nowhere near as
+
+quick or sharp as the one on Samsung's new Galaxy S7 phone.
+
+
+
+LG Hi-Fi Plus with B&O PLAY S$298
+
+
+
+A DAC (digital-to-analogue converter) is a processor that converts the digital
+
+signals in digital music tracks into analogue signals, which can be heard via
+
+headphones.
+
+
+
+A high quality DAC is needed for listening to the original audio as it was
+
+recorded, but very few smartphones have a dedicated DAC, which is why some
+
+audiophiles rely on a portable DAC, which they plug into their phones. Those
+
+devices can cost over S$400, so LG's hardware-based DAC, which can be fitted on
+
+to the phone, is a worthwhile investment.
+
+
+
+It even comes with a housing that contains a second USB-C port, so that you can
+
+use this module with other phones in the market.
+
+
+
+LG Cam Plus S$158
+
+
+
+Think of this module as a frame for the LG G5, to make it feel more like a
+
+camera. When it is inserted into the LG G5, the bump in the rear, which also
+
+houses an additional 1,200 mAh battery, acts as a cradle that provides a better
+
+phone/camera grip.
+
+
+
+Located on the edge of the module are a quick-access camera button, a video
+
+record button, a jog wheel for zooming in and out, and a two-step shutter
+
+release button.
+
+
+
+Even if you don't need high resolution audio, it's great to take photos with the
+
+Cam Plus module, and be able to zoom in on objects, and toggle between video and
+
+camera mode with one hand, instead of fiddling with the touchscreen.
+
+
+
+SPECS
+
+
+
+LG G5
+
+
+
+Processor Qualcomm Snapdragon 820 Octa-Core (Dual-core 2.15 GHz & dual-core 1.6
+
+GHz)
+
+
+
+Display 5.3-inch IPS LCD, Corning Gorilla Glass 4, 1,440 x 2560 pixels, (554
+
+pixel per inch pixel density)
+
+
+
+Camera Rear: 16 MP (f/1.8) + 8 MP (f/2.4), laser autofocus, Optical Image
+
+Stabalisation, LED flash. Front: 8 MP (f/2.0)
+
+
+
+Operating System Android 6.0.1 (Marshmallow)
+
+
+
+Memory 32GB, with microSD support (up to 200GB), 4GB RAM
+
+
+
+Battery Removable Li-Ion 2,800 mAh
+
+
+
+Price S$988
+
+
+
+LOAD-DATE: May 13, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+GRAPHIC: WORTHWHILE INVESTMENT LG's hardware-based DAC can be fitted on to the
+
+phone and comes with a housing that contains a second USB-C port, so that you
+
+can use this module with other phones in the market.
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                Copyright 2016 Singapore Press Holdings Limited
+
+                              All Rights Reserved
+
+
+
+
+

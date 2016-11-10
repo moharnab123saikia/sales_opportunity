@@ -1,0 +1,394 @@
+                              830 of 999 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                            August 1, 2013, Thursday
+
+
+
+iPhone 6 rumor rollup for the week ending August 2;
+
+Apple iPhone 6 rumors include: 3-lens camera, fingerprints, iCheapo, LiquidMetal
+
+redux
+
+
+
+BYLINE: John Cox
+
+
+
+LENGTH: 1593 words
+
+
+
+
+
+Patents, or patent applications, had the iOSphere swooning and agog over the
+
+prospect of a camera with not one or eventwo lenses, but three. Which obviously
+
+must be better than a camera with only one, or even two lenses.
+
+
+
+Also this week, code sleuths uncover references in the iOS 7 beta software of a
+
+fingerprint sensor integrated with the home button; a report on alleged labor
+
+abuses at factories owned by an Apple assembler reveals details on what could be
+
+a plastic-bodied cheap iPhone; and we are promised that the iPhone 6 will be
+
+arrayed in LiquidMetal, and yay, even Solomon in all his glory was not so
+
+arrayed.
+
+
+
+You read it here second.
+
+
+
+iPhone 6 will have a camera with not one, not two, but THREE lenses This begins
+
+with a straightforward account by AppleInsider's Mikey Campbell of a new Apple
+
+patent, not a patent application, published by the U.S. Patent and Trademark
+
+Office.
+
+
+
+Although widely headlined as a three-lens camera, the actual patent seems more
+
+focused on three sensors, with the triple lenses being in a sense the means to
+
+the end: which is to improve photo accuracy.
+
+
+
+[IPHONEYS: The iPhone 6 edition] According to Campbell: "In most embodiments,
+
+the luminance sensor is flanked on two sides by the chrominance sensors. This
+
+positioning allows the camera to compare information sourced from three
+
+generated images. For example, an image processing module can take raw data from
+
+the three sensors, comprising luminance, color, and other data, to form a
+
+composite color picture.
+
+
+
+The resulting photo would be of higher quality than a system using a single
+
+unified sensor."
+
+
+
+For clickbait websites, such as HighLightPress, the new patent is almost
+
+automatically associated with the Next iPhone or Almost Next iPhone. In an
+
+emblematic iOSphere post, Sullivan Davis blathers on about the importance of
+
+"about mold-breaking innovation and satisfying consumer demand before the
+
+punters even know what it is they want" and "as far as mold-breaking features go
+
+that are already making waves, new-generation camera technology seems to be
+
+topping the table," which is a mixing of metaphors so skilled that it leaves the
+
+reader dizzy.
+
+
+
+"This of course hasn't escaped the attention of Cook and Co., which apparently
+
+has led to Apple looking into triple-lens technology for the new camera to
+
+feature on the iPhone 6," Sullivan assures his readers, without of course a
+
+shred of evidence. "A recent patent filing suggests that the new triple-lens is
+
+destined to make an appearance on a 2014 iPhone, given the fact that the iPhone
+
+5S is already said to be in full production in the Far East."
+
+
+
+Mashable's Pete Pachal goes even further in his post. "Should we look forward to
+
+a tri-sensor camera in the rumored iPhone 5S? It's unlikely to be implemented
+
+that quickly (although the patent was originally filed in 2010), but perhaps
+
+some of the tech will find its way into consumers' hands in future models."
+
+
+
+iPhone 6 will have fingerprint sensor in home button The latest beta release of
+
+Apple's iOS 7 firmware has revealed what many believe is conclusive evidence
+
+that the next iPhone will incorporate a fingerprint sensor into the device's
+
+home button. (And likely for the iPad, which we mentioned in our latest "iPad 5
+
+Rumor Rollup.")  This is actually Bad News for all of those who have clung and
+
+no doubt still cling to the conviction that Apple must or should eliminate the
+
+home button entirely.
+
+
+
+The evidence is some code strings in the beta software, sent to 9to5Mac, and
+
+then posted via Twitter, by Hamza Sood @hamzasood who found them in the beta 4
+
+release of iOS 7. Marc Gurman posted the information at 9to5Mac.  You can find
+
+the full details in our coverage, "Latest iOS 7 beta reveals possible
+
+fingerprint sensor for iDevices."  A separate source told Gurman that the
+
+"user-interface for the fingerprint scanning system has been complete[d]. This
+
+person also says that the technology is focused around unlocking the phone, so
+
+it is unclear if it is built for a payment system (as rumored) in the next
+
+iPhone."
+
+
+
+The fingerprint scanner has been enthusiastically predicted for at least 12
+
+months, ever since Apple acquired Florida-based AuthenTec in July 2012 for $326
+
+million. The company specialized in a range of mobile security products and
+
+technologies apart from, and in tandem with, its fingerprint scanner. The real
+
+question, to which Gurman alluded, is whether Apple intends the scanner mainly
+
+as a device lock or as the foundation for a range of new or expanded secure
+
+services in the future, including mobile payments.
+
+
+
+Cheap, plastic iPhone now being produced, according to labor abuse report The
+
+cheap, plastic iPhone is in production, according to details contained in the
+
+just-released report on labor practices at the Chinese manufacturing plants
+
+where it's being assembled.
+
+
+
+The rights group, China Labor Watch, used undercover workers to report on
+
+practices at three Pegatron Group plants on mainland China. The overall thrust
+
+of the report -- as even its title makes clear "Apple's unkept promises: cheap
+
+iPhone come at high costs to Chinese workers" -- contrasts the cheap iPhone with
+
+the high costs - through scores of alleged illegal or unethical labor practices
+
+- that Pegatron and Apple are imposing on workers.
+
+
+
+Our full coverage of the report and the possible confirmation of an impending
+
+low-cost iPhone is online.  One worker describes his experience of a day on the
+
+assembly line as follows: "The task on my assembly line is to assemble back
+
+covers. The assembling of other parts of the cell phone, including the final
+
+assembly into a finished product, is assigned to different production
+
+facilities, each facility partitioned off by heavy curtains so that workers in
+
+different departments are isolated from one other. Today's work is to paste
+
+protective film on the iPhone's plastic back cover to prevent it from being
+
+scratched on assembly lines. This iPhone model with a plastic cover will soon be
+
+released on the market by Apple. The task is pretty easy, and I was able to work
+
+independently after a five-minute instruction from a veteran employee. It took
+
+around a minute to paste protective film on one rear cover. The new cell phone
+
+has not yet been put into mass production, so quantity is not as important. This
+
+makes our job more slow paced than in departments that have begun mass
+
+production schedules."
+
+
+
+For many in the iOSphere, CLW report confirms what they've long rumored,
+
+suspected, or insisted upon: that Apple must produce a cheaper iPhone in order
+
+to compete with the rising tide of cheap Android phones in key markets.
+
+
+
+But if the iCheap is simply iPhone 5 with a plastic case, it won't be much
+
+cheaper at retail then the iPhone 5, certainly not enough to compete purely on
+
+price with much less expensive, low-end Android phones.
+
+
+
+And Apple and its retailers have been selling millions of discounted, older
+
+iPhone 4 and 4S units, which effectively constitute "lower cost" models. And a
+
+consumer survey released this week found very high customer satisfaction with
+
+both of these phones, one three years old, the other nearly two.
+
+
+
+But the CLW undercover workers apparently saw something. To know what that was,
+
+and whether it constitutes a final 2013 Apple product, we'll just have to wait.
+
+
+
+iPhone 6 is a phablet that will have a "virtually indestructible shell" The
+
+stuff people come up with.
+
+
+
+"On its release date, the phablet-sized iPhone 6 will be likely wrapped in a
+
+virtually indestructible shell with futuristic handset body build, thanks to new
+
+Apple patents that point to the use of liquid metal materials and solid-state
+
+battery for future iOS devices," declares Erik Pineda, in an over-the-top post
+
+at International Business Times.  To come up with this fantasy, Pineda first
+
+blended two newly announced Apple patent applications, one for "3-D structures"
+
+made of a liquid metal alloy, the other for a charging system for solid state
+
+batteries, and then just made stuff up.
+
+
+
+LiquidMetal is a startup and an alloy. Since 2010, when Apple licensed its
+
+technology, this Wondrous Material has been rumored to be the next Big Thing for
+
+iPhone. But so far it hasn't made much of an appearance except as the casing for
+
+a SIM card.
+
+
+
+Essentially LiquidMetal allows for stronger, lighter objects. The key challenge
+
+is to turn it into a large-scale industrial manufacturing process. As far as we
+
+know, that hasn't been done yet and likely won't be for another two or three
+
+years at best.
+
+
+
+The LiquidMetal patent application referred to by IBT was described, not very
+
+clearly, by PatentlyApple. Even if you also don't actually understand what's
+
+going on here, it's clear that what Apple invented was some method for creating
+
+three-dimensional structures with plastic or with alloys that are like
+
+LiquidMetal. One suggested use is to create speaker covers for a mobile phone.
+
+That's right: speaker covers.
+
+
+
+The second patent application is for a technique to charge solid state
+
+batteries.
+
+
+
+PatentlyApple links to the Wikipedia entry on these batteries, with the
+
+explanation that they "are easy to miniaturize and can be constructed in thin
+
+film form." And the batteries seem to be smaller and lighter than comparable
+
+lithium-ion batteries.
+
+
+
+So that's cool and solid state technology may offer a way to boost battery life
+
+in a future iPhone. But there's nothing in any of this that even hints that
+
+these two patents will be implemented for the iPhone 6, even if you believe the
+
+iPhone 6 is due out in 2014.
+
+
+
+John Cox covers wireless networking and mobile computing for Network
+
+World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+
+
+
+
+
+LOAD-DATE: August 5, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2013 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,168 @@
+                              876 of 997 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                            May 15, 2013, Wednesday
+
+
+
+Google I/O: A lower-key Android keynote, but devs get huge set of new tools;
+
+New integrated development environment, game tools, and wide array of Google
+
+Play upgrades puts developers at center stage.
+
+
+
+BYLINE: Jon Gold
+
+
+
+LENGTH: 543 words
+
+
+
+
+
+Those hoping for a major new Android version or splashy device launch were
+
+likely disappointed by the Android portionof the keynote today at the Google I/O
+
+conference in San Francisco - but developers may have gotten more than they
+
+bargained for.
+
+
+
+Google promised a stronger focus on developers than at last year's event - which
+
+saw the company roll out a new version of Android and a well-received tablet,
+
+among other things - and delivered in no uncertain terms. Among the new
+
+dev-focused features announced this morning was an all-new integrated
+
+development environment, dubbed "Android Studio."
+
+
+
+[MORE GOOGLE I/O: Google says it has 900 million Android activations  Google I/O
+
+attendees each given a pricey Chromebook Pixel ]
+
+
+
+  Google says it has 900 million Android activations Google I/O: The buzz from
+
+this Google-extravaganza is decidedly quieter Hours before I/O, Larry Page opens
+
+up about his hoarse voice At Google I/O, attendees compete to save the world,
+
+virtually Google I/O attendees each given a pricey Chromebook Pixel Studio
+
+provides software makers with a number of built-in simplifications and
+
+previewing features, allowing them to adjust screen layouts based on
+
+localization and display size on the fly, rather than directly editing code. It
+
+also provides previews of color and icon appearance alongside the relevant
+
+lines, among other handy functionality.
+
+
+
+Google also announced major additions to its cloud messaging system, which
+
+originally rolled out at last year's I/O. Essentially a Google-managed method
+
+for developers to push data to apps, GCM is now under the umbrella of Google
+
+Play Services. It now supports continuous connectivity, the ability to handle
+
+upstream messaging, and syncs notifications between Android devices on the same
+
+account. (Which means, among other things, no more blizzards of "new email"
+
+notifications when users turn on infrequently used devices.) Location-based
+
+services also got a substantial update, as Google rolled out a "complete
+
+rewrite" of that code, which it advertised as faster, more accurate and far
+
+easier on battery life than the previous version. Developers can now also build
+
+"geo-fencing" and activity recognition into their software, which means that
+
+they can make apps behave differently in designated areas and identify whether a
+
+user is walking, biking or riding in a car.
+
+
+
+Google Play was the focus of much of the day's Android announcements. Along with
+
+the ability to deploy and manage access to alpha and beta tests of new software
+
+versions, new analytics and localization options and more, the Play Games
+
+framework - which had leaked before the show - made its official debut. While
+
+the demo didn't go so well - product management vice president Hugo Barra
+
+couldn't get a three-way racing game session to work on stage - Play Games
+
+promises matchmaking, shared high scores among friends, cloud-based save games,
+
+and other built-in multiplayer features for Android game developers.
+
+
+
+Finally, Google Plus got some love with support for cross-platform single
+
+sign-on capabilities, allowing for more robust sync between web, Android and
+
+even iOS.
+
+
+
+Email Jon Gold at jgold@nww.com and follow him on Twitter at @NWWJonGold, but
+
+remember that he's disappointed there were no skydivers this time around.
+
+
+
+
+
+
+
+
+
+LOAD-DATE: May 20, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2013 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

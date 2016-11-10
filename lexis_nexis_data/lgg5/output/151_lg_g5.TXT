@@ -1,0 +1,96 @@
+                              151 of 820 DOCUMENTS
+
+
+
+
+
+                                  Stock Watch
+
+
+
+                       April 25, 2016 Monday 6:30 AM EST
+
+
+
+Google engineer claims that HTC 10 and LG G5 do not comply with USB Type-C spec
+
+
+
+BYLINE: Bruce Totolos
+
+
+
+LENGTH: 208  words
+
+
+
+
+
+Google engineer Benson Leung has recently drawn attention to the fact that two
+
+of the latest Android-powered flagship handsets -- the HTC 10 and the LG G5 --
+
+are not compliant with the USB Type-C specification.
+
+
+
+According to Leung, the HTC 10 and the LG G5 handsets are equipped with
+
+Qualcomm's Quick Charge 3.0 technology which violates the USB Type-C
+
+specification that has essentially been designed to make things easier and
+
+faster. A non-compliance with the specification can apparently put smartphones
+
+at a potential risk of catching fire.
+
+
+
+Leung has explained that, as per the USB Type-C 3.1 specification, the range of
+
+the Vbus line of the port should be between 4.45 and 5.25 volts. However, the
+
+specification of the port is violated by Qualcomm's Quick Charge technology
+
+because it increases the voltage to 9 or 12 volts.
+
+
+
+Leung has warned: "I don't recommend any Qualcomm QC 3.0 USB type-C charger,
+
+because any of them that claim to support QC 3.0 on a Type-C port violates the
+
+Type-C specification. The Type-C spec specifically forbids proprietary charging
+
+methods that try to change Vbus beyond 5V."
+
+
+
+Leung has also pointed out the HTC 10 and the LG G5 handsets are not the only
+
+smartphones which are non-compliant with the USB Type-C specification.
+
+
+
+LOAD-DATE: April 25, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+          Copyright 2016 Manas Informatics, distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

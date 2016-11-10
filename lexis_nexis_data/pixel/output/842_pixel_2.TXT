@@ -1,0 +1,340 @@
+                              842 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                           The Sunday Times (London)
+
+
+
+                            November 6, 2016 Sunday
+
+                                   Edition 1;
+
+                                    Ireland
+
+
+
+Immerse yourself beyond reality;
+
+Virtual reality is taking over the world of gaming. With the arrival of the new
+
+Oculus Rift and Sony's PlayStation VR, Wez Evans looks at what's available
+
+
+
+BYLINE: Wez Evans
+
+
+
+SECTION: DISRUPTION;FEATURES; Pg. 2,3
+
+
+
+LENGTH: 1254 words
+
+
+
+
+
+Oculus Rift was once synonymous with virtual reality in the same way the iPod
+
+was with the MP3 player. Now the market has expanded to include a wide range of
+
+platforms that vary in quality, cost and a few other parameters. VR may not be
+
+an essential purchase just yet, but the time has never been better for those
+
+looking to dip their toe into what is arguably the future of home entertainment.
+
+
+
+Google Cardboard is very much the entry-level VR experience at about (EURO)20.
+
+Users can either purchase the Cardboard with a pre-manufactured frame or
+
+construct their own using basic, low-cost parts such as velcro, Sellotape and
+
+cardboard, fitting them to the lenses provided.
+
+
+
+In order to function, the Cardboard requires a smartphone running at least
+
+Android 4.1 (Jelly Bean) or iOS, which is inserted at the front. The headset's
+
+lenses then convert the phone's screen into an enveloping virtual reality,
+
+although at this price point it's unsurprisingly one of the least convincing VR
+
+headsets available.
+
+
+
+The Cardboard's bigger brother, on the other hand, is a much more powerful
+
+device. Google's Daydream View also requires the help of an Android smartphone,
+
+namely its own recently released Pixel, though the company promises that more
+
+"Daydream-ready" phones are on the way.
+
+
+
+The Pixel, as well as its operating system, Nougat, is being developed with VR
+
+in mind, and the Daydream will be able to take full advantage of the phone's
+
+head-tracking algorithms and sensors.
+
+
+
+HTC, Samsung, Asus, LG, Xiaomi, Alcatel, and ZTA have all announced Daydream
+
+compatible phones but it takes more than hardware to create a successful
+
+platform. Google has partnered with HBO, Netflix, Hulu, Lionsgate, NBA, MLB and
+
+the Wall Street Journal to develop an impressive catalogue of apps as well as
+
+flexing its YouTube muscles to bring in content creators like lifecaster Justine
+
+Ezarik (also known as iJustine) and the Dolan twins (of AwesomenessTV) who will
+
+create unique 360-degree promotional material.
+
+
+
+Daydream View is an aesthetic departure from its rivals, sporting a cloth-based
+
+frame as opposed to the industry standard's solid plastic. This makes it both
+
+comfortable to wear and hand-washable - a reasonable selling point as prolonged
+
+use of any headset can leave the user with a reasonably sweaty brow. The
+
+material comes in three colour variations: Slate at launch with Crimson and Snow
+
+available later down the line.
+
+
+
+Similar to Cardboard and Daydream, the Samsung Gear VR works in partnership with
+
+an Android phone. Provided you already own a Galaxy Note5, Galaxy S6, S7, or any
+
+of their Edge and Plus variations the Gear VR is an incredibly cheap and
+
+powerful alternative at around (EURO)60.
+
+
+
+While the recent mass recall of faulty Galaxy S7 Edges doesn't necessarily
+
+reflect poorly on the Gear VR, it does serve as a reminder that a faulty phone
+
+means a faulty VR device. Buyer, beware.
+
+
+
+Originally demoed back in 2014, the HTV Vive got a full release in April of this
+
+year to almost universally positive reviews. As one of the most powerful virtual
+
+reality headsets available right now the cost of more than (EURO)900 is steep,
+
+yet that doesn't factor in the potentially steeper cost of upgrading or even
+
+buying a PC capable of running software for the device.
+
+
+
+The Vive is a graphically demanding headset, requiring roughly triple the power
+
+of a typical gaming PC. Gaming rigs rocking anything less than Nvidea's Geforce
+
+GTX 970 will likely need beefing up in order to run most of what the HTC has to
+
+offer. Gameplay is projected onto two screens simultaneously (one for each eye)
+
+at 1200 x 1080 resolution, making even low-intensity indie games a reasonably
+
+big task to render.
+
+
+
+The result of all this processing power is a thoroughly immersive gameplay
+
+experience, further intensified by the Vive's unique controllers. The wireless
+
+motion tracked controllers feature a comfortable trigger as well as
+
+squeezeactivated buttons, which translate perfectly when the user attempts pick
+
+up an object or otherwise interact with a digital world.
+
+
+
+This digital world demands adequate space, however. While HTC recommends 2
+
+metres x 1.5 metres some games issue a warning on startup if the user attempts
+
+to play in anything less than 3m x 3m. A front-facing camera can be toggled to
+
+provide picture-in-picture view of the surrounding area, allowing you to
+
+maintain a safe distance from obstacles.
+
+
+
+Further limiting your area of play is the sheer volume of cabling required to
+
+hook the Vive up. While not a deal breaker, a wired VR connection might not be
+
+for everyone, especially considering the headset weighs in at 555g before
+
+everything's even plugged in.
+
+
+
+The Oculus Rift is easily the Vive's biggest competitor with a similar level of
+
+graphical fidelity and (EURO)200 knocked off the cost. The hardware requirements
+
+are only slightly lower - you'll still want a pretty beastly PC to make the Rift
+
+do its thing - and physical space is a non-issue with most software allowing you
+
+to remain seated, negating any issues with cabling.
+
+
+
+This crowdfunded machine's biggest drawback is lack of motion controls. The long
+
+awaited Touch controllers are still in development, so for now players will need
+
+to settle for the Xbox One game pad - a perfectly viable method of interaction
+
+that unfortunately can't compare to the Vive's slick and visceral triggers.
+
+
+
+In October, Oculus acquired the Irish micro-LED developer InfiniLED, a
+
+Cork-based company specialising in the development of wearable displays and TV
+
+screens. According to www.Uploadvr.com, InfiniLED has moved into Oculus
+
+Research's new Cork offices in order to further develop inorganic LEDS, which
+
+will reduce the Rift's power consumption without compromising visual quality.
+
+
+
+The purchase of InfiniLED indicates that we'll either see a new, cheaper
+
+generation of Rifts down the line, or at least a price drop for the original
+
+Oculus as a more efficient version hits the market.
+
+
+
+At (EURO)400, PlayStation VR seems to hit the sweet spot of affordability
+
+without overly compromising quality. Similar to the Rift and Vive, external
+
+hardware is essential, though here in the form of a PlayStation 4. The
+
+difference is that in this case all hardware is created equal. Whether you
+
+bought a PS4 at launch, just as PSVR released, or plan on waiting for the
+
+upcoming PS4 Pro, Sony's headset will work just as efficiently regardless.
+
+
+
+That said, in order to let the PSVR headset talk to your console you'll need to
+
+drop a little extra cash on the PS4 camera, which clocks in at (EURO)60.
+
+
+
+Optionally the PS Move motion controllers also run to (EURO)35, although the
+
+standard PS4 controller works just fine.
+
+
+
+Much like the Oculus Rift, some games are a little jarring without motion
+
+controls but for titles such as EVE: Valkyrie (which is available on both
+
+platforms) a game pad is actually preferable.
+
+
+
+Virtual reality has crested through its content drought with plenty of games and
+
+interactive experiences on the horizon that make any of these headsets a
+
+worthwhile purchase. The one thing holding it back is potential motion sickness
+
+as some but not all users complain of nausea after prolonged use, and in some
+
+cases any use at all.
+
+
+
+As unhelpful a cliché as it's become virtual reality needs to be experienced to
+
+be truly understood. The most important aspect to take away is that the
+
+technology works. Just how well it works will depend on how much money you're
+
+willing to part with in return for a tour of a virtual world.
+
+
+
+The Vive is a graphically demanding headset, requiring roughly triple the power
+
+of a typical gaming PC
+
+
+
+LOAD-DATE: November 6, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+GRAPHIC: Above, HTC Vive being put through its paces at the Computex computer
+
+exhibition in Taipai, Taiwan, earlier this year. Below, PLAYSTATIONVR headset
+
+featuring Wayward Sky.
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: STS
+
+
+
+
+
+                    Copyright 2016 Times Newspapers Limited
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,130 @@
+                              589 of 997 DOCUMENTS
+
+
+
+
+
+                          Newcastle Herald (Australia)
+
+
+
+                            October 10, 2006 Tuesday
+
+                                  Late Edition
+
+
+
+SHORT CIRCUITS;
+
+TECHKNOW
+
+
+
+BYLINE: GR
+
+
+
+SECTION: ORBIT; Pg. 28
+
+
+
+LENGTH: 328 words
+
+
+
+
+
+Q When I drag digital pictures into an email message, they come in huge and fill
+
+up the screen, making it impossible to see the entire image at once. Can I
+
+adjust the size of photos so they fit in the message window?
+
+
+
+A Giant photo syndrome can occur when the resolution of the digital picture
+
+exceeds that of the computer monitor. Although the computer's graphics software
+
+can sometimes correct the situation, this is not always the case.
+
+
+
+Digital photographs are made up of pixels - the word is short for "picture
+
+elements" - and a pixel is a single point in an image. Monitor resolution is
+
+also measured in pixels, and most monitors these days use screen resolutions of
+
+800 by 600 pixels; 1024 by 768 pixels; or 1152 by 864 pixels. All of these
+
+resolutions are smaller than a 3-megapixel photo, so when the photo is displayed
+
+at its full size, it exceeds the monitor's screen size.
+
+
+
+But both Windows XP and Mac OS X give you the opportunity to shrink photos to
+
+resolutions that fit better on a computer screen, such as 640 pixels by 480
+
+pixels.
+
+
+
+In Windows XP, click to select the photos you want to send from My Pictures or
+
+another location on your computer. After you have selected the pictures, click
+
+in the "email selected items" option in the task pane. You can also right-click
+
+with the mouse and select "Send to Mail Recipient" from the pop-up menu.
+
+
+
+In the resulting box, click the button next to "Make all my pictures smaller"
+
+and then on the link for "Show more options" to see a selection of resolutions
+
+to use for the picture attachments. Choose one and click OK.
+
+
+
+Google's Picasa photo-management program for Windows and Linux (free to download
+
+at http://picasa.google.com) can also shrink photo attachments.
+
+
+
+Mac OS X users have an option in the iPhoto program to reduce image sizes for
+
+email. After you select pictures from your iPhoto library, click the email icon
+
+at the bottom of the window; a box will pop up asking if you'd like to shrink
+
+the image for emailing.
+
+
+
+LOAD-DATE: June 19, 2007
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                  Copyright 2006 Newcastle Newspapers Pty Ltd
+
+                              All Rights Reserved
+
+
+
+
+

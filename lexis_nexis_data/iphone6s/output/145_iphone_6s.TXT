@@ -1,0 +1,500 @@
+                             145 of 1000 DOCUMENTS
+
+
+
+
+
+                            The Times of India (TOI)
+
+
+
+                            October 23, 2015 Friday
+
+
+
+Apple iPhone 6S review
+
+
+
+BYLINE: Anupam Saxena
+
+
+
+SECTION: REVIEWS
+
+
+
+LENGTH: 2070 words
+
+
+
+
+
+With the iPhone 6S, Apple is trying hard to change the perception that its new
+
+flagship is merely an iterative update to its predecessor. So much that its
+
+tagline for its new iPhones is 'the only thing that's changed is everything.'
+
+The phone brings some brand-new features such as 3D Touch and takes one of the
+
+biggest leaps in terms of camera hardware. We try to find out if the iPhone 6S
+
+is the best smartphone money can buy...
+
+
+
+Looks just like the iPhone 6
+
+
+
+The iPhone 6S looks exactly like the iPhone 6. It's slightly thicker and heavier
+
+but you won't really notice it. However, Apple's played the colour card and
+
+introduced a new rose gold variant, which is essentially a light shade of pink
+
+with a gold tint, for people who really want to tell the world it's the new
+
+iPhone.
+
+
+
+It also sports the same metal and glass build with rounded edges and curved
+
+front glass panel but Apple claims to have used stronger materials including
+
+7000 Series aluminium for the body and the strongest cover glass used on any
+
+smartphone in the world. It's probably a confidence building measure after the
+
+company was embroiled in the 'bendgate' controversy with its iPhone 6 Plus
+
+buckling to external pressure and bending as evident from the large number of
+
+videos that appeared on the internet. Of course, we never bend other phones to
+
+check if they deform and treated the iPhone 6S the same way.
+
+
+
+We think iPhone 6S is still the perfect phone if you're looking for a device
+
+that's optimized for one-hand use. If you like the iPhone 6 design, there's
+
+nothing that's going to prevent you from appreciating the 6S' form. The phone
+
+even supports the same cases.
+
+
+
+Same old display
+
+
+
+iPhone 6S retains the iPhone 6's 4.7-inch display that sports 750x1334p
+
+resolution packing in 336 pixels per inch. While you're unlikely to notice any
+
+pixilation or distortion unless you look really closely, we still feel Apple
+
+could have used a full-HD display. The display is perfectly readable under
+
+sunlight and has wide viewing angles thanks to dual-domain pixels. Colour
+
+reproduction is also good along with deep enough black levels. The screen also
+
+boasts of a fingerprint-resistant oleophobic coating to prevent smudging.
+
+
+
+The new display also integrates sensors that can recognize different levels of
+
+force for the new 3D Touch feature (more on that later).
+
+
+
+Unique software features - 3D Touch & Live Photos
+
+
+
+iPhone 6S comes with iOS 9, the latest version of Apple's mobile operating
+
+system. Interestingly, some features of the OS are limited to the iPhone 6S and
+
+6S Plus - 3D Touch and Live Photos.
+
+
+
+3D Touch is a new way of interacting with the phone's touch screen and is an
+
+enhanced version of Force Touch which was first seen in the Apple Watch. Just
+
+like you pinch the screen to zoom in or double tap to zoom out on most phones,
+
+with 3D Touch you press the screen forcefully for previewing content and even
+
+harder for viewing it. Apple calls the two touch levels peek and pop. The
+
+feature has been implemented in most built-in apps including Photos, Phone,
+
+Messages, Camera and Mail, and in third party apps like Facebook, Instagram,
+
+Zomato and Paytm. Apple has also put a new taptic engine that offers haptic
+
+feedback (a subtle vibration) when you peek or pop.
+
+
+
+There are a few major applications of 3D Touch on iPhone 6S - for instance you
+
+can preview emails, messages or pictures with the peek gesture and open them
+
+with a pop. You can firmly swipe from the left edge to go the multitasking view
+
+and don't need to double tap on the Home button. You can also use the software
+
+keyboard as a trackpad to navigate around a document by a forcefully tapping on
+
+the keyboard. The Notes app is also able to distinguish between force touch and
+
+normal touch and lets you switch to a darker drawing mode when you choose the
+
+former.
+
+
+
+One interesting application is home screen quick actions that let you go to a
+
+particular section of the app without opening it. This means you can force tap
+
+on the camera app shortcut to go directly to the selfie mode or post a tweet
+
+quickly by going directly on this screen. More third party apps are integrating
+
+this feature but we feel it could have been made more useful by eliminating the
+
+need to go inside the app. For instance force tapping on Facebook and selecting
+
+the Update status message could bring a small box that lets us update the status
+
+or force tapping on Music could show playback controls.
+
+
+
+Live Photos
+
+
+
+Another fun feature is Live Photos. Think of having the option of shooting a
+
+3-second animated GIF with sound each time you shoot a still. So you can see
+
+your kid in action each time you play the photo. Yes, the camera covers some
+
+action even before you hit the shutter button. Live Photos play when you tap
+
+hard on the screen. You can also set Live Photos as your wallpaper and play them
+
+by force tapping on the screen.
+
+
+
+You can share Live Photos using iMessage, iCloud Photo Sharing, or AirDrop, as
+
+well as other Apple devices, including Apple Watch. Shared elsewhere, Live Photo
+
+is sent as a still photo, or if you decide to edit it. Apple says it will be
+
+coming out soon with new API for Live Photos, so that developers can add
+
+app-to-app sharing of Live Photos too. So it's just a matter of time before you
+
+can share Live Photos on Facebook and WhatsApp.
+
+
+
+We found playing with Live Photos fun and they make for livelier and creative
+
+wallpapers. While a number of phones including the Lumias and HTC One devices
+
+have been offering a similar feature, Apple's implementation has made it easy to
+
+discover and use.
+
+
+
+Other iOS 9 features
+
+
+
+iPhone 6S runs Apple's iOS 9 that introduces some new features and upgrades to
+
+system apps. The biggest update that iOS 9 brings to the iPhone is
+
+'intelligence,' part of which is the Proactive Assistant that offers contextual
+
+information based on your email, calendar and usage pattern.
+
+
+
+For instance, if you have a meeting scheduled in your calendar, it will remind
+
+you before time and even offer an update on traffic conditions. It adds events
+
+to the Calendar from emails and suggests actions when you connect an accessory.
+
+
+
+Another feature is enhanced search and a better Siri (Apple's voice assistant)
+
+experience. Siri also offers search suggestions including nearby places,
+
+frequently used apps and people and local news. It's also able to search inside
+
+third-party apps, do math and conversions and display sports scores and weather
+
+forecasts. A lot of these features are unavailable in India as Apple doesn't
+
+offer directions on maps and information related to places of interest so we
+
+couldn't really use them. Deep linking or the ability to display content from
+
+apps does work to some extent. For example, searching a restaurant will display
+
+its Zomato listing if you've browsed through it in the past.
+
+
+
+A new low-power mode reduces or turn off non-essential tasks such as visual
+
+effects and automatic downloads. The phone also won't check for new mail or
+
+update content for apps in the background as often in that mode. We found that
+
+this mode does stretch the battery at the cost of being up to date with
+
+notifications.
+
+
+
+Visually, there's not much change but the app previews in multitasking view now
+
+appear as stacked cards, allowing you to flip through them.
+
+
+
+Overall, iOS 9 is more about fine tuning iOS 8 and making the experience more
+
+stable. Sadly, you'll still need to rely on Google's third party apps for key
+
+features including maps and navigation, in India. Even Spotlight Suggestions and
+
+enhanced search are not available in the region.
+
+
+
+(##include msid=29593805,type=9 ##)
+
+
+
+Consistently good camera
+
+
+
+We all know Apple was never too obsessed with megapixels but the iPhone 6S is a
+
+major upgrade after many years, progressing to a 12MP sensor on the back and a
+
+5MP selfie camera.
+
+
+
+Does it lead to any improvement? Well, compared to photos shot with the iPhone 6
+
+which features an 8MP camera, pictures taken with the 6S are brighter, colours
+
+are more vivid and you'll even notice some more detail. However, it's not a huge
+
+leap as the iPhone 6 camera is already one of the best in business. Compared to
+
+other smartphones, we'll still say that Samsung's new Note phone and S6 edge+
+
+give tough competition but the iPhone's USP is its consistency. You can just
+
+take the phone out and shoot without bothering to tinker with any settings.
+
+
+
+Sadly, the iPhone 6S doesn't feature Optical Image Stabilisation which is only
+
+in the Plus variant. This could have made low light shots even better and
+
+reduced shake in videos.
+
+
+
+A big addition to the iPhone 6S is support for 4K recording - the ability to
+
+shoot video in resolution four times higher than full-HD. Remember that these
+
+videos do look better than full-HD but take up more space on the phone. Also,
+
+only a few screens support 4K playback at this point in time. You're better off
+
+using full-HD if it's for personal use and you don't have a 4K device.
+
+
+
+The iPhone 6S also uses the phone's screen as a front flash for selfies shot in
+
+low light conditions. Again, this is not the first time we're seeing this
+
+feature but selfies shot in the dark do look natural and consistently lit up
+
+when you use this feature.
+
+
+
+Great performance
+
+
+
+Most iPhone users don't upgrade phones for better processors or RAM alone, but
+
+Apple claims the new A9 processor that powers iPhone 6S is almost 90% faster
+
+than the iPhone 6 in graphics rendering and 75% in overall use.
+
+
+
+We noticed minor differences in app launch times and while switching between
+
+apps. According to reports, the new iPhone comes with 2GB RAM, which is double
+
+the system memory of last year's models. We did notice some minor difference in
+
+multitasking capabilities - apps running in the background launch faster when
+
+you fire them up and Safari doesn't refresh as frequently.
+
+
+
+Games such as Infinity Blade III and Asphalt 8 run smoothly without any stutter
+
+or lag whatsoever and showcase the graphics prowess of the iPhone 6S.
+
+
+
+The Touch ID fingerprint sensor is twice as fast. So, you can unlock your phone
+
+and get to the home screen faster if you use this feature.
+
+
+
+The phone has an upgraded Wi-Fi and cellular antenna and we did notice that it
+
+loads pages faster compared to the iPhone 6 on the same network connection. It
+
+works with Airtel's 4G network without any issues and delivers decent speeds.
+
+
+
+Apple claims the talk-time and standby time of iPhone 6S remain the same. And
+
+that is despite the new A9 processor and 4K video recording capability. In our
+
+use, we got about 12-12 hours of standby with 6 to 7 hours of usage. Our usage
+
+included checking our Twitter account every now and then, clicking some
+
+pictures, receiving emails on three accounts and making calls for at least two
+
+hours. If you play video for longer periods, the battery depletes even faster.
+
+There's not much difference in the battery backup if you compare the phone to
+
+the iPhone 6 and that's not really a good thing.
+
+
+
+So should you take the leap of faith?
+
+
+
+On the surface, the major features the iPhone 6S offers is 3D Touch and Live
+
+Photos but it does come with remarkable improvements in build quality, a faster
+
+processor and fingerprint scanner, upgraded camera and better connectivity. At a
+
+starting price of Rs 62,000 for 16GB, the iPhone 6S is anything but affordable
+
+so it's certainly not for everyone.
+
+
+
+For iPhone 6 users, it's not a major upgrade. But if you find the new features
+
+like 3D Touch interesting and have a lot of cash to shell out, then we'd say
+
+nothing should hold you back.
+
+
+
+However, if you're looking to buy your first (or second) iPhone and want to save
+
+some cash, we feel the iPhone 6 is the perfect device offering a great window to
+
+Apple's software ecosystem and some useful features that you'll need. The same
+
+also holds true if you are looking to cross over from the Android world.
+
+
+
+Is the iPhone 6S the best smartphone available at the moment? In our opinion,
+
+the iPhone 6S offers a great smartphone experience and the key here is
+
+consistency and stability. Having said that we'd never buy the 16GB version
+
+especially with Live Photos that take up double the storage space and 4K videos.
+
+So the next best thing is the 64GB version that costs Rs 72,000. This price is
+
+outrageously high especially when rivals like Samsung's Galaxy S6, Google's
+
+Nexus 6P and Sony's Xperia Z5 deliver a premium experience at a much lower
+
+price. And it's not just about hardware specifications; Android has reached a
+
+point where it's not just a highly customizable OS meant only for power users.
+
+
+
+For Reprint Rights: timescontent.com
+
+
+
+LOAD-DATE: October 22, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2015 Bennett Coleman & Co. Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

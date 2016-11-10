@@ -1,0 +1,190 @@
+                              382 of 997 DOCUMENTS
+
+
+
+
+
+                                 The Australian
+
+
+
+                           September 27, 2016 Tuesday
+
+                               Australian Edition
+
+
+
+Google to make the call on Pixel branding
+
+
+
+BYLINE: Chris Griffith, Upgrades
+
+
+
+SECTION: AUSTRALIANIT; Pg. 29
+
+
+
+LENGTH: 575  words
+
+
+
+
+
+New Pixel-branded phones, the long-awaited Daydream virtual reality platform and
+
+Google Home could be among items announced at a major Alphabet/Google event in
+
+San Francisco next week.
+
+
+
+Like Apple, Google makes us guess about what it will launch on October 4. But
+
+again like Apple, there are more probable contenders among the rumours.
+
+
+
+Missing from the speculation is an upgrade to Android Wear, Google's operating
+
+system for smartwatches that is badly out of date.
+
+
+
+Apple's Watch-OS and Samsung's Tizen offer superior smartwatch experiences. With
+
+Motor-ola, LG and Huawei not expected to release Android Wear watches this year,
+
+the future of Google-inspired smartwatches is nebulous.
+
+
+
+On the other hand, Google's overwhelmingly successful Chrome-cast dongle, which
+
+lets you stream content from your phone or tablet to a TV, is tipped to get an
+
+upgrade to 4K. If it does, users can choose 4K content on their phone, and have
+
+their 4K TV fetch it and play it in ultra-high definition resolution.
+
+
+
+It is almost guaranteed we will see new branded Google phones. Since 2010,
+
+Google had tasked manufacturers such as Samsung, LG, Motorola, HTC and more
+
+recently Huawei to make "Nexus" phones, handsets that ran an unmodified or
+
+vanilla version of its Android operating system.
+
+
+
+Rumours have swirled about a new "Pixel" range, a 5-inch Pixel and larger
+
+5.5-inch Pixel XL handset. Websites have run photos of both with aluminium
+
+finishes, and home screen redesigns with circular icons and launcher shortcuts
+
+in Android Nougat 7.1. Google has also released intriguing new videos hinting at
+
+the devices.
+
+
+
+After so many reports, it would be hard to accept that none of this is true.
+
+Google's Home speaker, a voice recognition competitor to Amazon Echo's Alexa, is
+
+another contender. Given that Apple has HomeKit working as an app, Google has to
+
+ramp up its home automation and Internet of Things offerings to attract
+
+developers. This month it released an IoT kit to help developers build IoT apps
+
+and there's been reported moves about this working in concert with its Nest
+
+thermostat ecosystem.
+
+
+
+In May, Google announced its Daydream virtual reality platform and there is some
+
+belief it will launch next week. Daydream VR experiences designed by developers
+
+will play on Daydream-compatible VR headsets, although it's unclear whether
+
+Google will release its own headset or leave that to manufacturers.
+
+
+
+Manufacturers will have to build fast smartphones with low latency that drive
+
+the Daydream VR experience.
+
+
+
+A blog by Google's developers includes reference to experiments in social
+
+interactions in VR, such as trying on hats and sunglasses in virtual shops,
+
+interactions between real and virtual worlds and experiments that make use of
+
+existing VR controllers such as HTC Vive.
+
+
+
+Already, Australian VR production companies are gearing to build VR experiences
+
+in Daydream.
+
+
+
+Red Cartel managing director Landon Curry said the audience he could reach
+
+through Google and its Android devices was larger when compared with developing
+
+for Oculus Rift and using a Samsung Gear VR headset.
+
+
+
+Red Cartel already has developed a VR experience for MAX, part of the Tatts
+
+Group, as an internal branding exercise. It includes a virtual lift experience,
+
+which could be adapted to, say, promoting an airline lounge, where customers
+
+enter the lounge virtually after travelling by lift.Mr Curry said developers who
+
+built games using engines such as Unity were well placed to build VR
+
+applications in Daydream.
+
+
+
+LOAD-DATE: September 26, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: The Australian
+
+
+
+
+
+                   Copyright 2016 Nationwide News Pty Limited
+
+                              All Rights Reserved
+
+
+
+
+

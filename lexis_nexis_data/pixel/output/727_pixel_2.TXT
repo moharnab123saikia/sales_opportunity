@@ -1,0 +1,148 @@
+                              727 of 997 DOCUMENTS
+
+
+
+
+
+                              Electronics For You
+
+
+
+                                 June 10, 2016
+
+
+
+Bringing Augmented Reality To Your Smart Phone: Updates From Lenovo Tech World
+
+2016
+
+
+
+LENGTH: 502  words
+
+
+
+
+
+Lenovo becomes the first manufacturer worldwide to bring Tango technology to a
+
+consumer product. Google's technology that allows devices to understand spatial
+
+information is an exclusive feature in the PHAB2 Pro smartphone launched at the
+
+Lenovo Tech World 2016. Based on the Time-of-Flight principle, the REAL3 image
+
+sensor chip from Infineon Technologies AG equips the smartphone with a
+
+3-dimensional perception of the surroundings in real-time. Infineon provides the
+
+only image sensor chip worldwide meeting Google's specifications.
+
+
+
+"Through the Tango-enabled PHAB2 Pro, we are opening a completely new era in
+
+mobile applications," said Hua Zhang, Vice President, Lenovo Android/Chrome
+
+Computing Business Group. "The REAL3 image sensor chip from Infineon is a key
+
+component for Lenovo's PHAB2 Pro." Its users have instant access to augmented
+
+reality, benefiting from the phone's motion tracking feature which responds to
+
+physical movements, depth perception that measures the distance between objects
+
+and area learning capability which enables the device to recall the data
+
+recorded from previously visited locations.
+
+
+
+Augmented Reality for everyone is no longer a dream
+
+
+
+"3D machine vision will drive multiple new applications both in the consumer and
+
+the automotive world," said Jochen Hanebeck, President of the Automotive
+
+division at Infineon. "The depth perception and motion tracking today
+
+implemented in Tango devices can also be applied to driver monitoring or gesture
+
+detection inside the car."
+
+
+
+The sensor chip was developed at the Infineon competence centre in Graz,
+
+Austria, combining analog and digital signal processing with high data rates. It
+
+integrates the pixel array, the control circuitry, ADCs and the digital
+
+high-speed interface on a single chip. The development was made in co-operation
+
+with pmd technologies.
+
+
+
+This measuring principle involves infrared light. For each of its pixels, the 3D
+
+image sensor chip measures the time the light takes to travel from the camera to
+
+the object and back again. Each pixel detects the brightness value of the
+
+objects. Compared to other technologies, the ToF technology from pmd
+
+technologies offers the best spatial resolution and highest robustness both
+
+mechanically and concerning background light. Yet, it has the lowest current
+
+consumption and size. Thus, the camera is currently the smallest 3D-camera
+
+worldwide.
+
+
+
+Followers of Google's developer conference, Google I/O, just recently witnessed
+
+Infineon's involvement in Project Soli: Google and Infineon collaborated on a
+
+sensor chip facilitating gesture recognition. The Project Soli works with 60 GHz
+
+radio microwaves, whereas Tango is based on sending and receiving infra-red
+
+light signals. Thus, it stands apart from common 3D imaging methods. These are
+
+either based on a stereo camera requiring a minimum distance for triangulation
+
+and higher computing efforts. Alternatively, 3D images could so far be created
+
+with structured light with a lower object resolution, involving a higher bill of
+
+materials.
+
+
+
+LOAD-DATE: June 10, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Magazine
+
+
+
+
+
+      Copyright 2016 EFY Enterprises Pvt Ltd., distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

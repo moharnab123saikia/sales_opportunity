@@ -1,0 +1,200 @@
+                              886 of 998 DOCUMENTS
+
+
+
+
+
+
+
+                                  t-break Tech
+
+
+
+                          September 10, 2014 Wednesday
+
+
+
+iPhone 6 - the specs showdown
+
+
+
+LENGTH: 492 words
+
+
+
+
+
+Apple has finally launched the much awaited iPhone 6 Plus and iPhone 6 at WWDC
+
+2014 on its Silver Jubilee, yesterday. Finally, my social and tech news feed can
+
+take a back seat with all the rumored specs and product leaks. However, most of
+
+them were fairly accurate. Being an Android convert myself since iPhone [...]
+
+The post iPhone 6 - the specs showdown appeared first on tbreak.ae.
+
+
+
+Apple has finally launched the much awaited iPhone 6 Plus and iPhone 6 at WWDC
+
+2014 on its Silver Jubilee, yesterday. Finally, my social and tech news feed can
+
+take a back seat with all the rumored specs and product leaks. However, most of
+
+them were fairly accurate. Being an Android convert myself since iPhone 3GS; I
+
+can safely say, I'm not going to be reverting back anytime soon, yet.
+
+
+
+On paper the specs are pretty straight forward;
+
+
+
+
+
+iPhone 6    iPhone 6       Galaxy Note 4  LG G3
+
+Plus
+
+
+
+Announced   2014/09/09     2014/09/09     2014/09/03        2014/05/27
+
+On
+
+Processor   Apple          Apple          Qualcomm          Qualcomm
+
+Brand
+
+Architectur 64bit          64bit          32bit             32bit
+
+e
+
+Processor   A82-core2 GHz  A82-core2 GHz  Snapdragon        Snapdragon
+
+Name                                      8054-core2.7 GHz  8014-core2.5
+
+                                                            GHz
+
+RAM         2 GB           2 GB           3 GB              2 GB (16) 3GB
+
+                                                            (32)
+
+Built-In    16,64,128 GB   16,64,128 GB   32 GB             32 GB
+
+Storage
+
+Edxternal   No             No             MicroSD (upto     MicroSD (upto
+
+Card Slot                                 64GB)             128GB)
+
+Display     IPS LCD,       IPS LCD,       Super AMOLED,     IPS LCD,
+
+Type        Touchscreen    Touchscreen    Touchscreen       Touchscreen
+
+            Screen         Screen         Screen            Screen
+
+Glass Type  Sapphire       Sapphire       2.5D Glass        Gorilla Glass
+
+                                                            3
+
+Resolution  1920×1080      1334×750       2560×1440         2560×1440
+
+Pixel       416ppi         416ppi         515ppi            534ppi
+
+Density
+
+Screen Size 5.5"           4.7"           5.7"              5.5"
+
+SIM Type    Nano SIM       Nano SIM       Micro SIM         Micro SIM
+
+LTE         CAT4           CAT4           CAT6              CAT4
+
+Category
+
+Rear Camera 8 Megapixel    8 Megapixel    16 Megapixel      13 Megapixel
+
+Front       1.2 Megapixel  1.2 Megapixel  3.7 Megapixel     2.1 Megapixel
+
+Camera
+
+Video       720p/30fps     720p/30fps     1080p/30fps       1080p/30fps,
+
+Resolutions                                                 720p/30fps
+
+Wireless    No             No             Yes               Yes
+
+Charging
+
+NFC Sensor  Yes            Yes            Yes               Yes
+
+Battery     2910 mAh       1850 mAh       3220 mAh          3000 mAh
+
+Capacity
+
+(mAh)
+
+
+
+Don't be fooled by A8 2-Core 2.7 GHz, which on paper is 2 less cores than Note 4
+
+or G3, but keep in mind it's a 64-bit processor rather than the 32-bit and hence
+
+they were able to pull off similar user experience with a mere 1GB on its
+
+predecessor, iPhone 5S and that now has been bumped up to 2GB for iPhone 6.
+
+Being a current Samsung Galaxy Note 3 owner, I was secretly hoping that Samsung
+
+Galaxy Note 4 would come out with the new 64-bit Qualcomm Snapdragon 808/810 to
+
+be on par with Apple processors in that domain. Although, there are elements of
+
+iPhone 6 hardware that are really sub-standard when compared to the latest
+
+Android devices out there in the market from Samsung, LG, HTC or even Huawei,
+
+but iOS 8 and OS X Yosemite features are going to play a key role in setting
+
+iPhone 6 apart from the rest, especially, if your other devices are already in a
+
+MAC environment. Nonetheless, we will have to wait and see how iPhone 6 performs
+
+side by side with other devices along with some in depth stress testing.
+
+
+
+The post iPhone 6 - the specs showdown appeared first on tbreak.ae.
+
+
+
+LOAD-DATE: September 10, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+JOURNAL-CODE: 814
+
+
+
+
+
+                          Copyright 2014 TBREAK MEDIA
+
+                Provided by Syndigate Media Inc.(Syndigate.info)
+
+                              All Rights Reserved
+
+
+
+
+

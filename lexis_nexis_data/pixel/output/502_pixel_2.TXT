@@ -1,0 +1,102 @@
+                              502 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                            August 21, 2014 Thursday
+
+
+
+US Patent granted to Google Inc (California) on August 19 titled as "Automatic
+
+color correction"
+
+
+
+LENGTH: 205  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,811,740 on
+
+August 19, 2014, to Google Inc (California), titled as "Automatic color
+
+correction"
+
+
+
+Inventors:  Brendel; William (San Francisco, CA)
+
+Assignee:  Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Methods, systems and computer program products for automatic color correction
+
+of image and video content are provided. A computer-implemented method may
+
+include generating an auto-level linear transform and a histogram equalization
+
+transform of a color distribution histogram for an original image among a set of
+
+sequential images. The auto-level linear transform and the histogram
+
+equalization transform are blended to create a modified image. Pixel color is
+
+adjusted in the modified image so that a color difference between a pixel and
+
+neighboring pixels in the modified image corresponds to a color difference
+
+between respective pixels in the original image."
+
+
+
+The patent was filed on October 19, 2012 Application no. 13/656,550
+
+
+
+For more information please visit: http://www.uspto.gov/. In case of any query
+
+regarding this article or other content needs please contact:
+
+editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: August 22, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

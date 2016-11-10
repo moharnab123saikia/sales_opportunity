@@ -1,0 +1,174 @@
+                              879 of 997 DOCUMENTS
+
+
+
+
+
+                                  Techtree.com
+
+
+
+                       July 30, 2015 Thursday 6:30 AM EST
+
+
+
+Google Translate Brings English To Hindi Instant Visual Translation
+
+
+
+BYLINE: Phalgunn Maharishi
+
+
+
+LENGTH: 525  words
+
+
+
+
+
+While Google Translate app on your smartphone already allows you to visually
+
+translate printed text in seven languages, the company has come up with an
+
+update on Wednesday which expands instant visual translation to 20 more
+
+languages including Hindi.
+
+
+
+Giving more importance to the Indian market, the company has improved the
+
+translation experience for Indian users and this move looks significant as India
+
+is a very important market for the company.
+
+
+
+Along with Hindi, the recent update also supports 19 other languages -
+
+Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, Filipino, Finnish,
+
+Hungarian, Indonesian, Lithuanian, Norwegian, Polish, Romanian, Slovak, Swedish,
+
+Turkish, Ukrainian and Thai. However, Hindi and Thai are currently supporting
+
+only one-way translations from English and not vice-versa.
+
+
+
+Earlier, Google supported seven languages - English, French, German, Italian,
+
+Portuguese, Russian and Spanish.
+
+
+
+All you need to do is just open the Google Translate app, click on the camera
+
+and point it at the text you need to translate - a street sign, ingredient list,
+
+instruction manual or even dials on a washing machine. You would be able to see
+
+the text transforming live on your screen with no Internet connection required.
+
+
+
+This reminds us of Bing Translator for Phone which has quite similar features,
+
+however, it seems to have a few less language support even though there's an
+
+option to download basic language packs for offline use.
+
+
+
+Along with this, Google has announced that the latest update would be making
+
+real-time voice translations a lot faster and smoother. Having said this,
+
+Google's picture mode translation which requires a snapshot of text can also
+
+operate in 37 languages which may open the roads for many.
+
+
+
+So, how this instant visual translation actually work? Well, the answer takes us
+
+back to 2014 when Google acquired WordLens which is the master brain behind
+
+recognizing printed words using its optical character recognition capabilities
+
+and instantly translating these words in to the desired language.
+
+
+
+The neural nets have all kinds of records in image recognition which means that
+
+if you are translating a foreign menu or sign with the latest version of
+
+Google's Translate app, you are using a deep neural net. But, surprisingly, it
+
+can work on your phone without an Internet connection.
+
+
+
+Well, here's how.
+
+
+
+First, When a camera image comes in, the app finds the letters in the picture by
+
+weeding out the background objects like trees or cards. It looks at blobs of
+
+pixels that have similar colour to each other that are also near other similar
+
+blobs of pixels. Those are possibly letters, and if they're near each other,
+
+that makes a continuous line we should read.
+
+
+
+Second step is where the deep learning comes in. This is where the app
+
+recognizes what each letter actually is.
+
+
+
+Next, the app tries to take those recognized letters and look in to the
+
+dictionary for translations.
+
+
+
+Finally, the translation is rendered on top of the original words in the same
+
+style as the original in just a matter of seconds.
+
+
+
+In case if you are interested to know more on how this technology actually works
+
+(in-depth), you can check it out here.
+
+
+
+LOAD-DATE: July 30, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+            Copyright 2015 Techtree.com, distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

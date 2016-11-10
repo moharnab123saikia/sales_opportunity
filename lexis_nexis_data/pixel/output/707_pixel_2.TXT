@@ -1,0 +1,108 @@
+                              707 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                             June 6, 2015 Saturday
+
+
+
+Google Inc. (California) applies for US Patent titled as "Multiplane Panoramas
+
+of Long Scenes"
+
+
+
+LENGTH: 240  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has received an application no.
+
+20150156415 for US Patent, published on June 04, 2015, by Google Inc.
+
+(California), titled as "Multiplane Panoramas of Long Scenes" for the
+
+registration of patent.
+
+
+
+Inventors:  GALLUP; David; (Lynnwood, WA) ; SEITZ; Steven Maxwell; (Seattle, WA)
+
+; AGRAWALA; Maneesh; (Oakland, CA) ; CARROLL; Robert Evan; (Berkeley, CA)
+
+Assignee:  Google Inc.
+
+Mountain View
+
+CA
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Methods, systems, and articles of manufacture for generating a panoramic image
+
+of a long scene are disclosed. These include, fitting planes to 3D points
+
+associated with input images of portions of the long scene, where respective
+
+planes are fitted to a ground surface, a dominant surface, and at least one of
+
+foreground objects and background objects, and where distances from the 3D
+
+points to the fitted planes are minimized. These also include, selecting, for
+
+respective pixels in the panoramic image, an input image and a fitted plane such
+
+that a distance is minimized from the selected the fitted plane to a surface
+
+corresponding to the pixels and occlusion of the pixels is reduced in the
+
+selected input image, and stitching by projecting the selected input image using
+
+the selected fitted plane into the virtual camera."
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: June 6, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2015 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

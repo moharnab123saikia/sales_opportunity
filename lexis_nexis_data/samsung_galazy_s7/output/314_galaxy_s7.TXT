@@ -1,0 +1,340 @@
+                             314 of 1000 DOCUMENTS
+
+
+
+
+
+                         The Straits Times (Singapore)
+
+
+
+                            March 9, 2016 Wednesday
+
+
+
+Samsung S7 duo more than just an upgrade;
+
+Both the S7 and S7 edge are worth buying just for the improvement in camera
+
+capabilities
+
+
+
+BYLINE: Sherwin Loh
+
+
+
+SECTION: DIGITAL
+
+
+
+LENGTH: 943 words
+
+
+
+
+
+It is easy to look at Samsung's new duo of Galaxy S7 devices as corrections to
+
+the mistakes made with last year's Galaxy S6 phones.
+
+
+
+The South Korean tech giant brought back the water-resistance capability, as
+
+well as the highly favoured microSD slot for storage expansion, both of which
+
+were removed from last year's S6.
+
+
+
+The push for the S7 edge, which has the curved display on both sides of the
+
+phone, as the new flagship is also noteworthy. Samsung's failure to recognise
+
+the popularity of the curved screen led to lost sales of the S6 edge, when its
+
+supply could not match demand.
+
+
+
+But it would also be a mistake to think of both S7 devices as merely incremental
+
+upgrades to the S6.
+
+
+
+Samsung has gone out of its way to improve the camera on the S7, making both S7
+
+devices worth upgrading just for it.
+
+
+
+COMMON TECH SPECS   PROCESSOR: Samsung Exynos 8890 Octa core (quad-core 2.6GHz +
+
+quad-core 1.6GHz)
+
+
+
+OPERATING SYSTEM: Android 6.0 (Marshmallow) with TouchWiz
+
+
+
+CAMERA: (Rear) 12 MP, f/1.7, 26mm, 1/2.6-inch sensor size, 1.4-micron pixel
+
+size, (Front) 5MP, f/1.7, 22mm
+
+
+
+MEMORY: 32GB, expandable microSD storage up to 200GB using SIM 2 slot
+
+
+
+SAMSUNG GALAXY S7   PRICE: $998
+
+
+
+DISPLAY: 5.1-inch Super Amoled, 1,440 x 2,560 pixels (577 ppi pixel density)
+
+
+
+BATTERY: 3,000 mAh
+
+
+
+SAMSUNG GALAXY S7 EDGE   PRICE: $1,098
+
+
+
+DISPLAY: 5.5-inch Super Amoled, 1,440 x 2,560 pixels (534 ppi pixel density)
+
+
+
+BATTERY: 3.600 mAh
+
+
+
+RATINGS   DESIGN: 5/5
+
+
+
+FEATURES: 5/5
+
+
+
+PERFORMANCE: 5/5
+
+
+
+VALUE FOR MONEY: 4/5
+
+
+
+BATTERY LIFE: 4/5
+
+
+
+OVERALL: 5/5
+
+
+
+Instead of merely bumping up the pixel count of the S6's 16MP image sensor,
+
+Samsung has revamped the entire camera module, and actually gone with a
+
+lower-resolution 12MP sensor.
+
+
+
+What Samsung has done is to adopt a larger sensor size with bigger individual
+
+pixels on the S7 camera, which now allows each pixel to capture more light and
+
+details.
+
+
+
+And instead of the fast phase detection autofocus, which some smartphone firms
+
+have moved to, Samsung has developed what it calls Dual Pixel focusing for an
+
+even faster and more accurate focusing speed.
+
+
+
+With phase detection, a fraction of pixels are equipped with photodiodes for
+
+focusing. With Dual Pixel, all the pixels are used for focusing, which increases
+
+autofocusing speed - not just for stationary objects but also moving ones, as
+
+well as subjects in low-light conditions.
+
+
+
+The larger pixels are great for low-light shots, whether it's shooting in a room
+
+where the fluorescent lights are on, or in a dimly lit restaurant which usually
+
+yields dark, grainy shots with most phone cameras.
+
+
+
+Both front and rear cameras have an aperture size of f1.7, which further helps
+
+with low-light situations.
+
+
+
+Late-night shots of an evening skyline showed well-defined details of the lights
+
+in the background, and colours in the foreground.
+
+
+
+The same image taken on the S6 and even on Apple's iPhone 6S, coughed up stark
+
+differences in details and colour, as well as in the areas where there are
+
+lighting and shadows.
+
+
+
+My only quibble was that in certain indoor conditions, where the lights are the
+
+small LED spotlight types, the camera is sharp enough to capture the light
+
+trails that emanate from these small lights, disrupting the overall balance of
+
+the shot.
+
+
+
+The camera retains all of the features found in current Samsung phones, such as
+
+Pro mode, Selective Focus and even the Live Broadcast features introduced in
+
+last year's Galaxy Note 5.
+
+
+
+While the design of the S7 is different from the S6, the rear curve of the S7 is
+
+identical to that of the oversized Note 5, and I won't be surprised if the
+
+designs of both those phones eventually converge.
+
+
+
+Samsung has also followed LG, Lumia and Motorola in crafting an Always-On
+
+display, which allows users to check the phone for the time, missed calls and
+
+e-mail notifications, without waking up the device. While this feature is not as
+
+robust as that on the LG V10, it serves its purpose.
+
+
+
+SAMSUNG GALAXY S7 EDGE
+
+
+
+Aside from the larger screen and bigger battery, another difference between the
+
+S7 edge and S7 is the edge panel display. Users can modify the placement of a
+
+small "handle" that appears on the edge of the screen. A swipe inwards from this
+
+handle brings up sub menus, which Samsung terms edge menus, as a window overlay,
+
+for quick access.
+
+
+
+Users can list 10 frequently used apps on the Apps edge menu, and 10 commonly
+
+used short-cut keys on the Tasks edge menu. The People edge menu assigns a
+
+unique colour to five important contacts, such that the phone will light up in
+
+that colour if any of the five people call.
+
+
+
+I place the handle on the right edge of the screen, and swipe it with my right
+
+thumb to cycle through the different edge menu short cuts. Users can also craft
+
+their own edge menu panels for calendars, weather and news.
+
+
+
+After heavy modifications on what was initially thought of as a gimmick, the
+
+edge display seems to have finally found its mark, even if it still does not
+
+offer the most ground-breaking of uses.
+
+
+
+To entice potential S7 buyers, Samsung Singapore has also rolled out a $38
+
+concierge service that, aside from offering cheaper repairs for cracked screens,
+
+allows owners to save $350 in 12 months' time when they upgrade to next year's
+
+flagship model.
+
+
+
+Another thing: Users can expect to get an upcoming feature when the Samsung Pay
+
+mobile payment service rolls out here later this year. The service will allow
+
+users to store their credit card credentials on their phones, and authorise
+
+payments with their fingerprints via the phone's fingerprint sensor.
+
+
+
+· Verdict: The Samsung S7 corrects the mistakes of last year, and includesenough
+
+new hardware and software to make it the top Android device in the market right
+
+now.
+
+
+
+LOAD-DATE: March 8, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+GRAPHIC: The hardware and software improvements in the S7 (left) and S7 edge
+
+make them the top Android devices in the market now. Aside from the larger
+
+screen and bigger battery, another difference between the S7 edge and S7 is the
+
+edge panel display.
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                Copyright 2016 Singapore Press Holdings Limited
+
+                              All Rights Reserved
+
+
+
+
+

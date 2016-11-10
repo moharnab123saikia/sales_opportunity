@@ -1,0 +1,646 @@
+                               62 of 64 DOCUMENTS
+
+
+
+
+
+
+
+                                  The Guardian
+
+
+
+                       January 9, 2015 Friday 8:13 AM GMT
+
+
+
+CES 2015: 25 new products and technologies worth talking about;
+
+From battery-swapping scooters and people-sensing drones to action cams, virtual
+
+reality headsets and smart beds for kids
+
+
+
+BYLINE: Stuart Dredge
+
+
+
+SECTION: TECHNOLOGY
+
+
+
+LENGTH: 2244 words
+
+
+
+
+
+In many ways, this year's CES technology show in Las Vegas is business as usual.
+
+Devices are getting thinner, a new acronym is spawned every minute, and every
+
+company is revolutionising something in their press releases.
+
+
+
+What are the products whose implications will last longer than the in-show hype,
+
+though? Below, we've rounded up 25 of the new products and technologies from CES
+
+2015 that are worth talking about. Which, note, isn't the same thing as calling
+
+them the "best" products or the ones most likely to be commercially successful.
+
+
+
+Take a read, then have your say in the comments section on some of the issues
+
+raised by these products.
+
+
+
+Gogoro Smartscooter
+
+
+
+Gogoro's Smartscooter is an electric scooter with a range of nearly 100 miles,
+
+but you don't recharge its battery: you swap it. The company will operate a
+
+series of hubs where batteries can be reserved ahead of time, then swapped for
+
+the one that's running out. There's no news on its launch date or likely price,
+
+including the cost of the ongoing subscription for the batteries.
+
+
+
+Talking point: better or worse than the Tesla model of charging points?
+
+
+
+
+
+Voxel8 3D printer
+
+
+
+There are plenty of 3D printer companies showing off their new devices at CES,
+
+but the Voxel8 is the most intriguing of the lot. Its focus is on printing
+
+electronic circuits rather than just plastic objects, using conductive ink that
+
+dries quickly, and can be embedded in other objects. In the future, it could be
+
+used from devices including hearing aids, wearable gadgets and even quadcopter
+
+drones.
+
+
+
+Talking point: What does it mean for tech if we can print our own circuits?
+
+
+
+
+
+Nvidia Tegra X1
+
+
+
+                     Nvidia's latest chip isn't a chip - at least not according
+
+to the company, which is pitching it as a "superchip" thanks to its 256
+
+processor cores and eight CPU cores. Introduced at CES amid some grand claims -
+
+"more power than a supercomputer the size of a suburban family home from 15
+
+years ago" - it'll be making its way into products in due course - including
+
+cars, via Nvidia's Drive CX cockpit computer, which sports two of 'em.
+
+
+
+Talking point: is "mobile computing" a separate category any more,
+
+processor-wise?
+
+
+
+Sharp Aquos Beyond 4K Ultra HDTV
+
+
+
+If you've been playing oneupmanship with friends on the quality of your
+
+television, Sharp just unlocked a new level: 8K. Well, not strictly 8K - hence
+
+the "beyond 4K" in the title of its new TV, which uses pixel-splitting
+
+technology to deliver an effective resolution of 7,680 x 4,320. Or, as the
+
+company is pitching it: "virtual 8K". It'll also be one of the flagship models
+
+for Google's new Android TV platform.
+
+
+
+Talking point: that's a nice 8K telly, but who's making 8K shows and films?
+
+
+
+
+
+SkySpecs Guardian drone
+
+
+
+Remember that hovering drone in TGI Friday that spoilt Christmas for one diner
+
+by flying into her nose ? It turns out some drone companies are thinking hard
+
+about getting drones to avoid humans. SkySpecs showed its Guardian drone at the
+
+TechCrunch Hardware Battlefield contest during CES, with its ability to sense
+
+humans walking towards its whirring blades, and take evasive action.
+
+
+
+Talking point: how would this work in a crowded area: for example a restaurant?
+
+
+
+
+
+Razer OSVR Hacker Dev Kit
+
+
+
+Known for its PC and gaming accessories, Razer is also hoping to give Facebook's
+
+Oculus Rift virtual reality headset some competition. Its OSVR headset isn't a
+
+commercial product, as such: the $199 device is more a development platform to
+
+help people experiment with VR apps and games, with partners including Unity,
+
+Sixense and Leap Motion.
+
+
+
+Talking point: can this stop Oculus dominating developers' thoughts for VR?
+
+
+
+
+
+Siemens smart hearing aids
+
+
+
+In terms of technology that actually has an impact on people's daily lives,
+
+drones and VR headsets come a long way behind hearing aids. That's why Siemens'
+
+latest products in that category deserve a wider airing: the "smart" part is
+
+their promised ability to adapt to different conditions, as well as their
+
+integration with iOS and Android apps for other features.
+
+
+
+Talking point: hearing aids - will people want apps for that?
+
+
+
+
+
+Sony FDR-X100V action camera
+
+
+
+GoPro doesn't have the "action camera" market all to itself: traditional tech
+
+firms like Sony are just as keen to be helping bikers, skiiers and other
+
+explorers - drones included - record their feats. Its new $500 camera 's key
+
+selling point is its ability to record at 4K resolution, as well as the promise
+
+of wind-noise reduction.
+
+
+
+Talking point: can Sony dislodge GoPro as the helmet/drone-cam of choice?
+
+
+
+
+
+HP Zvr 3D display
+
+
+
+There are plenty of concept products floating around CES 2015, as in previous
+
+years. HP's Zvr display will be going on sale, though, with a pair of glasses
+
+and a connected stylus that enable users to see and manipulate objects in 3D.
+
+Including, in the CES demo given to The Verge, a beating heart. For educational
+
+potential alone, this is well worth watching.
+
+
+
+Talking point: when will this tech be affordable enough to be more than a
+
+novelty?
+
+
+
+Intel Curie
+
+
+
+Intel wants to be big in wearables: 2014's acquisition of fitness-tracker firm
+
+Basis Science and its $25m investment in smart eyewear maker Vuzix show that.
+
+Curie is the latest sign of its ambitions: a button-sized device including
+
+Intel's system-on-a-chip for wearable devices. The idea is that manufacturers
+
+will use Curie to give them a head start when making wearables, including
+
+preserving battery life.
+
+
+
+Talking point: fitness-trackers, yes, but what else will Curie power?
+
+
+
+
+
+Volkswagen Golf R Touch Concept
+
+
+
+The fact that Minority Report gets wheeled out so often as a comparison for
+
+whizzy gestural user interfaces suggests we need more filmmakers to dream up
+
+future tech. Without Tom Cruise in sight, the controls for Volkswagen's new
+
+concept car 's dashboard are interesting: tracking hand movements via a 3D
+
+camera to trigger volume, lighting and other features without you actually
+
+touching the dashboard.
+
+
+
+Talking point: is this more distracting than reaching out for a knob or button?
+
+
+
+
+
+MakerBot's new 3D printing materials
+
+
+
+MakerBot didn't launch any new 3D printers at CES, focusing instead on
+
+announcing some new materials for its customers to print with. Its new filaments
+
+use composites of limestone, iron and wood to provide a greater range of looks
+
+and textures for items printed. Good for anyone making prototypes of objects
+
+that don't lend themselves to a plastic finish.
+
+
+
+Talking point: a bigger leap forward for 3D printing than any single new
+
+printer?
+
+
+
+Snapdragon Cargo
+
+
+
+Qualcomm is another big company that wants to take a pivotal role in new
+
+technologies: drones, in this case. Snapdragon Cargo is a "flying and rolling
+
+robot with an integrated flight controller", a showcase for its Snapdragon
+
+processor in the same way that its Snapdragon Rover and Micro Rover robots were.
+
+
+
+Talking point: how soon will Cargo's tech be available in affordable consumer
+
+drones?
+
+
+
+New Mophie Juice Packs
+
+
+
+There's nothing wildly new about Mophie's new battery packs for the iPhone 6 and
+
+iPhone 6 Plus smartphones, but for many owners of those devices, they'll be a
+
+big deal: promising up to 120% extra juice per charge for the 6 and 60% for the
+
+6 Plus. While the latter handset in particular has a beefier battery than
+
+previous iPhones, the balance between battery life and performance means
+
+companies like Mophie have become an important part of many people's smartphone
+
+lives.
+
+
+
+Talking point: seriously though, when is the next big leap in battery tech?
+
+
+
+
+
+HP Stream mini PC
+
+
+
+HP thinks there's legs in teeny-tiny PCs, judging by its two-inch Stream mini,
+
+which will be accompanied by a more expensive Pavilion mini with a similar shape
+
+and size. The company is promising quiet running thanks to the devices using 45
+
+watts of power, with an emphasis on cloud storage (with just 32GB of local
+
+storage, you'll likely be needing it).
+
+
+
+Talking point: would people rather have tiny PCs or decent-sized tablets?
+
+
+
+
+
+Samsung SUHD TVs
+
+
+
+Another year, another acronym in the world of high-end televisions: Samsung's
+
+SUHD sets are even more super (presumably) than existing UHD (ultra
+
+high-definition) sets that people have been buying since the last CES. Cue
+
+boasts of "eco-friendly nano-crystal technology and intelligent SUHD
+
+re-mastering picture quality engine" from Samsung, and cries of "oh, they're
+
+curvy" from punters.
+
+
+
+Talking point: how is the picture really better, in plain English?
+
+
+
+
+
+Sony SmartEyeglass Attach!
+
+
+
+Google Glass is far from a mainstream success, but there are a smattering of
+
+other companies hoping to bring smart eyewear to the masses. Or at least to a
+
+few more people who aren't rich white men in Silicon Valley. Sony actually has
+
+two products on the go, but its SmartEyeglass Attach! is the most interesting,
+
+since it clips on to normal glasses with its miniature screen.
+
+
+
+Talking point: how small does it need to get before it's ready for the
+
+mainstream?
+
+
+
+Panasonic UHD Blu-ray player
+
+
+
+Another prototype with an unclear on-sale date, but Panasonic is the first
+
+company to break cover with a Blu-ray player capable of pumping out 4K-quality
+
+video, rather than just 1080p content. It's expected to be one of several models
+
+by the end of this year, although nobody tell Panasonic about Sharp's "virtual
+
+8K" plans...
+
+
+
+Talking point: will you watch 4K films from physical discs or streamed from
+
+Netflix?
+
+
+
+Withings Activité Pop
+
+
+
+This new fitness-tracking watch isn't just one of the cheapest in its category -
+
+it'll sell for $150 - but also one of the nicest looking thanks to its neat,
+
+traditional design. The Activité Pop is a third of the price of its predecessor,
+
+the Withings Activité, counting steps and sleep quality alike. And it promises
+
+to run for eight months at a time from a standard watch battery.
+
+
+
+Talking point: are watches ultimately going to be the best fitness-tracking
+
+devices?
+
+
+
+Samsung SSD T1 storage device
+
+
+
+That 16GB USB drive you carry around for work? Pfft. Samsung's latest tiny
+
+storage device is - TECH CLICHÉ ALERT - the size of a business card, yet can
+
+hold up to a terabyte of content in its most expensive version. For anyone who
+
+needs to transfer files quickly between devices, this and similar devices are
+
+likely to be common, with the price coming down relatively quickly too.
+
+
+
+Talking point: would this appeal over cloud storage for you?
+
+
+
+Toshiba ChihiraAico robot
+
+
+
+She looks very realistic. She talks... slightly less so. But ChihiraAico is a
+
+"communication Android" - an early glimpse at the kind of robots that might be
+
+working in "tomorrow's service industry and homes". Translation: you can be as
+
+rude as you like about her now, but when you're old and ChihiraAico version 4.0
+
+is making your lunch, you may regret it.
+
+
+
+Talking point: are robots more or less creepy if they're humanoid?
+
+
+
+
+
+Narrative Clip 2
+
+
+
+Narrative is one of the prime movers in the "lifelogging" area: making small
+
+camera designed to be worn on your clothes, which snap regular photographs as
+
+you go about your daily business. Its second-generation model was unveiled at
+
+CES: easier to clip on, with a better eight-megapixel camera and the ability to
+
+wirelessly sync photos with the cloud and/or your smartphone.
+
+
+
+Talking point: what's the social cost of having a camera pointing at everyone
+
+you meet?
+
+
+
+3Doodler 2.0
+
+
+
+The first 3Doodler was a pen device which did well on Kickstarter, then became
+
+one of the most accessible ways to explore 3D printing. Now it's back, launching
+
+a Kickstarter for version 2.0 as it was shown off at CES - it's already exceeded
+
+its $30,000 goal by a great distance. The update is slimmer, lighter and quieter
+
+to use, with a new nozzle promising "crisper Doodles".
+
+
+
+Talking point: what would you doodle, and would the novelty wear off?
+
+
+
+
+
+Mercedes-Benz F015 Luxury in Motion
+
+
+
+Google certainly doesn't have the self-driving car space to itself these days:
+
+Mercedes-Benz revealed its concept car at CES, complete with Leap Motion
+
+gestural controls and seats facing one another, corporate meeting-style. Also
+
+interesting: the slightly Knight Rider-ish LED displays at the front and back,
+
+to communicate with pedestrians and other drivers.
+
+
+
+Talking point: even if we're not driving, is it good to be more unaware of the
+
+outside world?
+
+
+
+Sleep Number SleepIQ Kids Bed
+
+
+
+Not just a smart bed, but a smart bed for children : this monitors their
+
+sleeping patterns, can alert parents if they get out of bed during the night,
+
+can have its lights turned on and off remotely, and even includes a "monster
+
+detector" to ease young minds' night-time fears.
+
+
+
+Talking point: should we really be quantifying our children's selves?
+
+
+
+LOAD-DATE: January 9, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: WEBGNS
+
+
+
+
+
+  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,212 @@
+                              224 of 998 DOCUMENTS
+
+
+
+
+
+                          Nikkei Asian Review (Japan)
+
+
+
+                           October 30, 2014 Thursday
+
+
+
+iPhone 6 Plus teardown shows continued use of Japanese parts
+
+
+
+LENGTH: 776 words
+
+
+
+
+
+TADASHI NEZU and TADASHI NAKAMICHI, Nikkei Electronics staff writers and HIROKI
+
+YOMOGITA, Nikkei staff writer
+
+
+
+TOKYO -- Pry open Apple's newest and biggest smartphone, the iPhone 6 Plus, and
+
+what you find are circuit boards jampacked with components no bigger than grains
+
+of salt. Those capacitors and other tiny components continue to be a strength of
+
+Japanese manufacturers. But a deeper look makes it clear that Japan's component
+
+makers also played supporting roles in many of the new features that are the
+
+main selling points of the new smartphone, such as the camera's robust image
+
+stabilization.
+
+
+
+The Nikkei Electronics office of Nikkei Business Publications tore down an
+
+iPhone 6 Plus to see Apple's design concepts for the new smartphone.
+
+
+
+The 5.5-inch screen of the iPhone 6 Plus is a big step up from the 4-inch
+
+screens of its predecessors, and gives a bright, sharp picture. But the new
+
+smartphone goes beyond that to offer a variety of new features, and the number
+
+of parts has gone up accordingly.
+
+
+
+Better together
+
+
+
+The brain of the device is Apple's new A8 processor. Nikkei Electronics thinks
+
+that this chip was made by Taiwan Semiconductor Manufacturing (TSMC), the major
+
+Taiwanese semiconductor foundry, using CMOS (complementary metal-oxide
+
+semiconductor) technology with a 20-nanometer circuit linewidth process. That is
+
+a more advanced technology than was used to make the chips for previous iPhones
+
+and it gives the smartphone higher performance and the ability to accommodate
+
+more graphics processing features.
+
+
+
+Fomalhaut Techno Solutions also did a teardown of the iPhone 6 Plus and counted
+
+more than 1,100 parts, which is 300 more than the iPhone 5s. One reason is the
+
+need for more components around the processor to counter noise and enable the
+
+capture of higher-resolution images. The iPhone 6 Plus also has far more
+
+components like filter circuits to separate out wavelengths, making it better at
+
+handling the different frequency bands used for high-speed Long-Term Evolution
+
+wireless communication in different markets around the world.
+
+
+
+Two-thirds of the additional components are extremely tiny parts measuring just
+
+0.4-by-0.2mm, and basically all of these so-called 0402 components are  made by
+
+Japanese companies, according to Fomalhaut Techno Solutions director Minatake
+
+Kashio.
+
+
+
+It is fair to say that Japanese electronic component manufacturers like Murata
+
+Manufacturing, TDK and Taiyo Yuden provide the foundation for the high
+
+performance of the iPhone 6 Plus.
+
+
+
+One other noteworthy Japanese-made component making its debut on the iPhone 6
+
+Plus is the optical image stabilization actuator that is used for the
+
+8-megapixel camera. This high-performance actuator, normally used in camcorders,
+
+is one of the special features of the new smartphone and it appears that Mitsumi
+
+Electric and Alps Electric are the exclusive suppliers.
+
+
+
+New clues
+
+
+
+Apple's penchant for style shines through in the Apple logo on the back of the
+
+handset. On earlier generations of the iPhone, this logo is drawn by processing
+
+the surface of the aluminum material used for the body. But on the 6 Plus, it is
+
+formed from a separate piece of stainless steel with a mirrorlike finish. Making
+
+and attaching this extra component certainly involved added steps, and one can
+
+infer that Apple took the trouble in order to make its logo look more
+
+attractive.
+
+
+
+But the Apple logo-shaped hole in the center of the stainless steel suggests
+
+there may be another reason for all this. It may be that this logo and its hole
+
+are the fruits of a process of technological trial and error. As one analyst
+
+speculated, this hole initially may have been there to attach the antenna for
+
+near-field communications. Another possibility is that it is there to support
+
+wireless battery charging in the future.
+
+
+
+The teardown showed that Apple continues to use the same lineup of manufacturers
+
+for iPhone components such as the communications processor and the lithium-ion
+
+battery.
+
+
+
+On the other hand, the total number of companies supplying parts for the iPhone
+
+may be trending downward. Apple switched to the use of a module integrating the
+
+filters and amplifiers with the high-frequency circuits for capturing LTE
+
+signals, and other circuits in the iPhone 6 Plus are made by fewer manufacturers
+
+than in previous generations. As the processors and other chips become more
+
+integrated and incorporate analog components, even fewer manufacturers may get a
+
+bite of future Apple business.
+
+
+
+So manufacturers of electronic components will continue to develop new products,
+
+but with an eye out for the direction Apple is taking in its product planning.
+
+
+
+LOAD-DATE: October 30, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2014 Nihon Keizai Shimbun, Inc.
+
+
+
+
+

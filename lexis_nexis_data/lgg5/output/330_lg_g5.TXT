@@ -1,0 +1,268 @@
+                              330 of 820 DOCUMENTS
+
+
+
+
+
+
+
+                                  t-break Tech
+
+
+
+                            April 6, 2016 Wednesday
+
+
+
+As we move into the unveiling of HTC 10, here is a roundup of things that you
+
+should know before the smartphone gets announced, along with what the company
+
+must do in order for it to succeed
+
+
+
+LENGTH: 830  words
+
+
+
+
+
+HTC 10 has a lot of hype being created about it, and rightly so, since it will
+
+take the top spot against LG G5 and Samsung's Galaxy S7 and S7 edge as one of
+
+the reigning Android smartphones of 2016. There are several features the device
+
+is expected to come shipped with, and while we have knowledge regarding the
+
+hardware specifications, we want to dive further into how HTC could make this
+
+smartphone one of 2016's most desired ones.
+
+
+
+HTC 10 hardware specification breakdown first
+
+
+
+The thing with smartphones is that with a small number of high-end chipset
+
+makers, it is relatively easy to tell what is going to be present inside
+
+upcoming flagships like HTC 10. We know majority of manufacturers will opt for
+
+Qualcomm's Snapdragon 820. While Exynos 8890 is also a viable option, we have
+
+never seen HTC create a partnership with Samsung for its mobile SoCs and we do
+
+not end up seeing that in the foreseeable future as well.
+
+
+
+Chipset and processor
+
+
+
+That being said, HTC 10 will come with a Snapdragon 820. Processed under the
+
+advanced 14nm FinFET technology, Snapdragon 820 might only feature a quad-core
+
+processor, but Apple's dual-core chipsets are the perfect example why the number
+
+of cores are not sufficient enough to justify a performance boost.
+
+
+
+Snapdragon 820 will come running the following quad-core based on Qualcomm's
+
+custom developed Kyro processor:
+
+
+
+Dual-core 2.15GHz and dual-core 1.6GHz
+
+
+
+Unlike some smartphone models out there (most notably Xiaomi Mi5), we do not
+
+believe that HTC 10 will come in different processor models, because let us
+
+honest, it confuses the average consumer and HTC will have a ton of unsold
+
+inventory if it decides to release different models of the same handset.
+
+Besides, the company is in a spot of bother right now, so upping its smartphone
+
+sales would be the best course of action, which we believe would be to release a
+
+single model running the processor at its highest possible frequency.
+
+
+
+RAM and internal storage options
+
+
+
+Complementing the processor is 4GB of RAM. This amount has become quite common
+
+in expensive Android flagships, and HTC 10 will be looking to equal the amount
+
+present in both Galaxy S6 and LG G5. While the software ultimately determines
+
+how much RAM should be allocated to applications, having more of it eventually
+
+leads to more freedom of control from your smartphone. You obviously want to
+
+fire up apps constantly without feeling that the handset has slowed down due to
+
+high RAM usage. For now, 4GB RAM is definitely the sweet spot for mobile devices
+
+out there but optimizing the custom interface is also not a bad idea, which is a
+
+topic we will get to right at the end.
+
+
+
+With One M9, HTC limited the internal storage to 32GB, but it did feature a
+
+microSD card slot with a capacity limit of 200GB. With the upcoming 10, internal
+
+storage could be provided in two separate models; a 32GB one and a 64GB one,
+
+while an external storage feature could be retained up to 200GB. This smartphone
+
+could use the UFS 2.0 as being the standard for its internal storage. Universal
+
+Flash Storage 2.0, or UFS 2.0, is faster than the eMMC (embedded memory card)
+
+standard that was present in devices like Huawei Mate 8, and the image given
+
+below properly summarizes the speed differences between the two standards.
+
+
+
+In short, HTC 10's internal storage could be packing faster data transfer speeds
+
+under its belt, but storage flexibility in a smartphone is a very important
+
+feature that companies overlook often and for HTC's sake, we hope that they do
+
+not lock the device down.
+
+
+
+Screen size, resolution, battery capacity and other features
+
+
+
+For the longest time ever, HTC has never gone beyond the 1080p mark in its
+
+phones, but it is possible that with the announcement of 10, it could all change
+
+very soon. HTC 10 could come with a 5.2 inch screen and a 1440p display. The
+
+results would equal a very crisp display with a high PPI value that will look
+
+absolutely stunning, if not for one major disadvantage, the battery life. QHD
+
+displays rapidly decrease battery life and it is up to HTC to pack in a larger
+
+battery inside its hood. Battery technology has not improved ever since the
+
+introduction of lithium ion and polymer cells so the only ace up HTC's sleeve is
+
+to pack in a larger cell for increased 'screen on' time.
+
+
+
+With One M9 coming with a 2,840mAh battery, we are obviously expecting HTC to
+
+deliver well on this front. Before we point this out, all the nay-sayers who
+
+believe that decreasing the smartphone's overall thickness cannot possibly allow
+
+the phone to house a larger battery. Well, to remove your doubt, Samsung did it
+
+with its Galaxy S7. The high-end mobile phone features a 3,000mAh battery and is
+
+400mAh higher than Galaxy S6, while being 1mm thinner. So if Samsung can make
+
+these adjustments, then so can HTC.
+
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+»
+
+
+
+http://imgs.syndigate.info/232/814/94/146045994663.png
+
+
+
+
+
+
+
+http://imgs.syndigate.info/232/814/37/146045994870.jpg
+
+
+
+
+
+
+
+http://imgs.syndigate.info/232/814/39/146045995085.jpg
+
+
+
+
+
+
+
+http://imgs.syndigate.info/232/814/10/146045995255.jpg
+
+
+
+
+
+
+
+LOAD-DATE: April 12, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+JOURNAL-CODE: 814
+
+
+
+
+
+                          Copyright 2016 TBREAK MEDIA
+
+                        Provided by Syndigate Media Inc.
+
+                              All Rights Reserved
+
+
+
+
+

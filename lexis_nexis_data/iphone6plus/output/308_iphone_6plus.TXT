@@ -1,0 +1,304 @@
+                              308 of 998 DOCUMENTS
+
+
+
+
+
+                                 EKantipur.com
+
+
+
+                            October 4, 2016 Tuesday
+
+
+
+iPhone 7 A silhouette into a faux future
+
+
+
+LENGTH: 1403 words
+
+
+
+DATELINE: Kathmandu
+
+
+
+
+
+Kathmandu, Oct. 4 -- The release of Apple's latest iteration in the iPhone line
+
+has been all the hype these last few weeks. There have been contrasting reviews
+
+: some like the faster processor while others hate the removal of the headphone
+
+jack. Some even complai
+
+
+
+that Apple is playing catch-up with Android with features like water-resistance
+
+and processor performance, but I think comparing iPhone to Android phones is
+
+like comparing apples to oranges. Primarily
+
+
+
+because, while both of them are smartphones, they fill totally different
+
+spectrums of the smartphone industry. Android is more open to different kinds of
+
+hardware, third-party apps and user tweaks while iPhones are limited to specific
+
+hardware and the Apple eco-system. So, in my review today, we look at the iPhone
+
+7, unadulterated.
+
+
+
+With the iPhone 7, there are a lot of new features that Apple brings to their
+
+line of flagship phones but there are a lot of compromises as well. The main
+
+question here would be whether the compromises are worth the new features
+
+implemented by Apple: currently the answer is no. The iPhone 7 still feels like
+
+a prototype since a lot of its new features aren't really fleshed out and, for
+
+it to actually find a ground, Apple needs to loosen up the noose a little bit.
+
+But iPhones have always been trendsetters in the smartphone industry and it's
+
+likely that most of the iPhone 7's features will bleed into other devices as
+
+well (if Apple doesn't threaten to sue on patient claims).
+
+
+
+At first blush, the iPhone 7 and the 7 Plus look exactly like the older iPhone 6
+
+and 6s. The only distinguishing aesthetical change here would be the slightly
+
+invisible antenna lines. On the older iPhones, the antenna lines were stark and
+
+obvious; for the latest offering, Apple has tried to hide them by them bleeding
+
+them into the edges of the phone. This makes for a more seamless design by Apple
+
+but if you snap on a cover on top of the iPhone 7, it'll hardly be
+
+distinguishable from the older iPhone 6. And much like the popularisation of the
+
+rose gold colour by Apple on its iPhone 6 line, Apple has introduced the new jet
+
+black colour for their iPhone 7 line as well. Although the jet black colour
+
+looks polished and refined, it's a fingerprint magnet and is highly receptive to
+
+scratches and dents which make the use of cover essential. The home button is
+
+also not a physical button anymore and the elongated button reacts like a sensor
+
+and works with the Taptic Engine to simulate a vibration jolt every time the
+
+
+
+button is pressed. This feels like an unnecessary change since the tactile
+
+physical button response of the older iPhone felt a lot better. Apple claims to
+
+have made this decision to make the home button more customisable but since the
+
+engine has not yet been adopted by most third-party app developers, it seems
+
+redundant for now and even the Taptic response of the engine makes it feel like
+
+the whole lower bottom of the iPhone 7 is a sending out a click response rather
+
+than the button.
+
+
+
+Performance wise, Apple new A10 Fusion processor works great. It outperforms
+
+both the Samsung Galaxy S7 Edge and the One Plus 3. It follows the same
+
+architecture that Qualcomm has implemented on most of their recent processors,
+
+the BIG.LITTLE technology that works for low performing cores for everyday
+
+activities and high powered core for more CPU intensive tasks. The A10 Fusion
+
+chip is a quad-core processor and utilised two high-powered cores and two
+
+low-powered cores. This would mean that the iPhone 7 would perform faster than
+
+the iPhone 6 line and achieves better performance at a lower power consumption.
+
+But again, the performance does not increase by leaps and rather the performance
+
+increment can be taken as a small step forward in comparison to the iPhone 6.
+
+The higher powered cores don't kick in until the apps demand which would mean
+
+that fluidity of the iPhone 7 would seem on par to that of the iPhone 6 during
+
+daily use.
+
+
+
+Apart from the performance increment, the iPhone 7 has a better camera and the
+
+iPhone 7 Plus features a dual camera set-up. iPhone have always set the standard
+
+in mobile photography and although other companies have been pushing for higher
+
+megapixel sensors, none of them have been able to match the quality of photos
+
+taken by an iPhone. Recently, though, Samsung S7 line has been able to produce
+
+excellent quality photos and could take on the iPhone 6 in terms of picture
+
+quality but matching Apple's image quality took Samsung years. With the iPhone
+
+7, Apple has managed to improve image quality by implementing a faster f/1.8
+
+lens but here too, the quality increment is nominal when compared to the older
+
+iPhone 6. The iPhone 7 Plus does increase image quality drastically because of
+
+the dual lens setup but Apple has disappointed me here too. While the pictures
+
+the iPhone 7 takes are phenomenal, having access to two lenses would mean a host
+
+of features but with the iPhone 7 Plus, it only amounts to a better zoom.
+
+Optical zoom is good and all but looking at what other companies like Huawei
+
+have managed to do with dual
+
+
+
+lenses, the iPhone 7 Plus' zoom ability is just sad. Huawei's Honor 8 lets you
+
+play with all kinds of optical effects like depth of field and focus
+
+adjustments. Some companies with dual lens cameras even let you focus after the
+
+shot has been taken. To me, the full capabilities of the dual lenses have not
+
+been adopted by Apple and puts the dual lens setup of the iPhone 7 Plus to
+
+shame.
+
+
+
+Apart from the faster processor and the dual lens camera, the feature (or rather
+
+the lack of) that has been turning heads is the removal of the 3.5mm analogue
+
+headphone jack. Apple's always been confident about setting trends but the
+
+removal of the headphone jack might not be a good thing. This severely limits
+
+the number of ports on a portable device and having to use the
+
+lightning-to-3.5mm converter is a hassle. They're small and you can lose they
+
+easily. Apple seems to be hinting at a completely wireless ecosystem but that
+
+too is not properly fleshed out on the iPhone 7 because it does not feature
+
+wireless charging. Even the enhanced Bluetooth support of the iPhone 7 is locked
+
+into Apple's ecosystem. The company's new flashy pairing support is only limited
+
+to their W1 compatible audio products which means that every other audio system
+
+will have to suffer through the same snags that Bluetooth pairing entails. This
+
+is very disappointing because Apple is taking away an industry standard port
+
+claiming to pave the way for newer technologies but locking this new technology
+
+only to the Apple ecosystem and not across the whole board just beats the whole
+
+purpose. I would have defended Apple in this regard claiming that since
+
+everything is going digital, getting rid of the analogue 3.5mm jack is zeitgeist
+
+but seeing as how Apple has made a conscious decision to lock their new
+
+technology to the Apple ecosystem just seems underhanded and wrong.
+
+
+
+So, considering all of these claims, investing on an iPhone 7, especially at
+
+this point in time, is not a very good idea. The phone looks like the iPhone 6
+
+with additional cables and converters plugged into it and it does not bring
+
+drastic performance increments to actually make the jump from an iPhone 6 to the
+
+7. The loss of the headphone jack is also a big problem at this point of time
+
+and would only mean that you'd have to keep track on one more (Bluetooth
+
+headsets) device to charge up. Also using Bluetooth instead to cabled headphones
+
+would mean quicker battery drain. The shortcoming of the iPhone 7 and the iPhone
+
+7 Plus are just too stark for me to recommend it right not. The retina display
+
+of the iPhone also seems pointless today since almost all flagships by other
+
+manufactures come with 2k or 4k display resolutions at a higher pixel per inch
+
+ratio. Currently, the iPhone 7 doesn't bring much to the table and even the new
+
+feature that they have introduced feel rudimentary and impish at this stage.
+
+Maybe waiting for the next iteration in the iPhone line would be a better call.
+
+
+
+If your technological devices are giving you a hard time or if you're just
+
+curious about certain technological questions, please drop us an email at
+
+technopolis.tkp@gmail.com and we'll try to answer your questions as best we can.
+
+
+
+Published by HT Syndication with permission from EKantipur.com. For any query
+
+with respect to this article or any other content requirement, please contact
+
+Editor at htsyndication@hindustantimes.com
+
+
+
+LOAD-DATE: October 12, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                 Copyright 2016 Kantipur Publications Pvt. Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

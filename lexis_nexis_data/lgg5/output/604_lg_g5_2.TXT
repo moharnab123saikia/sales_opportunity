@@ -1,0 +1,126 @@
+                              604 of 820 DOCUMENTS
+
+
+
+
+
+
+
+                        Progressive Media - Company News
+
+
+
+                             August 8, 2016 Monday
+
+
+
+900 million Android phones at risk of QuadRooter bug
+
+
+
+LENGTH: 283 words
+
+
+
+
+
+
+
+HIGHLIGHT: News: Four new vulnerabilities could give hackers control of Android
+
+phones.
+
+
+
+
+
+900 million Android smartphones could be at potential risk after the discovery
+
+of four new Android vulnerabilities by security firm Check Point.
+
+
+
+Potentially giving attackers complete control of devices and access to sensitive
+
+data stored on them, the group of vulnerabilities have been named QuadRooter by
+
+Check Point researchers.
+
+
+
+The vulnerabilities are in the software drivers Qualcomm ships with its chipsets
+
+- a huge concern as Qualcomm supplies 80% of chipsets found in the Android
+
+ecosystem.
+
+
+
+If a hacker exploits any of the four vulnerabilities then they could be able to
+
+trigger privilege escalations and gain root access to a device. This would
+
+enable the hackers to change or remove system-level files, delete or add apps,
+
+and access the phone's screen, camera or microphone.
+
+
+
+Check Point has issued a warning to those with the following devices: Samsung
+
+Galaxy S7 & S7 Edge, Sony Xperia Z Ultra, Google Nexus 5X, 6 & 6P, HTC One M9 &
+
+HTC 10, LG G4, G5 & V10, OnePlus One, 2 & 3, BlackBerry Priv, and Blackphone 1 &
+
+2.
+
+
+
+Due to the fact that the vulnerable drivers are pre-installed on devices, the
+
+vulnerabilities can only be fixed by installing a patch from the distributor or
+
+carrier. However, patches and fixed driver packs can only be issued by Qualcomm.
+
+Qualcomm became aware of the QuadRooter after being notified by Check Point in
+
+April 2016, with the manufacturer since having issued patches to OEMs.
+
+
+
+Check Point has also released a free QuadRooter scanner app for those who may be
+
+affected, with the app available from Google Play.
+
+
+
+The discovery of QuadRooter follows Check Point's earlier discovery of the
+
+Hummingbad malware, which was found to have infected over 85 million Android
+
+devices.
+
+
+
+LOAD-DATE: August 09, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                 Copyright 2016 Progressive Media Group Limited
+
+                              All Rights Reserved
+
+
+
+
+

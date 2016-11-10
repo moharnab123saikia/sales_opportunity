@@ -1,0 +1,100 @@
+                              428 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                           January 11, 2014 Saturday
+
+
+
+US Patent granted to Google Inc (California) on January 07 titled as
+
+"Texture-based polygon antialiasing"
+
+
+
+LENGTH: 194  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,624,911 on
+
+January 07, 2014, to Google Inc (California), titled as "Texture-based polygon
+
+antialiasing"
+
+
+
+Inventors:  Miller; James B. (Sunnyvale, CA)
+
+Assignee:  Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office: "A
+
+computer-implemented method includes identifying a bit-mapped image of a line or
+
+polygon shape; mapping the image to a texture map that is slightly large in at
+
+least one dimension than the bit-mapped image; overlaying the bit-mapped image
+
+and the texture map; computing pixel shading for pixels between an outer edge of
+
+the bit-mapped image and the texture map by measuring a distance from particular
+
+ones of the pixels to an idealized line near an edge of the bit-mapped image;
+
+and displaying the bit-mapped image with pixels at its edge shaded according to
+
+the computed pixel shading."
+
+
+
+The patent was filed on January 5, 2012 Application no. 13/344,605
+
+
+
+For more information please visit: http://www.uspto.gov/. In case of any query
+
+regarding this article or other content needs please contact:
+
+editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: February 5, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

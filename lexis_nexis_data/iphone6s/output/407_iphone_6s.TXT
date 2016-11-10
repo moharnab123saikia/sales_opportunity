@@ -1,0 +1,394 @@
+                             407 of 1000 DOCUMENTS
+
+
+
+
+
+                               The Economic Times
+
+
+
+                           October 22, 2015 Thursday
+
+
+
+Apple iPhone 6s and 6s Plus review: Blazing fast performance
+
+
+
+SECTION: PANACHE
+
+
+
+LENGTH: 1516 words
+
+
+
+
+
+Appearances Can Be Deceptive
+
+
+
+"Both new iPhones look the same as before" is the most common complaint when it
+
+comes to the 's' variants. Ever since the iPhone 3GS released in 2009, Apple has
+
+followed the 'tick-tock' strategy - the tick is the all-new model and the 'tock'
+
+has mostly internal upgrades. However, with these new phones - they're not
+
+exactly the same dimensions as before, even though they look identical. There's
+
+a minor difference in thickness (6.9mm for iPhone 6 and 7.1mm for 6s - and 7.1mm
+
+to 7.3mm for the plus version). This means that all existing cases and skins may
+
+not fit. We tried a couple of aftermarket cases meant for the 6 Plus on the 6s
+
+Plus - one was fine, the other wasn't. Screen protectors in general are fine but
+
+don't buy any textured skins unless they are specifically cut for the 6s and 6s
+
+Plus. You can chalk up the slight difference due to the thicker and stronger
+
+aluminium used in the new phones plus the new 3D Touch capacitive displays.
+
+
+
+So What's New?
+
+
+
+For both new phones, there are three key improvements. First is 3D Touch. This
+
+is a hardware-enabled feature that cannot be implemented on older iPhones. The
+
+screen can detect varying levels of pressure which let you 'peek' at and 'pop'
+
+into content. More on this later. Second, you get substantial performance
+
+improvements which come because of the new processor. Third biggest change is
+
+the 'Taptic' engine - it's a larger, more precise vibration motor that can do
+
+different types of vibration (different intensity and duration) to convey
+
+contextual feedback. This also has use in gaming - similar to rumble feedback
+
+you get with game controllers. Apart from this, the new phones are heavier than
+
+before (172 vs 192 grams for the 6s plus and 129 vs 143 grams for the 6s) -
+
+probably due to the heavier 3D Touch screen, addition of the Taptic engine and
+
+stronger aluminium.
+
+
+
+How Much Better is the Camera?
+
+
+
+Substantially better - and it's not just about the bump in resolution from 8MP
+
+to 12MP. Both the 6s and 6s Plus get the new sensor and the Plus also gets the
+
+benefit of a very effective optical image stabilisation system. The front iSight
+
+camera resolution has been improved from 1.2MP to 5MP and the screen acts like a
+
+colour-corrected flash in low light. We found that the results in auto mode are
+
+consistently goood across the board and with different lighting conditions.
+
+Comparing the 6s and 6s Plus to devices like Galaxy S6 and Note 5, we found a
+
+few key differences. On the device, photos tend to look better on the super
+
+amoled screens of the Galaxy devices but compared side-by-side, the differences
+
+are minimal. The S6 and Note are better at creating a shallower depth of field
+
+and have higher resolution. The iPhones offer truer colour and have a better
+
+dynamic range. Once again, these are among the best smartphone cameras on the
+
+market.
+
+
+
+What's Up With The Screen?
+
+
+
+3D Touch is a big addition this year. Like the capacitive touchscreen, this is a
+
+feature that could trickle down to all touchscreens. It lets you peek at
+
+something (without actually opening it) with a harder press. For instance, you
+
+can press harder on an email to peek inside - the same can be done on text
+
+messages, calendar entries and image gallery. Press even harder and you can
+
+'pop' into the item full screen. A harder press on certain app icons will throw
+
+up contextual menus too. This feature is on Apple apps and other developers are
+
+following up too - it works great on Facebook and Instagram for instance - more
+
+developers are enabling 3D Touch support every day. We're happy to see that 3D
+
+Touch continues to work with screen protectors (even tempered glass). As for the
+
+IPS LCD screen itself, Apple doesn't seem to want to be in this race. That's why
+
+we think the screen is the weakest link here. The 6s has a 4.7-inch screen with
+
+a resolution of 1334 x 750 pixels (326 ppi) while the 6s plus has a 5.5-inch
+
+screen with a resotuion of 1920 x 1080 pixels (401 ppi). The screen has
+
+excellent colours, viewing angles and brightness, but it still falls short of
+
+the super amoled screens on Samsung flagships.
+
+
+
+What About Performance?
+
+
+
+iPhones have always been about the experience rather than raw specs on paper.
+
+iOS is not resource hungry and does things bit differently as compared to
+
+Android. That being said, the new A9 chip offers loads of performance. It's a
+
+dual core chip (two large cores, as compared to six or eight small ones) - but
+
+this offers an advantage with apps that can only use one core at a time.
+
+Needless to say, the new devices are really fast - while booting up, launching
+
+apps, multi-tasking, viewing photos, editing video, gaming and so on.
+
+
+
+Anything Else?
+
+
+
+Battery life might be a concern for some, given that the new devices have
+
+slightly smaller batteries than before. It's not a major issue since they don't
+
+use much power in standby. You'll still find that heavy users will prefer the 6s
+
+Plus for all day battery life while 6s users will struggle to last the entire
+
+day. The new camera features are a hoot to use: Live Photos (it's like a photo
+
+with embedded mini video), slow motion, 4k video is really good (with optical
+
+stabilisation - and you can zoom into a recorded video) and built in time lapse.
+
+
+
+Wrapping up
+
+
+
+3D Touch is great and it has been implemented well across the device -
+
+developers will take some time to catch up. Expect it to be a standard feature
+
+from now on. If you have an iPhone 5S or older, the benefits of upgrading are
+
+huge! Performance is blazing fast and these are some of the best cameras you can
+
+get on a smartphone. Like it or not, you can't ignore the prices - India is one
+
+of the most expensive places to buy an iPhone. And the battery life will
+
+continue to be an issue for heavy users. But overall, these two new devices get
+
+a high recommendation.
+
+
+
+Specifications: Apple A9 SoC (dual core) with M9 motion co-processor, 2GB RAM,
+
+16 to 128GB storage, global LTE, Bluetooth 4.2, NFC, WiFi ac, Touch ID v 2.0,
+
+5MP front camera, 500 cd/m2 max brightness, 3D Touch, 4k video, Lightning
+
+connector
+
+
+
+iPhone 6s: 12MP rear camera with True Tone flash, f2.2, sapphire crystal lens
+
+cover, 4.7-inch IPS LCD (1334 x 750 pixels), 143 grams
+
+
+
+Price:
+
+
+
+Rs 62,000 (16GB)
+
+
+
+Rs 72,000 (32GB)
+
+
+
+Rs 82,000 (128GB)
+
+
+
+* * * * 1/2
+
+
+
+iPhone 6s Plus: 12MP rear camera with True Tone flash and optical image
+
+stabilisation, f2.2, sapphire crystal lens cover, 5.5-inch IPS LCD (1920 x 1080
+
+pixels), 192 gram
+
+
+
+Price:
+
+
+
+Rs 72,000 (16GB)
+
+
+
+Rs 82,000 (32GB)
+
+
+
+Rs 92,000 (128GB)
+
+
+
+* * * * 1/2
+
+
+
+- Excellent performance, superb cameras, super-fast Touch ID, excellent build
+
+quality, useful OS-wide 3D Touch
+
+
+
+- 16GB storage is too little for a phone of this capability, screen is the
+
+weakest link when compared to competition, expensive
+
+
+
+The A9 'Chipgate' - Does it Matter?
+
+
+
+The new iPhones have barely been out a month but the controversies have already
+
+started. Like Antennagate (with the iPhone 4) and Bendgate (with the 6 and 6
+
+Plus), the buzz doing the rounds on social media is Chipgate. It has primarily
+
+to do with the fact that Apple has contracted out manufacturing of its A9 chip
+
+to two companies: Samsung and TSMC (Taiwan Semiconductor Manufacturing Company).
+
+While it still is primarily the same design, the Samsung chip uses a 14nm
+
+manufacturing process while the TSMC chip uses a 16nm process. With
+
+software-based performance and battery testing, there is a significant
+
+difference between the two - with TSMC's version coming out ahead on almost all
+
+counts. However, software benchmarks have a habit of testing by maxing out the
+
+hardware and this doesn't translate directly to real-world usage. With the two
+
+devices that Apple lent us, one was a Samsung and the other was TSMC. With real
+
+world usage, the differences fade away to a level where it stops mattering.
+
+After all, will you actually be measuring that a TSMC chip device lasted 15
+
+minutes more than a Samsung chip on a daily basis? There's no way to check which
+
+chip a device has before buying and they're not distributed in any order. If you
+
+have one of the new iPhones and want to check which A9 chip you have, it's
+
+fairly simple. Get a free app called Lirum from the App Store. On the home page,
+
+you'll see details about the model number. If your device has an A9 from TSMC,
+
+it'll say N71mAP or N76mAP. If it's made by Samsung, it'll say N71AP or N66AP.
+
+
+
+A 16GB iPhone 6s? Yes or no?
+
+
+
+You know that the 's' version in Apple's iPhone line offers mostly internal
+
+upgrades rather than overt design upgrades - it's the 'tick-tock' cycle in
+
+action. This year though, expectations were high that the 16GB entry-level
+
+storage version would be done away with. The justifications are many: storage is
+
+cheaper, the iPhone now has 4k video recording (which can eat up space faster
+
+than you think), photo size has increased, Android flagship competition is
+
+usually 32 or 64GB and app sizes have been growing over the years. Basically,
+
+Apple should not be offering a 16GB version on a device of this class at all. If
+
+you intend to really use the device - with apps, music, videos, lots of photos,
+
+4k recording and so on, you need to get at least 64GB
+
+
+
+For Reprint Rights: timescontent.com
+
+
+
+LOAD-DATE: October 21, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2015 Bennett Coleman & Co. Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

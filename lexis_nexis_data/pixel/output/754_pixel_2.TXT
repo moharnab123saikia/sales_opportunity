@@ -1,0 +1,186 @@
+                              754 of 997 DOCUMENTS
+
+
+
+
+
+                             The New Zealand Herald
+
+
+
+                              July 9, 2007 Monday
+
+
+
+Blog: The world in Gigapixels
+
+
+
+SECTION: TECHNOLOGY; General
+
+
+
+LENGTH: 512 words
+
+
+
+
+
+If you're interested in great web-based imaging applications like Google Earth
+
+and Google Streetview, check out the beta version of Microsoft's .
+
+
+
+Over the weekend I came across Microsoft's technology specialist where he has a
+
+link to a fantastic panorama of Wellington in HD View.
+
+
+
+It's well worth a look. You'll need to download a small ActiveX plug-in and
+
+currently it only works in Windows and Internet Explorer.
+
+
+
+So, what is HD View all about? Here's a pretty good explanation from Microsoft:
+
+"Recent advances in camera and sensor technology and software for stitching
+
+images together has led to the creation of images containing billions of pixels
+
+(gigapixels).
+
+
+
+"These images are often panoramic, that is, they cover very wide fields of view.
+
+
+
+Since monitors typically contain only one to two million pixels, it is only
+
+possible to actually see 1/1000th of such image data at once.
+
+
+
+"Also, viewing very wide fields of view require unwrapping of an image projected
+
+onto a curved surface (think of a map of the world) which can cause
+
+distortions."
+
+
+
+Effectively, HD View lets you zoom around these web-hosted gigapixel photos in a
+
+very user-friendly way. You can pan and tilt and zoom in.
+
+
+
+Only the area you have zoomed in on will be retrieved from the web so you only
+
+need the full resolution for the part of the photo you are looking at.
+
+
+
+That means you can look at high-resolution photos without having to open the
+
+entire file online or download it. It's early days for HD View but I like what I
+
+see - that panorama of Seattle on the HD View homepage is very nice.
+
+
+
+HD View is being made available to people who want to high-resolution images
+
+that are easy to navigate.
+
+
+
+A plug-in that will allow you to create HD View photos in Photoshop is in the
+
+works.
+
+
+
+I'll be keeping an eye on what people come up with as this is one application I
+
+can see plenty of business and entertainment uses for. Also over the weekend I
+
+logged onto the website from time to time to check out the web-streamed coverage
+
+of the concerts taking place around the world.
+
+
+
+It was a stuttery experience, which was disappointing as the Live 8 webcast back
+
+in 2005 which was organised by the same people, worked pretty well.
+
+
+
+All sorts of things can effect the experience you receive when viewing webcasts
+
+so I'll hold my judgement on the service. The streaming set a
+
+
+
+for a web event so I'm sure a good deal of people had a good experience.
+
+
+
+The On Demand replays will no doubt be getting a thrashing over the next few
+
+weeks.
+
+
+
+While I was happy to see some of my favourite acts like Dave Matthews Band, the
+
+Smashing Pumpkins and Roger Waters performing at Live Earth, I have to agree
+
+with Aardvark when it comes to the underlying value of holding the massive
+
+event.
+
+
+
+There's no way you can say those shows were anywhere near carbon neutral and our
+
+awareness of global warming is already so heightened, the concerts just
+
+threatened to make people even more jaded with the Al Gore's forecefully
+
+delivered message.
+
+
+
+This had the air of a celebrity love-in, more so than Live Aid or Live 8 and
+
+Bono and Geldof weren't even in the line-up.
+
+
+
+LOAD-DATE: July 10, 2007
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                     Copyright 2007 The New Zealand Herald
+
+                              All Rights Reserved
+
+
+
+
+

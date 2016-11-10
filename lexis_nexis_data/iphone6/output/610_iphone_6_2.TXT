@@ -1,0 +1,474 @@
+                              610 of 999 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                            December 7, 2012, Friday
+
+
+
+iPhone 6 rumor rollup for week ending Dec. 7;
+
+Leaks, screws, parsing press releases, NFC, unwired charging
+
+
+
+BYLINE: John Cox
+
+
+
+LENGTH: 1818 words
+
+
+
+
+
+iOSphere rumors make it Christmas every day: They are the gift that keeps on
+
+giving, no matter what time of year. This week, more "leaked photos" showing the
+
+outside case of the iPhone 6, or perhaps the 5S, and revealing within (trumpet
+
+fanfare, please!) fewer screws.
+
+
+
+Also: how the iOSphere parses a press release and uncovers the hidden fact that
+
+T-Mobile USA will offer iPhone 6 in 2013; NFC longings; and the magic of
+
+no-contact-needed wireless charging.
+
+
+
+You read it here second.
+
+
+
+__________ __________ Two "leaked" photos, "which were found on the Web" and
+
+purportedly show the housing of the Next iPhone, were posted by ETrade Supply, a
+
+Hong Kong-based repair parts supplier.
+
+
+
+There's already widespread acceptance that the seventh-generation Next iPhone
+
+will not be "iPhone 6" but "iPhone 5S." Because of Apple's "traditional" naming
+
+convention: 3G, 3GS, 4, 4S. That would be the four-year tradition.
+
+
+
+"Found on the Web" is without doubt the "Best Worst Source for an iOSphere Rumor
+
+in December." Ours not to reason why. Ours but to post and rumorize. The
+
+pictures were apparently first posted in a site called iPhone5parts.net,
+
+described as an online forum for Apple fans.
+
+
+
+The photos reveal a phone that looks eerily like -- or as ETrade says "very
+
+similar to" - the iPhone 5.
+
+
+
+"From the background, it seems that the pictures were taken at the assembly line
+
+of an operation stage," ETrade says, with the confidence common to iOSphere
+
+rumors. The confidence seems misplaced: The background is a featureless green
+
+surface. You can't even tell if it's a wall or a floor or a desk. And what the
+
+heck does "operation stage" actually mean?
+
+
+
+However. "However, the reason why we say it is a suspected iPhone 5s rear
+
+housing is that the specific information below the logo, which are replaced by
+
+'X'. Usually, the parts with 'X' stand for test prototype."
+
+
+
+X marks the prototype. What could be simpler?
+
+
+
+ETrade nevertheless is able to winkle out changes. "First, the 'iPhone 5s' has
+
+two less screw holes on the left side which are used to fasten the LCD."
+
+Doubtless another example of Apple's genius in reducing the bill of materials
+
+cost for its product.
+
+
+
+"Second, the position of 3 screw holes used to fasten the logic board has been
+
+removed (not sure whether caused by the change of logic board)." It's not clear
+
+if ETrade thinks the screws are evidence of "a" change in the logic board or
+
+that the entire logic board has been changed.
+
+
+
+Once it had given the customary "take all this with Andre-the-Giant-sized
+
+pinches of salt," Macworld UK's David Price threw salt to the wind and got down
+
+to brass tacks.  These changes "may suggest cosmetic or superficial changes from
+
+iPhone 5 to iPhone 6 (sorry, 'iPhone 5S'), or they may suggest fundamental
+
+modifications to the internal componentry and screen."
+
+
+
+One or the other. For sure.
+
+
+
+International Business Times' Louis Bedigan reports this rumor based on the
+
+announcement by Deutsche Telekom that its subsidiary, T-Mobile USA, and Apple
+
+signed a deal "to bring products to market together in 2013."
+
+
+
+The announcement didn't mention "iPhone 6." In fact, it didn't mention any
+
+specific product; just, you know, "products." But if you know how to interpret
+
+what's not being said by reading between the lines, you can see what others
+
+can't.
+
+
+
+"No other details were announced, but tech bloggers are already speculating on
+
+what this could mean for Apple and its product lineup in 2013," Bedigan wrote,
+
+gracefully passing over his own modest contribution to tech speculation. "CNET
+
+warns that the deal may not relate to the iPhone at all and could simply involve
+
+the iPad."
+
+
+
+Be warned, T-Mobile subscribers: You simply might get only the iPad.
+
+
+
+"Right now the rumor mill insists that Apple will prematurely upgrade the iPhone
+
+5 ... with a new model this winter [2013]," Bedigan writes.
+
+
+
+"Prematurely upgrade" sounds rather like "prematurely gray" -- something you
+
+don't want to happen until later; much later, in fact. Bedigan probably means
+
+that the Next iPhone will be "occurring, growing, or existing before the
+
+customary, correct, or assigned time."
+
+
+
+Because history, all five years of it with six models, clearly shows what is
+
+customary for the iPhone: They're announced in June or July. Except for the
+
+first iPhone, which was announced in January. And the last two, which were
+
+announced in September or October. So whenever they announce the next one, it's
+
+guaranteed to be premature.
+
+
+
+"If Apple wanted to bring the iPhone to T-Mobile in the near future, an upgrade
+
+would be necessary," Bedigan declares. "While it could simply convert the
+
+existing model (as it did with the iPhone 4 when it came to Verizon), Apple will
+
+get more attention -- and likely sell more units -- if it provides T-Mobile with
+
+an enhanced model."
+
+
+
+So even though Apple just "simply converted" iPhone 4 to run on Verizon's
+
+network, and sold millions and millions of them, it's somehow necessary for
+
+Apple to "upgrade" or "enhance" the iPhone to sell it on T-Mobile's network.
+
+
+
+One suspects that most T-Mobile customers who are interested in the iPhone would
+
+be happy to have even an "un-enhanced" iPhone 5, especially if it supports
+
+HSPA+42.
+
+
+
+"Of course, Apple cannot simply enhance the iPhone for one carrier; it must
+
+provide the new version to every carrier," Bedigan writes. "This might be the
+
+real source of the iPhone 5S rumors."
+
+
+
+The real source of the iPhone 5S rumors is everyone with access to a website, a
+
+keyboard, and a Deutsche Telekom press release that fails to mention the word "
+
+iPhone."
+
+
+
+You can't trust Apple. Let's get that out there right up front.
+
+
+
+"Apple is known to backtrack on its plans, or even to distort reality simply to
+
+shift attention away from its actual plans," writes Filip Truta at
+
+Softpedia.com. "The iPad mini is a good example of that."
+
+
+
+And how. Remember the late Steve Jobs saying 9.7 inches was the perfect size for
+
+a tablet screen? And now they have one with a 7.9-inch screen?
+
+
+
+Ditto for near-field communication, a short-range wireless technology touted
+
+endlessly for years as enabling the Magic of Contactless Purchases and the
+
+Digital Wallet: Just wave your NFC smartphone and buy, buy, buy!
+
+
+
+So when Apple marketing supremo Phil Schiller tells the world in September 2012
+
+that "It's not clear that NFC is the solution to any current problem. Passbook
+
+does the kinds of things customers need today," you know he's either
+
+backtracking or distorting reality or even telling the truth. One of them, for
+
+sure.
+
+
+
+But Truta says wireless chipmaker Qualcomm will change all that. That's because
+
+Qualcomm "just announced a new Near Field Communication (NFC) chip that makes
+
+perfect sense for the next-generation iPhone 6, or even the rumored iPhone 5S."
+
+
+
+And if Schiller and his boss Tim Cook don't know that, they can just ask Truta.
+
+Or read the Qualcomm press release.
+
+
+
+"Qualcomm confirmed that its QCA1990 SoC (system on a chip) is the industry's
+
+smallest, ultra-low power NFC package 'with an overall footprint that is 50
+
+percent smaller than current NFC chips available in the market,' said the press
+
+release," notes Truta, making it sound as if he had personally hounded a hapless
+
+Qualcomm exec, ambushed him, backed him into a corner, hammered him with
+
+questions until, broken and sobbing, this wretch confessed that "Yes, YES!!! It
+
+has an overall footprint that is 50%smaller than current NFC chips!" instead of
+
+just quoting from the company's press release.
+
+
+
+"Apple is widely believed to release an incremental iPhone 5S this summer,
+
+staying in line with tradition (iPhone 3GS, iPhone 4S)," Bedigan writes.
+
+Tradition: It's how we keep our balance.  The incremental, premature, virtually
+
+identical iPhone 5S. With NFC. And a few missing screws.
+
+
+
+A recently published patent application shows Apple is looking at wireless
+
+charging for its mobile devices. And you know what that means: iPhone 6 will
+
+have wireless charging.
+
+
+
+But it's not just any wireless charging, like Nokia uses for some of its Lumia
+
+smartphones. In the Nokia system, you have to physically put your phone on top
+
+of the charging pad, so they're actually touching.
+
+
+
+With Apple's system, they won't have to touch. Your iPhone 6 can charge even if
+
+it's three (3!) feet away.
+
+
+
+"That's right - no contact required," writes TechRadar's Clint Demeritt, who
+
+noticed the published application and linked to it.  The awesomeness lies in
+
+using "near field magnetic resonance (NFMR)." Demeritt doesn't spend much time
+
+explaining what this actually is. Basically, NFMR creates a low-density magnetic
+
+field between two coils, one a power source and the other a power capture
+
+device. They oscillate ("resonate") at the same frequency, transferring the
+
+energy. One example of resonance is the energy transferred by a singer's voice
+
+to a glass: the glass picks up the energy, oscillates at the same frequency and
+
+eventually shatters.
+
+
+
+A key development in this area is the work by MIT's Dr. Marin Soljacic, who was
+
+able to separate the two coils over much longer distances than anyone had
+
+thought possible. Soljacic's breakthrough, dubbed "highly resonant magnetic
+
+coupling," is being commercialized by Massachusetts-based WiTricity. More
+
+details of this approach, and examples of how it can be widely applied, are in
+
+our January 2010 interview with company CEO Eric Giler. The company is releasing
+
+a technology demonstration kit designed for engineers.  "Being able to charge
+
+devices from a meter away is a notable advancement and may help proliferate the
+
+technology," Demeritt writes. "At the very least it means devices won't have to
+
+crowd around and touch a physical object to charge."
+
+
+
+That crowding thing. What a drag. Very notable to be able to set your iPhone 6
+
+down three feet from the charger. Think how our Digital Life will change.
+
+
+
+And the patent application also is a morale booster. "The patent should give
+
+hope to those who were disappointed by the iPhone 5," Demeritt writes. "Wireless
+
+charging was on the wish list of many Apple fans during the media hype lead-up
+
+of the latest iPhone." The Disappointed: their name is legion.
+
+
+
+Demeritt says "the patent is meant to tackle the 'unwieldy' configuration of the
+
+many wired chargers and power sources needed for multiple wireless devices. If
+
+Apple can cut through that clutter it would make charging iPhones, iPads and
+
+iPods together a lot simpler."
+
+
+
+Not just simpler, a lot simpler. A lot simpler than this, which is taken from
+
+Apple's support document on charging the iPhone:  "To charge the battery, choose
+
+one of the options below: "For the quickest charge, connect the device to a
+
+power outlet using the USB cable that came with the device and an Apple USB
+
+power adapter.
+
+
+
+"Connect the device directly to a USB port on your computer (not an external
+
+keyboard) using the USB cable that came with the device ...
+
+
+
+"Connect the device to an externally-powered USB hub."
+
+
+
+John Cox covers wireless networking and mobile computing for Network World.
+
+Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com
+
+
+
+
+
+
+
+LOAD-DATE: December 10, 2012
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2012 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

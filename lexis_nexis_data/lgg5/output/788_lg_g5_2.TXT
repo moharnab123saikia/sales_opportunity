@@ -1,0 +1,3528 @@
+                              788 of 820 DOCUMENTS
+
+
+
+               Copyright (c) 2007 Journal of High Technology Law
+
+                         Journal of High Technology Law
+
+
+
+                                      2007
+
+
+
+                             7 J. High Tech. L. 226
+
+
+
+LENGTH: 10724 words
+
+
+
+ARTICLE: Problems and Solutions to Corporate Blogging: Model Corporate Blogging
+
+Guidelines
+
+
+
+NAME: Benjamin Ostrander *
+
+
+
+BIO: Copyright (c) 2007 Journal of High Technology Law and Benjamin Ostrander.
+
+All Rights Reserved. ISSN 1536-7983
+
+
+
+
+
+
+
+   * Associate Managing Editor, Journal of High Technology Law. J.D. Candidate,
+
+Suffolk University Law School, 2007.
+
+
+
+ LEXISNEXIS SUMMARY:
+
+ ... Finally, the Note proposes a model set of blogging guidelines that balance
+
+an employee's free speech and privacy rights with the interests of the blogger's
+
+company.  ... Legal Issues Related to Blogging and Sample Corporate Blogging
+
+Guidelines As blogs have risen in popularity not everyone has appreciated their
+
+content, particularly employers of blogging employees.  ... For a company to
+
+take full advantage of the benefits employee blogs offer and to avoid their
+
+pitfalls, it is necessary for companies to create employee blogging guidelines.
+
+... Another universal provision in blogging guidelines is one to prevent
+
+employees from speaking ill of or libeling fellow employers or supervisors.  ...
+
+Weed.  ... The goal of insert corporate name 's employee blogging guidelines is
+
+to aid employees in blogging responsibly and in a manner that will bring the
+
+maximum benefit to the employee and to insert corporate name .  ... Section 6:
+
+Defamation Employee bloggers should be aware of the inherent public and private
+
+nature of the Internet and of blogs themselves when blogging about insert
+
+company name or any of its employees.  ... While employees may never have
+
+legally protected speech in blogs, corporate blogging guidelines will function
+
+to provide employees with information about how to blog responsibly and advise
+
+them of what they can and cannot do when blogging publicly.
+
+
+
+TEXT:
+
+ [*226]  I. Introduction
+
+
+
+   The Internet functions as a vehicle for various modes of personal expression.
+
+This includes the creation of personal websites and posting of photographs as
+
+well as emailing and instant messaging. One of the newest and fastest growing
+
+ways of personal expression on the Internet is the blog.  n1 A blog is the
+
+shortened version of the phrase "web log," which started as a sort of online
+
+diary in the early days of the Internet.  n2 Blogs have become a popular medium
+
+for personal expression on the Internet, but they are not without controversy,
+
+especially in the workplace.  n3
+
+
+
+    [*227]  In recent years, there has been an uneasy relationship between
+
+employees who have become bloggers and the companies which employ them.  n4
+
+Companies have fired employee bloggers as a result of posting either negative
+
+comments about their employer or confidential information.  n5 For example,
+
+Delta Airlines fired a flight attendant in October 2004 for posting racy
+
+pictures of herself in her uniform on her blog.  n6 Microsoft fired an employee
+
+for taking and publishing pictures of Microsoft receiving Apple Computer's new
+
+G5 computers.  n7 A graphic designer was fired after posting negative entries in
+
+her blog about her workplace and co-workers.  n8
+
+
+
+   Employee blogging in the workplace raises several legal issues for both
+
+employers and employees. Namely, blogs could disclose confidential information,
+
+such as trade secrets, could defame the corporate image, or offend or defame
+
+co-workers and trigger employer liability.  n9 Employee bloggers, on the other
+
+hand, believe their blogs are protected by the First Amendment to free speech
+
+rights or through privacy laws.  n10 The balance between the employee's privacy
+
+interests and constitutional rights and the employer's liability concerns shifts
+
+when the employee blogger is an at-will employee who can be fired at any time
+
+for any reason.  n11
+
+
+
+   The first part of this Note provides a brief history of an employee's free
+
+speech and privacy rights. This Note also outlines the history of blogging,
+
+discussing the evolution of blogging. Next, this Note examines blogging
+
+guidelines set forth by several different companies. The Note proposes a
+
+hypothetical situation showing how  [*228]  a company might act when confronting
+
+an employee blogger. Finally, the Note proposes a model set of blogging
+
+guidelines that balance an employee's free speech and privacy rights with the
+
+interests of the blogger's company.
+
+
+
+II. Employee Free Speech Rights
+
+
+
+   Historically, private sector employees do not have any protected rights to
+
+free speech.  n12 In fact, an employer can fire an at will employee for any
+
+reason at all.  n13 On the other hand, public employees have enjoyed First
+
+Amendment free speech protections since the late 1960s.  n14
+
+
+
+A. Public Employees
+
+
+
+   The Supreme Court has excluded several forms of speech from First Amendment
+
+protection, including obscenity, libel, and slander.  n15 In Pickering v. Board
+
+of Education, a school board fired a public school teacher for publishing a
+
+critical letter in a local newspaper about the school board's allocation of
+
+financial resources between educational and athletic programs.  n16 To decide
+
+Pickering, the Court used a test that balanced the interest of a public school
+
+teacher, as a citizen, to comment on matters of public concern, with those of
+
+the State, as an employer, to promote an efficient operation.  n17 Because
+
+[*229]  employers are concerned with employee statements on sensitive issues
+
+that can disrupt the work atmosphere, the Pickering Test may be applied to
+
+suppress expression that affects the productivity of the workplace.  n18
+
+
+
+   Connick v. Myers defined the Pickering Test more completely.  n19 In Connick,
+
+the Court held that the employee's speech must involve "matters of public
+
+concern" to employ the Pickering balancing test.  n20 The Connick Court ruled
+
+that the First Amendment did not protect speech involving a discrete office
+
+problem.  n21 Once a court determines that an employee's speech is about a
+
+matter of public concern, the Pickering Test is applied and when the agency's
+
+operations are affected by an employee's speech they looked to whether the
+
+employee's speech was protected.  n22
+
+
+
+   While public employees have few protected speech rights, federal employees
+
+are protected by the Whistleblower Protection Act.  n23 This act protects
+
+federal employees against reprisals for reporting fraud, waste, and abuse.  n24
+
+Employees are protected against certain consequences for reporting the issue to
+
+the appropriate government  [*230]  agency or to her employer.  n25 Many states
+
+have enacted whistleblower protections for employees who report fraud, waste, or
+
+illegality to the proper authority or law enforcement official.  n26
+
+
+
+B. Private Employees
+
+
+
+   Private employees have no constitutionally protected free speech rights
+
+because they are typically at will employees who may be fired for any reason.
+
+While this may be disheartening to many employees, statutes have been enacted by
+
+some states to protect against employer retaliation for the exercise of First
+
+Amendment rights.  n27 State statutes typically only protect political speech or
+
+comments about public concerns or interests.  n28 Private employees may also
+
+seek protection  [*231]  under whistleblower statutes by asserting a public
+
+policy exception to an employer's ability to fire employees.  n29
+
+
+
+   Federal legislation, the National Labor Relations Act (NLRA), contains
+
+provisions that protect private employees' speech.  n30 Section seven of the
+
+NLRA protects those employees who engage in "concerted activities . . . for
+
+mutual aid and protection."  n31 On its face, section seven appears to only
+
+apply to those employees engaged in union activity, but in practice it applies
+
+to all private employees who come together and act in concert with each other.
+
+n32 For speech to be protected under the NLRA, it must be connected to a group
+
+action with other workers or involve the preparation of such action.  n33
+
+
+
+   Private employees may also protect their speech rights by seeking damages
+
+through the tort of wrongful discharge.  n34 Under this principle, a fired
+
+employee argues she was discharged under circumstances that are contrary to
+
+established public policy.  n35 The potential problem with this cause of action
+
+is that the courts have interpreted it inconsistently.  n36 In fact, for the
+
+employee to be  [*232]  successful in his or her claim it is often necessary to
+
+point to a statute that specifically outlines the public policy that was abused
+
+by the employer.  n37 Often, an employee may not be protected by the tort of
+
+wrongful discharge unless he or she is already protected by a statute.
+
+
+
+III. Employee Privacy Rights
+
+
+
+   The conflict between employees and employers regarding individual privacy
+
+rights can be better understood by looking at an employee's privacy rights and
+
+the employer's right to monitor employees' business activities for legitimate
+
+business purposes.  n38 Privacy rights are not explicitly protected by the
+
+Constitution.  n39 Private employees have few privacy rights in the workplace
+
+because their employer does not satisfy state action requirements.  n40 The
+
+Fourth Amendment only protects government employees when the employee had a
+
+subjective and objective expectation of privacy.  n41 Additionally, state law is
+
+inconsistent in its protection of employee privacy. Some states have enacted
+
+statutory protections and others have not.  n42 The problem posed with
+
+protecting ideas and opinions  [*233]  expressed via an employee blog is that
+
+most blogs are posted on the Internet, rather than contained in an office
+
+environment protected by federal and state law, and anyone with access to the
+
+Internet can access them.
+
+
+
+IV. History of Blogging
+
+
+
+   As part of the Internet's evolution, Internet users increasingly have been
+
+contributing to more of the content found on the Internet. Nowhere has this
+
+user-generated content been more prevalent than with blogs. In 1997, an Internet
+
+user named Jorn Barger coined the term "web log" or, in its shortened version,
+
+"blog."  n43 The creator and editor of the content of the weblog is the
+
+"blogger."  n44 Blogs have been found on the Internet since the late 1990s.  n45
+
+They were first used by Internet user groups, such as computer programmers, to
+
+document their thoughts and progress as they worked individually on the same
+
+project.  n46 Early blogs were technology-oriented or simple personal diaries.
+
+n47 As early as 1993, the National Center for Supercomputing Applications
+
+created and updated one of the earliest blogs, which was a little more than a
+
+page consisting entirely of links to other web pages.  n48 The blog was called
+
+the "What's New Page" and documented what was new on the Internet by linking to
+
+new sites.  n49 Early blogs followed this form of link-driven sites, which
+
+pointed users to sites of interests to the blogger and contained commentary
+
+about the links published by the blogger.  n50
+
+
+
+   Blogging did not hit its stride until the first blogging software was
+
+released in the summer of 1999.  n51 A company named Pitas created  [*234]  the
+
+software, and a month later, a company named Pyra Labs released "Blogger" (a
+
+program for creating blogs through a web browser).  n52 With the availability of
+
+web-based programs such as Pitas and Blogger, blogging underwent a period of
+
+explosive growth that continues to this day.  n53 After the release of Blogger,
+
+blogging shifted from the link-based form it started as, to a short-form of
+
+casual journalism.  n54 The shift to free-form blogging coupled with the fact
+
+that it became simple enough for any Internet user to blog propelled blogging's
+
+popularity into the 21<st> century.  n55
+
+
+
+   While early blogs focused on topics pertinent to early Internet users and
+
+developers, blogs evolved quickly and now discuss anything a blogger wishes,
+
+such as music, politics, sports, or the blogger's other interests.  n56 Many
+
+companies who maintain corporate blogs for customers to read have recognized
+
+that blogging is a potential business tool.  n57
+
+
+
+   Blogs have never been more popular. In fact, blogs have become so popular
+
+that Google created a search engine designed specifically to search blogs.  n58
+
+Blogs continue to evolve with technology. For example, blogs are now created to
+
+view and post pictures, images, and even video, and can be updated by email and
+
+mobile phones.  n59 Apple's iPod(R) has spawned a whole new form blogging by
+
+allowing would-be bloggers to create an audio or video blog and allowing users
+
+to download the audio or video to a personal media player such  [*235]  as the
+
+iPod.  n60 With the advent of the video iPod, video blogging is certain to be
+
+just as popular as audio and text versions.  n61
+
+
+
+V. Legal Issues Related to Blogging and Sample Corporate Blogging Guidelines
+
+
+
+   As blogs have risen in popularity not everyone has appreciated their content,
+
+particularly employers of blogging employees. There are myriad legal issues an
+
+employee blogger could face from his or her employer. For example, an employee
+
+blogger may be sued for defamation if he writes negative or untrue things about
+
+a co-worker or supervisor or may be subject to copyright or trademark
+
+infringement lawsuits for quoting from articles, using someone else's creative
+
+works, or using their employer's brand name or logo.  n62 Employees could
+
+subject themselves to lawsuits or termination for discussing their company's
+
+trade secrets or upcoming product line before it is announced, thereby depriving
+
+their employers of a competitive advantage.  n63
+
+
+
+   Employees are not the only parties faced with legal issues as a result of
+
+employee blogs. From an employer's viewpoint, employee blogs may create problems
+
+between the employer and the Securities  [*236]  Exchange Commission (SEC) if a
+
+blog violates the mandated "quiet period" before an initial public offering
+
+(IPO).  n64 Employee blogs may also cause the United States Patent & Trademark
+
+Office to reject a patent application from a company if the blog described a
+
+product in development more than a year before the company applied for a patent
+
+for the product.  n65
+
+
+
+   Blogs have become a major part of today's Internet-driven society. As a
+
+result of this growing popularity, companies are more likely to find employee
+
+blogs and discipline employees for blogging about confidential corporate
+
+information or who speak ill of the company or another employee.  n66 In most
+
+states, employees have no protection from disciplinary action, including
+
+termination, if a supervisor reads an employee blog and is offended by its
+
+contents.  n67 Yet, some states provide statutory protection for employee
+
+bloggers.  n68 These protections take the form of statutes limiting the reasons
+
+for which employees may be fired while the employee is "off-duty" and doing
+
+something not in relation to the employment.  n69
+
+
+
+   While there are many reasons for employees and employers to be wary of
+
+employee blogs there are also many reasons for each to embrace blogs for their
+
+potential to benefit businesses. Blogs allow current and potential clients to
+
+connect to a company on a deep  [*237]  personal level.  n70 They allow a
+
+company to promote itself in a unique and personal way and market the company in
+
+a manner that allows a customer or client to get a feel for the corporation's
+
+personality.  n71 Blogs benefit companies by making corporate operations more
+
+transparent, allowing for conversation among the corporation and various
+
+constituencies and customers, and by helping the corporation build community and
+
+develop relationships.  n72
+
+
+
+   For a company to take full advantage of the benefits employee blogs offer and
+
+to avoid their pitfalls, it is necessary for companies to create employee
+
+blogging guidelines.  n73 Not only will blogging guidelines protect the
+
+corporation's interest but it will also protect the employee blogger who will
+
+know what he can blog about and will fully understand the ramifications of
+
+violating his or her company's blogging policy.  n74 However, only a small
+
+handful of corporations actually have corporate blogging guidelines. It comes as
+
+no surprise that many of the corporations who have already enacted employee
+
+blogging guidelines are companies in the technological sector, notably Yahoo!,
+
+n75 Feedster,  n76 IBM,  n77 and Sun.  n78 Each of these guidelines include
+
+reasons why the policy was instituted and the goals it intend to achieve.  n79
+
+The reasons range from giving blog  [*238]  readers a clear indication that the
+
+blog contains the blogger's own opinions, not those of the company, to
+
+protecting the company's business interest and giving directions how to
+
+effectively blog about an employee's work.  n80
+
+
+
+   Effective employee guidelines must cover several different areas. The first
+
+of these is a disclaimer. The disclaimer is commonly used to alert a blog reader
+
+that the opinions contained in the blog belong solely to the blogger, not the
+
+corporation for which he or she works.  n81 The disclaimer typically takes the
+
+form of text in a prominent location on the blog site that states something
+
+equivalent to "The views expressed on this website/weblog are mine alone and do
+
+not necessarily reflect the views of my employer."  n82 This protects the
+
+employer because the employer will not have to worry about blog readers thinking
+
+that the blog content is sanctioned or approved by the corporation. It protects
+
+employees from getting in hot water with their superiors about the content of a
+
+blog being viewed as speaking on behalf of the corporation.  n83
+
+
+
+   Another prominent feature of employer blogging guidelines relates to
+
+confidential or proprietary information.  n84 Those companies whose blogging
+
+guidelines include suggestions not to divulge proprietary  [*239]  information
+
+often point to the company's confidentiality policy.  n85 Similarly, the company
+
+advises a potential employee blogger to ask a supervisor or someone in public
+
+relations if the information may be divulged or if it has been released publicly
+
+yet.  n86 The blogging policies discuss the negative impact that releasing such
+
+confidential or proprietary information could have for the company as well as
+
+possible regulatory violations for divulging private information.  n87
+
+
+
+   Oftentimes employer blogging guidelines will caution bloggers about using the
+
+corporate logo or trademark.  n88 It is also common for them to advise bloggers
+
+about copyright laws and the ramifications of using someone else's work.  n89
+
+The company may also advise potential employee bloggers about the legal
+
+consequences of blogging (to the blogger and the employer) that are apropos to
+
+the industry in which the employer is involved.  n90
+
+
+
+   Another universal provision in blogging guidelines is one to prevent
+
+employees from speaking ill of or libeling fellow employers or supervisors.  n91
+
+Typically, these guidelines advise employee bloggers to be respectful to fellow
+
+employees because the blog is out in the public eye and readily accessible.  n92
+
+They advise employees to think before they blog, to put things in context, and
+
+to make coherent arguments for their ideas, concerns, and criticisms rather than
+
+simply saying something like, "This product sucks."  n93 While blogs may be
+
+posted without the knowledge of employers or fellow employees, it is easy for an
+
+employer or fellow employee to stumble upon them and see what a blogger has said
+
+about the corporation and other employees.  n94
+
+
+
+   Corporate blogging guidelines are not burdensome rules designed to prevent
+
+employees from blogging. Rather, they give the potential  [*240]  employee
+
+blogger advice about the possible consequences of blogging about certain
+
+subjects or people. It is also common for the employee blogging guidelines to
+
+contain tips on how employees can become successful bloggers and attract
+
+visitors to their blog.  n95
+
+
+
+   While most of the corporate blogging guidelines have been developed by
+
+corporations in the technology sector many companies in other industries are
+
+creating them as well.  n96 Guidelines typically include suggestions for
+
+creating a successful blog and words of caution to the potential blogger.  n97
+
+They contain information about protecting company secrets and use of the
+
+corporate logo or trademark.  n98 Blogging guidelines also commonly advise
+
+bloggers about both the legal and internal consequences of the blogs.  n99 They
+
+advise employee bloggers to use their heads when posting and to be respectful of
+
+fellow employees and the corporation itself.  n100 Those corporations who have
+
+already developed blogging guidelines realize the immense positive potential the
+
+guidelines have and advise employee bloggers how to create a blog that is
+
+beneficial and fun for the employee to make but also helps the employer advance
+
+its goals of creating better relationships with customers and the public.  n101
+
+
+
+Corporate Blogging Hypothetical
+
+
+
+   Now that the effects of employee blogs on the blogger, the company, and other
+
+employees are known, I will analyze corporate blogging in a realistic,
+
+hypothetical situation. I propose a hypothetical situation and then examine it
+
+from the standpoint of a corporation and an employee of that corporation when
+
+the  [*241]  corporation has employee blogging guidelines and when the
+
+guidelines are absent.
+
+
+
+   Say that Mr. X is an at-will employee at the Power Plant, a Delaware
+
+corporation with its principal place of business in Springfield. The corporation
+
+deals in parts and machinery for running power plants across the globe. The
+
+Power Plant is currently at the forefront in development of environment-friendly
+
+power production machinery and demand for its parts and machines is at an all
+
+time high. Mr. X works as a researcher in the high-pressure research and
+
+development department at the Power Plant. He is currently working on a
+
+top-secret project, Project Wow, a zero-emissions non-nuclear power production
+
+machine that will revolutionize the way electricity is created and will end
+
+reliance on fossil fuels. Mr. X has had a blog for the past year and a half in
+
+which he discusses his family, his hobbies, and his work.
+
+
+
+   In recent weeks, Mr. X has suffered immense pressure from his supervisors at
+
+work to meet deadlines for Project Wow. He has worked long days and has had
+
+arguments with his supervisors regarding Project Wow deadlines. Mr. X wants to
+
+share his dream of Project Wow with the world but for obvious reasons, The Power
+
+Plant would prefer if he did not so it can realize the profit from its
+
+investment in Project Wow. During this time, Mr. X makes several postings on his
+
+blog regarding Project Wow. First he mentions his supervisor, Mr. Weed, in one
+
+of his postings. Mr. X makes several derogatory comments about Mr. Weed calling
+
+him an "incompetent bastard who cares more about profits than quality and
+
+safety, just like The Power Plant." In subsequent postings, Mr. X says that "Mr.
+
+Weed has demanded that I (Mr. X) work long hours away from my family because Mr.
+
+Weed is a lonely loser who has no family of his own so he wants to make everyone
+
+else around him miserable." In his blog, Mr. X also espouses his communist
+
+political beliefs while discussing his relationship with The Power Plant.
+
+
+
+   Mr. X also begins to discuss the finer details of Project Wow on the pages of
+
+his blog. Mr. X informs his readers what Project Wow will do for power
+
+production, a previously unreleased piece of information. He also provides his
+
+readers with some intricate details about the specific pieces of machinery used
+
+in Project Wow and how he developed those pieces. Three days ago, a journalist
+
+from The Quahog Informant discovered Mr. X's blog and wrote an article about it
+
+that was displayed on the front page of the popular newspaper. Consequently, The
+
+Power Plant's board of directors and corporate managers see Mr. X's blog and the
+
+publicity (both positive  [*242]  and negative) it has generated. Now they must
+
+decide what action to take about the recent developments regarding Mr. X's blog.
+
+
+
+   If The Power Plant did not have corporate blogging guidelines they will face
+
+some obvious difficulties in this situation.  n102 One of the most obvious
+
+issues confronting The Power Plant is that some very valuable corporate
+
+information about Project Wow was divulged to the public and The Power Plant's
+
+competitors.  n103 Mr. X's blog and the subsequent popularity surrounding it
+
+have brought attention to Project Wow and The Power Plant's competitors now have
+
+free access to that information. The blog posting may prevent The Power Plant
+
+from recouping the expenses it has spent on research and development if its
+
+rivals are able to create the same technology Mr. X has designed.  n104
+
+
+
+   Another problem The Power Plant faces is having its name tarnished and public
+
+opinion turn against it because of Mr. X's communist ranting.  n105 Mr. X's blog
+
+strictly stated that he was employed by The Power Plant and he freely shared his
+
+controversial communist opinions with those who read his blog. To those who read
+
+the blog, Mr. X could be mistaken as a spokesperson for The Power Plant and his
+
+communist statements may be viewed as the official corporate policy of The Power
+
+Plant.  n106 As a result, The Power Plant could face severe public outrage about
+
+the postings on Mr. X's blog and any public statement it makes regarding the
+
+blog may be too little, too late.  n107
+
+
+
+   As a result of his comments about his supervisor, Mr. Weed, Mr. X has also
+
+opened himself up to a possible defamation suit.  n108 When he called Mr. Weed
+
+an incompetent, miserable, lonely loser, Mr. X may have defamed Mr. Weed. Mr.
+
+Weed may also have a claim against The Power Plant because Mr. X's blog could be
+
+viewed as sanctioned by and speaking on behalf of The Power Plant. Furthermore,
+
+The Power Plant could bring a defamation suit against Mr. Weed for  [*243]
+
+saying that the company cares more about profits than quality and safety.
+
+
+
+   If Mr. X had been working on his blog while at work, he may have been
+
+violating The Power Plant's guidelines for using corporate computers while at
+
+work. Furthermore, The Power Plant would have been paying Mr. X for
+
+non-work-related activity and lost money based on lost productivity.
+
+
+
+   If The Power Plant had corporate blogging guidelines, much of the troubles it
+
+is facing could have been avoided, minimized, or even positively capitalized
+
+upon. For example, if The Power Plant had a provision in its employee handbook
+
+regarding employee blogging that required employees who choose to blog to place
+
+a disclaimer in an obvious location on the blog website stating that the
+
+opinions and statements contained in the blog are those of the employee, not The
+
+Power Plant, The Power Plant would be spared at least some negative publicity
+
+from Mr. X's pro-communist comments.  n109 The blogging guidelines put Mr. X on
+
+notice that the violation of the guidelines would result in his termination.
+
+
+
+   The defamation issues could have been dealt with in an equally simple manner
+
+in the employee handbook. If The Power Plant had also inserted a statement
+
+warning employees from discussing other employees or supervisors in any sort of
+
+negative light because it is likely that either the employee or a supervisor
+
+will see the statement because it is in such a public place, Mr. X would not
+
+have posted the comment or, at the very least, would know the consequences if it
+
+was seen.  n110 By putting Mr. X on notice of what could happen if his blog is
+
+read, The Power Plant would have provided a powerful deterrent to Mr. X,
+
+preventing him from posting his private thoughts or feelings about his
+
+co-workers and supervisors on such a public space.  n111
+
+
+
+   If the Power Plant had created corporate blogging guidelines for its
+
+employees, the trade secrets issue also could have been avoided.  n112 The Power
+
+Plant merely had to remind its employees that its policy governing corporate
+
+secrets applied to corporate blogs, just as it does to sharing trade secrets
+
+with anyone outside the company in any other form.  n113 Again, by placing its
+
+employees on notice about what ramifications their blogging may carry, The Power
+
+Plant could prevent its trade secrets from being divulged.  n114 If The Power
+
+Plant  [*244]  had corporate blogging guidelines governing this sort of
+
+circumstance, it is unlikely that Mr. X would have found it necessary to violate
+
+the company's blogging guidelines.  n115 Without the corporate blogging
+
+guidelines, The Power Plant's only recourse is likely filing suit against Mr.
+
+Weed.
+
+
+
+   An important thing to realize about The Power Plant's actions is that it is
+
+possible much good could come from a Power Plant-sanctioned employee blog
+
+written by Mr. X.  n116 By actively promoting employee blogs, The Power Plant
+
+would engender good will from its employees that could go a long way to the
+
+employees blogging favorably about the company.  n117 If an employee violates
+
+the blogging guidelines, The Power Plant still reserves the right to fire the
+
+employee. However, the goal of corporate blogging guidelines is to guide the
+
+employee while he or she blogs so that firing an employee for blogging is the
+
+final and least desirable solution.
+
+
+
+VII: Model Corporate Blogging Guidelines
+
+
+
+   When a company is creating its own corporate blogging guidelines there are
+
+several provisions that should be included.  n118 While different guidelines may
+
+be appropriate for certain industries they may not be important for others.
+
+However, there are a number of standard guidelines that any company creating
+
+corporate guidelines should keep in mind.  n119 This section will attempt to
+
+provide a model for corporate blogging guidelines.
+
+
+
+Section One: Definitions
+
+
+
+   Web log, Blog, Blogger, Blogging:
+
+
+
+   Web log or Blog: For the purposes of these guidelines, the terms "Web log" or
+
+"Blog" shall mean any website, journal, diary, or other online chronology of
+
+thoughts, ideas, or personal commentary kept by an employee in a personal or
+
+professional capacity.  n120
+
+
+
+    [*245]  Blogger: The term Blogger shall apply to any employee who creates,
+
+edits, or otherwise contributes to the content of any blog.  n121
+
+
+
+   Blogging: The term Blogging means "to blog" or to create, edit, or other
+
+contribute to the content of any blog.  n122
+
+
+
+   Statement: A Statement may encompass anything from writing, links, pictures,
+
+drawings, etc. that appears on a blog as defined above.  n123
+
+
+
+Section Two: Guidelines are to Promote Employee Blogging.
+
+
+
+   The employee blogging guidelines are designed to promote employee blogging.
+
+n124 No aspect of these guidelines is to be construed as stifling employee
+
+speech or creativity. The goal of [insert corporate name]'s employee blogging
+
+guidelines is to aid employees in blogging responsibly and in a manner that will
+
+bring the maximum benefit to the employee and to [insert corporate name].  n125
+
+[Insert corporate name] would like to remind employees of the public nature of
+
+the Internet and that employee blogs can be accessed by anyone in the world.
+
+n126 Blogging can expose the employee blogger and [insert corporate name] to
+
+serious legal liability if the blog is used inappropriately or if its content or
+
+statements are made in an inappropriate manner.  n127 [Insert corporate name]
+
+wants its employees to know that it views employee blogs as way to benefit not
+
+only the employee, but also [insert corporate name] and requests that the
+
+employee blog responsibly when identifying himself or herself as an employee of
+
+[insert corporate name].  n128
+
+
+
+Section Three: Disclaimer
+
+
+
+   Any employee who chooses to blog whether anonymously or by using his or her
+
+real name and who identifies himself or herself as an employee of [insert
+
+corporate name] should place a disclaimer in a  [*246]  highly-visible area of
+
+the blog's site stating that the opinions, comments, and views contained in the
+
+blog are those of the individual blogger alone and not those of [insert
+
+corporate name].  n129 [Insert corporate name] suggests employee bloggers use a
+
+disclaimer along the lines of "The views expressed on this website/weblog are
+
+mine alone and do not necessarily reflect the views of my employer."  n130
+
+
+
+   Furthermore, use of [insert corporate name]'s logo and registered trademarks
+
+by employee bloggers is prohibited.  n131 Unauthorized use of the logo and
+
+trademarks violates copyright and trademark law.  n132 However, if the blog is
+
+one that is run by the company or if the employee blogger has express
+
+permission, the use of [insert corporate name]'s logos or trademarks is
+
+authorized and encouraged.
+
+
+
+Section Four: Protection of Confidential or Proprietary Information and Trade
+
+Secrets.
+
+
+
+   An employee blog should not contain any statement regarding [insert corporate
+
+name] trade secrets or other confidential or proprietary information.  n133 Just
+
+as employees are not allowed to discuss private corporate information or trade
+
+secrets with other people in person they may not do so through a blog.  n134 If
+
+employee bloggers have any questions regarding this policy, they may refer to
+
+the [insert corporate name] policy governing the protection of proprietary
+
+information.  n135 If an employee blogger is unsure whether a statement or other
+
+piece of information may be posted on his blog because it is proprietary or a
+
+trade secret, he should ask a supervisor if the information is protected or if
+
+it may be shared.  n136 If an employee is uncertain whether a piece of
+
+information has been made public yet, he should also contact the public
+
+relations department to determine if the information had been released.  n137
+
+[Insert corporate name] is aware of the time-sensitive nature of blogs and,
+
+therefore, has instituted a procedure in which an employee blogger can make a
+
+request to his or her supervisor or the public relations department and will
+
+receive an answer about whether the information may or may not be posted by the
+
+end of the workday. This answer will also include  [*247]  specific reasons why
+
+a statement may not be posted or why parts of it would be inappropriate to post.
+
+n138
+
+
+
+Section Five: Copyright Infringement
+
+
+
+   The Internet makes it very easy for users to share content between people.
+
+When blogging, it is easy to accidentally copy and paste text or pictures from
+
+another site or another blog into the blog itself. Mistakenly copying text or
+
+pictures without proper attribution or in too great detail may open an employee
+
+blogger to a copyright infringement lawsuit.  n139 To avoid this sort of
+
+trouble, employee bloggers are advised to place links within the blog to the
+
+content which the blog refers to rather than copying the content itself.  n140
+
+
+
+   Publications, including internal publications or products, produced by
+
+[insert company name] are also protected by copyright law. Before an employee
+
+blogger posts content contained in company publications or work product he or
+
+she is advised to discuss it with a supervisor first.
+
+
+
+Section 6: Defamation
+
+
+
+   Employee bloggers should be aware of the inherent public and private nature
+
+of the Internet and of blogs themselves when blogging about [insert company
+
+name] or any of its employees.  n141 It is important for an employee blogger to
+
+be respectful of his or her co-workers and supervisors when blogging.  n142
+
+Being disrespectful of fellow employees may open employee bloggers to defamation
+
+law suits and much unwanted publicity.  n143 It is also possible that comments
+
+made on a blog could open the employee to sanctions through [insert company
+
+name]. Rather than simply saying that he or she does not like something it is
+
+advised that employees come up with and share coherent arguments based on fact
+
+which explain the employee's position.  n144 While [insert company name] or
+
+fellow employees may never see an employee blog, it is easy to stumble upon a
+
+blog and any defamatory statements contained in it.  n145
+
+
+
+    [*248]  Conclusion
+
+
+
+   Corporate blogging is a hot-button issue in today's society. While blogging
+
+began by simply adding text and links to website, it has quickly evolved to
+
+photo blogs and audio and video podcasting. There are many problems that are
+
+created by employee blogs and the lack of corporate guidelines to govern them.
+
+While not creating a legally-protected right to an employees free speech in
+
+blogging corporate blogging guidelines will protect their interests and the
+
+interests of the corporation. It will also advise employees of what they can and
+
+cannot blog about, cutting down confusion and harm between the employee and the
+
+employer. It is also important to be mindful that employee blogs may be of great
+
+benefit to employers by allowing customers or clients to connect to the
+
+corporation or as a way of announcing minor news from the corporation. While
+
+employees may never have legally protected speech in blogs, corporate blogging
+
+guidelines will function to provide employees with information about how to blog
+
+responsibly and advise them of what they can and cannot do when blogging
+
+publicly.
+
+
+
+Legal Topics:
+
+
+
+For related research and practice materials, see the following legal topics:
+
+Labor & Employment LawEmployee PrivacyConstitutional ProtectionsLabor &
+
+Employment LawEmployment RelationshipsEmployment at WillDuration of
+
+EmploymentLabor & Employment LawEmployment RelationshipsEmployment at WillPublic
+
+Employees
+
+
+
+FOOTNOTES:
+
+
+
+
+
+
+
+
+
+
+
+n1  Terri Gregory et al., We Blog: Publishing Online with Weblogs, 51 TECH.
+
+COMM. 129 (2004) (book review) (weblogs were created in the late 1990s by
+
+computer programmers to document their thoughts on projects and have since been
+
+used by the general public to share ideas and elicit feedback); Leander Kahney,
+
+The Web the Way it Was, WIRED, Feb. 23, 2000, available at
+
+http://www.wired.com/news/culture/0,1284,34006,00.html (blogging is undergoing a
+
+surge in popularity and growing at an unprecedented rate).
+
+
+
+
+
+
+
+
+
+
+
+n2  Jason Boog, Employment Lawyers Finding Bloggers Mean Business, LEGAL TIMES,
+
+April 11, 2005, at 23; Greg R. Notess, The Blog Realm: News Sources, Searching
+
+with Daypop, and Content Management, 26 ON THE NET 5, 70 (2002).
+
+
+
+
+
+
+
+
+
+
+
+n3  Ken Schacter, Commentary, Blogs: New possibilities, both good and bad for
+
+business, DAILY RECORD & THE DAILY NEWS PRESS, Dec. 31, 2004 (describing
+
+instances where employees were fired because of the content of their blog
+
+including a flight attendant who posted racy pictures of herself in her Delta
+
+uniform and an employee at Friendster who described the company's efforts to
+
+improve the website's unacceptably slow performance).
+
+
+
+
+
+
+
+
+
+
+
+n4  See id.
+
+
+
+
+
+
+
+
+
+
+
+n5  Stephanie Armour, Warning: Your clever little blog could get you fired, USA
+
+TODAY, June 15, 2005 at 1B (explaining how workers have been fired from their
+
+jobs for blogging and giving examples of companies with employee blogging
+
+guidelines); Becky Bowers & Adrian Phillips, Guide to the Blogosphere, ST.
+
+PETERSBURG TIMES, Sept. 5, 2005, at 6D (explaining that bloggers fired for their
+
+blog postings have been "dooced" by employers and describing situation of
+
+blogger fired from a web designer job for controversial postings about her work
+
+and co-workers); Michael Seamark & Peter Allen, An Intimiate Internet Diary and
+
+the Sacking of the Secretary Who Calls Herself La Petite Anglaise, LONDON DAILY
+
+MAIL, July 19, 2006 (secretary fired because her employer believed her blog
+
+brought the company into disrepute).
+
+
+
+
+
+
+
+
+
+
+
+n6  Schacter, supra note 3.
+
+
+
+
+
+
+
+
+
+
+
+n7  Schacter, supra note 3.
+
+
+
+
+
+
+
+
+
+
+
+n8  Bowers, supra note 5, at 6D.
+
+
+
+
+
+
+
+
+
+
+
+n9  Boog, supra note 2, at 23.
+
+
+
+
+
+
+
+
+
+
+
+n10  Boog, supra note 2, at 23 (employee bloggers wrongly believe in Internet
+
+anonymity and that their comments should be viewed similarly to those made
+
+"around the water cooler").
+
+
+
+
+
+
+
+
+
+
+
+n11  Boog, supra note 2, at 23 (at-will employees have no rights and may be
+
+fired at any time for any reason, even an arbitrary one).
+
+
+
+
+
+
+
+
+
+
+
+n12  Cynthia L. Estlund, Free Speech and Due Process in the Workplace, 71 IND.
+
+L.J. 101, 116 (private sector employees have no constitutional free speech
+
+rights against their employer's decision to fire them).
+
+
+
+
+
+
+
+
+
+
+
+n13  Payne v. Western & Atlantic R.R., 81 Tenn. 507 (1884) (creating the
+
+employment at-will doctrine); Boog, supra note 2, at 23; Estlund, supra note 12,
+
+at 116 (private employers may fire at-will employees for any reason but this
+
+practice has received criticism, giving private employees some protected speech
+
+rights).
+
+
+
+
+
+
+
+
+
+
+
+n14  See Pickering v. Bd. of Educ., 391 U.S. 563 (1968). In Pickering, a school
+
+board fired a public school teacher for writing and sending a letter to a local
+
+newspaper that was critical of the way the school board handled past proposals
+
+to raise revenue for schools.  Id. at 564. The Supreme Court held that without
+
+proof of false statements knowingly or recklessly made by the teacher, the
+
+exercise of the teacher's right to speak on issues of public interest is
+
+protected and the teacher was improperly dismissed.  Id. at 574-75. See also
+
+Estlund, supra note 12, at 116 (public employees' free speech rights are
+
+protected by the First Amendment).
+
+
+
+
+
+
+
+
+
+
+
+n15  Connick v. Myers, 461 U.S. 138, 147 (1983) (obscenity and libel are
+
+unprotected speech because they have little value to society).
+
+
+
+
+
+
+
+
+
+
+
+n16  Pickering, 391 U.S. at 566. The teacher's letter attacked the school
+
+board's handling of a 1961 bond issue proposal and its later allocation of money
+
+between educational and athletic programs. Id. It also criticized the school
+
+board for attempting to prevent teachers from opposing or criticizing the
+
+proposed bond issue. Id.
+
+
+
+
+
+
+
+
+
+
+
+n17  Pickering, 391 U.S. at 568-69. The test balances the school board's
+
+interests in their employees' duty of loyalty to their superiors generally
+
+accepted goals of education with the teachers' desire to speak in public.  Id.
+
+at 568. The school board argued that if the teacher must speak out publicly he
+
+or she must do so factually and accurately. Id. The teachers argued that the
+
+test which applies to defamatory statements directed against public officials by
+
+those without an occupational relationship with the official ought to apply.
+
+Id. at 569.
+
+
+
+
+
+
+
+
+
+
+
+n18  Brown v. Dep't of Transp., 735 F.2d 543, 545, 548 (D.C. Cir. 1984)
+
+(upholding dismissal of air traffic controller for speaking to the media and
+
+encouraging strikers to stay the course during the Professional Air Traffic
+
+Controller's Organization strike due to the statement's potential to cause
+
+controversy); Terry Ann Halbert, The First Amendment in the Workplace: An
+
+Analysis and Call for Reform, 17 SETON HALL L. REV. 42, 52 (1987) (asserting
+
+that only relatively innocuous statements will be afforded protection under
+
+Pickering).
+
+
+
+
+
+
+
+
+
+
+
+n19  See Connick, 461 U.S. 138. A Louisiana district attorney fired an assistant
+
+district attorney for handing out a questionnaire to the office about office
+
+policies.  Id. at 146-147. The Court held that speech was only protected if it
+
+related to a matter of public concern.  Id. at 146.
+
+
+
+
+
+
+
+
+
+
+
+n20  Id. at 146-147 (matters of public concern include political, social, or
+
+other community concerns but not private intra-office matters). See also Givhan
+
+v. Western Line Consol. Sch. Dist., 439 U.S. 410 (1979) (holding First Amendment
+
+protections apply when public employees arrange private meetings to communicate
+
+grievances but not if they air their views publicly).
+
+
+
+
+
+
+
+
+
+
+
+n21  Connick, 461 U.S. at 148-49. In Connick, the plaintiff circulated a
+
+questionnaire about internal office policies such as transfer policies and
+
+office morale.  Id. at 141. The questionnaire also discussed whether employees
+
+felt pressure to work on certain political campaigns, an issue the Court
+
+determined to be tinged with enough public interest to be of public concern and,
+
+therefore, protected.  Id. at 149.
+
+
+
+
+
+
+
+
+
+
+
+n22  Estlund, supra note 12, at 115.
+
+
+
+
+
+
+
+
+
+
+
+n23  Whistleblower Protection Act, 5 U.S.C. § 2302 (2006).
+
+
+
+
+
+
+
+
+
+
+
+n24  Id.
+
+
+
+
+
+
+
+
+
+
+
+n25  5 U.S.C. § 2302(b)(8). The relevant portion of The Whistleblower Protection
+
+Act states that employees are protected from employers who:
+
+
+
+
+
+     [T]ake or fail to take, or threaten to take or fail to take, a
+
+     personnel action with respect to any employee or applicant for
+
+     employment because of-- (A) any disclosure of information by an
+
+     employee or applicant which the employee or applicant reasonably
+
+     believes evidences-- (i) a violation of any law, rule, or regulation,
+
+     or (ii) gross mismanagement, a gross waste of funds, an abuse of
+
+     authority, or a substantial and specific danger to public health or
+
+     safety, if such disclosure is not specifically prohibited by law and
+
+     if such information is not specifically required by Executive order to
+
+     be kept secret in the interest of national defense or the conduct of
+
+     foreign affairs; or (B) any disclosure to the Special Counsel, or to
+
+     the Inspector General of an agency or another employee designated by
+
+     the head of the agency to receive such disclosures, of information
+
+     which the employee or applicant reasonably believes evidences-- (i) a
+
+     violation of any law, rule, or regulation, or (ii) gross
+
+     mismanagement, a gross waste of funds, an abuse of authority, or a
+
+     substantial and specific danger to public health or safety.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n26  Estlund, supra note 12, at 116 (explaining that an amalgam of state,
+
+federal, and common law doctrines protect certain types of employee speech from
+
+retaliation by employers). See also ARIZ. REV. STAT. § 38-531 (2006); IOWA CODE
+
+§ 70A.28 (2006); N.Y. LABOR LAW § 740 (McKinney 2006); TEX. GOV'T CODE ANN. §
+
+554.001 (Vernon 2006).
+
+
+
+
+
+
+
+
+
+
+
+n27  See KY. CONST. § 8; OHIO CONST. ART. 1, § 11; MASS. CONST. PT. 1, ART. 16;
+
+CONN. GEN. STAT. ANN. §§ 31-51q (West through 2006 legislation). See also Lewis
+
+v. City of Boston, 321 F.3d 207 (1st Cir. 2003) (stating that proving
+
+retaliation for exercising First Amendment rights, requires that (1) his
+
+expression involve matters of public concern, (2) his interest in commenting on
+
+matters outweighs the city's interests in efficient performance of its public
+
+services, and (3) his protected speech be substantial or motivating factor in
+
+the employer's adverse employment actions); Zilich v. Longo, 34 F.3d 359 (6th
+
+Cir. 1994) (stating retaliation by public officials for exercising First
+
+Amendment rights is a violation of First Amendment); Estlund, supra note 12, at
+
+116; Andrea Obston, Free Speech Has Limits in the Workplace, ALA News, Oct./Nov.
+
+2000, at 20.
+
+
+
+
+
+
+
+
+
+
+
+n28  Obston, supra note 27, at 20.
+
+
+
+
+
+
+
+
+
+
+
+n29  See, e.g. Adler v. Am. Standard Corp., 538 F. Supp. 572 (D. Md. 1982)
+
+(employee who threatened to reveal antitrust violations had cause of action when
+
+he was discharged for doing so); Palmeeter v. Int'l Harvester Co., 421 N.E.2d
+
+876 (Ill. 1978) (fired employee had cause of action when employee provided
+
+information for police investigating co-worker's criminal actions); Palmer v.
+
+Brown, 752 P.2d 685 (Kan. 1988) (employee had cause of action when discharged
+
+for refusing to promise not to report superior's fraudulent Medicaid billing
+
+practices).
+
+
+
+
+
+
+
+
+
+
+
+n30  National Labor Relations Act, 29 U.S.C. §§ 151-69. The Act states in
+
+pertinent part: "[e]mployees shall have the right to self-organization, to form,
+
+join, or assist labor organizations, to bargain collectively through
+
+representatives of their own choosing, and to engage in other concerted
+
+activities for the purpose of collective bargaining or other mutual aid and
+
+protection." 29 U.S.C. § 157. In fact, the term "concerted activity" includes
+
+speech intended to improve the circumstances of a group of employees, not just
+
+an entire employee population. Halbert, supra note 18, at 53 n. 74.
+
+
+
+
+
+
+
+
+
+
+
+n31  29 U.S.C. § 157.
+
+
+
+
+
+
+
+
+
+
+
+n32  See N.L.R.B. v. Wash. Aluminum Co., 370 U.S. 9 (1962) (discharge of seven
+
+non-union workers who walked off job to protest extremely cold workplace
+
+temperatures violated § 7 of the NLRA).
+
+
+
+
+
+
+
+
+
+
+
+n33  See N.L.R.B. v. Mount Desert Island Hosp., 695 F.2d 634 (1st Cir. 1982)
+
+(concerted action occurred when several employees met to discuss concerns about
+
+work and management was aware of these concerns); Mushroom Transp. Co. v.
+
+N.L.R.B., 330 F.2d 683 (3d Cir. 1964) (discharge of an employee who informed
+
+other employees of their rights under a bargaining agreement was allowed because
+
+it was not concerted action).
+
+
+
+
+
+
+
+
+
+
+
+n34  See, e.g., Petermann v. Local 396, Int'l Bhd. of Teamsters, 344 P.2d 25
+
+(Cal. Dist. Ct. App. 1959); Harless v. First Nat'l Bank, 246 S.E.2d 270 (W. Va.
+
+1978); Halbert, supra note 18, at 55 n. 95 (citing Kelsay v. Motorola, Inc., 384
+
+N.E.2d 353 (Ill. 1978)).
+
+
+
+
+
+
+
+
+
+
+
+n35  Halbert, supra note 18, at 55.
+
+
+
+
+
+
+
+
+
+
+
+n36  Note, Protecting Employees at-will Against Wrongful Discharge: The Public
+
+Policy Exception, 96 HARV. L. REV. 1931, 1949 (1983). Compare O'Sullivan v.
+
+Mallon, 160 N.J. Super. 416, 390 A.2d 149 (Law Div. 1978) (x-ray technician who
+
+was fired for refusing to perform certain medical procedures for which she was
+
+not licensed had a public policy cause of action), with Lampe v. Presbyterian
+
+Medical Center, 41 Colo. App. 465, 590 P.2d 513 (1978) (head nurse who was fired
+
+for refusing to reduce staff in her intensive-care unit to a level that would be
+
+dangerous to patients had no public policy cause of action).
+
+
+
+
+
+
+
+
+
+
+
+n37  Halbert, supra note 18, at 56.
+
+
+
+
+
+
+
+
+
+
+
+n38  Webster v. Motorola, Inc., 637 N.E.2d 203 (Mass. 1994); Folmsbee v. Tech
+
+Tool Grinding & Supply, Inc., 630 N.E.2d 586, 589 (Mass. 1994); Bratt v. Int'l
+
+Bus. Mach. Corp., 467 N.E.2d 126 (Mass. 1984); C. Forbes Sargent, III,
+
+Electronic Media and the Workplace: Confidentiality, Privacy, and Other Issues,
+
+BOSTON BAR J., May/June 1997, at 6 (citing Cort v. Bristol-Myers Co., 431 N.E.2d
+
+908 (Mass. 1982)).
+
+
+
+
+
+
+
+
+
+
+
+n39  Michael L. Rustad & Sandra R. Paulsson, Article, Monitoring Employee Email
+
+and Internet Usage: Avoiding the Omniscient Electronic Sweatshop: Insights From
+
+Europe, 7 U. PA. J. LAB. & EMP. L. 829, 839 n. 38 (2005) (citing MADELEINE
+
+SCHACHTER, INTERNATIONAL AND DECISIONAL PRIVACY 8 (2003) ("Constitutional
+
+privacy law has evolved largely from textual and inferential construction of the
+
+Bill of Rights; in particular, the First, Fourth, Fifth, and Ninth Amendments,
+
+as well as the Fourteenth Amendment.")).
+
+
+
+
+
+
+
+
+
+
+
+n40  John Araneo, Note, Pandora's (E-mail) Box: E-mail Monitoring in the
+
+Workplace, 14 HOFSTRA L. J. 339 (1996) (exploring the lack of constitutional
+
+protection for individual privacy); Rustad & Paulsson, supra note 39, at 840.
+
+
+
+
+
+
+
+
+
+
+
+n41  U.S. CONST. AMEND. IV. See Katz v. United States, 389 U.S. 347, 361 (1967)
+
+(explaining that the Fourth Amendment protects privacy only when there is a
+
+reasonable subjective and objective expectation of privacy); Rustad & Paulsson,
+
+supra note 39, at 841.
+
+
+
+
+
+
+
+
+
+
+
+n42  Rustad & Paulsson, supra note 39, at 842-43 (exploring variations in
+
+statutory protections in Alaska, Delaware, New York, and California).
+
+
+
+
+
+
+
+
+
+
+
+n43  Gregory et al., supra note 1; Kahney, supra note 1 (defining "blog" as a
+
+"regularly updated list of links and commentary on interesting material on the
+
+web" and "weblogging" as a form of Internet publishing); Gail Philbin, Welcome
+
+to their Worlds: Female bloggers build strong presence on the Internet, CHI.
+
+TRIB., July 30, 2003; Craig Taylor, Hello World, The Guardian (London), Feb 22,
+
+2003, available at http://www.guardian.co.uk (discussing how the term blog was
+
+created); Rebecca Blood, Weblogs: A History and Perspective,
+
+http://www.rebeccablood.net/essays/weblog_history.html#content (last visited
+
+Apr. 27, 2007) (explaining the creation of the blog).
+
+
+
+
+
+
+
+
+
+
+
+n44  Blood, supra note 43 (explaining creation of the blog).
+
+
+
+
+
+
+
+
+
+
+
+n45  Gregory, supra note 43.
+
+
+
+
+
+
+
+
+
+
+
+n46  Gregory, supra note 43.
+
+
+
+
+
+
+
+
+
+
+
+n47  Peter Scher, Blogs Become an Internet Phenomenon, 2 E-COMMERCE L. &
+
+STRATEGY 5, June 2002.
+
+
+
+
+
+
+
+
+
+
+
+n48  Taylor, supra note 43, at 38.
+
+
+
+
+
+
+
+
+
+
+
+n49  Taylor, supra note 43, at 38.
+
+
+
+
+
+
+
+
+
+
+
+n50  Blood, supra note 43.
+
+
+
+
+
+
+
+
+
+
+
+n51  Taylor, supra note 43, at 38; Blood, supra note 43 (explaining creation of
+
+the blog).
+
+
+
+
+
+
+
+
+
+
+
+n52  Taylor, supra note 43, at 38.
+
+
+
+
+
+
+
+
+
+
+
+n53  Kahney, supra note 43 (stating that as of Mar. 9, 2006,
+
+http://www.technorati.com listed 30.1 million blogs on Internet).
+
+
+
+
+
+
+
+
+
+
+
+n54  Blood, supra note 43 (explaining that with the release of Blogger, blogging
+
+began to take the form of short journal entries about the author's life, ideas,
+
+or opinions rather than lists of links to interesting places on the Internet).
+
+
+
+
+
+
+
+
+
+
+
+n55  Blood, supra note 43 (explaining how blogging became more popular once
+
+bloggers could put any content on their blogs rather than the traditional
+
+Internet link with short commentary).
+
+
+
+
+
+
+
+
+
+
+
+n56  Chris Vognar, Rhythm and Blogs: Music Lovers Set Up Sites with Facts,
+
+History and -- Yes -- MP3s, DALLAS MORNING NEWS, Jan. 2, 2005, at 1G; Blood,
+
+supra note 43 (explaining that blogging helps the blogger ascertain her own
+
+interests and that the medium allows the blogger to create a blog about those
+
+interests and share it with anyone on the Internet).
+
+
+
+
+
+
+
+
+
+
+
+n57  Gregory, supra note 43, at 129; Scher, supra note 47, at 5 (discussing
+
+Macromedia's corporate blog).
+
+
+
+
+
+
+
+
+
+
+
+n58  Google Blog Search, http://blogsearch.google.com/ (last visited Apr. 28,
+
+2007).
+
+
+
+
+
+
+
+
+
+
+
+n59  Ken Young, Join the Blogosphere, AUSTRALIAN PC WORLD, Apr. 1, 2004, at 58.
+
+
+
+
+
+
+
+
+
+
+
+n60  Id.
+
+
+
+
+
+
+
+
+
+
+
+n61  Tom Heinen, Video Blogs Gaining in Popularity Among the Faithful, MILWAUKEE
+
+J. SENTINEL, Aug. 24, 2005, at A1, available at
+
+http://www.southend.wayne.edu/modules/news/article.php?storyid=1606.
+
+
+
+
+
+
+
+
+
+
+
+n62  See Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974) (actual malice not
+
+necessary for defamation of private person if negligence is present); New York
+
+Times Co. v. Sullivan, 376 U.S. 254 (1964) (stating that actual malice needed to
+
+prove defamation against a public figure); RESTATEMENT (SECOND) OF TORTS § 559
+
+(1977) (defining "defamation" as a statement that "tends so to harm the
+
+reputation of another as to lower him in the estimation of the community or to
+
+deter third persons from associating or dealing with him"); Mark Brunswick &
+
+Dane Smith, Facing Suit, Anonymous Blogger Lifts His Mask, STAR TRIBUNE
+
+(Minneapolis), Jan. 5, 2006, at 1B (describing lawsuit against blogger for
+
+defamation), available at http://www.startribune.com/587/story/163827.html. See
+
+also Playboy Enterprises, Inc. v. Netscape Comm. Corp., 354 F.3d 1020, 1026 (9th
+
+Cir. 2004) (listing the eight elements to prove interest confusion in trademark
+
+cases); Electronic Frontier Foundation, Blogger's FAQ -- Overview of Legal
+
+Liability Issues, http://www.eff.org/bloggers/lg/faq-overview.php (last visited
+
+Apr. 27, 2007). See generally U.S. CONST. art. I, § 8, cl. 8 (providing Congress
+
+with the power "To promote the Progress of Science and useful Arts, by securing
+
+for limited Times to Authors and Inventors the exclusive Right to their
+
+respective Writings and Discoveries"); 17 U.S.C. § 106 (defining the exclusive
+
+rights of copyright holders).
+
+
+
+
+
+
+
+
+
+
+
+n63  See supra note 62 and accompanying text; Chilling Effects Clearinghouse,
+
+Frequently Asked Questions (and Answers) about Trade Secret,
+
+http://www.chillingeffects.org/tradesecret/faq.cgi (explaining what trade
+
+secrets are, how they may be protected, and what the effects of sharing a trade
+
+secret are) (last visited Apr. 17, 2007).
+
+
+
+
+
+
+
+
+
+
+
+n64  See Securities Act of 1933, 15 U.S.C. § 77e (outlawing the use of any
+
+medium to issue an offer to buy or sell securities unless a registration
+
+statement is in effect for that security); U.S. Securities and Exchange
+
+Commission, Quiet Period, http://www.sec.gov/answers/quiet.htm (last visited
+
+April 29, 2007) (explaining what the "quiet period" is and what type of
+
+information can be released to the public during the period); Posting of Jon
+
+Gavenman to The Mobility Public Relations Blog,
+
+http://www.mobilitypr.com/blog/2007/04/09/sme-sec-publicity-regulations/ (Apr.
+
+9, 2007, 9:35 EST) (describing the "quiet period," hyping the market, and
+
+actions the Securities Act of 1933 prohibits before an IPO). See generally
+
+Raymond Hennessey & Phyllis Plitch, IPO Outlook: SEC's New Rules on 'Quiet
+
+Period' Create Debate -- In Theory, Plan Broadens IPO Process; In Practice, It
+
+Could Be More of Same, WALL ST. J., Dec. 27, 2004, at C3.
+
+
+
+
+
+
+
+
+
+
+
+n65  See 35 U.S.C. § 102(b).
+
+
+
+
+
+
+
+
+
+
+
+n66  Alorie Gilbert, FAQ: Blogging on the Job, CNET NEWS, Mar. 8, 2005,
+
+http://news.com.com/2102-1030_3-5597010.html.
+
+
+
+
+
+
+
+
+
+
+
+n67  Krysten Crawford, Have a Blog, Lose your Job?, CNN/MONEY, Feb. 15, 2005,
+
+http://money.cnn.com/2005/02/14/news/economy/blogging/; Gilbert, supra note 66.
+
+
+
+
+
+
+
+
+
+
+
+n68  Id. See, e.g., CAL. LAB. CODE § 1101 (West 2007) (protecting employees from
+
+workplace retaliation for political activities); COLO. REV. STAT. § 24-34-402.5
+
+(2006) (it is a discriminatory or unfair employment practice for an employer to
+
+terminate an employee for engaging in any lawful activity outside of work); N.Y.
+
+LAB. LAW § 201 (McKinney 2006) (protecting employees from discrimination because
+
+of legal recreational activities the employee engages in); Employee Privacy
+
+Protection Act, S.B. 381, 2005 Leg. (Mich. 2005).
+
+
+
+
+
+
+
+
+
+
+
+n69  See supra note 68.
+
+
+
+
+
+
+
+
+
+
+
+n70  David J. Bilinsky, Legal Business on Marketing: The "Earth-Shattering"
+
+Benefits of Blogs, LAWYERS WEEKLY, Mar. 25, 2005; Ken Schacter, Blogs: New
+
+Possibilities, Both Good & Bad for Businesses, KANSAS CITY DAILY RECORD, Dec.
+
+31, 2004.
+
+
+
+
+
+
+
+
+
+
+
+n71  See supra note 70.
+
+
+
+
+
+
+
+
+
+
+
+n72  Wayne Hurlbert, Corporate Blogging Guidelines, WEBPRONEWS, Mar. 24, 2005,
+
+http://www.webpronews.com/news/ebusinessnews/wpn-45-20050324CorporateBloggingGui
+
+delines.html.
+
+
+
+
+
+
+
+
+
+
+
+n73  David C. Henderson & Matthew Feiner, Commentary, The Internet Lawyer --
+
+Policies Guiding Employee 'Bloggers' a Must, THE DAILY RECORD (Baltimore), Aug.
+
+1, 2005 (corporate blogging guidelines should include sections discussing
+
+disclaimers, protection of proprietary or confidential information, defamation,
+
+copyright infringement, and other legal ramifications of blogging).
+
+
+
+
+
+
+
+
+
+
+
+n74  Id.
+
+
+
+
+
+
+
+
+
+
+
+n75  Yahoo!, Yahoo! Personal Blog Guidelines: 1.0, available at
+
+http://Jeremy.zawodny.com/yahoo/yahoo-blog-guidelines.pdf [hereinafter Yahoo!
+
+Guidelines].
+
+
+
+
+
+
+
+
+
+
+
+n76  Feedster, Corporate Blogging Policy,
+
+http://feedster.blogs.com/corporate/2005/03/corporate_blogg.html (last visited
+
+Apr. 28, 2007) [hereinafter Feedster Guidelines].
+
+
+
+
+
+
+
+
+
+
+
+n77  IBM, Blogging Guidelines, http://www.ibm.com/blogs/zz/en/guidelines.html
+
+(last visited Mar. 5. 2007) [hereinafter IBM Guidelines].
+
+
+
+
+
+
+
+
+
+
+
+n78  Sun Microsystems, Sun News -- Sun Blogs,
+
+http://www.sun.com/aboutsun/media/blogs/policy.html (last visited Mar. 5, 2007)
+
+[hereinafter Sun Guidelines].
+
+
+
+
+
+
+
+
+
+
+
+n79  See Feedster Guidelines, supra note 76 (stating that blogs are a medium of
+
+self-expression and that employees should inform readers the blog is a personal,
+
+not corporate-sanctioned blog); IBM Guidelines, supra note 77 (stating that the
+
+employee blogging guidelines were created to help IBM, its clients, and
+
+constituents learn about IBM's business and social ecosystem and to help IBM and
+
+IBM employees contribute and share what they are doing and learning with the
+
+world); Sun Guidelines, supra note 78 (employee blogs are encouraged as a way
+
+for Sun employees to tell the world about their work); Yahoo! Guidelines, supra
+
+note 75 (employee blogging is an important aspect of shared media and a way of
+
+fostering a thriving online community).
+
+
+
+
+
+
+
+
+
+
+
+n80  See supra note 79 and accompanying text.
+
+
+
+
+
+
+
+
+
+
+
+n81  See Feedster Guidelines, supra note 76 (informing employees to prominently
+
+display a disclaimer informing readers that the blog contains the employee's
+
+ideas and beliefs and not Feedster's); IBM Guidelines, supra note 77 (explaining
+
+to employee bloggers that it is important to make it clear that the blog is a
+
+representation of the employee's views and not necessarily those of IBM).
+
+
+
+
+
+
+
+
+
+
+
+n82  See supra note 81 and accompanying text.
+
+
+
+
+
+
+
+
+
+
+
+n83  Henderson & Feiner, supra note 73.
+
+
+
+
+
+
+
+
+
+
+
+n84  Feedster Guidelines, supra note 76 (advising employees to be careful about
+
+divulging confidential company information and to consult Feedster's
+
+confidentiality policy for guidance about what may and may not be disclosed);
+
+Yahoo! Guidelines, supra note 75 (all information in a blog about Yahoo! is
+
+subject to the Proprietary Information Agreement each employee signs and
+
+advising employees of consequences Yahoo! may suffer if such information is
+
+divulged); IBM Guidelines, supra note 77 (informing IBM employees not to
+
+disclose or use IBM confidential information and to ask permission before
+
+posting someone's photograph or conversation that was meant to be private and
+
+advising employees to consult IBM's Business Conduct Guidelines); Sun
+
+Guidelines, supra note 78 (advising employees that it is okay to have a dialog
+
+and talk about work but that it is not okay to divulge secrets and if there is a
+
+question about whether a piece of information may be posted to ask a
+
+supervisor).
+
+
+
+
+
+
+
+
+
+
+
+n85  See supra note 84 and accompanying text.
+
+
+
+
+
+
+
+
+
+
+
+n86  See IBM Guidelines, supra note 77; Sun Guidelines, supra note 78.
+
+
+
+
+
+
+
+
+
+
+
+n87  See IBM Guidelines, supra note 77; Sun Guidelines, supra note 78.
+
+
+
+
+
+
+
+
+
+
+
+n88  See supra note 63 and accompanying text; Feedster Guidelines, supra note
+
+76; IBM Guidelines, supra note 77; Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n89  See IBM Guidelines, supra note 77 (advising employee bloggers not to quote
+
+articles at length but to link to information).
+
+
+
+
+
+
+
+
+
+
+
+n90  See Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n91  See generally Feedster Guidelines, supra note 76; IBM Guidelines, supra
+
+note 77; Sun Guidelines, supra note 78; Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n92  See supra note 91 and accompanying text.
+
+
+
+
+
+
+
+
+
+
+
+n93  See generally Feedster Guidelines, supra note 76; IBM Guidelines, supra
+
+note 77; Sun Guidelines, supra note 78 (suggesting locations for blogs to be
+
+created and ways to maintain and increase blog readership); Yahoo! Guidelines,
+
+supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n94  See generally Feedster Guidelines, supra note 76; IBM Guidelines, supra
+
+note 77; Sun Guidelines, supra note 78; Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n95  IBM Guidelines, supra note 77; Sun Guidelines, supra note 78 (providing
+
+employees with tips on how to start a blog, websites which provide blogging
+
+software and hosting, and tips for blogging so visitors return to the blog);
+
+Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n96  See NewPR Wiki, NewPR Wiki - Resources.BloggingPolicy,
+
+http://www.thenewpr.com/wiki/pmwiki.php?pagename=Resources.BloggingPolicy (last
+
+visited Apr. 28, 2007) (providing a listing of companies that have developed
+
+blogging guidelines and links to those guidelines).
+
+
+
+
+
+
+
+
+
+
+
+n97  See generally Feedster Guidelines, supra note 76; IBM Guidelines, supra
+
+note 77; Sun Guidelines, supra note 78; Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n98  See generally Feedster Guidelines, supra note 76; IBM Guidelines, supra
+
+note 77; Sun Guidelines, supra note 78; Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n99  See generally Feedster Guidelines, supra note 76; IBM Guidelines, supra
+
+note 77; Sun Guidelines, supra note 78; Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n100  See generally Feedster Guidelines, supra note 76; IBM Guidelines, supra
+
+note 77; Sun Guidelines, supra note 78; Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n101  See generally Feedster Guidelines, supra note 76; IBM Guidelines, supra
+
+note 77; Sun Guidelines, supra note 78; Yahoo! Guidelines, supra note 75.
+
+
+
+
+
+
+
+
+
+
+
+n102  The difficulties faced by the Power Plant because of its lack of blogging
+
+guidelines include readers of the blog believing Mr. X speaks for the
+
+corporation, the release of confidential or proprietary information, copyright
+
+infringement issues, and defamation. See sources cited supra notes 77, 79, 81,
+
+86.
+
+
+
+
+
+
+
+
+
+
+
+n103  See Henderson & Feiner, supra note73 (and accompanying text).
+
+
+
+
+
+
+
+
+
+
+
+n104  See Henderson & Feiner, supra note 73 (and accompanying text). The Power
+
+Plant's foreign patent rights have likely been lost by the posting. At the very
+
+minimum, the Power Plant will have one year from the date of the posting to file
+
+a patent application in the United States. See 35 U.S.C. § 102(b).
+
+
+
+
+
+
+
+
+
+
+
+n105  See supra note 80 (and accompanying text).
+
+
+
+
+
+
+
+
+
+
+
+n106  See supra notes 80-82.
+
+
+
+
+
+
+
+
+
+
+
+n107  See supra note 81.
+
+
+
+
+
+
+
+
+
+
+
+n108  See supra notes 62 and 91.
+
+
+
+
+
+
+
+
+
+
+
+n109  See supra notes 79and 81.
+
+
+
+
+
+
+
+
+
+
+
+n110  See supra notes 90-93.
+
+
+
+
+
+
+
+
+
+
+
+n111  See supra note 93.
+
+
+
+
+
+
+
+
+
+
+
+n112  See supra note 81.
+
+
+
+
+
+
+
+
+
+
+
+n113  See supra note 84.
+
+
+
+
+
+
+
+
+
+
+
+n114  See supra note 84.
+
+
+
+
+
+
+
+
+
+
+
+n115  See supra notes 83-84.
+
+
+
+
+
+
+
+
+
+
+
+n116  See supra notes 70 and 72.
+
+
+
+
+
+
+
+
+
+
+
+n117  See supra notes 70 and 72.
+
+
+
+
+
+
+
+
+
+
+
+n118  See supra note 73.
+
+
+
+
+
+
+
+
+
+
+
+n119  See supra notes 73, 75, 79, 87, 96, and 98.
+
+
+
+
+
+
+
+
+
+
+
+n120  See supra note 43.
+
+
+
+
+
+
+
+
+
+
+
+n121  See supra note 43.
+
+
+
+
+
+
+
+
+
+
+
+n122  See supra note 43.
+
+
+
+
+
+
+
+
+
+
+
+n123  See supra notes 3 (and accompanying text for examples of instances when
+
+pictures and words have caused trouble for employee bloggers).
+
+
+
+
+
+
+
+
+
+
+
+n124  See supra notes 70-73.
+
+
+
+
+
+
+
+
+
+
+
+n125  See supra note 97.
+
+
+
+
+
+
+
+
+
+
+
+n126  See supra note 91.
+
+
+
+
+
+
+
+
+
+
+
+n127  See supra notes 62-65.
+
+
+
+
+
+
+
+
+
+
+
+n128  See supra notes 99-100.
+
+
+
+
+
+
+
+
+
+
+
+n129  See supra note 79.
+
+
+
+
+
+
+
+
+
+
+
+n130  See supra note 81.
+
+
+
+
+
+
+
+
+
+
+
+n131  See supra note 87.
+
+
+
+
+
+
+
+
+
+
+
+n132  See supra note 88.
+
+
+
+
+
+
+
+
+
+
+
+n133  See supra note 83.
+
+
+
+
+
+
+
+
+
+
+
+n134  See supra note 84.
+
+
+
+
+
+
+
+
+
+
+
+n135  See supra note 84.
+
+
+
+
+
+
+
+
+
+
+
+n136  See supra note 84.
+
+
+
+
+
+
+
+
+
+
+
+n137  See supra note 84.
+
+
+
+
+
+
+
+
+
+
+
+n138  See supra note 84.
+
+
+
+
+
+
+
+
+
+
+
+n139  See supra note 88.
+
+
+
+
+
+
+
+
+
+
+
+n140  See supra note 88.
+
+
+
+
+
+
+
+
+
+
+
+n141  See supra note 91.
+
+
+
+
+
+
+
+
+
+
+
+n142  See supra note 91.
+
+
+
+
+
+
+
+
+
+
+
+n143  See supra note 91.
+
+
+
+
+
+
+
+
+
+
+
+n144  See supra note 91.
+
+
+
+
+
+
+
+
+
+
+
+n145  See supra note 93.
+
+
+
+
+

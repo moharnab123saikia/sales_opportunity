@@ -1,0 +1,210 @@
+                              743 of 997 DOCUMENTS
+
+
+
+
+
+                              Mirror Publications
+
+
+
+                              May 22, 2016 Sunday
+
+                                Bangalore Mirror
+
+
+
+Ashoka edicts: Researchers identify 121 possible sites
+
+
+
+BYLINE: Mihika Basu
+
+
+
+SECTION: SCI-TECH
+
+
+
+LENGTH: 761 words
+
+
+
+
+
+Ground search may yield high probability of finding new inscriptions
+
+
+
+While Ashokan edicts are considered the first decipherable written documents in
+
+India, researchers have now identified 121 possible locations of undiscovered
+
+inscriptions of Ashoka.
+
+
+
+The research focuses on the stone inscriptions ascribed to Ashoka. Known as
+
+'edicts', the texts are carved into the living rock and onto shaped stone
+
+pillars, found in India, Pakistan and Afghanistan. The inscriptions contain
+
+pronouncements about kingship, administrative duty and religion, with some
+
+sections repeated verbatim from one location to the next. "We have identified
+
+121 possible locations in the Indian subcontinent that conform to the same
+
+criteria where yet undiscovered inscriptions may be found.
+
+
+
+The Ashokan edicts are significant as they constitute the first decipherable
+
+written documents in the Indian subcontinent coincident with the development of
+
+urbanism. Their emplacement as an act of royal proclamation throughout such a
+
+large area is interpreted as the evidence for the first substantial unifying
+
+political regime of the subcontinent.
+
+
+
+Also, the edicts are the first tangible expression of religious practices
+
+related to Buddhism. As documents of national and international significance,
+
+the Ashokan edicts are also a focal point of heritage management and
+
+preservation," said the authors from the Department of Geography and the Cotsen
+
+Institute of Archaeology and Department of Anthropology, University of
+
+California, Los Angeles. This research had three primary objectives. The team
+
+tested whether or not a "species distribution modelling approach" can be used to
+
+successfully identify known Ashokan edict locations, and identified the
+
+environmental metrics that best explain the distribution of known Ashokan
+
+edicts.
+
+
+
+Further, they identified regions and locations with a high probability of yet
+
+undiscovered Ashokan edicts within the Indian subcontinent.
+
+
+
+Species distribution modelling programmes, according to the research team,
+
+require two sets of inputs in order to create distribution maps of the targetted
+
+species within landscapes: species locality data from prior research, and
+
+environmental predictors in a GIS format "We used an algorithm to model the
+
+current relationship for known Ashokan edict sites and mapped suitable habitat
+
+on the basis of climate, topography, geology and population.
+
+
+
+Utilising Google Earth imagery, we systematically conducted a visual search of
+
+the high-probability grids to identify topographical locations (outcrops) and
+
+geologic (rock type) attributes similar to known Ashokan edict location. One
+
+kilometre pixels with a probability greater than and equal to 75 per cent of
+
+containing edicts were overlaid on Google Earth and systematically searched
+
+along a north-to-south gradient," said the findings, which are being published
+
+in the Current Science journal of the Indian Academy of Sciences. Each pixel was
+
+assigned a unique identification number and classified as high likelihood or low
+
+likelihood. Locations designated as high likelihood were those that looked
+
+similar to known edict locations and generally satisfied two additional
+
+criteria, that is location on raised, lone outcrops, and containing many visible
+
+boulders. After examining each one km pixel visually within Google Earth, 121
+
+pixels were classified as high likelihood and matched known Ashokan edict
+
+attributes.
+
+
+
+"Examples include points of interest 1973 and 2024 located on small, isolated
+
+outcroppings that rise higher than the surrounding region, a configuration
+
+similar to the known edict locations of Dhauli, Jaugadh, and Palkigundu.
+
+
+
+These locations have various boulder-sized rocks, which would make a suitable
+
+place for inscriptions," revealed the findings. It added, "When distribution
+
+models were run based on the 29 known locations, they were successful in
+
+reliably predicting the distribution of Ashokan edicts in the Indian
+
+subcontinent".
+
+
+
+The authors believe that a ground search for edicts in any of these locations
+
+would yield a higher-than-average probability of finding new inscriptions.
+
+
+
+"The development of a purpose-specific research project to examine each of the
+
+121 high likelihood areas represents an ideal opportunity for distributed
+
+research projects based in local academic institutions in the subcontinent,
+
+utilising the principles of volunteered geographic information and citizen
+
+science. We, therefore, seek to release information about the location of high
+
+likelihood areas into the public domain for use by in-country scholars and
+
+students," the authors said.
+
+
+
+LOAD-DATE: May 21, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2016 Bennett Coleman & Co. Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

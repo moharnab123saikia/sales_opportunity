@@ -1,0 +1,484 @@
+                              348 of 999 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                             April 29, 2013, Monday
+
+
+
+iPhone 6 rumor rollup for the week ending April 26;
+
+Apple iPhone 6 scuttlebutt: Magic plastic, don't listen to Tim Cook, location
+
+perils, color failure
+
+
+
+BYLINE: John Cox
+
+
+
+LENGTH: 1896 words
+
+
+
+
+
+The iPlasticPhone rears its glossy head and the iOSphere shivers. Also this
+
+week, don't listen to Tim Cook about display size; the unanticipated
+
+consequences of iPhone 6 Wi-Fi location tracking; colorful correction and
+
+balance; the Secret of SIM.
+
+
+
+You read it here second.
+
+
+
+__________ "If Apple were to have indoor GPS tracking on the iPhone 6, there
+
+could be some concerns over privacy. Users would have to choose whether they
+
+want their friends to know they are in the bathroom and how long they have been
+
+in there."
+
+
+
+~ Rick Berke, Auto-oMobile, highlighting a heretofore unanticipated consequence
+
+of Apple's mobile location mania.__________ iPhone 6 will have a plastic body,
+
+and here's the photo that proves it In another rumor coup, the blog at Tactus, a
+
+mobile accessory maker, presented a photo that purports to be of an iPhone with
+
+a plastic case.
+
+
+
+"Well, it looks like it features an all uniform plastic polycarbonate shell -
+
+very different to the iPhone 5?s sleek aluminum look, but still modern and
+
+covetable," according to the blogpost.
+
+
+
+[IPHONEYS: The iPhone 6 and iPhone 5S edition] Here's the published photograph.
+
+And it's a bit underwhelming to be sure. To the Rollup, it looks dated somehow.
+
+Perhaps because the glossy plastic body in the Tactus image is a throwback to
+
+the iPhone 3GS, which was announced in June 2009.
+
+
+
+According to Tactus, the phone using this plastic shell measures 0.35 inches
+
+thick, 4.72 inches long and 2.44 inches wide.
+
+
+
+That's slightly thicker and wider than the iPhone 5; slightly thinner, longer
+
+and wider than the iPhone 4.
+
+
+
+"I've also heard on the grapevine that the alleged budget iPhone will have an A5
+
+processor like the iPad Mini with a 32nm diecast," according to the post. "It's
+
+also rumoured it will have a 3.5-inch retina screen, much like the 4S, but not
+
+as big as the iPhone 5 - a few more pennies saved with that compromise! It's
+
+also likely to have a handy 5MP camera, again like the iPhone 4!"
+
+
+
+Finally, the blog predicts the iPlasticphone will go on sale Oct. 15...for $300.
+
+
+
+Essentially, you'd be paying $300 to get an iPhone 3GS exterior, released in
+
+2009, with an iPhone 4S interior, released in 2011. The main differences would
+
+be the 4S processor shifted to a 32 nm process from 45 nm, to boost performance
+
+and draw less power, and the Lightning docking port, though there could be a
+
+bunch of other changes internally, if Apple took this direction. There's no
+
+indication in the blogpost whether this phone would support LTE.
+
+
+
+In the U.S., the iPhone 4S is currently offered with a two-year contract for
+
+$99, though it's priced at $549 with no contract; the older iPhone 4 is still
+
+$450 with no contract, but $0 with a contract. It's difficult to know whether
+
+shifting to plastic from milled aluminum for the case would actually slash the
+
+retail price of the iPlasticphone by $350.
+
+
+
+There's been speculation that Apple is or should be creating the cheaper phone
+
+to compete with the flood of cheap Android phones in markets like India and
+
+China. How would consumers view an iPhone that offers what is, in large part, a
+
+2-year-old hardware platform? Would the 32 nm A5 fully support the next OS
+
+version, iOS 7, or would users be unable to make use of features like Apple Maps
+
+Flyover?  Would Apple decline to support LTE in order to save costs?
+
+
+
+None of those sound like attractive tradeoffs.
+
+
+
+iPhone 6 could still be a larger-screened phone no matter what Tim Cook says The
+
+following three statements are all from the same blogpost, by GadgetInsider's
+
+Adam Majewsk, the order of their appearance" -1 "Apple Still May Release
+
+Large-Screened iPhone 6 in the Future" (the headline) -2 "Apple CEO Tim Cook was
+
+coy with regards to the possibility of an iPhone 6 with a 4.5-inch screen or
+
+larger..."
+
+
+
+-3 "Cook simply said that Apple isn't ready at this point to release such a
+
+device."
+
+
+
+If you read them in a different order - 2, 3, 1 - you get a clearer idea of how
+
+completely unclear the blogpost is.
+
+
+
+In fact, Cook did not say what Majewsk says he said. Cook's actual words were:
+
+"My view continues to be that iPhone 5 has the absolute best display in the
+
+industry....Our competitors have made some significant trade-offs in many of
+
+these areas in order to ship a larger display. We would not ship a
+
+larger-display iPhone while these tradeoffs exist." [for complete details see
+
+"Apple's Cook resets 3 popular, and wrong, Apple rumors"]  Majewsk eventually
+
+paraphrases Cook's comment, but he can't just leave it there. "Despite Cook
+
+gravitating towards the possibility of a foreseeable future without a
+
+large-screened 'iPhone 6', all is not lost for such a device...," Majewsk
+
+concludes. "Who knows, maybe that could happen as early as next year, but as far
+
+as this year is concerned, chances look slim of Apple releasing a jumbo-sized
+
+iPhone to compete with other big names and their similarly big devices."
+
+
+
+So depending on when you think "iPhone 6" will be announced, it could have a big
+
+screen. Just not in the foreseeable future.
+
+
+
+So it would be in the unforeseeable future. Which Majewsk has foreseen. Like he
+
+says, who knows?
+
+
+
+"iPhone 6 May Let Your Friends Know You're On The Can!"
+
+
+
+Our subhead for this section is taken directly from the headline to a blogpost
+
+by Rick Berke, at Auto-oMobile. It almost speaks for itself.
+
+
+
+Berke sort of eases into the topic, from somewhere far in left field, beginning
+
+his post thusly: "when it comes to leaks and rumours Apple are heading the list.
+
+Now details have come out about different patents involving anti-crash
+
+mechanisms which would make the ultimate touchscreen."
+
+
+
+But that's the last time he talks about anti-crash mechanisms and the ultimate
+
+touchscreen. Instead he abruptly changes gears to focus on Apple's March 2013
+
+acquisition of the "indoor GPS company WiFiSlam....so that they could improve
+
+their [Apple's] failed map app."
+
+
+
+Berke notes that WiFiSlam's website described its app as being able to "Allow
+
+your smartphone to pinpoint its location (and the location of your friends) in
+
+real-time to 2.5m accuracy using only ambient WiFi signals that are already
+
+present in buildings."
+
+
+
+Two-and-half meters is just over eight feet. That's the radius of the circle
+
+around the radio, yielding an area of about 50 square feet. A radio's location
+
+falls into an area of about 50 square feet.
+
+
+
+Technically, WiFiSlam is not a GPS company, because it doesn't primarily make
+
+use of signals from satellites in geostationary orbits. Indoors, or even in
+
+dense outdoor urban areas, GPS signals can be hard to acquire or hold. WiFiSlam
+
+uses data linked to the known locations of thousands of stationary Wi-Fi access
+
+points, sometimes supplemented with GPS data, to create a real-time awareness of
+
+individual mobile devices with always-on Wi-Fi radios. By linking real-time
+
+location with user identity, WiFiSlam creates a platform for software developers
+
+to create personalized data services and actions tailored to where you are.
+
+
+
+Berke could have gone on to explain or at least talk about the algorithms used
+
+to plot the indoor location, or the location data APIs and frameworks, or other
+
+technical matters. But instead he cuts right to the chase with a practical
+
+example.
+
+
+
+"This means that the app could help your friends to keep track of what you were
+
+doing down to the last couple of meters," Berke writes. In case you don't
+
+understand that, he explains further. "This means that they would know what part
+
+of a café you were in, even this happened to be the bathroom."
+
+
+
+"If Apple were to have indoor GPS tracking on the iPhone 6, there could be some
+
+concerns over privacy," he warns darkly. "Users would have to choose whether
+
+they want their friends to know they are in the bathroom and how long they have
+
+been in there."
+
+
+
+This seems a bit obsessive, even by the standards of the iOSphere.
+
+
+
+iPhone 6 camera will have advanced color correction and balance The roots of
+
+this achievement are found within four Apple patent applications - not awards -
+
+which the US Patent and Trademark Office published this past week, as covered by
+
+PatentlyApple.
+
+
+
+Reading this lengthy post one forms the general idea that Apple wants to improve
+
+some aspects of image capture and processing on iOS devices. But how the new
+
+inventions will do that remains a mystery for those of us lacking degrees in the
+
+relevant scientific disciplines.
+
+
+
+Take for example Patent Number Two, "Alleviating Dominant Color Failure in
+
+Automatic White Balance Using Histogram Trimming."
+
+
+
+Dominant color failure has not been, to date, the subject of outraged online
+
+forum postings, of petitions, of rantings that go viral on YouTube, or of U.S.
+
+Senate committee investigations.
+
+
+
+So what does it mean? We'll let PatentlyApple explain: "More specifically,
+
+Apple's invention relates to methods, devices and computer readable media for
+
+implementing novel dominant color alleviation techniques for color balancing are
+
+described. The techniques take advantage of unique properties of 2D image data
+
+histograms accumulated in a chromaticity space, along with other factors such as
+
+estimated scene lux and knowledge of plausible scene illuminant white point
+
+values within the chromaticity space. The accumulated 2D image data histograms
+
+may be refined and "trimmed," such that the resultant image data passed to an
+
+auto white balance solution has much less influence from the dominant colors in
+
+the image, even those that overlap the plausible scene illuminant color region.
+
+The described techniques provide for white point estimates that are much less
+
+prone to dominant color failures."
+
+
+
+We still don't know what it actually means, beyond the white point estimates
+
+being much less prone to dominant color failures.
+
+
+
+Once this breakthrough filtered out into the iOSphere, plenty of bloggers were
+
+willing to draw even larger conclusions while knowing even less.
+
+KnowYourMobile's Clare Hopping instantly realized that PatentlyApple had
+
+experienced Dominant Rumor Failure by not drawing the obvious conclusion.
+
+
+
+"The iPhone 6's camera may be the most advanced white balance yet, colour
+
+correction and colour balance," she wrote, with almost unbalanced enthusiasm.
+
+"More iPhone 6 patents have been leaked, relating to the camera of the device.
+
+Patently Apple revealed the iPhone 6 would include a much more advanced camera
+
+than its predecessor devices."
+
+
+
+But the patent Website doesn't mention "iPhone 6" or "iPhone 5S," no doubt
+
+because the patent applications apparently don't mention them either.
+
+
+
+iPhone 5S nano-SIM tray revealed..and it is unchanged from the one in the iPhone
+
+5 Based on new photos posted by Japanese parts shop Moumantai, MacRumors' Erick
+
+Slivka notes astutely that "what is said to be" the nano-SIM tray of the iPhone
+
+5S is "reportedly identical in shape to those used on the iPhone 5."
+
+
+
+No news is good news, apparently.
+
+
+
+Slivka slips in a caveat.  Actually, two caveats. The first is that the photos
+
+show the Moumantai iPhone 5S SIM trays in gray and bronze-gold colors, although
+
+it is possible that the photos may show somewhat inaccurate colors given
+
+expectations of slate and silver as seen on the iPhone 5.
+
+
+
+Secondly, "It is, however, difficult to place too much stock in these SIM tray
+
+photos, given that they are identical to the current design and that third-party
+
+versions in various colors are prevalent."
+
+
+
+So no news is, actually, bad news.
+
+
+
+John Cox covers wireless networking and mobile computing for Network
+
+World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+
+
+
+
+
+LOAD-DATE: April 29, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2013 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

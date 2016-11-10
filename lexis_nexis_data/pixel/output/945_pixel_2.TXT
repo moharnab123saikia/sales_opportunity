@@ -1,0 +1,182 @@
+                              945 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                  Guardian.com
+
+
+
+                              May 15, 2009 Friday
+
+
+
+@Thinking Digital: Hans Rosling shows how to visualise world change
+
+
+
+LENGTH: 611 words
+
+
+
+ABSTRACT
+
+
+
+Doctor and researcher discusses how he developed visualisations to illustrate
+
+data on the developing world
+
+
+
+FULL TEXT
+
+
+
+At a conference called Thinking Digital, the presentation of doctor and
+
+researcher Hans Rosling might be called Seeing Digital. If there ever was a
+
+statistics and visualisation rock star, Hans Rosling would be it. While
+
+teaching, he realised that his students had a 40-year-old world view. They have
+
+a view of the developing world that didn't take into the account the level of
+
+development those countries had achieved in the last 40 years. "They had a
+
+Tintin-based view of the world," he said.
+
+
+
+Working with his son and other members of his family, he developed
+
+visualisations that showed how China, Brazil and India had caught up with the
+
+developed world over the last 40 years based in looking at fertility rates and
+
+life expectancy. But this outdated view of the world wasn't just among his
+
+students, the news media had never communicated these changes, he said.
+
+
+
+As he looked at the data and the best way to represent it, he saw how animations
+
+could help explain these changes, showing how health and economic conditions had
+
+changed over time. Using Flash, they were able to clearly show these trends in
+
+powerful ways and established the  to support their work.
+
+
+
+Moving on from health data, he also showed how interactive graphics could drill
+
+down from comparisons between regions in the world to countries in those
+
+regions. They even were able to dynamically drill down to variations on a
+
+country-basis, showing variations in health between the richest and poorest 20%
+
+of populations in countries like Brazil and Namibia.
+
+
+
+To develop these animations, they used an iterative process, improving the
+
+animations step-by-stop. They used game principles, putting their hours of video
+
+gaming to good use, he joked. Usually in developing statistical visualisations,
+
+you have the content or stat geeks and the designers, and it's a difficult
+
+balance to be struck. They decided instead of making beautiful icons that:
+
+
+
+...no pixel would be there just for beauty. Every pixel had to carry
+
+information.
+
+
+
+Challenging governments over data
+
+
+
+The biggest problem that they ran into during developing these statistical
+
+visualisations was getting the data. He called on governments around the world:
+
+
+
+Statistics are paid by for the taxpayers, compiled by people paid for taxpayers.
+
+That data should be allowed free on the net for innovators like you to use.
+
+
+
+The Gapminder Foundation have now sold some of its software to Google but have
+
+retained a free licence and the ability to sub-licence the software. Hans's son
+
+and the Swedish staff have now moved to Google. Hans said some have questioned
+
+the decision to sell the source code to Google, but he said he had wanted to
+
+develop a service not a product. Their main goal was to push for governments to
+
+liberate data so that innovators could use that data to develop services. He
+
+highlighted how  in the US beginning with unemployment data.
+
+
+
+He showed how unemployment in California compared to US unemployment overall,
+
+and he was even able to show unemployment in Alpine County. The data showed huge
+
+seasonal spikes. Why the wide variation? It's a ski resort.
+
+
+
+He was asked whether governments should create a single portal for data like
+
+Data.gov in the US or leave it to individual agencies. He replied:
+
+
+
+The government should take all statistics - labour, financial, education and
+
+health in one unified block - and make it downloadable every Friday afternoon
+
+with their watermark embedded. Allow the software industry to innovate.
+
+
+
+LOAD-DATE: May 15, 2009
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                       Copyright 2009 Guardian Unlimited
+
+                              All Rights Reserved
+
+
+
+
+

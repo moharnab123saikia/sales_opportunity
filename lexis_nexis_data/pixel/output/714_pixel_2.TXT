@@ -1,0 +1,166 @@
+                              714 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                  The Guardian
+
+
+
+                      October 30, 2015 Friday 12:54 PM GMT
+
+
+
+Google denies that it will fold Chrome OS into Android;
+
+Chrome OS and Android head says company is committed to the browser-based
+
+operating system despite greater integration with smartphone sofware
+
+
+
+BYLINE: Samuel Gibbs
+
+
+
+SECTION: TECHNOLOGY
+
+
+
+LENGTH: 375 words
+
+
+
+
+
+Google has denied the veracity of a report that states the company will fold its
+
+Chrome OS for laptops and desktop computers into its Android mobile operating.
+
+
+
+The Wall Street Journal reported that Google plans to merge the two operating
+
+systems into one single system in 2017, used across smartphones, tablets,
+
+laptops and computers. A later report suggested that Google will make Android
+
+available for computers.
+
+
+
+Google's smartphones and tablets run Android, while its Chromebooks run Chrome
+
+OS, a cut-down version of Linux that runs the company's Chrome browser relying
+
+on web apps and a few select Android apps.
+
+
+
+Hiroshi Lockheimer, head of Android, Chrome OS and Chromecast at Google said :
+
+"There's a ton of momentum for Chromebooks and we are very committed to Chrome
+
+OS. I just bought two for my kids for schoolwork."
+
+
+
+
+
+     ·    Google Chromebook Pixel review: beautiful, powerful - but still just
+
+          Chrome
+
+
+
+
+
+The company has made moves to make the two operating systems more integrated,
+
+providing more desktop Chrome features for the Android version of Google's
+
+Chrome browser, while adding features such as Google Now and support for a
+
+select number of Android apps on Chrome OS.
+
+
+
+Google's Chromecast streaming media adapters also run a version of Android,
+
+further blurring the lines between Chrome and Android.
+
+
+
+Both systems are based on Linux. It would make sense as the basal level to allow
+
+both systems to share one underlying codebase. It is likely that Google could
+
+create a Chrome OS experience on top of an Android base.
+
+
+
+Many have speculated for years that Chrome OS and Android would merge. Google's
+
+launch of an Android tablet, the Pixel C, which has a heavy focus on
+
+productivity with a keyboard accessory that turns it into a laptop analogue also
+
+saw speculation that Google would phase out Chrome OS.
+
+
+
+The Chrome OS operating system has found success in schools running on low-cost
+
+but capable laptops for which its apparent immunity to malware and simple setup
+
+and management are suited.
+
+
+
+For now, Google says that it is committed to Chrome OS and it is likely Android
+
+and Chrome OS will co-exist with tighter integration between the two for the
+
+foreseeable future.
+
+
+
+
+
+     ·    Google Android 6.0 Marshmallow review: more polished, greater control
+
+          and longer battery life
+
+
+
+
+
+LOAD-DATE: October 30, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: WEBGNS
+
+
+
+
+
+  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
+
+                              All Rights Reserved
+
+
+
+
+

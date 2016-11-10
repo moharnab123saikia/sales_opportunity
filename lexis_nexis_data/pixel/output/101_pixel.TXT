@@ -1,0 +1,320 @@
+                              101 of 997 DOCUMENTS
+
+
+
+
+
+                       San Jose Mercury News (California)
+
+
+
+                            February 22, 2013 Friday
+
+
+
+Google's Chromebook Pixel: A high-end, high-priced touchscreen laptop
+
+
+
+BYLINE: By Brandon Bailey bbailey@mercurynews.com
+
+
+
+SECTION: BREAKING; Technology; Personal Technology; News; Business
+
+
+
+LENGTH: 924 words
+
+
+
+
+
+SETTING THE RECORD STRAIGHT (publ. 2/23/2013, pg. 2A)
+
+An article and fact box incorrectly reported the price for the Verizon
+
+LTE-enabled model of Google's new Chromebook Pixel laptop. The correct price is
+
+$1,449.
+
+
+
+SAN FRANCISCO -- Betting that computer users are increasingly "committed to
+
+living in the cloud,"GoogleGOOG ) on Thursday added to the line of laptops
+
+running its Chrome operating system by introducing a new high-end, high-priced
+
+notebook computer with touch-screen capability.
+
+
+
+The new Chromebook Pixel laptop has an ultrahigh-resolution screen that's
+
+intended to outshineApple'sAAPL ) vaunted "Retina" screen. And unlike earlier
+
+Chromebook models that Google sells for $249 as second or third computers for
+
+workers, students and home users, the new machine is aimed at "power users" who
+
+might fork over $1,299 for a Wi-Fi model or $1,449 for a version that will
+
+connect to Verizon's high-speed LTE network.
+
+
+
+That's a price many people would expect to pay for a MacBook Air or a premium
+
+Windows-based "Ultrabook," which come with more built-in storage and run widely
+
+used applications from Apple and Microsoft. One industry expert predicted the
+
+Pixel will have difficulty competing against that field.
+
+
+
+"Even with beautiful hardware and a great screen, you're basically competing
+
+with very high-end, premium devices that at the end of the day can do an awful
+
+lot more things that consumers want to do," said Michael Gartenberg, a personal
+
+technology analyst at the Gartner research group. "At that price point, I don't
+
+think we're going to see a whole lot sold."
+
+
+
+But another analyst, Richard Shim of NPD DisplaySearch, said the Pixel
+
+capitalizes on trends that favor sleeker design, touch capability and other
+
+premium features. As consumers become accustomed to using smartphones and
+
+tablets alongside traditional PCs, he added, "that's providing an opportunity
+
+for nontraditional brands" including Google's Chromebooks.
+
+
+
+Chromebooks have relatively small amounts of built-in flash memory -- 32 or 64
+
+gigabytes -- and no hard drive, because the Chrome operating system was designed
+
+to use files and software applications that are stored "in the cloud," on
+
+servers reached via the Internet. With its new Pixel laptop, Google is offering
+
+a staggering 1,000 gigabytes of free online storage for three years.
+
+
+
+"There's a set of users who spend money to buy full-fledged laptops, but this is
+
+targeted to a segment who have committed to living in the cloud," said Sundar
+
+Pichai, Google's senior vice president for Chrome.
+
+
+
+Developed and built by Google, using a contract manufacturer in Taiwan, the new
+
+laptop represents a further step by the Internet search giant into the business
+
+of making its own hardware devices. But the Chrome software is designed to
+
+encourage people to use Google's Web-based services, which are often integrated
+
+with its search and advertising business.
+
+
+
+"I think it's less that they want to be in the hardware business and more that
+
+they want to guide the market toward new usage models" that rely on Web-based
+
+services, Shim added.
+
+
+
+Pichai contended Thursday that many businesses and consumers are already
+
+embracing the cloud model. "Many companies have committed to using Google Apps,"
+
+he said, referring to Google's suite of Web-based email, word-processing,
+
+spreadsheets and other programs.
+
+
+
+Consumers are also using more Web-based apps, he added, joking that, "my mom and
+
+dad live in the cloud. They just don't know what the cloud is."
+
+
+
+Google designed the Pixel for users who want premium features, including a full
+
+keyboard, an extra-tall touch screen and a high-speedIntelINTC ) processor,
+
+Pichai told reporters at a launch event. While other companies sell touch-screen
+
+laptops, he said none match the clarity of the new Chromebook's 239 pixels per
+
+inch.
+
+
+
+"I'm pretty sure every laptop will have touch (capability) in the future, so we
+
+want to push that forward," he said.
+
+
+
+While critics of earlier Chromebooks have complained about limited apps and
+
+inability to use popular software made by Microsoft and Apple, Pichai said the
+
+Pixel has new software that makes it easy for Chrome users to edit documents and
+
+spreadsheets that were created with Microsoft programs.
+
+
+
+Google is developing more programs and working with independent developers to
+
+create more apps for the Chrome touch screen, he added.
+
+
+
+By moving into touch computing, Chrome is potentially competing with Google's
+
+other operating system, Android, which powers a number of smartphones and
+
+tablets. "The lines do blur," Pichai acknowledged, but he said the two systems
+
+are compatible, so files and applications look the same on a Chromebook as they
+
+do on an Android smartphone.
+
+
+
+"This helps us make apps look great across multiple screens," he said, adding
+
+that many users won't know or care which software they're using.
+
+
+
+Google is selling the newest Chromebook through its online store and on Best
+
+Buy's website. Pichai did not answer directly when asked about rumors that
+
+Google is planning to open its own retail stores.
+
+
+
+Contact Brandon Bailey at 408-920-5022; follow him at Twitter.com/BrandonBailey.
+
+
+
+chromebook pixel specs
+
+
+
+Screen: 12.85-inch touch-enabled, with 3:2 aspect ratio and pixel density of 239
+
+ppi (2560 x 1700).
+
+Storage: 32 or 64 GB solid state drive; one TB of Google Drive online storage
+
+free for three years.
+
+Components: Intel Core i5 processor (1.8Ghz); 4 GB RAM.
+
+Battery life: up to 5 hours active use.
+
+Weight: 3.35 pounds.
+
+Other features include full keyboard and touchpad; HD webcam.
+
+Price: $1,299 for Wi-Fi model; $1,449 for Verizon LTE version.
+
+Source: Google
+
+
+
+LOAD-DATE: February 26, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+GRAPHIC: People test the the Google Chromebook Pixel laptop after an
+
+announcement in San Francisco, Thursday, Feb. 21, 2013. Google is adding a new
+
+touch to its line of Chrome laptops in an attempt to outshine personal computers
+
+running on software made by rivals Microsoft and Apple. (AP Photo/Jeff Chiu)
+
+A man uses the Google Chromebook Pixel laptop computer after an announcement in
+
+San Francisco, Thursday, Feb. 21, 2013. Google is adding a new touch to its line
+
+of Chrome laptops in an attempt to outshine personal computers running on
+
+software made by rivals Microsoft and Apple. (AP Photo/Jeff Chiu)
+
+Sundar Pichai, Google's senior vice president of Chrome and apps, discusses the
+
+Google Chromebook Pixel laptop computer at an announcement in San Francisco,
+
+Thursday, Feb. 21, 2013. Google is adding a new touch to its line of Chrome
+
+laptops in an attempt to outshine personal computers running on software made by
+
+rivals Microsoft and Apple. (AP Photo/Jeff Chiu)
+
+A Chromebook Pixel is on display on February 21, 2013 as Google unveiled in San
+
+Francisco the touch-screen notebook computer designed for high-end users. Google
+
+said its Chromebook Pixel computers blending tablet and laptop technology,
+
+boasting heavyweight Intel chips and screens tailored for rich graphics, were
+
+released in the United States and Britain. AFP PHOTO/GLENN CHAPMANGLENN
+
+CHAPMAN/AFP/Getty Images
+
+Google product manager Kan Li unveils the company's new Chromebook Pixel on
+
+February 21, 2013 in San Francisco . Google said its Chromebook Pixel computers,
+
+a touch-screen notebook designed for high-end users, blends tablet and laptop
+
+technology, boasting heavyweight Intel chips and screens tailored for rich
+
+graphics. AFP PHOTO/GLENN CHAPMANGLENN CHAPMAN/AFP/Getty Images
+
+The Chromebook Pixel laptop from Google. (Google photo)
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                      Copyright 2013 San Jose Mercury News
+
+                              All Rights Reserved
+
+
+
+
+

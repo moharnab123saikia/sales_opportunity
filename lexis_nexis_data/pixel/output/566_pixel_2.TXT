@@ -1,0 +1,102 @@
+                              566 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                           February 18, 2014 Tuesday
+
+
+
+US Patent granted to Google Inc (California) on February 18 titled as "Tree
+
+detection form aerial imagery"
+
+
+
+LENGTH: 196  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,655,070, on
+
+February 18, 2014, to Google Inc (California), titled as "Tree detection form
+
+aerial imagery"
+
+
+
+Inventors:  Yang; Lin (Birmingham, AL), Wu; Xiaqing (San Mateo, CA), Praun; Emil
+
+(Union City, CA)
+
+Assignee:  Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Methods and systems for detecting trees in aerial imagery are provided. A
+
+method for detecting trees in aerial imagery may include training a pixel-level
+
+classifier to assign a tree or non-tree label to each pixel in an aerial image.
+
+The method may further include segmenting tree and non-tree regions of the
+
+labeled pixels. The method may also include locating individual tree crowns in
+
+the segmented tree regions using one or more tree templates. A system for
+
+detecting trees in aerial imagery may include a trainer, a segmenter and a tree
+
+locator."
+
+
+
+The patent was filed on July 15, 2010 Application no. 12/836,849
+
+
+
+For more information please visit: http://www.uspto.gov/. In case of any query
+
+regarding this article or other content needs please contact:
+
+editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: February 21, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

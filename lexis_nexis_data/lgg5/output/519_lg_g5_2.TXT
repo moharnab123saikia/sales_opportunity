@@ -1,0 +1,108 @@
+                              519 of 820 DOCUMENTS
+
+
+
+
+
+                            The Times of India (TOI)
+
+
+
+                            August 20, 2016 Saturday
+
+
+
+Carrier reveals Android 7.0 Nougat OS rollout dates
+
+
+
+SECTION: TECH NEWS
+
+
+
+LENGTH: 319 words
+
+
+
+
+
+NEW DELHI: This year, Google seems to be running slightly ahead of schedule with
+
+the rollout of its Android 7.0 Nougat preview. And although the search giant has
+
+not yet mentioned when it will be rolling out the final consumer version to
+
+users, a Canadian carrier seems to have spilled the beans regarding the same.
+
+According to Canadian carrier Telus, the Nexus 5X and Nexus 6P will receive
+
+Android 7.0 Nougat starting August 22. The news comes from the carrier's
+
+software update list.
+
+
+
+The update is likely to roll out over-the-air, meaning that unlocked and
+
+carrier-free Nexus devices would get the final Android 7.0 updates slightly
+
+earlier.Recently it was reported that the upcoming OS version of Android will
+
+include enhanced Data Saver option that will enable users to set up warning and
+
+halt limits, making it easy to manage mobile data allowances. It will also let
+
+users provide unrestricted data access to certain apps. If that's not
+
+intelligent enough, Android Nougat will make Data Saver smarter.It has been
+
+mentioned that the Data Saver option in Android 7.0 Nougat will enable
+
+unrestricted network access to apps, for users with unlimited data plans. That
+
+said, it will restrain internet access to the apps for users with limited data
+
+plans. These changes were indicated in the ConnectivityManager API in Android
+
+Nougat's SDK.The new data saving features will work even if users are travelling
+
+abroad and buy prepaid local sim cards. The amount of data used by background
+
+processes will also be managed by the improved Data Saver option.Slowly,
+
+smartphone manufacturers have started rolling out beta programmes for Android N.
+
+Recently, LG started the rollout of the Android N preview programme for users of
+
+its G5 smartphone users. The programme is currently available only in Korea on
+
+the LG U+ network, and will enable users to experience Android 7.0 Nougat early.
+
+
+
+For Reprint Rights: timescontent.com
+
+
+
+LOAD-DATE: August 19, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2016 Bennett Coleman & Co. Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

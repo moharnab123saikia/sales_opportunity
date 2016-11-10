@@ -1,0 +1,108 @@
+                              771 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                              March 3, 2014 Monday
+
+
+
+USPTO Published Patent application of GOOGLE INC titled as "Transform-Domain
+
+Intra Prediction"
+
+
+
+LENGTH: 226  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has received an application no.
+
+20140044166, published on February 13, 2014, by GOOGLE INC, titled as
+
+"Transform-Domain Intra Prediction" for the registration of patent.
+
+
+
+Inventors:  Xu; Yaowu; (Sunnyvale, CA) ; Gu; Qunshan; (Hayward, CA)
+
+Assignee:  GOOGLE INC.
+
+Mountain View
+
+CA
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office: "A
+
+method for encoding a frame having a plurality of blocks in a video stream using
+
+transform-domain intra prediction is disclosed. The method includes generating,
+
+using a two-dimensional transform, a set of transform coefficients for a current
+
+block; generating, using a one-dimensional transform, a set of transform
+
+coefficients for previously coded pixel values in the frame; determining, using
+
+the set of transform coefficients for the previously coded pixel values, a set
+
+of transform coefficients for a prediction block; determining a residual based
+
+on the difference between the set of transform coefficients for the current
+
+block and the set of coefficients for the prediction block; and encoding the
+
+residual."
+
+
+
+The Patent was filed on August 10, 2012 under application No. 20140044166
+
+
+
+For more information please visit: http://www.uspto.gov/. In case of any query
+
+regarding this article or other content needs please contact:
+
+editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: March 4, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

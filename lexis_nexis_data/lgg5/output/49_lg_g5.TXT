@@ -1,0 +1,418 @@
+                              49 of 820 DOCUMENTS
+
+
+
+
+
+
+
+                                  t-break Tech
+
+
+
+                            February 9, 2016 Tuesday
+
+
+
+LG G5: 6 things we are hoping to see that will change the stance of flagship
+
+smartphones
+
+
+
+LENGTH: 1627  words
+
+
+
+
+
+With LG G5 expected to be announced at MWC 2016, let us take a look at the
+
+features that are expected to be present inside the 'soon to be released'
+
+flagship
+
+
+
+By Mohammad Omer -
+
+
+
+MWC 2016 is where smartphone heavy hitters like LG and Samsung will appear to
+
+showcase their flagship products. During this event, which stretches for less
+
+than a week, we are expecting that LG G5, the South Korean smartphone maker's
+
+upcoming flagship is going to be announced, and in the process, will sport
+
+several new features that will put Samsung and other manufacturers at the tip of
+
+their toes. Here are 6 things that we are hoping to see from the upcoming
+
+device.
+
+
+
+*Remember, in this topic, we will be shedding a small amount of light on LG G5's
+
+hardware specifications because with a new generation smartphone, you will
+
+naturally get better internals. Instead, we will be focusing on the software and
+
+other features, like battery, since those contribute extensively to the overall
+
+user experience.*
+
+
+
+You guys most likely saw this one coming, but seeing as how G4 and V10 sported
+
+the same capacity, LG G5 will likely raise the bar with a higher capacity. Our
+
+belief is that the capacity is going to be somewhere between 3,500 and 3,700mAh.
+
+Since transitioning from nickel based batteries to lithium ion, there has not
+
+been much change in improving battery life, although we have seen several
+
+advancements in this particular category, we have heard nothing that can
+
+actually be used in commercial products. It is almost as if smartphone
+
+manufacturers themselves do not want such advancements to be present in their
+
+products otherwise their devices will stop being sold (in an already saturated
+
+and highly competitive market).
+
+
+
+Chip manufacturers have managed to improve battery life through the production
+
+of smaller lithographic processed SoCs and other components, but it looks like
+
+battery life improvement is the least important component, at least in their
+
+books. Looking at these facts, it appears that LG G5 will not have an improved
+
+battery life in terms of the material used, but we are expecting a larger
+
+capacity as compared to the smartphone's predecessors. In light of the flagship
+
+smartphones that feature non-removable batteries to provide the best possible
+
+build quality, LG is one manufacturer which not only provides a removable
+
+battery, but an expandable storage slot too, which is a terrific combination.
+
+
+
+With Samsung experimenting with its curved edge display, we believe that LG G5
+
+will have the same secondary display that was present in the company's V10. This
+
+was a new concept introduced by a manufacturer and while we have seen
+
+dual-display smartphones (those ones include one side of the smartphone running
+
+Android, while the other one is running an E-ink display), having a secondary
+
+display actually adds more depth to your experience. V10 featured a 2.1 inch
+
+display featuring a resolution of 160 x 1040 pixels. We are glad that V10 went
+
+with this approach, because a curved edge display would mean that they would
+
+have been slapped with a lawsuit from its South Korean rival Samsung and the
+
+thickness from one side of the handset would have shrunk, making it quite
+
+difficult to grip the device unless of course you invested in a custom designed
+
+after-market case.
+
+
+
+Since this approach is relatively new, it will obviously take a while before app
+
+developers start taking advantage of this secondary display. However, the fact
+
+that this display has an 'always on; mode, LG V10 made it extremely easy for
+
+users to get access to a myriad number of shortcuts ranging from settings, and
+
+other applications. This made things extremely flexible and rather than
+
+repeating three-four steps just to reach an app, LG made a relatively simple way
+
+of accessing a multitude of things. With the secondary display, users will be
+
+able to view what kind of notifications and apps should be present so that they
+
+can immediately be informed of their reminders for the day, or any other event
+
+that is expected to take place at that time.
+
+
+
+Another thing that we liked about this display is that it is placed
+
+horizontally, so you never have to tilt your phone in order to check out the
+
+notification (much like what you had to do with Samsung's edge series of
+
+smartphones). However, if there was one change that we would like to make
+
+regarding the material used for the display, it would have to be to start using
+
+Super AMOLED, which not only looks good, but conserves battery life too. Super
+
+AMOLED displays are expensive, so expect an immediate price increase if LG does
+
+manage to use this material.
+
+
+
+The strange thing about V10 was that it happened to be one of the most
+
+underrated smartphones of 2015. However, we have to say that LG incorporated
+
+some amazing camera tools inside its second flagship. Both camera modes, which
+
+includes still image capturing and video recording possessed their own custom
+
+controls, giving smartphone camera enthusiasts the best possible treat that they
+
+could ask for (the kind that you see in DSLR cameras) in tweaking out their
+
+images and videos to produce the best possible results. LG has always given
+
+smartphone users their fair share when it comes to the camera sensor and with
+
+its G5, we should expect even more controls to be added. Given below is what we
+
+believe should be added to the camera software:
+
+
+
+We are certain that as future updates get released for the smartphone, it will
+
+result in an even better camera experience. As for the front camera sensor, we
+
+expect to see the same controls, along with the same two-lens incorporation that
+
+was present in V10.
+
+
+
+Now that we have sorted the software side of things, let us move onto something
+
+that we believe will make the smartphone better from a hardware perspective.
+
+
+
+Looking at how both G4 and V10 featured a 16MP rear sensor, we should expect
+
+that LG G5 is going to retain the same amount of megapixels, while improving the
+
+overall sensor. If you read through our Samsung Galaxy S7 specifications and
+
+feature round-up post, we mentioned that the company might reduce the number of
+
+megapixels from 16MP to 12.3MP and that is not a bad trade-off by any means.
+
+Less amount of megapixels actually means that more light will be able to enter
+
+the sensor per pixel, resulting in a champ of a smartphone camera in low and
+
+high-light conditions. Smartphone cameras have always suffered in low-light
+
+environments but with recent technological advancements, this suffering will be
+
+a thing of the past.
+
+
+
+Another variable which is responsible for light entering the sensor is the
+
+aperture. Smartphone cameras have fixed apertures and it appears that LG G5 is
+
+going to possess a 16MP rear camera sensor with an aperture of F/1.7. This is
+
+the same aperture value that is expected to be present inside Galaxy S7 and it
+
+is definitely going to be the first smartphone camera to have such a wide
+
+aperture. EIS (electronic image stabilization) and OIS (optical image
+
+stabilization) is both expected to be present inside G5, along with a laser
+
+autofocus that will have a lightning fast tracking ability in focusing on the
+
+subject that you intend on capturing.
+
+
+
+As for the front sensors, we could see the aperture widen up to F/2.0, but since
+
+your primary shooting will be carried out with the rear camera, there is not a
+
+whole lot of improvements that LG can cram inside those two sensors present at
+
+the front end.
+
+
+
+Lots of security experts and smartphone enthusiasts state that if you want to
+
+best possible security and experience, go for a Nexus. While that is true, other
+
+manufacturers have started to focus more on security and performance, but when
+
+they place their own UI on top of Android, it gives rise to several things; like
+
+bloatware, or in other words, the addition of unnecessary applications that chew
+
+up system resources and add up to the internal storage like there's no tomorrow.
+
+
+
+LG has improved its UI quite a bit, but if they tone down the amount of
+
+pre-installed applications present in its G5, as well as provide an option that
+
+will allow you to remove those apps without the need to root the smartphone, it
+
+will definitely be a welcome feature and perhaps increase its chances to sell
+
+well. We know that LG G5 is going to be running an updated version of Android
+
+Marshmallow, giving rise to better performance and features that were already a
+
+part of the operating system update. Let us see what kind of changes are going
+
+to be added to the software so we can update you accordingly.
+
+
+
+Since LG G5 will definitely feature Qualcomm's Snapdragons 820, it will have the
+
+following connectivity features included:
+
+
+
+We already debriefed on how the 802.11ad Wi-Fi is going to be revolutionary
+
+standard that is going to eclipse 802.11ac and we should also expect a Bluetooth
+
+4.2 chip to be a part of the hardware.
+
+
+
+During MWC 2016, when LG G5 will have its features showcased, a lot of the focus
+
+will be present on how the camera of the smartphone performs. We believe that if
+
+you are in the market and looking for a handset that will outshine the
+
+competition in every way possible, then we have complete that G5 will be able to
+
+do that without breaking a sweat. However, bear in mind that with so many
+
+features, it will obviously come with a very hefty price tag. For the unlocked
+
+model, you should keep around $800-$900 present in your wallet.
+
+
+
+Tell us what you believe will be present in the smartphone. We will wait for
+
+your comments.
+
+
+
+http://imgs.syndigate.info/232/814/54/145509546374.jpg
+
+
+
+
+
+
+
+http://imgs.syndigate.info/232/814/36/145509546387.jpg
+
+
+
+
+
+
+
+http://imgs.syndigate.info/232/814/88/145509546457.jpg
+
+
+
+
+
+
+
+http://imgs.syndigate.info/232/814/36/145509546537.jpg
+
+
+
+
+
+
+
+http://imgs.syndigate.info/232/814/80/145509546549.jpg
+
+
+
+
+
+
+
+http://imgs.syndigate.info/232/814/31/145509546611.jpg
+
+
+
+
+
+
+
+http://imgs.syndigate.info/232/814/43/145509546625.png
+
+
+
+
+
+
+
+LOAD-DATE: February 10, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+JOURNAL-CODE: 814
+
+
+
+
+
+                          Copyright 2016 TBREAK MEDIA
+
+                        Provided by Syndigate Media Inc.
+
+                              All Rights Reserved
+
+
+
+
+

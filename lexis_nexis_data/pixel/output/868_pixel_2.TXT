@@ -1,0 +1,192 @@
+                              868 of 997 DOCUMENTS
+
+
+
+
+
+                                 The Australian
+
+
+
+                             July 17, 2012 Tuesday
+
+                         1 - All-round Country Edition
+
+
+
+Google tablet features put the torch to Kindle Fire
+
+
+
+BYLINE: ARIK HESSELDAHL, HANDHELDS
+
+
+
+SECTION: FEATURES; Pg. 36
+
+
+
+LENGTH: 464  words
+
+
+
+
+
+GOOGLE'S Nexus 7 tablet is the same size and price as Amazon. com's Kindle Fire,
+
+but it costs a bit more to build.
+
+
+
+Researcher IHS iSuppli took apart the Nexus 7 to analyse its components and
+
+found the hardware cost $US151.75 ($149.20) for the low-end, 8GB model, a slim
+
+margin for the device's $US199 sale price.
+
+
+
+But the 16GB model, which sells for $US249, costs only $US7.50 more to build,
+
+for a total of $US159.25, the difference being the price of memory chips.
+
+
+
+Andrew Rassweiler, who leads the teardown team at IHS iSuppli, said Google would
+
+break even on the 8GB model but turn a tidy profit on the 16GB.
+
+
+
+``Like Apple, Google realises it can boost its profit by offering more memory at
+
+a stair-step price point,'' Mr Rassweiler said.
+
+
+
+All told, IHS iSuppli figures the Nexus 7 8GB version costs about $US18 more to
+
+make than the Kindle Fire, which only comes in one version with 8GB of memory.
+
+But that difference could change soon. Amazon is slated to debut a new Kindle
+
+Fire with a better, and probably more expensive, display.
+
+
+
+By comparison, Apple's least expensive version of the new iPad with 16GB of
+
+memory sells for $US499 and costs about $US316 to make, according to a previous
+
+IHS iSuppli estimate.
+
+
+
+The Nexus 7 is similar to the Kindle Fire tablet in many respects, but has a few
+
+more robust features.
+
+
+
+For one thing, it has a Tegra 3 processor from Nvidia as its main computing
+
+engine
+
+
+
+That is a four-core chip, meaning it has four main processing brains, two more
+
+than the Kindle Fire's Texas Instruments processor. TI, however, supplied two
+
+chips for the Nexus 7, one a power-manager and the other a low-voltage
+
+transmitter.
+
+
+
+The Nexus 7, manufactured by Asustek Computer for Google, also has a higher
+
+resolution display at 1280 pixel depth by 800 pixel width, versus 1024 by 600
+
+for the Kindle Fire.
+
+
+
+Mr Rassweiler said the display used a technology known as in-plane switching,
+
+and added $US38 to the hardware cost of the Nexus 7, versus $US35 for the
+
+display in the Kindle Fire.
+
+
+
+The Nexus 7 also has a camera, which the Kindle Fire lacks, that added $US2.50
+
+in cost.
+
+
+
+The Nexus 7 has a chip from NXP Semiconductors that supports near-field
+
+communications -- a close-range wireless technology that is intended for
+
+wireless commerce transactions.
+
+
+
+Broadcom supplied global positioning system receiver chips to support mapping
+
+functions.
+
+
+
+One other part that caught Mr Rassweiler's attention was a gyroscope and
+
+accelerometer from Invensense.
+
+
+
+It's common to see Invensense gyroscopes, but rare to see it combined in the
+
+same chip with the accelerometer.
+
+
+
+Both are used to measure position and movement of the device.
+
+
+
+The only other combined gyro-accelerometer seen before, Mr Rassweiler said, was
+
+in Samsung's Galaxy SIII smartphone, which was made by the European chipmaker
+
+STMicroelectronics.
+
+
+
+LOAD-DATE: July 16, 2012
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: AUS
+
+
+
+
+
+                   Copyright 2012 Nationwide News Pty Limited
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,2782 @@
+                               64 of 64 DOCUMENTS
+
+
+
+
+
+          SKYLINE SOFTWARE SYSTEMS, INC., Plaintiff, v. KEYHOLE, INC.
+
+                         and GOOGLE, INC., Defendants.
+
+
+
+                         CIVIL ACTION No. 04-11129-DPW
+
+
+
+                UNITED STATES DISTRICT COURT FOR THE DISTRICT OF
+
+                                 MASSACHUSETTS
+
+
+
+                421 F. Supp. 2d 371; 2006 U.S. Dist. LEXIS 12546
+
+
+
+
+
+                            March 24, 2006, Decided
+
+
+
+SUBSEQUENT HISTORY: Related proceeding at Skyline Software Sys. v. Keyhole,
+
+Inc., 2006 U.S. Dist. LEXIS 83603 (D. Mass., Nov. 16, 2006)
+
+
+
+CASE SUMMARY:
+
+
+
+
+
+PROCEDURAL POSTURE: Plaintiff corporation alleged infringement of a patent that
+
+described a method and apparatus for efficiently transferring information needed
+
+to display three-dimensional images by defendants, companies. Although the
+
+corporation moved for a preliminary injunction against the companies, before
+
+addressing the merits of that request, the court resolved the threshold dispute
+
+between the parties regarding the construction of various claim terms.
+
+
+
+OVERVIEW: Claim construction was a question of law to be determined by a judge.
+
+Courts were to give claim terms their ordinary and customary meaning. The
+
+ordinary and customary meaning of a claim was the meaning that the term would
+
+have to a person of ordinary skill in the art in question at the time of the
+
+invention. Because the most accurate construction was one that included the
+
+insights provided by the specification and the claims themselves, the court
+
+construed the term "data blocks" to mean a block or collection of data or
+
+digital information. The court construed the term "data block describing
+
+three-dimensional terrain" to mean a block or collection of data or digital
+
+information that represented or described a section of three-dimensional terrain
+
+at a particular resolution level and that included any additional data overlaid
+
+on the digital image of the terrain, such as altitude, labels or optional
+
+objects where the patent specifically disclaimed the idea that the data
+
+streaming methods only described the display of images of terrain, and specified
+
+that the data streaming methods could have been used to convey large databases
+
+of data which were to be displayed graphically.
+
+
+
+OUTCOME: The court resolved the threshold dispute between the parties regarding
+
+the construction of various claim terms in the patent.
+
+
+
+CORE TERMS: block, terrain, coordinate', renderer, memory, specification,
+
+processor, cache, preferably, invention, corresponding, patent, server, display,
+
+software, manager, hierarchical, hardware, dictionary, embodiment, database,
+
+remote, surface, pixel, viewpoint, user's, per unit, supplied, digital, stored
+
+
+
+
+
+                            LexisNexis(R) Headnotes
+
+
+
+
+
+Patent Law > Infringement Actions > General Overview
+
+Patent Law > Infringement Actions > Claim Interpretation > General Overview
+
+[HN1] The determination of infringement is a two-step process. First, the court
+
+construes the claims and, second, the court compares the properly construed
+
+claims to the accused device.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > General Overview
+
+[HN2] It is a bedrock principle of patent law that the claims of a patent define
+
+the invention to which the patentee is entitled the right to exclude.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > General Overview
+
+[HN3] Claim construction is a question of law to be determined by a judge,
+
+notwithstanding its evidentiary underpinnings. Courts are to give claim terms
+
+their ordinary and customary meaning. However, the ordinary and customary
+
+meaning of a claim is not the meaning understood by a layperson, but the meaning
+
+that the term would have to a person of ordinary skill in the art in question at
+
+the time of the invention. That understanding provides an objective baseline
+
+from which to begin claim interpretation.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > General Overview
+
+[HN4] For purposes of claim construction, the time of the invention is the
+
+effective filing date of the patent application.
+
+
+
+Patent Law > Claims & Specifications > General Overview
+
+Patent Law > Infringement Actions > Claim Interpretation > General Overview
+
+Patent Law > Infringement Actions > Claim Interpretation > Aids
+
+Patent Law > Infringement Actions > Prosecution History Estoppel > General
+
+Overview
+
+[HN5] In some cases, the ordinary meaning of claim language as understood by a
+
+person of skill in the art may be readily apparent even to lay judges, and claim
+
+construction in such cases involves little more than the application of the
+
+widely accepted meaning of commonly understood words. In such circumstances,
+
+general purpose dictionaries may be helpful. However, where the ordinary meaning
+
+of claim language as understood by a person of skill in the art is not readily
+
+apparent, the United States Court of Appeals for the Federal Circuit directs
+
+district courts to a hierarchy of sources to aid in claim construction. The
+
+intrinsic record, including the claim terms themselves, the remainder of the
+
+specification, and the prosecution history, provides the best guidance as to the
+
+meaning of the claims. But extrinsic evidence, such as dictionaries, expert
+
+testimony, and learned treatises, may also play a valuable role in claim
+
+construction. However, the court urges caution in their use.
+
+
+
+Patent Law > Claims & Specifications > General Overview
+
+Patent Law > Claims & Specifications > Description Requirement > General
+
+Overview
+
+Patent Law > Infringement Actions > Claim Interpretation > General Overview
+
+Patent Law > Infringement Actions > Claim Interpretation > Aids
+
+[HN6] Among the sources of intrinsic evidence, the United States Court of
+
+Appeals for the Federal Circuit places primary importance on the claims
+
+themselves and the specification. The context in which a term is used in the
+
+asserted claim and the use of the term in other claims can be highly
+
+instructive. The claims, of course, do not stand alone. They must be read in
+
+view of the specification, of which they are a part. Thus, the court has
+
+reaffirmed the long-standing principle that the specification is the single best
+
+guide to the meaning of a disputed term. In addition to its statutory role as a
+
+full and exact description of the claimed invention, the specification may
+
+reveal a patentee's distinctive definition of a term or a disavowal of claim
+
+scope.
+
+
+
+Patent Law > Claims & Specifications > General Overview
+
+Patent Law > Claims & Specifications > Description Requirement > General
+
+Overview
+
+Patent Law > Infringement Actions > Claim Interpretation > General Overview
+
+[HN7] In the claim construction context, the specification is such a valuable
+
+tool that it is entirely appropriate for a court, when conducting claim
+
+construction, to rely heavily on the written description for guidance as to the
+
+meaning of the claims. Nevertheless, the court has warned of the danger of
+
+reading limitations from the specification into the claim. The purpose of the
+
+specification is to enable one skilled in the art to make and use the invention.
+
+Specific embodiments of the invention described for teaching purposes should not
+
+be imported into the claim as a limitation. The distinction between proper claim
+
+construction and improper limitation turns on whether a person of skill in the
+
+art would understand the embodiments to define the outer limits of the claim
+
+term or merely to be exemplary in nature.
+
+
+
+Patent Law > Infringement Actions > Prosecution History Estoppel > General
+
+Overview
+
+[HN8] In construing a patent claim, a court may consult the prosecution history,
+
+which consists of the complete record of the proceedings before the Patent and
+
+Trademark Office (PTO) and includes the prior art cited during the examination
+
+of the patent, when construing a claim. Like the specification, the prosecution
+
+history can inform the meaning of the claim language by demonstrating how the
+
+inventor understood the invention and whether the inventor limited the invention
+
+in the course of prosecution, making the claim scope narrower than it would
+
+otherwise be. However, the prosecution history is not a final product; it
+
+represents an ongoing negotiation between the PTO and the applicant. As such, it
+
+often lacks the clarity of the specification and thus is less useful for claim
+
+construction purposes.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Aids
+
+[HN9] Although the United States Court of Appeals for the Federal Circuit has
+
+attached greater value to intrinsic evidence, it approved the use of extrinsic
+
+evidence in a limited fashion. Specifically, technical dictionaries are helpful
+
+to the extent that they assist a court to better understand the underlying
+
+technology and the way in which one of skill in the art might use the claim
+
+terms. Expert testimony is also valuable for providing background on the
+
+technology at issue, explaining how an invention works, or describing a
+
+distinctive use of a term in a particular field. However, neither dictionaries
+
+nor expert testimony, are reliable sources for claim interpretation for a
+
+variety of reasons. The court's greatest concern with extrinsic evidence,
+
+particularly dictionaries, is that it may lead judges to construe terms in an
+
+overbroad manner. The problem is that if the district court starts with the
+
+broad dictionary definition in every case and fails to fully appreciate how the
+
+specification implicitly limits that definition, the error will systematically
+
+cause the construction of the claim to be unduly expansive.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > General Overview
+
+Patent Law > Infringement Actions > Claim Interpretation > Aids
+
+[HN10] Because dictionaries provide a broad array of definitions, heavy reliance
+
+on the dictionary divorced from the intrinsic evidence risks transforming the
+
+meaning of the claim term to the artisan into the meaning of the term in the
+
+abstract. One line of cases in the United States Court of Appeals for the
+
+Federal Circuit has adopted the "dictionary down" approach, thereby reducing the
+
+role of the specification to a mere check on the dictionary meaning of a claim
+
+term. In contrast, in Phillips, the court articulated a "claims up" approach,
+
+instructing courts to focus at the outset on how the patentee used the claim
+
+term in the claims, specification, and prosecution history, rather than starting
+
+with a broad definition and whittling it down.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > General Overview
+
+Patent Law > Infringement Actions > Claim Interpretation > Aids
+
+Patent Law > Infringement Actions > Prosecution History Estoppel > General
+
+Overview
+
+[HN11] Ultimately, there is no magic formula for conducting claim construction
+
+when the ordinary meaning of the disputed terms as understood by a person of
+
+skill in the art is not readily apparent. The key lies in giving appropriate
+
+weight to each source in light of the statutes and policies that inform patent
+
+law. Accordingly, the claims and the specification are most significant,
+
+followed by prosecution history, and finally by extrinsic sources.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN12] The United States District Court for the District of Massachusetts
+
+construes the term "data block" to mean a block or collection of data or digital
+
+information, and construes the term "data block describing three-dimensional
+
+terrain" to mean a block or collection of data or digital information that
+
+represents or describes a section of three-dimensional terrain at a particular
+
+resolution level and that includes any additional data overlaid on the digital
+
+image of the terrain, such as altitude, labels or optional objects.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN13] The United States District Court for the District of Massachusetts
+
+construes the term "data blocks belonging to a hierarchical structure" to mean
+
+data blocks that are organized into multiple levels of resolution, whereby each
+
+level contains data blocks at the same resolution, and each successive level
+
+contains data blocks of a higher resolution than those in the preceding level.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN14] The United States District Court for the District of Massachusetts
+
+construes the term "first data block" to mean the first data block provided to
+
+the renderer from the local memory corresponding to the specified of
+
+coordinates.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN15] The United States District Court for the District of Massachusetts
+
+construes the term "terrain" to mean the surface features of an area of land, an
+
+object, or a material, including color, elevation, and existing objects or
+
+structures on the land, object or material.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN16] The United States District Court for the District of Massachusetts
+
+construes the term "coordinates in the terrain" to mean a set of numerical
+
+values that identifies a particular location in the terrain.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN17] The United States District Court for the District of Massachusetts
+
+construes the term "resolution level" to mean the level of detail of the data
+
+per unit area.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN18] The United States District Court for the District of Massachusetts
+
+construes the term "indication of respective resolution level" to mean the
+
+identification of the particular resolution level of the data required.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN19] The United States District Court for the District of Massachusetts
+
+construes the term "renderer" to mean software and/or hardware object that
+
+performs at least the following functions: (1) determining and providing to
+
+another object the required coordinates in the terrain along with a respective
+
+resolution level; (2) receiving the data blocks corresponding to the specified
+
+coordinates; and (3) using the received data blocks to display a
+
+three-dimensional image.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN20] The United States District Court for the District of Massachusetts
+
+construes the term "local memory" to mean memory easily accessible to the user's
+
+processor, either because it is physically part of the processor or is attached
+
+directly thereto, and distinct from the memory of the remote server from which
+
+data must be downloaded.
+
+
+
+Patent Law > Infringement Actions > Claim Interpretation > Scope
+
+[HN21] The United States District Court for the District of Massachusetts
+
+construes the term "connecting device" to mean a network connection, such as the
+
+Internet, used for transferring data between computers, and construes the term
+
+"processor" to mean a unit of hardware and/or software, distinct for the remote
+
+server, that processes computer-readable instructions.
+
+
+
+
+
+COUNSEL:  [**1]  For Skyline Software Systems, Inc., Plaintiff: H. Joseph
+
+Hameline, Geri L. Haight, Mintz, Levin, Cohn, Ferris, Glovsky & Popeo, PC,
+
+Boston, MA.
+
+
+
+For Keyhole Corporation, Defendant: Carolyn Chang, Darryl M. Woo, Kent Kemeny,
+
+Maclain Wells, Michael Sacksteder, Robin W. Reasoner, Saundra L.M. Riley,
+
+Fenwick & West LLP, Mountain View, CA; Michelle Chassereau Jackson, Nelson G.
+
+Apjohn, Nutter, McClennen & Fish, Boston, MA.
+
+
+
+For GOOGLE, INC., Defendant: Carolyn Chang, Darryl M. Woo, Michael Sacksteder,
+
+Robin W. Reasoner, Saundra L.M. Riley, Fenwick & West LLP, Mountain View, CA;
+
+Michelle Chassereau Jackson, Nutter, McClennen & Fish, Boston, MA.
+
+
+
+For Keyhole Corporation, GOOGLE, INC., Keyhole Corporation, Counter Claimants:
+
+Darryl M. Woo, Fenwick & West LLP, Mountain View, CA.
+
+
+
+For Skyline Software Systems, Inc., Counter Defendant: H. Joseph Hameline,
+
+Mintz, Levin, Cohn, Ferris, Glovsky & Popeo, PC, Boston, MA.
+
+
+
+JUDGES: DOUGLAS P. WOODLOCK, UNITED STATES DISTRICT JUDGE.
+
+
+
+OPINION BY: DOUGLAS P. WOODLOCK
+
+
+
+OPINION
+
+
+
+
+
+ [*374] MEMORANDUM AND ORDER
+
+
+
+The Plaintiff, Skyline Software Systems, Inc., alleges infringement of United
+
+States Patent No. 6,496,189 (the "'189 Patent") by the Defendants, Keyhole, Inc.
+
+[**2]  and Google, Inc. The '189 Patent describes a method and apparatus for
+
+efficiently transferring information needed to display three-dimensional images.
+
+Although Skyline moved for a preliminary injunction against the Defendants
+
+following the hearing on claim construction, before addressing the merits of
+
+that request, I separately resolve in this Memorandum and Order the threshold
+
+dispute between the parties regarding the construction of various claim terms. 1
+
+See Watts v. XL Systems, Inc., 232 F.3d 877, 880 (Fed. Cir. 2000)  [HN1] ("The
+
+determination of infringement is a two-step process. First, this court construes
+
+the claims and, second, we compare the properly construed claims to the accused
+
+device.")
+
+
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+
+1 Attached as an Appendix to this Memorandum and Order at 37-39 is a Summary of
+
+Constructions, setting forth the proposed constructions by the parties and those
+
+I have adopted.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+
+
+
+
+I. CLAIM CONSTRUCTION GENERALLY
+
+
+
+Following the hearing on claim construction, the Federal Circuit issued an en
+
+banc [**3]  decision designed to order the process of  [*375]  claim
+
+construction. Phillips v. AWH Corporation, 415 F.3d 1303 (Fed. Cir. 2005) (en
+
+banc).
+
+
+
+[HN2] "It is a bedrock principle' of patent law that the claims of a patent
+
+define the invention to which the patentee is entitled the right to exclude.'"
+
+Id. at 1312 quoting Innova/Pure Water, Inc. v. Safari Water Filtration Systems,
+
+Inc., 381 F.3d 1111, 1115 (Fed. Cir. 2004)). Limited discovery surrounding the
+
+question of claim construction has occurred in this case, with each party
+
+providing its respective constructions of the claims in dispute. After shared
+
+constructions and full briefing by the parties, the construction of terms in two
+
+claims -- characterized by the plaintiff as "representative" of the universe in
+
+dispute for this lawsuit -- are presented in accordance with the comprehensive
+
+framework set out in Phillips. Since the Federal Circuit decided Phillips after
+
+the submissions and the Markman hearing in this case, I have reinterpreted the
+
+arguments made by the parties in light of the Phillips framework set out below.
+
+
+
+[HN3] Claim construction is a question of law to be determined [**4]  by a
+
+judge, notwithstanding its evidentiary underpinnings. Markman v. Westview
+
+Instruments, Inc., 517 U.S. 370, 384, 390, 116 S. Ct. 1384, 134 L. Ed. 2d 577
+
+(1996). Courts are to give claim terms "their ordinary and customary meaning."
+
+Phillips, 415 F.3d at 1312 quoting Vitronics Corp. v. Conceptronic, Inc., 90
+
+F.3d 1576, 1582 (1996). However, the ordinary and customary meaning of a claim
+
+is not the meaning understood by a layperson, but "the meaning that the term
+
+would have to a person of ordinary skill in the art in question at the time of
+
+the invention." 2 Id. at 1313. This understanding provides "an objective
+
+baseline from which to begin claim interpretation." Id.
+
+
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+
+2  [HN4] For purposes of claim construction, the "time of the invention" is the
+
+effective filing date of the patent application. Phillips v. AWH Corporation,
+
+415 F.3d 1303, 1313 (Fed. Cir. 2005).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+
+
+ [HN5] "In some cases, the ordinary meaning of claim language as understood by a
+
+person of skill in the art may be readily [**5]  apparent even to lay judges,
+
+and claim construction in such cases involves little more than the application
+
+of the widely accepted meaning of commonly understood words." Id. at 1314. "In
+
+such circumstances, general purpose dictionaries may be helpful." Id. However,
+
+where the ordinary meaning of claim language as understood by a person of skill
+
+in the art is not readily apparent, Phillips directs district courts to a
+
+hierarchy of sources to aid in claim construction. The intrinsic record,
+
+including the claim terms themselves, the remainder of the specification, and
+
+the prosecution history, provides the best guidance as to the meaning of the
+
+claims. Id. at 1313-14. But extrinsic evidence, such as dictionaries, expert
+
+testimony, and learned treatises, may also play a valuable role in claim
+
+construction. However, in a departure from the line of cases led by Texas
+
+Digital Systems, Inc. v. Telegenix, Inc., 308 F.3d 1193 (Fed Cir. 2002),
+
+Phillips urges caution in their use. Id. at 1319-1324.
+
+
+
+[HN6] Among the sources of intrinsic evidence, Phillips places primary
+
+importance on the claims themselves and the specification. The [**6]  context in
+
+which a term is used in the asserted claim and the use of the term in other
+
+claims can be "highly instructive." Id. at 1314. The claims, "of course, do not
+
+stand alone." Id. at 1315. They "must be read in view of the specification, of
+
+which they are a part." Id. quoting Markman v. Westview Instruments, Inc., 52
+
+F.3d 967, at 978. Thus,  [*376]  Phillips reaffirmed the long-standing principle
+
+that the specification "is the single best guide to the meaning of a disputed
+
+term." Id. at 1303. In addition to its statutory role as a full and exact
+
+description of the claimed invention, the specification may reveal a patentee's
+
+distinctive definition of a term or a disavowal of claim scope. Id. at 1316.
+
+[HN7] The specification is such a valuable tool that it is "entirely appropriate
+
+for a court, when conducting claim construction, to rely heavily on the written
+
+description for guidance as to the meaning of the claims." Id. at 1317.
+
+Nevertheless, Phillips warned of "the danger of reading limitations from the
+
+specification into the claim." Id. at 1323. The purpose of the specification is
+
+to enable one skilled in the art to make and use the invention. Id. Specific
+
+embodiments of the [**7]  invention described for teaching purposes should not
+
+be imported into the claim as a limitation. Id. The distinction between proper
+
+claim construction and improper limitation turns on "whether a person of skill
+
+in the art would understand the embodiments to define the outer limits of the
+
+claim term or merely to be exemplary in nature." Id. at 1323.
+
+
+
+[HN8] A court may also consult the prosecution history, which "consists of the
+
+complete record of the proceedings before the PTO [the Patent and Trademark
+
+Office] and includes the prior art cited during the examination of the patent,"
+
+when construing a claim. Id. at 1317. Like the specification, the prosecution
+
+history "can inform the meaning of the claim language by demonstrating how the
+
+inventor understood the invention and whether the inventor limited the invention
+
+in the course of prosecution, making the claim scope narrower than it would
+
+otherwise be." Id. See Chimie v. PPG Indus., Inc., 402 F.3d 1371, 1384 (Fed.
+
+Cir. 2005) quoting ZMI Corp. v. Cardiac Resuscitator Corp., 844 F.2d 1576, 1580
+
+(Fed. Cir. 1988) ("The purpose of consulting the prosecution history in
+
+construing a claim is to exclude [**8]  any interpretation that was disclaimed
+
+during prosecution.'"). However, the prosecution history is not a final product;
+
+it "represents an ongoing negotiation between the PTO and the applicant."
+
+Phillips, 415 F.3d at 1317. As such, it "often lacks the clarity of the
+
+specification and thus is less useful for claim construction purposes." Id.
+
+
+
+[HN9] Although the Phillips court attached greater value to intrinsic evidence,
+
+it approved the use of extrinsic evidence in a limited fashion. Specifically,
+
+technical dictionaries are helpful to the extent that they assist a court to
+
+"'better understand the underlying technology' and the way in which one of skill
+
+in the art might use the claim terms." Id. at 1318 quoting Vitronics, 90 F.3d at
+
+1584. Expert testimony is also valuable for providing background on the
+
+technology at issue, explaining how an invention works, or describing a
+
+distinctive use of a term in a particular field. However, neither dictionaries
+
+nor expert testimony, are reliable sources for claim interpretation for a
+
+variety of reasons. As such, I have considered Dr. Feiner's Declaration and the
+
+dictionary definitions proposed [**9]  by both parties, but do not rely heavily
+
+on them in construing the terms at issue here.
+
+
+
+The Phillips Court's greatest concern with extrinsic evidence, particularly
+
+dictionaries, is that it may lead judges to construe terms in an overbroad
+
+manner.
+
+
+
+
+
+     The problem is that if the district court starts with the broad
+
+     dictionary definition in every case and fails to fully appreciate how
+
+     the specification implicitly limits that definition, the error will
+
+     systematically cause the construction of the claim to be unduly
+
+     expansive.
+
+
+
+
+
+Id. at 1321.  [HN10] Because dictionaries provide a broad array of definitions,
+
+"heavy reliance  [*377]  on the dictionary divorced from the intrinsic evidence
+
+risks transforming the meaning of the claim term to the artisan into the meaning
+
+of the term in the abstract." Id. The Texas Digital line of cases adopted this
+
+"dictionary down" approach, thereby reducing the role of the specification to a
+
+mere "check on the dictionary meaning of a claim term." Id. at 1320. In
+
+contrast, Phillips articulated a "claims up" approach, instructing courts to
+
+focus "at the outset on how the patentee used the claim term in the claims,
+
+specification, and prosecution history,  [**10]  rather than starting with a
+
+broad definition and whittling it down." Id. at 1321.
+
+
+
+[HN11] Ultimately, there is no magic formula for conducting claim construction
+
+when the ordinary meaning of the disputed terms as understood by a person of
+
+skill in the art is not readily apparent. Id. at 1324. The key lies in giving
+
+appropriate weight to each "source in light of the statutes and policies that
+
+inform patent law." Id. Accordingly, the claims and the specification are most
+
+significant, followed by prosecution history, and finally by extrinsic sources.
+
+Id.
+
+
+
+II. DISPUTED TERMS
+
+
+
+Claim 1 reads:
+
+
+
+
+
+     A method of providing data blocks describing three-dimensional terrain
+
+     to a renderer, the data blocks belonging to a hierarchical structure
+
+     which includes blocks at a plurality of different resolution levels,
+
+     the method comprising:
+
+
+
+
+
+          receiving from the renderer one or more
+
+
+
+          coordinates in the terrain along with indication of a
+
+          respective resolution level;
+
+
+
+
+
+
+
+     providing the renderer with a first data block
+
+          which includes data corresponding to the one or more
+
+          coordinates, from a local memory;
+
+
+
+
+
+
+
+     downloading [**11]  from a remote server one or more
+
+          additional data blocks at a resolution higher than the
+
+          resolution level of the first block which includes data
+
+          corresponding to the one or more coordinates if the provided
+
+          block from the local memory is not at the indicated
+
+          resolution level.
+
+
+
+
+
+
+
+
+
+
+
+(col. 16, 11. 28-43) (emphasis supplied)
+
+
+
+Claim 12 reads:
+
+
+
+
+
+     Apparatus for providing data blocks describing three-dimensional
+
+     terrain to a renderer, 3 the data blocks belonging to a hierarchical
+
+     structure which includes blocks at a plurality of different resolution
+
+     levels, the apparatus comprising:
+
+
+
+
+
+          a local memory which stores data blocks
+
+
+
+          corresponding to coordinates proximal to a current viewpoint
+
+          of the renderer;
+
+
+
+
+
+
+
+     a communication link, through which the memory
+
+          receives the data blocks from a remote server;
+
+
+
+
+
+
+
+     a processor which receives one or more specified
+
+          coordinates along with indication of a respective resolution
+
+          level from a renderer, provides the renderer with a first
+
+          data block which includes data corresponding to the one or
+
+          more specified coordinates from a local memory, [**12]  and
+
+          downloads over the communication link one or more data
+
+          blocks of a resolution level higher than the resolution
+
+          level of the first block which include data corresponding to
+
+          the one or more coordinates if the first block is not from
+
+          the indicated level.
+
+
+
+
+
+
+
+
+
+
+
+(col. 18, 11. 12-31) (emphasis supplied)
+
+
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+
+3 "Render" appears to be a typographical error and neither party contends that
+
+the term should be construed as anything other than "renderer."
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+
+
+From these claims, the parties dispute the meaning of the following terms: data
+
+[*378]  blocks, data blocks belonging to a hierarchical structure, first data
+
+block, terrain, coordinates in the terrain, indication of a respective
+
+resolution level, renderer, and local memory.
+
+
+
+The Plaintiff characterized these claims as "representative" and contends that
+
+the representative claims "contain all the claim terms that are in dispute in
+
+claims 1 through 24." (Transcript, p. 5)
+
+
+
+A. Data Blocks
+
+
+
+I begin with a term found throughout the patent -- "data blocks", [**13]  often
+
+referred to simply as "blocks" in the specification.
+
+
+
+Initially, Skyline suggested that the court construe "data block" broadly to
+
+mean "a quantity, set or amount of information or data representing a portion of
+
+the terrain." The Defendants offered instead the following narrower
+
+construction, on the premise that the patentee acted as his own lexicographer
+
+with respect to this term: "an image of a terrain area that is composed of
+
+pixels, where each data block optionally also contains data associated with the
+
+image of the terrain area, such as data describing other objects that overlay
+
+the terrain; each block has one particular resolution." At the Markman hearing,
+
+however, the Defendants did not protest Skyline's critique of equating data with
+
+image, and both parties were open to the idea of data blocks meaning something
+
+like information necessary to render graphically an image of all or part of the
+
+terrain, including any additional features overlaid thereto, at a particular
+
+resolution level. (Transcript, pp. 12-13) Given the principles in Phillips, I
+
+find that the most accurate construction will be one that includes the insights
+
+provided by the specification and the claims [**14]  themselves.
+
+
+
+The specification teaches that "image blocks . . . contain data representing the
+
+terrain" (col. 8, 11. 18-20) and the claims speak of "data blocks describing
+
+three-dimensional terrain" (Claim 1, col. 16, 11. 28-29; col. 4, 1. 12), such
+
+that "each terrain area is described in a plurality of blocks at different
+
+resolution levels." (col. 3, 11. 5-6) The method for preparing the database in
+
+accordance with the preferred embodiment of the present invention requires a
+
+processor, referred to as a Terra Builder, to cut up images it receives into
+
+blocks. (col. 9, 1. 55) The end result is that the user's "processor renders
+
+three-dimensional terrain images responsive to the data blocks" corresponding to
+
+the requested coordinates and viewpoints on a display. (col. 6, 11. 56-57)
+
+
+
+These excerpts from the specification demonstrate -- despite the seemingly
+
+anomalous statement that "blocks are preferably real-life images of terrain
+
+areas received from airborne or satellite cameras" (col. 8, 11. 36-37) -- that
+
+the term does not refer to the actual images of the terrain area, but to the
+
+data or information that represents sections of the terrain in the preferred
+
+embodiment. In the preferred [**15]  embodiment, the blocks may "include
+
+altitude data of the terrain" and "optional objects to be overlaid on the
+
+terrain." (col. 5, 11. 38, 40-41) These objects may "include, but are not
+
+limited to, labels, annotations, lines and 3D objects." (col. 8, 11. 38-42)
+
+
+
+Having said that, the patent specifically disclaims the idea that the data
+
+streaming methods only describe the display of images of terrain. Rather, the
+
+patent specifies that "the data streaming methods of the present invention may
+
+be used to convey large databases of data which are to be displayed graphically,
+
+such as in graphic displays of stock values." (col. 16, 11. 20-24) Consequently,
+
+I must technically construe the term "data block"  [*379]  broadly as a block or
+
+collection of data or digital information, but I do so only with the
+
+understanding that the terms "data block describing three-dimensional terrain"
+
+and "image block", refer to a block or collection of data or digital information
+
+that represents or describes a section of three-dimensional terrain at a
+
+particular resolution level and that includes any additional data overlaid on
+
+the digital image of the terrain, such as altitude, labels or optional objects.
+
+I construe the [**16]  subsequent references to "data blocks" in Claims 1 and 12
+
+as referring in shorthand to "data blocks describing three-dimensional terrain",
+
+as opposed to any kind of data block, because the scope of the claimed invention
+
+is a method and apparatus for providing data blocks describing three-dimensional
+
+terrain to a renderer.
+
+
+
+Construction:  [HN12] (data block) A block or collection of data or digital
+
+information.
+
+
+
+Construction: (data block describing three-dimensional terrain) a block or
+
+collection of data or digital information that represents or describes a section
+
+of three-dimensional terrain at a particular resolution level and that includes
+
+any additional data overlaid on the digital image of the terrain, such as
+
+altitude, labels or optional objects.
+
+
+
+B. Data Blocks Belonging to a Hierarchical Structure
+
+
+
+The parties agree that this phrase, as used in the patent, would be understood
+
+by one of ordinary skill in the art to mean data blocks that are organized into
+
+multiple levels of resolution. Skyline, however, takes issue with the two
+
+additional limitations proposed by the Defendants: data blocks that are
+
+organized into multiple levels of resolution, whereby (1)  [**17]  each level
+
+contains data blocks at the same resolution, and (2) each successive level
+
+contains data blocks of a higher resolution than those in the preceding level.
+
+
+
+First, in its submissions and at the Markman hearing, Skyline questioned whether
+
+or not the concept of hierarchy, as used in the patent, includes the idea of
+
+"directionality", that is whether each successive level contains data blocks of
+
+a higher resolution than those in the preceding level. Second, at the Markman
+
+hearing Skyline also questioned whether each level of the hierarchy must contain
+
+data blocks at the same resolution, contending that this construction could be
+
+interpreted as meaning that each data block must contain the same amount of
+
+data. Instead, Skyline prefers the less specific construction that the "data
+
+blocks are arranged into multiple levels of resolution, wherein each level of
+
+the structure contains blocks of a different resolution." For support, Skyline
+
+cites to col. 6, 11. 3-6 of the '583 patent.
+
+
+
+The portion of the specification cited by Skyline describes how U.S. patent
+
+application Ser. No. 08/939,948 (now United States Patent No. 6,111,583 (the
+
+'583 Patent)), which is incorporated by reference,  [**18]  "uses a hierarchical
+
+database in which substantially each terrain area is described in a plurality of
+
+blocks at different resolution levels." The '583 Patent is relevant because "in
+
+some preferred embodiments of the present invention, the data is stored at the
+
+remote server in accordance with the hierarchical structure described in the 948
+
+application." (col. 3, 11. 13-15) The '583 Patent describes arranging the units
+
+of data into an ordered hierarchy according to successive resolution levels.
+
+
+
+
+
+     FIGS. 3A and 3B . . ., taken together, are simplified pictorial
+
+     illustrations of a data structure useful in storing a terrain image
+
+     constructed and operative in accordance with a preferred embodiment of
+
+     the present invention. A terrain image is typically stored as a
+
+     hierarchy of  [*380]  one or more two-dimensional grids of one or more
+
+     tiles, with each grid 24 representing the image at a given resolution.
+
+     . . . Each grid has four times more detail then the grid preceding it
+
+     in the hierarchy.
+
+
+
+     ('583 Patent, col. 7, 11. 36-49)
+
+
+
+
+
+The '189 Patent provides even more detail in describing its Fig. 2, "a schematic
+
+block diagram illustrating the data structure of images stored in a database
+
+[**19]  . . . in accordance with a preferred embodiment of the present
+
+invention." (col. 7, 11. 27-31)
+
+     Blocks 42 are preferably stored in database 40. . . . Blocks 42 are
+
+     classified in successive resolution levels 44 labeled 44A, 44B, etc.,
+
+     according to the height from which they view the terrain and,
+
+     therefore, the level of detail which they include. A plurality of
+
+     blocks 42A which belong to the lowest resolution level 44A, labeled
+
+     "level 1," cover the largest area per block and therefore have the
+
+     least detail per area unit. It is noted that the size of the
+
+     geographical area covered by blocks 42A of "level 1" is dependent on
+
+     the specific application of database 40 and may be very diverse. For
+
+     example, in some flight applications, a single block 42A includes an
+
+     image of the entire Planet Earth, while in an atom-simulation
+
+     application, which shows the terrain of an atom, block 42A shows the
+
+     entire atom. Blocks 42B of the next level 44B, labeled "level 2,"
+
+     preferably cover a quarter of the area of blocks 42A of "level 1".
+
+     Thus, for substantially each block 42A, there exist four blocks 42B
+
+     which cover the same area. In a similar manner, each successive level
+
+     44 comprises blocks [**20]  42 which cover a quarter of the area of
+
+     the blocks 42 of the lower resolution level.
+
+
+
+     Four blocks 55 of a certain level 44C, which cover the same area as a
+
+     block 57 of the preceding level 44B, are referred to as descendants of
+
+     block 57. Conversely, block 57 is referred to herein as the parent of
+
+     blocks 55. The parent block 59 of block 57 is referred to herein as an
+
+     "ancestor" of blocks 55, and is said to be of a lower resolution level
+
+     than its descendants. It is noted that in FIG. 2, the lower resolution
+
+     levels appear higher on the page.
+
+
+
+     (col. 8, 11. 59-67; col. 9, 11. 1-21) (emphasis supplied)
+
+
+
+
+
+
+
+From these descriptions, it is clear that the patent claims a database with a
+
+hierarchical structure in which each successive level contains data blocks of a
+
+higher resolution than those in the preceding level. While I recognize that Fig.
+
+2 is only a schematic and level 1, level 2, level 3 etc. are just labels, it is
+
+important to include the successively ordered nature of the database in the
+
+construction of the term "hierarchical structure", even if a database might be
+
+arranged conceptually from the top down rather than from the bottom up.
+
+
+
+As for Skyline's concern over describing [**21]  the hierarchical structure with
+
+the limitation that each level contains data blocks at the same resolution, I
+
+disagree that the limitation erroneously suggests that each level has the same
+
+amount of data. As Skyline contends, the amount of data in a given resolution
+
+level depends on the image being depicted. Or as the specification explains, the
+
+"size of the geographical area covered by blocks of level 1' is dependent on the
+
+specific application of database and may be very diverse. For example, in some
+
+flight applications, a single block includes an image of the entire Planet
+
+Earth, while in an atom-simulation application, which shows the terrain of an
+
+atom, block shows the entire atom." (col. 8, 1. 67; col. 9, 11. 1-7)
+
+
+
+Construction:  [HN13] (data blocks belonging to a hierarchical structure) data
+
+blocks that are organized into multiple levels of resolution,  [*381]  whereby
+
+each level contains data blocks at the same resolution, and each successive
+
+level contains data blocks of a higher resolution than those in the preceding
+
+level.
+
+
+
+C. First Data Block
+
+
+
+Skyline would have the term "first data block" construed as simply "a
+
+designation of a data block that may be one of a plurality [**22]  of data
+
+blocks." Defendants suggest the following construction instead: "the data block
+
+stored in local memory that is the first data block to be provided to the
+
+renderer in response to the coordinates in the terrain and the indication of a
+
+respective resolution level received from the renderer."
+
+
+
+In the Markman hearing, Skyline explained that it agreed with the idea that "at
+
+some point" in the process the computer has to call a first data block from the
+
+local memory, and that the first data block is provided at a lower resolution
+
+level, with higher resolution levels being streamed or downloaded to the
+
+computer to provide the higher-resolution image. (Transcript, p. 70, 76) 4 From
+
+Claims 1 and 12, it is clear that "a first data block" refers, as the Defendants
+
+suggest, to the data block stored in the local memory that is the first to be
+
+provided to the renderer. (col. 16, 11. 35-27; col. 18, 11. 21, 23-25) The first
+
+data block provided is not necessarily the block with the lowest resolution
+
+corresponding to the coordinates in the local memory. As Skyline contends, and
+
+the Defendants appear to accept, the first data block could "be the closest data
+
+block in the cache manager to [**23]  the resolution level being requested."
+
+(Transcript, p. 75) Nevertheless, however software might adapt the invention,
+
+neither the "representative" claims nor the specification stipulate the relative
+
+resolution level of the first data block to be provided from the local memory.
+
+
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+
+4 Skyline questioned, however, the suggestion that the computer has to provide a
+
+new first data block for every new coordinate in order for there to be
+
+infringement. (Transcript, pp. 70-71, 76) I am not ruling on infringement in
+
+this Memorandum, I am only construing the claims. Consequently, I do not address
+
+whether the computer needs to provide a new first data block for every new
+
+coordinate in order for there to be infringement.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+
+
+Construction:  [HN14] (first data block) the first data block provided to the
+
+renderer from the local memory corresponding to the specified of coordinates
+
+
+
+D. Terrain
+
+
+
+Quoting from The American Heritage College Dictionary 1400 (3d ed. 1997), the
+
+Defendants contend that "terrain" has a plain and [**24]  ordinary meaning --
+
+"the surface features of an area of land; topography" -- and that the use of
+
+"terrain" in the patent is consistent with that meaning. The Plaintiff does not
+
+offer a dictionary definition of the term, but instead argues that the term "is
+
+used in the '189 Patent broadly to include the physical features of an area,
+
+object or material, which includes geographic and/or elevation attributes and
+
+may include other features, such as color attributes and objects.'"
+
+
+
+The purpose of the '189 Patent is to provide three-dimensional images of the
+
+Earth's surface to be used by pilots and others, but the specification also
+
+provides that "the terrain is not limited to the Earth or parts thereof, and may
+
+cover other planets (real or virtual) and/or 3D views of surfaces of real or
+
+imaginary objects, such as views showing the atomic structure of a material, and
+
+the like." (col. 16, 11. 16-20) Consequently, the term terrain is plainly not
+
+limited to the surface of the Earth. The Defendants also accept that the concept
+
+of terrain as the surface features of an area can include color.  [*382]
+
+(Transcript, p. 20) The dispute appears to turn, therefore, on whether the term
+
+"terrain," as used in [**25]  the Disputed Claims, includes "objects" overlaid
+
+on the surface of the area in addition to underlying topography of the surface
+
+of the area. (Transcript, p. 19-20, 21)
+
+
+
+The Patent contemplates overlaying additional objects or "virtual structures on
+
+the terrain." (col. 8, 1. 51) (emphasis supplied) "For example it is possible to
+
+add planned buildings to the terrain and thus see the effect of the buildings on
+
+the view. Further alternatively or additionally, the objects may be used to
+
+overlay map symbols and other marking on the terrain." (col. 8, 11. 51-55)
+
+(emphasis supplied) This allows "an operator of the server and/or the user . . .
+
+[to] add to the data which describes the terrain annotations which describe
+
+specific points in the scene, such as runways or other destinations.
+
+Alternatively or additionally, the operator may add three-dimensional objects,
+
+such as planned buildings, vehicles, etc. In a preferred embodiment of the
+
+present invention, a group of vehicles are tracked according to their position,
+
+and they are constantly superimposed on the landscape images." (col. 2, 11.
+
+55-64) "Preferably, the user is able to switch between viewing the terrain with
+
+and without  [**26]   the objects, so that, for example, the user may easily
+
+compare the view of a desired area with and without a group of planned
+
+structures." (col. 13, 11. 58-61) (emphasis supplied) Accordingly, the
+
+additional markings or structures that are overlaid on the terrain or the
+
+landscape images are not part of the "terrain".
+
+
+
+On the other hand, I find that the specification supports a construction of the
+
+term "terrain" that includes existing objects or structures that are captured in
+
+the virtual images of the land or other surface. The data blocks are preferably
+
+made from "real-life images of terrain areas received from airborne or satellite
+
+cameras." (col. 8, 11. 36-37) Such images will include, therefore, structures
+
+built on the land, such as existing buildings, that can be viewed sufficiently
+
+well. (col. 8, 11. 49-50) In fact, the specification contemplates the processor
+
+being able to "automatically derive [] . . . objects from the images. For
+
+example, the processor may identify roads and/or runways in the images and
+
+represent them as objects so that they appear more clearly in substantially any
+
+resolution of display." (col. 10, 11. 9-14) In that example, the roads and
+
+runways would [**27]  be part of the terrain, although the enhancement of them
+
+as objects overlaid on the land would not be part the terrain.
+
+
+
+Construction:  [HN15] (terrain) the surface features of an area of land, an
+
+object, or a material, including color, elevation, and existing objects or
+
+structures on the land, object or material.
+
+
+
+E. Coordinates in the Terrain
+
+
+
+The Plaintiff construes the phrase "coordinates in the terrain" to mean "any of
+
+a group of one or more numbers used to determine a position in the terrain, such
+
+as x, y, longitude, latitude, height, and/or resolution level." The Defendants
+
+counter that "coordinates in the terrain" must refer to "a pair of numerical
+
+coordinates, such as latitude and longitude or x and y coordinates, of a
+
+particular location in the terrain." Before turning to the heart of the dispute,
+
+I note that resolution level is not within the meaning of the "coordinates in
+
+the terrain". Claim 1 and various parts of the specification refer to the
+
+"coordinates in the terrain" and the "resolution level" as separate variables.
+
+
+
+The debate with respect to the term coordinates' is a consequence of the fact
+
+that the term connotes two different meanings, as understood [**28]  by a person
+
+of skill in  [*383]  the art that may be readily apparent even to lay judges,
+
+and that the term appears to be used in the two different ways within the patent
+
+specification. Thus, my task requires choosing the most appropriate meaning as
+
+used in the claims in light of the two uses in the specification.
+
+
+
+A coordinate' typically refers to an individual value, such as an x-coordinate,
+
+which along with another coordinate on a different axis (y), would locate a
+
+point in a two-dimensional plane. Thus, a longitude coordinate and a latitude
+
+coordinate would together locate a point on the Earth's surface. By adding a
+
+third coordinate (z), the three values together would specify a point in a
+
+three-dimensional space. Consequently, with respect to storing a proposed flight
+
+plan, the specification speaks of inputting "three-coordinate points which
+
+describe the route. The three coordinates preferably represent longitudinal,
+
+latitudinal, and height coordinates of the points along the course[.]" (col. 10,
+
+11. 39-41) Similarly, "each block is referenced using longitudinal and
+
+latitudinal (x, y) coordinates of one of the points in the block, such as the
+
+top right corner pixel, together with the [**29]  resolution level of the
+
+block." (col. 9, 11. 35-38) However, the term coordinates' can also be used to
+
+refer to a set of two or more values used to determine the position of a point
+
+on a plane or in space. In this sense, the statement that "each object is
+
+preferably accompanied by coordinates which state the position of the object
+
+within sub-block" can be thought of as referring to a set of at least two
+
+coordinate elements that together identify the object's location. (col. 8, 11.
+
+43-44) From this perspective, the plural form of coordinates' simply
+
+contemplates that more than one data block may be requested at a time and that
+
+to identify each block one needs a set of coordinates. Consequently,
+
+coordinates' may refer to the plural of coordinate' or to the set made up of at
+
+least a pair of coordinate points.
+
+
+
+The question, then, becomes whether "one or more coordinates in the terrain"
+
+refers to one coordinate, such as x, or more than one coordinate, such as x and
+
+y, or rather to one set of coordinates, such as x/y, or more than one set of
+
+coordinates, such as x/y and x1/y1. I find that adopting the latter
+
+understanding reconciles the claim language ("one or more") with the Defendants'
+
+[**30]  concerns and the specification. This meaning also makes sense when
+
+contrasted to the reference in other claims to a "plurality of coordinates",
+
+that is to more than one set of coordinates requiring more than one data block
+
+to represent the terrain to be viewed.
+
+
+
+If "one or more coordinates" meant that only one numerical value ('coordinate')
+
+would be sufficient, the processor could not provide the renderer with the data
+
+block(s) corresponding to the coordinates of the terrain specified. The
+
+preferred way of structuring the data blocks is to have "a header record
+
+comprising an index to the blocks", (col. 9, 11. 25-26), and to reference each
+
+block "using longitudinal and latitudinal (x, y) coordinates of one of the
+
+points in the block, such as the top right corner pixel, together with the
+
+resolution level of the block." (col. 9, 11. 35-38). Then the "renderer
+
+determines the exact blocks needed and calls for them using their (x, y)
+
+coordinates and their resolution level. Alternatively or additionally, renderer
+
+specifies, for each resolution level, the coordinates of the boundaries of the
+
+necessary areas, and cache manager determines the identities of the required
+
+blocks." (col. 14, 11.  [**31]  10-15) Consequently, even in the alternative
+
+scenario, the system requires multiple sets of numerical values ('coordinates')
+
+that define the boundaries of the particular area of the terrain.
+
+
+
+[*384]  Construction:  [HN16] (coordinates in the terrain) a set of numerical
+
+values that identifies a particular location in the terrain
+
+
+
+F. Resolution Level
+
+
+
+In construing "indication of a respective resolution level", the Defendants
+
+suggested that resolution level referred to "the amount of detail per unit
+
+area." In its Reply Brief, the Plaintiff argued that "the amount of detail" is
+
+not tied to a "unit area." However, in the Plaintiff's Memorandum in Support of
+
+Motion for Preliminary Injunction, the Plaintiff indicated that "the blocks with
+
+the highest resolution level have the most amount of detail per unit area. '189
+
+Patent, col. 3, lns. 6-9." While not specifically addressed at the Markman
+
+hearing by either party, Defendants' construction appears appropriate.
+
+
+
+Although, the specification anticipates that "the data streaming methods of the
+
+present invention may be used to convey large databases of data which are to be
+
+displayed graphically, such as in graphic displays of stock values,  [**32]  "
+
+(col. 16, 11. 20-24), as opposed to just three-dimensional views of the
+
+surfaces, Claims 1 and 12 specifically claim a "method of providing data blocks
+
+describing three-dimensional terrain" and an "apparatus for providing data
+
+blocks describing three-dimensional terrain." (col. 16, 11. 28-29; col. 18, 11.
+
+12-13) Consequently, classifying data blocks describing three-dimensional
+
+terrain "according to the height from which they view the terrain and,
+
+therefore, the level of detail which they include," (col. 8, 11. 62-64),
+
+requires that the concept of resolution levels include a per unit area
+
+dimension. The specification affirms this meaning by stating plainly that "the
+
+blocks at lower resolution levels include less detail per unit area, while the
+
+blocks of higher resolution levels include more detail per unit area." (col. 3,
+
+11. 6-9) I construe the term "resolution level" as the level of detail of the
+
+data per unit area, even though in the preferred embodiment "the resolution
+
+level is also dependent on the number of pixels in the image displayed on
+
+display. Preferably, the resolution levels are chosen so that an approximate 1:1
+
+ratio is achieved between the number of displayed pixels [**33]  and the number
+
+of data pixels." (col. 11, 11. 32-37) (emphasis supplied)
+
+
+
+Construction:  [HN17] (resolution level) the level of detail of the data per
+
+unit area.
+
+
+
+G. Indication of a respective resolution level
+
+
+
+Although the Plaintiff did not construe the phrase "indication of a respective
+
+resolution level" in its opening brief, the Plaintiff, in its Reply, took issue
+
+with the Defendants' suggestion that this phrase be construed to mean "data
+
+specifying the amount of detail per unit area corresponding to a level of
+
+resolution in the hierarchical structure of data blocks." Skyline now offers
+
+instead the following broad construction: "something that indicates, points out,
+
+or signifies a respective resolution level."
+
+
+
+The first step of the method claimed in Claim 1 is for part of what I will refer
+
+to as "the system" to receive from the renderer "one or more coordinates in the
+
+terrain along with indication of a respective resolution level." (col. 16, 11.
+
+32-34) That part of the system is then able to "provide the renderer with a
+
+first data block which includes data corresponding to the one or more
+
+coordinates, from a local memory" and if that first block "is not at the
+
+indicated [**34]  resolution level," the system downloads more data blocks
+
+corresponding to the coordinates. (col. 16, 11. 39-44) In Claim 12, it is the
+
+"processor which receives one or more specified coordinates along with
+
+indication of a respective resolution  [*385]  level from a renderer [and then]
+
+provides the renderer with a first data block . . . and downloads . . . one ore
+
+more data blocks . . . if the first block is not from the indicated level."
+
+(col. 18, 11. 21-30) The specification describes how preferably the "renderer
+
+determines the exact blocks needed and calls for them using their (x, y)
+
+coordinates and their resolution level." (col. 14, 11. 10-12) All of these
+
+references suggest that "indication of a respective resolution" simply means the
+
+renderer indicates (to the processor) or identifies the particular resolution
+
+level or the particular level of the hierarchical database of the data required.
+
+
+
+At the Markman hearing, the parties agreed with this construction except that
+
+Skyline questioned whether it is necessary to bring the concept of hierarchical
+
+structure into this definition. (Transcript, p. 66) Upon reflection, I find that
+
+it is unnecessary to include hierarchical database within [**35]  the
+
+construction of this term because it is already agreed that the database is
+
+organized hierarchically by resolution level.
+
+
+
+Construction:  [HN18] (indication of respective resolution level) the
+
+identification of the particular resolution level of the data required
+
+
+
+H. Renderer
+
+
+
+Plaintiff offers the following construction for this term:
+
+
+
+
+
+     something that may be implemented entirely in software or may include
+
+     a dedicated hardware processor along with a software package running
+
+     on a general purpose processor, which performs one or more steps of
+
+     the recited method and assists in the display of the terrain based on
+
+     the data provided.
+
+
+
+
+
+Defendants contend that it is not nearly so broad, offering the following
+
+construction instead:
+
+     a software and/or hardware object that performs each of the following
+
+     steps: (1) determines the coordinates of the terrain data required to
+
+     create an image and sends the needed coordinates along with a
+
+     specified resolution level to another object; (2) receives the data
+
+     blocks corresponding to the provided coordinates; and (3) uses the
+
+     received data blocks to create an image.
+
+
+
+
+
+
+
+Claim 1 teaches a "method comprising: receiving from [**36]  the renderer one or
+
+more coordinates in the terrain along with indication of a respective resolution
+
+level" and "providing the renderer with a first data block . . . from a local
+
+memory." (col. 16, 11. 31-37) Claim 12 provides for an "apparatus for providing
+
+data blocks . . . to a renderer . . . comprising: a local memory which stores
+
+data blocks corresponding to coordinates proximal to a current viewpoint of the
+
+renderer" and "a processor which receives one or more specified coordinates
+
+along with indication of a respective resolution level from a renderer, [and]
+
+provides the renderer with a first data block." (col. 18, 111. 12-13, 16-18,
+
+21-24) This language shows that important aspects of the method run through the
+
+renderer. But according to Claim 9, the renderer does not simply act as a
+
+go-between, providing coordinates and receiving data blocks, it also has the
+
+undisputed job of ultimately converting the information into an image and
+
+rendering the view from the current viewpoint. (col. 17, 11. 65-67)
+
+
+
+The specifications provide a similar picture of the renderer's three functions
+
+in the preferred embodiment with references to renderer', renders', and
+
+rendering program'.  [**37]
+
+
+
+
+
+     In some preferred embodiments of the present invention, the processor
+
+     runs a rendering program which displays the three dimensional images
+
+     based on the  [*386]  viewpoint, the size of the displayed image and
+
+     the blocks received from the server. The rendering program orders the
+
+     blocks it needs using a cache manager, which is preferably a software
+
+     routine running on the processor. If the cache manager has the ordered
+
+     block, it provides it to the rendering program. However, if the block
+
+     is not carried by the cache manager, it is ordered from the server,
+
+     and a replacement block from a lower resolution level is passed to the
+
+     rendering program.
+
+
+
+     When the rendering program requires a block including a new point or
+
+     area for display, the cache manager first requests the block of the
+
+     lowest resolution level which covers the area with the least detail
+
+     and then requests subsequent blocks with successively increasing
+
+     detail, until the block with the level of detail required by the
+
+     rendering program is sent. The rendering program renders the
+
+     three-dimensional image using the blocks it has on hand. Each time
+
+     another block is received, the image is rendered again.  [**38]  Thus,
+
+     the user sees an image at substantially all times and is not prevented
+
+     from moving the viewpoint while additional data is being sent from the
+
+     server.
+
+
+
+     There is therefore provided in accordance with a preferred embodiment
+
+     of the present invention, a method of providing data blocks describing
+
+     three-dimensional terrain to a renderer, the data blocks belonging to
+
+     a hierarchical structure which includes blocks at a plurality of
+
+     different resolution levels, the method including receiving from the
+
+     renderer one or more coordinates in the terrain along with indication
+
+     of a respective resolution level, providing the renderer with a first
+
+     data block which includes data corresponding to the one or more
+
+     coordinates, from a local memory, and downloading from a remote server
+
+     one or more additional data blocks which include data corresponding to
+
+     the one or more coordinates if the provided block from the local
+
+     memory is not at the indicated resolution level.
+
+
+
+     Preferably, the method includes downloading excess blocks not
+
+     currently needed by the renderer to fill up the local memory when not
+
+     downloading blocks required by the renderer.
+
+
+
+     Preferably, the renderer  [**39]   renders a view from a current
+
+     viewpoint.
+
+
+
+
+
+(col. 3, 11. 54-67; col. 4, 11. 1-23, 56-59, 60-61) (emphasis supplied)
+
+
+
+Detailed descriptions of the figures in the patent further substantiate that the
+
+renderer performs at least three functions: it determines the coordinates
+
+needed; receives the appropriate data blocks; and renders an image with the data
+
+provided. (See, e.g., col. 11, 11. 19-24 ("Processor preferably . . . comprises
+
+a renderer, which calculates the view from the viewpoint and continuously
+
+renders the view on display" and "determines the coordinates of the pixels it
+
+needs in order to render the view and requests the descriptions of these pixels
+
+from a cache manager."); col. 12, 11. 58-63 ("Renderer uses blocks from cache
+
+manager to render the required view on display. Preferably, when cache manager
+
+provides a block of a lower resolution level than that requested by renderer,
+
+the renderer uses the provided block to interpolate a higher resolution-level
+
+block."); col. 14, 11. 10-13 ("Preferably, renderer determines the exact blocks
+
+needed and calls for them using their (x, y) coordinates and their resolution
+
+level. Alternatively or additionally,  [**40]  renderer specifies, for each
+
+resolution level, the coordinates of the boundaries of the necessary areas, and
+
+cache manager determines the identities of the  [*387]  required blocks."); see
+
+also col. 14, 11. 27-46; col. 15, 11. 33-46.)
+
+
+
+The parties do not dispute that the renderer is an object that may be
+
+implemented entirely in software or may include hardware, (Transcript, p. 22),
+
+for as the specification describes:
+
+
+
+
+
+     Preferably, renderer is as described in the above mentioned U.S.
+
+     patent application Ser. No. 08/939,948. 5 Alternatively or
+
+     additionally, renderer may operate in accordance with any other method
+
+     known in the art. Renderer is preferably implemented entirely in
+
+     software. Alternatively, renderer includes a dedicated hardware
+
+     processor, such as a 3D graphic accelerator, along with a software
+
+     package running on general purpose processor which provides blocks to
+
+     the dedicated hardware processor.
+
+
+
+     (col. 13, 11. 8-17)
+
+
+
+
+
+
+
+
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+
+5 "It is appreciated that the [terrain rendering] method of FIGS. 1A-1C may be
+
+implemented partly in computer hardware and partly in software, or entirely in
+
+custom hardware. Preferably, the apparatus of the present invention is
+
+implemented in suitably programmed computer hardware comprising, for example, a
+
+Pentium-Pro/MNX based central processing unit (CPU)." ('583 Patent, col. 6, 11.
+
+4-10)
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+
+
+ [**41]  The parties also agree that the renderer receives data blocks
+
+corresponding to the specified coordinates and uses the data provided to display
+
+real-life images of terrain or three-dimensional images of an object or
+
+material. 6 (Transcript, p. 22) The Plaintiff disputes, however, whether the
+
+renderer is limited by the three steps identified by the Defendants and whether
+
+something else, namely the cache manager, may perform those steps. More
+
+specifically, the essence of the debate crystallized during the Markman hearing
+
+into understanding the impact of the statement in the specification that
+
+"alternatively, cache manager determines the identity of the required blocks
+
+and/or sub-blocks." (col. 11, 11. 26-27)(Transcript, pp. 24, 27, 31-33)
+
+
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+
+6 The Plaintiff insists on the verb "assists" (Pl. Brief, p. 10), citing to col.
+
+11, 11. 19 -- col. 13, 11. 17 and Figs. 5, 8. I do not agree that the word
+
+"assists" is necessary. It is clear from the specification that it is the
+
+renderer that renders the view. See col. 11, 11. 19-21 (The renderer "calculates
+
+the view from the viewpoint and continuously renders the view from the viewpoint
+
+and continuously renders the view on display."); col. 12, 11. 58-59 ("Renderer
+
+uses blocks from cache manager to render the required view on display."); and
+
+col. 12, 11. 66-67, col. 13, 11. 1-7 ("When cache manager finishes downloading
+
+an additional block of a higher resolution level from server, the block is
+
+provided to renderer, which updates the rendered view accordingly. Preferably,
+
+when the viewpoint is in motion, renderer updates the view at least ten times
+
+per second so that the user has a perception of constant movement, although
+
+other rates of update may also be used. Preferably, renderer renders the view
+
+each time from scratch without using previously-rendered views.") To the degree
+
+that other components are required for the renderer to render the view, such
+
+assisting components do not detract from the renderer's function of using the
+
+received data block to display an image.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+
+
+ [**42]  It is clear from Claims 1 and 2 that in describing both the method and
+
+the apparatus, a part of the system (the processor in Claim 12) "receives one or
+
+more specified coordinates along with indication of a respective resolution
+
+level from a renderer[.]" (col. 16, 11. 32-34; col. 18, 11. 20-23) (emphasis
+
+supplied). This step is also described in the specification as the "renderer
+
+determines the coordinates of the pixels it needs in order to render the view
+
+and requests the descriptions of these pixels from a cache manager." (col. 11,
+
+11. 21-24) As a result, something must perform the function of determining which
+
+data blocks correspond to the coordinates identified as required by the renderer
+
+so that the appropriate data block may be sent to  [*388]  the renderer.
+
+Preferably, it is the "renderer [that] determines which blocks and/or sub-blocks
+
+include the required pixels", (col. 11, 11. 24-26), and therefore the "cache
+
+manager downloads from server the blocks and/or sub-blocks required by renderer
+
+. . ." (col. 11, 11. 62-63) Alternatively, however, it is the "cache manager
+
+[that] determines the identity of the required blocks and/or sub-blocks" from
+
+the coordinates received from the [**43]  renderer. (col. 11, 11. 26-27) But, in
+
+both embodiments of the method, it is clear that the renderer at least performs
+
+the function of determining and specifying to another object what coordinates
+
+are required along with identifying the respective resolution level.
+
+
+
+Construction:  [HN19] (renderer) software and/or hardware object that performs
+
+at least the following functions: (1) determining and providing to another
+
+object the required coordinates in the terrain along with a respective
+
+resolution level; (2) receiving the data blocks corresponding to the specified
+
+coordinates; and (3) using the received data blocks to display a
+
+three-dimensional image.
+
+
+
+I. Local Memory
+
+
+
+The Plaintiff argues that "'local memory' requires no more detailed a definition
+
+than memory of a local computer,'" quoting the Microsoft Computer Dictionary.
+
+Defendants proffered construction is consistent with a more narrow definition of
+
+local memory: "a memory that is part of the local computer that is performing
+
+the steps of the recited method." But, during the hearing, the parties agreed to
+
+the construction "memory easily accessible to the client computer, either
+
+because it is physically part of [**44]  the processor or is attached directly
+
+thereto -- as distinct from the memory of the remote server from which data must
+
+be downloaded." This definition addresses the Plaintiff's concern that local
+
+memory need not actually be physically part of the computer, for example, if
+
+located in a thumbdrive, and the Defendants' concern that it be clear that the
+
+local memory is distinct from the processor that may be running on the remote
+
+server. (Transcript, pp. 68-69)
+
+
+
+The language in the disputed claims and the specification highlights that the
+
+"local memory", or "cache memory", 7 is the memory directly tied, although not
+
+necessarily physically, to the processor and not memory local to any other
+
+computing device or remote server. The data in the local memory must be
+
+available to the processor in a direct, rapid way that memory found elsewhere --
+
+such as in the remote server -- is not. See, e.g., col. 11, 11. 58-61 ("The term
+
+cache memory is used herein generally to refer to any relatively small memory
+
+which can be accessed rapidly by processor and is used to save data which is
+
+most likely to be used by the processor."); col. 14, 11. 31-45 ("When a request
+
+for block, identified as "x," and [**45]  having resolution level N, is received
+
+from renderer, cache manager determines, as indicated in block (FIG. 8), the
+
+level j of the highest resolution-level ancestor of block x stored in cache
+
+memory. If the block itself is stored in cache memory (i.e., j=N), the block is
+
+provided to renderer. Otherwise, the highest resolution level ancestor of block
+
+x which is stored in cache memory is provided to renderer, as indicated in
+
+block. As described hereinbelow, cache manager downloads the rest of the
+
+ancestors of block x from server in order of increasing resolution levels, as
+
+indicated by an arrow in FIG. 9. As the blocks are  [*389]  received from the
+
+server, they are supplied to renderer so that the user sees an image whose
+
+resolution increases with time.") The distinction between the local cache memory
+
+and the larger memory stores that are accessible through a "communication link"
+
+is at the heart of the invention. Unlike prior art, this patent purports to
+
+display three-dimensional images on a user's computer without requiring an
+
+unusually large "local memory" by streaming data from a remote source,
+
+preferably over the Internet. (col. 2, 11. 7-20, 26-33.)
+
+
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+
+
+
+7 The figures included in the patent refer to the "cache memory 32", and it
+
+seems clear that this is what is referenced when the patent speaks of the "local
+
+memory." See col. 3, 11. 24-27 (referring to a "local cache memory"); col. 13,
+
+1. 40 ("local cache memory").
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+
+
+
+ [**46]  Construction:  [HN20] (local memory) memory easily accessible to the
+
+user's processor, either because it is physically part of the processor or is
+
+attached directly thereto, and distinct from the memory of the remote server
+
+from which data must be downloaded.
+
+
+
+J. Communication Link & Processor
+
+
+
+The Plaintiff construes "communication link" to refer to "the connection between
+
+computers that enables data transfer" citing Microsoft Computer Dictionary 98
+
+(4th ed. 1999). The Plaintiff defines a "processor" to be "a unit comprised of
+
+hardware and/or software that processes computer-readable instructions." The
+
+Defendants did not propose an alternative to the Plaintiff's suggested
+
+constructions of "communication link" and "processor". In the hearing, the
+
+Defendants suggested that I adopt the Plaintiff's unopposed construction, so
+
+long as I also adopt their unopposed constructions of various other terms in the
+
+other claims. Since the scope of this construction is limited to terms in
+
+dispute in Claims 1 and 12, I need not consider the proposed constructions for
+
+other terms in the other claims. But, I will adopt the Plaintiff's constructions
+
+for "communication link" and "processor". [**47]  Given the Defendants' concerns
+
+with respect to local memory, however, I adopt the Plaintiff's construction of
+
+"processor" with the caveat that it is a unit of the user's computer as distinct
+
+from the "remote server." (col. 2, 1. 8)
+
+
+
+Construction:  [HN21] (connecting device) a network connection, such as the
+
+Internet, used for transferring data between computers
+
+
+
+Construction: (processor) a unit of hardware and/or software, distinct for the
+
+remote server, that processes computer-readable instructions
+
+
+
+/s/ Douglas P. Woodlock
+
+
+
+UNITED STATES DISTRICT JUDGE
+
+
+
+ATTACHMENT
+
+
+
+APPENDIX
+
+
+
+SUMMARY OF CONSTRUCTIONS
+
+  Disputed         Skyline's          Defendants'           Court's
+
+    Term         Construction        Construction        Construction
+
+ data block   a quantity, set or  an image of a       A block or
+
+              amount of           terrain area that   collection of data
+
+              information or data is composed of      or digital
+
+              representing a      pixels, where each  information
+
+              portion of the      data block
+
+              terrain             optionally also
+
+                                  contains data
+
+                                  associated with the
+
+                                  image of the
+
+                                  terrain area, such
+
+                                  as data describing
+
+                                  other objects that
+
+                                  overlay the
+
+                                  terrain; each block
+
+                                  has one particular
+
+                                  resolution
+
+
+
+ data block                                           a block or
+
+ describing                                           collection of data
+
+   three-                                             or digital
+
+ dimensional                                          information that
+
+   terrain                                            represents or
+
+                                                      describes a section
+
+                                                      of three --
+
+                                                      dimensional terrain
+
+                                                      at a particular
+
+                                                      resolution level
+
+                                                      and that includes
+
+                                                      any additional data
+
+                                                      overlaid on the
+
+                                                      digital image of
+
+                                                      the terrain, such
+
+                                                      as altitude, labels
+
+                                                      or optional objects
+
+
+
+ data blocks  data blocks         data blocks that    data blocks that
+
+  belonging   arranged into       are organized into  are organized into
+
+    to a      multiple levels of  multiple levels of  multiple levels of
+
+hierarchical  resolution, wherein resolution, whereby resolution, whereby
+
+  structure   each level of the   each level contains each level contains
+
+              structure contains  data blocks at the  data blocks at the
+
+              blocks of a         same resolution,    same resolution.
+
+              different           and each successive and each successive
+
+              resolution          level contains data level contains data
+
+                                  blocks of a higher  blocks of a higher
+
+                                  resolution than     resolution than
+
+                                  those in the        those in the
+
+                                  preceding level     preceding level
+
+
+
+ first data   a designation of a  the data block      the first data
+
+    block     data block that may stored in local     block provided to
+
+              be one of a         memory that is the  the renderer from
+
+              plurality of data   first data block to the local memory
+
+              blocks              be provided to the  corresponding to
+
+                                  renderer in         the specified
+
+                                  response to the     coordinates
+
+                                  coordinates in the
+
+                                  terrain and the
+
+                                  indication of a
+
+                                  respective
+
+                                  resolution level
+
+                                  received from the
+
+                                  renderer
+
+
+
+   terrain    the physical        the surface         the surface
+
+              features of an      features of an area features of an area
+
+              area, object or     of land; topography of land, an object,
+
+              material, which                         or a material,
+
+              includes geographic                     including color,
+
+              and/or elevation                        elevation, and
+
+              attributes and may                      existing objects or
+
+              include other                           structures on the
+
+              features, such as                       land, object or
+
+              color attributes                        material
+
+              and objects
+
+
+
+ coordinates  any of a group of   a pair of numerical a set of numerical
+
+   in the     one or more numbers coordinates, such   values that
+
+   terrain    used to determine a as latitude and     identifies a
+
+              position in the     longitude or x and  particular location
+
+              terrain, such as x, y coordinates, of a in the terrain
+
+              y, longitude,       particular location
+
+              latitude, height,   in the terrain
+
+              and/or resolution
+
+              level
+
+
+
+ resolution   the level of detail the amount of       the level of detail
+
+    level     of the data         detail per unit     of the data per
+
+                                  area                unit area
+
+
+
+indication of something that      data specifying the the identification
+
+a respective  indicates, points   amount of detail    of the particular
+
+ resolution   out, or signifies a per unit area       resolution level of
+
+    level     respective          corresponding to a  the data required
+
+              resolution level    level of resolution
+
+                                  in the hierarchical
+
+                                  structure of data
+
+                                  blocks
+
+
+
+  renderer    something that may  a software and/or   software and/or
+
+              be implemented      hardware object     hardware object
+
+              entirely in         that performs each  that performs at
+
+              software or may     of the following    least the following
+
+              include a dedicated steps: (1)          functions: (1)
+
+              hardware processor  determines the      determining and
+
+              along with a        coordinates of the  providing to
+
+              software package    terrain data        another object the
+
+              running on a        required to create  required
+
+              general purpose     an image and sends  coordinates in the
+
+              processor, which    the needed          terrain along with
+
+              performs one or     coordinates along   a respective
+
+              more steps of the   with a specified    resolution level;
+
+              recited method and  resolution level to (2) receiving the
+
+              assists in the      another object; (2) data blocks
+
+              display of the      receives the data   corresponding to
+
+              terrain based on    blocks              the specified
+
+              the data provided   corresponding to    coordinates; and
+
+                                  the provided        (3) using the
+
+                                  coordinates; and    received data
+
+                                  (3) uses the        blocks to display a
+
+                                  received data       three --
+
+                                                      dimensional
+
+                                  blocks to create an image
+
+                                  image.
+
+
+
+local memory  memory of a local   a memory that is    memory easily
+
+              Computer            part of the local   accessible to the
+
+                                  computer that is    user's processor,
+
+                                  performing the      either because it
+
+                                  steps of the        is physically part
+
+                                  recited method      of the processor or
+
+                                                      is attached
+
+                                                      directly thereto,
+
+                                                      and distinct from
+
+                                                      the memory of the
+
+                                                      remote server from
+
+                                                      which data must be
+
+                                                      downloaded
+
+
+
+communication a network                               a network
+
+    link      connection, such as                     connection, such as
+
+              the Internet, used                      the Internet, used
+
+              for transferring                        for transferring
+
+              data between                            data between
+
+              Computers                               computers
+
+
+
+  Processor   a unit comprised of                     a unit of hardware
+
+              hardware and/or                         and/or software,
+
+              software that                           distinct for the
+
+              processes                               remote server, that
+
+              computer --
+
+              Readable                                processes
+
+                                                      computer --
+
+              Instructions                            readable
+
+                                                      instructions
+
+[**48]
+

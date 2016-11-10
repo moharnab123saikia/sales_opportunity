@@ -1,0 +1,102 @@
+                              687 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                           November 22, 2014 Saturday
+
+
+
+US Patent granted to Google Inc. (California) on November 18 titled as "Center
+
+of motion for encoding motion fields"
+
+
+
+LENGTH: 220  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,891,626, on
+
+November 18, 2014, to Google Inc. (California), titled as "Center of motion for
+
+encoding motion fields"
+
+
+
+Inventors: Bankoski; James (Wynantskill, NY), Wilkins; Paul (Cambridge, GB)
+
+Assignee: Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office: "A
+
+system and method for encoding and decoding a video is disclosed having a
+
+plurality of frames with spatially correspondent blocks comprised of pixels. The
+
+encoding method includes determining a motion field for a plurality of pixels in
+
+a first frame having a same direction of movement as each other, the motion
+
+field having a center of motion, at least one dimension defining a shape of the
+
+motion field and a motion vector, encoding the motion field into a bitstream,
+
+associating at least one block of the first frame with the motion field and
+
+encoding each block associated with the motion field into the bitstream without
+
+a separate motion vector. Motion fields can be reused across multiple frames,
+
+decreasing the number of bits spent to encode motion vectors."
+
+
+
+The patent was filed on April 5, 2011 Application no. 13/080,266
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: November 22, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

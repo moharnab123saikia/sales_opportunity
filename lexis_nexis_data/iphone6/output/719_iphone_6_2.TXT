@@ -1,0 +1,390 @@
+                              719 of 999 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                            November 2, 2012, Friday
+
+
+
+iPhone 6 rumor rollup for the week ending Nov. 2;
+
+Ecstasy in June, ovoiding the home button, here's Jony
+
+
+
+BYLINE: John Cox
+
+
+
+LENGTH: 1585 words
+
+
+
+
+
+Apple has just begun selling iPhone 5, which it just announced, and yet
+
+speculation mounts or possibly leaps, soars,explodes, skyrockets, mushrooms ...
+
+well, you get the idea: Everybody is talking about The Date for iPhone 6.
+
+
+
+They're also rumoring about the ovoidization of the home button and Apple's
+
+Death of Innovation and the dismal prospects for the Next iPhone. Unless Apple
+
+turns it around and does something insanely great. Sir Jonathan Ive: Are you
+
+paying attention?
+
+
+
+You read it here second.
+
+
+
+CATCH UP: iPhone 6 rumor rollup for the week ending Oct. 26 __________ "Apple
+
+needs the WOW factor: In order to re-capture the imagination of Apple fans, it's
+
+time for Apple to 'think different' from its past product release trends."
+
+-- Ed Valdez, Technorati.com, advising Apple on how to reverse its slide into
+
+mediocrity despite the fact it's selling more iPhones than ever before
+
+__________ This argument, by Ed Valdez at Technorati, hinges on the fact that
+
+Apple in October introduced what it called a fourth-generation full-size iPad
+
+just eight months after releasing the third-generation iPad.
+
+
+
+"The remarkable feat of reducing their iPad product lifecycle by 38% from an
+
+average of 13 months to 8 months is a significant sign of things to come for
+
+their flagship product: the iPhone," Valdez proclaims, predicting that Apple
+
+will announce the next iPhone in next June, or nine months after the iPhone 5
+
+was released.
+
+
+
+He gives six reasons for this prediction. One is the by-now rather tired
+
+argument that "Apple needs the WOW factor." "In order to re-capture the
+
+imagination of Apple fans, it's time for Apple to 'think different' from its
+
+past product release trends," Valdez says. In other words, stop improving the
+
+software, the CPU, the resolution, the screen size, the connector dock, Wi-Fi
+
+and cellular connectivity, adding more apps, and expanding online services for
+
+mobile users and instead do something awesome and magical and insanely great!
+
+
+
+Valdez seems to think Apple designs products for fans. It doesn't. It designs
+
+products for people, who then become loyal users because the iPhone is the best
+
+product for what they want to do. The two most successful iPhones in terms of
+
+unit sales are the much maligned iPhone 4S and in all likelihood the
+
+almost-as-maligned iPhone 5, maligned by "fans" because these offered only
+
+"incremental" improvements. Those increments are directly related to the
+
+adoption of iPhone by people who are former iPhone users and those who are new
+
+users.
+
+
+
+Valdez' other reasons for predicting a June 2013 iwowPhone are: + "Apple wants
+
+to lead, not follow." To compete with Samsung, "Apple needs a catalyst to
+
+jump-start its market share growth against its formidable foe."
+
+
+
++ The bulk of iPhone sales take place in the first three to four months after
+
+its release, and sales slow markedly in the fourth quarter as users hold off in
+
+anticipation of the next model. But the average product life cycle (PLC) of the
+
+iPhone is 14 months, according to Valdez. This is a recipe for bad things.
+
+"Thus, Apple needs shorter PLCs to continue to return value to its shareholders
+
+and deliver new value to consumers because revenue, profit and earnings shrink
+
+within two quarters after an iPhone announcement. No company wants lackluster
+
+sales for the vast majority of a product life cycle."
+
+
+
++ Samsung competition, Part 2: "Apple is at war with Samsung. Let's face it," he
+
+says. Death to the Koreans ... or something.
+
+
+
++ "Apple leads in operational excellence." We couldn't figure out what he was
+
+talking about with this one.
+
+
+
++ The "Been There, Done That" factor. "The iPad 4 announcement tipped Apple's
+
+hand by showing us what's possible: a shorter time to market (TTM)," Valdez
+
+says. "The quick TTM for the iPad 4 will translate to a fast TTM for the next
+
+iPhone." This essentially assumes what he claims to set out to prove.
+
+
+
+None of these claims are very convincing. It's true that the bulk of iPhone
+
+sales occur in the first three to five months of availability. But the
+
+"longer-tail" sales through the remainder of the year (and for even longer as
+
+the flagship model becomes a lower-priced offering once the new phone is
+
+announced) are still significant. If Valdez is correct, why wait until June? Why
+
+not announce a new iPhone every six months?
+
+
+
+Given the fact that his entire argument hinges on the "accelerated" iPad
+
+introduction, it's odd that Valdez does not analyze that development, nor
+
+explain what benefits accrue to Apple, nor whether it actually represents a
+
+shift in Apple's time to market strategy, nor why a shift in one product's time
+
+to market would necessarily apply to a different product -- to the iPhone.
+
+
+
+Or Sir Jonathan Ive as Apple's lead designer is more formally called. This rumor
+
+is generated from the AppleInsider online forums, in a post from a regular
+
+contributor, HyteProsector.
+
+
+
+The starting point is the recently announced executive shakeup at Apple, with
+
+Scott Forstall, the longtime senior VP of iOS software, ousted and his duties
+
+split up among a trio of former colleagues. One of them is Ive, who has been in
+
+charge of the iPhone's physical design and now also takes on responsibility for
+
+the phone's overall "user interface."
+
+
+
+HyteProsector writes that "Jony made the prototype that I'm about to explain
+
+(Roughly 18-22 months ago) but it was shut down.
+
+
+
+The prototype was for an iPhone with an ovular home button had capacitive touch
+
+functions as well." HyteProsector thinks Ive now will, and should, resurrect the
+
+idea, which essentially seems to be creating a larger-surfaced home button that
+
+is itself a tiny touch-screen.
+
+
+
+The pressing need for an elongated iPhone home button has been debated for
+
+years, but not usually with a capacitive touch feature.
+
+
+
+Current, HyteProsector says, "the top of the [iPhone's] screen is used for
+
+navigation, a 'Back' button of sorts. Why not remove the 'Back' button and put
+
+its functionality on the home button. No more 'Back' buttons and a cleaner UI.
+
+Also ... wanna skip a track on your iPod and leave the device in your pocket?
+
+Swipe the home button. Again, forward and back in Safari? Swipe."
+
+
+
+He says he's been thinking about this for "over a year now." And he invites
+
+other forum members to comment. At this writing, only one has taken him up on
+
+it. Tallest Skil makes two pointed points: First, "Can you say 'accidental
+
+touches'?" And second, "What happens when the person breaks the button? Because
+
+people break their Home Buttons all the dang time. Then not only can they not
+
+get to the Springboard, they can't even get back within their applications."
+
+
+
+Stay tuned.
+
+
+
+"iPhone 6 Might Suffer From Apple's 'Lack of Recent Innovation'" is the headline
+
+for Craig Galbraith's post at ChannelPartnersOnline.com.  "Have sales of the
+
+iconic iPhone finally reached a tipping point?" he asks. "A new survey indicates
+
+that fewer Apple enthusiasts might not be as committed to buying the iPhone 6,
+
+or whatever the 2013 version of the device will be called."
+
+
+
+The survey is by the Strategy Analytics Wireless Device Lab, which released only
+
+a bare-bones summary in a press release, which said that current iPhone owners
+
+in Europe and America were somewhat less likely to buy their "next phone" from
+
+Apple, compared to owners surveyed in 2011.
+
+
+
+"The iPhone 5, which debuted in late September, launched with a larger screen
+
+(four inches), LTE-compatibility and various other improvements -- but
+
+apparently those updates aren't enough for some customers who see Apple's
+
+competition continue to rise up and offer comparable -- or even better --
+
+smartphones," is how Galbraith interprets the data.
+
+
+
+But that's not quite how Strategy Analytics interprets the data. First of all,
+
+the survey found that 75% of current iPhone owners are "likely" to buy a new
+
+iPhone in the future, down from 88% last year; in the U.S., 88% are likely to
+
+buy another iPhone, compared to 93% last year. Second, the survey doesn't
+
+mention iPhone 6: It seems more likely to be current iPhone 3G, and 4, and 4S
+
+users who are contemplating buying the iPhone 5. And without knowing the margin
+
+of error in the survey, it's hard to evaluate just how big this shift is, or
+
+what it means.
+
+
+
+"There is no doubt that Apple is continuing its success in retaining existing
+
+user base while attracting new customers," commented Paul Brown, director at
+
+Strategy Analytics' User Experience Practice, as quoted in the release.
+
+"However, negative press prompted by a perceived lack of recent innovation by
+
+Apple has meant we are starting to see some growth in the number of previously
+
+highly loyal consumers who are now reconsidering whether or not they will
+
+purchase a new iPhone for their next device."
+
+
+
+We think that's why companies have marketing budgets: to convince people to buy
+
+their product, or buy it again.
+
+
+
+The press release doesn't even explain if "negative press" and "perceived lack
+
+of recent innovation" are the prime motivators for current owners willing to
+
+consider buying a different phone, and were part of the survey, or just
+
+represent Brown's considered opinion. And not knowing what the repeat purchase
+
+rates are for, say, the Samsung Galaxy S smartphone users, makes it difficult to
+
+evaluate whether Apple is in trouble or whether this fall-off is general among
+
+other smartphone owners also.
+
+
+
+Somehow, a claim of "perceived lack of recent innovation by Apple" becomes
+
+"Apple's lack of innovation will turn iPhone 6 into a lousy product."
+
+
+
+John Cox covers wireless networking and mobile computing for Network World.
+
+Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+
+
+
+
+
+LOAD-DATE: November 5, 2012
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2012 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

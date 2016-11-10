@@ -1,0 +1,132 @@
+                              617 of 997 DOCUMENTS
+
+
+
+
+
+                                  Techtree.com
+
+
+
+                     September 27, 2016 Tuesday 6:30 AM EST
+
+
+
+New Google Andromeda OS To Be Teased On October 4
+
+
+
+BYLINE: Wrik Sen
+
+
+
+LENGTH: 424  words
+
+
+
+
+
+The new combined OS Andromeda might be announced at the Google event to be held
+
+on October 4, alongside new flagship smartphone devices.
+
+
+
+Andromeda, the purported new combined OS of Android and Chrome OS, just might
+
+make a teaser appearance on Google's October 4 event. Though it will be held to
+
+garner attention towards the Pixel and Pixel XL smartphones (running on Android
+
+7.1 Nougat), which is another new branding from Google to replace the Nexus
+
+series, it just could pull of a surprise teaser for the tech world with the
+
+Andromeda OS, especially if Hiroshi Lockheimer, the SVP of Android, Chrome OS
+
+and Play, is to be taken seriously. In a slightly cryptic tweet, he mentioned,
+
+"We announced the 1st version of Android 8 years ago today. I have a feeling 8
+
+years from now we'll be talking about Oct 4, 2016." The speculation for the same
+
+had actually started by a report last year, which said that Google would be
+
+unveiling a new OS, and whose other predictions turned out mostly true.
+
+
+
+Like most new creations, the name for the new OS is being kept under wraps, and
+
+is called Andromeda, as a code name. The aim of the OS is being pitched as
+
+Google's effort to bring Android to the laptop and convertible devices, but
+
+would ideally be successful, if they worked like Chrome OS interface. Hence, the
+
+conclusion of assuming Andromeda to be a combo OS of Android and Chrome OS, is
+
+not entirely wishful thinking.
+
+
+
+[Representative Image via CultOfMac]
+
+
+
+Other sources like 9to5Google, quoting unnamed sources, says that the Andromeda
+
+is currently being tested on the 2 year old Nexus 9 tablet. There have actually
+
+been several mentions of the combined OS on the Android 7.0 Nougat AOSP source
+
+code. With the tests being conducted, SurfaceCompositionTest.java, which is
+
+perhaps a graphics performance measurement tool, mentions that Andromeda would
+
+need a performance score of 8.0 which is double to that of Android's 4.0.
+
+
+
+However, while testing on the Nexus 9 tablet, the scores touched 8.8, which
+
+hopefully is above Google's own requirement. Another slightly confusing mention
+
+on the same platform says, "Detect Andromeda devices by having free-form window
+
+management feature," which as it turns out, happens to be Android Nougat 7.0
+
+salient features. However, till the October 4th event gets over, the speculation
+
+on Android forums will continue to generate interest. Till then, Pixel is the
+
+center of Google attention, where it seems they would bring back the 'restart'
+
+option in Android. Would be interesting to see however, in which avatar it
+
+comes.
+
+
+
+LOAD-DATE: September 27, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+            Copyright 2016 Techtree.com, distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

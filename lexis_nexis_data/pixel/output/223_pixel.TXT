@@ -1,0 +1,112 @@
+                              223 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                             July 22, 2014 Tuesday
+
+
+
+USPTO Published Patent application of Google Inc titled as "Structure
+
+Descriptors for Image Processing"
+
+
+
+LENGTH: 231  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has received an application no.
+
+20140198987, published on July 17, 2014, by Google Inc, titled as "Structure
+
+Descriptors for Image Processing" for the registration of patent.
+
+
+
+Inventors:   Hasinoff; Samuel William; (Mountain View, CA) ; Zhou; Changyin;
+
+(Mountain View, CA)
+
+Assignee:   Google Inc.
+
+Mountain View
+
+CA
+
+
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office: "A
+
+structure descriptor for an m.times.n pixel block of an image may be determined.
+
+The m.times.n pixel block may contain a primary pixel having a primary pixel
+
+value and a plurality of secondary pixels having respective secondary pixel
+
+values. The structure descriptor may include a plurality of structure indicators
+
+each associated with a respective secondary pixel. The respective structure
+
+indicators may be based on the primary pixel value and the respective secondary
+
+pixel value of the associated secondary pixel. Based on the structure
+
+descriptor, a structure value for the m.times.n pixel block may be determined.
+
+Based on the structure value, image processing may be applied to the m.times.n
+
+pixel block."
+
+
+
+The Patent was filed on January 17, 2013 under application No. 20140198987
+
+
+
+For more information please visit: http://www.uspto.gov/. In case of any query
+
+regarding this article or other content needs please contact:
+
+editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: July 22, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

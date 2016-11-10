@@ -1,0 +1,266 @@
+                              958 of 997 DOCUMENTS
+
+
+
+
+
+                                 The Australian
+
+
+
+                           September 3, 2013 Tuesday
+
+                         1 - All-round Country Edition
+
+
+
+Nexus wins despite its looks
+
+
+
+BYLINE: CHRIS GRIFFITH, TECHNOLOGY
+
+
+
+SECTION: FEATURES; Pg. 33
+
+
+
+LENGTH: 779  words
+
+
+
+
+
+Google's new tablet packs a punch with games and graphics
+
+
+
+GOOGLE'S new 7-inch Nexus tablet computer looks the complete winner.
+
+
+
+A fast processor good enough for gaming, a stunning fine-resolution screen,
+
+wireless charging, the latest Bluetooth protocols, and Near Field Communication
+
+for advanced connectivity on a relatively inexpensive tablet is a line-up that's
+
+hard to beat.
+
+
+
+You may not like the Nexus 7 when you first see it. It does look squarish and a
+
+bit drab. But there's not much else you can say that's negative. And the
+
+positive experience begins when you pick it up.
+
+
+
+For starters, it's light. At 290g for the WiFi versions or 299g for the 4G LTE
+
+cellular version, it's lighter than Apple's competing 7.9-inch iPad Mini but has
+
+a superior screen resolution: 1200x1920 pixels at 323 pixels per inch versus
+
+768x1024 pixels at 162ppi.
+
+
+
+That could change if Apple updates the Mini later this year, but for now the
+
+Nexus 7, a Google-designed tablet built by Taiwanese manufacturer Asus, reigns
+
+supreme.
+
+
+
+The Nexus 7 case is thin, narrow enough to be held comfortably in the palm, yet
+
+offers decent real estate at the top and bottom for gripping in landscape mode,
+
+which invariably is what you use for watching video. Unlike the Samsung S3
+
+models, you won't mistakenly trigger the back or home buttons while holding it.
+
+
+
+On the downside, the Nexus 7 doesn't have a slot for a microSD card, so you
+
+can't augment the 16Gb or 32Gb of internal memory on board. The Nexus 7 too has
+
+fairly ordinary cameras: a 5 and 1.2 megapixel rear and front-facing cameras.
+
+Pictures are OK but colours can look a little dull and washed out.
+
+
+
+The micro USB charging slot, however, offers versatility. It supports SlimPort:
+
+you can attach a USB to HDMI connector and mirror tablet content to a HD TV.
+
+
+
+The hallmark of the Nexus 7 is performance. It has a fast and modern quadcore
+
+Snapdragon S4 Pro processor. The AnTuTu benchmark which tests CPU and graphic
+
+capabilities returned a score of 18174, an 80 per cent improvement on the
+
+Samsung Galaxy S3 8-inch tablet we reviewed last week. The latest Samsung and
+
+HTC smartphones seem among only a handful of devices that perform better in
+
+AnTuTu.
+
+
+
+The Nexus 7's performance is evident when you load and play games such as Real
+
+Racing 3. When we tried it out, there was no lag when steering; the tablet was
+
+responsive to twists and turns, and no glitches. And watching video was a great
+
+experience. The crispness and detail of 1080p full HD was certainly evident.
+
+
+
+The Nexus 7 has a not-so-huge 3950 millampere hour fixed battery and, given it
+
+needs to drive a big processor and high-definition screen, I was sceptical about
+
+battery life. We achieved just over six hours of battery life watching video
+
+stored on the device, at 75 per cent brightness. Battery life is reasonable at
+
+least.
+
+
+
+Software and content is increasingly important to tablets. The Nexus 7 is the
+
+first Android device to run the latest upgrade: Jelly Bean 4.3.
+
+
+
+The upgrade isn't stunning but there are a few new features. Windows Phone 8 has
+
+a feature called Kids Corners which lets users set up restricted profiles so
+
+that their children can use selected apps with no access to parents'
+
+confidential files or accounts.
+
+
+
+A similar feature is now available on Android. Under Android 4.3, parents can
+
+set up profiles for each family member, or a business can configure a tablet so
+
+that each staff member can login with a different username. These users only use
+
+pre-designated apps and cannot purchase with Google Play.
+
+
+
+Bluetooth Smart Ready sees Android become more compatible with new types of
+
+connected devices such as pedometers and health monitors. Android's graphics
+
+have received a software overhaul with OpenGL ES3.0 high-performance graphics. A
+
+demo app shows you what you would see with and without it and the improved
+
+detail is noticeable.
+
+
+
+Google uses the vanilla, or unmodified Android, in contrast to a manufacturer's
+
+modified Android. This has advantages and disadvantages. You can upgrade when
+
+Google releases a new version and not wait until a manufacturer produces its
+
+own. On the other hand, I miss some of the rich content and features that
+
+Samsung offers through its TouchWiz Android user interface. HTC similarly offers
+
+an improved strain of Android.
+
+
+
+Overall the, Nexus 7 is a classy tablet with well-designed hardware, a great
+
+screen, and the most up-to-date Android available. It is well priced and should
+
+be popular with those seeking a small form-factor tablet.
+
+
+
+PROS
+
+
+
+Fast quadcore processor fit for gaming
+
+
+
+Great high-resolution display
+
+
+
+First tablet with Android 4.3
+
+
+
+CONS
+
+
+
+No micro SD card slot for extending storage
+
+
+
+Average camera resolution
+
+
+
+Fairly plain design
+
+
+
+PRICE FROM $299
+
+
+
+RATING 8/10
+
+
+
+LOAD-DATE: September 2, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: AUS
+
+
+
+
+
+                   Copyright 2013 Nationwide News Pty Limited
+
+                              All Rights Reserved
+
+
+
+
+

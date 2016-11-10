@@ -1,0 +1,11414 @@
+                              804 of 820 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                            October 8, 2015 Thursday
+
+
+
+Regulatory update: Public Service Commission of the District of Columbia; Sol
+
+Systems , has submitted ( RPS2015-544 ) Application of GCP Nextility 1, LLC
+
+residence for certification as an eligible District of Columbia Renewable Energy
+
+Standard Generating Facility
+
+
+
+LENGTH: 8639 words
+
+
+
+DATELINE: Lahore
+
+
+
+
+
+
+
+ Washington: Public Service Commission of the District of Columbia has issued
+
+the following document:
+
+
+
+
+
+
+
+ t
+
+
+
+ " f
+
+
+
+ 1.
+
+
+
+ APPLICATION FOR CERTIFICATION AS AN ELIGIBLE DISTRICT OF COLUMBIA
+
+
+
+ RENEWABLE ENERGY STANDARDS GENERATING FACILITY
+
+
+
+ Nameo f RenewableE nergyF acility: GCP- Nextility
+
+
+
+ Facility Address:
+
+
+
+ l711 MassachusetAtsv e NW
+
+
+
+ WashingtonD, C 20036
+
+
+
+ ORISPL Plant Code:
+
+
+
+
+
+
+
+ Name of Owner: GCP -Nextility 1, LLC
+
+
+
+ Owner'sa ddressa ndc ontacti nformation:
+
+
+
+ 1606 20th st Nw
+
+
+
+ WashingtonD, C 20009
+
+
+
+ Phone: 202-719-5297
+
+
+
+ Fax:
+
+
+
+ Email : srecs@nextility.com
+
+
+
+ Name of Operator Zachary Axelrod
+
+
+
+ Operator'sa ddressa ndc ontacti nformation:
+
+
+
+ 1606 2Uh St NW
+
+
+
+ WashingtonD, C 20009
+
+
+
+ Phone: 202-719-5297
+
+
+
+ Fax:
+
+
+
+ Email: srecs@nextility.com
+
+
+
+ Nameo f ContactP ersonB: ridgetC allahan
+
+
+
+ ContactP ersonT itle, addressa ndc ontacti nformation:
+
+
+
+ SRECO perationsA nalyst
+
+
+
+ 1718C onnecticuAt ve,N W, Suite3 00
+
+
+
+ Washington, DC 20009
+
+
+
+ Phone: (202) 448-7643
+
+
+
+ Fax:
+
+
+
+ Email : bridget@solsystemscompany.com
+
+
+
+ I, LLC -DC-ST-78. 49kwF acility
+
+
+
+ F
+
+
+
+ 42
+
+
+
+ qtr
+
+
+
+ c") .A
+
+
+
+ t@
+
+
+
+ 2.
+
+
+
+ "n
+
+
+
+ :,. J
+
+
+
+ ' : . r
+
+
+
+ P E"fl
+
+
+
+ ;
+
+
+
+ E
+
+
+
+ J .
+
+
+
+ 4.
+
+
+
+ 5.
+
+
+
+ 6.
+
+
+
+ Location of Resource:
+
+
+
+ XWithin GeographicA rea of PJM InterconnectionL,. L.C.
+
+
+
+ ! Other (specifu):
+
+
+
+ Fuel Types (Check all that are Applicable; see Notes for Additional
+
+Definitions)
+
+
+
+ Tier I
+
+
+
+ XSolar Energy
+
+
+
+ Descriptiono f system- includingt ype of application( e.g.p hotovoltaico r
+
+
+
+ thermal),m anufacturer/supplierm, odel name/numbers, ystemo rientation( ilt and
+
+
+
+
+
+ azimuth) and type of meter (including model name/number):
+
+
+
+ Type: ST
+
+
+
+ ModuleM anufacturearn dM odel:H eliodvne& GOBI4l0 001
+
+
+
+ Number of Modules: 43
+
+
+
+ Module Power Rating (watts):N/A
+
+
+
+ Tilt and Azimuth: 30 & 180
+
+
+
+ Type of Meter: OIML Certified Meter
+
+
+
+ Meter Manufacturer and Model Number: iSTEC & 5202
+
+
+
+ SRCC OG 100 Module Number 20101l5A
+
+
+
+ trWind
+
+
+
+ trQualiffing Biomass
+
+
+
+ nMethane from the anaerobicd ecompositiono f organicm aterialsin a landfill or
+
+
+
+ wastewatertr eatmentp lant
+
+
+
+ DGeothermal
+
+
+
+ EOcean,i ncludinge nergyf rom waves,t ides,c urrents& thermald ifferences
+
+
+
+ DFuel Cellsp roducinge lectricityf rom qualifyingb iomasso r methanea sd
+
+esuibed
+
+
+
+ above
+
+
+
+ Tier II
+
+
+
+ EHydroelecftic Power other than Pumped Storage
+
+
+
+ EWaste-to-Energy
+
+
+
+ 7. RatedC apacity: I19.0 KW (or estimateda nnualo utputs f 142,824.5k Wh)
+
+
+
+ Other( speciff): 43 panels* 365d ays* 9.1k Wt/day = 142,824.k5W h
+
+
+
+ If multiple fuel sourcesa reu tilized,a ttacht he formulaf or computingt he
+
+proportiono f
+
+
+
+ output per fuel type by MWh (or kWh) generated.
+
+
+
+ 9.
+
+
+
+ 10.
+
+
+
+ OperationaSl tartD ate: 9llll20l5 (or dateo f approvedin terconnectiown ith
+
+PEPCO,i f
+
+
+
+ appropriateP) leasen otet hat this datei s afteri nspectiond ated uet o a lag
+
+between
+
+
+
+ installationa ndt he saleo f the project
+
+
+
+ If co-firing with fossil fuels, co-fire start date: I I
+
+
+
+ If co-firing with fossil fuels,s ubmitt he allocationf ormulat hat indicatesth
+
+e
+
+
+
+ facility's annualp ercentagoef electricityp roductionf rom fossil fuels.
+
+
+
+ Is the facility a behind-the-mete(Br TM) generator?
+
+
+
+ XYes (answer (a) below)
+
+
+
+ flNo
+
+
+
+ (a) Is net metering used? XYes lNo
+
+
+
+ As of the date of this Application, is the facility currently certified by
+
+another state as an
+
+
+
+ eligible generationre sourceto meett he renewablep ortfolio standardso f that
+
+state?
+
+
+
+ nYes XNo
+
+
+
+ Name of State:
+
+
+
+ State Certification Agency :
+
+
+
+ StateC ertificationN umber:
+
+
+
+ Date Issued:
+
+
+
+ RequiredD ocumentationto be Attached:
+
+
+
+ XCunent Certificateo f GoodS tandingi,f applicablei,s suedb y the statei n
+
+which the
+
+
+
+ businessw asf ormed
+
+
+
+ nOne copy of U.S. Departmenot f Energy,E nergyI nformationA dministrationF orm
+
+EIA-
+
+
+
+ 860,i f ratedc apacityis &gt; 1.0M W
+
+
+
+ XCertificateo f Authoization to ConductB usinessin the District of Columbia.i f
+
+
+
+
+
+ applicable
+
+
+
+ XAffidavit of General Compliance
+
+
+
+ XAffidavit of EnvironmentaCl ompliancei,f the ratedc apacityi s greatert han
+
+l0kw
+
+
+
+ EDocumentationo f authorityt o signo n behalfo f Applicant
+
+
+
+ Xlnterconnectiona pproval etterf rom PEPCO,i f applicable
+
+
+
+ XDocumentationth at the energyo utputo f the nonresidentiasl olarh eating,c
+
+ooling,o r process
+
+
+
+ heatp ropertys ystemsp roducingo r displacingg reatert han 10,000k ilowatt
+
+hoursp er year
+
+
+
+ is determinedb y an on-sitee nergym etert hat meetsp erformances tandardse
+
+stablishedb y
+
+
+
+ the lntemationalO rganizationo f LegalM ehology (OIML) andt he solarc
+
+ollectorsu sed
+
+
+
+ havea OG-l00 certificationf rom the SolarR atinga ndC ertifrcationC orporation(
+
+SRCC),
+
+
+
+ if applicable
+
+
+
+ lDocumentation that the energyo utputo f the nonresidentiasl olarh eating,c
+
+ooling,o r process
+
+
+
+ heatp ropertys ystemsp roducingo r displacing1 0,000,o r less,k ilowatt-hoursp
+
+er yeari s
+
+
+
+ determinedb y the SRCCO G-300a nnuals ystemp erformancera tingp rotocola
+
+pplicable
+
+
+
+ to the property or by an onsitee nergym etert hat meetsp erformances tandardse
+
+stablished
+
+
+
+ by OIML andt he solarc ollectorsu sedh avea OG-l00 certificationf rom SRCC,i f
+
+
+
+ applicable
+
+
+
+ EDocumentationth at the residentiasl olart hermals ysteme nergyo utputi s
+
+determinedb y the
+
+
+
+ SRCCO G-300a nnuals ystemp erformancera tingp rotocolo r by an onsitee nergym
+
+eter
+
+
+
+ that meetsp erformances tandardes stablishebdy OIML andt he solarc ollectorsu
+
+sedh ave
+
+
+
+ a OG-100 certification from SRCC, if applicable
+
+
+
+ Under penaltyo f perjury, the undersignedh erebya ffirms that he/shei s
+
+authorizedt o and hereby
+
+
+
+ doesm aket his Applicationf or the Applicar-rat ndt hat basedu ponp ersonakl
+
+nowledgea nd
+
+
+
+ information the contents of this Application are true.
+
+
+
+ I0l7l20l5 BridgetC allahanS, RECO perations
+
+
+
+ Date Printed Name and Title
+
+
+
+ Notes:
+
+
+
+ 1)" Solare nergy"m eansr adiante nergy,d irect,d iffuse,o r reflected,r
+
+eceivedf rom the suna t
+
+
+
+ wavelengths uitablef or conversionin to thermal,c hemical,o r electricale
+
+nergy,t hat is collected,
+
+
+
+ generatedo,r storedf or usea t a latert ime.
+
+
+
+ 2) "Qualiffing biomass"m eansa solid,n onhazardousc,e llulosicw astem aterialt
+
+hat is
+
+
+
+ segregatedfr om other wastem aterials,a nd is derivedf rom any of the following
+
+forest related
+
+
+
+ resourcesw, ith the exceptiono f old growtht imber,u nsegregatesdo lid waste,o
+
+r postc onsumer
+
+
+
+ wastepaper:
+
+
+
+ (A) Mill residue;
+
+
+
+ (B) Precommerciaslo ft woodt hinning;
+
+
+
+ (C) Slash;
+
+
+
+ (D) Brush;
+
+
+
+ (E) Yard waste;
+
+
+
+ (F) A waste pallet, crate, or dunnage; -.
+
+
+
+ (G) Agriculturals ourcesin cludingt reec rops,v ineyardm aterialsg, rain,
+
+
+
+ legumess, ugar,a ndo therc rop by-productso r residueso; r ,
+
+
+
+ (H) Co-fired biomass.
+
+
+
+ AFF'IDAVIT OF' GENERAL COMPLIAIICE
+
+
+
+ State of DC
+
+
+
+ : ss.
+
+
+
+ County of Washington :
+
+
+
+ BrideetC allahanA, ffiant, beingd uly sworn/affirmeda ccordingto law, deposesa
+
+nds ayst hat:
+
+
+
+ He/sheis the Associate( Officer/AffranDo f GCP- Nextilitv 1. LLC (Nameo f
+
+Applicant);
+
+
+
+ That he/she is authorized to and does make this aflidavit for said Applicant.
+
+
+
+ That the Applicant herein certifies to the Commission under penalty of perjury
+
+that:
+
+
+
+ The Applicant acknowledgesth at any changei n compliances tatusc onstitutesa
+
+changeo f
+
+
+
+ information,n oticeo f which by Applicanti s requiredt o be filed with the
+
+Public Service
+
+
+
+ Commissionim mediately.
+
+
+
+ The Applicant further certifies that he/she has personally examined and is
+
+familiar with all
+
+
+
+ information containedi n the foregoinga pplication,i ncluding any attachmentsa
+
+nd appendices,
+
+
+
+ and further certifies that information to be true, correct, and complete.
+
+
+
+ Swoma nd SubscribedB eforeM e this 7 davo f October2 015.
+
+
+
+ Otstlctd0dnSla: SS
+
+
+
+ myo anrl*r odrs SePmOetlr' APo'
+
+
+
+ AFF'IDAVIT OF ENVIRONMENTAL COMPLIANCE
+
+
+
+ Nameo f RenewablEe nergyF acility( "Facility"):G CP- Nextility I,LLC
+
+-DC-ST-7.849kw
+
+
+
+ Facility
+
+
+
+ Facility address:
+
+
+
+ l7l I MassachusetAtsv e NW
+
+
+
+ Washington, DC 20036
+
+
+
+ Renewablere sourceu sed:S olart hermal
+
+
+
+ Contact person for the facility ("Contact") - include narne, address (if
+
+different from above),
+
+
+
+ phone number, and e-mail address:
+
+
+
+ Zachary Axelrod
+
+
+
+ 1606 20rh st Nw
+
+
+
+ WashingtonD, C 20009
+
+
+
+ 202-7t9-5297
+
+
+
+ srecs@nextility.com
+
+
+
+ Confirmationo f Complianceo r Non-Compliancew ith EnvironmentaRl equirements
+
+
+
+ (Check either (a) or (b)):
+
+
+
+ X(a) The Facility compliesw ith all applicables tatea ndf ederale
+
+nvironmentarle quirementso
+
+
+
+ includingo btainingo r renewinga ll applicables tatea ndf ederale nvironmentapl
+
+ermits. In
+
+
+
+ addition,t his Facility hasn ot experienceda ny major environmentavl iolationsd
+
+uringt he
+
+
+
+ precedingy ear.
+
+
+
+ n(b) The Facility doesn ot complyw ith all applicables tatea ndf ederale
+
+nvironmental
+
+
+
+ requirements.
+
+
+
+ Major environmentavl iolations( Checke ither( a) or (b)):
+
+
+
+ tr(a) The Facility hasn ot experienceda ny major environmentavl iolationsd
+
+uringt he preceding
+
+
+
+ year.
+
+
+
+ n@) The Facility hase xperienceda major environmentavl iolationd uringt he
+
+precedingy ear.
+
+
+
+ r:, r f " ' r ' . ra'
+
+
+
+ Pleaseli st all Federala nd StateE nvironmentaPl ermitsf or the facility,
+
+including permit number,
+
+
+
+ datea uthorizede, xpirationd ate,a nd agencyc ontact.
+
+
+
+ Permit Type PermitNumber Date Authorized Expiration Date Agency Contact
+
+
+
+ BridgetC allahan(, Narneo f Officer/Affiant),b eingd uly sworn/affrrmeda
+
+ccordingto law,
+
+
+
+ deposesa nds ayst hat:
+
+
+
+ He/sheis theA ssociateo f GCP- Nextility l, LLC -DC-ST-7.849kwFa cility
+
+
+
+ Thath e/sheis authorizedto andd oesm aket his affidavit for saidF acility.
+
+
+
+ ThatB ridgetC allahanh ereinc ertifiest o the PublicS erviceC ommissiono f the
+
+District of
+
+
+
+ Colurnbia under penalty of perjury that:
+
+
+
+ The Officer/Affrant acknowledgesth at any changei n compliances tatusc
+
+onstitutesa
+
+
+
+ change of information, notice of which by Officer/Affiant is required to be
+
+filed with the Public
+
+
+
+ ServiceC ommissionim mediately.
+
+
+
+ The Officer/Affiant frrther certifies that he/she has personally examined and
+
+is familiar
+
+
+
+ with all foregoingi nformation,i ncluding any attachmentas nd appendicesa, nd
+
+further certifies
+
+
+
+ that informationt o be true,c orreot,a ndc omplete.
+
+
+
+ Sworna nd SubscribedB eforeM e this 7fr Dav of October2 015
+
+
+
+ n*v**,&lt;\ tVk ,r"^1.a3 0 ,J 1t-C
+
+
+
+ DbUlc{dColurnbfaS S
+
+
+
+ It|obty
+
+
+
+ Mv Commission
+
+
+
+ My oorn{don elplrs Se@fiter d)' 2O20'
+
+
+
+ SCHEDULEA
+
+
+
+ Gcncrator Ourncrus Conscnt
+
+
+
+ The undersignedo, n behalf of the GeneratorO wnerG CP - Ncxtlllty 1, LLC t,
+
+representst o PJME nvironmentaIln formationS ervices,I nc.
+
+
+
+ ("ElS"t)h at:
+
+
+
+ 1. l/we am/aret he GeneratorO wnerw ho holdsl egalt itle to the GeneratingU
+
+nit(s)d esignatedb elgw,
+
+
+
+ 2. lAvet he GeneratorO wner,( checko ne)
+
+
+
+ InereOy grant authoritya nd permissionto AccountH older,S olS ystems,L LC2t o
+
+createa nd trade all Certificatesa ssociatedw ith the
+
+
+
+ followingG eneratingU nit(s),w hichC ertificatass hallq lsob e registeredto the
+
+GATSa ccgunt(so) fthe AccountH older,
+
+
+
+ !nerebV electt o createa nd trade all Certlflcatea ssoclatedw lth the
+
+followlngG eneratingU nlt(s)w ithln my own GATSa ccount,
+
+
+
+ 3, lftve the GeneratorO wnerf urther representst hat l/we have ngt grant&euro;d
+
+similar authority or permisslont o Bny other subscrlbero r
+
+
+
+ account holder for use in the GATS or any similar system,
+
+
+
+ 4. Uwe,t he GeneratgrO wner,u nderstandth at this Consents upersedesa ny and
+
+all Consentsth at have been submlttedp rior ta the date
+
+
+
+ specifiedh ereln,A ny ond all priorC onsentsw ill be conslderedn ull and void
+
+and the asslEnm&euro;not f rlghtst erminated,
+
+
+
+ 5. The asslgnment of rightg that occurs within this Consent dees not absolve
+
+the Gen&euro;rator Owner from upholding any contractual
+
+
+
+ obligatlonsth at exista utsideg f GATS.
+
+
+
+ 6. By executingt his Consent,t he GeneratlonO wner representsi t does not have
+
+any contractualo bllgationst hat would precludet he
+
+
+
+ executiono f this Consent.
+
+
+
+ Zachary Axelrod
+
+
+
+ President
+
+
+
+ 2015-09-14
+
+
+
+ m@vsffixM $
+
+
+
+ Name:
+
+
+
+ Title:
+
+
+
+ Date:
+
+
+
+ Sol Systems, LLC
+
+
+
+ PageT ol7
+
+
+
+ GcnGratlng Unlt N.m&euro; end Addrcss
+
+
+
+ Optlonal: lGencrrtlng Unlt Slz./Syrtan Slzal
+
+
+
+ PIM iISET lDg EIA Pl.nt CodG and Goncrator ldentlflcr (ac
+
+
+
+ rppllcablrI
+
+
+
+ GCP- Nextility1 , LLC- DC-ST-7.849kFwa cility
+
+
+
+ 1711M assachusettAsv e NW,W ashingtonD, C2 0036
+
+
+
+ 7,849 kW (or equivalent)
+
+
+
+ Dlrcctlons for Gcncrator Ownc/s ConsGnt
+
+
+
+ All Informatlon on thls Goncrutor Owncdr Con3cnt muit bG tyrpcd or ncatly
+
+prlntcd In bluc or black Ink as follows:
+
+
+
+ l. Filli n the GeneratorO wner'sf ull legaln ame,i .e.A BCD omesticE nergyC
+
+ompany,I nc.
+
+
+
+ 2. Filli ntheAccountHolder'sfullel galn ame,i.e.ABCDomesticEnergyCompalnncy,,
+
+
+
+ 3. lf GeneratorO wneri s a corporationp, artnershipo r other legale ntity,t his
+
+Consentm ust be executedb y a companyo fficero f the
+
+
+
+ GeneratorO wner,l f GeneratorO wneri s an individualt,h is Consentm ust be
+
+executedb y the individual,
+
+
+
+ 4. Returnt he original,c ompletedC onsent o:
+
+
+
+ GATS Admlnlstr.tor
+
+
+
+ c/o PIM Envlronm.ntal Informatlon Scn lcGs t
+
+
+
+ lnc., 9S5 rCftanlon Avanu. '' ; y
+
+
+
+ Norrl3town, PA 19403-2497
+
+
+
+ ilt|| ilitl litl ililil1rililili|li tlili illiillitlilltt|] |i ll tililtlftfiil
+
+lilIt
+
+
+
+ d{*&
+
+
+
+ ffi oFrHE
+
+
+
+ DI$TRICOT FCOLUMEIA
+
+
+
+ trrtu*etgoWsMera,y or
+
+
+
+ Departmenta f Consunngarn d RggulatoryA f-fairs
+
+
+
+ BusinesLsi censDe ivision
+
+
+
+ liso 46 Street 5.w.
+
+
+
+ WashingtonD c I0u34
+
+
+
+ Sstelcsriedt 03/1212015
+
+
+
+ Category: 4003
+
+
+
+ Lisense#; 400315901845
+
+
+
+ LicensFe erind:0 3/01/201S0e/2812Q17
+
+
+
+ Bitling Neme and Address:
+
+
+
+ GCP-NEXTILIW 1, LLC
+
+
+
+ FROOKE SHEPPARD
+
+
+
+ 1606 20TH ST Nw,
+
+
+
+ WA$HINGTON,
+
+
+
+ DC 20009
+
+
+
+ FremiselApplication'lsr larnea nd gddiCgsr
+
+
+
+ GCP-NEXTILI1T,YL L C
+
+
+
+ 116026O THS YREETN \AI;
+
+
+
+ wnsnrNeroNi
+
+
+
+ DC 20009
+
+
+
+ RegisteredA gent'sN amea nd Address:
+
+
+
+ GCP-NEXTILIT1Y. LLC
+
+
+
+ ZACHARYMELROD
+
+
+
+ 1749T ST NW,
+
+
+
+ #APT 1
+
+
+
+ WASH|NGTON,'D2CO OO9
+
+
+
+ Owner'Nsa me
+
+
+
+ fibrp.N ame GCP-Nerdility1., LLC
+
+
+
+ trade trtarfie
+
+
+
+ i ctns:
+
+
+
+ i coto/HoCprO: 13024ll : ssL:$693
+
+
+
+ GeneraBl usinpg-s G eneraBl usinesLs icenses
+
+
+
+ THEL AW REQUIRETSI .JISL ICINS{T O B[ I]OSTFDIh JA CONSPICUOUPSL ACEO N TFIEP
+
+REMISES_
+
+
+
+ Inter i rnD i rectorM: el indaB ol l ing
+
+
+
+ *LinenseF ffectiuefr ornt he tatero f lssuedn r Starto f Liienie-PeriodD ate
+
+
+
+ lJ nit{s}
+
+
+
+ * 1 * *
+
+
+
+ tlcovernment of the Districto f Golumbia
+
+
+
+ GERTIFICATOE F CLEANH ANDS
+
+
+
+ GCP.NEXTILIT1Y, LLC
+
+
+
+ NOA DDRESSO N FILE
+
+
+
+ NA, NA OOOOO
+
+
+
+ EIN : *****3733
+
+
+
+ As reported in the Gitywide Clean Hands sys,fgqi'tfie above referenced
+
+
+
+ individual or entity has no outstandingo,.l{a$illtwYi th the District of
+
+
+
+ Columbia. As of the date herein,y ou ha4tqc.o, mpliedw ith the followlng
+
+
+
+ official DC code and therefore are'.isaUed this Certificate of Clean
+
+
+
+ Hands. ,t,,.,, .,.
+
+
+
+ .) ,,, ,,,,,
+
+
+
+ TITLE4 7.T MATION,L ICEN$INGP, ERMITSA, SSESSMENTASN D FEES
+
+
+
+ CHAP,.TE2R8 . GENERALL ICENSEL AW
+
+
+
+ SUBCHAPTERII. C EEANfI ANDSB EFORER ECEIVINGA LICENSEO R PERMIT
+
+
+
+ ;u
+
+
+
+ ''' ^ i. Code 847-2862(2000)
+
+
+
+ S 47"280?.P r:ohibitioang ainsti ssuanceo f licenseo r permit.
+
+
+
+ . :,|ttil.t .,
+
+
+
+ Authorized By Bobby Tueker
+
+
+
+ Chief Collection Dlvision
+
+
+
+ Tracking#:@!
+
+
+
+ Date: Tuesdav this 12th dav of Mav 2015 01:46 PM
+
+
+
+ This document is a certified, complote and tue copy
+
+
+
+ t7 t l /1ass Aru-
+
+
+
+ CERTIF]EDS OLARC OLLECTOR
+
+
+
+ SUPPLIER:
+
+
+
+ Heliodyne,lr rc.
+
+
+
+ 4910S eaoorAt venue
+
+
+
+ RichmondC. A 94804U SA
+
+
+
+ www.heliodyne.com
+
+
+
+ In Accordancew ith:
+
+
+
+ BRAND:
+
+
+
+ MODEL:
+
+
+
+ GOBI
+
+
+
+ 410 001
+
+
+
+ COLLECTORTY PE: GlazedF latP late
+
+
+
+ GERTIFICATION#: 2010115A
+
+
+
+ OriginaCl ertification: March2 8, 2011
+
+
+
+ ExpirationD ate: February'1 6,2023
+
+
+
+ The solarc ollectolri stedb elowh as beene valuatedb y the SolarR ating&
+
+CertificatioCn orporationil( SRCCil),a n ISO/IEC1 7065a ccrediteda nd EPA
+
+
+
+ recognizedC ertificationB ody,i n accordancew ith SRCCO G-100,O peratingG
+
+uidelinesa nd MinimumS tiandardfso r Cefifying SolarC ollectorsa, nd has
+
+b&euro;en
+
+
+
+ certifiedb y th6 SRCC.T his awardo f certificationis subj&euro;ctt o all
+
+t&euro;rmsa nd conditionso f the ProgramA greom&euro;nat nd the docum&euro;ntsin
+
+corporatedth ereinb y
+
+
+
+ referenceT. his documentm ustb e reproducedin its entire$.
+
+
+
+ REMARKS:
+
+
+
+ #ei^NWrr-"
+
+
+
+ PrintD ate:J anuary2, 015P age1 of 3
+
+
+
+ Pleasev eri! certificatioins activeo n the SRCCw ebsite.
+
+
+
+ @S olarR ating& CertificatioCn orporationil
+
+
+
+ COLLECTORT HERMALP ERFORI',ANCER ATING
+
+
+
+ Klldrat+orJlr (themal) PcrPanol P&euro;r Day Thousandost BfuP &euro;rP anaPl
+
+erD ay
+
+
+
+ -Climate -&gt; High Radiation
+
+
+
+ (6.3 kwh/m'z.day)
+
+
+
+ Medium Radiation
+
+
+
+ (4.7 kWh/rn'z.day)
+
+
+
+ Low Radiation
+
+
+
+ (3.1 kwh/m,.day)
+
+
+
+ Climate -&gt; High Radiation
+
+
+
+ (2000 Btu/ft'.day)
+
+
+
+ Medium Radiation
+
+
+
+ (1500 Btu/ft'a.day)
+
+
+
+ Low Radiatlon
+
+
+
+ Cat6gory (1000B tu/fr'z.day)
+
+
+
+ CIi-Ta)
+
+
+
+ Category
+
+
+
+ [Ii-Ta)
+
+
+
+ A G5'c) 't6.9 12.8 8.7 A Ge'F) 57.6 43.5 29.5
+
+
+
+ B (5'c) '15.4 11.2 7.1 B (s'F) 52.4 38.4 24.4
+
+
+
+ c (20'c) 13.1 9.1 5.1 c (36'F) 44.7 30.9 17.3
+
+
+
+ D (50'C) 9.0 5.2 't.7 D (90'F) 30.7 17.7 5.7
+
+
+
+ E (80'C) 5.3 2.1 0.0 E (1.14'F) 18.2 7.0 0.0
+
+
+
+ A- PoolH eating( WarmC limate)B - PoolH eating( CoolC limate)G WaterH eating(
+
+WarmC limate)
+
+
+
+ D' Space& WaterH eating( CoolC limate)E - CommerciaHl otW ater& Gooling
+
+
+
+ COTLECTORSP ECIFICATIONS
+
+
+
+ GlasArea: 3.732m2 40.17tr DryWelght: 44 ko 96 tb
+
+
+
+ NetApaftJEAtaa: 3.468 mz 37.33 ff Fluld Caoacftv: 5.1 liter 1.3 gal
+
+
+
+ AbsorberArea: 3.438m ? 37.01ff TestR pssur&euro;: 1103k Pa 160p si
+
+
+
+ TECHNICALIN FORi/IAT|ON TestedI n accordancew itt: ISO9 806:1994
+
+
+
+ ISO Efidency Equatbn [NOTE: Based on gross area and (P)=Ti-Ta]
+
+
+
+ SI UNITS: n= 0.750- 3.68570(P/G- )0 .005s0(P?G) Y lnfrercsot 0.752 Slope: 4.023
+
+Wmz.'C
+
+
+
+ IP UNITS: n= 0.750- 0.64958(P/G-) 0 .00054(P?G) Y lntorcoDt o.752 Sbpe: {.709
+
+Btu/hr.fF.'F
+
+
+
+ Inddent Anole Modlfier Teet Fluld: Water
+
+
+
+ 0 1 0 20 30 40 50 60 70 Teet MairsF lw Rate: 0.0222k s/(sm ') I 16.40l b(hr ff)
+
+
+
+
+
+ Krs 1.00 0.99 0.99 0.97 0.93 0.84 0.53 lmDact Ssf&euro;tv Rauno: 1'l
+
+
+
+ 1) 821-0910
+
+
+
+ TechnicaDl irector
+
+
+
+ o 400H ishP ointD riveS, uite4 00t ) CocoaF, lorida3 2926a (321)2 1&6037a Fax
+
+
+
+ SUPPLIER:
+
+
+
+ Hcllodyne, Ine
+
+
+
+ 4910S caporAt venue
+
+
+
+ RichmondC, A 94804U SA
+
+
+
+ www.heliodyne.com
+
+
+
+ In Accordancew ith:
+
+
+
+ CERTI FIED SOIIR @I,IEGTOR
+
+
+
+ BRANDI cOBl
+
+
+
+ MODEL: 410001
+
+
+
+ COLLECTORTY PE: GlezedF IstP lete
+
+
+
+ CERTIFICATION#2: 010115A
+
+
+
+ OriginaCl ertiflcation:M arch28,2011
+
+
+
+ ExpirationD ate: February1 6,2023
+
+
+
+ The solarc ollectorli stedb elowh as beene valuatedb y the SolarR ating&
+
+CertificatioCn orporationr(uS RCCT'Ja),n ISO/IEC1 7065a ccredited
+
+
+
+ and EPAr eeognlzedC ertificaUoBno dy,i n accordancew ith SRCCO G-lOOO,
+
+poretingG uidelinesa nd MinlmurnS tandardsfo r Certifyhgg olar
+
+
+
+ Colloctorsa, nd has bcenG &euro;rtlfiedb y tho SRCC.T hisa wardo f
+
+certificstionis subjoct o all termsa ndc onditioneo f the ProgremA gr6emenat nd
+
+
+
+ the documantsIn corporatetdh &euro;reinb y r6forenceT. hisd ocumenmt ustb e
+
+reproducedin itg eritirety.
+
+
+
+ solrR corr-EcTocRo NsrRudofl ND ErAtLs
+
+
+
+ GrcrgL cmtr: I g.oagm GrodaW ldtr: 1.208m lOrulledr: 70.000m m
+
+
+
+ COIIECTORMATERIALS
+
+
+
+ OuhrCoven Glass eheet Endqrre back Aumlnum Bed&lt; lnaieton: Foam, None
+
+
+
+ InnerC ovor: None Encloeuns lile: Alumlnum Sldr lnsuldon: . Foam,N one
+
+
+
+ AbcstterDcedptonl Tubesc onnectedto SingleS heet Flowffin: Parellel/Harp
+
+
+
+ RlrotTubr Copper Fln: Alumihum
+
+
+
+ AbcorboGr oa0ng: Selective Tubeblln (finc.ilon Other
+
+
+
+ PrintD ate:J anuery2, 015P age2 of 3
+
+
+
+ Ploasev eriff certificatioins activeo n the SRCCw eb6ite.
+
+
+
+ @S olarR ating& GertificdtioCn orporatlonil
+
+
+
+ Atr)DffiOl{ALIN FORMAflON(c lickh eret o retumt o the ratingp age)
+
+
+
+ T&euro;stL ab: PacificE nergyT estino,L LC TestD ate: February1 6,201'l
+
+
+
+ Test Roport Number: 1 1-2010-002 Test Locatlon: outdoorB
+
+
+
+ OLAANG OubrCo\nr InncrGolcr
+
+
+
+ ltlrtadal: Gless eheet None
+
+
+
+ Surfru Cluncledrtbr: Textured
+
+
+
+ Thlclataos: 4.0 mm N/A
+
+
+
+ Truffilldrdu High( equatlo or greetetrh an9 0%)
+
+
+
+ !!!s: - 3.048 m
+
+
+
+ mfri: 1.16m8
+
+
+
+ TubcG Hm b itcrOorEndorureS eal; EPDMg askot
+
+
+
+ ABSIOREER AbcodcrGoetn$ lsetective
+
+
+
+ Heed.rlltrftl: Copper HeadrOD: 28.6 mm HeadcrWdl: 0.9 mm
+
+
+
+ RharTube Matcdd: Copper RbefTuboO D! 10.0m m RbarTubeWall
+
+
+
+ Thldcrocs:
+
+
+
+ 0.8 mm
+
+
+
+ FlnMahhl: Alumlnum Flnlltklafis: 0.51mm
+
+
+
+ O4 00P lishP oint Suite4 00| GocoaF, lorida3 2926| (321)2 13"603O7 Fax 821-0910
+
+
+
+
+
+ SUPPLIER:
+
+
+
+ Hello4me, Inc.
+
+
+
+ 4910S eaporAt venue
+
+
+
+ RichmondC, A 94804U SA
+
+
+
+ www.heliodyne.com
+
+
+
+ In Accordancew ith;
+
+
+
+ CERI]FIED SOI-AR @I.IECTOR
+
+
+
+ BRAND: GOBI
+
+
+
+ MODEL: 410001
+
+
+
+ COLLECTORTY PE: GiazedF latP late
+
+
+
+ CERTIFICATION#2: 010115A
+
+
+
+ OriginaCl ertification: March2 8, 2011
+
+
+
+ ExpirationD ate: February1 6,2023
+
+
+
+ The solarc ollectorli stedb elowh as beene valuatedb y the SolarR ating&
+
+CertificatioCn orporationil( SRCCrr')a, n ISO/IEC1 7065a ccredited
+
+
+
+ andE PAr ecognizeCd ertificatioBno dy,i n accordancwei thS RCCO G-100O,
+
+peratingG uidelineasn dM inimumS tandardfso r CertifyinSg olar
+
+
+
+ Collectorsa, nd has beenc ertifiedb y the SRCC.T hisa wardo f certificationis
+
+subject o all termsa ndc onditionso f the ProgramA greemenat nd
+
+
+
+ the documentsin corporatetdh ereinb y referenceT. hisd ocumenmt ustb e
+
+reproducedin its entirety.
+
+
+
+ PrintD ate:J anuary2, 015P age3 of 3
+
+
+
+ Pleasev erifoc ertificationis activeo n the SRCCw ebsite.
+
+
+
+ @ Solar Rating & Ceilification Corporationil
+
+
+
+ O 400 High Point Drive, Suite 400 O Cocoa, Florida 32926 a (321) 21&6037 a Fax
+
+
+
+ Flow ffirn: Parallel/Harp
+
+
+
+ Numberof Rleer
+
+
+
+ Tube:
+
+
+
+ 1 1 TubeS@ng: 103.0m m Numberdtmc
+
+
+
+ eecfi dsercluse
+
+
+
+ theabeotber:
+
+
+
+ I
+
+
+
+ tsngth of Flow Paft: 2.95 m Rlserb Fln/FlS
+
+
+
+ Bond:
+
+
+
+ Other
+
+
+
+ INSUIATION:
+
+
+
+ tocadon Tpe Thlclspss Locaton Twe Thlclste$
+
+
+
+ Bad&lt;-Top l-ayen Foam 32.0 mm Slde - Inner l-ayrn Foam 25.0 mm
+
+
+
+ Bed(-Bo(bm L*tr: None Sldee-otftrlaYec None
+
+
+
+ Endculo Faslenlm Meftods: Screws
+
+
+
+ Po*or OuSrt pcr Collecto(tV)
+
+
+
+ lTl-'Ta,G = 10fl)W irf I
+
+
+
+ 0 10 30 60 70
+
+
+
+ 2798 2658 2367 2059 1 73s
+
+
+
+ PRESSURE DROP
+
+
+
+ Fbw AP Flow AP
+
+
+
+ mUs Pa cPnl ln lLO
+
+
+
+ 20 17 0.32 0.1
+
+
+
+ 50 93 0.79 0.4
+
+
+
+ 80 232 1.27 0.9
+
+
+
+ 821-0910
+
+
+
+ Sigora Solar
+
+
+
+ 292Rae Ave.B uilding3
+
+
+
+ WaynesboroV, A 22980 US
+
+
+
+ (540)949-6553
+
+
+
+ teni.thompson@sigorasola@r.m
+
+
+
+ INVOICE
+
+
+
+ BILL TO
+
+
+
+ NextilitvM assachusettsA ve.
+
+
+
+ 1606 20th Street NW, 2nd Flaor
+
+
+
+ WashingtonD, C 20009
+
+
+
+ W'fw
+
+
+
+ fNVOfCE # 141',1
+
+
+
+ DATE 09/10/2015
+
+
+
+ DUE DATE 1OI1OI2O15
+
+
+
+ TERMS Net30
+
+
+
+ Govt lnspections Gate 3
+
+
+
+ Massachusetts
+
+
+
+ 10o/o
+
+
+
+ Gommercial Solar Thermal System Installation
+
+
+
+ Installationa t * ftF.NW'
+
+
+
+ 0.10 173,000.00 17,300.00
+
+
+
+ BALANCED UE $17,300.00
+
+
+
+ Sigora Solar
+
+
+
+ 292RaenA ve.B uildins3
+
+
+
+ WaynesboroV,A 22990U S
+
+
+
+ (540)949&euro;5s3
+
+
+
+ teni.thompson@sigorascoolamr
+
+
+
+ INVOICE
+
+
+
+ BILL TO
+
+
+
+ NextilityM assachuseftAs ve.
+
+
+
+ 1606 20th Sheet NW,2nd Floor
+
+
+
+ WashingtonD, C 20009
+
+
+
+ f NVOfCE # 1412
+
+
+
+ DATE 09/10/2015
+
+
+
+ DUE DATE 1OI1OI2O15
+
+
+
+ TERMS Net30
+
+
+
+ System Gete 4
+
+
+
+ Generating
+
+
+
+ Massachusetts
+
+
+
+ 1OYo
+
+
+
+ Gommercial Solar Thermal System Installation
+
+
+
+ SystemG eneratingE nergy- BostonH ouse
+
+
+
+ 0.10 173,000,00 17,300.00
+
+
+
+ BALANCED UE $17,300.00
+
+
+
+ Sigora Solar
+
+
+
+ 292 RaceA ve.B uilding3
+
+
+
+ WaynesboroV, A 22980U S
+
+
+
+ (540)949-6553
+
+
+
+ terri.thompson@sigorasolar'com
+
+
+
+ INVOICE
+
+
+
+ BILL TO
+
+
+
+ NextilityM assachusettsA ve.
+
+
+
+ 1606 20th Street NW, 2nd Floor
+
+
+
+ WashingtonD, C 20009
+
+
+
+ fNVOIC#E 1413
+
+
+
+ DATE 08/06/2015
+
+
+
+ DUE DATE 09/05/2015
+
+
+
+ TERMS Net30
+
+
+
+ Nextility Insp. Gate 5
+
+
+
+ Massachusetts
+
+
+
+ 25o/o
+
+
+
+ Gommercial Solar Thermal System lnstallation
+
+
+
+ lnstaffatioant 1711M assachuseftAsv e.N W
+
+
+
+ 173,000.00
+
+
+
+ BALANCED UE $43,250.00
+
+
+
+ l " \ , \
+
+
+
+ Sigora Solar
+
+
+
+ 292R aceA ve.B uilding3
+
+
+
+ WaynesboroV,A 22980U S
+
+
+
+ (540)9496553
+
+
+
+ teni.thompson@sigorasolar.oom
+
+
+
+ INVOICE
+
+
+
+ BILL TO
+
+
+
+ NextilityM assachusetAtsv e.
+
+
+
+ 16062 0thS treeNt W,2ndF loor
+
+
+
+ WashingtonD, C 20009
+
+
+
+ fNVO|CE # 1414
+
+
+
+ DATE 09/10/2015
+
+
+
+ DUE DATE 1OI1OI2O15
+
+
+
+ TERMS Net30
+
+
+
+ System Optim. Gato 6
+
+
+
+ Massaciusetts
+
+
+
+ 5%
+
+
+
+ GommerciaSl olarT hermalS yetemI nstallation
+
+
+
+ lnstallatioant 1711M assachusefAtsv e.N W
+
+
+
+ 0.05 173,000.00 8,650.00
+
+
+
+ BALANCED UE $8,650.00
+
+
+
+ z==;
+
+
+
+ v f
+
+
+
+ / t z - \
+
+
+
+ Xor &gt;+ = &euro;-
+
+
+
+ a
+
+
+
+ r--l
+
+
+
+ ..\
+
+
+
+ (O
+
+
+
+ O
+
+
+
+ +
+
+
+
+ Ol
+
+
+
+ +X
+
+
+
+ ----l
+
+
+
+ --l
+
+
+
+ l
+
+
+
+ Xi
+
+
+
+ " r : : i ' r : ] -,, r-. - * . .
+
+
+
+ :i ? i
+
+
+
+ . . i - . r
+
+
+
+ .
+
+
+
+ o.,,&euro;
+
+
+
+ F 6
+
+
+
+ ',.' l
+
+
+
+ mq)
+
+
+
+ C)ao
+
+
+
+ Ic
+
+
+
+ &gt;= z\
+
+
+
+ ou)
+
+
+
+ r
+
+
+
+ m
+
+
+
+ zoz
+
+
+
+ mmT
+
+
+
+ zo!
+
+
+
+ za
+
+
+
+ Zi
+
+
+
+ ---l r &gt;r
+
+
+
+ an r
+
+
+
+ (t
+
+
+
+ Tr
+
+
+
+ m
+
+
+
+ A
+
+
+
+ m
+
+
+
+ o:r
+
+
+
+ Boston House
+
+
+
+ INSTALLATIOONF SOLARW ATERH EATINGS YSTEM
+
+
+
+ \ / l
+
+
+
+ IF
+
+
+
+ N 1711M os sochuset tAsv e NW,W oshinqtonD, C 20036
+
+
+
+ I
+
+
+
+ I
+
+
+
+ II
+
+
+
+ II
+
+
+
+ T
+
+
+
+ U
+
+
+
+ 5
+
+
+
+ th t,
+
+
+
+ aT
+
+
+
+ g,I
+
+
+
+ t
+
+
+
+ T
+
+
+
+ $If
+
+
+
+ T
+
+
+
+ T
+
+
+
+ II
+
+
+
+ I
+
+
+
+ TIfI
+
+
+
+ rtI
+
+
+
+ II
+
+
+
+ f;Ft
+
+
+
+ F
+
+
+
+ tIII
+
+
+
+ Pr
+
+
+
+ 1
+
+
+
+ Il,
+
+
+
+ I
+
+
+
+ fI
+
+
+
+ III
+
+
+
+ ta
+
+
+
+ I
+
+
+
+ tII
+
+
+
+ a
+
+
+
+ I
+
+
+
+ 1
+
+
+
+ f
+
+
+
+ P!
+
+
+
+ T$
+
+
+
+ t t t I
+
+
+
+ I
+
+
+
+ a
+
+
+
+ I
+
+
+
+ I
+
+
+
+ t tli
+
+
+
+ I I I I
+
+
+
+ rltl tl I
+
+
+
+ I t I ni
+
+
+
+ t I F
+
+
+
+ I
+
+
+
+ tI rl
+
+
+
+ I J ,t
+
+
+
+ tt
+
+
+
+ t tt
+
+
+
+ tI
+
+
+
+ a a I rl
+
+
+
+ ilil;I:I
+
+
+
+ ll
+
+
+
+ E
+
+
+
+ s
+
+
+
+ fl I I
+
+
+
+ II
+
+
+
+ et
+
+
+
+ 6'
+
+
+
+ I
+
+
+
+ t
+
+
+
+ "s
+
+
+
+ I
+
+
+
+ c
+
+
+
+ I5
+
+
+
+ Fs
+
+
+
+ 9
+
+
+
+ I
+
+
+
+ gI
+
+
+
+ -It
+
+
+
+ r
+
+
+
+ F
+
+
+
+ 1[
+
+
+
+ f5
+
+
+
+ g6
+
+
+
+ r
+
+
+
+ $
+
+
+
+ I
+
+
+
+ t
+
+
+
+ $
+
+
+
+ T
+
+
+
+ i&
+
+
+
+ I
+
+
+
+ t
+
+
+
+ 5
+
+
+
+ I
+
+
+
+ E
+
+
+
+ tII
+
+
+
+ a
+
+
+
+ =
+
+
+
+ c
+
+
+
+ r[]l riE$ t l o s llt I
+
+
+
+ 1ffi
+
+
+
+ To
+
+
+
+ a
+
+
+
+ o
+
+
+
+ =
+
+
+
+ o
+
+
+
+ -'
+
+
+
+ o
+
+
+
+ 3
+
+
+
+ f
+
+
+
+ th
+
+
+
+ I;q
+
+
+
+ J
+
+
+
+ *f,'
+
+
+
+ i
+
+
+
+ a
+
+
+
+ r&euro;ar
+
+
+
+ I i
+
+
+
+ t $ q t
+
+
+
+ l "
+
+
+
+ I
+
+
+
+ ! r o *$r ; a : + i r 5i E ?#
+
+
+
+ t 4 t
+
+
+
+ liE
+
+
+
+ i " -
+
+
+
+ l o 3
+
+
+
+ + 1 8
+
+
+
+ f t
+
+
+
+ i l r
+
+
+
+ s"
+
+
+
+ I
+
+
+
+ ti {
+
+
+
+ I
+
+
+
+ fI
+
+
+
+ t
+
+
+
+ I
+
+
+
+ ;
+
+
+
+ 9,
+
+
+
+ I
+
+
+
+ g
+
+
+
+ I
+
+
+
+ d
+
+
+
+ te
+
+
+
+ q
+
+
+
+ rt
+
+
+
+ II
+
+
+
+ T
+
+
+
+ I
+
+
+
+ I
+
+
+
+ ;r Er
+
+
+
+ a l : t
+
+
+
+ l r
+
+
+
+ * i sg
+
+
+
+ l a
+
+
+
+ F i
+
+
+
+ F l
+
+
+
+ &euro;I
+
+
+
+ t
+
+
+
+ ;
+
+
+
+ E
+
+
+
+ r
+
+
+
+ 7il
+
+
+
+ I
+
+
+
+ t
+
+
+
+ a
+
+
+
+ I
+
+
+
+ -
+
+
+
+ E
+
+
+
+ ec
+
+
+
+ I
+
+
+
+ I
+
+
+
+ tI
+
+
+
+ I
+
+
+
+ p
+
+
+
+ e
+
+
+
+ I
+
+
+
+ ttI
+
+
+
+ d
+
+
+
+ e
+
+
+
+ =
+
+
+
+ i
+
+
+
+ o
+
+
+
+ lg
+
+
+
+ 5
+
+
+
+ Et
+
+
+
+ ?I
+
+
+
+ E
+
+
+
+ 6
+
+
+
+ I
+
+
+
+ +
+
+
+
+ I
+
+
+
+ \
+
+
+
+ T
+
+
+
+ I
+
+
+
+ cxt
+
+
+
+ t
+
+
+
+ Irl I t l
+
+
+
+ TT
+
+
+
+ r g
+
+
+
+ * i
+
+
+
+ iF l e
+
+
+
+ i \
+
+
+
+ 3ir
+
+
+
+ Ii 3?
+
+
+
+ lqa
+
+
+
+ .I5t t
+
+
+
+ g
+
+
+
+ II
+
+
+
+ r t
+
+
+
+ 1l
+
+
+
+ l l
+
+
+
+ tt
+
+
+
+ 5: f
+
+
+
+ ?*
+
+
+
+ t l
+
+
+
+ i !
+
+
+
+ .E',g
+
+
+
+ s t
+
+
+
+ l ! rI
+
+
+
+ i l
+
+
+
+ 1t
+
+
+
+ 9e
+
+
+
+ Fc
+
+
+
+ . E
+
+
+
+ * [
+
+
+
+ er
+
+
+
+ l d ! *
+
+
+
+ ( i
+
+
+
+ e t
+
+
+
+ 5i
+
+
+
+ i*
+
+
+
+ ig"
+
+
+
+ -=t 1
+
+
+
+ t e
+
+
+
+ iT
+
+
+
+ i t
+
+
+
+ i l
+
+
+
+ 9 l Ft
+
+
+
+ {t i I
+
+
+
+ t I II
+
+
+
+ I
+
+
+
+ tI
+
+
+
+ tI
+
+
+
+ I I
+
+
+
+ I T '|
+
+
+
+ t t I
+
+
+
+ I
+
+
+
+ I
+
+
+
+ I I t
+
+
+
+ t i I
+
+
+
+ I
+
+
+
+ I
+
+
+
+ a I t
+
+
+
+ !II
+
+
+
+ ! I I
+
+
+
+ I r I
+
+
+
+ I
+
+
+
+ I
+
+
+
+ t rl
+
+
+
+ I I I
+
+
+
+ ! I II
+
+
+
+ Irt I
+
+
+
+ t I 'i
+
+
+
+ I I Itt
+
+
+
+ I| ll i!
+
+
+
+ 5
+
+
+
+ I
+
+
+
+ I
+
+
+
+ I
+
+
+
+ aI
+
+
+
+ z{- -r &gt;
+
+
+
+ ao
+
+
+
+ r
+
+
+
+ @z
+
+
+
+ z
+
+
+
+ --{
+
+
+
+ m
+
+
+
+ TA
+
+
+
+ I
+
+
+
+ t
+
+
+
+ I
+
+
+
+ rn
+
+
+
+ r
+
+
+
+ Boston House
+
+
+
+ TNSTALLATTO_ONF SOL4R WAT,ERH EATTNQS YSTEM
+
+
+
+ tvtf v
+
+
+
+ l r r
+
+
+
+ I t r
+
+
+
+ N= ID 1711M ossochuset tsA ve NW, WoshingtonD, C 200J0
+
+
+
+ I
+
+
+
+ FE
+
+
+
+ F1gf ;3
+
+
+
+ s,iit:i3ii
+
+
+
+ I
+
+
+
+ et
+
+
+
+ 5{l
+
+
+
+ I
+
+
+
+ E^O
+
+
+
+ ---\'--(\;Eo d -lf
+
+
+
+ P \
+
+
+
+ ' r f
+
+
+
+ :"(9s
+
+
+
+ 9:.
+
+
+
+ E'
+
+
+
+ I
+
+
+
+ ---&gt;
+
+
+
+ sd
+
+
+
+ q o
+
+
+
+ g l
+
+
+
+ Fi
+
+
+
+ I t ir_
+
+
+
+ e i
+
+
+
+ Tl.
+
+
+
+ 35
+
+
+
+ ! t rH
+
+
+
+ c i
+
+
+
+ Ti,
+
+
+
+ 36
+
+
+
+ +$
+
+
+
+ fs
+
+
+
+ !i q E
+
+
+
+ I
+
+
+
+ 1 \
+
+
+
+ r'5r'
+
+
+
+ \ r
+
+
+
+ l x
+
+
+
+ ?g - ' i '
+
+
+
+ irt
+
+
+
+ ilii
+
+
+
+ "r
+
+
+
+ lr
+
+
+
+ t: QT
+
+
+
+ i b "
+
+
+
+ (I,
+
+
+
+ (t
+
+
+
+ rrl
+
+
+
+ rrl
+
+
+
+ z
+
+
+
+ U)
+
+
+
+ --.{
+
+
+
+ rrl
+
+
+
+ It
+
+
+
+ -
+
+
+
+ rfl =
+
+
+
+ Boston House
+
+
+
+ INSTALLATIONO F SOLAR WATERH EATINGS YSTEM
+
+
+
+ 1711M ossochuset tsA ve NW, WoshingtonD, C 20036
+
+
+
+ oo
+
+
+
+ (!
+
+
+
+ s
+
+
+
+ d
+
+
+
+ o
+
+
+
+ ;o
+
+
+
+ t-oc)
+
+
+
+ lmU
+
+
+
+ m
+
+
+
+ v
+
+
+
+ m
+
+
+
+ o
+
+
+
+ oo
+
+
+
+ d
+
+
+
+ T
+
+
+
+ { l
+
+
+
+ r t r g
+
+
+
+ a ' 2
+
+
+
+ 6 - o g
+
+
+
+ =o _Y
+
+
+
+ 843 O N
+
+
+
+ E &lt;
+
+
+
+ s- 9.
+
+
+
+ o o
+
+
+
+ o i q
+
+
+
+ 9 t
+
+
+
+ c o
+
+
+
+ 9 9 .
+
+
+
+ a a
+
+
+
+ o o
+
+
+
+ ; f'F
+
+
+
+ : g o
+
+
+
+ - 6 9
+
+
+
+ iqg
+
+
+
+ J F
+
+
+
+ : ;
+
+
+
+ N - T
+
+
+
+ -
+
+
+
+ c
+
+
+
+ -i
+
+
+
+ rq
+
+
+
+ I
+
+
+
+ trl
+
+
+
+ Boston House
+
+
+
+ tNSIALLATTqUOFS OLAR-W ATERH EAJTNGS YSTEM
+
+
+
+ t q
+
+
+
+ tF
+
+
+
+ t\) N 1711M os sochuset tAsv e NW,W oshingtonD, C 20036
+
+
+
+ I
+
+
+
+ of X:r t
+
+
+
+ o-\ Q
+
+
+
+ c 6
+
+
+
+ c \ / T
+
+
+
+ : ^ x
+
+
+
+ T 3 5 '
+
+
+
+ o - @
+
+
+
+ I
+
+
+
+ 1
+
+
+
+ D
+
+
+
+ I
+
+
+
+ I
+
+
+
+ E
+
+
+
+ t)
+
+
+
+ D
+
+
+
+ 5- r.
+
+
+
+ - \
+
+
+
+ = &lt; I O
+
+
+
+ i l l r i l r l
+
+
+
+ dasE
+
+
+
+ i o H ' '
+
+
+
+ o -
+
+
+
+ ; ; ;
+
+
+
+ -
+
+
+
+ XI
+
+
+
+ E n
+
+
+
+ o
+
+
+
+ v c)
+
+
+
+ oo
+
+
+
+ !
+
+
+
+ o
+
+
+
+ 4 9
+
+
+
+ : 6 ,
+
+
+
+ g i
+
+
+
+ R - Y
+
+
+
+ (/)
+
+
+
+ oo
+
+
+
+ !q
+
+
+
+ ..
+
+
+
+ N)
+
+
+
+ i@
+
+
+
+ io
+
+
+
+ irn
+
+
+
+ iv iv
+
+
+
+ io ;o
+
+
+
+ I=
+
+
+
+ ?
+
+
+
+ I
+
+
+
+ E
+
+
+
+ I
+
+
+
+ I
+
+
+
+ =
+
+
+
+ lE
+
+
+
+ - = - l ?
+
+
+
+ i l i l l l g
+
+
+
+ &gt; ' @ x 1 3 e -'. {lQ
+
+
+
+ .i7
+
+
+
+ l t
+
+
+
+ |/
+
+
+
+ 5 :
+
+
+
+ :\
+
+
+
+ a
+
+
+
+ o
+
+
+
+ !q
+
+
+
+ z. --t
+
+
+
+ @
+
+
+
+ oP
+
+
+
+ oa
+
+
+
+ I
+
+
+
+ zx
+
+
+
+ o
+
+
+
+ r
+
+
+
+ cI
+
+
+
+ vr
+
+
+
+ r
+
+
+
+ Boston House
+
+
+
+ INSTALLATIOONF SOLARW ATERH EATINGS YSTEM
+
+
+
+ IF
+
+
+
+ O.J N 1711M os sochuset tAsv e NW,W oshingtonD, C 20036
+
+
+
+ TD
+
+
+
+ (t
+
+
+
+ r
+
+
+
+ r
+
+
+
+ z.
+
+
+
+ f Jim L * { 1 } + *
+
+
+
+ o,
+
+
+
+ 54
+
+
+
+ 1
+
+
+
+ !
+
+
+
+ a- *!If
+
+
+
+ E
+
+
+
+ Boston House
+
+
+
+ INSTALLATIOONF SOLARW ATERH EATINGS YSTEM
+
+
+
+ TN
+
+
+
+ aq
+
+
+
+ 'dIi -9s
+
+
+
+ o z
+
+
+
+ N F
+
+
+
+ 8 p B5
+
+
+
+ z,
+
+
+
+ ox2a
+
+
+
+ 1711M os sochuset tAsv e NW,W oshingtonD, C 200J6
+
+
+
+ ' : o
+
+
+
+ n
+
+
+
+ oo
+
+
+
+ 3
+
+
+
+ (t
+
+
+
+ c
+
+
+
+ tl
+
+
+
+ l
+
+
+
+ o
+
+
+
+ F o
+
+
+
+ x o
+
+
+
+ c--:
+
+
+
+ i t x o
+
+
+
+ f 3
+
+
+
+ : &lt;
+
+
+
+ d o
+
+
+
+ , 1 . ' f
+
+
+
+ zO
+
+
+
+ * @
+
+
+
+ E I *t
+
+
+
+ 9 . cf ! t
+
+
+
+ I
+
+
+
+ til I r i
+
+
+
+ i * g r s g
+
+
+
+ ! t
+
+
+
+ I,
+
+
+
+ I
+
+
+
+ I
+
+
+
+ tI
+
+
+
+ fiI
+
+
+
+ II tI
+
+
+
+ Ia!
+
+
+
+ E!
+
+
+
+ 'E !i rl il I
+
+
+
+ t I I tli
+
+
+
+ , E 8r
+
+
+
+ lr
+
+
+
+ sl
+
+
+
+ r l
+
+
+
+ I rla
+
+
+
+ s
+
+
+
+ i
+
+
+
+ tI
+
+
+
+ 3I
+
+
+
+ t I El
+
+
+
+ :'
+
+
+
+ i!
+
+
+
+ l;
+
+
+
+ tl
+
+
+
+ i! ;ldrl
+
+
+
+ E!
+
+
+
+ ll
+
+
+
+ r!
+
+
+
+ EI I a
+
+
+
+ I
+
+
+
+ Z.Y
+
+
+
+ - r r &gt;
+
+
+
+ a t t
+
+
+
+ &euro;nz
+
+
+
+ o
+
+
+
+ U)
+
+
+
+ I
+
+
+
+ r
+
+
+
+ c)
+
+
+
+ s
+
+
+
+ TI
+
+
+
+ o
+
+
+
+ -l
+
+
+
+ rI
+
+
+
+ Boston House
+
+
+
+ INSTALLATIOONF SOLARW ATERH EATINGS YSTEM
+
+
+
+ l r
+
+
+
+ l r
+
+
+
+ N ul 1711M os sochuset tAsv e NW,W oshingtonD,C 20036
+
+
+
+ Exhibit A nsji,lily" Profrct Dcscription bt 1711 ilascachusrtts Avr NW,
+
+Washlngton DC 20036
+
+
+
+ This Project Description is entered into by Sigora Solar and Nextility, tnc.
+
+pursuant to the lnstallation
+
+
+
+ Agreementt hatt heye nteredi ntoo n Dcccmbcr 16, 2013.
+
+
+
+ 1. SCOPEOFWORK
+
+
+
+ 1.A GENERAL SCOPE OF WORK
+
+
+
+ Contractors hall{ amiliarizeh imselfw ith the propertya nd engineeringp lans
+
+before executingt he ExhibitA
+
+
+
+ contractt o ensuren o discrepancieesx istw ithint he engineeringd rawings.A ny
+
+discrepanciedsi scovered
+
+
+
+ aftert he executiono f the ExhibitA contracti s undert he responsibilitoyf the
+
+Contractorto fulfill.
+
+
+
+ Owners hallp rovidea ll requiredd esigna nd engineeringd rawings.
+
+
+
+ Contractosr halla pplyf or and obtaina ll requiredb uilding,p lumbing,a nd
+
+electricapl ermits.
+
+
+
+ Owners hallo btainc ustomers igno ff on the Noticeo f FinalD esignb eforep
+
+roceedingw ith installation.
+
+
+
+ Contractors hallb e responsiblefo r documentinga ll pre-existings itec
+
+onditionsa nd all stageso f construction,
+
+
+
+ includingd etailedd ocumentationo f any,a nd all,m anipulationtso existingc
+
+onditionsC. ontractorshalbl e
+
+
+
+ responsiblefo r anyd amagesi ncurredd uringt he installationp rocessto
+
+existingc onditions.
+
+
+
+ Upon completion,C ontractors hall provide As-BuiltD rawingsa nd InstallationO,
+
+peration& Maintenance
+
+
+
+ Manualsfo r all majors ystemc ompenentsa nd componentsr equiringm aintenance.
+
+
+
+ Owners hallp rovidet he OwnerF urnishedM aterialsin the MaterialsL ist.
+
+
+
+ Contractosr halli nspecta nd returnd amagedO wnerF urnishedM aterials.
+
+
+
+ Contractors hallf ill out requiredi ncentivec ompliancep aperworka s requestedb
+
+y Owner,n ot to exceedf our
+
+
+
+ (4) hours of work.
+
+
+
+ Contractors halla rrangef or, attend,a nd passa ll requiredi nspections.
+
+
+
+ Contractors lpll providea ll systema nd systemc omponenti nstallationo,
+
+peration.a nd maintenancem anuals
+
+
+
+ to Owner.
+
+
+
+ Contractor shall return to the contract site one time within two (2) months
+
+following the completion of all
+
+
+
+ Nextility Inspection Punch List ltems at Owner's request to make up to eight
+
+(8) man-hours of system
+
+
+
+ optimizationc hangesto the systemr equestedb y Owner.A dditionalh oursw ill be
+
+paid by Owner.
+
+
+
+ The Projects hallb e designedt o withstandt he wind loads,s now loads,s eismicl
+
+oads,t emperatureh, umidity
+
+
+
+ extremesw, hich would normallyb e expectedt o occur at the specifieds itesd
+
+uring the Project'sd esign
+
+
+
+ lifetimeT. he projects hallb e installeda s designed.
+
+
+
+ The Project'sin stallationsh allc omplyw ith the requirementso f the
+
+applicablel ocalb uildingc odesa s defined
+
+
+
+ by the authorityh avingj urisdictiono vert he Site.
+
+
+
+ The Project'sin stallations hallc omply with the manufacturesr pecificationfso
+
+r all Materialsi ncluded in the
+
+
+
+ Project.
+
+
+
+ Contractors hallp rovidea ll standardm aterialsre quiredf or a completei
+
+nstallationi;n cludingb ut not limitedt o
+
+
+
+ pipe,v alvesf,i ttings,i nsulationm, ountingh ardwarec, onsumablesa,n d all
+
+maiorc omponentss howni n the
+
+
+
+ Co ntractor Materials List.
+
+
+
+ C o ntracto r/ow neTClVA. S.
+
+
+
+ 1.B SYSTEM SCOPE OF WORK
+
+
+
+ Contractor shall install a functional solar domestic water heating system as
+
+per the provided Structural and
+
+
+
+ Mechanical Plans.
+
+
+
+ Contractor shall submit all items listed on the "SWH - Submittal Review List"
+
+for approval by Owner.
+
+
+
+ Contractor shall install and connect the Owner's system monitoring equipment.
+
+Installation shall include
+
+
+
+ connection to the backhaul network, all required wiring, installation of valve
+
+tags and of temperature
+
+
+
+ sensors - applied using thermal paste and aluminum tape to the exterior of pipe
+
+walls - as indicated in the
+
+
+
+ Owner-provided Valve Labeling and Temperature Sensor Location Diagram. All
+
+standard consumables
+
+
+
+ and small tools, such as wire or aluminum tape, shall be provided by
+
+Contractor.
+
+
+
+ The Project shall be designed for an expected lifetime of 25 years and in
+
+conformance with the Structural and
+
+
+
+ Mechanical Plans. All Project components shall have appropriate finish to limit
+
+the effects of corrosion
+
+
+
+ consistent with this expected lifetime. This expected lifetime of the Project
+
+assumes regular maintenance
+
+
+
+ and repair and/or replacement of some components of the project.
+
+
+
+ All Materials and Owner Furnished Materials shall be installed in a manner that
+
+is consistent with
+
+
+
+ manufactrue r'si n staIl ationi nstructionsr,e qu irementsa nd war ranties,
+
+
+
+ Contractors hallp erforma ll roof work in accordancew ith industryb est
+
+practicess, ucht hat the usefull ifetime
+
+
+
+ of modificationsm ade during the solari nstallatione xceedt he remainingu
+
+se{ull ifetimeo f the incumbent
+
+
+
+ roofing system.
+
+
+
+ Contractors hallc omply with stipulationso f roof installera nd manufacturer'ws
+
+arrantyr egulationsto ensure
+
+
+
+ customer'sro ofw arrantyis maintained.
+
+
+
+ Contractors hallp ay any inspectiono r otherf eesc hargedb y the roofingw
+
+orkmanshipw arrantyh oldero r roof
+
+
+
+ manufacturears sociatedw ith continuanceo f the roofw arranty.
+
+
+
+ Contractor shall run the pipe on the rooftop in a manner that does not obstruct
+
+the walk pads currently
+
+
+
+ situatedo n the rooftop. In the event that the pipe run must crossoverw
+
+alkwayst,h e contractors hall
+
+
+
+ reroutet he walkwaysa nd purchasea dditionacl oncretew alkp adsa s needed.
+
+
+
+ Contractor shall encase the external copper pipe run and EMT conduit with an
+
+aiuminum case painted to
+
+
+
+ match the color of the building.
+
+
+
+ Contractor shall fill and level the existing slab with concrete for the
+
+placement of the storage tank, as per
+
+
+
+ instructedin the plans.C ontractosr halle xtendt he currentd raint o allowf or
+
+properw aterd rainage.
+
+
+
+ Contractosr halli nstaldl isconnecst witchesfo r pumpsm ountedn eart he
+
+StorageT ank.
+
+
+
+ Contractor shall designate breakers inside the subpanel to power the monitoring
+
+box and "Solar" and
+
+
+
+ "Domestic"p umps.
+
+
+
+ Contractor/Ow neflj I A.!
+
+
+
+ Contractor/Ownerl4fgS
+
+
+
+ S.WORKSGHEDUIE
+
+
+
+ Mllcctona
+
+
+
+ Notice of Final Design Signed by Customer
+
+
+
+ PermittingC omplete
+
+
+
+ InstallatioCn omplete
+
+
+
+ NextilityI nspectionP assed- SystemC ommissioned
+
+
+
+ LocalM unicipalityIn spection
+
+
+
+ Drte
+
+
+
+ 3/25/2015
+
+
+
+ 4/27/201s
+
+
+
+ 6/15/2015
+
+
+
+ 6/12/2015
+
+
+
+ 6/22/2015
+
+
+
+ 4. MATERIAIS LIST
+
+
+
+ 5. SYSTEM DESCilPTION
+
+
+
+ This project will consist of one (1) closed loop solar domestic hot water
+
+heating system comprised of forty-three (43)
+
+
+
+ 4'x10' solar collectors.T he collectorsw ill be mounted in portrait
+
+orientationo n the north - or 17thS treet- side of the
+
+
+
+ building,f acings outh. The collectorsw ill be supportedb y
+
+manufacturer-supplieradc kinga s per instructedi n the
+
+
+
+ structurale nSlneeringd rawlngs.T he collectors upport systemw ill be directly
+
+attachedt o the concreter oof structure
+
+
+
+ and all penetrationsw lll be flasheda nd sealedb y an approvedS IPLASrTo ofingc
+
+ompany.T he eollectoisw ill be servedb y
+
+
+
+ two copperp ipesr unninge xternallyo n the NW sideo f the buildingw, hichw ill
+
+continuei nternallyt hrought he garage
+
+
+
+ and into the boiler room. At the garagel evel,t he pipesw ill run
+
+horizontally,a s closet o the ceilinga s possiblet o a heat
+
+
+
+ exchangear nda 1,900g allont ank locatedi n a currentlyu nuseds pacei n the
+
+garageT. het ank will storeh ot water from
+
+
+
+ which heat will be transferredto the make-upw ater line for the currentd
+
+omestich ot water system.T he tie-int o the
+
+
+
+ existing system has already been made for the flow meter installation.
+
+
+
+ Ownrr Furnbhod hcm Mrnufrcturu Modcl I Qurmity VYrranty
+
+
+
+ SkyBox& SkyMon
+
+
+
+ 3" Flow Meter
+
+
+
+ BTUC alculatingU nit
+
+
+
+ 4' Temperature Probe Set
+
+
+
+ BrassT hermowells
+
+
+
+ Label Package
+
+
+
+ Nextility
+
+
+
+ Master Meter
+
+
+
+ iSTEC Corporation
+
+
+
+ iSTECC orporation
+
+
+
+ McMaster-Carr
+
+
+
+ Nextility
+
+
+
+ SKYBOX4.O
+
+
+
+ Serial# 8415874
+
+
+
+ Register
+
+
+
+ 5202
+
+
+
+ s602M
+
+
+
+ 4" Stem,7rN" PT
+
+
+
+ 1
+
+
+
+ 1
+
+
+
+ 1
+
+
+
+ 1
+
+
+
+ 2
+
+
+
+ 1
+
+
+
+ NONE
+
+
+
+ 1 Year
+
+
+
+ 1 Year
+
+
+
+ 1 Year
+
+
+
+ NONE
+
+
+
+ NONE
+
+
+
+ Inrtrllcr Fumlrhrd ltcm Mrnufacturor Modol I Quantlty Warranty
+
+
+
+ Solar Collectors
+
+
+
+ HotW aterS toraget ank
+
+
+
+ Heat Exchanger
+
+
+
+ Heat Exchanger
+
+
+
+ Solar Controller
+
+
+
+ HeatE xchangeC ontroller
+
+
+
+ CirculationP umps
+
+
+
+ ExpansioTn ank
+
+
+
+ Air Eliminator
+
+
+
+ PropyleneG lycol
+
+
+
+ Heliodyne
+
+
+
+ Hydroflex
+
+
+
+ Brent Industries
+
+
+
+ Brent Industries
+
+
+
+ Resol
+
+
+
+ Resol
+
+
+
+ Grundfos
+
+
+
+ Amtrol
+
+
+
+ Caleffi
+
+
+
+ Varies
+
+
+
+ GOBI-410
+
+
+
+ T1900,6
+
+
+
+ BP10x20-4(02 " MPT)
+
+
+
+ BP10x20-3(02 " MPT)
+
+
+
+ Deltasol AL
+
+
+
+ Deltasol AL
+
+
+
+ See Plans
+
+
+
+ SX.16 OV
+
+
+
+ 55 1 0604
+
+
+
+ Varies
+
+
+
+ 43
+
+
+
+ 'l
+
+
+
+ 1
+
+
+
+ 1
+
+
+
+ 1
+
+
+
+ 1
+
+
+
+ 3
+
+
+
+ 2
+
+
+
+ 1
+
+
+
+ As required
+
+
+
+ '10 Years
+
+
+
+ 10 Years
+
+
+
+ 1 Year
+
+
+
+ 1 Year
+
+
+
+ 2 Years
+
+
+
+ 2 Years
+
+
+
+ 1 Year
+
+
+
+ 1 Year
+
+
+
+ 1 Year
+
+
+
+ NONE
+
+
+
+ Contractor/ow ne ( lU A.S.
+
+
+
+ 6. PAYMENTSCHEDULE
+
+
+
+ CONTRACTP RICE: $173,000.00 (54,023.26p er panel)
+
+
+
+ Contractor Prod uctivity I ncentive:
+
+
+
+ This project shall count towards a productivity incentive described as follows:
+
+
+
+
+
+ . For each calendarm onth in whi ch I 00 solarc ollectors'h avep assedr
+
+elevantg overnmentb uilding inspections3, i9on Solrr will be
+
+
+
+ awarded il0.OOO.
+
+
+
+ . For each calendarm onth in which 12 5 solarc ollector s havep assedr elevantg
+
+overnmentb uilding inspectionsS, igore Sohr wil[ be
+
+
+
+ awarded il5,OOO.
+
+
+
+ . The number o{ collectorsp assingg overnmenti nspectionsd uring a calendarm
+
+onth will be calculateda s a three month rolling auetage''
+
+
+
+ o This productivity incentive will beco me due to the Contractor one month
+
+after the end o{ the calendar month in which the Contractor
+
+
+
+ meetst he requaredp roductivityl evelo f panelsp assingr elevantb uilding
+
+inspection,a nd is subjectt o discussion in good faith between
+
+
+
+ ownerandcontractor.ownerwi||bethefina|arbiterolincentiveaward.
+
+
+
+ ' A "Sol"r. Collector" is defined as 40 square feet of collector area'
+
+
+
+ 2 Three month rolling average is calculated by summing the number of solar
+
+collectors passing inspections during the
+
+
+
+ month in question with the number of solar collectors passing inspection during
+
+the preceding month and the number
+
+
+
+ of solar collectors passing inspection during the following month; then
+
+dividing by three months' As an example, a
+
+
+
+ calculation for the month of June is shown below:
+
+
+
+ June Panels -
+
+
+
+ Paymcnt Gate
+
+
+
+ Cont]tCt
+
+
+
+ %
+
+
+
+ P.yment
+
+
+
+ Anount Requirements
+
+
+
+ Contracted 30% $51,900.00
+
+
+
+ Eiecuted "Exhibit A" & "supplier & Subcontractor List"
+
+
+
+ executed and returned to Nextility. "SWH - Submittal
+
+
+
+ Review Checklist" and required submittals forwarded
+
+
+
+ to Nextility
+
+
+
+ Permitted 20% $34,600.00
+
+
+
+ Copieso f Bui ldingP ermi tP, lumbingP ermi&t
+
+
+
+ ElectricaPl ermitf orwardedt o NextilityS. ubmit
+
+
+
+ comp leted'NextilityS afetyP lan ' to Ne xtil ity
+
+
+
+ Gov't I nspections ComPlete 10% $17,300.00
+
+
+
+ Copies of Plumbing and Final Inspection Cards
+
+
+
+ forwarded to Nextility
+
+
+
+ System Generating EnergY 10% $17,300.00
+
+
+
+ ef,otoo f tun.tioningP umpC ontrolle(s)a. nd photo of
+
+
+
+ BTUC hanneAl screeno n EmeraldB TUC alculator
+
+
+
+ showingt emPeraturein crease
+
+
+
+ NextilityI nspectionP assed&
+
+
+
+ Supplier& Subcontractor
+
+
+
+ FinalL ienW aive(s)
+
+
+
+ Completed
+
+
+
+ 25% $43,2s0.00
+
+
+
+ NextilityF inalI nspectionP assed(S eeF inall nspection
+
+
+
+ Checklisfto r Criteria)e, xecuted" Supplier&
+
+
+
+ SubcontractoFr inalL ienW aiver(s)a" nd As-Builts&
+
+
+
+ lO&M Manualsfo rwardedt o Nextility
+
+
+
+ SystemO ptimization&
+
+
+
+ ExhibitB Completed
+
+
+
+ 5% $8,6s0.00
+
+
+
+ Optimization Visit complete and "Exhibit B" executed
+
+
+
+ and returned to NextilitY
+
+
+
+ For non fixed-price contracts, changes to the estimated payment amounts entered
+
+above shall be adjusted on the final
+
+
+
+ rnvorce.
+
+
+
+ Contractor/Ownef!r u41
+
+
+
+ 7. CONTACTIi lFO AND REPRESEIITATIYES
+
+
+
+ All communications and notices regarding operational matters for this Project
+
+shall be addressed the each
+
+
+
+ Party's respective representative:
+
+
+
+ Cotttrtc';oc
+
+
+
+ Tim MasselleP, rojectM anager
+
+
+
+ 292 Race Avenue, Bldg. 3
+
+
+
+ Waynesboro,VA 22980
+
+
+
+ 860.485-4522
+
+
+
+ CONTRA6OR:
+
+
+
+ ThomasC handleeD, irector
+
+
+
+ 16062 0tnS treetN, W
+
+
+
+ WashingtonD C 20009
+
+
+
+ 7 17 -67 6-1565
+
+
+
+ Solar Operations
+
+
+
+ aSOlar.cOm tcha
+
+
+
+ 8. EXECUTION AI{D BINDING AGREEMEIiIT
+
+
+
+ Bye xecutingth is ProjectD escriptionb elow,e achP attya greest o be bound by
+
+the termsa nd conditionso f the
+
+
+
+ InstallationA greementw ith respectt o the Project,a s setf orth in this
+
+ProjectD escription.
+
+
+
+ By'
+
+
+
+ Name:
+
+
+
+ Title:
+
+
+
+ Date:
+
+
+
+ Title:
+
+
+
+ Date:
+
+
+
+ Director of Solar Operations
+
+
+
+ Zor.so { 16
+
+
+
+ C ontra cto r/owneid rA.jL
+
+
+
+ Supplier & Subcontractor List
+
+
+
+ Portaining to t{re lnrtelletlon Exhlbit A for t i
+
+
+
+ To: Arlk Sciler From: Tim Masscllc
+
+
+
+ aseiler@nextility.com Sigora Solar
+
+
+
+ Instaffe r must returnt his completed Supplier& subcontractort rstwith the
+
+signed Exhibit Ain order to receive the first
+
+
+
+ PaymenGt ate.I nstalleirs requiredt o lista ll suppliersa nd/ors
+
+ubcontractorfsro m whom theyw ill purchase $5,000.00
+
+
+
+ or morei n materialsl,a boro r servicesfo r the abovel istedp roject.
+
+
+
+ Company:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ r^^it, nvttreen@Crft,r4}ooWAj
+
+
+
+ ListM aterialso r ServicesP urchased:
+
+
+
+ Company:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ Email:
+
+
+
+ ListM aterialso r ServicesP urchased:
+
+
+
+ Installecr onfirmsth at the abovef orm and the attachedf orm,i f necessaryin,
+
+cludea ll companiesfr om whicht heyw ill
+
+
+
+ purchase$ 5,000.00o r more in labor,m aterialsa nd/ors ervicesI.n stallemr ustn
+
+otifyO wnerw ith any updateso r
+
+
+
+ Company:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ e^",t, cK oi * rDhual ro0laxqyeSnfrs .
+
+
+
+ ListM aterialso r ServicesP urchased:
+
+
+
+ companyD: ar/|, f"cu List Materials or Services Purchased:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ Email:
+
+
+
+ Contractor/Owne7' l4y'n S.
+
+
+
+ Suppller & Subcontoctor Ust (Condnuedl
+
+
+
+ Pcilrining toth. lmt.ll.tlon Erhlbh AlorlTll MusechurettrAvc NW, Wechington Dc
+
+20036
+
+
+
+ Company:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ Email:
+
+
+
+ List Materials or Services Purchased:
+
+
+
+ Company:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ Email:
+
+
+
+ List Materials or Services Purchased:
+
+
+
+ Company:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ Email:
+
+
+
+ List Materials or Services Purchased:
+
+
+
+ Company:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ Email:
+
+
+
+ ListM aterialso r ServicesP urchased:
+
+
+
+ Company:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ Email:
+
+
+
+ ListM aterialso r ServicesP urchased:
+
+
+
+ Company:
+
+
+
+ Contact:
+
+
+
+ Phone:
+
+
+
+ Email:
+
+
+
+ LisMt ateriaolsrS ervicePsu rchased:
+
+
+
+ contractor/ow n"{ Y1t a.s.
+
+
+
+ &euro;o
+
+
+
+ EE
+
+
+
+ .9
+
+
+
+ !
+
+
+
+ a
+
+
+
+ t
+
+
+
+ !
+
+
+
+ EJ E iE:E
+
+
+
+ t
+
+
+
+ 2Eo
+
+
+
+ ug
+
+
+
+ f;
+
+
+
+ o
+
+
+
+ 2
+
+
+
+ qE.,
+
+
+
+ ,*F E- - F l / 1
+
+
+
+ P3:
+
+
+
+ _ c v c
+
+
+
+ o
+
+
+
+ c.
+
+
+
+ lE
+
+
+
+ o_
+
+
+
+ 3
+
+
+
+ 0)
+
+
+
+ o
+
+
+
+ oo
+
+
+
+ |!
+
+
+
+ o
+
+
+
+ o-
+
+
+
+ IE
+
+
+
+ D: !$"
+
+
+
+ f;!r Ur
+
+
+
+ u1
+
+
+
+ F.
+
+
+
+ s
+
+
+
+ l/)
+
+
+
+ N
+
+
+
+ rf
+
+
+
+ rJ)
+
+
+
+ t\
+
+
+
+ rif
+
+
+
+ n
+
+
+
+ $
+
+
+
+ tt)
+
+
+
+ !f
+
+
+
+ ttt
+
+
+
+ t\
+
+
+
+ !l
+
+
+
+ La)
+
+
+
+ F\
+
+
+
+ q
+
+
+
+ d
+
+
+
+ -?
+
+
+
+ TE
+
+
+
+ ooo
+
+
+
+ s
+
+
+
+ @oo
+
+
+
+ s
+
+
+
+ x
+
+
+
+ {\l
+
+
+
+ x
+
+
+
+ .C)
+
+
+
+ 1n
+
+
+
+ tn
+
+
+
+ I
+
+
+
+ 3i
+
+
+
+ E=EE
+
+
+
+ H
+
+
+
+ -ff*
+
+
+
+ -
+
+
+
+ vl 3
+
+
+
+ a
+
+
+
+ &euro;
+
+
+
+ o
+
+
+
+ O
+
+
+
+ o.
+
+
+
+ Foo
+
+
+
+ is r
+
+
+
+ r[[ Ee"
+
+
+
+ It
+
+
+
+ I
+
+
+
+ oc
+
+
+
+ 1t
+
+
+
+ .9
+
+
+
+ o
+
+
+
+ T
+
+
+
+ !
+
+
+
+ o
+
+
+
+ E = c ! +
+
+
+
+ 6 q
+
+
+
+ - - a
+
+
+
+ &gt;Ex( n
+
+
+
+ =o(ut r
+
+
+
+ o !
+
+
+
+ f c
+
+
+
+ (J
+
+
+
+ i; o d ! E#
+
+
+
+ +h
+
+
+
+ o
+
+
+
+ = 0
+
+
+
+ . 9 t
+
+
+
+ ! E \
+
+
+
+ '9- x&gt;
+
+
+
+ o O
+
+
+
+ 6 O -
+
+
+
+ TL IIJ
+
+
+
+ LO
+
+
+
+ J
+
+
+
+ tJ)
+
+
+
+ xq)
+
+
+
+ g
+
+
+
+ T
+
+
+
+ o
+
+
+
+ o
+
+
+
+ 3
+
+
+
+ E
+
+
+
+ o)
+
+
+
+ @
+
+
+
+ T
+
+
+
+ Ec
+
+
+
+ (o
+
+
+
+ (L
+
+
+
+ o,
+
+
+
+ c
+
+
+
+ J
+
+
+
+ |E
+
+
+
+ E.
+
+
+
+ oc
+
+
+
+ o
+
+
+
+ CL
+
+
+
+ c
+
+
+
+ : 9 q
+
+
+
+ e . : = de;
+
+
+
+ -o uP
+
+
+
+ f c . o
+
+
+
+ a = E
+
+
+
+ 3 gp
+
+
+
+ E3:
+
+
+
+ EPE
+
+
+
+ c
+
+
+
+ {1.,
+
+
+
+ F O )
+
+
+
+ ; . 8
+
+
+
+ ( J _ g
+
+
+
+ l ! 0
+
+
+
+ ES
+
+
+
+ &lt;L t!
+
+
+
+ go
+
+
+
+ gl
+
+
+
+ 'P or?
+
+
+
+ Y.g o
+
+
+
+ IJE E
+
+
+
+ 3E a
+
+
+
+ T . = c
+
+
+
+ q s, \
+
+
+
+ ]
+
+
+
+ \
+
+
+
+ o
+
+
+
+ co
+
+
+
+ EoE
+
+
+
+ aI
+
+
+
+ o
+
+
+
+ !
+
+
+
+ |i
+
+
+
+ EsEtTg
+
+
+
+ E.o=
+
+
+
+ O
+
+
+
+ o
+
+
+
+ !
+
+
+
+ fi
+
+
+
+ tEE
+
+
+
+ &euro;at
+
+
+
+ ao
+
+
+
+ .8
+
+
+
+ JtE
+
+
+
+ E
+
+
+
+ !
+
+
+
+ t
+
+
+
+ vl
+
+
+
+ a
+
+
+
+ =2
+
+
+
+ I
+
+
+
+ a3ttat
+
+
+
+ nI
+
+
+
+ o
+
+
+
+ .
+
+
+
+ t\
+
+
+
+ F
+
+
+
+ I
+
+
+
+ coE
+
+
+
+ Euo ot
+
+
+
+ .lg.
+
+
+
+ 4
+
+
+
+ al - o
+
+
+
+ O.,. oo
+
+
+
+ J
+
+
+
+ Eoa
+
+
+
+ o
+
+
+
+ U
+
+
+
+ I
+
+
+
+ tl .9
+
+
+
+ vU
+
+
+
+ a)
+
+
+
+ U
+
+
+
+ 3o
+
+
+
+ U
+
+
+
+ &
+
+
+
+ rd
+
+
+
+ +/
+
+
+
+ +J
+
+
+
+ f4 tr .-\
+
+
+
+ =
+
+
+
+ IA
+
+
+
+ IF
+
+
+
+ V)
+
+
+
+ ql
+
+
+
+ &lt;l
+
+
+
+ *i
+
+
+
+ E
+
+
+
+ 0)
+
+
+
+ tv
+
+
+
+ o
+
+
+
+ 'lc
+
+
+
+ .l!
+
+
+
+ o
+
+
+
+ lt o
+
+
+
+ C
+
+
+
+ Iu (.)
+
+
+
+ lE !z
+
+
+
+ = Z u&lt;
+
+
+
+ oF
+
+
+
+ * z
+
+
+
+ n v
+
+
+
+ Y, .F2
+
+
+
+ f i t :n
+
+
+
+ g,
+
+
+
+ t\
+
+
+
+ I
+
+
+
+ u1
+
+
+
+ F.
+
+
+
+ &lt;t
+
+
+
+ rO
+
+
+
+ F
+
+
+
+ t
+
+
+
+ rtt
+
+
+
+ F
+
+
+
+ q
+
+
+
+ tt,
+
+
+
+ sl
+
+
+
+ rtt
+
+
+
+ N
+
+
+
+ $
+
+
+
+ lr)
+
+
+
+ s
+
+
+
+ tr)
+
+
+
+ st
+
+
+
+ tn
+
+
+
+ N
+
+
+
+ st
+
+
+
+ lr)
+
+
+
+ N
+
+
+
+ st
+
+
+
+ [n
+
+
+
+ F.
+
+
+
+ \l
+
+
+
+ u)
+
+
+
+ s
+
+
+
+ ln
+
+
+
+ sl
+
+
+
+ rtl
+
+
+
+ N
+
+
+
+ sl
+
+
+
+ rt)
+
+
+
+ t\
+
+
+
+ &lt;t
+
+
+
+ tn
+
+
+
+ {
+
+
+
+ o
+
+
+
+ be
+
+
+
+ o o . . o
+
+
+
+ C \ r i i f ! c ( \ 5r5 bs e t r E -
+
+
+
+ o - 5 o - o o -
+
+
+
+ o z d l c o d t
+
+
+
+ oo
+
+
+
+ F
+
+
+
+ =
+
+
+
+ o
+
+
+
+ o.
+
+
+
+ F
+
+
+
+ J
+
+
+
+ !/ t!
+
+
+
+ AR
+
+
+
+ .r$:E
+
+
+
+ ;&lt;R&lt;* ufP
+
+
+
+ ) l
+
+
+
+ an
+
+
+
+ G =
+
+
+
+ o o
+
+
+
+ AI
+
+
+
+ IgrE
+
+
+
+ 6o
+
+
+
+ (J
+
+
+
+ i r *xo. 9
+
+
+
+ o v
+
+
+
+ U
+
+
+
+ tt
+
+
+
+ oo
+
+
+
+ tj't o
+
+
+
+ r-' o
+
+
+
+ i n &euro;
+
+
+
+ Ss
+
+
+
+ o.o
+
+
+
+ Xa
+
+
+
+ c
+
+
+
+ oc
+
+
+
+ t1
+
+
+
+ J1
+
+
+
+ 6o
+
+
+
+ o u!
+
+
+
+ N(n
+
+
+
+ t\
+
+
+
+ o.
+
+
+
+ 0,
+
+
+
+ o
+
+
+
+ F
+
+
+
+ z z
+
+
+
+ (\r)
+
+
+
+ .o
+
+
+
+ CO
+
+
+
+ tJ)
+
+
+
+ t
+
+
+
+ .E
+
+
+
+ o '5
+
+
+
+ c'
+
+
+
+ uI
+
+
+
+ t(u
+
+
+
+ f
+
+
+
+ o
+
+
+
+ .o
+
+
+
+ 7(r
+
+
+
+ IJ
+
+
+
+ =o
+
+
+
+ o
+
+
+
+ E
+
+
+
+ )
+
+
+
+ (,
+
+
+
+ E0
+
+
+
+ o
+
+
+
+ &
+
+
+
+ o
+
+
+
+ .g
+
+
+
+ o
+
+
+
+ s()
+
+
+
+ o
+
+
+
+ uG
+
+
+
+ co
+
+
+
+ L)
+
+
+
+ o
+
+
+
+ .g
+
+
+
+ o
+
+
+
+ c
+
+
+
+ (J
+
+
+
+ au
+
+
+
+ |!
+
+
+
+ c
+
+
+
+ o
+
+
+
+ I
+
+
+
+ U
+
+
+
+ 6
+
+
+
+ o
+
+
+
+ g
+
+
+
+ G
+
+
+
+ an
+
+
+
+ Y
+
+
+
+ E
+
+
+
+ Eo
+
+
+
+ ou
+
+
+
+ IF
+
+
+
+ -g
+
+
+
+ oU
+
+
+
+ o
+
+
+
+ d
+
+
+
+ o
+
+
+
+ co
+
+
+
+ 0,
+
+
+
+ co
+
+
+
+ -o
+
+
+
+ o
+
+
+
+ 3
+
+
+
+ oc
+
+
+
+ o
+
+
+
+ @
+
+
+
+ o3
+
+
+
+ c)
+
+
+
+ co
+
+
+
+ -o
+
+
+
+ o
+
+
+
+ 3
+
+
+
+ x
+
+
+
+ o,
+
+
+
+ o
+
+
+
+ E
+
+
+
+ o
+
+
+
+ o
+
+
+
+ E
+
+
+
+ ooo
+
+
+
+ J
+
+
+
+ -e o
+
+
+
+ a
+
+
+
+ o
+
+
+
+ ii
+
+
+
+ ?o-
+
+
+
+ *8
+
+
+
+ o&gt;
+
+
+
+ b . d
+
+
+
+ o . 2
+
+
+
+ cL cl
+
+
+
+ E ( f
+
+
+
+ 't6 t
+
+
+
+ oo
+
+
+
+ !a il
+
+
+
+ F C
+
+
+
+ 5 o
+
+
+
+ o - U
+
+
+
+ IE .E
+
+
+
+ o
+
+
+
+ E
+
+
+
+ o=
+
+
+
+ i = t
+
+
+
+ .9 -o
+
+
+
+ - E
+
+
+
+ E l
+
+
+
+ &gt; q 89
+
+
+
+ oP-E&gt;
+
+
+
+ oql
+
+
+
+ o (t
+
+
+
+ E
+
+
+
+ f,
+
+
+
+ oq
+
+
+
+ o
+
+
+
+ CL
+
+
+
+ o
+
+
+
+ :t
+
+
+
+ q
+
+
+
+ o
+
+
+
+ o- -E
+
+
+
+ l . t
+
+
+
+ 6B
+
+
+
+ J IJI
+
+
+
+ g
+
+
+
+ r!
+
+
+
+ F
+
+
+
+ .9
+
+
+
+ o
+
+
+
+ ox
+
+
+
+ UJ
+
+
+
+ o
+
+
+
+ E
+
+
+
+ llJ
+
+
+
+ {
+
+
+
+ o :(!
+
+
+
+ o
+
+
+
+ E
+
+
+
+ !&euro;
+
+
+
+ d
+
+
+
+ .=
+
+
+
+ .9
+
+
+
+ .D
+
+
+
+ E. o r = ;g
+
+
+
+ o
+
+
+
+ d
+
+
+
+ =o
+
+
+
+ @
+
+
+
+ qc)
+
+
+
+ 19
+
+
+
+ 4
+
+
+
+ o
+
+
+
+ E
+
+
+
+ o :
+
+
+
+ {!
+
+
+
+ =
+
+
+
+ u-
+
+
+
+ &euro;U
+
+
+
+ q
+
+
+
+ oo
+
+
+
+ ( L o
+
+
+
+ o o
+
+
+
+ o=
+
+
+
+ l r 6
+
+
+
+ sg
+
+
+
+ E
+
+
+
+ 3 ^
+
+
+
+ FE
+
+
+
+ uJ .=
+
+
+
+ ul .=
+
+
+
+ *E
+
+
+
+ (, ^c) s; &gt;(o
+
+
+
+ *E
+
+
+
+ E&euro;
+
+
+
+ = ttl
+
+
+
+ g,
+
+
+
+ c
+
+
+
+ aL
+
+
+
+ E
+
+
+
+ E
+
+
+
+ a
+
+
+
+ ro
+
+
+
+ F
+
+
+
+ rf
+
+
+
+ l'rt
+
+
+
+ 1..
+
+
+
+ si
+
+
+
+ lt,
+
+
+
+ N
+
+
+
+ s
+
+
+
+ rJ)
+
+
+
+ N
+
+
+
+ s
+
+
+
+ u)
+
+
+
+ N
+
+
+
+ &lt;f
+
+
+
+ ro
+
+
+
+ r\
+
+
+
+ st
+
+
+
+ rrt
+
+
+
+ F.
+
+
+
+ si
+
+
+
+ rJ)
+
+
+
+ t\
+
+
+
+ \t
+
+
+
+ rn
+
+
+
+ N
+
+
+
+ s
+
+
+
+ N
+
+
+
+ s
+
+
+
+ IJ'
+
+
+
+ N
+
+
+
+ st
+
+
+
+ u)
+
+
+
+ |.\
+
+
+
+ =l
+
+
+
+ ro
+
+
+
+ F\
+
+
+
+ :t
+
+
+
+ ]J)
+
+
+
+ t\
+
+
+
+ \t
+
+
+
+ t E -
+
+
+
+ E.9
+
+
+
+ { !
+
+
+
+ F X 5
+
+
+
+ T- Eo 6
+
+
+
+ C
+
+
+
+ ! o )
+
+
+
+ &lt;e
+
+
+
+ IAsL
+
+
+
+ an
+
+
+
+ Ftn oE, u-
+
+
+
+ =
+
+
+
+ o
+
+
+
+ c\,1
+
+
+
+ o.o
+
+
+
+ rn
+
+
+
+ o
+
+
+
+ 9tr ,$'e
+
+
+
+ co
+
+
+
+ o
+
+
+
+ j o
+
+
+
+ .E=
+
+
+
+ Y&lt;
+
+
+
+ E
+
+
+
+ .s
+
+
+
+ E
+
+
+
+ .g
+
+
+
+ tE
+
+
+
+ o
+
+
+
+ ;'i or
+
+
+
+ ( J o
+
+
+
+ &lt;E
+
+
+
+ tL (J
+
+
+
+ I
+
+
+
+ co
+
+
+
+ a
+
+
+
+ o$
+
+
+
+ (\
+
+
+
+ eE
+
+
+
+ U
+
+
+
+ f
+
+
+
+ co
+
+
+
+ (r
+
+
+
+ Er
+
+
+
+ E3 7 c .
+
+
+
+ o \., u
+
+
+
+ o
+
+
+
+ ()
+
+
+
+ f
+
+
+
+ 8=" O U EE
+
+
+
+ s&
+
+
+
+ I
+
+
+
+ F
+
+
+
+ tn5L
+
+
+
+ tJl
+
+
+
+ v
+
+
+
+ 6
+
+
+
+ .E
+
+
+
+ fo
+
+
+
+ EU
+
+
+
+ Eo
+
+
+
+ s
+
+
+
+ U
+
+
+
+ =o
+
+
+
+ o
+
+
+
+ oU
+
+
+
+ 0)
+
+
+
+ |o
+
+
+
+ u
+
+
+
+ t
+
+
+
+ o-
+
+
+
+ E
+
+
+
+ a
+
+
+
+ o
+
+
+
+ (J
+
+
+
+ o. .E
+
+
+
+ tt1
+
+
+
+ E
+
+
+
+ o
+
+
+
+ (J
+
+
+
+ !
+
+
+
+ c
+
+
+
+ (!
+
+
+
+ F
+
+
+
+ UJ
+
+
+
+ J
+
+
+
+ vl
+
+
+
+ E
+
+
+
+ |!
+
+
+
+ Uz
+
+
+
+ q
+
+
+
+ o
+
+
+
+ (t, o
+
+
+
+ o
+
+
+
+ c
+
+
+
+ o
+
+
+
+ FIc
+
+
+
+ .i
+
+
+
+ o
+
+
+
+ d) o
+
+
+
+ lE
+
+
+
+ c
+
+
+
+ .9
+
+
+
+ uc
+
+
+
+ )
+
+
+
+ LL
+
+
+
+ Cl EEo
+
+
+
+ I
+
+
+
+ _g
+
+
+
+ L)
+
+
+
+ c
+
+
+
+ E
+
+
+
+ o
+
+
+
+ i i -
+
+
+
+ bo
+
+
+
+ ; 6
+
+
+
+ 9 :
+
+
+
+ J 6
+
+
+
+ OE
+
+
+
+ o)
+
+
+
+ .E
+
+
+
+ o
+
+
+
+ TL
+
+
+
+ r&euro;e
+
+
+
+ ddF
+
+
+
+ o.
+
+
+
+ o
+
+
+
+ a
+
+
+
+ o)
+
+
+
+ o
+
+
+
+ L
+
+
+
+ o
+
+
+
+ c
+
+
+
+ o
+
+
+
+ F
+
+
+
+ 6p
+
+
+
+ c t !
+
+
+
+ I I I
+
+
+
+ 6c
+
+
+
+ 3 . 9
+
+
+
+ 9 ;
+
+
+
+ Ff;
+
+
+
+ 8o
+
+
+
+ 33
+
+
+
+ | ! t r
+
+
+
+ . - F
+
+
+
+ . 9 d
+
+
+
+ OU
+
+
+
+ o,
+
+
+
+ o
+
+
+
+ bP
+
+
+
+ .qB
+
+
+
+ 9g
+
+
+
+ &gt;o
+
+
+
+ o- u,
+
+
+
+ . o e u ' =
+
+
+
+ ! - T
+
+
+
+ u c
+
+
+
+ o o
+
+
+
+ u J ( J
+
+
+
+ o
+
+
+
+ ;
+
+
+
+ o
+
+
+
+ U
+
+
+
+ u
+
+
+
+ (D
+
+
+
+ ut
+
+
+
+ ct
+
+
+
+ (r
+
+
+
+ q)
+
+
+
+ ir-
+
+
+
+ C L b9
+
+
+
+ u i U
+
+
+
+ (D
+
+
+
+ o
+
+
+
+ t
+
+
+
+ (!
+
+
+
+ E ^
+
+
+
+ g l
+
+
+
+ 1 ( I !
+
+
+
+ o l
+
+
+
+ o l L
+
+
+
+ .E
+
+
+
+ t o u
+
+
+
+ c
+
+
+
+ h c\l
+
+
+
+ t l
+
+
+
+ X a
+
+
+
+ G
+
+
+
+ EoB c = =
+
+
+
+ O - U L x;c
+
+
+
+ oo
+
+
+
+ (L
+
+
+
+ oc
+
+
+
+ C)
+
+
+
+ x
+
+
+
+ U
+
+
+
+ 6l
+
+
+
+ &lt;l
+
+
+
+ GI
+
+
+
+ !r
+
+
+
+ oE'
+
+
+
+ eo
+
+
+
+ n
+
+
+
+ G
+
+
+
+ Co ()
+
+
+
+ .gcsb
+
+
+
+ . E : 5
+
+
+
+ o
+
+
+
+ o
+
+
+
+ I
+
+
+
+ A)
+
+
+
+ B)
+
+
+
+ Application for Payment & Lien Waiver
+
+
+
+ Pcrtaining to thc Instalhtion Erhiblt A for 171 1 llesrechugctts Ave NW,
+
+Washington DC 20036
+
+
+
+ Contractor must return this completed Application for Payment & Lien Waiverto
+
+ap@nertilityrom with each request
+
+
+
+ for paymenti n ordert o receivee achP aymenGt ate.l f invoicing{ or a campusw
+
+ith multiplea ddressesp, leaseu set he
+
+
+
+ following sheet.
+
+
+
+ Payment Gate Name:
+
+
+
+ Effective Date:
+
+
+
+ PaymenGt ate% :
+
+
+
+ Amount:
+
+
+
+ In consideration of the "Amount" (listed above), the undersigned has or is
+
+receiving payment in full through
+
+
+
+ the "Effective Date" (listed above) and when the check has been properly
+
+endorsed and has been paid by the
+
+
+
+ bank upon which it is drawn, this document shall become effective to release
+
+any mechanic's lien, stop notice
+
+
+
+ or bond right the undersigned had on the job. Contractor, hereby represents,
+
+warrants. and agrees that, with
+
+
+
+ respect to all Work performed through the 'Effective Date" with respect to the
+
+Project, for which payment is to
+
+
+
+ be received by Contractor pursuant to this Lien Waiver:
+
+
+
+ Contractor acknowledges that such payment, together with all payments
+
+heretofore made, constitutes full
+
+
+
+ payment through the "Effective Date" of all amounts due Contractor's under the
+
+above described Agreement,
+
+
+
+ including all amounts due for all claims of any type and extra Work performed
+
+by Contractor piior to payment.
+
+
+
+ Contractor shall defend, indemnify, save and hold harmless Owner from and
+
+against all such claims, damages
+
+
+
+ and expenses including liens of Contractor's Subcontractors, laborers and
+
+equipment, service and material
+
+
+
+ suppliers arising out of the Work performed through the "Effective Date" under
+
+the above described
+
+
+
+ Agreement.
+
+
+
+ Contractor shall, at its sole cost and expense, defend and hold harmless Owner
+
+from any and all mechanics
+
+
+
+ liens and will defend against and obtain the discharge of any and all liens and
+
+claims of lien of Contractor's
+
+
+
+ Subcontractors, employees, or representatives as agents of Contractor arising
+
+out of the Work performed
+
+
+
+ through the "Effective Date."
+
+
+
+ All claims, bills, payrolls, expenses, costs, taxes, and other indebtedness
+
+owed by Contractor and incurred in
+
+
+
+ connection with the Work performed under the Agreement through the "Effective
+
+Date" have been fully paid.
+
+
+
+ All labor employed in connection with the Project and all payroll taxes and
+
+charges {such as withholding taxes,
+
+
+
+ social security taxes and worker's compensation, disability and unemployment
+
+taxes and/or insurance
+
+
+
+ premiums) owed by Contractor through the "Effective Date" have been paid in
+
+full.
+
+
+
+ F) All materials, tools, equipment, supplies and services furnished and used
+
+upon or in connection with such
+
+
+
+ Work through the "Effective Date" have been paid for in full, and all sales,
+
+use, excise and similar taxes on or in
+
+
+
+ connection with the same have been fully paid.
+
+
+
+ G)
+
+IntheeventthatanyoftheWorkperformedbytheContractorontheProject(includingthemater
+
+ialsusedor
+
+
+
+ incorporated therein and the workmanship thereo{), is the subject of any
+
+written guarantee or warranty by the
+
+
+
+ underiigned, the giving of this Lien Waiver by the undersigned shall not
+
+operate in any way to reduce or
+
+
+
+ modify such written guarantee or warranty or to release the undersigned there
+
+from.
+
+
+
+ c)
+
+
+
+ D)
+
+
+
+ E)
+
+
+
+ Signed:
+
+
+
+ Printed Name:
+
+
+
+ Title:
+
+
+
+ Date:
+
+
+
+ Co ntra cto r/Ow n. r(4erS. 1 3
+
+
+
+ Appllcrtlon for Peymcnt & Llen Walver (Condnuedt
+
+
+
+ P.il.lning to t{rr Indellrtlon ErhlbltA for 171 I Mrrrechurcttt Ave NW,
+
+Wechlngton DC 20036
+
+
+
+ PaymenGt ateN ame:
+
+
+
+ Addresses,if campus
+
+
+
+ or group of projects:
+
+
+
+ Payment Gate %:
+
+
+
+ Amounts:
+
+
+
+ TOTAIAMOUI{T:
+
+
+
+ Ud rmount rbovt on provlour pagc.
+
+
+
+ Contractor/Owneifl4As 1 4
+
+
+
+ Supplier& Sub-SubcontractorF inal Lien Waiver
+
+
+
+ Pertrlnlng to the Inrtallation Erhibit A for 1711 llarcachurttr Ave NW,
+
+Warhington DC 2010,36
+
+
+
+ The undersignedli enor,h avingr eceivedt he finalp ayment,h erebyw aivesa nd
+
+releaseit s Iiena nd rightt o
+
+
+
+ claim a lien for labor serviceso r materialsf urnishedt o Slgora Solar and
+
+ilcxtility, tns. on the project
+
+
+
+ described as 1711 Ma*achu:otts Ave NW Solar Thcrnal Syrtcm, also described as
+
+the following property:
+
+
+
+ Bulldlng Name:
+
+
+
+ Buildlng Addrers:
+
+
+
+ Supplier's/ SubcontractorN'sa me:
+
+
+
+ Signed:
+
+
+
+ Printed Name:
+
+
+
+ Title:
+
+
+
+ Date:
+
+
+
+ STATE of:
+
+
+
+ COUNWof:
+
+
+
+ Bcston Hourc Condomlnlumr
+
+
+
+ 171 I Marrachurctts Avr. NW, Warhington, DC 20036
+
+
+
+ SUBSCRIBEADN D SWORNT O MET HIS
+
+
+
+ - DAY OF
+
+
+
+ NOTARY PUBLIC
+
+
+
+ My CommissionE xpires:
+
+
+
+ Contractor:
+
+
+
+ Su pplier/Subcontractor:
+
+
+
+ Sup plier/SubA. ddress:
+
+
+
+ Owner: Nertility, Inc.
+
+
+
+ Referenced Invoice:
+
+
+
+ ProjectN ame:
+
+
+
+ ProjectA ddress:
+
+
+
+ ReferencedP .O.# :
+
+
+
+ contractor/Ow^"O1* 1 5
+
+
+
+ Exhibit B - Final Lien Waiver
+
+
+
+ For lTll llercechurttrAve NW, Werhington DC 20036
+
+
+
+ Pursuantto that certainI nstallatioAng reemente nteredi nto aso f Docombrr
+
+16,2O1? betweenN extilityl,n c.
+
+
+
+ ("Owner")a nd SlgoraS oler("Contractor"i)n, cludingt he ProjectD escription(E
+
+xhibitA ) issuedf or the 1711
+
+
+
+ MassachusetAtsv e NW Project( "Project")d,a teda s of FridayF, ebruary6 , 2015(
+
+collectivelyth, e "Agreement').
+
+
+
+ Contractorh erebya greest o be bound by the termso f thisL ienW aiver( this"
+
+LienW aiver")C. apitalizedte rmsu sedb ut
+
+
+
+ not defined herein shall have the meaning set forth in the Agreement.
+
+
+
+ Contractori,n consideratioonf paymentm adei n the sumo f $- herebyr epresentsw,
+
+arrantsa. nd agreest hat,
+
+
+
+ with respectt o all Work performedw ith respectt o the Project,f or which
+
+paymenti s to be receivedb y Contractor
+
+
+
+ pursuantto thisL ienW aiver:
+
+
+
+ Contractor acknowledges that such payment, together with all payments
+
+heretofore made, constitutes full payment of all
+
+
+
+ amounts due Contractor under the above described Agreement, including all
+
+amounts due for all claims of any type and extra
+
+
+
+ Work performed by Contractor prior to payment.
+
+
+
+ Contractors halld efend, indemnifo,s ave and hold harmlessO wner from and
+
+againsta ll sr.rchc laims,d amages and expenses
+
+
+
+ including lienso f Contractor'sS ubcontractorsl,a borersa nd equipment,
+
+servicea nd materials uppliersa risingo ut of the Work
+
+
+
+ performed under the above described Agreement.
+
+
+
+ Contractor shall, at its sole cost and expense, de{end and hold haimless Owner
+
+from any dnd all mechanics liens and will
+
+
+
+ defend againsta nd obtain the dischargeo f any and all liens and claimso f lien
+
+of Contractor'sS ubcontractorse, mployees.o r
+
+
+
+ representativeas s agehtso f Contractora risingo ut of the Work
+
+
+
+ All claims, bills, payrolls, exp&euro;nses, costs, tax&euro;s, end other
+
+indebtedness owed by Contractor and incurred in connection with
+
+
+
+ the Work performed under the Agreement have been fully paid
+
+
+
+ All labor employed in connection with the Project and all payroll taxes and
+
+charges (such as withholding taxes, social security
+
+
+
+ taxes and worker's compensation, disability and unemployment taxes and/or
+
+insurance premiums) owed by Contractor have
+
+
+
+ been paid in full-
+
+
+
+ All materialst,o ols, equipment,s uppliesa nd servicesfu rnisheda nd used upon
+
+or in connectionw ith suchW ork have been paid
+
+
+
+ for in full, and all sales, use, excise and similar taxes on or in connection
+
+with the same have been fully paid.
+
+
+
+ In the event that any of the Work performed by the Contractor on the Project
+
+(including the materials used or incorporated
+
+
+
+ therein and the workmanship thereof), is the subject of any written guarantee
+
+or warranty by the undersigned, the giving of
+
+
+
+ this Lien Waiver by the undersigned shall not operate in any way to reduce or
+
+modify such written guarantee or warranty or
+
+
+
+ to release the undersigned there from. Contractor funher agrees that if it
+
+hereafter performs any labor or furnishes any
+
+
+
+ materials,t ools, equipment, supplieso r servicesp ursuantt o such guaranteeo r
+
+warranty,i t will fully pay for the same,w ijl
+
+
+
+ pay any and all taxes and charges in connection therewith and will release,
+
+discharge, defend and hold harmless Owner
+
+
+
+ from any and all liens arising in connection therewith in the same manner and
+
+degree as set forth herein, with respect to
+
+
+
+ such labor and materialsf urnished.T his Lien Waivers hall inure to the benefit
+
+of Owner and its respectives uccessorsa nd
+
+
+
+ assignsa nd shallb e binding upon the undersignedC ontractora nd its or their
+
+successorsh. eirsa nd assigns.
+
+
+
+ Contractor: Slgora Solar
+
+
+
+ A)
+
+
+
+ B)
+
+
+
+ c)
+
+
+
+ D)
+
+
+
+ E)
+
+
+
+ F)
+
+
+
+ G)
+
+
+
+ Signed:
+
+
+
+ Printed Name / Title:
+
+
+
+ Date:
+
+
+
+ Tim Masselle. Proiect Manaoer
+
+
+
+ contractor/own.rflrot
+
+
+
+ Idi
+
+
+
+ CL
+
+
+
+ 'q
+
+
+
+ gt
+
+
+
+ I
+
+
+
+ n
+
+
+
+ lC
+
+
+
+ o
+
+
+
+ rt
+
+
+
+ a
+
+
+
+ o
+
+
+
+ tgtlr
+
+
+
+ tr
+
+
+
+ E
+
+
+
+ tr
+
+
+
+ ar o
+
+
+
+ 5
+
+
+
+ !,qr
+
+
+
+ t
+
+
+
+ z
+
+
+
+ 9' 3o
+
+
+
+ tf
+
+
+
+ oa
+
+
+
+ p
+
+
+
+ o'
+
+
+
+ {1
+
+
+
+ oa
+
+
+
+ {*
+
+
+
+ so
+
+
+
+ 6"
+
+
+
+ {! ]
+
+
+
+ tn
+
+
+
+ ut
+
+
+
+ tr x&euro; 3r
+
+
+
+ 2oF
+
+
+
+ :sB aJ
+
+
+
+ tF
+
+
+
+ =*3
+
+
+
+ to
+
+
+
+ t
+
+
+
+ iE
+
+
+
+ *
+
+
+
+ g
+
+
+
+ fl
+
+
+
+ d
+
+
+
+ fl
+
+
+
+ tF'J
+
+
+
+ tl,
+
+
+
+ ID
+
+
+
+ Fta
+
+
+
+ t4
+
+
+
+ ID
+
+
+
+ 5
+
+
+
+ $
+
+
+
+ fi
+
+
+
+ ,&lt;
+
+
+
+ o
+
+
+
+ F
+
+
+
+ E
+
+
+
+ o
+
+
+
+ {D
+
+
+
+ f-+
+
+
+
+ I
+
+
+
+ ?
+
+
+
+ ,.h
+
+
+
+ $
+
+
+
+ )-$
+
+
+
+ F\
+
+
+
+ t
+
+
+
+ ba
+
+
+
+ rlt
+
+
+
+ Iq
+
+
+
+ rt
+
+
+
+ IE
+
+
+
+ f.t
+
+
+
+ !
+
+
+
+ o
+
+
+
+ oa
+
+
+
+ CL
+
+
+
+ o
+
+
+
+ th
+
+
+
+ b
+
+
+
+ w
+
+
+
+ g.
+
+
+
+ z
+
+
+
+ =
+
+
+
+ o
+
+
+
+ {
+
+
+
+ b
+
+
+
+ 1 1
+
+
+
+ f,
+
+
+
+ nn
+
+
+
+ oa
+
+
+
+ IA
+
+
+
+ {.
+
+
+
+ 3i
+
+
+
+ TI
+
+
+
+ o
+
+
+
+ "r't
+
+
+
+ g-
+
+
+
+ *
+
+
+
+ j
+
+
+
+ Rr.Dn r,l
+
+
+
+ li
+
+
+
+ F
+
+
+
+ {
+
+
+
+ nE
+
+
+
+ b
+
+
+
+ E
+
+
+
+ o
+
+
+
+ x
+
+
+
+ n
+
+
+
+ a
+
+
+
+ o
+
+
+
+ f
+
+
+
+ I n
+
+
+
+ r+ o
+
+
+
+ F{
+
+
+
+ :f
+
+
+
+ ul
+
+
+
+ 1I
+
+
+
+ TD nFT 5.
+
+
+
+ :r
+
+
+
+ p,
+
+
+
+ (D
+
+
+
+ orr .l
+
+
+
+ o"
+
+
+
+ P
+
+
+
+ H
+
+
+
+ uUl I
+
+
+
+ : d n
+
+
+
+ s
+
+
+
+ zz
+
+
+
+ 6t
+
+
+
+ ll
+
+
+
+ I
+
+
+
+ a
+
+
+
+ Vt
+
+
+
+ 4
+
+
+
+ oz
+
+
+
+ ott
+
+
+
+ Es
+
+
+
+ 6'- G H&euro;il
+
+
+
+ 9NI01In8
+
+
+
+ - t**
+
+
+
+ suolpadsul
+
+
+
+ o J o t
+
+
+
+ o
+
+
+
+ o
+
+
+
+ o'
+
+
+
+ n
+
+
+
+ .$F5FF5S'75
+
+
+
+ # lltulad "rvfrultglJ
+
+
+
+ n3
+
+
+
+ at
+
+
+
+ {
+
+
+
+ F
+
+
+
+ {D
+
+
+
+ o&euro;. aa
+
+
+
+ tr
+
+
+
+ In
+
+
+
+ il a
+
+
+
+ E
+
+
+
+ * llured
+
+
+
+ IVJINVtI]3lil
+
+
+
+ L'
+
+
+
+ N
+
+
+
+ ra
+
+
+
+ ut
+
+
+
+ ID
+
+
+
+ $
+
+
+
+ IJ
+
+
+
+ @ogo
+
+
+
+ 5
+
+
+
+ ul
+
+
+
+ It
+
+
+
+ .D
+
+
+
+ o'3
+
+
+
+ ID
+
+
+
+ {o
+
+
+
+ TL
+
+
+
+ IJ
+
+
+
+ m
+
+
+
+ t!
+
+
+
+ at
+
+
+
+ o-i
+
+
+
+ n
+
+
+
+ |D
+
+
+
+ :!
+
+
+
+ tn
+
+
+
+ ol
+
+
+
+ r!
+
+
+
+ (6 =.
+
+
+
+ |D
+
+
+
+ o-
+
+
+
+ TJ
+
+
+
+ @I
+
+
+
+ {o
+
+
+
+ nl
+
+
+
+ G'
+
+
+
+ IJ
+
+
+
+ -t
+
+
+
+ T
+
+
+
+ nl
+
+
+
+ f-J
+
+
+
+ p
+
+
+
+ 3
+
+
+
+ 3
+
+
+
+ E
+
+
+
+ 6
+
+
+
+ I
+
+
+
+ ll
+
+
+
+ t
+
+
+
+ {I
+
+
+
+ IJ
+
+
+
+ :o
+
+
+
+ q
+
+
+
+ rct
+
+
+
+ t
+
+
+
+ =
+
+
+
+ u
+
+
+
+ IJ
+
+
+
+ o
+
+
+
+ E
+
+
+
+ CL
+
+
+
+ to
+
+
+
+ f,
+
+
+
+ h
+
+
+
+ U
+
+
+
+ T!
+
+
+
+ t!r
+
+
+
+ Ee
+
+
+
+ IJ
+
+
+
+ Fo
+
+
+
+ ro
+
+
+
+ t.
+
+
+
+ oo
+
+
+
+ LJ
+
+
+
+ 6I
+
+
+
+ A} u'
+
+
+
+ r
+
+
+
+ r}
+
+
+
+ 6t qt
+
+
+
+ u
+
+
+
+ an'
+
+
+
+ e
+
+
+
+ Ut
+
+
+
+ F'
+
+
+
+ "ri tu
+
+
+
+ 3
+
+
+
+ In
+
+
+
+ Fa
+
+
+
+ tr
+
+
+
+ aB
+
+
+
+ $n
+
+
+
+ TD
+
+
+
+ {n
+
+
+
+ UI E
+
+
+
+ a
+
+
+
+ LI
+
+
+
+ Poe
+
+
+
+ rO ,
+
+
+
+ &euro;
+
+
+
+ TJ
+
+
+
+ G
+
+
+
+ 6c
+
+
+
+ :' g
+
+
+
+ &euro;or
+
+
+
+ 0o
+
+
+
+ qs
+
+
+
+ F S
+
+
+
+ t 5 '
+
+
+
+ ; ,
+
+
+
+ D &lt;
+
+
+
+ 1 :
+
+
+
+ tNrnf ;
+
+
+
+ iF
+
+
+
+ * &
+
+
+
+ m
+
+
+
+ $:4\
+
+
+
+ i
+
+
+
+ &
+
+
+
+ &
+
+
+
+ ")\
+
+
+
+ $
+
+
+
+ t
+
+
+
+ F
+
+
+
+ fi
+
+
+
+ e
+
+
+
+ GI
+
+
+
+ B
+
+
+
+ sffil,lJI-*",s"
+
+
+
+ Octobe7r .2015
+
+
+
+ CommissionS ecretary
+
+
+
+ PublicS erviceC ommissiono f the District of Columbia
+
+
+
+ 1325 G St NW #800
+
+
+
+ WashingtonD, C 20005
+
+
+
+ DearC ommissionS ecretary,
+
+
+
+ Enclosed please find 8 applications on behalf of our customers to
+
+
+
+ register their systems as qualified solar renewable energy facilities in
+
+
+
+ the District of Columbiap ursuant o Chapter2 9 of Title 15 of the District of
+
+ColumbiaM unicipal Regulations(t he "RPS
+
+
+
+ Rules").
+
+
+
+ Enclosed please find 8 applications on behalf of our customers. These include
+
+the following facilities ("Sol Systems
+
+
+
+ Customers"):
+
+
+
+ I Lovera- Patricia- DC-PV-4.83kWR esidence
+
+
+
+ 2. Kapur-Anil-DC-PV-8I .7 5kW Residence
+
+
+
+ Westenberse-Rr obert- DC-PV-9I. 56kw Residence
+
+
+
+ 4. Zviniene-Asta-Dc-Pv-4.25kwR esidence
+
+
+
+ 5 . Frank-Jame-sD C-PV-3.924kwR esidence
+
+
+
+ 6. GCP - Next ity l, LLc -Dc-sT-l.62lkw Facility*
+
+
+
+ 7. GCP - Next itv l. LLC -DC-STr7.849kFwa ciliW*
+
+
+
+ 8. Waxman-Aaron-DC-PV-2.5kRwe sidence
+
+
+
+ :r ncludesA ffrdavit of EnvironmentaCl omnlianceb ecauseth e ratedc apaciwi s
+
+erreatethr an l0kW
+
+
+
+ We thank you for your time and we look forward to hearing from you.
+
+
+
+ Sincerely,
+
+
+
+ Bridget Callahan
+
+
+
+ SRECO perationsA nalyst
+
+
+
+ Sol SystemsL, LC
+
+
+
+ (202) 448-7643
+
+
+
+ bridgetc. allahan@solsystemscompcaonmy.
+
+
+
+ DC PSCI nter-OfficeU se
+
+
+
+ Name:
+
+
+
+ RPS #:
+
+
+
+
+
+
+
+ In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: October 9, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+
+
+              Copyright 2015 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

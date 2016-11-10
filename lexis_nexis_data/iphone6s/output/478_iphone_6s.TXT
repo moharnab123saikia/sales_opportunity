@@ -1,0 +1,106 @@
+                             478 of 1000 DOCUMENTS
+
+
+
+
+
+                                  Stock Watch
+
+
+
+                      October 13, 2015 Tuesday 6:30 AM EST
+
+
+
+iFixit tears down 3D Touch sensor in iPhone 6S
+
+
+
+BYLINE: Jonathan Clifford
+
+
+
+LENGTH: 259  words
+
+
+
+
+
+According to repair firm iFixit, a teardown of the 3D Touch sensor in Apple's
+
+new iPhone 6S smartphone has revealed that removing the handset's 3D Touch
+
+sensor from the rest of the display is fairly easy.
+
+
+
+The iFixit team has also said that the change accompanying the removal of the 3D
+
+Touch sensor in iPhone 6S from the rest of the handset's display can seemingly
+
+make the fixing of the iPhones much simpler.
+
+
+
+The teardown by the iFixit team has revealed that though the 3D Touch assembly
+
+in the iPhone 6S is at the extreme rear side of the handset's display panel, it
+
+is still relatively easy to separate the 3D Touch sensor from the backlight,
+
+digitizer glass, and even the display itself.
+
+
+
+The iFixit team has also said that, on the basis of a detailed examination of
+
+the iPhone 6S handset's 3D Touch panel, it has been found that the panel chiefly
+
+consists of a grid of rectangular capacitor plates, which are connected to a
+
+controller circuit via small traces.
+
+
+
+Meanwhile, despite the fairly easy process of removal of the iPhone 6S handset's
+
+3D Touch panel from the rest of the handset's display, the iFixit team has said
+
+that the disassembling and reassembling of a smartphone display should not be
+
+undertaken by an average person because the process requires the use of very
+
+specialized tools.
+
+
+
+Technology (http://uncovercalifornia.com/business/technology)Apple
+
+(http://uncovercalifornia.com/company/apple)United States
+
+(http://uncovercalifornia.com/region/united-states)
+
+
+
+LOAD-DATE: October 13, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+          Copyright 2015 Manas Informatics, distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

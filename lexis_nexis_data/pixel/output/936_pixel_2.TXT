@@ -1,0 +1,134 @@
+                              936 of 997 DOCUMENTS
+
+
+
+
+
+                                  Stock Watch
+
+
+
+                      February 28, 2016 Sunday 6:30 AM EST
+
+
+
+Google's PlaNet can tell location of photos with high accuracy
+
+
+
+BYLINE: John DiPietro
+
+
+
+LENGTH: 356  words
+
+
+
+
+
+Computer specialist Tobias Weyand and his colleagues at Google have come up with
+
+a deep-learning platform codenamed PlaNet. They have trained the system to
+
+figure out locations where pictures have been captured on the basis of visual
+
+cues. The project is interesting and it has showcased amazingly high degree of
+
+accuracy in detecting places where images were taken. The system is improving
+
+with time, said Google research team member Weyand.
+
+
+
+The specialists at Google began by dividing up the globe into a grid, leaving
+
+aside the oceans and polar region. MIT Technology Review reported that
+
+thereafter, they formed a database for PlaNet, containing 126 million
+
+geo-located pictures taken from the Internet.
+
+
+
+PlaNet is an artificial neural network, thus it can learn. So the experts taught
+
+the network how to recognize a picture's location on the grid only with the help
+
+of information present in the pixels.
+
+
+
+For testing the accuracy of PlaNet, Weyand and his team fed it 2.3 million
+
+geo-tagged Flickr pictures. Then, PlaNet lessened 48% of them to the right
+
+continent, 28.4% to the right country, 10.1% to the right city, and 3.6% to the
+
+real street.
+
+
+
+With further improvement, PlaNet can exactly locate every single random picture
+
+on a map, however, it has to consider many other factors and pixels in pictures.
+
+In some cases, the system makes wrong guess about location.
+
+
+
+Though the findings might not seem all that great initially, they became
+
+extraordinary when the tech giant team pitted their machine opposed to 10 smart,
+
+well-traveled humans. The machine managed to win over 50% of the rounds and had
+
+better accuracy.
+
+
+
+The team wrote in their abstract regarding the system, "PlaNet outperforms
+
+previous approaches and even attains superhuman levels of accuracy in some
+
+cases".
+
+
+
+According to the team, PlaNet doesn't need a lot of memory, either. MIT
+
+Technology Review reported that the model uses just 377 MB, which means it could
+
+be easily loaded on a smartphone.
+
+
+
+PlaNet has distinct abilities, and it could end up being like a Shazam for
+
+picture locations. A user can run, Carmen Sandiego, but can't stay out of sight
+
+of the Google machine.
+
+
+
+LOAD-DATE: February 28, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+          Copyright 2016 Manas Informatics, distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

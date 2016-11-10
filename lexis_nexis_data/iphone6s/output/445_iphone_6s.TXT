@@ -1,0 +1,124 @@
+                             445 of 1000 DOCUMENTS
+
+
+
+
+
+                            The Times of India (TOI)
+
+
+
+                           October 10, 2015 Saturday
+
+
+
+This is what Apple has to say on Chipgate
+
+
+
+SECTION: TECH NEWS
+
+
+
+LENGTH: 305 words
+
+
+
+
+
+NEW DELHI: Following reports that iPhone 6S units powered by TSMC-made A9 chips
+
+offer better battery life than the ones powered by Samsung-made chip, Apple has
+
+said that there's a negligible difference of 2%-3% in battery life between
+
+distinct units irrespective of the component source.
+
+
+
+In a statement issued to several websites including ArsTechnica, Apple said that
+
+lab tests which run the processors with a continuous heavy workload until the
+
+battery depletes are not representative of real-world usage and are a misleading
+
+way to test the battery life.
+
+
+
+READ ALSO:
+
+
+
+Here's the full text of the statement issued by Apple...
+
+
+
+"With the Apple-designed A9 chip in your iPhone 6s or iPhone 6s Plus," an Apple
+
+spokesperson told iMore, "you are getting the most advanced smartphone chip in
+
+the world. Every chip we ship meets Apple's highest standards for providing
+
+incredible performance and deliver great battery life, regardless of iPhone 6s
+
+capacity, color, or model.
+
+
+
+Certain manufactured lab tests which run the processors with a continuous heavy
+
+workload until the battery depletes are not representative of real-world usage,
+
+since they spend an unrealistic amount of time at the highest CPU performance
+
+state. It's a misleading way to measure real-world battery life. Our testing and
+
+customer data show the actual battery life of the iPhone 6s and iPhone 6s Plus,
+
+even taking into account variable component differences, vary within just 2-3%
+
+of each other."
+
+
+
+Earlier, some video reviewers had reported that iPhones powered by TSMC made A9
+
+chip were offering better battery backup. The reviewers had run benchmark tests
+
+and recorded 4K video under similar conditions to test battery performance.
+
+
+
+The A9 chip that powers the iPhone 6S is designed by Apple but manufacturing is
+
+done by Samsung and TSMC.
+
+
+
+For Reprint Rights: timescontent.com
+
+
+
+LOAD-DATE: October 9, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2015 Bennett Coleman & Co. Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

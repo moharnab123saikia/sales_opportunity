@@ -1,0 +1,318 @@
+                              943 of 997 DOCUMENTS
+
+
+
+
+
+                                Bucks Free Press
+
+
+
+                            January 20, 2014 Monday
+
+
+
+Tech round-up: Google working on 'smart contact lens' and Valve reveals gaming
+
+interface
+
+
+
+SECTION: NEWS
+
+
+
+LENGTH: 1045 words
+
+
+
+
+
+In this week's Round-Up we hear about Google's plans for a 'Smart Contact Lens',
+
+new screens for next-gen Apple devices, updates to Google's Chrome browser plus
+
+possible new products from Amazon and Valve!
+
+
+
+CUTTING EDGE: Google Working on 'Smart Contact Lens' To Monitor Glucose Levels
+
+
+
+Google has announced that they are developing a 'smart contact lens' to measure
+
+glucose levels in human tears. It utilises a tiny wireless chip and glucose
+
+sensors, which are embedded between two layers of lens material.
+
+
+
+To take the concept further, Google are said to be working on integrating small
+
+LED lights into the device to act as a warning when levels fall beneath a
+
+certain threshold.
+
+
+
+Obviously, this device is still in the early stages of development but it will
+
+become part of a growing market for wearable technology and more significantly,
+
+could help those with diabetes manage their disease.
+
+
+
+According to the International Diabetes Foundation, one in ten people across the
+
+world are expected to suffer with diabetes by 2035 so this new device and cannot
+
+come soon enough.
+
+
+
+Google is working with the US Food and Drug Administration (FDA) to help bring
+
+the market to mainstream use, whilst also searching for app developers to help
+
+build an interface and make the information accessible to both user and doctor
+
+alike.
+
+
+
+In the years to come, I think we can expect to see many more healthcare devices
+
+hit the open market and they could become invaluable to a great many of us.
+
+
+
+APPLE: Possible 5-inch HD Display on Next iPhone and a Curved AMOLED for iWatch
+
+
+
+The research firm DisplaySearch predicts that the next-gen iPhone could boast an
+
+impressive 5.5-inch 'Full HD' display and that the iWatch might feature a
+
+flexible AMOLED screen.
+
+
+
+These are of course only projections but the firm has shown some success with
+
+Apple predictions in the past. The technology site CNET reported that there are
+
+two possible options for the display on the iPhone 6.
+
+
+
+The first, lower-end option is a 4.7-inch 1600x900 pixel resolution display,
+
+which would still be an improvement on the iPhone 5S.
+
+
+
+The second, high-end option is a 5.5-inch screen with the Full HD resolution of
+
+1920x1080, providing an impressive 407 pixels per inch (PPI). As for the iWatch,
+
+DisplaySearch thinks that Apple will use and AMOLED screen, this would be the
+
+first time they have used the technology.
+
+
+
+Two possible screen candidates have emerged, both flexible displays at 1.3 or
+
+1.6 inches with a 320x320 pixel resolution.
+
+
+
+However, it is too early to tell for sure, these are only predictions and 2013
+
+saw many rumours of flexible displays for Samsung's wearable tech that have yet
+
+to materialise.
+
+
+
+ANDROID: Chrome Update Adds Data Compression and Home Screen Shortcuts
+
+
+
+For those of you who use Chrome for Android as your mobile browser, you will be
+
+happy to hear that Google has introduced a new data compression option and
+
+simple home screen shortcuts.
+
+
+
+Google's bandwidth management compresses data through its own servers, which is
+
+great news for those on limited data plans. Simply launch Chrome, go into
+
+'Settings' then 'Bandwidth Management' and toggle 'Reduce Data Usage'.
+
+
+
+A welcome feature indeed and it's good to see Google looking after its
+
+customers' interests here. The gorgeous simplicity of Chrome's mobile browser
+
+has been improved by the addition of home screen shortcuts as well.
+
+
+
+You can add any web page you like to your Chrome home screen by just going to
+
+'Settings' and 'Add to Home Screen'. This brings the experience much closer to
+
+its desktop counterpart, making regularly used links that bit more accessible.
+
+
+
+Certain optimised websites will even appear in full-screen and be displayed
+
+separately in the Android app switcher, which is especially useful if those
+
+sites don't already have their own Android app.
+
+
+
+GADGETS: Amazon Working on a Device That's "Bigger Than Kindle"
+
+
+
+As seen on one of Amazon's own event invites, the online retailer is said to be
+
+working on a product that will be "bigger than Kindle".
+
+
+
+Obviously, we don't believe this should be taken literally; this isn't about
+
+increasing the size of their e-readers. The company has not revealed publicly
+
+what this new product could be but they are set to discuss it further at a
+
+recruitment event in Boston on January 30th.
+
+
+
+The Boston Globe reports that Amazon may be looking to hire people to develop a
+
+new set-top box to deliver digital content to your television. Certainly there
+
+have been extensive rumours about such a product but this could be the first
+
+real sign of its development.
+
+
+
+It makes complete sense for the company to release such a device but would put
+
+it in direct competition with the likes of Google's Chromecast, Apple TV and the
+
+Roku Box.
+
+
+
+It's a tough market to be in but Amazon could pull it off, we've already seen
+
+them diversify their product ranges and delivery options in the form of the
+
+Google Fire HDX and Kindle Air drones respectively.
+
+
+
+Of course, nothing has been confirmed about this set-top box yet but if it does
+
+become a reality, would you make use of it?
+
+
+
+GAMING: Valve Releases Virtual Reality Interface To The Public
+
+
+
+The infamous games giant Valve has released a virtual reality interface dubbed
+
+'SteamVR' to the public. It is currently available to anyone with an Oculus Rift
+
+device, the pioneering new virtual reality machine in the hands of many
+
+developers at the moment.
+
+
+
+SteamVR allows users to explore the company's digital game platform but could
+
+well be just a proof of concept at this stage as the company has already
+
+revealed bigger plans for virtual reality technology.
+
+
+
+It follows Valve's development of new, innovative interfaces; there is already a
+
+custom full-screen mode for Steam on PC.
+
+
+
+Considering their development of the 'Steam Box' and 'Steam Controller' I am
+
+sure we can expect to see the company release its own virtual reality headset
+
+sometime soon.
+
+
+
+Valve continues to re-affirm its commitment to innovative design and breaking
+
+down the barriers between game and gamer. 2014 could be a very interesting year
+
+for all us, potentially changing how we interface with our favourite devices for
+
+years to come.
+
+
+
+James is a freelance technology and science writer from Bucks.
+
+
+
+His interests range from gadgets and apps to movies and gaming, really anything
+
+geeky!
+
+
+
+Check back here every week for the latest news and reviews!
+
+
+
+LOAD-DATE: January 21, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                  Copyright 2014 NewsQuest Media Group Limited
+
+                              All Rights Reserved
+
+
+
+
+

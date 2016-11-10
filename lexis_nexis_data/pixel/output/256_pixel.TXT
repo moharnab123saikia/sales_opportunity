@@ -1,0 +1,382 @@
+                              256 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                  The Guardian
+
+
+
+                       March 20, 2015 Friday 8:00 AM GMT
+
+
+
+Google Chromebook Pixel review: beautiful, powerful - but still just Chrome;
+
+With an all-aluminium body, powerful processor and 12-hour-plus battery life the
+
+Pixel is the best Chromebook going, but at a price
+
+
+
+BYLINE: Samuel Gibbs
+
+
+
+SECTION: TECHNOLOGY
+
+
+
+LENGTH: 1208 words
+
+
+
+
+
+Star Rating: 4 stars
+
+
+
+The Chromebook Pixel is Google's vision of what a computer should be like - with
+
+a high-resolution screen, excellent battery life and solid aluminium body, with
+
+apps and data stored in the cloud.
+
+
+
+But the Pixel is a contradiction - at £799 it's an expensive machine that uses
+
+an operating system designed for cheap computers.
+
+
+
+Aluminium, glass and glowing strips
+
+
+
+Most Chromebooks cost under £250 and are made from cheaper materials and with
+
+low-end specifications.
+
+
+
+The Pixel is machined from high-grade matt aluminium similar to high-end
+
+ultrabooks, and using high-end components. The design is understated and
+
+minimal, with squared edges and subtle branding.
+
+
+
+A single light-up strip in the lid indicates whether the computer is on.
+
+Double-tap it with the lid closed and it'll show you the current battery level.
+
+
+
+Open, it looks like any other high-end laptop, with a full-sized backlit chiclet
+
+keyboard that's well-made with good responsive keys, a smooth glass multi-touch
+
+trackpad and a black glass touchscreen.
+
+
+
+It has speakers hidden under the keyboard that distort at maximum volume, but
+
+are quite loud and clear.
+
+
+
+The screen is excellent, with deep blacks and accurate colours. It is also
+
+higher-resolution than most other laptops, rivalling Apple's retina displays and
+
+Dell's new Ultrasharp QHD+ in pixel density, which makes text, objects and
+
+images pin-sharp and very easy to read.
+
+
+
+In common with Apple's retina displays and modern smartphones and tablets, the
+
+Pixel defaults to a resolution that isn't the maximum the screen can display,
+
+making objects on the screen tiny, but one that uses the extra pixels to render
+
+the objects in higher clarity with sharper edges referred to as a "HiDPI".
+
+
+
+At 1.5Kg the Pixel is light enough to stuff into a backpack and is lighter than
+
+a 1.58Kg 13in MacBook Pro, but heavier than Dell's 1.26Kg XPS 13 and Apple's
+
+0.92Kg MacBook. It's also 15.3mm thick, which is thinner than both the 18mm
+
+thick 13in MacBook Pro and the 20mm thick Dell XPS 13. Apple's super-thin
+
+13.1mm-thick MacBook has it beat, however.
+
+
+
+Specifications
+
+
+
+     ·    Screen: 12.85in 2560 x 1700 resolution (239 pixels per inch)
+
+     ·    Processor: 2.2GHz Intel Core i5
+
+     ·    RAM: 8GB
+
+     ·    Storage: 32GB, SD card reader
+
+     ·    Connectivity: Wi-Fi (802.11ac), Bluetooth 4.0, USB3.0, USB type C
+
+     ·    Camera: 720p wide angle web cam
+
+     ·    Dimensions: 297.7 x 224.6 x 15.3mm
+
+     ·    Weight: 1.5Kg
+
+
+
+
+
+
+
+Over 12 hours per charge
+
+
+
+The outside of the Pixel is more premium than any other Chromebook, but so are
+
+the components on the inside, which could be described as overkill for something
+
+that's designed to live in the cloud and uses an operating system that's
+
+basically just a web browser.
+
+
+
+The 2.2GHz Core i5 processor with 8GB of RAM make everything super smooth. Web
+
+pages load noticeably faster on the Pixel than most other computers I've tested,
+
+while apps from the Chrome store are snappy and responsive.
+
+
+
+Chrome OS doesn't have any demanding apps, so it's difficult to see why it needs
+
+to be quite so powerful. The touchscreen is also accurate and responsive, and
+
+comes in handy for pinch to zoom gestures, scrolling and simple taps.
+
+
+
+The Pixel is well equipped with ports and connectivity. The usual suspects of
+
+Bluetooth 4.0 and Wi-Fi 802.11ac are present, as are two USB 3.0 ports and an SD
+
+card reader. It also has two USB type-C ports, one either side of the machine.
+
+They're used for charging as well as multiple inputs and outputs including
+
+connecting to external displays. A USB C to HDMI or DisplayPort adapter will be
+
+required, however.
+
+
+
+One of the criticisms of the previous generation of Pixel released in 2013 was
+
+poor battery life. The new 2015 Pixel has almost everything roundly trounced.
+
+It's rated for 12-hours per charge, but I easily saw 13 hours plus in general
+
+usage.
+
+
+
+Charging via USB C and the very Apple-like charger is easy and fast, with a full
+
+charge taking about two hours or up to two hours battery life after charging for
+
+about 15 minutes. The Pixel can be charged from either USB C port, which is very
+
+handy.
+
+
+
+The only thing Google skimped on for the Pixel was storage, fitting only 32GB of
+
+flash. Google intends for everything but a few local files to be stored in the
+
+cloud and gives users 1TB of space on Google Drive for three years with every
+
+Pixel purchase.
+
+
+
+Considering there are no real applications to download and Google Music stores
+
+it all in the cloud, 32GB will be enough for most. More can be added via the SD
+
+card slot or a USB flash drive if needed.
+
+
+
+Chrome, with a few Android apps
+
+
+
+The Pixel runs Google's Chrome OS, which is essentially a whole computer based
+
+around the company's Chrome browser. That generally limits the functionality to
+
+only things that can be done with a web browser, which people stuck using
+
+traditional computers might be surprised to find out is most things.
+
+
+
+Office duties, emailing, messaging, image editing, streaming music and video can
+
+all be done through the browser. The only thing I've struggled to do with the
+
+Pixel is edit video, but even some things can be done with a few web apps.
+
+
+
+Chrome OS can also run a selection of Android apps, which helps expand what can
+
+be done. Evernote and Wunderlist are a few of my favourites. But Chrome OS
+
+cannot run applications such as Apple's iTunes or Adobe's Photoshop.
+
+
+
+Generally speaking, Chrome OS can do 95% of what people need to do with a
+
+computer, easily and efficiently 95% of the time. The trouble comes when you
+
+need to do something it can't that a regular PC or Apple laptop could.
+
+
+
+It is possible to install Linux on the Pixel, and the majority of developers who
+
+own one will likely do that, which opens up a whole other application ecosystem.
+
+
+
+
+
+Price
+
+
+
+The Google Chromebook Pixel costs £799. A more powerful version with an Intel
+
+Core i7 processor, 16GB of RAM and a 64GB SSD costs £999. For comparison, Dell's
+
+XPS 13 with a similar display costs £1,099 and Apple's 13in MacBook Pro costs
+
+£999.
+
+
+
+Verdict
+
+
+
+The Google Chromebook Pixel 2015 is undoubtedly the best Chrome OS computer.
+
+It's also a very good laptop, competing on hardware terms with the very best of
+
+them.
+
+
+
+But while Chrome OS is very capable most of the time, and makes for an excellent
+
+second computer for browsing the web and other light duties, it can't run
+
+traditional Windows or OS X apps. That 5% of the time when a full application
+
+like iTunes is needed, or some video needs editing, or an image needs heavy
+
+editing in a powerful piece of software such as Photoshop, that's where Chrome
+
+OS falls down.
+
+
+
+For £800 the Pixel is overkill as a Chromebook, but it is a fantastic Chromebook
+
+and if that's what's required, then the Pixel is perfect. For most people, that
+
+£800 is better spent on a PC or Mac laptop.
+
+
+
+Pros: fast, aluminium body, fantastic high resolution screen, 12+ hours battery,
+
+USB C, zero maintenance required  Cons: Chrome OS still limited for some things,
+
+three to four times the price of other Chromebooks, very little local storage
+
+
+
+Other reviews
+
+
+
+                     · Five best laptops to suit any budget
+
+
+
+· Microsoft Surface Pro 3 review: the most lappable tablet yet
+
+
+
+· Which £400 laptop for university?
+
+
+
+· Should I upgrade or replace my old Windows XP netbook?
+
+
+
+LOAD-DATE: March 20, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+JOURNAL-CODE: WEBGNS
+
+
+
+
+
+  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,242 @@
+                              747 of 998 DOCUMENTS
+
+
+
+
+
+                       San Jose Mercury News (California)
+
+
+
+                           September 26, 2014 Friday
+
+
+
+Magid: iPhone 6 and 6 Plus offer calls via Wi-Fi
+
+
+
+BYLINE: By Larry Magid for the Mercury News
+
+
+
+SECTION: BREAKING; Technology; Personal Technology; News; Business; High-Tech;
+
+Columnists; Opinion; Science and Tech; Columnists
+
+
+
+LENGTH: 830 words
+
+
+
+
+
+Of all the features of the iPhone 6 and 6 Plus, the one that's the most
+
+important -- in some locations -- is its ability to make calls via Wi-Fi. That's
+
+because no carrier has 100 percent cellphone coverage and there will always be
+
+dead spots that require a "plan B" for those who need to make or receive calls
+
+or text messages when they don't have cellular coverage.
+
+
+
+It's also handy when you're out of the country because it means you can make and
+
+receive calls and texts for free on your regular phone number as long as you
+
+have a Wi-Fi connection. That sure beats paying roaming charges as high as $3 to
+
+$5 a minute in some countries or going through the hassle of buying and
+
+installing a local SIM card and requiring callers to dial a new overseas number
+
+instead of your regular number.
+
+
+
+Another advantage to Wi-Fi calling is that -- with most carriers -- it doesn't
+
+count against your number of minutes or text messages since you're not using the
+
+carrier's network to make the calls or send texts. There is also no data limit
+
+as has always been the case when connecting a phone to a Wi-Fi data network.
+
+
+
+My adult son and his girlfriend both have T-Mobile accounts and when they visit
+
+us in Palo Alto, they wind up using our house phone to make and receive calls
+
+because our house has spotty T-Mobile coverage. The only good thing is that we
+
+get more of their attention because, even if they wanted to, they couldn't
+
+reliably text during dinner.
+
+
+
+But that's about to change. T-Mobile set me up with a test account that I've
+
+been using with an iPhone 6 Plus and an LG Flex and, thanks to Wi-Fi calling,
+
+I'm getting great voice and texting service not only where I live, but whenever
+
+I'm in range of a Wi-Fi network. For example, I was in a building on Facebook's
+
+Menlo Park campus last week where T-Mobile coverage happens to be a bit weak,
+
+but that didn't bother me once I logged onto the company's guest network.
+
+
+
+T-Mobile has long offered Wi-Fi calling, but last week it rolled out its next
+
+generation service that, among other things, takes advantage of Voice over LTE
+
+(VoLTE) to seamlessly handoff calls between Wi-Fi and its high-speed LTE data
+
+network that is now also able to handle voice traffic.
+
+
+
+Unlike using Skype or other voice over Internet apps on your phone,
+
+carrier-supported Wi-Fi calling enables people to reach you via your regular
+
+number and, when you make an outgoing call or text, they see your number appear
+
+on their screen. You make the call using the same dialer you use for cellular
+
+calls. It's as if the carrier put a cell tower in your house.
+
+
+
+Right now T-Mobile and Sprint are the only carriers to offer Wi-Fi calling
+
+across their entire network, but AT&T and Verizon are in the process of rolling
+
+it out over the next year or so.
+
+
+
+Wi-Fi calling doesn't work with all phones, even if the phone is able to access
+
+other data services (like the Web, email and connected apps) via Wi-Fi, though
+
+T-Mobile says that all phones sold in its stores from here on will be Wi-Fi
+
+calling compatible.
+
+
+
+Sprint currently supports 18 phones, including the Samsung Galaxy S5 and the
+
+soon- to-be-released Galaxy Note, but not the iPhone 6 or any other iPhone.
+
+
+
+There are also different flavors of Wi-Fi calling. Some phones support Wi-Fi
+
+calling, but don't support VoLTE. Other phones, including the Samsung Galaxy S5
+
+and the LG Flex, support both Wi-Fi calling and VoLTE, but aren't able to hand
+
+off a call between Wi-Fi and LTE, which means that if you are on the phone at
+
+home and leave the house, the call will drop as soon as you lose your Wi-Fi
+
+signal.
+
+
+
+Still, they do work as long as you stay within your Wi-Fi network as I
+
+experienced with the LG Flex that T-Mobile loaned me.
+
+
+
+And then there are phones, like the iPhone 6, that support Evolved Packet Data
+
+Gateway (ePDG), which, among other things, allows for the seamless handoff
+
+between Wi-Fi and LTE.
+
+
+
+I tested a T-Mobile iPhone 6 Wi-Fi to LTE handoff with an iPhone 6 Plus on my
+
+home Wi-Fi network and at a local coffee shop and, in both cases, I was able to
+
+establish a call from the Wi-Fi network and keep the conversation going over the
+
+T- Mobile LTE cellular network as soon as I left the building.
+
+
+
+The service works with any Wi-Fi router, but T-Mobile is offering its customers
+
+use of a free "Personal CellSpot" router (built by Asus) that prioritizes voice
+
+calls over other traffic so if someone is streaming a movie on your network, it
+
+won't interfere with call quality. The router also has a particularly strong
+
+Wi-Fi signal, which, unlike the router it replaced, is able to broadcast a
+
+signal to all parts of my relatively large two-story house.
+
+
+
+While Wi-Fi calling solves the problem of not being able to use a phone in a
+
+dead spot where you have access to Wi-Fi, it's of no use while you're on the
+
+move so it's still important to pick a carrier with good coverage in the places
+
+you're likely to use your phone.
+
+
+
+Contact Larry Magid at larry@larrymagid.com Listen for his technology chats on
+
+KCBS-AM (740) weekdays at 3:50 p.m.
+
+
+
+LOAD-DATE: September 26, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+GRAPHIC: OREM, UT - SEPTEMBER 18: Apple's iPhone 6 (R) and iPhone 6 Plus (L)
+
+phones are shown together at a Verizon store in Orem, Utah on September 18, 2014
+
+in Orem, Utah. Apples new iPhone 6's go on sale tomorrow September 20, 2014.
+
+(Photo by George Frey/Getty Images
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                      Copyright 2014 San Jose Mercury News
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,362 @@
+                              426 of 820 DOCUMENTS
+
+
+
+              Copyright 2016 GlobalData Ltd., All Rights Reserved
+
+                           GlobalData - SWOT Analysis
+
+
+
+                                November 7, 2016
+
+
+
+                                   Aixtron SE
+
+
+
+                               Dornkaulstrasse 2
+
+                               Herzogenrath 52134
+
+                                    Germany
+
+
+
+* * * * * * * * * * SWOT ANALYSIS * * * * * * * * * *
+
+Strengths:
+
+
+
+Equipment Revenue
+
+
+
+   The company generates major portion of its revenue from equipment sales.
+
+Equipment revenue accounted for 76.3% of Aixtron's total revenue in FY2015. The
+
+company's product portfolio encompasses compound semi-conductors including
+
+MOCVD, CVD and PECVD equipments, Nano CVD reactors; silicon semiconductors
+
+including atomic layer deposition (ALD), atomic vapor deposition (AVD) and
+
+chemical vapor deposition (CVD) systems; organic semiconductors consisting of
+
+organic vapor phase deposition (OVPD) equipment; and nanotechnology products
+
+including graphene and carbon nanotube deposition systems. Its products find
+
+applications in LED applications, data storage, data transmission, display
+
+technologies, communication, signalling and lighting, and energy management and
+
+conversion. The company reported equipment revenue of EUR150.9 million in FY2015
+
+as compared to equipment revenue of EUR148.5 million in FY2014, indicating a
+
+year-on-year rise of 1.6%. The growth in the revenue was mainly due to doubled
+
+equipment revenues for memory and logic applications and MOCVD equipment for the
+
+manufacturing of WBG Gallium nitride (GaN) and Silicon Carbide (SiC) based power
+
+management devices and increase in revenue from Nano CVD reactors MOCVD
+
+equipment to manufacture other optoelectronic devices. The growth was mainly
+
+driven by the demand for MOCVD equipment for LED manufacturing, the largest
+
+contributor to equipment revenue, which contributed 26% to the company's
+
+equipment revenue.
+
+
+
+Focused R&D Activities
+
+
+
+   Aixtron utilizes deposition technology and nano scale material engineering
+
+for developing and manufacturing its semiconductor products. The company focuses
+
+strongly on product development and research activities for bringing new
+
+products into the markets. During FY2015, the company handled MOCVD equipment
+
+related R&D projects for use in LEDs and for the production of wide band gap
+
+materials for next generation logic and memory applications. Aixtron also
+
+focuses on penetrating growth areas in the area of organic semiconductors.
+
+Robust R&D enabled the company the installation and startup of the Gen8
+
+demonstration tool for organic material; launch of an automated AIX G5+C
+
+allowing a cassette-to-cassette operation; and to introduce an MOCVD tool for
+
+the deposition of compound materials for logic structures (Three-Five-On-Silicon
+
+TFOS). As of December 2015, the Company had 189 patent families of which 97 were
+
+issued patents and 92 were pending for approval. To this end, the company
+
+incurred an R&D expense of EUR55.4 million in FY2015. The company's investment
+
+towards product and process engineering and development could enable it to
+
+deliver innovative and technologically advanced products to cater the growing
+
+needs of its customers.
+
+Weaknesses:
+
+
+
+Dependence on Few Customers
+
+
+
+The company generates a significant portion of its revenue from its limited
+
+customers, which increases the risks associated with a particular business
+
+operation. In FY2015, the company derived 18.1% of its revenue from one of its
+
+major customers. The loss of such significant customer would materially
+
+adversely adversely affect Aixtron's financial condition. Any fluctuations in
+
+such customers' loyalty may affect the company sales and lead to a decline in
+
+the customer base owing to such dependence on a limited number of customers.
+
+Opportunities:
+
+
+
+Outlook: Semiconductor Market for IoT
+
+
+
+   The company may stand to benefit from the growing demand for semiconductor
+
+market. According SEMI's white paper on Semiconductor Industry from 2015 to
+
+2025, the key semiconductors used in IoT applications include wireless
+
+connectivity, controllers, and embedded nonvolatile memory. The strong growth of
+
+semiconductors in IoT devices is driven by the need for more data. The
+
+semiconductor and sensor markets for IoT have been witnessing an increasing
+
+demand for ultra-low power (ULP) that uses specialty wafer processes. The global
+
+semiconductor market is estimated to grow from US$342.7 billion in 2015 to
+
+US$655.6 billion by 2025 at a CAGR of 6.7%. The semiconductor and sensor markets
+
+for IoT are estimated to from US$27.6 billion in 2015 to US$114.2 billion in
+
+2025, with a CAGR of 15.3%. Aixtron, being one of the leading global providers
+
+of deposition equipment to the semiconductor industry could capitalize on the
+
+growing semiconductor market.
+
+
+
+Strategic Partnerships
+
+
+
+   The company's reputation in the market makes it a preferred partner for
+
+several large scale organizations across the sector. The reputation brings in
+
+new opportunities for growth for the company. In April 2016, Aixtron tested and
+
+installed its new organic vapor phase deposition (OVPD) system which is capable
+
+of handling 200x200 mm substrates at Institut Lafayette. Institut Lafayette is a
+
+part of the Georgia Institute of Technology international campus in Metz,
+
+France; and Aixtron's custom built system installation helps to start its
+
+operations. In March 2016, LG Innotek selected the company's AIX G5 WW
+
+(Warm-Wall) reactor configured for 8x6-inch substrates to develop silicon
+
+carbide (SiC) epitaxial wafers targeted at power devices for renewable energy
+
+and automotive applications. Aixtron's AIX G5 WW vapor phase epitaxy (VPE)
+
+system is based on its planetary reactor platform which has the highest
+
+throughput and largest batch capacity in the industry. The AIX G5 WW VPE system
+
+enables LG Innotek to cater to the rising demand for SiC-based systems from
+
+major automotive manufacturers.
+
+Threats:
+
+
+
+Dependence on Suppliers
+
+
+
+   Aixtron depends upon third-party suppliers for the manufacturing of certain
+
+components, subassemblies and modules. The company requires these critical
+
+components, subassemblies and modules for the manufacture or integration of its
+
+products. Further the company does not have long-term supply agreements with
+
+many of its suppliers. The company depends upon a limited number of suppliers or
+
+a single supplier for these components. This could adversely affect the
+
+operations of the company if there are any uneven changes if the suppliers are
+
+unable to supply products reliably, if there are disruptions in international
+
+trade, trade restrictions and import duties, disruptions at important geographic
+
+points of exit and entry or any production and supply constraints leading to
+
+additional cost burden on the company. The loss of significant suppliers of
+
+products or key components, or their inability to supply the required
+
+quantities, could result in a material adverse impact on the company's operating
+
+results in turn affecting the financial.
+
+
+
+Intense Competition
+
+
+
+   Aixtron operates in highly competitive electronic equipment industry. The
+
+company faces competition from a variety of other equipment companies. It
+
+competes with Veeco Instruments Inc. in MOVCD market and also competes with a
+
+number of Asian manufacturers including Taiyo Nippon Sanso, Jusung Engineering
+
+Co. Ltd., Nuflare Technology Inc. and Valence Process Equipment. For emerging
+
+organic semiconductor applications, Aixtron competes with established
+
+manufacturers such as Ulvac, Inc., Tokki Corporation, SNU Precision, Sunic
+
+System and others. For CVD, MOCVD and ALD technologies for silicon applications,
+
+the company competes with a range of other equipment companies, including
+
+Applied Materials, Inc., Tokyo Electron Ltd., ASM International N.V., IPS
+
+Technology, Jusung Engineering Co. Ltd. and Hitachi Kokusai Electric Co., Inc.
+
+Since many of its competitors have a longer operating history, greater brand
+
+recognition, established customer and supplier relationships and greater
+
+financial resources, it could become difficult for the company to compete with
+
+them.
+
+
+
+Rapid Technological Changes
+
+
+
+   The technology market is subject to rapid changes, and to compete
+
+effectively, the company must introduce new products that achieve market
+
+acceptance. The electronic equipment industry is characterized by rapid
+
+technological changes, evolving industry standards, changing market conditions
+
+and frequent new product introductions and enhancements. The introduction of
+
+products using new technologies or the adoption of new industry standards can
+
+make the existing products or products under development obsolete or
+
+unmarketable. In order to remain competitive and increase its sales, the company
+
+needs to adapt to the rapidly changing business environment.
+
+* * * * * * * * * * OTHER AVAILABLE REPORTS * * * * * * * * * *
+
+Business Description                    Corporate Strategy
+
+Company Overview                        Events
+
+Financial Ratios                        History
+
+Key Employee Biographies                Key Employees
+
+Key Facts                               Locations and Subsidiaries
+
+Major Products and Services             SWOT Analysis
+
+Top Competitors
+
+
+
+ * * * * * * * * * * NOTE * * * * * * * * * *
+
+
+
+   GlobalData uses a range of research techniques to gather and verify its
+
+information and analysis. These include primary research, in-house knowledge and
+
+expertise, proprietary databases, and secondary sources such as company
+
+websites, annual reports, SEC filings and press releases. Disclaimer: No part of
+
+this publication may be reproduced, stored in a retrieval system or transmitted
+
+in any form by any means, electronic, mechanical, photocopying, recording or
+
+otherwise, without the prior permission of the publisher, GlobalData. The facts
+
+of this report are believed to be correct at the time of publication but cannot
+
+be guaranteed. Please note that the findings, conclusions and recommendations
+
+that GlobalData delivers will be based on information gathered in good faith
+
+from both primary and secondary sources, whose accuracy we are not always in a
+
+position to guarantee. As such GlobalData can accept no liability whatever for
+
+actions taken based on any information that may subsequently prove to be
+
+incorrect.
+
+
+
+LOAD-DATE: November 7, 2016
+
+
+
+
+

@@ -1,0 +1,252 @@
+                              353 of 997 DOCUMENTS
+
+
+
+
+
+                          Australian Financial Review
+
+
+
+                            October 30, 2012 Tuesday
+
+                                 First Edition
+
+
+
+Best of the blog | Digital life
+
+
+
+SECTION: INFORMATION; Pg. 32
+
+
+
+LENGTH: 859 words
+
+
+
+
+
+Hurricane Sandy isn't the only thing raining on Google's parade this week. The
+
+rumour mill has apparently spoilt Google's festivities, too, for its plans to
+
+release details of its new tablet that leave no stone unturned.
+
+
+
+Google was supposed to launch new Nexus phones and tablets in New York on
+
+Monday, but it had to postpone the event after its venue was declared to be
+
+inside the hurricane's evacuation zone.
+
+
+
+So perhaps it's just as well that BriefMobile.com has come to the party with
+
+what purport to be full details, along with 16 hastily-taken photographs, of
+
+what was to be the star attraction at the event: Google's Nexus 10 by Samsung,
+
+which BriefMobile describes as the "best-specced Android tablet in the world".
+
+
+
+The tablet has a 1.7 GHz dual-core processor, 2 gigabytes of RAM, a 2560 x 1600
+
+pixel display with a pixel density of 298.9 pixels per inch, and near field
+
+communication.
+
+
+
+Probably the most important spec is the pixel density, because if it's true it
+
+means Apple's Retina display is no longer at the top of the tablet heap. The
+
+Nexus 10 will be 13 per cent sharper.
+
+
+
+Not that releasing a display that's sharper than the Retina will be much better
+
+than releasing a display that's just as sharp as the Retina: you can't really
+
+see the pixels on the iPad, and the extra pixel density on the Nexus 10 will be
+
+wasted on all but the most eagle-eyed. Still, it doesn't hurt to have bragging
+
+rights.
+
+
+
+The leak doesn't just have the specs and images for the Nexus 10, by the way.
+
+Unusually, it also has benchmarks and, unusually for a Samsung device, they
+
+aren't all that good: some results appear to be below those of older, nominally
+
+slower machines. That's either because the super-high-resolution screen is
+
+eating all the processor power or because the device that was tested was still
+
+pre-production and was not yet optimised for speed. Let's hope it's the latter.
+
+
+
+After 1.24 billion hours of user testing and just as much talking, Windows 8
+
+finally hit the streets on Friday.
+
+
+
+In a string of events around the world, including one in Sydney, Microsoft
+
+launched the new operating system that it hopes will make Windows relevant in a
+
+world where desktop PCs are increasingly becoming irrelevant.
+
+
+
+Windows 8 represents the most radical overhaul of Windows that Microsoft has
+
+ever made. Gone is the start button (though you can get it back with third-party
+
+add-ons). Gone are the long lists of applications users would have to scroll
+
+through to find the one they wanted. (You could probably get those back, too,
+
+but why would you?)
+
+
+
+Instead, applications appear as app tiles on the user's home screen, quite like
+
+they do on a smartphone, and very much like they do on Microsoft's smartphones,
+
+from which Windows 8 has taken many of its design cues.
+
+
+
+Gone, too, for many apps is the Windows desktop and indeed the very concept of a
+
+window, from which Windows took its name. Windows 8, and its little sister
+
+Windows RT, has a new user interface known as Metro, which doesn't put apps into
+
+windows sitting in front of a desktop, but rather makes them permanently
+
+full-screen, just like they are on smartphones - although there is a feature
+
+that allows you to view a second app on one-third of the screen.
+
+
+
+(Older applications, ones that haven't been rewritten to take advantage of
+
+Metro, will still work using the old desktop and windows metaphors, at least for
+
+Windows 8. Windows RT, which is designed to run on lower-powered tablets more
+
+akin to iPads, won't run old-fashioned Windows apps, and as such its list of
+
+apps is very limited for now.)
+
+
+
+The overhaul of Windows is so extensive, it has many pundits wondering whether
+
+ordinary users will bother with the upgrade. Why learn a whole new way of doing
+
+things, when the old way worked well enough? Why move to Windows 8, when Windows
+
+7 is itself an excellent operating system?
+
+
+
+The answer to all those questions is the tablet.
+
+
+
+Aaugh!
+
+
+
+That's the sound Charlie Brown makes when Lucy Van Pelt snatches the football
+
+away just as he's about to kick it, causing him to go flying into the air.
+
+
+
+It's also the sound Microsoft boss Steve Ballmer must have made when Apple
+
+
+
+announced a surprise, dramatic upgrade to the iPad last week, just days before
+
+he was to launch the Surface, Microsoft's first tablet. Aaugh!
+
+
+
+Or maybe it's more accurate to say that Lucy (or, rather, Apple) has suddenly
+
+moved the goalposts. The surprise changes Apple made to the iPad are dramatic
+
+and impressive, but they still leave Microsoft with a shot.
+
+
+
+Apple announced that it had doubled the speed and increased the battery life of
+
+its iPad. It was the only major surprise in its event in San Jose, California,
+
+which mostly centred on the new iPad mini, the details of which had been well
+
+and truly leaked over the past several months.
+
+
+
+(The only real question with the mini was the semantic one: would Apple spell it
+
+with a capital "M"?)
+
+
+
+What the Surface has, that even the new, faster iPad lacks, is a brand new
+
+operating system, Windows RT, with a very new and very modern user interface,
+
+Metro. That point of differentiation is unchanged by Apple's surprise move.
+
+
+
+Of course, it remains to be seen whether Metro will be enough to win over
+
+customers.
+
+
+
+LOAD-DATE: October 29, 2012
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+             Copyright 2012 Fairfax Media Publications Pty. Limited
+
+                              All Rights Reserved
+
+
+
+
+

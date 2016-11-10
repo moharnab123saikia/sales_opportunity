@@ -1,0 +1,102 @@
+                              596 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                             June 6, 2015 Saturday
+
+
+
+US Patent granted to GOOGLE TECHNOLOGY HOLDINGS LLC (California) on June 02
+
+titled as "High efficiency low complexity interpolation filters"
+
+
+
+LENGTH: 227  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 9,049,454, on
+
+June 02, 2015, to GOOGLE TECHNOLOGY HOLDINGS LLC (California), titled as "High
+
+efficiency low complexity interpolation filters"
+
+
+
+Inventors: Lou; Jian (San Diego, CA), Wang; Limin (San Diego, CA)
+
+Assignee: GOOGLE TECHNOLOGY HOLDINGS LLC. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Embodiments for high efficiency low complexity interpolation filters for High
+
+Efficiency Video Coding (HEVC) are disclosed herein, specifically novel
+
+techniques for a video compression system. In order to estimate and compensate
+
+sub-pel displacements, the image signal on these sub-pel positions is generated
+
+by an interpolation process. In HEVC, sub-pel pixel interpolation is performed
+
+using filters. As described herein, the filter may have, for example, eight taps
+
+to determine the sub-pel pixel values for sub-pel pixel positions, such as
+
+half-pel and quarter-pel positions. The taps weight the integer pixels with
+
+coefficient values to generate the sub-pel signals. Different coefficients may
+
+produce different compression performance in signal distortion and noise."
+
+
+
+The patent was filed on. January 19, 2012 Application no. 13/354,201
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: June 6, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2015 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

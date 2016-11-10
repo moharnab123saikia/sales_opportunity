@@ -1,0 +1,210 @@
+                              808 of 997 DOCUMENTS
+
+
+
+
+
+                          The Tampa Tribune (Florida)
+
+
+
+                            November 1, 2004 Monday
+
+                                 FINAL EDITION
+
+
+
+Google Service Offers Easy Internet Access
+
+
+
+BYLINE: DOUG STANLEY, dstanley@tampatrib.com
+
+
+
+SECTION: MONEYSENSE; Pg. 3
+
+
+
+LENGTH: 514 words
+
+
+
+
+
+By DOUG STANLEY
+
+
+
+dstanley@tampatrib.com
+
+
+
+Now you don't need the latest, greatest Web-enabled wireless phone or handheld
+
+device to tap the power of the Internet when you're on the road.
+
+
+
+Google's new Short Message Service enables you to get answers from any wireless
+
+phone or device capable of sending a simple text message.
+
+
+
+With Google SMS, you can get phone numbers, dictionary definitions, product
+
+prices and much more. You can do math problems, measurement conversions and even
+
+look up basic facts.
+
+
+
+Google SMS returns the answers to your queries in plain text, usually within a
+
+minute. It's really pretty handy. The service works with most major wireless
+
+carriers, including AT&T, Cingular, Nextel, Sprint PCS, T-Mobile and Verizon.
+
+
+
+For a complete rundown on the service and how to use it, visit www.google
+
+.com/sms.
+
+
+
+D-I-Y Icons
+
+
+
+If you're the type who likes to personalize every facet of your desktop,
+
+consider do-it-yourself icons. It's fairly quick and easy to do with Windows XP.
+
+
+
+Here's how: Click Start, Click Run, type "mspaint" (without the quotes) and
+
+click OK to open the Paint application.
+
+
+
+On Paint's Image menu, click Attributes. Enter 32 into both the Width and Height
+
+boxes, click the Pixels radio button and then click OK to create a new,
+
+icon-sized canvas.
+
+
+
+From there, add color, type or whatever you like. You can even shrink photos to
+
+32 by 32 pixels and paste them into the Paint document.
+
+
+
+When you're done, click the File Menu and Save As, then give the icon a name and
+
+use "ico" for the extension, ala "filename.ico".
+
+
+
+Make note of where you've saved the file. To use your new icon, right-click on
+
+any shortcut or folder, select Properties, click the Shortcut tab, click the
+
+Change Icon button and browse to your newly created icon.
+
+
+
+AOL Finally Gets It
+
+
+
+For years, America Online customers had no choice but to use AOL's clunky e-mail
+
+program.
+
+
+
+That finally changed when AOL made its e-mail technology compatible with many
+
+popular third-party e-mail applications applications.
+
+
+
+If you're an AOL customer, you now have alternatives for sending and receiving
+
+AOL e-mail, including Eudora, Microsoft Outlook and Outlook Express, and other
+
+e-mail clients that support Internet Message Access Protocol.
+
+
+
+The downside is some features of AOL e-mail won't be available if you choose an
+
+alternate e-mail program. For example, you won't be able to check the status of
+
+a sent message or recall an unopened message sent to another AOL member.
+
+
+
+For step-by-step instructions on configuring Outlook Express and other e-mail
+
+applications for use with AOL e-mail, visit tinyurl.com/3goak.
+
+
+
+Gamers, Stand Proud
+
+
+
+PBS presents the story of how a whimsical invention of the 1960s helped spawn
+
+the computer industry as we know it.
+
+
+
+Video games have influenced the way children live and play, forever altered the
+
+entertainment industry, and even affected the way wars are fought. See how it
+
+all began and find out what it means for the future, tinyurl.com/5nlfa.
+
+
+
+Keyword: Tech. Read past columns by Doug Stanley.
+
+
+
+Copyright © 2004, The Tampa Tribune and may not be republished without
+
+permission. E-mail library@tampatrib.com
+
+
+
+LOAD-DATE: November 4, 2004
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+NOTES: PLUGGED IN BUSINESS & TECHNOLOGY
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+           Copyright 2004 The Tribune Co. Publishes The Tampa Tribune
+
+
+
+
+

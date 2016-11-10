@@ -1,0 +1,424 @@
+                              764 of 820 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                     August 24, 2016 Wednesday 10:48 AM EST
+
+
+
+How Moto Mods went from concept to product
+
+
+
+BYLINE: Steven Max Patterson
+
+
+
+SECTION: Q_AND_A
+
+
+
+LENGTH: 1735  words
+
+
+
+
+
+Click for image
+
+
+
+The Moto Z and Moto Mods announcement last month caught the attention of
+
+everyone who has followed modular phone designs like Google Project ARA. The
+
+intriguing Moto Mods are the most viable modular design yet because consumers
+
+can add features to their phones, simply and cleanly without stressing them with
+
+a complex interconnection procedure or having to wait for the phone to reboot.
+
+The magnetic interface intuitively explains how it works and guides the user the
+
+first time a Mod is added to the Moto Z.
+
+
+
+I sat down with Paul Fordham, lead mechanical architect on the Moto Mods design
+
+team at Motorola, to talk about how Moto Mods were conceived and developed into
+
+a product. Interviewing software and electrical engineers can be tedious because
+
+of the high level of abstraction in their work. It was a pleasure to talk with
+
+Fordham, however, because mechanical engineers, like physicists, are tethered to
+
+the physical world, making for a very enjoyable and tangible conversation.
+
+
+
+---------------------------------------------------------------------
+
+
+
+Steven: Smartphone designers face a dilemma. With each new phone design,
+
+features are incrementally better because components such as displays,
+
+processors chips, GPS chips get better, but they can't really add a new hardware
+
+component that might add a game-changing feature without creating an overpriced
+
+device. How does Moto Mods change this?
+
+
+
+Fordham: You can't burden every phone with technology that perhaps only 10 or 20
+
+percent of consumers might want. You are taxing everyone with the new technology
+
+cost of a unique component that may provide unique features but might not have
+
+reached the low price points from production at the smartphone scale of hundreds
+
+of million units. You can't just roll out an intriguing phone design to the
+
+masses unless the price is intriguing, too.
+
+
+
+That's literally what the whole Moto Mods concept was about. The design allows
+
+for customization for the consumers willing to pay for premium feature modules.
+
+
+
+Look, if a premium camera is important to one consumer segment or really long
+
+battery life is important to another, they can pick and choose or they can
+
+choose both. They can decide what they want to use on any particular occasion
+
+without taxing everyone with the cost of building these features into every
+
+phone. It's very similar to the concept of apps. Apps let you customize your
+
+phone with software. Moto Mods let you customize your phone's hardware.
+
+
+
+Steven: What were the principals you had in mind when you started designing Moto
+
+Mods?
+
+
+
+Fordham: It has to function as a smartphone first. The Moto Mods concept would
+
+have failed if we didn't design a phone with great performance and user
+
+experience. No one's going to buy Moto Mods for a phone they don't love.
+
+
+
+The design had to be hot swappable. Put the Mod on, take it off, again and
+
+again, simply without hanging Android. The design was meant not only for our
+
+inside Motorola engineering team, but for independent hardware engineers using
+
+the open-sourced hardware designs. We created a physical user experience when
+
+adding or removing a Mod that is really clean, simple and easy. And after a user
+
+does it once, he or she gets it. This is the clever part of the design.
+
+
+
+Apps let you customize your phone with software. Moto Mods let you customize
+
+your phone's hardware.
+
+
+
+This cleverness was the result of mechanical designers, working with software
+
+and electrical engineers to make the experience as clean as it is.
+
+
+
+Steven: Please tell a bit more about how you designed this cleverness.
+
+
+
+It was a unique situation. We were four mechanical engineers that started
+
+looking into how to modularize a phone. Three years have flown by because we've
+
+had a great deal of fun doing this.
+
+
+
+We started experimenting with the Moto X. The Moto X curved back made the
+
+modules feel like an afterthought. All the attachment concepts we applied came
+
+out kludgey. Working with the three other mechanical engineers, we decided the
+
+first thing we have to do is make the phone light, super light thin and then you
+
+have to make it the back flat where the phone and module attach together. Not
+
+just connect, they have to attach and be one.
+
+
+
+We started in about the August 2013. We added a few electrical and software
+
+engineers, but it was still a pretty small team. We released the first fully
+
+functional prototypes in December.
+
+
+
+padding-left: 30px;Note: At this point, Fordham produced the first prototype in
+
+one hand, a polished design, very thin-thinner than the Moto Z-and a thin
+
+battery module in the other and let them magnetically marry themselves.
+
+
+
+This prototype amazed our colleagues and management. We'd let them hold the
+
+device with the battery attached and asked them "what do you think?" The answers
+
+were politely positive, which changed to jaw-dropping amazement when we pulled
+
+the module and the phone apart. Magnets were the right choice to invisibly and
+
+tightly connect the phone and module because people like and understand them.
+
+That convinced us that we had something worth developing into a product. There
+
+were some compromises, some of them a little painful. We made it thicker for a
+
+Type-C USB connector and settled on a camera bump so we could spec a
+
+high-quality camera assembly.
+
+
+
+We learned to compromise. We just would say, OK, how do we make this design
+
+work? How do we evolve the design so that it will really work for consumers in
+
+everyday life? And when the Moto Mods designs are made available under an
+
+open-source license, how will we attract independent hardware designers
+
+motivated to create an ecosystem of unique add-on modules?
+
+
+
+Steven: This reminds me of Google's Project ARA, a concept modular phone.
+
+
+
+Fordham: We were aware of Project ARA because Motorola was owned by Google at
+
+the time, but we had a different idea. We didn't think that the typical consumer
+
+would be able to make-or care about making-modular choices like processors and
+
+displays.
+
+
+
+Steven: Three Moto Mods were released with the Moto Z: an LCD projector Mod, a
+
+JBL stereo speaker Mod and a battery Mod. What were some of the other concepts
+
+you worked on?
+
+
+
+Fordham: We built a battery module that had a full QWERTY keyboard inside. I
+
+could show it to you; it's almost like a slider type concept for people who like
+
+the tactile feel of a real keyboard. We had all these different ideas that we
+
+hadn't even partly developed.
+
+
+
+But we don't have a monopoly on all the possible ideas for modular phone
+
+applications. Our developer program lets other hardware design teams build
+
+intriguing Moto Mods that consumers want. I think there are some good ideas that
+
+are coming in. It certainly is different; it's a new revenue stream that Moto
+
+Mod brings for Motorola and our hardware and carrier partners.
+
+
+
+Steven: How did you choose magnets?
+
+
+
+Fordham: Magnets really turned out to be the only real choice. We looked at
+
+mechanical snaps, drop-and-slide type stuff. These were kludgy, not a good
+
+experience. So, when we started, magnets came into focus, not just because of
+
+the mechanical properties but because people actually gravitate towards
+
+magnets-they understand them, there's something unique about them and they're
+
+super easy. People immediately understand how the Mods work and don't stress
+
+about damaging the phone or Mod putting them together or taking them apart.
+
+
+
+We hit some bumps in the road-we learned a lot-we were not experts in magnets.
+
+We worked with K&J Magnetics They really helped us realize our design. They were
+
+intrigued by our questions, I think, because while magnets aren't new, the
+
+application is pretty unique.
+
+
+
+The engineering challenge wasn't so much driven by the magnet connection of the
+
+Mod to the phone back, but a strong enough magnetic field to counter the force
+
+of the 16 pins that make consistent electrical contact. We designed the phone
+
+that would marry tightly with a Mod up to about 200 grams. Each of the connector
+
+pins on the back imparts a 60-gram force against the opposing contact, and there
+
+are 16 of them, so we engineered the magnets to counter the force of the pins.
+
+
+
+We would have preferred to build the phone with Cobalt stainless steel because
+
+it has the best magnetic properties, but we chose a Series 400 stainless steel
+
+because it is much better for decorative surface coatings applied with physical
+
+vapor deposition (PVD). We also had to design in tolerance for slight warping of
+
+the phone or Mod. It all turned out well, but there were a few dark moments
+
+during which we went back to mechanical snaps for three days.
+
+
+
+Steven: The electrical interfaces, RF, things that keep engineers up late at
+
+night-what were some of the challenges you ran into in doing that?
+
+
+
+Fordham: We had a number of constraints that we had to accommodate. The most
+
+important to be considered in the final design were optimizing the antenna
+
+functions without interference from the high-speed data going over the 16-pin
+
+connector and what position on the internal system board was best for
+
+interfacing the internal phone bus with the bus in the Moto Mod. We tried
+
+different pin configurations, too-8, 14, 16. Some team members would want fewer;
+
+others would have been happier with 40. This interface achieved our goal-one we
+
+believed was essential-making a connection that would not need a reboot like the
+
+LG G5 does.
+
+
+
+We [mechanical, software and electrical engineers] were pretty happy with the
+
+design, and we didn't lose too much sleep. The design performs well, transmits
+
+high-speed data across a reliable connector and bus. The phone doesn't have to
+
+be rebooted when Mods are attached, detached and exchanged, and the design is
+
+future-proofed.
+
+
+
+Steven: When did you think the Moto Mods design was far enough along to include
+
+manufacturing engineers in the discussion?
+
+
+
+Fordham: Each member of the team had experience designing for manufacturing.
+
+Together we had many years of experience. We started meeting with the
+
+manufacturing engineers early on. When we saw a point of contention coming with
+
+the manufacturing engineers, we would meet, push back and forth, explain that we
+
+had to evolve a really thin phone design and a dead-simple method for attaching
+
+Mods.
+
+
+
+We took some risks and mitigated them, found the middle ground with the
+
+manufacturing engineers that allowed the design to continue to evolve. Drop
+
+testing and accelerated life testing produced the new flagship design of Moto Z
+
+family that is robust, manufacturable and provides the end user with a good
+
+experience.
+
+
+
+LOAD-DATE: August 25, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                 Copyright 2016 International Data Group, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

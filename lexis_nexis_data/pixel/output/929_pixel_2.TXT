@@ -1,0 +1,438 @@
+                              929 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                  Guardian.com
+
+
+
+                             August 25, 2014 Monday
+
+
+
+Boot up: net makes smart?, iPhone displays figured, clone wars
+
+
+
+BYLINE: Charles Arthurtheguardian.com
+
+
+
+LENGTH: 1588 words
+
+
+
+ABSTRACT
+
+
+
+Charles Arthur: Plus Baidu's move into AI, HERE's problem competing with Google
+
+and Apple, China's LTE market and more
+
+
+
+FULL TEXT
+
+
+
+A burst of 9 links for you to chew over, as picked by the Technology team
+
+
+
+States with faster internet access have smarter people && High Speed Internet
+
+blog
+
+
+
+Despite several doomsday claims that the Internet is breeding a generation of
+
+morons, new analysis suggests the opposite may be true.
+
+
+
+We gathered the 2013 average ACT scores for each state from act.org and compared
+
+them with the 2013 Internet speed data from Akamai that was highlighted in a
+
+recent Broadview article. We found a correlation of .57. Given that a 0 is no
+
+correlation and a 1 is perfect correlation, this strong correlation of .57 shows
+
+that students from states with faster Internet speeds have higher ACT scores on
+
+average.
+
+
+
+This sound like something from Tyler Viglen's Spurious Correlations site - which
+
+manages far better correlations, such as the divorce rate in Maine having a
+
+0.992 correlation with US per capita consumption of margarine.
+
+
+
+Conjecture regarding larger iPhone displays && Daring Fireball
+
+
+
+John Gruber:
+
+
+
+after giving it much thought, and a lot of tinkering in a spreadsheet, here is
+
+what I think Apple is going to do:
+
+
+
+· 4.7-inch display: 1334 × 750, 326 PPI @2x· 5.5-inch display: 2208 × 1242, 461
+
+PPI @3x@2x means the same "double" retina resolution that we've seen on all iOS
+
+devices with retina displays to date, where each virtual point in the user
+
+interface is represented by two physical pixels on the display in each
+
+dimension, horizontal and vertical. @3x means a new "triple" retina resolution,
+
+where each user interface point is represented by three display pixels. A single
+
+@2x point is a 2 × 2 square of 4 pixels; an @3x point is a 3 × 3 square of 9
+
+pixels.
+
+
+
+I could be wrong on either or both of these conjectured new iPhones. I derived
+
+these figures on my own, and I'll explain my thought process below.
+
+
+
+iPhone 5 battery replacement program && Apple Support
+
+
+
+Apple has determined that a very small percentage of iPhone 5 devices may
+
+suddenly experience shorter battery life or need to be charged more frequently.
+
+The affected iPhone 5 devices were sold between September 2012 and January 2013
+
+and fall within a limited serial number range.
+
+
+
+If your iPhone 5 is experiencing these symptoms and meets the eligibility
+
+requirements noted below, Apple will replace your iPhone 5 battery, free of
+
+charge.
+
+
+
+US and China only at present; will be extended to other countries from 29
+
+August. You have to input your serial number if you think you're affected on the
+
+page; it doesn't offer the range.
+
+
+
+Swing Copters, clones and the dismal failure of the 'open' app store && Polygon
+
+
+
+Ben Kuchera:
+
+
+
+This is also how we end up with games like Combat Trigger: Call of the Modern
+
+Shooter Dead Duty 3D. I'm not one to shy away from optimizing for search, you
+
+can check out this story's URL for yourself, but there has to be a line
+
+somewhere. This isn't the title of a game that anyone took seriously as anything
+
+other than a honeypot.
+
+
+
+This isn't one problem, it's a series of problems. It's not localized in one
+
+place, but literally everywhere apps are sold. There's not a ton of incentive
+
+for platform holders to kick ass and clean things up, because they get paid
+
+regardless, and asking for refunds is often a long, tedious process that likely
+
+isn't worth the buck or two you may have lost.
+
+
+
+Which is, of course, part of the reason clones, scam apps and SEO releases are
+
+so attractive. It's all about scale.
+
+
+
+There's no easy solution, and fighting back is impossible without Apple, Google
+
+or Microsoft onboard. But games are being strangled, customers are losing money
+
+and no one is happy. Something has to give.
+
+
+
+Chinese search giant Baidu thinks AI pioneer Andrew Ng can help it challenge
+
+Google and become a global power && MIT Technology Review
+
+
+
+Robert Hof:
+
+
+
+Andrew Ng, newly appointed chief scientist at Baidu, China's dominant search
+
+company, is here to talk about his plans to advance deep learning, a powerful
+
+new approach to artificial intelligence loosely modeled on the way the brain
+
+works. It has already made computers vastly better at recognizing speech,
+
+translating languages, and identifying images - and Ng's work at Google and
+
+Stanford University, where he was a professor of computer science, is behind
+
+some of the biggest breakthroughs. After his talk, the audience of about 200
+
+entrepreneurs, venture capitalists, and tech workers sends him off with two
+
+rounds of applause.
+
+
+
+The avid reception helps explain why Baidu has made Ng, 38, the linchpin of an
+
+effort to transform itself into a global force. The company hired him in May to
+
+head its research organization, which includes a new artificial-intelligence lab
+
+in Silicon Valley and two labs in Beijing, one focused on deep learning and the
+
+other on large-scale data analysis. Often called China's Google, the company
+
+plans to invest $300 million in the new lab and a development office on the same
+
+floor over the next five years.
+
+
+
+Hear HERE - "Halbherr is Not Here Anymore." && Telemapics
+
+
+
+Mike Dobson looks at the departure of Nokia HERE's boss:
+
+
+
+I doubt that Nokia can afford to compete in the mapping wars with Google and
+
+Apple.
+
+
+
+The last potentially meaningful data we have on Navteq's database development
+
+and delivery was that it spent $273 million in the first nine months of 2007 in
+
+the pursuit of a better database. At that time the amount that NAVTEQ spent
+
+during a partial year far outstripped the combined expenses of all of its
+
+competitors for several years. I doubt that HERE is now spending at a comparable
+
+rate to maintain and expand its database.While the amounts that Google is
+
+spending to expand its mapping/navigation/location databases may not be
+
+sustainable in the long run, the large investments in mapping that they continue
+
+to be willing to make have put them far ahead of anyone in the mapping arms
+
+race. Perhaps the more important issue is that few potential acquirers will
+
+understand that the amount of money HERE is spending on database development is
+
+grossly inadequate to grow the business in the mapping/navigation/location
+
+marketplace or to compete with Google or Apple in the future.
+
+
+
+Market monitor: Q2 2014: China, LTE & smartphones && Counterpoint Technology
+
+Market Research
+
+
+
+Neil Shah:
+
+
+
+Global smartphone market grew to a record all-time-high shipment volumes
+
+surpassing 300m units in Q2 2014 surpassing the Q4 2013 holiday season surge
+
+
+
+· Smartphone shipments now account to 70% of all mobile phone shipped during the
+
+quarter, highest ever· China was the big factor this quarter clocking record
+
+high smartphone shipments, more than 100m units· China now accounts to more than
+
+a third of the global smartphone volumes up from a quarter, eight quarters ago·
+
+The major growth in China is as a result of unparalleled demand for smartphones:
+
+almost 94% of the total phones shipped compared to the US, where smartphone
+
+still represents 88% of the total phones shipped in Q2 2014· During the quarter,
+
+LTE was one of the big factor driving smartphone volumes and the LTE phenomenon
+
+is just getting started in China· Within three quarters or so, China has raced
+
+to become the second largest market globally in terms of LTE smartphone volumes,
+
+almost a fourth of global LTE volumes and almost non-existent LTE volumes in the
+
+same quarter a year ago
+
+
+
+A niche of a niche && CCS Insight
+
+
+
+Demographics don't always correlate with the realities of the market.
+
+Smartphones for seniors seems an obvious niche given the expanding penetration
+
+rate of smartphones and the growing elderly population. However, it appears
+
+there's been limited demand for such devices.Yesterday, Doro, a Swedish phone
+
+manufacturer specialising in handsets for seniors, reported that its smartphone
+
+makes up only 7% of its mobile device sales. The company's portfolio has several
+
+simplified, big-button feature phones and one smartphone: the Liberto 810. Doro
+
+has stripped away levels of complexity in its user interfaces and made the
+
+hardware large and clear, with screens optimised for older eyes and sound
+
+optimised for older ears.
+
+
+
+Contains the phrase "younger seniors", which may be a first.
+
+
+
+The golden age of neuroscience has arrived && WSJ
+
+
+
+Michio Kaku:
+
+
+
+The Pentagon, witnessing the human tragedy of the wounded warriors from Iraq and
+
+Afghanistan, has invested more than $150 million in the military's Revolutionary
+
+Prosthetics program, so that injured veterans can bypass damaged limbs and
+
+spinal cords and mentally control state-of-the-art mechanical arms and legs.
+
+Already, the technology exists to let you walk into a room and mentally turn on
+
+the lights, control appliances, surf the Web, write and send emails, play
+
+videogames, dictate articles, control a distant robot or avatar, and even drive
+
+a car.
+
+
+
+Not just our bodies, but even our memories are now being digitized. Last year at
+
+Wake Forest University and the University of Southern California, scientists for
+
+the first time were able to record and upload memories directly into an animal
+
+brain, which is something straight out of a sci-fi movie like "The Matrix."
+
+Scientists there trained mice to perform certain simple tasks, which can be
+
+recorded by sensors placed in their brains. After they forget the task, the
+
+digitized memory can be reinserted back into their brain, allowing them to
+
+remember.
+
+
+
+Kaku is a professor of theoretical physics at the City College of New York.
+
+
+
+You can follow Guardian Technology's linkbucket on Pinboard
+
+
+
+To suggest a link, either add it below or tag it with @gdntech on the free
+
+Delicious service.
+
+
+
+LOAD-DATE: August 25, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+   Copyright 2014 Guardian News and Media Limited or its affiliated companies
+
+                              All Rights Reserved
+
+                  Registered in England and Wales. No. 908396
+
+   Registered office: PO Box 68164, Kings Place, 90 York Way, London N1P 2AP
+
+
+
+
+

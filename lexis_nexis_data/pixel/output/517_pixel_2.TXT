@@ -1,0 +1,108 @@
+                              517 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                           October 9, 2013 Wednesday
+
+
+
+US Patent granted to Google Inc (California) on October 08 titled as "Depthmap
+
+compression using a primitive"
+
+
+
+LENGTH: 250  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,553,998 on
+
+October 08, 2013, to Google Inc (California), titled as "Depthmap compression
+
+using a primitive"
+
+
+
+Inventors:  Hernandez Esteban; Carlos (Kirkland, WA)
+
+Assignee:  Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Systems and methods for compressing a depthmap are provided. In some aspects, a
+
+system includes an encoding module configured to group a plurality of pixels of
+
+a depthmap. Each grouped pixel of the depthmap includes a depth value and is
+
+associated with an optic ray aligned with a camera capturing the depthmap. Each
+
+of the plurality of depth values is within a predetermined offset from one
+
+another. The encoding module is further configured to generate a primitive based
+
+on the grouped plurality of pixels. The primitive includes an identification
+
+value. Each of the plurality of optic rays intersects a corresponding portion of
+
+the primitive. The encoding module is further configured to transform the
+
+depthmap based on the primitive. Each grouped pixel of the transformed depthmap
+
+includes the identification value. The system also includes a compression module
+
+configured to compress the transformed depthmap."
+
+
+
+The patent was filed on November 22, 2011 Application no. 13/303,095
+
+
+
+For more information please visit: http://www.uspto.gov/. In case of any query
+
+regarding this article or other content needs please contact:
+
+editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: October 10, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2013 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

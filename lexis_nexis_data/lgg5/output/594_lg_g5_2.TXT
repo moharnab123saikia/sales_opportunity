@@ -1,0 +1,100 @@
+                              594 of 820 DOCUMENTS
+
+
+
+
+
+                            The Times of India (TOI)
+
+
+
+                           August 17, 2016 Wednesday
+
+
+
+Google is working on a new operating system, Fuchsia
+
+
+
+SECTION: TECH NEWS
+
+
+
+LENGTH: 261 words
+
+
+
+
+
+NEW DELHI: Google is working on a new operating system, codenamed 'Fuchsia'. The
+
+OS was found as a part of a developer code on GitHub and Google's own code
+
+repository website. The OS is said to be focussed on IoT (Internet of Things)
+
+and does not run on Linux unlike Android and Chrome OS.First spotted by Android
+
+Police, the OS is based on Magenta, which is a "medium-sized microkernel" that
+
+itself is based on a project called as LittleKernel. The platform is said to be
+
+designed for embedded systems for instance a PC that doesn't use the regular OS,
+
+GPS devices or car dashboards.On further finding, the GitHub website titled
+
+"Pink + Purple == Fuchsia (a new Operating System)" adds that the Google Fuchsia
+
+OS is for "modern phones and modern personal computers" that are based on "fast
+
+processors" and use "trivial amounts of RAM."As per multiple reports, the Google
+
+Fuchsia OS might become the ultimate OS as it may unify Chrome OS, Android and
+
+the IoT platform, Brillo.
+
+
+
+This means it would take just one OS to run from desktops to smartphones,
+
+tablets, and everything else.The Fuchsia OS's kernel includes OS features like
+
+user modes and a capability-based security model. Although Google is yet to give
+
+details on the project and on which device will we see it first, a Google
+
+engineer named Travis Geiselbrecht has said it would arrive on Raspberry Pi 3
+
+soon, reports Y Combinator news website.Talking about OSes, Google has started
+
+rolling out Android 7.0 Nougat previews to Sony Xperia X Performance and LG G5
+
+smartphones.
+
+
+
+For Reprint Rights: timescontent.com
+
+
+
+LOAD-DATE: August 16, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2016 Bennett Coleman & Co. Ltd.
+
+                              All Rights Reserved
+
+
+
+
+

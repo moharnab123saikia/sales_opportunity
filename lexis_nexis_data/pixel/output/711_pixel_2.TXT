@@ -1,0 +1,106 @@
+                              711 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                             March 14, 2014 Friday
+
+
+
+US Patent granted to Google Inc (California) on March 11 titled as "Fast
+
+randomized multi-scale energy minimization for image processing"
+
+
+
+LENGTH: 218  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,670,630, on
+
+March 11, 2014, to Google Inc (California), titled as "Fast randomized
+
+multi-scale energy minimization for image processing"
+
+
+
+Inventors:  Kwatra; Vivek (Santa Clara, CA)
+
+Assignee:  Google Inc. (Mountain View, CA)
+
+
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office: "An
+
+image processing module performs efficient image enhancement according to a
+
+multi-scale energy minimization process. One or more input images are
+
+progressively downsampled to generate a pyramid of downsampled images of varying
+
+resolution. Starting with the coarsest downsampled image, a label map is
+
+generated that maps output pixel positions to pixel positions in the downsampled
+
+input images. The label map is then progressively upsampled. At each upsampling
+
+stage, the labels are refined according to an energy function configured to
+
+produce the desired enhancements. Using the multi-scale energy minimization, the
+
+image processing module enhances image via hole-filling and/or
+
+super-resolution."
+
+
+
+The patent was filed on December 1, 2011 Application no. 13/308,836
+
+
+
+For more information please visit: http://www.uspto.gov/. In case of any query
+
+regarding this article or other content needs please contact:
+
+editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: March 14, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

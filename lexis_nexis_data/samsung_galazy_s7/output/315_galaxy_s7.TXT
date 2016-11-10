@@ -1,0 +1,188 @@
+                             315 of 1000 DOCUMENTS
+
+
+
+
+
+                                  Stock Watch
+
+
+
+                       March 14, 2016 Monday 6:30 AM EST
+
+
+
+Torture Tests Uncover Truth Behind Samsung Galaxy S7 & S7 Edge Being Waterproof
+
+
+
+BYLINE: John DiPietro
+
+
+
+LENGTH: 682  words
+
+
+
+
+
+A gadget-warranty outfit, SquareTrade, has tested the Galaxy S7 and S7 Edge
+
+models of Samsung that have been claimed to be waterproof. The results have
+
+revealed that if you are someone who cannot survive without phone for one single
+
+second, then these are definitely the best options for you.
+
+
+
+However, in case you are into something like parkour games that increase the
+
+chance of the instrument being banged against hard surface, then probably the
+
+latest model of iPhone is what you would want to have.
+
+
+
+However, there is no doubt about the fact that the two models of Samsung are
+
+much better than the iPhone 6s and 6s Plus when it comes to water resistance,
+
+however, some permanent damage can be expected in the former as well. The
+
+outcomes of the torture tests were revealed by the outfit on March 14, 2016. For
+
+testing the water resistance of the four models, all of them were submerged for
+
+half an hour in 5 feet (1.5 m) of water. The outcome revealed that after drying
+
+up, both the Samsung models were functional, but with permanent damage to their
+
+audio system, which was left muffled and distorted.
+
+
+
+Meanwhile, the iPhone 6 revealed similar outcomes of the test, with similar harm
+
+to sound system and display glass having moisture under it. However, iPhone 6s
+
+Plus became a complete useless box in less than half an hour of being submerged.
+
+Though rumors began last fall about the water resistance of the Apple iPhone 6s,
+
+but the company never claimed any such feature during marketing.
+
+
+
+Though the two Samsung models are claimed to be water resistant only up to 1
+
+meter for half an hour on its website, but they have been given a rating of IP
+
+68, which requires water resistance of more than 1 meter depth. As per the
+
+information on the official launch page of the models, they should be given a
+
+rating of IP 67.
+
+
+
+In a report published by the Xda-Developers, "A lot of the issues with Samsung
+
+and development can be traced back to Exynos and its lack of documentation. So,
+
+naturally, when we heard news that the Samsung Galaxy S7 would come in a variant
+
+with Qualcomm's Snapdragon 820 instead of Samsung's own Exynos 8890, the
+
+developer community crossed its fingers and hoped for the best. Could this be
+
+the first Samsung flagship in recent memory which will have good support for
+
+AOSP based development? Could it actually be possible to remove TouchWiz
+
+entirely from a Samsung flagship, and enjoy an AOSP experience sans all the
+
+bloat? Could one expect to get on the latest Android version without waiting
+
+months for Samsung to port it over to the device?"
+
+
+
+Then, there come the carriers. US carriers have a strong history of locking down
+
+devices, with Verizon and AT&T being the worst when it comes to bootloader
+
+locking. So users on those carriers could very much expect to be stuck with what
+
+came out of the box for the most part. Updates to the Android system has to be
+
+first implemented in TouchWiz by Samsung, and then has to pass through the
+
+carrier to reach the device, adding another step in the update deployment
+
+process.
+
+
+
+According to a report in Business-Standard by Arnab Dutta, "Last week, the
+
+largest smartphone maker in the world, Samsung, launched its flagship Galaxy S7
+
+and S7 edge for Rs 48,900 and Rs 56,900, respectively."
+
+
+
+Other companies, too, told Business Standard they could cut the prices of their
+
+premium smartphones by five to 10 per cent in the next few months, in response
+
+to Samsung.
+
+
+
+"Protection-plan specialists SquareTrade have been busy testing the durability
+
+of Samsung's new Galaxy S7 and Galaxy S7 Edge smartphones, and pitting them
+
+against Apple's iPhone 6s and iPhone 6s Plus in its latest Breakability tests,"
+
+according to a news report published by ZdNet.
+
+
+
+"Samsung's new phones may hold up to an impressive amount of water, but we've
+
+found that they still struggle to keep up with the iPhone when it comes to
+
+screen durability," said Aileen Abaya, director of communications at
+
+SquareTrade. "So while the S7 and S7 edge may be perfect for underwater
+
+adventurers, those of us who are clumsy or accident-prone should still be
+
+careful about drops and tumbles."
+
+
+
+LOAD-DATE: March 14, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+          Copyright 2016 Manas Informatics, distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

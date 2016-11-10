@@ -1,0 +1,420 @@
+                              733 of 997 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                            January 3, 2012, Tuesday
+
+
+
+iPhone 5 rumor rollup for the week ending Dec. 31;
+
+Q1 release date, round pixels, aluminumation, LTEgate among hottest iPhone 5
+
+scuttlebutt
+
+
+
+BYLINE: John Cox
+
+
+
+LENGTH: 1596 words
+
+
+
+
+
+The holiday season brought a stuffed stocking of iPhone 5 rumors to the
+
+iOSsphere, closing out 2011 with a whimper ofjoyful speculation.
+
+
+
+Will iPhone 5 bloom in the bleak midwinter? Will round pixels dazzle our eyes?
+
+Can the same material used in beer cans elevate the Next iPhone to the level of
+
+complete redesign? Did you know the iPhone 5 is only waiting on Verizon to get
+
+its LTE act together?
+
+
+
+CATCHING UP: iPhone 5 rumor roundup for week ending Dec. 23 LITERARY FUN: If
+
+William Shakespeare wrote an Apple rumor blog You read it here second.
+
+
+
+"I think the release of the iPhone 5 will be the pivot around which the rest of
+
+2012 turns in tech." -- Alexis Madrigal, The Atlantic In the depths of winter,
+
+the next iPhone will bloom, according to Alexis Madrigal, a senior editor at The
+
+Atlantic, in a gushing post headlined "Looking ahead at tech in 2012."
+
+
+
+Madrigal simply asserts that the Next iPhone "is probably going to come out in
+
+the first quarter of 2012." That would be less than six months since the release
+
+of the Great Disappointment a.k.a. iPhone 4S.
+
+
+
+Not everyone is this confident. Stupid Apple Rumors succinctly comments on
+
+Madrigal's post: "Not going to happen and The Atlantic should stick to what it
+
+knows and stay out of the rumor business." An admonition that is probably doomed
+
+to be ignored.
+
+
+
+Madrigal's post sets new standards for lack of details and thinness of analysis
+
+in iPhone 5 rumors, even for a year-end prediction piece. For example, he
+
+doesn't so much explain as celebrate the iPhone 5's importance: "It will be a
+
+huge deal," he says.
+
+
+
+It will be so huge that all of us will "casually mention it in dinner
+
+conversations" and "strangers will talk about it on the bus," and our heads will
+
+be buzzing as a new ad campaign for it "worm[s] its way into our consciousness
+
+of cool."
+
+
+
+"I think the release of the iPhone 5 will be the pivot around which the rest of
+
+2012 turns in tech," Madrigal predicts. It will set "a whole new standard for
+
+communications devices."
+
+
+
+Germany-based MacTimes has learned exclusively, "from a reliable source," that
+
+iPhone 5 will have an "innovative display technology ... based on adjoining and
+
+round pixels." The result will be "greater clarity and truer forms, especially
+
+in curves," according to the Google Translate account of the German language
+
+post.
+
+
+
+The reliable source was pretty skimpy on details. MacTimes apparently speculated
+
+that Apple's "development partner" might be Toshiba, which demonstrated in May
+
+2011 a 4-inch high-definition display, 1280 by 720 pixels, with a pixel density
+
+of 367 pixels per inch. That compares with Apple's current Retina Display of 960
+
+by 640 pixels, at 326 ppi, created in part by developing pixels just 78
+
+micrometers wide, according to Apple's website. That let Apple pack up to four
+
+times the pixels into the same size screen.
+
+
+
+MacTimes admits that there is "still nothing concrete" about its Toshiba
+
+speculation, and offers no additional details about the allegedly innovative
+
+adjoining and round pixels, which it dubs with the made-up name "iShape."
+
+
+
+Screens with 1280-by-720-pixel resolution are starting to appear on some
+
+high-end smartphones, most recently the LG Nitro HD, available in the U.S. on
+
+AT&T. According to Engadget's review, though the pixel density is just 329 ppi
+
+compared to 326 for the iPhone 4S, the higher resolution is noticeable. "LG's
+
+chosen to outfit the Nitro HD with a 1280 x 720 AH-IPS panel boasting 329ppi
+
+that bests Apple's Retina display ... and it shows," according to Engadget's
+
+reviewer. "The screen is simply gorgeous, rendering fonts and icons with a
+
+smooth distinction you'll likely take for granted. Colors are vibrant and
+
+accurate, sidestepping the over-saturated pizazz typical of rival Super AMOLED
+
+tech for a more restrained performance."
+
+
+
+Another smartphone with 1280-by-720-pixel resolution is the Samsung Galaxy
+
+Nexus, available on Verizon.
+
+
+
+With a new pixel design, "Apple wants to push the built-in Super [sic] Galaxy
+
+Nexus HD AMOLED display screen from the throne," according to MacTimes via
+
+Google Translate. "Realistically, one would be dimensioned with 1280x720 pixel
+
+resolution, it could thus [show] 720p quality movies in real play."
+
+
+
+From a "close source," whatever that means, Boy Genius Report has learned that
+
+the Next iPhone will have a back plate made of the same material used in beer
+
+cans, and a rubberized bezel or edge.
+
+
+
+According to the headline for Jonathan S. Geller's BGR post, this aluminumation
+
+qualifies as a "completely redesigned" iPhone 5, to be launched in the fall of
+
+2012.
+
+
+
+The bezel material will marry the glass face to the iPad 2-like back plate and
+
+it will cover a "redesigned antenna system that surrounds the device." This
+
+latter covering will let Apple "build the rear case out of aluminum without
+
+having to use a large plastic insert above the antennas as the company does on
+
+its iPad 2" 3G models, according to Geller.
+
+
+
+He's referring to the black plastic cover over the GSM or CDMA antennas at the
+
+top rear of the iPad models configured with 3G connectivity. You can see the
+
+antenna innards in this iFixit teardown of the iPad (see Step 2).
+
+
+
+In the current iPhone 4 and 4S, the antennas are built into the flat aluminum
+
+bands that form the phones' exterior sides.
+
+
+
+Geller seems to be saying the iPhone 5 antennas will be moved either to the
+
+interior of the phone or at least under the phone's new rubberized "edge."
+
+
+
+Despite the fact that Geller cites only one "close source," other tech sites,
+
+like iPhoneFAQ, arbitrarily expanded this to "sources." Much more authoritative.
+
+
+
+"A6 CPU For iPhone 5 Looking More Likely, But Probably Not Till Fall 2012," is
+
+the headline for Charles Moore's speculation at The iPhone 5 News Blog.
+
+
+
+Moore says he's "been of a mind" that Apple would introduce the quad-core A6
+
+processor first on the iPad and then on later iPhone models. "However, I may
+
+have been mistaken about that," he now admits.
+
+
+
+He references a DigiTimes story, which cites the usual anonymous sources among
+
+Apple's supply chain partners to the effect that the next iPad models due in
+
+2012 will use the Apple-designed quad-core A6 processor for the first time.
+
+Currently, iPad 2, and iPhone 4S, use the dual-core A5.
+
+
+
+"And if the iPad 3 does indeed turn out to be powered by A6 silicon, it will be
+
+a strong indicator that the iPhone 5 will be likewise equipped," Moore claims.
+
+Yet nowhere in his post does he explain why it would be an indicator.
+
+
+
+His assumption seems to be simply that the iPad 2, released in March 2011, first
+
+used the dual-core A5 chip, which was then introduced six months later in the
+
+iPhone 4S, and this sets the "pattern" of Apple's CPU introductions.
+
+
+
+A quad-core CPU, a larger, higher-resolution screen, and support for LTE are all
+
+touted as desirable in iPhone 5, if not absolutely essential to stave off the
+
+Android onslaught of phones that currently offer such features.
+
+
+
+Yet all three features require more power, which can dramatically reduce battery
+
+life. Apple doesn't like to reduce battery life, even a little.
+
+
+
+Like a magician, David Magee at International Business Times pulled this rumor
+
+whole from his hat. Let's call it "LTEgate."
+
+
+
+The somewhat confusing and confused opening sentence of the post reads: "Apple's
+
+highly-anticipated iPhone 5 is expected to be released in 2012 with a radical
+
+new design and new features including LTE 4G capability may get delayed due to
+
+problems Verizon is having with its network."
+
+
+
+So the iPhone is expected to be released in 2012 but whenever it's released it
+
+will be later than planned because of the Verizon network problems.
+
+
+
+Magee bases this speculation on Kevin Fitchard's GigaOM interview with Verizon
+
+Wireless' vice president of network engineering, Mike Haberman, who talked about
+
+the carrier's LTE "growing pains," including a trio of outages and disruptions
+
+during December.
+
+
+
+None of those approached the magnitude of last April's software bug in Verizon's
+
+IP Multimedia Subsystem (IMS, the replacement for the older signaling
+
+architectures), which crippled LTE service nationwide.
+
+
+
+But neither Fitchard nor Haberman ever mention the iPhone, let alone the iPhone
+
+5.
+
+
+
+But Magee is able to see beyond the surface, deep into the underlying thinking
+
+of Apple's senior management. He recycles the persistent conviction among many
+
+in the iOSsphere that the true iPhone 5, with LTE support, has been ready for
+
+months. "It's not that Apple didn't have the new iPhone ready," Magee declares.
+
+"It's that the network isn't ready for Apple's new iPhone."
+
+
+
+It's never clear where the ready-to-go iPhones are physically located in this
+
+scenario. Perhaps they're stored at Apple's Cupertino headquarters, or maybe in
+
+its massive, new North Carolina data center, visible from space, or they're
+
+moldering on pallets at a Foxconn assembly plant in China. iPhone 5s longing to
+
+be free.
+
+
+
+"Verizon is planning to update its IMS software and taking other steps to
+
+minimize outages, but one can't help but believe that Apple has no interest in
+
+releasing its LTE 4G compatible iPhone until the network outage issues are
+
+solved," Magee continues.
+
+
+
+"Sure, users would understand it's the network not the iPhone, but Apple also
+
+understands its product would suffer the consequences."
+
+
+
+The special beauty of this rumor is that Magee doesn't have to pretend there's
+
+even one source for it. It's just, you know, obvious, once you have insight into
+
+Apple's "interest" and what it "understands."
+
+
+
+John Cox covers wireless networking and mobile computing for Network World.
+
+Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com Blog RSS feed:
+
+http://www.networkworld.com/community/blog/2989/feed
+
+
+
+
+
+
+
+LOAD-DATE: January 9, 2012
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2012 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

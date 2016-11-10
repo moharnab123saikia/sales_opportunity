@@ -1,0 +1,312 @@
+                              30 of 997 DOCUMENTS
+
+
+
+
+
+                          Australian Financial Review
+
+
+
+                            October 25, 2016 Tuesday
+
+                             Print & First Editions
+
+
+
+Google Pixel chickens out on hatching bold new bot;
+
+Digital life
+
+
+
+BYLINE: John Davidson
+
+
+
+SECTION: COMPUTERS; Pg. 22
+
+
+
+LENGTH: 896 words
+
+
+
+
+
+Me: OK Google Pixel, are you the best Android phone of all time?
+
+
+
+Google Pixel: Hmm ... I'm not sure.
+
+
+
+Me: I'm not sure either.
+
+
+
+Google Pixel: You and me both.
+
+
+
+Certainty has never been one of Google's strong suits. Its apps can stay in
+
+"beta", "don't-blame-us-if-this-doesn't-work" status for years after they've
+
+been released to the public.
+
+
+
+It's constantly tuning and tweaking its search results, so much so that the top
+
+search results you see are often not Google's best guess, but its second-best
+
+guess, which it's testing out just in case its best guess was wrong.
+
+
+
+There's something about Google's first phone, the Pixel, that's a little
+
+tentative, too. Its core feature, the Google Assistant artificial intelligence
+
+bot I was talking to above (that's a real conversation), feels much like a beta.
+
+
+
+Its bezel is too big and has too much wasted space, its fingerprint sensor is in
+
+the wrong place ...
+
+
+
+Me: OK Google Pixel, why is your fingerprint sensor on the back?
+
+
+
+Pixel: Here's the result from search: The fingerprint sensor belongs on the
+
+front of the smartphone ... and its battery life is unspectacular.
+
+
+
+The Pixel's camera, on the other hand, is sensational, better than an iPhone
+
+camera and often better than a Galaxy S7 camera (meaning it's somewhere in the
+
+top two smartphone cameras on the market), the screen is top-notch, and it has
+
+the smoothest, most pleasing implementation of Android we've ever seen.
+
+
+
+It's actually a great Android phone, but you can't help wondering why Google
+
+bothered getting into the smartphone business if it wasn't going to take the
+
+smartphone some place new.
+
+
+
+The Pixel might have represented a brash new direction in mobile phones, a
+
+forward seven-somersault dive in the pike position, but instead it feels more
+
+like Google has just waded into the shallow end with floaties on. It's a little
+
+more chicken than it should be.
+
+
+
+(Though that might be just as well. Samsung likes to attempt
+
+5.0-degree-of-difficulty dives into the deep end of the pool and, wow, that
+
+bellyflop is going to sting for years. But at least they tried. At least the
+
+Note7 was arguably the greatest phone of all time while it was still airborne,
+
+before it came crashing down to earth.)
+
+
+
+There actually is an exciting new place that Google wants to go with the Pixel,
+
+and that's to turn it into a meaningful personal assistant that can do more than
+
+just answer useless questions about the meaning of life but can actually do
+
+useful stuff for you like organise a car booking at the airport, and notify the
+
+booking agency when your flight gets delayed. But the Pixel can't do anything
+
+like that yet.
+
+
+
+Me: OK Google Pixel, book me a car in Melbourne this afternoon.
+
+
+
+Whenever you get a result like that, whenever the Pixel says "Here's the result
+
+from search" or "Here's a Wikipedia result", it means the new-style artificial
+
+intelligence bot in Google Assistant has basically got itself lost, and handed
+
+control back to the old-style Google Now bot that you'll find in other Android
+
+phones.
+
+
+
+Me: Who is the Prime Minister of Australia?
+
+
+
+Pixel: Malcolm Turnbull is the Prime Minister of Australia
+
+
+
+Me: How old is he?
+
+
+
+Pixel: He's 62 years old
+
+
+
+Me: What party is he in?
+
+
+
+Pixel: Liberal Party of Australia
+
+
+
+Me: When was it founded?
+
+
+
+Pixel: Liberal Party was founded August 31, 1945, in Australia
+
+
+
+Me: How many members does it have?
+
+
+
+Pixel: Here's the result from search ...
+
+
+
+That's a slight improvement on what Google Now can do. Google Now's replies to
+
+those questions contain the same answers, but the bot is not nearly as good at
+
+honing in on the intent of the question, so its replies contain a lot of
+
+extraneous information you didn't ask for, too. But it's a vast improvement on
+
+Apple's Siri, which can get the first question right, but can't carry context
+
+over between questions and so can't conduct a conversation the way Google
+
+Assistant does.
+
+
+
+Me: Hey Siri, who is the Prime Minister of Australia?
+
+
+
+Siri: The answer is Malcolm Turnbull from the 15th of September 2015 to present.
+
+
+
+Me: How old is he?
+
+
+
+Siri: He from which team? He from Shanghai SIPG or Changchun Yatai?
+
+
+
+Google Assistant is all about context. You can tell it the name of your
+
+favourite restaurant, and then days later ask it to navigate you to your
+
+favourite restaurant, and it will open up Google Maps with the correct
+
+directions.
+
+
+
+But its problem is, it doesn't have enough context yet. To really act like a
+
+personal assistant, Google Assistant needs to get information from other apps on
+
+your phone - it needs access to Airbnb for your accommodation, to TripIt for
+
+your flights and to Uber for your ground transport - but it doesn't have it yet.
+
+
+
+Me: Book me an Uber to my favourite cafe
+
+
+
+Pixel: Here's a result from search: Uber: Sign Up to Drive ...
+
+
+
+This gets to the nub of the Pixel's problem. Its bravest new feature needs
+
+third-party app developers to climb on board and supply the context and the
+
+means to take meaningful actions, and it seems Google has decided that the best
+
+way to get them to do that is to create a phone to seed the market.
+
+
+
+In a sense, the Pixel is more for them than it is for you and me. Does that mean
+
+you shouldn't bother buying one until Google Assistant has started to realise
+
+its potential? It depends on whether you like chickens or eggs.
+
+
+
+Me: Which came first, the chicken or the egg?
+
+
+
+Pixel: Two birds that weren't really chickens created an egg, and so we have an
+
+answer: the egg came first, and then it hatched a chicken.
+
+
+
+LOAD-DATE: October 24, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+             Copyright 2016 Fairfax Media Publications Pty. Limited
+
+                              All Rights Reserved
+
+
+
+
+

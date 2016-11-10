@@ -1,0 +1,654 @@
+                              33 of 999 DOCUMENTS
+
+
+
+
+
+                                 Network World
+
+
+
+                             April 12, 2013, Friday
+
+
+
+iPhone 6 rumor rollup for the week ending April 12;
+
+Searching for 6, tune that name, divination and job postings, pink rantings
+
+
+
+BYLINE: John Cox
+
+
+
+LENGTH: 2717 words
+
+
+
+
+
+Not content with merely repeating unsubstantiated iPhone 6 rumors, the iOSphere
+
+this week turned to original researchand to reading entrails, otherwise known as
+
+job postings. The results were, uh, mixed.
+
+
+
+Google data showed that regular folks are more interested in "iPhone 6" than in
+
+"iPhone 5S." What's up with that? And what about those names anyway? Doesn't
+
+Apple realize what "S" actually says to buyers?
+
+
+
+Also this week: flexible displays and fingerprint sensors, both of which miss
+
+the point and probably Apple's priorities; ranting on T-Mobile for delaying the
+
+Next iPhone, but what can you expect from a carrier that glorifies the color
+
+pink?
+
+
+
+You read it here second.
+
+
+
+__________ "Looking at a new Apple job posting, there's a very good chance that
+
+the "iPhone 5S", Apple's 2013 flagship, may be a very, very incremental upgrade
+
+over the iPhone 5."
+
+
+
+~ Brian Fulcher, GadgetInsider, insightfully drawing the Obvious Conclusion
+
+after seeing Apple's job posting for a software engineer to write "low level
+
+code to configure and control hardware" and use LabTool and FA software to test
+
+fingerprint sensors."
+
+
+
+__________ iPhone 6 has higher interest among consumers than iPhone 5S And we
+
+know this because of some first-rate, original research by GottaBeMobile, as
+
+reported in a blog post by Josh Smith.  "According to the search trends,
+
+consumer interest in the iPhone 6 overshadows the iPhone 5S, even though this
+
+[meaning iPhone 5S] is likely the iPhone that will arrive on store shelves later
+
+this year," Smith declares.
+
+
+
+Overshadows by a lot. "Consumers are nearly twice as interested in the iPhone 6
+
+as in the iPhone 5S, and for the last year the iPhone 6 also claims dramatically
+
+more interest," he explains, in a sentence that should have begun his post.
+
+
+
+Smith points out, helpfully, that "Apple is known for following an iPhone naming
+
+system that adds an S to the end of the name for the model after a major
+
+re-design."
+
+
+
+Apple has done this exactly two times, out of six iPhone models: iPhone 3GS, and
+
+iPhone 4S. Doing it twice makes you "known" for a "system." Just like the system
+
+for naming iPads: iPad, iPad 2 and...uh, iPad.
+
+
+
+"The iPhone 5S is expected this summer with iPhone 5 looks and a few new
+
+features, but consumers are clearly focused on the iPhone 6," Smith writes. He
+
+knows their focus because he made use of online research tools, and the riches
+
+of Google, in this case Google Trends, which shows how often a specific
+
+search-term is entered. Smith provides proof with a chart that shows this
+
+dramatic, twice-as-much, overshadowing gap in consumer interest and focus.
+
+
+
+"While Apple's naming system could always change by the time the next iPhone
+
+arrives, many believe it will carry the iPhone 5S name, and that consumers will
+
+need to wait until 2014 for the iPhone 6." By "many believe," Smith means "those
+
+of who write for websites like GottaBeMobile."
+
+
+
+But still. This dramatic disparity has to mean something, right? Why are these
+
+people so interested in a phone they won't see for 12 to 18 months when the
+
+other phone is probably just months, if not weeks, away? What's going on?
+
+
+
+Finally, Jones asks the Big Question. "Why Is the iPhone 6 More Popular?"
+
+
+
+"There are a number of reasons the iPhone 6 is more popular than that iPhone 5S,
+
+but perhaps the most obvious is that even with two generations of S models, many
+
+iPhone users think the iPhone that comes after the iPhone 5 will be the iPhone
+
+6."
+
+
+
+Those ... fools! These are probably the same people who like sheep just do
+
+whatever they're instructed by Apple's advertising campaigns. Don't they realize
+
+that Apple has a damn Naming System? Don't they follow obsessively every single
+
+rumor about plastic vs. metal casings or flexible display technology, or every
+
+compulsively detailed analysis of temporary Apple price cuts or of 4.5-inch
+
+display shipment variances? Don't they read sites like GottaBeMobile?
+
+Apparently, incredibly, not.
+
+
+
+So what GottaBeMobile really discovered was that most of the people searching
+
+the web for information about the Next iPhone search for "iPhone 6" instead of "
+
+iPhone 5S" because they think that the Next iPhone - the iPhone to be announced
+
+in 2013 -- actually will be called "iPhone 6."
+
+
+
+Imagine that.
+
+
+
+iPhone 6 will be the Next iPhone even if the Next iPhone is actually the iPhone
+
+5S And speaking of iPhone naming systems, though the preferred term is "naming
+
+conventions," Erica Ogg at Gigaom is clearly impressed with the analysis of
+
+Apple's naming conventions, and the judgment of their failure, by "former Apple
+
+ad man Ken Segall."
+
+
+
+"Former Apple ad man Ken Segall has done some thinking about the tendency to
+
+assume that the next iPhone will be called the iPhone 5S -- and he thinks it's a
+
+pretty bad idea," she shares in a blog post. "He argued in a blog post Thursday
+
+why Apple should call the next smartphone it releases next the iPhone 6, no
+
+matter what. It's true...."
+
+
+
+One of the most widely quoted statements from Segall's own blog post expands on
+
+why the "S" spells "deathtrap" for Apple: "[T]acking an S onto the existing
+
+model number sends a rather weak message. It says that this is our 'off-year'
+
+product, with only modest improvements. If holding off on the big number change
+
+achieved some great result, I might think otherwise. But look what happened with
+
+iPhone 5."
+
+
+
+Let's look. According to Segall, even though the iPhone 5 had all kinds of
+
+"major changes" -- bigger screen, better camera, etc., etc. - [y]et its
+
+improvements were still dismissed by many as 'incremental.'" This indeed is
+
+terrible. Who would waste their money on some once-innovative product now ruined
+
+by incremental changes? Who, that is, apart from the record 47.8 million people
+
+who did buy one in Apple's fiscal first quarter, outstripping the iPhone 4S's
+
+sales a year earlier in the same quarter of 37 million, which was also a record
+
+up to that point. Quarterly breakdown of iPhone sales is here; the quarterly
+
+total includes all iPhone models bought during that period.
+
+
+
+We're having some trouble following the "thinking" here. Segall's argument first
+
+is that the "S" weakens the brand, making people less likely to buy it. So his
+
+"solution" is to use only a number, which presumably will strengthen the
+
+perception that the phone is innovative or at least more innovative than an "S"
+
+model. But he himself has already shown that the iPhone 5 was especially
+
+denounced by the cognoscenti for not being innovative, suggesting the "5"
+
+actually didn't help. Except, of course, in record sales...just like the 4S had
+
+record sales.
+
+
+
+"And I agree with his take: why lower expectations for a device from the outset
+
+by telegraphing to buyers that this year's device isn't as new or "innovative"
+
+as the one coming in the next year?" Ogg says.
+
+
+
+But in buying a personal electronic device, it's a bit unclear to Rollup what
+
+the significance is of "lower expectations" before the device is announced. Or
+
+for that matter, if most buyers-who-don't-write-for-tech-blogs actually have
+
+lower expectations regarding a future iPhone. Surely what matters isn't your low
+
+expectations of what Apple will announce in the Next iPhone, but rather your
+
+decisions based on what Apple actually does announce in the Next iPhone.
+
+
+
+For both iPhone 4S and 5, record numbers of consumers were happy to buy it. So
+
+how is this "unwise" naming convention a "bad idea?"
+
+
+
+iPhone 6 will have flexible display because Apple is hiring a flexible display
+
+guy For the iOSphere, Apple job postings, like Apple patents, are the 21st
+
+century version of Etruscan and Roman haruspicy, or "the inspection of the
+
+entrails of sacrificed animals." KnowYourMobile's Paul Briden doesn't shrink
+
+from getting his hands bloody.
+
+
+
+"A new job posting at Apple shows that the company is interested in developing
+
+flexible displays, a technology which could see use on the rumoured iWatch or
+
+the future iPhone 6," writes Briden, in a post at KnowYourMobile.  Briden's link
+
+to the specific job posting, for a "sr. optical engineer," doesn't work: Apple
+
+apparently deleted it, according to 9to5Mac, which helpfully provided a screen
+
+capture of the original.  The original's general description is: "Apple Inc. is
+
+looking for a Display Specialist to lead the investigation on emerging display
+
+technologies such as high optical efficiency LCD, AMOLED and flexible display to
+
+improve overall display optical performance."
+
+
+
+Briden, 9to5Mac's Jordan Kahn, and almost everyone else who posted about this
+
+focused on the words "flexible display," the idea being that ... flexible
+
+displays are the Next Big Thing. Kahn mentions the speculation: "Flexible
+
+display rumors have picked up steam even more since rumors of an iWatch from
+
+Apple, and just today we came across two new Apple patent applications detailing
+
+flexible devices that could change states as a user bends or twists the device."
+
+
+
+Twistable iPhones. Not to mention the mythical iWatch. The excitement of it all
+
+makes us a bit twistable, too.
+
+
+
+"Today's job listing is definitely the first bit of solid proof directly from
+
+Apple that it is looking into developing devices with flexible displays," Kahn
+
+concludes.
+
+
+
+Not exactly.
+
+
+
+Flexible displays may be the Next Big Thing for the display industry as a whole
+
+in a few years, but probably not for smartphones.
+
+
+
+That's because there's a limit to the useable additional surface area that a
+
+curved display can create in something the size of a smartphone. If you're
+
+holding it in one hand, and manipulating the screen with that hand's thumb,
+
+having the screen curve around the sides or around the back isn't going to do
+
+much for you, because you won't be able to reach it or see it.
+
+
+
+Neither Kahn or Briden, or many of the other bloggers, refer to the other
+
+technologies and requirements mentioned in the Apple job posting. The most
+
+significant one is the mention of OLED (and AMOLED), or organic light-emitting
+
+diodes( and active-matrix OLED). Flexible displays are made possible by OLED,
+
+which uses an organic "emissive electroluminescent layer" or film between two
+
+electrodes.
+
+
+
+Apple currently relies on LCD technology, or liquid crystal displays: a layer of
+
+liquid crystal sandwiched between sheets of glass and other stuff. And Apple is
+
+really good at LCD screens. AnandTech's Chris Heinonen, after a highly detailed
+
+analysis if the iPhone 5 display performance concludes: "Wrapping up, the iPhone
+
+5 display is a quantum leap better than the display on the iPhone 4. Contrast
+
+levels and light output have both been increased, and color performance is
+
+astonishing. The full sRGB gamut is present here, and color errors are
+
+remarkably low even for a high end desktop display. While many were hoping for a
+
+move to OLED or some other screen innovation, this really is a huge step up that
+
+is very easy to quantify."
+
+
+
+That move to OLED undoubtedly is coming, because the technology offers a number
+
+of advantages over LCD: lower power demand, faster refresh, better contrast,
+
+greater brightness, wider viewing angles, high durability, and light weight.
+
+(For more details and background on OLED, check out OLED-Info.com.) And in
+
+February, it was widely noted that Apple had hired Dr. Jeung Jil Lee, reportedly
+
+an OLED research fellow at LG Display, one of Apple's display panel suppliers.
+
+
+
+But relatively higher cost and other technical issues have made OLED a
+
+non-starter for Apple so far. This post by a Forbes contributor has some of the
+
+OLED critiques offered in the past by Apple's Tim Cook and the late Steve Jobs.
+
+
+
+Whether OLED displays, even flat ones, appear in the 2013 iPhone or even the
+
+2014 iPhone is anyone's guess at this point.
+
+
+
+iPhone 6 will have a fingerprint sensor because Apple is hiring a fingerprint
+
+sensor test guy More from the Entrails Dept., courtesy of GadgetInsider's Brian
+
+Fulcher.
+
+
+
+"Long thought of to be one of the iPhone 5S' new and unique features,
+
+fingerprint sensor technology (possibly located underneath the next iPhone's
+
+home button) may actually debut on the iPhone 6, which is what most sources call
+
+Apple's 2014 flagship handset," he reveals.  The Rollup loves that "long thought
+
+to be" an iPhone 5S feature. That actually means "ever since the announcement of
+
+the iPhone 5," because until the iPhone 5 was announced it was long thought that
+
+a fingerprint sensor would be one of its new and unique features.
+
+
+
+By "looking at a new Apple job posting," Fulcher discerns that not only is it
+
+unlikely that iPhone 5S will have a fingerprint sensor but that "there's a very
+
+good chance that the 'iPhone 5S'...may be a very, very incremental upgrade over
+
+the iPhone 5."
+
+
+
+"The job opening is for a software engineer at Florida's Melbourne Design
+
+Center, and would require the successful candidate to write 'low level code to
+
+configure and control hardware' and use LabTool and FA software to test
+
+fingerprint sensors."
+
+
+
+He has a link to the job posting, but here, too, Apple seems to have deleted it.
+
+
+
+This is interesting, says Fulcher.
+
+
+
+"This is interesting because Melbourne is where Authentec is headquartered,
+
+Authentec being the maker of fingerprint technology solutions Apple had acquired
+
+last year," he notes, significantly. "As this is a late-cycle posting, this
+
+suggests that the iPhone 5S won't come with fingerprint technology after all;
+
+that feature may turn up on the iPhone 6 instead."
+
+
+
+The trained, experience haruspex can see truths beyond the abilities of others
+
+like us.
+
+
+
+The Rollup covered the Authentec rumors in August 2012, when people were
+
+predicting that the iPhone 5 would incorporate the company's sensor. As
+
+TheNextWeb's Matt Brian confidently wrote then "Will we see fingerprint
+
+technology in the new iPhone (or iPad)? It seems almost certain....we could see
+
+it in just a matter of weeks." We know how that turned out.
+
+
+
+Authentec's fingerprint sensor is only one part of the technology bundle for
+
+which Apple paid $356 million: it also offers a range of smart sensors, identity
+
+management (including PC/laptop fingerprint sensors), and embedded security
+
+products, all of which may be of interest to Apple in creating, for example, a
+
+viable, trusted mobile commerce service that would go far beyond using a
+
+fingerprint sensor to unlock your iPhone.
+
+
+
+iPhone 6, 5S delayed and you can blame T-Mobile This rumor, notable even in the
+
+iOSphere for its lack of foundation, appeared in a post at International
+
+Business Times by the indefatigable Kristin Dian Mariano.
+
+
+
+"The release iPhone 6 and iPhone 5S is rumoured to be postponed due to US
+
+carrier T-Mobile's delayed availability of the current iPhone," she posted.
+
+"With the delayed availability of the handset in T-Mobile, Apple may not release
+
+the successors of the handset yet. Rumours claimed that Apple is set to unleash
+
+iPhone 6 and iPhone 5S in June."
+
+
+
+There is not one source cited for this; not even hinted at. For this assertion
+
+to have even a vague semblance of plausibility you have to first believe the
+
+rumors of a June announcement for one or two or even three new iPhones (don't
+
+forget the Cheap iPhone). Then, you have to believe that T-Mobile's decision to
+
+start selling iPhone 5 in April creates a problem for Apple's plan to announce
+
+iPhone 6 in June. Then, you have to believe Apple couldn't have figured this out
+
+ahead of time. Finally, you have to believe that a flummoxed Apple abruptly
+
+decided to "postpone" the Next iPhone announcement to accommodate T-Mobile.
+
+
+
+One person who apparently believes all this is SidhTech's Chris Toberlake. He
+
+grants that a June announcement "is of course a little sooner than expected
+
+given that the last iPhone (iPhone 5) only launched in October of last year."
+
+Just a little sooner.
+
+
+
+But.
+
+
+
+"Even if this does prove true, it has to be the most asinine thing I've heard,"
+
+he rants. "Imagine delaying the iPhone 6, Apple's flagship smartphone that is
+
+set to release all over the globe, because one little carrier in the US was late
+
+to jump on the Apple bandwagon!"
+
+
+
+"I would understand if IBT Australia suggested that a T-Mobile iPhone 6 would be
+
+delayed but for the rest of globe to be left waiting for the iPhone 6 because of
+
+the pink carrier is nonsense."
+
+
+
+This is a frothing-at-the-mouth level of outrage...over an unannounced product
+
+and its unannounced product schedule, without a nanoshred of evidence to support
+
+IBT's assertions.
+
+
+
+Maybe it was a slow rumor day.
+
+
+
+John Cox covers wireless networking and mobile computing for Network World.
+
+
+
+Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com
+
+
+
+
+
+
+
+LOAD-DATE: April 15, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newsletter
+
+
+
+
+
+                       Copyright 2013 Network World, Inc.
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,104 @@
+                              751 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                           October 29, 2014 Wednesday
+
+
+
+US Patent granted to Google Inc. (California) on October 28 titled as "Systems
+
+and methods for resizing an image"
+
+
+
+LENGTH: 227  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,873,887, on
+
+October 28, 2014, to Google Inc. (California), titled as "Systems and methods
+
+for resizing an image"
+
+
+
+Inventors: Datar; Mayur (Cupertino, CA), Liao; Huei-Hung Christopher (Sunnyvale,
+
+CA), Kwatra; Vivek (Santa Clara, CA), Huang; Allen (Mountain View, CA)
+
+Assignee: Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office: "In
+
+some instances, an image may have dimensions that do not correspond to a slot to
+
+display the image. For example, an image content item may have dimensions that
+
+do not correspond to a content item slot. The image may be resized using seam
+
+carving to add or remove pixels of the image. A saliency map for the image may
+
+be used having saliency scores for each pixel of the image. Evaluation metrics
+
+may be used before, during, and after, seam carving to determine whether salient
+
+content is affected by the seam carving. In some instances, a seam cost
+
+threshold value may be used for adaptive step size during the seam carving. The
+
+resized image may then be outputted, such as for an image content item to be
+
+served with a resource."
+
+
+
+The patent was filed on January 24, 2013 Application no. 13/749,564
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: October 29, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

@@ -1,0 +1,278 @@
+                              902 of 997 DOCUMENTS
+
+
+
+
+
+                       San Jose Mercury News (California)
+
+
+
+                              March 1, 2013 Friday
+
+
+
+Why don't Apple laptops have touch screens?
+
+
+
+BYLINE: By Farhad Manjoo, Slate
+
+
+
+SECTION: BREAKING; Personal Technology; News; Business; Science and Tech
+
+
+
+LENGTH: 1145 words
+
+
+
+
+
+Like many kids, my 2-year-old son can run circles around you on an iPad. He
+
+learned to unlock the screen before he learned to conjugate verbs, and nowadays
+
+he can turn it on, find Netflix or a game, and keep himself occupied forever, or
+
+at least for a merciful 40 minutes.
+
+
+
+Computers, though, flummox him. He's especially confused by pointing devices --
+
+I've tried to teach him about the relationship between his fingers on the track
+
+pad and the pointer on the screen, but he's too innocent of the ways of the
+
+world to understand such mysticism. So when I plop him down in front of YouTube
+
+on my MacBook while my wife and I try to enjoy a lovely dinner he always gets
+
+confused when a video ends. He reaches for the screen and repeatedly taps to get
+
+a new clip to play. It's pretty funny, actually. And then he whines for me to
+
+help him, which is kind of annoying.
+
+
+
+But of course, my kid is totally right. Why doesn't the MacBook screen respond
+
+to his touch? In the couple of years since my son was born, nearly every screen
+
+that we interact with has become touch-enabled. Your phone, tablet, Kindle, GPS,
+
+car radio and maybe even your fridge -- you can tap that. But not your computer.
+
+Or, more specifically, not your Mac.
+
+
+
+Last fall Microsoft released Windows 8, which brings touch capabilities to the
+
+ubiquitous PC operating system. This year PC makers are putting out dozens of
+
+touch-enabled Windows 8 laptops and desktops. Or consider Google's new
+
+Chromebook Pixel, which has a brilliant high-definition display screen that
+
+responds to touch. At $1,299, the Pixel is a high-end machine, but what's most
+
+interesting about touch screens is that they're quickly becoming a standard
+
+feature even on low- and mid-range machines. The Asus VivoBook, an 11-inch
+
+touch-screen laptop, sells for under $500. The HP Pavilion TouchSmart goes for
+
+$649. When you get to machines classified as "ultrabooks" -- the thin and light
+
+PCs that are meant to compete with Apple's MacBook Air -- it's hard to find any
+
+that don't have touch screens. The Acer Aspire S7, the Asus Zenbook Prime Touch,
+
+and the Samsung Series 7 Chronos -- which go for around $1,100 -- can all be
+
+touched. You'll spend around the same for a Mac, but if you touch its screen,
+
+all you'll get are smudges.
+
+
+
+I should note that the new touch PCs don't dispense with track pads or mice;
+
+you'll spend most of your time controlling them through those traditional means.
+
+But they also allow you to touch -- if my son tapped a YouTube clip on the
+
+Pixel's screen, the video would start playing, and I'd be able to continue
+
+eating dinner in peace.
+
+
+
+The rise of touch-enabled computers raises two questions. First, what's the
+
+point: Do you really need to be able to touch your computer's screen rather than
+
+use a track pad or mouse? And second, why is Apple -- the firm that has done
+
+more to stoke our collective touch-screen fervor than any other -- apparently
+
+holding out against touch on its computers?
+
+
+
+To answer the first question: Yes, a touch screen on a PC can be useful. Over
+
+the past few months I've used a few touch-enabled Windows 8 PCs, and during the
+
+last week I've been playing with a Chromebook Pixel that Google sent me to
+
+review. I've found their touch screens to be handy -- the screen complements the
+
+keyboard and the track pad quite naturally, making for one more way to get your
+
+computer to do your bidding. I wouldn't go so far as to say you need a touch
+
+screen on your PC. Touching the screen doesn't allow you to do anything you
+
+couldn't do on a nontouch PC. But like other high-end laptop features -- a
+
+backlit keyboard, a slot for an SD card, a high-definition display -- a touch
+
+screen is a nice thing to have.
+
+
+
+I found myself touching the screen during a few primary tasks. If I pulled up a
+
+long article on the Web and sat back to read, I'd sometimes reach for the screen
+
+to scroll down rather than hit the keyboard or flick at the track pad. I did the
+
+same when I was flipping through photos. Windows 8 has two completely different
+
+interfaces -- a traditional "desktop" mode in which you click on small icons to
+
+launch programs that run in multiple windows on your screen (i.e., the Windows
+
+we all know and love), and a "modern" mode in which apps occupy the full screen
+
+and feature large, touch-friendly buttons. When I used this second mode, I found
+
+myself touching more often -- to browse Amazon or Netflix, to read the news, or
+
+to play games.
+
+
+
+You may have spotted a pattern there: I tended to touch for leisure activities,
+
+and I'd stick to the keyboard and track pad when doing work. But this wasn't by
+
+design, and I only discerned the leisure-vs.-work behavior when I thought about
+
+it later. Indeed, while using these touch laptops, the touching became intuitive
+
+and invisible. I flitted among the screen, the track pad and the keyboard from
+
+moment to moment without ever having to think about it.
+
+
+
+I didn't expect to take to touching my PC. The conventional criticism against
+
+adding touch to laptops is that it's unnatural. When you use a laptop, your
+
+hands usually rest on the keyboard, which is relatively far from the screen;
+
+from that position it's easier to reach for the track pad than the display. The
+
+other problem is what's on the screen. On a PC -- even a Windows 8 machine with
+
+an interface specifically designed for touch -- there are lots of small controls
+
+that are better handled with a precise pointer than your fat finger. For
+
+instance, to close a tab in the Chrome browser, you've got to hit a little X
+
+next to the tab's title. I'd often miss that X when I tried to hit it with my
+
+finger. That was a bit frustrating -- although after a few times making that
+
+mistake, I learned to stop trying to close tabs with my finger, and then I
+
+didn't get annoyed anymore.
+
+
+
+This gets to why Apple hasn't added touch to the Mac. While it's mostly handy,
+
+sometimes touching your PC's screen results in an annoying experience. Thus, to
+
+do it right, giving a MacBook a touch screen wouldn't just require a small
+
+hardware upgrade to the screen -- Apple would also have to reimagine its OS,
+
+redesigning it so that every element could be controlled as easily with your
+
+fingers as with a pointer. Microsoft solved this problem by building a
+
+touch-friendly interface that sits alongside the old Windows' point-and-click
+
+interface, but I don't think Apple would go for that -- it feels too tacked-on
+
+and inelegant.
+
+
+
+Apple would have to do something bigger and more ambitious than that. But why
+
+should it? Considering that the Mac is an ever-smaller part of its revenues, and
+
+that Apple firmly believes that PCs will be eclipsed by tablets anyway, it has
+
+little incentive to make the Mac touch-friendly. Thus, for the foreseeable
+
+future, we're likely to be stuck with touch-less Macs.
+
+
+
+- - -
+
+
+
+Manjoo is Slate's technology reporter and the author of "True Enough: Learning
+
+to Live in a Post-Fact Society." Twitter: @fmanjoo
+
+
+
+LOAD-DATE: March 1, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+GRAPHIC: Profile view of the 15-inch MacBook Pro with Retina display.
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                      Copyright 2013 San Jose Mercury News
+
+                              All Rights Reserved
+
+
+
+
+

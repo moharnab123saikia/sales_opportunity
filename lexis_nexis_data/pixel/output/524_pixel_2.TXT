@@ -1,0 +1,110 @@
+                              524 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                             June 13, 2015 Saturday
+
+
+
+Google Inc. (California) applies for US Patent titled as "SYSTEMS AND METHODS
+
+FOR CALCULATING EPIPOLAR CONSTRAINTS BETWEEN GENERALIZED CAMERAS"
+
+
+
+LENGTH: 252  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has received an application no.
+
+20150163477 for US Patent, published on June 11, 2015, by Google Inc.
+
+(California), titled as "SYSTEMS AND METHODS FOR CALCULATING EPIPOLAR
+
+CONSTRAINTS BETWEEN GENERALIZED CAMERAS" for the registration of patent.
+
+
+
+Inventors:  Klingner; Bryan; (Oakland, CA) ; Martin; David; (Mountain View, CA)
+
+; Ettinger; Scott; (Mountain View, CA)
+
+Assignee:  Google Inc.
+
+Mountain View
+
+CA
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Methods and systems for calculating epipolar constraints between a plurality of
+
+generalized cameras are provided. Each generalized camera implements two pixel
+
+projection functions. One function converts a known pixel location into a ray
+
+emanating from a projection center of a first camera to a point on a feature at
+
+the pixel location. Another function converts a three dimensional point on the
+
+feature in Euclidean space to a pixel location on a projection of the feature in
+
+the image space of a second camera. Subsegments of along the ray are projected
+
+onto the image space of the second camera and are subdivided until each
+
+subsegment spans no more than one pixel in the second camera's image space. The
+
+endpoints of all subsegments are projected into the image space of the second
+
+camera and the discrete pixel locations of each subsegment are recorded to form
+
+epipolar zones."
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: June 17, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2015 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

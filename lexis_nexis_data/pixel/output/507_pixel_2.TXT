@@ -1,0 +1,106 @@
+                              507 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                            December 1, 2014 Monday
+
+
+
+USPTO Published Patent application of Google Inc titled as "AUTOMATIC COLOR
+
+CORRECTION"
+
+
+
+LENGTH: 204  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has received an application no.
+
+20140348427, published on November 27, 2014, by Google Inc, titled as "AUTOMATIC
+
+COLOR CORRECTION" for the registration of patent.
+
+
+
+Inventors:   Brendel; William; (San Francisco, CA)
+
+Assignee: Google Inc.
+
+Mountain View
+
+CA
+
+US
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office:
+
+"Methods, systems and computer program products for automatic color correction
+
+of image and video content are provided. A computer-implemented method may
+
+include generating an auto-level linear transform and a histogram equalization
+
+transform of a color distribution histogram for an original image among a set of
+
+sequential images. The auto-level linear transform and the histogram
+
+equalization transform are blended to create a modified image. Pixel color is
+
+adjusted in the modified image so that a color difference between a pixel and
+
+neighboring pixels in the modified image corresponds to a color difference
+
+between respective pixels in the original image."
+
+
+
+The Patent was filed on August 13, 2014 under application No. 20140348427
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: December 1, 2014
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2014 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

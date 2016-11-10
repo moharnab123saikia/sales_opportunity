@@ -1,0 +1,112 @@
+                              203 of 997 DOCUMENTS
+
+
+
+
+
+                                  Techtree.com
+
+
+
+                     October 26, 2016 Wednesday 6:30 AM EST
+
+
+
+Google Pixel's Lens Flare Issue May Soon Get Solved Via Software Update
+
+
+
+BYLINE: Phalgunn Maharishi
+
+
+
+LENGTH: 241  words
+
+
+
+
+
+Issac, a member of Google's camera team has recently explained that this can be
+
+solved via an algorithm that can recognize the flare, and subtract it from the
+
+image.
+
+
+
+Google Pixel smartphone users have been lately reporting that the phone's camera
+
+is more susceptible to lens flare, which is more commonly seen as a contrast arc
+
+in one of the corners caused due to sun or a light source hitting the camera
+
+lens at a specific angle.
+
+
+
+While this is in-fact seen in almost all cameras, many Redditors seem to have
+
+been demanding Google to send out a fix claiming that the frequency of lens
+
+flares in Pixel's camera is a little more.
+
+
+
+In a reply to one such post, Isaac Reynolds, popularly known as IsaacOnCamera, a
+
+member of Google's camera team has given an explanation as to why it is
+
+happening. He has also mentioned that Pixel users can expect an update for this
+
+issue pretty soon as this can solved via a software update.
+
+
+
+Here's a screenshot of Isaac's complete reply to the post:
+
+
+
+As you can see, Isaac has mentioned that the Pixel's camera's lens structure is
+
+very highly controlled which actually means that all Pixels take high quality
+
+images, and thus, all Pixels have the same flare characteristics.
+
+
+
+He has added further information stating that, a software update is being worked
+
+upon by Google where some algorithms will recognize the halo/arc flare,
+
+characterize it mathematically, and then subtract it from the image, thereby
+
+solving this issue.
+
+
+
+----
+
+
+
+LOAD-DATE: October 26, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+            Copyright 2016 Techtree.com, distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+

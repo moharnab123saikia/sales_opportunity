@@ -1,0 +1,452 @@
+                              763 of 820 DOCUMENTS
+
+
+
+
+
+                             The New Zealand Herald
+
+
+
+                           February 27, 2016 Saturday
+
+
+
+Huawei reveals business class MateBook
+
+
+
+SECTION: BUSINESS; General
+
+
+
+LENGTH: 1446 words
+
+
+
+
+
+A telecommunications industry conference may seem an odd place to launch a new
+
+laptop.
+
+
+
+Maybe not if you are Huawei, the world"s biggest telecommunications hardware
+
+brand and the third largest phone maker.
+
+
+
+There"s a lot about Huawei"s MateBook computer that defies conventional
+
+thinking.
+
+
+
+This week"s Mobile World Congress (MWC) in Barcelona is the industry"s biggest
+
+showcase and talkfest.
+
+
+
+Many sessions are on the big questions about the future of mobile phone
+
+technology, such as whether the move to 5G networks should be evolutionary or
+
+revolutionary.
+
+
+
+On the day before MWC started, Huawei showed its MateBook computer to
+
+journalists flown in from around the world.
+
+
+
+The reception was positive; early reviews praise the device.
+
+
+
+Huawei"s MateBook is a two-in-one Windows 10 business computer. In many respects
+
+it resembles Microsoft"s Surface Pro 4, but a Huawei New Zealand manager says it
+
+will sell for much less than Microsoft"s computer when it reaches the country in
+
+September.
+
+
+
+Like the Surface Pro 4, the MateBook is a two-in-one device.
+
+
+
+In its basic form it functions as a tablet.
+
+
+
+Add the optional keyboard, sold separately, and it more closely resembles a
+
+traditional laptop. There"s also a stylus for drawing and scribbling handwritten
+
+notes.
+
+
+
+Huawei approached building the MateBook from a phone maker"s perspective.
+
+
+
+Speaking at the launch, Richard Yu, chief executive of Huawei"s consumer
+
+division, said his company used the experience gained from making phones to
+
+create the MateBook.
+
+
+
+Like a phone it is thin, light and sips power -- the battery lasts for 10 hours.
+
+
+
+He talks of frustration at having to turn to a bulky business laptop for some of
+
+his work when the other tools he uses are so thin and light.
+
+
+
+Henry Hsu, the chief operating officer for Huawei"s consumer business group in
+
+the South Pacific, echoes this view.
+
+
+
+He says that, in part, the decision to build a laptop came after customer
+
+feedback suggested there was a need for such a lightweight device.
+
+
+
+You don"t go into a new market to lose money, but it may take some time before
+
+an investment pays off.Henry Hsu, Huawei
+
+
+
+There"s something else odd about Huawei"s decision to make PCs.
+
+
+
+Sales of personal computers are in freefall. Makers have faced double digit
+
+declines in revenues for the past three years.
+
+
+
+HP and Dell have gone through dramatic restructures in order to deal with
+
+diminished margins and losses.
+
+
+
+Why would such a gloomy sector interest a company like Huawei?
+
+
+
+Hsu says while PC sales overall are down, two-in-ones are a bright spot,
+
+experiencing rapid growth. He says growth looks set to continue for the near
+
+future.
+
+
+
+It helps that, for now, Huawei"s entry into the PC space is simple.
+
+
+
+There is just the one basic MateBook, which comes in a handful of configurations
+
+using different Intel processors and varying amounts of storage. That"s it.
+
+
+
+Another advantage Huawei has over other PC makers is that the MateBook is aimed
+
+at well-heeled business users.
+
+
+
+The company isn"t stuck in a race to the bottom.
+
+
+
+"The industry"s problems are at the low end where PC makers target consumers.
+
+They need to offer a lot of models and margins at the low end are tight.
+
+
+
+"Our entry level model has a reasonable price, but it"s not what people call
+
+affordable," Hsu says.
+
+
+
+The MateBook is strategic for Huawei.
+
+
+
+"You don"t go into a new market to lose money, but it may take some time before
+
+an investment pays off. We"ve made similar moves in phones and watches, now
+
+we"re following that path in PCs."
+
+
+
+In other words, while the MateBook is unlikely to be a money-spinner, it lays
+
+down a path for future products that will be.
+
+
+
+The MateBook will go on sale in Europe in July with prices starting at (EURO)800
+
+($1300) before tax.
+
+
+
+Huawei plans to bring it to New Zealand in September and says prices will be
+
+similar.
+
+
+
+Bill Bennett travelled to Barcelona as a guest of Huawei.
+
+
+
+Telco backs bridge to 5G revolution
+
+
+
+Fifth-generation mobile phone technology promises a lot. Companies developing 5G
+
+say that when it arrives users will have the perception of instant and unbounded
+
+access to data from almost every point on the globe.
+
+
+
+The technology will take over driving cars and piloting drones. It will connect
+
+almost every imaginable item from washing machines to industrial equipment to
+
+moisture sensors in paddocks. This is the so-called internet of things.
+
+
+
+You could be forgiven for suspecting there"s an element of hype in all this.
+
+After all, the companies making 5G networks can"t agree on what it is. They all
+
+talk of fast speeds - usually from 1 to 10Gbps - and low latency of less than
+
+1ms, but that"s about it. Beyond those two numbers everything else is up for
+
+debate.
+
+
+
+They can"t even agree if the industry should race to a revolutionary 5G which
+
+would mean replacing existing networks, or go for an evolutionary approach,
+
+building on today"s 4G networks. Depending on who you listen to, 5G could be
+
+with us from 2017, but most in the industry don"t see a widespread rollout
+
+before 2020.
+
+
+
+The tensions were on display at this week"s Mobile World Congress in Barcelona,
+
+Spain. The congress is the telecommunications industry"s annual conference where
+
+questions like the future of 5G are debated.
+
+
+
+Many sessions looked forward to 5G. However, on the day before the official
+
+conference opened, China"s Huawei put its marker down by hosting the 4.5G
+
+Industry Summit. Huawei sees 4.5G as a bridge between today"s networks and the
+
+next generation. It builds on existing technology.
+
+
+
+This last point is important. It is only a few years since carriers such as
+
+Spark and Vodafone invested vast sums on 4G networks. They need to get more out
+
+of this existing infrastructure to recover their costs. Moving to 5G would mean
+
+another costly round of investment before the 4G bills are all paid.
+
+
+
+Ryan Ding, Huawei"s president of products and solutions, says 4.5G is
+
+effectively a software upgrade to the existing network. It needs a little extra
+
+hardware, but only an incremental investment. He says it will allow much faster
+
+services and an improved customer experience. Ding says the quality of voice
+
+traffic is noticeably better on 4.5G compared with 4G, but the real advantage is
+
+with video. Huawei expects consumers will use their mobile phones for a lot more
+
+video communication in the near future.
+
+
+
+It will also mean a more secure network. In many countries it will be used by
+
+police, ambulance and fire services, replacing existing specialised networks.
+
+Customers will see peak speeds up to eight times faster than existing 4G
+
+networks. The average speed will be 10 times faster. A 4.5G network should be
+
+able to handle about six times as many simultaneous connections as a 4G network.
+
+
+
+Ding says that while Huawei already has pilot 4.5G networks running, this year
+
+will see many more phone networks around the world pick up the technology. For
+
+now, most of these deployments are pre-commercial. That is, not open to all
+
+customers.
+
+
+
+Huawei wireless network vice-president Chaobin Yang says the growing need to
+
+connect sensors and remote devices is behind the rush to 4.5G. There is a demand
+
+for apps such as smart metering, smart cities, animal tracking and fleet
+
+management.
+
+
+
+"Many new technologies are emerging that need capabilities not delivered by
+
+existing networks," Yang says. "The internet of things is already underway, we
+
+can"t afford to wait for 5G."
+
+
+
+5 lessons from Mobile World Congress 2016
+
+
+
+Phone innovation stabilises
+
+
+
+In recent years phone makers used the Mobile World Congress to launch new
+
+handsets. This year was no different, with Samsung unveiling its Galaxy S7. It"s
+
+a good-looking handset with an impressive specification, but does little to
+
+break new ground.
+
+
+
+Modular phones
+
+
+
+With little new in terms of technical advances, phone makers looked elsewhere to
+
+get customer attention. In the case of the LG G5, the designers have gone for a
+
+semi-modular approach where you can add hardware features such as better sound
+
+or handgrips to extend the capability of your phone.
+
+
+
+Virtual reality
+
+
+
+There was a notable trend, with many phone makers and other hardware companies
+
+showing virtual reality software and equipment. There"s still little in the way
+
+of compelling VR content to go with the hardware.
+
+
+
+Internet of things
+
+
+
+Network equipment makers and phone companies are focused on the internet of
+
+things. You couldn"t move at MWC without seeing a reference to connecting
+
+sensors and controllers to the internet or discussions of device-to-device
+
+communications.
+
+
+
+Next up, wireless network broadcasting
+
+
+
+The 700 MHz spectrum that once carried analogue television signals and now
+
+carries 4G mobile traffic may soon be back in the broadcasting business.
+
+Ericsson showed multicasting technology that can send, say, TV signals to
+
+hundreds of devices at the same time.
+
+
+
+LOAD-DATE: February 26, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                     Copyright 2016 The New Zealand Herald
+
+                              All Rights Reserved
+
+
+
+
+

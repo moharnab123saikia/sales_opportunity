@@ -1,0 +1,106 @@
+                              258 of 997 DOCUMENTS
+
+
+
+
+
+
+
+                                US Official News
+
+
+
+                            February 20, 2015 Friday
+
+
+
+US Patent granted to Google Inc. (California) on February 17 titled as "Image
+
+color cast correction using groups of pixels"
+
+
+
+LENGTH: 230  words
+
+
+
+DATELINE: ALEXANDRIA, Va
+
+
+
+
+
+United States Patent and Trademark Office has granted patent no. 8,958,640, on
+
+February 17, 2015, to Google Inc. (California), titled as "Image color cast
+
+correction using groups of pixels"
+
+
+
+Inventors:  McNerney; Peter J (Lomita, CA), Krishnaswamy; Aravind (San Jose, CA)
+
+
+
+Assignee:  Google Inc. (Mountain View, CA)
+
+
+
+According to the abstract released by the U.S. Patent & Trademark Office: "In
+
+some implementations, a method provides color correction in images and includes
+
+determining multiple input groups of pixels of an image based on one or more
+
+pixel attributes of the pixels. Each of the input groups includes different
+
+pixels of the image than the other input groups. The method determines an
+
+individual neutral color associated with each of the input groups of pixels
+
+based on the colors of the pixels in the associated input group. An individual
+
+color correction associated with each of a number of output groups of pixels is
+
+determined based on one or more neutral colors associated with the input groups.
+
+The method applies each individual color correction to its associated output
+
+group of pixels, including adjusting the color of pixels in each output group to
+
+reduce color casts on the pixels."
+
+
+
+The patent was filed on July 1, 2013 Application no. 13/933,075
+
+
+
+In case of any query regarding this article or other content needs please
+
+contact: editorial@plusmediasolutions.com
+
+
+
+LOAD-DATE: February 20, 2015
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+              Copyright 2015 Plus Media Solutions Private Limited
+
+                              All Rights Reserved
+
+
+
+
+

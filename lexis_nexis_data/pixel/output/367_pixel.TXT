@@ -1,0 +1,266 @@
+                              367 of 997 DOCUMENTS
+
+
+
+
+
+                               The New York Times
+
+
+
+                            February 25, 2013 Monday
+
+                              Late Edition - Final
+
+
+
+Google Unveils Chromebook With Touch Screen
+
+
+
+BYLINE: By CLAIRE CAIN MILLER
+
+
+
+SECTION: Section B; Column 0; Business/Financial Desk; BITS; Pg. 6
+
+
+
+LENGTH: 855 words
+
+
+
+
+
+Google is stepping further into the laptop business, and moving way up the price
+
+scale.
+
+
+
+The company introduced the Pixel on Thursday, a new version of its Chromebook
+
+laptops that store everything online without desktop software. The latest
+
+version has a few major distinguishing factors. Google designed and manufactured
+
+the laptop itself, and it has a touch screen.
+
+
+
+It is also much more expensive than previous Google Chromebooks. A Wi-Fi model
+
+selling for $1,300 will begin shipping next week, and a model equipped with an
+
+LTE cellular network selling for $1,450 will ship in April. By contrast, the
+
+Chromebook that Google introduced last fall cost cost $250, and was marketed as
+
+an inexpensive, extra device for the home.
+
+
+
+The Pixel, meanwhile, is for power users, said Sundar Pichai, Google's senior
+
+vice president for Chrome, at a news media event in a San Francisco design
+
+studio.
+
+
+
+Translation: Google is going directly after Apple and Microsoft to try to sell
+
+its own high-end devices.
+
+
+
+The question is whether customers will buy a laptop at this price from an
+
+untested manufacturer, especially when it requires people to do all their
+
+computing in the cloud. There are a host of competitively priced computers on
+
+the market with similar and additional features. Analysts say that in the near
+
+future, most laptops will have touch screens.
+
+
+
+''For people who have committed to the cloud and really want a good laptop, this
+
+is the best laptop from a hardware standpoint,'' Mr. Pichai said. ''Some of them
+
+buy Macs, some of them buy Windows 8 machines and we wanted to make sure you
+
+could see Chromebooks in that segment.''
+
+
+
+Mr. Pichai said that Google's engineers paid obsessive attention to the laptop's
+
+design. Its touch screen is brighter, taller and higher resolution than most
+
+laptops, though it also drains the battery more quickly. The keyboard responds
+
+differently based on how hard or soft you type.
+
+
+
+Then there are little things -- the screws are hidden, there is a microphone
+
+under the keyboard so the computer can mute your typing when you are on a video
+
+chat and the base of the computer stays put when you lift open the top.
+
+
+
+The new Chromebook is a big step in Google's transition to hardware company. It
+
+acquired Motorola Mobility and has teamed up with other manufacturers to build
+
+previous Chromebooks and Android Nexus devices. It has already built the
+
+ill-fated Nexus Q home entertainment device and Google glasses.
+
+
+
+''It's been a long time in computing since we've had this rate of change, it
+
+probably hasn't happened since the birth of personal computing,'' Larry Page,
+
+Google's chief executive, told analysts in January. ''That's why we've put so
+
+much focus on devices.''
+
+
+
+When people use Google devices, the thinking goes, they are more likely to use
+
+Google's other products -- like search, docs and photo-sharing -- and see more
+
+ads.
+
+
+
+Chromebooks can store a small amount of data, like a file someone sends you to
+
+download. But the idea is that users will do their computing in the cloud.
+
+Instead of using Microsoft Word or Outlook, for instance, people use Google Docs
+
+or Gmail. That offers immediate backup and the ability to access digital files
+
+from any Internet-connected computer.
+
+
+
+''Even people like my mom and dad live in the cloud, they just don't know what
+
+the cloud is,'' Mr. Pichai said.
+
+
+
+The problem is that few people are ready to live entirely in the cloud, and even
+
+many of those who are ready cannot do so because applications like Word are such
+
+a big part of their computing lives.
+
+
+
+Google added a few features to make that easier with the Pixel. If a user plugs
+
+in a camera's memory card, the photos upload to Google Plus and the user can
+
+share them with a click. With the help of Quickoffice, a start-up Google
+
+acquired last year, a way to seamlessly open, edit and send Word or Excel files
+
+was created on the Chromebook.
+
+
+
+These features are an acknowledgement that Google Docs is nowhere close to
+
+taking on Microsoft Office.
+
+
+
+''All of us deal with Word files, Excel files,'' Mr. Pichai said. ''It's here to
+
+stay.''
+
+
+
+To help people make the cloud transition, Google is offering one terabyte of
+
+Google Drive storage for three years with the Pixel. That amount of storage is
+
+worth $1,800. The more expensive model of the Pixel can also tap into Verizon's
+
+cellular network when there is no WiFi available. The cellular model will not
+
+require a subscription to a monthly data plan. Instead, users will have various
+
+options for connecting to the cellular network, like buying access for a day or
+
+adding their device to their monthly Verizon plans. The LTE-enabled Chromebooks
+
+also come with 100 megabytes of free data traffic each month for two years.
+
+
+
+Mr. Pichai admitted that the lines are blurring between Google's two operating
+
+systems -- Chrome, used on the company's laptops, and Android, typically used
+
+for touch-screen phones and tablets. He said that did not matter because users
+
+of either operating system used the same Google services.
+
+
+
+The Pixel, which is made in Taiwan, will be sold at bestbuy.com and online at
+
+the Google Play store.
+
+
+
+This is a more complete version of the story than the one that appeared in
+
+print.
+
+
+
+URL: http://bits.blogs.nytimes.com/2013/02/21/google
+
+-introduces-a-touchscreen-laptop/
+
+
+
+LOAD-DATE: February 25, 2013
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+GRAPHIC: PHOTO: Sundar Pichai of Google with the Chromebook Pixel laptop.
+
+(PHOTOGRAPH BY JEFF CHIU/ASSOCIATED PRESS)
+
+
+
+PUBLICATION-TYPE: Newspaper
+
+
+
+
+
+                   Copyright 2013 The New York Times Company
+
+
+
+
+

@@ -1,0 +1,3092 @@
+                               59 of 64 DOCUMENTS
+
+
+
+                    Copyright (c) 2013 Washburn Law Journal
+
+                              Washburn Law Journal
+
+
+
+                                  Spring, 2013
+
+
+
+                              Washburn Law Journal
+
+
+
+                              52 Washburn L.J. 225
+
+
+
+LENGTH: 8787 words
+
+
+
+EMERGING LEGAL ISSUES IN THE DIGITAL AGE: ARTICLE & ESSAY: Judicial Notice and
+
+the Internet: The Legal Reasoning and Technical Basis for Taking Judicial Notice
+
+of the Fact that Internet Pages Display from the Top-Left-Hand Corner Out
+
+
+
+NAME: Jonathan Bick*
+
+
+
+BIO: * Jonathan Bick is Of Counsel at Brach Eichler, LLC in Roseland, New
+
+Jersey. He is also an Adjunct Professor at Rutgers School of Law and the author
+
+of 101 Things You Need to Know About Internet Law (Random House 2000).
+
+
+
+LEXISNEXIS SUMMARY:
+
+ ... In other words, Internet programming protocol facts - such as the fact that
+
+the Internet will always display from the upper-left-hand corner out - are
+
+subject to judicial notice because they can be easily and reliably verified.
+
+... Web-Based Image Distribution and Display One of the major innovative aspects
+
+of the Internet is that it offers standardized interfaces for viewing images and
+
+texts through standard protocols.  ... Internet content is generally stored in
+
+arrays.  ... However, absent a lack of capacity, if an Internet user reads a
+
+notice that clearly states that in exchange for the right to access and use a
+
+particular Internet site, the user must agree to a particular set of terms and
+
+conditions in order to access and use a particular Internet site, and, after
+
+reading such a notice, the reader accesses and uses the Internet site, a court
+
+would likely find mutual assent and consideration.  ... Sixth, a jury could be
+
+instructed that all Internet communications require one or more third-party
+
+computers as part of the transfer process, and that Internet programming
+
+protocols do not require said third-party computers to erase data that passes
+
+through them.
+
+
+
+TEXT:
+
+ [*225]
+
+
+
+   I. Introduction
+
+
+
+ The American judicial system requires that each fact in a case be proven
+
+through formal presentation. Most Internet transactions involve acts completed
+
+by people in the presence of devices rather than in the presence of other
+
+people. This lack of other people's presence promotes confusion during
+
+litigation around a single fundamental fact - what a participant to an Internet
+
+transaction accessed.
+
+
+
+   Legislatures throughout the United States have reduced the judicial system
+
+burden by allowing every level of court to recognize facts that constitute
+
+common knowledge without requiring proof from the parties - known as "judicial
+
+notice." As technology has evolved, so has the scope of judicial notice. In
+
+order to improve court efficiency and the likelihood of a meritorious decision,
+
+judicial notice should include the fact that what a participant to an Internet
+
+transaction accessed is not subject to reasonable dispute.
+
+
+
+   Internet use and related litigation are growing. n1 By taking judicial notice
+
+n2 of Internet content, n3 courts promote judicial convenience and  [*226]
+
+economy. n4 Courts have an opportunity to promote efficiency by taking judicial
+
+notice of certain Internet-related facts. This Article supplies the legal and
+
+technical justifications for such judicial notice.
+
+
+
+   In particular, this Article will provide the technical reasons for taking
+
+judicial notice of the fact that the Internet will always display the
+
+upper-left-hand corner of each page that is requested by a user. Courts taking
+
+such notice will be able to dispense with the time and effort necessary to
+
+demonstrate that an Internet site user viewed certain Internet content.
+
+
+
+   This Article is composed of four parts. Part II describes the doctrine of
+
+judicial notice and its significance to litigation involving the Internet. Part
+
+III establishes that a court may take notice of Internet programming protocol
+
+because a court can establish that such protocol information is correct without
+
+resorting to evidentiary proof. Part III also provides the technical reason for
+
+the Internet to display websites from the upper-left-hand corner out. Next, Part
+
+IV describes the potential significance of taking judicial notice of
+
+upper-left-hand corner display, especially with regards to a "terms of use"
+
+agreement icon. Finally, Part V identifies additional Internet operational facts
+
+that may merit judicial notice.
+
+
+
+[*227]
+
+
+
+   II. The Doctrine of Judicial Notice
+
+
+
+ Judicial notice is the process by which the finder of fact at a trial accepts
+
+certain facts as true without the necessity of a formal proof proceeding. It is
+
+a substitute for evidence. Judicial notice is rooted in the knowledge that
+
+certain factual findings are not subject to sensible debate and thus may be
+
+properly resolved by the presentation of appropriate evidence to the finder of
+
+fact at trial. As more people use the Internet, the features of the Internet
+
+will become increasingly familiar to those involved in the judicial process,
+
+and, as a result, such features will be generally known and thereby subject to
+
+judicial notice.
+
+
+
+   Section A of this Part describes the process by which a court takes judicial
+
+notice. Section B explains the practical implications of taking judicial notice.
+
+Finally, this Part suggests that the doctrine of judicial notice can and should
+
+be applied to Internet programming protocols.
+
+
+
+   A. How Judicial Notice Works
+
+
+
+ When a court takes judicial notice of a fact, it dispenses with formal proof,
+
+which is the usual method of establishing facts at trial. A court's ability to
+
+take judicial notice of a fact is limited; however, judicial notice may cover
+
+the issues of who did what, where, when, how, and with what motive or intent,
+
+and will typically relate to the parties, their activities, their properties,
+
+and their businesses. n5
+
+
+
+   The Federal Rules of Evidence ("FRE") recognize judicial notice based on the
+
+concept of verifiable certainty. FRE 201 governs judicial notice in federal
+
+practice. In particular, FRE 201(b) reads: "The court may judicially notice a
+
+fact that is not subject to reasonable dispute because it: (1) is generally
+
+known within the trial court's territorial jurisdiction; or (2) can be
+
+accurately and readily determined from sources whose accuracy cannot reasonably
+
+be questioned." n6
+
+
+
+   Judicial notice can be taken of either a legislative fact or an adjudicative
+
+fact. n7 Adjudicative facts are facts related to a particular case. These facts
+
+concern the issues of who did what, where, when, and how, and they are
+
+ordinarily resolved by the finder of fact at trial. Adjudicative facts normally
+
+are related to the parties; their transactions; and their assets, properties,
+
+and  [*228]  businesses. n8 Legislative facts, however, are related to legal
+
+reasoning and the lawmaking process. Internet programming protocol, such as
+
+having the Internet always display the upper-left-hand corner of each page
+
+requested by an Internet user, is an adjudicative fact. Regarding adjudicative
+
+facts, FRE 201 provides that courts may only take judicial notice of
+
+adjudicative facts that are "not subject to reasonable dispute." n9
+
+
+
+   A court may take judicial notice in both civil and criminal cases. In civil
+
+cases, a court will instruct the jury to accept as an irrefutable fact anything
+
+that the judge has judicially noticed. In criminal cases, the court can only
+
+instruct the jury that it may accept as fact findings of judicially-noticed
+
+facts. n10 Because Internet transactions have resulted in both civil and
+
+criminal cases, taking judicial notice of Internet programming protocol may
+
+prove useful to both courts and litigants.
+
+
+
+   Just as jurors have the right to rely on their common knowledge, a court has
+
+the right to take judicial notice of subjects of common knowledge. n11 As the
+
+use of the Internet expands, n12 so presumably has the knowledge of Internet
+
+programming protocol facts.
+
+
+
+   B. The Purpose of Judicial Notice
+
+
+
+ The purpose of taking judicial notice is to allow for the conservation of
+
+resources n13: a short-cut designed to reduce the court's work. n14 Because
+
+taking judicial notice is a means of conserving scarce judicial resources, a
+
+court may do so upon its own motion. By doing so, a court may swiftly move
+
+[*229]  the trial along by relieving itself of unnecessary burdens. n15 Taking
+
+judicial notice is also a means of conserving a litigating party's resources.
+
+Hence, a court must take judicial notice of a fact when requested to do so by a
+
+party who supplies the obligatory information n16 and when the other party has
+
+had an opportunity to oppose the taking of judicial notice. n17 In either case,
+
+taking judicial notice of Internet programming protocol, such as the protocol
+
+that forces the Internet to display the upper-left-hand corner of content pages
+
+requested by an Internet user, will enable the conservation of resources.
+
+
+
+   Courts properly take judicial notice of facts that are not objectionable to a
+
+reasonable person. n18 By doing so, courts may dispense with the usual method of
+
+establishing adjudicative facts through the introduction of evidence. Ordinarily
+
+consisting of the testimony of witnesses, establishing adjudicative facts is
+
+both time-and asset-consuming for the courts and the parties involved in the
+
+litigation. The appropriate introduction of a fact via judicial notice is not as
+
+time-and asset-consuming. From a trial attorney's perspective, the presentation
+
+of live expert testimony is expensive when compared to the use of judicial
+
+notice. Rather than spending thousands of dollars for live expert testimony, an
+
+attorney typically must pay an expert only a few hundred dollars to prepare an
+
+affidavit supporting judicial notice.
+
+
+
+   Courts have judicially noticed propositions about a wide range of technical
+
+topics. Such propositions need not be matters of common knowledge, nor must the
+
+judge who takes judicial notice of a fact have personal knowledge of such facts,
+
+n19 provided that the facts can be verified to a certainty by reference to
+
+competent authoritative sources. n20 The fact that most, if not virtually all,
+
+Internet access terminals display Internet sites from the upper-left-hand corner
+
+out is easily perceptible to even the most casual observer. Taking judicial
+
+notice of this fact would relieve the court of hearing evidence of what an
+
+Internet user did or did not receive as a result of the request.
+
+
+
+   III. A Court May Take Notice of Internet Programming Protocols
+
+
+
+ Internet programming protocol facts, if relevant to a particular matter, may
+
+qualify for judicial notice because such information will facilitate a  [*230]
+
+judicially-empowered fact finder. n21 The assumption underlying FRE 201's
+
+judicial notice conventions is that certain information does not need to be
+
+proven by the introduction of evidence at trial. Thus, Rule 201 allows a court
+
+to establish that the information is relevant and valid without resorting to
+
+evidentiary proof n22 and, in doing so, allows justice to be achieved in a more
+
+economical fashion. n23 Internet programming protocols are the type of evidence
+
+of which a court could take judicial notice.
+
+
+
+   Section A of this Part establishes why Internet programming protocols are
+
+necessary and why following or failing to follow these protocols determines
+
+without reasonable dispute the user's ability to access the Internet. Section B
+
+provides that Internet programming protocols can be judicially noticed because
+
+they are either generally known or readily verifiable. Section C explains the
+
+technical basis for verifying that Internet pages display from the
+
+upper-left-hand corner out.
+
+
+
+   A. Reasoning for Internet Programming Protocols
+
+
+
+ When one looks at a traditional page of text, the flow of text in a paragraph
+
+begins on the upper-left-hand side of a page and moves toward the right.
+
+Historically, this innovation has been attributed to right-handed cuneiform
+
+scribes who observed that writing on clay tablets was less smudged when one
+
+moved from left to right. n24 When text wraps, the new line begins below the
+
+previous one at the left side of the page. For English readers, it is so natural
+
+that one does not even notice these conventions. However, numerous studies have
+
+found that aligning English text to the right results in decreased readability
+
+and comprehension. n25
+
+
+
+   The same cannot be said of Internet content displayed on computer screens.
+
+Like traditional text, the flow of text in a paragraph begins in the upper-left
+
+hand and moves toward the right. Unlike traditional text, however,  [*231]  the
+
+text wraps beyond the end of the computer display, and the new line, which
+
+begins below the previous one at the left side of the page, may not make sense
+
+because the computer has failed to display all of the text from the end of the
+
+line above it. n26
+
+
+
+   The fact that Internet programming protocols force Internet sites to display
+
+content from the upper-left-hand corner out is a significant problem for much of
+
+the world. Both Japanese and Chinese books and magazines lay out printed text
+
+vertically. The text begins at the top-right corner of the page and flows
+
+downward, wrapping the next line to the top of the page and to the left of the
+
+previous line. Newspaper headlines, for example, run down the right side of the
+
+page. Despite the traditional layout of printed material, both Japanese and
+
+Chinese Internet sites must be designed to display content from the
+
+upper-left-hand corner out because Internet programming protocols cannot handle
+
+displaying content from the upper-right-hand corner out. n27
+
+
+
+   These protocols that force Internet sites to display content from the
+
+upper-left-hand corner, as well as other Internet programming protocols, allow
+
+the Internet to exist. Unless all Internet users agree to certain programming
+
+protocols, the Internet would cease to function. Because "the Internet is an
+
+international network of interconnected computers[,]" n28 communication on the
+
+Internet requires adherence to common technical protocols. Thus, these common
+
+technical protocols are a set of agreed-upon "rules" of communication between
+
+and among computers networked into the Internet.
+
+
+
+   At the Internet's foundation is the logical layer, which consists of two
+
+standard sets of rules: namely, the Transmission Control Protocol ("TCP") and
+
+the Internet Protocol ("IP") n29 - commonly known together as TCP/IP. Together,
+
+these two sets of rules define the nature of Internet communications.
+
+
+
+   TCP repackages each Internet communication into messages suitable for digital
+
+communication, assigns a number to each message it creates, and prepares a check
+
+sum so that the receiving computer can check the integrity of the communication.
+
+Additionally, it makes available detailed information necessary for the
+
+reassembly of the message into the proper sequence by the receiving computer and
+
+orders the resending of any lost or damaged messages. In short, all Internet
+
+communications rely on TCP to communicate  [*232]  a message. Thus, the Internet
+
+programming protocols supply the output for each message with the same input.
+
+
+
+   The IP adds computer instructions to each message prepared by the TCP. These
+
+instructions dictate the routing of messages among Internet computers. Among
+
+other computer instructions added to TCP messages by the IP, it provides the
+
+Internet address of the sending computer and the Internet address of the
+
+destination computer. n30 Because all Internet communications follow a set of
+
+rules, software programs known as "parsers" use these Internet rules to convert
+
+incoming compressed messages into a fixed format.
+
+
+
+   Additionally, the Internet is composed of a wide variety of display devices;
+
+thus, the Internet graphic software must be device independent. Therefore,
+
+Internet access devices share baseline specifications. Among other
+
+specifications are those related to graphical display interfaces such as the
+
+ones set forth by The American National Standards Institute, n31 which calls for
+
+the use of common defaults.
+
+
+
+   Failing to follow each and every one of the foregoing protocols results in a
+
+potential Internet user's inability to access or use the Internet. Conversely,
+
+potential Internet users who execute the foregoing protocols are allowed to
+
+access or use the Internet. Consequently, either following or failing to follow
+
+said protocols will, without reasonable dispute, determine whether the user can
+
+access the Internet.
+
+
+
+   B. Judicial Notice Can Be Taken of Internet Protocols
+
+
+
+ Courts have judicially noticed propositions about a wide range of technological
+
+subject matters. Although such propositions in these areas are hardly matters of
+
+common knowledge, the modern scope of judicial notice is not limited to such
+
+matters. The fact that most, if not virtually all, Internet access terminals
+
+display Internet sites from the upper-left-hand corner out is well-known. This
+
+fact is widely recognized in the e-commerce marketplace. Website providers will
+
+promise to those who pay a premium price that they will get premium placement on
+
+the brander's website, such as being in the upper-left-hand corner. n32
+
+
+
+   Furthermore, when an Internet site's "terms of use" agreement appears in the
+
+upper-left-hand corner of an Internet page, FRE 201 may be triggered to
+
+determine whether judicial notice should be taken of the Internet user's
+
+awareness of the "terms of use" agreement. A court may take notice of Internet
+
+programming protocol because such protocol meets the requirements  [*233]  for
+
+judicial notice of an adjudicative fact. For judicial notice to be embraced by
+
+the court, however, the Internet programming protocol must be either generally
+
+known or readily verifiable. n33
+
+
+
+   First, Internet programming protocol facts are generally known throughout the
+
+United States (and thus within the territorial jurisdiction of any trial court).
+
+Second, Internet programming protocol facts can be readily verified by resorting
+
+to sources whose accuracy cannot reasonably be questioned. Thus, under FRE 201,
+
+there are two different ways that Internet programming protocol facts may be
+
+found to be indisputable adjudicative facts subject to judicial notice.
+
+
+
+   Under the first test, Internet programming protocol facts are experienced
+
+first-hand by most people. Millions of people use the Internet every day, and
+
+each of those people have the personal, first-hand experience of seeing that the
+
+Internet will always display the upper-left-hand corner of each page that they
+
+requested. This fact is so well known that it is a waste of judicial resources
+
+to require proof. As to this fact, reasonably knowledgeable people cannot
+
+disagree. n34 Although it could be argued that some people would not know about
+
+Internet programming protocol facts, it is not required that said facts be
+
+universally known. Courts may take judicial notice of facts generally known
+
+within its territorial jurisdiction. n35
+
+
+
+   Under the second test, Internet programming protocol facts can be judicially
+
+noticed because they are readily verifiable through sources whose reliability
+
+cannot reasonably be questioned. Judicial notice of these facts is appropriate
+
+even if it is not generally known that the manner in which the Internet
+
+functions is due to Internet programming protocols. In other words, Internet
+
+programming protocol facts - such as the fact that the Internet will always
+
+display from the upper-left-hand corner out - are subject to judicial notice
+
+because they can be easily and reliably verified. n36 The next Part of this
+
+Article details reliable sources that may be used to verify that the Internet
+
+will always display Internet pages from the upper-left-hand corner out.
+
+
+
+[*234]
+
+
+
+   C. The Technical Basis for Verifying that Internet Pages Display From the
+
+Upper-Left-Hand Corner Out
+
+
+
+ Verifying that the Internet pages display from the upper-left-hand corner out
+
+requires the understanding of three technological concepts. Section 1 of this
+
+Part introduces Hypertext Markup Language ("HTML"), the standard language for
+
+displaying webpages. Section 2 discusses web-based image displays, including the
+
+standard protocols for displaying Internet pages from the upper left hand corner
+
+out. Finally, Section 3 addresses the programming basis for opening Internet
+
+pages from upper-left-hand corner out.
+
+
+
+   1. Web-Based Image Distribution and Display
+
+
+
+ One of the major innovative aspects of the Internet is that it offers
+
+standardized interfaces for viewing images and texts through standard protocols.
+
+As previously noted, Internet access and use are enabled by complying with a set
+
+of protocols. Consequently, failure to use said interfaces will result in a lack
+
+of Internet access. Such failure is not subject to reasonable dispute and, as a
+
+result, should be subject to judicial notice.
+
+
+
+   Most documents on the web are stored and transmitted in HTML. HTML is a
+
+simple language well suited for hypertext, multimedia, and the display of small
+
+and reasonably-simple documents. HTML is based on standard generalized markup
+
+language ("SGML"), an international organization for standardization ("ISO")
+
+standard system for defining and using document formats. However, HTML has some
+
+limitations on extensibility, structure, and validation. n37
+
+
+
+   2. Web-Based Image Display
+
+
+
+ Currently, most web browsers, including Microsoft Internet Explorer, Mozilla
+
+Firefox, Google Chrome, and Apple's Safari, support Joint Photo-graphic Experts
+
+Group ("JPEG," 24 bits for color images) or Graphics Interchange Format ("GIF,"
+
+8 bits) image rendering. These browsers also support text display mode.
+
+Web-based imaging display, like web-based distribution, relies on the fact that
+
+Internet access and use are enabled by complying with a set of protocols.
+
+Failure to use said interfaces will result in a lack of Internet access. Such
+
+failure is not subject to reasonable dispute and, consequently, should be
+
+subject to judicial notice.
+
+
+
+   Text display mode is the visual display equivalent of printing. In fact, the
+
+most universally accepted programming command for displaying text on a computer
+
+terminal is PRINT followed by two sets of quotation marks (i.e.,  [*235]  PRINT
+
+""). n38 When the program runs, the PRINT statement tells the computer to print
+
+out everything between the two quotation marks on each line, exactly as it is
+
+shown in the program. As a computer hardware default, the first mark displayed
+
+will be in the upper-left-hand corner of the screen. To change this default, the
+
+LOCATE computer command is most typically used. The format of the LOCATE command
+
+is LOCATE [row, column], where row is the numerical position of the row starting
+
+point (normally 1 through 25, with 1 being the top row) and where column is the
+
+numerical position of the column starting point (normally 1 through 80, with 1
+
+being the left-most column).
+
+
+
+   Nearly all graphic display mode software operates in a similar fashion. For
+
+example, medium-resolution displays today are commonly 1024 by 768 pixels;
+
+low-resolution displays are 800 by 600 pixels; and minimum-resolution displays
+
+are 320 by 200 pixels, accessible even on a cell phone or a hypothetical display
+
+used by the Text Display mode. If the screen used in medium resolution graphics
+
+mode is expressed in terms of an X-and Y-axis, then X corresponds to the columns
+
+and Y to the rows. The top left point on the screen is (0,0) and the bottom
+
+right is (319,199). X increases as one moves to the right across the screen, and
+
+Y increases as one moves down.
+
+
+
+   As in the case of the Text Display mode, the default for the starting point
+
+for points, lines, and other shapes for medium resolution graphics mode is the
+
+top left point on the screen. It should be noted that this default is also the
+
+starting point for the positioning of the screen cursor.
+
+
+
+   Internet content is generally stored in arrays. An array is a structured
+
+arrangement of items of computerized data in tabular form for easy reference.
+
+For example, an array of even numbers might be 2, 4, 6, 8, 10, 12, stored in
+
+such a way as to result in the display of "2" first when the array is called for
+
+use by a computer program, "4" next when the array is called again, and so on.
+
+It should be noted that an array also stores information concerning the shape of
+
+the array. Thus, an array of even numbers may be stored as:
+
+
+
+   2 4 6 8 10 12
+
+
+
+   or
+
+
+
+   2 4 6
+
+
+
+   8 10 12.
+
+
+
+   The GET command stores the shape of the array. The format for a GET command
+
+is usually GET (X1,Y1) - (X2,Y2), [Array Name] where X1, Y1 are the x and y
+
+coordinates of the top left corner of the rectangle that contains the shape of
+
+the array; X2, Y1 are the x and y coordinates of the bottom right of the shape
+
+of the array; and the Array Name is the computer location of the content of the
+
+array.
+
+
+
+    [*236]  The default for X1, Y1 - the x-and y-coordinates of the top-left
+
+corner of the rectangle that contains the shape of the array - is (0,0), which
+
+is the upper-left-hand corner of the display screen. Thus, it is normal for the
+
+content of the array to be displayed starting in the upper-left-hand corner of
+
+the area designed to accept the array content.
+
+
+
+   The PUT statement displays on a computer screen the shape stored in the array
+
+by the GET command. Once a shape is in the array, it can be PUT at any location
+
+on the computer display screen. The format for PUT statements is typically PUT (
+
+X1,Y1), [Array Name], where X1 and Y1 are the x-and y-coordinates of the screen
+
+location to put the upper-left corner of the array shape. The default for the
+
+PUT starting coordinates is (0,0), which is the upper-left-hand corner of the
+
+display.
+
+
+
+   3. Programming Basis for Opening Internet Pages from Upper-Left Corner Out
+
+
+
+ As noted above, HTML is the language of internet webpage transmission. n39 HTML
+
+is a markup/structured document language n40 and is a subset of the "SGML, the
+
+Standard Generalized Markup Language, . + . + . an international standard (ISO
+
+8879) that defines a syntax for the character representation of structured
+
+information." n41 HTML describes a page from the top down. n42 From a
+
+programmer's perspective, an Internet page is built as follows:
+
+
+
+
+
+
+
+   <HTML>
+
+
+
+
+
+
+
+<Head>
+
+
+
+
+
+
+
+<Title>This is my webpage</Title>
+
+
+
+
+
+
+
+</Head>
+
+
+
+
+
+
+
+<Body>
+
+
+
+
+
+
+
+<p>First paragraph</p>
+
+
+
+
+
+
+
+<p>Second paragraph</p>
+
+
+
+
+
+
+
+</Body>
+
+
+
+
+
+
+
+</HTML>
+
+
+
+The HTML rendering engines interpret HTML by opening the document from the top
+
+(in a linear manner). n43 Thus, Internet pages open from the upper-left-  [*237]
+
+hand corner out because in modern operating systems (Windows, n44 Linux, UNIX,
+
+n45 and Java n46), the coordinate system is defined as starting in the top-left
+
+corner.
+
+
+
+    [*238]  As a result, it is generally known and capable of accurate and ready
+
+determination by resorting to reliable sources that Internet pages open from the
+
+upper-left-hand corner out. The extent of the display of any particular Internet
+
+page requested by an Internet user, however, depends upon the device on which
+
+the Internet page is being displayed.
+
+
+
+   IV. Potential Significance of Judicial Notice of the Fact that the Internet
+
+Displays the Upper-Left Corner of Pages Requested by an Internet User
+
+
+
+ Consumers and businesses are adopting and taking advantage of various forms of
+
+Internet-related notices, particularly "terms of use" agreements, which
+
+potentially change the relationship between an Internet site owner and its users
+
+from public to private law. n47
+
+
+
+   The enforceability of a "terms of use" agreement, however, will depend upon
+
+whether it meets the classic requirements of a binding contract: (1) parties
+
+capable of contracting n48; (2) mutual assent n49; and (3) consideration. n50
+
+[*239]  If an Internet user is not capable of contracting due to lack of
+
+capacity, a "terms of use" agreement will not be enforced. However, absent a
+
+lack of capacity, if an Internet user reads a notice that clearly states that in
+
+exchange for the right to access and use a particular Internet site, the user
+
+must agree to a particular set of terms and conditions in order to access and
+
+use a particular Internet site, and, after reading such a notice, the reader
+
+accesses and uses the Internet site, a court would likely find mutual assent and
+
+consideration. This assertion is supported by the enforceability of
+
+"shrink-wrap" agreements. n51
+
+
+
+   "Terms of use" agreements are arguably more enforceable than "shrink-wrap"
+
+agreements when it can be shown that the user has advance notice of the
+
+existence of the "terms of use" agreement. For example, advance notice could be
+
+shown if the Internet site required a potential Internet user to take certain
+
+action that demonstrated the Internet user's awareness of the "terms of use"
+
+agreement. Such action could include clicking on an "I agree" icon as part of a
+
+registration process to affirmatively manifest assent.
+
+
+
+   In the past it was argued that a site that had a "terms of use" agreement was
+
+not enforceable if it did not require an affirmative manifestation of assent.
+
+Without such affirmative manifestation of assent, such as "clicking" on an "I
+
+agree" icon, there was no evidence that the Internet user had notice of the
+
+"terms of use" agreement. n52 Such an argument, however, could not presently be
+
+made if the court took judicial notice of the fact that the Internet will always
+
+display the upper-left-hand corner of each page that is requested by a user and
+
+if the parties to the litigation stipulate that the "terms of use" agreement was
+
+in the upper-left-hand corner of the page requested by the user.
+
+
+
+   It should also be noted that "neither real nor apparent intention that a
+
+promise be legally binding is essential to the formation of a contract[.]" n53
+
+Thus, the fact that an Internet user who saw the "terms of use" agreement on his
+
+computer after requesting a particular Internet page had no intention of giving
+
+a legal promise to abide by the agreement does not void his assent to be bound
+
+by the terms. Additionally, a "terms of use" agreement must be capable of being
+
+given an exact meaning, and all the performances to be rendered must be certain.
+
+Otherwise, the "terms of use" agreement will not be enforced. n54
+
+
+
+    [*240]  In order for a litigating party to avail itself of the advantages
+
+afforded by posting "terms of use" agreements, it first must demonstrate to the
+
+trial fact finder that its adversary was aware of such agreements. Typically,
+
+this awareness is proven by presenting Internet traffic and communication data,
+
+as well as expert testimony. However, the necessity of such formal proof can be
+
+rendered unnecessary through the application of judicial notice. n55
+
+
+
+   Judicial notice should be taken of an Internet user's awareness of a
+
+particular Internet site's "terms of use" agreement when that agreement's icon
+
+appears in the upper-left-hand corner of the Internet page. Such treatment is
+
+justified by: (1) the defaults built into computer graphic software that almost
+
+universally use the upper-left-hand corner as a starting reference point; (2)
+
+the Internet programming protocol that requires Internet users to adhere to a
+
+set of technical rules about how information should be transmitted and received
+
+by computers; and (3) the courts' standards for the use of judicial notice.
+
+
+
+   The U.S. Supreme Court has taken judicial notice of the fact that billboards,
+
+street car signs, placards, and such, unlike newspaper and magazine
+
+advertisements, are in a class by themselves because they "thrust" their message
+
+on the viewer. n56 The Court found that billboards, street car signs, and
+
+placards deprive the viewer of any real choice over whether to receive the
+
+message.
+
+
+
+   In comparison, the upper-left-hand corner of an Internet page is like a
+
+billboard, a street car sign, or a placard because it is constantly before the
+
+eyes of observers without the exercise of choice or volition on the part of the
+
+viewer. Internet users have no choice but to view the upper-left-hand corner of
+
+any page they electronically request from the Internet. Although a viewer may
+
+move his eyes from billboard to billboard or move from Internet page to Internet
+
+page, the content of both the billboard and the upper-left-hand corner of any
+
+Internet page are before him regardless of choice or volition.
+
+
+
+   In the case of newspapers and magazines, the viewer must seek and find the
+
+advertisement. Similarly, in the case of a television or radio, advertisements
+
+can be turned off. In the case of requesting an Internet page, however, once the
+
+Internet request is made, the Internet will always display the upper-left-hand
+
+corner of the requested page. Therefore, the user need not seek the
+
+upper-left-hand corner of a webpage, nor is the Internet user able to turn it
+
+off. Consequently, courts should treat the upper-left-hand corner of any page
+
+like a billboard or street car sign.
+
+
+
+    [*241]  If a court treated the upper-left-hand corner of an Internet page
+
+like a billboard or street car sign and took judicial notice that a particular
+
+Internet user's computer displayed a "terms of use" icon in that corner, then
+
+the Internet site's "terms of use" agreement would be binding upon the user in
+
+accordance with the findings of Carnival Cruise Lines v. Shute. n57 In Carnival
+
+Cruise Lines, a Washington resident was injured in international waters off the
+
+coast of Mexico and filed an action in the U.S. District Court of Washington.
+
+n58 The U.S. Supreme Court upheld the dismissal of a personal injury claim filed
+
+in Washington because the plaintiff failed to abide by a note on the ticket that
+
+referred her to a contractually-stipulated Florida forum. n59
+
+
+
+   In particular, the face of each ticket, in its lower-left-hand corner,
+
+contained this admonition:
+
+
+
+
+
+
+
+   " "SUBJECT TO CONDITIONS OF CONTRACT ON LAST PAGES IMPORTANT! PLEASE READ
+
+CONTRACT - ON LAST PAGES 1, 2, 3' App. 15." n60
+
+
+
+ Appearing on the first contract page was the following:
+
+
+
+
+
+
+
+   TERMS AND CONDITIONS OF PASSAGE CONTRACT TICKET
+
+
+
+
+
+
+
+....
+
+
+
+
+
+
+
+3. (a) The acceptance of this ticket by the person or persons named hereon as
+
+passengers shall be deemed to be an acceptance and agreement by each of them of
+
+all of the terms and conditions of this Passage Contract Ticket.
+
+
+
+
+
+
+
+....
+
+
+
+
+
+
+
+8. It is agreed by and between the passenger and the Carrier that all disputes
+
+and matters whatsoever arising under, in connection with or incident to this
+
+Contract shall be litigated, if at all, in and before a Court located in the
+
+State of Florida, U.S.A., to the exclusion of the Courts of any other state or
+
+country. n61
+
+
+
+ The rationale in Carnival Cruise Lines may be used in combination with judicial
+
+notice to conclude that an Internet user is aware of a particular Internet
+
+site's "terms of use" agreement when such site's "terms of use" agreement icon
+
+appeared in the upper-left-hand corner of an Internet page. Such a combination
+
+could save a significant amount of court resources.
+
+
+
+   A two-step process is required to achieve these desired court resource
+
+savings. First, a court would instruct the jury that a particular Internet
+
+user's computer displayed a "terms of use" icon after the court has taken
+
+judicial notice of the fact that the Internet will always display the
+
+upper-left-hand corner of a webpage and that the icon was in the upper-left-hand
+
+corner of the page. Next, relying on Carnival Cruise Lines, the jury would be
+
+instructed that those with notice of a "terms of use" agreement are obligated to
+
+abide by it whether they chose to read it or not, unless the agreement itself is
+
+unlawful.
+
+
+
+[*242]
+
+
+
+   V. Other Internet-Related Facts that May Merit Judicial Notice
+
+
+
+ In addition to taking judicial notice of the upper-left-hand corner of an
+
+Internet page, there are other Internet-related facts that merit judicial
+
+notice. Judicial notice of the following facts should be considered: (1) email
+
+messages are copied by third-party computers during transmission; (2) all
+
+Internet content is digital; (3) the Internet operates at near light speed,
+
+which on a planet this size amounts to near real-time; (4) webpages may be
+
+viewed on any operational computer with an Internet connection and a web
+
+browser; (5) the Internet has the ability to make software and data files
+
+available for downloading; (6) the Internet has no irreplaceable central
+
+control, administration, or authority; and (7) the United States controls domain
+
+name transfers. n62
+
+
+
+   The significance of taking judicial notice of such Internet facts varies. The
+
+ability to instruct a lay jury regarding technical Internet facts can be
+
+especially significant. Consider the following six scenarios in which certain
+
+Internet facts need not to be proven to a jury.
+
+
+
+   First, a jury could be instructed that the Internet is able to adapt itself
+
+almost instantaneously to damages or outages to individual sections of the
+
+Internet. n63 This fact means that the loss of individual computers and networks
+
+does not affect the Internet's overall flexibility, accuracy, or speed. If a
+
+court takes judicial notice of this fact, then it need not be proven that the
+
+loss of any individual computer did not affect the Internet's overall
+
+performance.
+
+
+
+   Second, a jury could be instructed that Internet communications travel at
+
+near light speed of approximately 186,000 miles per second. This fact means that
+
+even if two computers are half a world apart, they will only experience a tenth
+
+of a second in communications delay. If a court takes judicial notice of this
+
+fact, then it need not be proven that Internet communications are nearly real
+
+time.
+
+
+
+   Third, a jury could be instructed that the Internet is based on a common
+
+standard - the TCP/IP network protocol. This fact means that the Internet
+
+provides all computers with access to the network with the same technical
+
+interface and capabilities. If a court takes judicial notice of this fact, then
+
+it need not be proven that the Internet provides universal access, giving the
+
+same powerful capabilities to everyone with access to the network no matter
+
+where they are.
+
+
+
+    [*243]  Fourth, a jury could be instructed that the Internet is based on
+
+digital data and that it uses TCP. n64 This fact means that Internet
+
+communications cannot be changed or become distorted over time or in
+
+transmissions between sites. If a court takes judicial notice of this fact, then
+
+it need not be proven that a website does not age and become fuzzy or garbled
+
+over time, and that the characters in an email are not transposed or mixed up
+
+when they are sent over long distances.
+
+
+
+   Fifth, a jury could be instructed that all email communications use the
+
+standard programming protocol, TCP/IP, upon which inter-computer communications
+
+are based. This fact means that all emails have TCP error control information;
+
+when an email is sent, "TCP receives the packets and checks for errors[, and
+
+w]hen an error occurs, TCP asks for the particular packet to be re-sent." n65 If
+
+a court takes judicial notice of this fact, then it need not be proven that the
+
+email message received was error-free. Therefore, an email received has the same
+
+content as the email that was sent. Similarly, because all email communications
+
+use the TCP/IP standard upon which inter-computer communications are based, all
+
+emails contain embedded data that is affixed to the document at its creation and
+
+at subsequent times when handled by other computers that promoted its travel. If
+
+a court takes judicial notice of embedded data, then it need not be proven that
+
+the embedded data exists, thus allowing the court to focus directly on the
+
+meaning of that data, such as the identity of the author, the creation date, and
+
+the data concerning authenticity. n66
+
+
+
+   Sixth, a jury could be instructed that all Internet communications require
+
+one or more third-party computers as part of the transfer process, and that
+
+Internet programming protocols do not require said third-party computers to
+
+erase data that passes through them. n67 These facts mean that email and
+
+requested Internet webpage files remain within the transfer computers as
+
+residual data on existing "free space." n68 If a court takes judicial notice of
+
+these facts, then it need not be proven that the residual data exists, thus
+
+allowing the court to focus directly on the meaning of that data, such as the
+
+content of the Internet communication, the identity of the author, the creation
+
+date, and the data concerning authenticity.
+
+
+
+[*244]
+
+
+
+   VI. Conclusion
+
+
+
+ The fact that Internet pages open from the upper-left-hand corner out is
+
+capable of accurate and ready determination by resorting to sources whose
+
+accuracy cannot reasonably be questioned. Furthermore, there are other
+
+Internet-related facts that merit judicial notice. Because taking judicial
+
+notice will save judicial resources and save litigants time and effort, courts
+
+should take judicial notice of these Internet programming protocols.
+
+
+
+Legal Topics:
+
+
+
+For related research and practice materials, see the following legal topics:
+
+Computer & Internet LawGeneral OverviewEvidenceJudicial NoticeAdjudicative
+
+FactsFacts Generally KnownEvidenceJudicial NoticeLegislative Facts
+
+
+
+FOOTNOTES:
+
+
+
+
+
+
+
+
+
+n1.  See Sarah E. Roland, The Uniform Electronic Signatures in Global and
+
+National Commerce Act: Removing Barriers to E-Commerce or Just Replacing Them
+
+with Privacy and Security Issues?, 35 Suffolk U. L. Rev. 625, 625 n.2 (2001).
+
+Internet use as a commercial channel and overall growth of Internet use are two
+
+significant measures. Id. "Online spending during the 1999 holiday season was
+
+more than five billion dollars." Id. A "bold 1999 prediction that U.S. consumer
+
+e-commerce would reach $ 108 billion by 2003 wasn't so far off." Timothy J.
+
+Mullaney, The E-Biz Surprise, Bloomberg Businessweek (May 11, 2003),
+
+http://www.businessweek.com/stories/2003-05-11/the-e-biz-surprise. The Pew
+
+Research Center's Internet & American Life Project conducted Internet use
+
+surveys. The results of the surveys from 2000 and 2012 demonstrate just how much
+
+Internet use has increased. Below is the May 2000 data:
+
+
+
+
+
+
+
+   47% - overall internet population of adults
+
+
+
+
+
+
+
+78% - internet population of those in households earning more than $ 75,000
+
+
+
+
+
+
+
+28% - internet population of those in households earning less than $ 30,000
+
+
+
+
+
+
+
+61% - internet population of those ages 18-29
+
+
+
+
+
+
+
+14% - internet population of those ages 65 and older.
+
+
+
+
+
+
+
+In contrast, below is the January 20-February 19, 2012 data:
+
+
+
+
+
+
+
+80% - overall internet population of adults
+
+
+
+
+
+
+
+98% - internet population of those in households earning more than $ 75,000
+
+
+
+
+
+
+
+65% - internet population of those in households earning less than $ 30,000
+
+
+
+
+
+
+
+94% - internet population of those ages 18-29 online
+
+
+
+
+
+
+
+50% - internet population of those ages 65 and older).
+
+
+
+ Presentation Source File, Pew Research Center's Internet & American Life
+
+Project, By the Numbers: Technology's Place in Our Lives (Feb. 23, 2012),
+
+http://www.pewinternet.org/[#x7E]/media/Files/Presentations/2012/Feb/2012%20-%20
+
+2%2023%2012%20-%20Wisdom%202%200%20-%20figures%20about%20tech%20PDF.pdf.
+
+
+
+   Internet-related litigation has nearly doubled in the past four years by one
+
+measure. Using the LexisNexis legal research database, only 735 federal cases
+
+from January 1, 2000, to January 1, 2001, contained "Internet" in their head
+
+note section. Comparatively, 1,402 federal cases from January 1, 2004, to
+
+January 1, 2005, contained "Internet" in their head note section.
+
+
+
+
+
+
+
+
+
+
+
+n2.  The term "judicial notice" is defined as "the cognizance of certain facts
+
+which a judge under rules of legal procedure or otherwise may properly take or
+
+act upon without proof because they are already known to him or because of that
+
+knowledge which a judge has, or is assumed to have by virtue of his office."
+
+Ballentine's Law Dictionary 685 (3d ed. 1969).
+
+
+
+
+
+
+
+
+
+
+
+n3.  Courts have regularly taken judicial notice of Internet information. As
+
+with traditional publications, courts are most willing to take judicial notice
+
+of information found on government websites. In United States v. Bervaldi, the
+
+court took judicial notice of the time of sunrise, found on the website of the
+
+U.S. Naval Observatory. 226 F.3d 1256, 1266 n.9 (11th Cir. 2000). In Levan v.
+
+Capital Cities/ABC, Inc., the court took notice of the prime interest rate which
+
+it found on the Federal Reserve Board website. 190 F.3d 1230, 1235 n.12 (11th
+
+Cir. 1999). Judicial notice of mileage was taken using the MapQuest site in In
+
+re Extradition of Gonzalez. 52 F. Supp. 2d 725, 731 n.12 (W.D. La. 1999).
+
+Judicial notice was taken of information regarding a bank's ownership from the
+
+bank's website in Laborers' Pension Fund v. Blackmore Sewer Construction, Inc.,
+
+298 F.3d 600, 607 (7th Cir. 2002).
+
+
+
+
+
+
+
+
+
+
+
+n4.  A court may promote convenience and economy by taking judicial notice of a
+
+fact and dispensing with formal proofs, which is the usual method of
+
+establishing facts at trial. The obvious benefit of such action is associated
+
+with reducing both parties' costs and reducing the need for the court's time if
+
+the court establishes a fact in an adversarial proceeding and dispenses with
+
+formal proof when a matter is not really disputable because there is no real
+
+issue of fact.
+
+
+
+
+
+
+
+
+
+
+
+n5.  See United States v. Gould, 536 F.2d 216, 219 (8th Cir. 1976) ("It is
+
+apparent that courts may take judicial notice of any fact which is "capable of
+
+such instant and unquestionable demonstration, if desired, that no party would
+
+think of imposing a falsity on the tribunal in the face of an intelligent
+
+adversary.' ") (internal citations omitted).
+
+
+
+
+
+
+
+
+
+
+
+n6.  See Cosom v. Marcotte, 760 A.2d 886, 893 (Pa. Super. Ct. 2000) (concerning
+
+judicial notice prerequisites, including the requirements that: "(1) the matter
+
+must be a matter of common and general knowledge; (2) it must be well and
+
+authoritatively settled; and (3) it must be known within the limits of the
+
+jurisdiction of the court") (internal citation omitted).
+
+
+
+
+
+
+
+
+
+
+
+n7.  55 Harv. L. Rev. 364, 404-07 (1942). This dichotomy was noted by Professor
+
+Kenneth Davis in his article An Approach to Problems in Evidence in the
+
+Administrative Process.
+
+
+
+
+
+
+
+
+
+
+
+n8.  See Fed. R. Evid. 201 advisory committee's note (a) (defining adjudicative
+
+facts).
+
+
+
+
+
+
+
+
+
+
+
+n9.  Fed. R. Evid. 201(b).
+
+
+
+
+
+
+
+
+
+
+
+n10.  See, e.g., Sullivan v. Louisiana, 508 U.S. 275 (1993). In that case, the
+
+Court found that, due to Sixth Amendment right to trial by jury concerns, a
+
+judge may not direct a verdict or a partial directed verdict by way of judicial
+
+notice; thus, judicially-noticed facts are not binding in a criminal trial. Id.
+
+
+
+
+
+
+
+
+
+
+
+n11.  See Commonwealth v. Kingsbury, 393 N.E.2d 391, 393 (Mass. 1979).
+
+
+
+
+
+
+
+
+
+
+
+n12.  See ACLU v. Reno, 929 F. Supp. 824, 831 (E.D. Pa. 1996) (reporting that
+
+fewer than 300 computers were linked to the Internet in 1981 but that the number
+
+had grown to over 9 million computers by 1996); see also Lee Rainie, Big Jump in
+
+Search Engine Use, Pew Internet & American Life Project (Nov. 20, 2005),
+
+http://www.pewinternet.org/Reports/2005/Big-jump-in-search-engine-use/Data-Memo.
+
+aspx. This on-line article reports:
+
+
+
+
+
+
+
+   Pew Internet Project data from June 2004 show that use of search engines on a
+
+typical day has risen from 30% to 41% of the internet-using population, which
+
+itself has grown in the past year. This means that the number of those using
+
+search engines on an average day jumped from roughly 38 million in June 2004 to
+
+about 59 million in September 2005 - an increase of about 55%. comScore data,
+
+which are derived from a different methodology, show that from September 2004 to
+
+September 2005 the average daily use of search engines jumped from 49.3 million
+
+users to 60.7 million users - an increase of 23%.
+
+
+
+ Id.
+
+
+
+
+
+
+
+
+
+
+
+n13.  See Brenda C. See, Written in Stone? The Record on Appeal and the
+
+Decision-Making Process, 40 Gonz. L. Rev. 157, 190 (2005) (stating that "the
+
+purpose of the doctrine of judicial notice is to permit a court to consider as
+
+... [a] fact without the necessity of formal proof") (internal citation
+
+omitted).
+
+
+
+
+
+
+
+
+
+
+
+n14.  See Communist Party of United States v. Peek, 127 P.2d 889, 895 (Cal.
+
+1942) ("The doctrine of judicial notice was adopted as a judicial shortcut to
+
+avoid necessity for the formal introduction of evidence in certain cases where
+
+there is no real need for such evidence.").
+
+
+
+
+
+
+
+
+
+
+
+n15.  See See, supra note 13, at 191 ("A trial court employs judicial notice of
+
+adjudicative facts to move the trial along.").
+
+
+
+
+
+
+
+
+
+
+
+n16.  See Fed. R. Evid. 201(c)(2) (stating that judicial notice is mandatory if
+
+a court is so requested and supplied with necessary information); see also Haye
+
+v United States, 461 F. Supp. 1168, 1174 (C.D. Cal. 1978).
+
+
+
+
+
+
+
+
+
+
+
+n17.  See United States v. Ritchie, 342 F.3d 903, 909 (9th Cir. 2003). In this
+
+case, the district court erred by not allowing the claimant to have opportunity
+
+to respond to a request for judicial notice. Id.
+
+
+
+
+
+
+
+
+
+
+
+n18.  See Fed. R. Evid. 201(b).
+
+
+
+
+
+
+
+
+
+
+
+n19.  See 29 Am Jur 2d Evidence § 26 (2013) ("Judicial notice is not limited by
+
+the actual knowledge of the individual judge ... .").
+
+
+
+
+
+
+
+
+
+
+
+n20.  See id.
+
+
+
+
+
+
+
+
+
+
+
+n21.  See 29 Am Jur 2d, Evidence supra note 19, § 25 (stating that, "in order to
+
+be admissible, evidence must be relevant to the issues in the case").
+
+
+
+
+
+
+
+
+
+
+
+n22.  Cupey Bajo Nursing Home, Inc. v. United States, 36 Fed. Cl. 122, 135 n.22
+
+(1996) (stating that "by taking judicial notice of a fact, the court may inform
+
+itself of a particular fact without resort to evidentiary proof").
+
+
+
+
+
+
+
+
+
+
+
+n23.  See generally Edward J. Imwinkelried, Shorten Trial Presentations, Reduce
+
+Litigation Costs; Seasoned Attorneys Frequently Consider Dispensing with Live
+
+Testimony and Instead Take the Judicial Notice Route, N.J. L.J. (Jan. 14, 2002).
+
+This article states that seasoned attorneys frequently consider dispensing with
+
+live testimony and instead take the judicial notice route. Id.
+
+
+
+
+
+
+
+
+
+
+
+n24.  Alvin Sylvester Zerbe, The Antiquity of Hebrew Writing and Literature 149
+
+(1911); see also Jean-Jacques Glassner, The Invention of Cuneiform: Writing in
+
+Sumer 119 (Zainab Bahrani & Marc Van De Mieroop eds., 2003).
+
+
+
+   "Originally pictographs were arranged vertically, from right to left.
+
+Sometime in the latter third millennium the writing came to be arranged
+
+horizontally from left to right. At the same time, all the symbols were rotated
+
+counterclockwise ninety degrees. (These changes probably reflect conveniences in
+
+writing for right-handed scribes.)" J. Michael Stitt, Cuneiform, UNLV Dep't of
+
+English, http://faculty.unlv.edu/jmstitt/Eng480/Writing/Cuneiform.html (last
+
+visited Feb. 16, 2013).
+
+
+
+
+
+
+
+
+
+
+
+n25.  Carol Bergfeld Mills & Linda J. Weldon, Reading Text from Computer
+
+Screens, 19 ACM Computing Surveys 329 (1987) Section 3.5 Right Justification.
+
+
+
+
+
+
+
+
+
+
+
+n26.  See U.S. Patent No. 6694485 (filed Feb. 17, 2004); see also U.S. Patent
+
+No. 5987482 (filed Nov. 16, 1999); U.S. Patent No. 4333097 (filed June 1, 1982).
+
+
+
+
+
+
+
+
+
+
+
+n27.  See generally Heiko Sacher, Interactions in Chinese: Designing Interfaces
+
+for Asian Languages, Sacher Design (Sept.-Oct. 1998),
+
+http://www.sacherdesign.com/papers/Apple_SpeechInput.pdf.
+
+
+
+
+
+
+
+
+
+
+
+n28.  Reno v. ACLU, 521 U.S. 844, 849 (1997).
+
+
+
+
+
+
+
+
+
+
+
+n29.  See Alexander R. Galloway, 597 Annals Am. Acad. Pol. & Soc. Sci. 19, 21
+
+(2005). "The protocols that govern much of the Internet are contained in what
+
+are called RFC (Request for Comments) documents. The expression derives from a
+
+memorandum titled "Host Software' sent by Steve Crocker on April 7, 1969, which
+
+is known today as RFC 1." Id.
+
+
+
+
+
+
+
+
+
+
+
+n30.  See generally James B. Speta, A Common Carrier Approach to Internet
+
+Interconnection, 54 Fed. Comm. L.J. 225 (2002) (discussing TCP/IP and other
+
+aspects of Internet communication).
+
+
+
+
+
+
+
+
+
+
+
+n31.  See Galloway, supra note 29, at 23. "ANSI, the American National Standards
+
+Institute, is responsible for aggregating and coordinating the standards
+
+creation process in the United States." Id.
+
+
+
+
+
+
+
+
+
+
+
+n32.  See Eric Goldman, Understanding Internet Co-Branding Deals, 16 Santa Clara
+
+Computer & High Tech. L.J. 65, 73 (2000).
+
+
+
+
+
+
+
+
+
+
+
+n33.  See Fed. R. Evid. 201(b).
+
+
+
+
+
+
+
+
+
+
+
+n34.  See, e.g., United States v. Lewis, 833 F.2d 1380 (9th Cir. 1987). In this
+
+case, the lower court erred in taking judicial notice of effects of surgery on
+
+the defendant because the judge relied on his own personal experience rather
+
+than finding that the effects were facts upon which reasonably knowledgeable
+
+people agreed. Id. at 1385-88.
+
+
+
+
+
+
+
+
+
+
+
+n35.  See, e.g., Norman v. Housing Auth. of Montgomery, 836 F.2d 1292 (11th Cir.
+
+1988). In this case, the court properly took judicial notice of the prevailing
+
+wage rate for local bookkeepers. Id. at 1304.
+
+
+
+
+
+
+
+
+
+
+
+n36.  See, e.g., Terrebonne v. Blackburn, 646 F.2d 997 (5th Cir. 1981). In this
+
+case, the court took proper judicial notice of pardons by a parole board by
+
+referring to an authorized governmental report. Id. at 1000 n.4.
+
+
+
+
+
+
+
+
+
+
+
+n37.  Jon Bosak, XML, Java, and the future of the Web, ibiblio (Mar. 10, 1997),
+
+http://www.ibiblio.org/pub/sun-info/standards/xml/why/xmlapps.htm.
+
+
+
+
+
+
+
+
+
+
+
+n38.  IBM personal computers using DOS and some form of BASIC use PRINT followed
+
+by two sets of quotation marks as their backup/default system.
+
+
+
+
+
+
+
+
+
+
+
+n39.  Kevin Hughes, Entering the World-Wide Web: A Guide to Cyberspace, Faculty
+
+of Engineering and Physical Sciences University of Surrey-Guildford (Oct. 1993),
+
+http://info.eps.surrey.ac.uk/SCS/manuals/WWW-Guide/.
+
+
+
+
+
+
+
+
+
+
+
+n40.  Id.
+
+
+
+
+
+
+
+
+
+
+
+n41.  Robert J. Glushko, How Practical is Practical SGML?, UC Berkeley School of
+
+Information (May 1, 1996),
+
+http://people.ischool.berkeley.edu/[#x7E]glushko/glushko_files/PracticalSGML.pdf
+
+.
+
+
+
+
+
+
+
+
+
+
+
+n42.  Eric Kasten, HTML: A Gentle Introduction, Linux Journal (July 1, 1995),
+
+http://www.linuxjournal.com/article/1081.
+
+
+
+
+
+
+
+
+
+
+
+n43.  See Thomas A. Powell, HTML: The Complete Reference 1-17 (2d ed. 1998); see
+
+also Ola Andersson, et al., Scalable Vector Graphics (SVG) Tiny 1.2
+
+Specification Section 7.3: The Initial Coordinate System, World Wide Web
+
+Consortium (Dec. 22, 2008),
+
+http://www.w3.org/TR/SVGTiny12/coords.html#InitialCoordinateSystem. Section 7.3
+
+demonstrates "that the initial coordinate system has the origin at the top/left
+
+with the x-axis pointing to the right and the y-axis pointing down." Id.
+
+
+
+
+
+
+
+
+
+
+
+n44.  Window Coordinate System (Windows), Microsoft (Oct. 25, 2012),
+
+http://msdn.microsoft.com/en-us/library/windows/desktop/dd145205(the=vs.85).aspx
+
+. The Windows development center explains,
+
+
+
+
+
+
+
+   The coordinate system for a window is based on the coordinate system of the
+
+display device. The basic unit of measure is the device unit (typically, the
+
+pixel). Points on the screen are described by x-and y-coordinate pairs. The
+
+x-coordinates increase to the right; y-coordinates increase from top to bottom.
+
+The origin (0,0) for the system depends on the type of coordinates being used.
+
+
+
+
+
+
+
+The system and applications specify the position of a window on the screen in
+
+screen coordinates. For screen coordinates, the origin is the upper-left corner
+
+of the screen. The full position of a window is often described by a RECT
+
+structure containing the screen coordinates of two points that define the
+
+upper-left and lower-right corners of the window.
+
+
+
+
+
+
+
+The system and applications specify the position of points in a window by using
+
+client coordinates. The origin in this case is the upper-left corner of the
+
+window or client area. Client coordinates ensure that an application can use
+
+consistent coordinate values while drawing in the window, regardless of the
+
+position of the window on the screen.
+
+
+
+
+
+
+
+The dimensions of the client area are also described by a RECT structure that
+
+contains client coordinates for the area. In all cases, the upper-left
+
+coordinate of the rectangle is included in the window or client area, while the
+
+lower-right coordinate is excluded. Graphics operations in a window or client
+
+area are excluded from the right and lower edges of the enclosing rectangle.
+
+
+
+
+
+
+
+Occasionally, applications may be required to map coordinates in one window to
+
+those of another window. An application can map coordinates by using the
+
+MapWindowPoints function. If one of the windows is the desktop window, the
+
+function effectively converts screen coordinates to client coordinates and vice
+
+versa; the desktop window is always specified in screen coordinates.
+
+
+
+ Id.
+
+
+
+
+
+
+
+
+
+
+
+n45.  John R. Sheets, Writing GNOME Applications, Chapter 11,
+
+http://openbooks.sourceforge.net/books/wga/gnome-canvas-coordinates.html (last
+
+visited Feb. 16, 2013). Mr. Sheets explains,
+
+
+
+
+
+
+
+   Window coordinates, the final coordinate system of interest to Canvas users,
+
+are rarely used within the Canvas because most internal Canvas calculations use
+
+world coordinates. Instead window coordinates are used usually outside of the
+
+Canvas. Like canvas coordinates, window coordinates are pixel based, but they
+
+are relative to the upper left corner of the top-level window that owns the
+
+Canvas, rather than to the upper left corner of the Canvas widget.
+
+
+
+ Id.; see also GnomeCanvas, The GNOME Project,
+
+http://developer.gnome.org/libgnomecanvas/2.30/GnomeCanvas.html (last visited
+
+Feb. 16, 2013). The Gnome Development Center states,
+
+
+
+
+
+
+
+   There are several different coordinate systems used by GnomeCanvas widgets.
+
+The primary system is a logical, abstract coordinate space called world
+
+coordinates. World coordinates are expressed as unbounded double floating point
+
+numbers. When it comes to rendering to a screen the canvas pixel coordinate
+
+system (also referred to as just canvas coordinates) is used. This system uses
+
+integers to specify screen pixel positions. A user defined scaling factor and
+
+offset are used to convert between world coordinates and canvas coordinates.
+
+Each item in a canvas has its own coordinate system called item coordinates.
+
+This system is specified in world coordinates but they are relative to an item
+
+(0.0, 0.0 would be the top left corner of the item). The final coordinate system
+
+of interest is window coordinates. These are like canvas coordinates but are
+
+offsets from within a window a canvas is displayed in. This last system is
+
+rarely used, but is useful when manually handling GDK events (such as drag and
+
+drop) which are specified in window coordinates (the events processed by the
+
+canvas are already converted for you).
+
+
+
+ Id.
+
+
+
+
+
+
+
+
+
+
+
+n46.  The Java Tutorials: Coordinates, Oracle.com,
+
+http://docs.oracle.com/javase/tutorial/2d/overview/coordinate.html (last visited
+
+Mar. 18, 2013). As shown in Figure 1-1, the user space origin is located in the
+
+upper-left corner of the space, with x values increasing to the right and y
+
+values increasing downward. Figure 1-1 User Space Coordinate System User space
+
+represents a uniform abstraction of all possible device coordinate systems. The
+
+device space for a particular device might have the same origin and direction as
+
+user space, or it might be different. Regardless, user space coordinates are
+
+automatically transformed into the appropriate device space when a graphic
+
+object is rendered. Often, the underlying platform device drivers are used to
+
+perform this conversion.
+
+
+
+   See Fred Schwartz, Screen Coordinates, Java Notes (Feb. 6, 2002),
+
+http://www.leepoint.net/notes-java/GUI-lowlevel/graphics/10coord. Mr. Schwartz
+
+explains,
+
+
+
+
+
+
+
+   Java programs use an x,y coordinate system for all their graphic operations.
+
+The x coordinate is the pixel distance from the left. The y coordinate is the
+
+pixel distance from the top.
+
+
+
+
+
+
+
+Note that the Java y coordinate system, like most other computer graphics
+
+systems, is different from the normal math coordinate system where the y
+
+coordinate goes up from the bottom.
+
+
+
+ Id. (emphasis omitted); see also Coordinates, The Java Tutorials,
+
+http://docs.oracle.com/javase/tutorial/2d/overview/coordinate.html (last visited
+
+Feb. 16, 2013). An online Java tutorial states,
+
+
+
+
+
+
+
+   When the default transformation from user space to device space is used, the
+
+origin of user space is the upper-left corner of the component's drawing area.
+
+The x coordinate increases to the right, and the y coordinate increases downward
+
+... .The top-left corner of a window is 0,0. All coordinates are specified using
+
+integers, which is usually sufficient. However, some cases require floating
+
+point or even double precision which are also supported.
+
+
+
+ Id.
+
+
+
+
+
+
+
+
+
+
+
+n47. " Public law" is defined as the:
+
+
+
+
+
+
+
+   definition, regulation, and enforcement of rights in cases where the state is
+
+regarded as the subject of the right or object of the duty ... and the law of
+
+the state, considered in its quasi private personality, i.e., as capable of
+
+holding or exercising rights, or acquiring and dealing with property, in the
+
+character of an individual.
+
+
+
+ Black's Law Dictionary 1106 (5th ed. 1979).
+
+
+
+   In contrast "private law" is defined as law "which is concerned with the
+
+definition, regulation, and enforcement of rights in cases where both [parties]
+
+... are private individuals." Id. at 1076.
+
+
+
+   Typically private law arises as a result of contract, property, and tort law
+
+disputes and results in rights and duties that only bind the parties to the
+
+transaction. The contracts, such as the one formed by a proper Internet "terms
+
+of use" agreement, allows for enormous variation by virtue of publicly enforced
+
+private law created by such a contract.
+
+
+
+
+
+
+
+
+
+
+
+n48.  See Restatement (Second) of Contracts § 12 (1981). The Restatement
+
+explains,
+
+
+
+
+
+
+
+   (1) No one can be bound by contract who has not legal capacity to incur at
+
+least voidable contractual duties. Capacity to contract may be partial and its
+
+existence in respect of a particular transaction may depend upon the nature of
+
+the transaction or upon other circumstances.
+
+
+
+
+
+
+
+(2) A natural person who manifests assent to a transaction has full legal
+
+capacity to incur contractual duties thereby unless he is
+
+
+
+
+
+
+
+(a) under guardianship, or
+
+
+
+
+
+
+
+(b) an infant, or
+
+
+
+
+
+
+
+(c) mentally ill or defective, or
+
+
+
+
+
+
+
+(d) intoxicated.
+
+
+
+ Id.
+
+
+
+
+
+
+
+
+
+
+
+n49.  See id. § 18 ("Manifestation of mutual assent to an exchange requires that
+
+each party either make a promise or begin or render a performance.").
+
+
+
+
+
+
+
+
+
+
+
+n50.  See id. § 71(1) ("To constitute consideration, a performance or a return
+
+promise must be bargained for.").
+
+
+
+
+
+
+
+
+
+
+
+n51.  See ProCD, Inc. v. Zeidenberg, 86 F.3d 1447, 1449 (7th Cir. 1996); see
+
+also Hill v. Gateway 2000 Inc., 105 F.3d 1147, 1150 (7th Cir. 1997).
+
+
+
+
+
+
+
+
+
+
+
+n52.  See Sharon K. Sandeen, The Sense and Nonsense of Web Site Terms of Use
+
+Agreements, 26 Hamline L. Rev. 499, 548-49 (2003) (stating that the recipient of
+
+a click-wrap agreement could manifest assent by clicking on an "I agree" icon,
+
+whereas the manifestation of assent to a browse-wrap agreement can only be
+
+inferred from inaction, and is thus unenforceable due to lack of assent).
+
+
+
+
+
+
+
+
+
+
+
+n53.  Restatement (Second) of Contracts § 21.
+
+
+
+
+
+
+
+
+
+
+
+n54.  See id. § 33. The Restatement indicates,
+
+
+
+
+
+
+
+   (1) Even though a manifestation of intention is intended to be understood as
+
+an offer, it cannot be accepted so as to form a contract unless the terms of the
+
+contract are reasonably certain.
+
+
+
+
+
+
+
+(2) The terms of a contract are reasonably certain if they provide a basis for
+
+determining the existence of a breach and for giving an appropriate remedy.
+
+
+
+
+
+
+
+(3) The fact that one or more terms of a proposed bargain are left open or
+
+uncertain may show that a manifestation of intention is not intended to be
+
+understood as an offer or as an acceptance.
+
+
+
+ Id.
+
+
+
+
+
+
+
+
+
+
+
+n55.  Black's Law Dictionary defines judicial notice as "the cognizance of
+
+certain facts which [courts] may properly take and act upon without proof,
+
+because they already know them." Black's Law Dictionary 761 (6th ed. 1990).
+
+
+
+
+
+
+
+
+
+
+
+n56.  Packer Corp. v. Utah, 285 U.S. 105, 110 (1932).
+
+
+
+
+
+
+
+
+
+
+
+n57.  499 U.S. 585 (1991).
+
+
+
+
+
+
+
+
+
+
+
+n58.  Id. at 585.
+
+
+
+
+
+
+
+
+
+
+
+n59.  Id. at 594.
+
+
+
+
+
+
+
+
+
+
+
+n60.  Id. at 587 (emphasis omitted).
+
+
+
+
+
+
+
+
+
+
+
+n61.  Id. at 587-88.
+
+
+
+
+
+
+
+
+
+
+
+n62.  A "domain name" is a user-friendly alphanumeric address associated with
+
+one or more computers connected to the Internet used in lieu of a numeric
+
+address for those computers. A numeric address is also known as an IP address.
+
+
+
+
+
+
+
+
+
+
+
+n63.  See Religious Tech. Ctr. v. Netcom On-Line Commc'n. Servs. Inc., 907 F.
+
+Supp. 1361, 1370 n.13 (N.D. Cal. 1995) ("The decentralized network was designed
+
+so that if one link in the chain be closed off, the information will be
+
+dynamically rerouted through another link.").
+
+
+
+
+
+
+
+
+
+
+
+n64.  See Galloway, supra note 29, at 23 ("TCP makes communication on the Web
+
+notably reliable: information is monitored during transport and is re-sent if
+
+lost or corrupted.").
+
+
+
+
+
+
+
+
+
+
+
+n65.  Richard Allan Horning, Has HAL Signed a Contract: The Statute of Frauds in
+
+Cyberspace, 12 Santa Clara Computer & High Tech. L.J. 253, 258 (1996).
+
+
+
+
+
+
+
+
+
+
+
+n66.  For example, the relationship and arrangement of the embedded data in a
+
+particular email file, when compared with other electronic files in a directory
+
+listing, may offer helpful information regarding its authenticity. This data can
+
+be particularly useful when the authenticity of an email is disputed.
+
+
+
+
+
+
+
+
+
+
+
+n67.  See Religious Tech. Ctr., 907 F. Supp. at 1370 (detailing how Internet
+
+communications travel between and among computers).
+
+
+
+
+
+
+
+
+
+
+
+n68.  It should also be noted that there are off-the-shelf software programs
+
+that can quickly retrieve "deleted" files that have not been overwritten.
+
+Additionally, expert technicians can generally recover files that have been
+
+overwritten. See Alexander v. FBI, 188 F.R.D. 111, 116-17 (D.D.C. 1998).
+
+
+
+
+

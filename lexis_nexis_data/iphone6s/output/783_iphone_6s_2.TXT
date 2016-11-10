@@ -1,0 +1,100 @@
+                             783 of 1000 DOCUMENTS
+
+
+
+
+
+                                  Techtree.com
+
+
+
+                        April 8, 2016 Friday 6:30 AM EST
+
+
+
+Apple In Fresh Trouble With New iOS 9 Bug
+
+
+
+BYLINE: Team TechTree
+
+
+
+LENGTH: 222  words
+
+
+
+
+
+The new flaw lets anyone access critical information like photos and contacts on
+
+iPhone 6s and iPhone 6s Plus devices.
+
+
+
+A YouTube video uploaded by the user, videosdebarraquito, has revealed some
+
+serious flaws in the latest iOS 9.3.1 version of Apple. The new bug in the OS
+
+enables anyone to access information like photos and contacts on an iPhone 6s
+
+and iPhone 6s Plus device via bypassing the touch ID and passcode security
+
+mechanisms.
+
+
+
+The video showcases as how one first needs to access Siri by pressing the home
+
+button on the device and giving it the command to search any domain name of an
+
+email service provider with @ as a prefix on Twitter.
+
+
+
+Once the Siri flashes the list of Tweets after the command, one can long press
+
+the email address on a tweet, till the time the pop up appears and then can
+
+select the option of 'Add new contact' to gain access to photos and also to
+
+contacts in the phone by clicking on 'Add to existing contacts.' The hack is
+
+only possible in 6s and 6s Plus devices due to the presence of the 3D touch
+
+option.
+
+
+
+Users, however, can secure their devices from this hack via cutting off Siri's
+
+access to photos in the phone from the Privacy option in the settings menu. The
+
+option of disabling Siri altogether from the device is also on the table, before
+
+Apple comes up with a remedy for this security loophole.
+
+
+
+LOAD-DATE: April 8, 2016
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Web Publication
+
+
+
+
+
+            Copyright 2016 Techtree.com, distributed by Contify.com
+
+                              All Rights Reserved
+
+
+
+
+
