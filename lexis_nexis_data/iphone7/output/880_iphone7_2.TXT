@@ -1,0 +1,75 @@
+
+
+Apple this week released the latest version of its operating system for iPhones,
+iPads and iPod touches. It's called iOS 7, and it's a major upgrade with a
+wildly different look and a slew of new features.
+
+For some owners of an Apple device, they may have encountered a message saying
+to upgrade if they synced their device to iTunes in the last couple of days.
+Then again, many of you probably have not seen that message at all simply
+because I know many don't sync their devices to iTunes as frequently as you
+should, if at all. You'd be surprised how many people I've encountered who have
+said they have never synced their iPhone or iPad to iTunes once. That's a recipe
+for disaster.
+
+Normally, I've advised users that whenever a new operating system comes out for
+anything, whether it be for a mobile device like the iPhone or a new version of
+Windows or Mac OSX for desktop computers, they should think about waiting for
+the bugs to come out before upgrading.
+
+But sooner or later, you're going to have to upgrade to iOS 7 if you're going to
+want to run the latest apps that become available. It won't be long before a new
+application requires it. There's also so many new features and advantages to
+this upgrade that it's a good idea to take the plunge. Plus, it's free.
+
+If you are getting a brand new iPhone 5S or 5C, don't worry, the new operating
+system already is installed on the phone. But for users with older iPhones or
+iPads, it may be time to think about the upgrade. The iOS 7 update is for the
+iPhone 4 and above, iPad 2 and above, the iPad mini, and only the latest version
+of the iPod touch.
+
+There are some steps to consider before updating that everyone should know,
+however, to make your process easy and pain free.
+
+Time   As I said, the leap from iOS 6 to iOS 7 is the biggest in iPhone history.
+There are many changes in the interface design and how certain things are done,
+such as the settings panel and features for the camera. So it's going to take
+some time to get used to it all.
+
+Don't make the upgrade just before you have to do some critical work on your
+iPhone or iPad or before you, say, hop on a plane and know you're going to be
+using it for awhile.
+
+You need to give yourself some time to acclimate to the interface and other
+functions once you update it.
+
+Backup   Most people don't bother to do this, but it's the most critical step.
+Backup everything on your iPhone or iPad before making the upgrade. It's simple
+enough, and should something go awry with updating, all of your content will be
+safe.
+
+After you connect your device to iTunes, sync it. This will ensure that
+everything in your device -- music, movies, books, apps and the settings -- are
+backed up to your computer as well as in the cloud to iCloud.
+
+Before pressing the "Sync" button, make sure you click the "iCloud" box under
+the Back Up section in the center pane of iTunes. When you click "Sync," it will
+save all of your settings to the cloud. Then if you click the "This Computer"
+box and sync it again or click the "Back Up Now" button to the right, you will
+save all of your content to your computer.
+
+Update   There are two ways to update your iPhone or iPad: You can download the
+update to your computer and then sync the device, or you can update it over the
+air via WiFi straight to the device. In either case, make sure your device is
+fully charged so it doesn't die in the middle of upgrading.
+
+Either method is fine to do, but anecdotally I've heard more problems in the
+past associated with updating wirelessly and that it has usually been more
+trouble free to download it to your computer and sync it through iTunes. So far,
+however, I haven't heard that updating this particular version one way was
+riskier than the other.
+
+If you have a tech question for Vince, email him at ohmytech@sltrib.com, and
+he'll try to answer it for his column in The Salt Lake Tribune or on its
+website. For an archive of past columns, go to www.sltrib.com/Topics/ohmytech.
+

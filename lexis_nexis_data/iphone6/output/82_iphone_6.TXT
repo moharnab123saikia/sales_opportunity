@@ -1,640 +1,295 @@
-                              82 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                             July 26, 2013, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending July 26;
-
-Apple iPhone 6 scuttlebutt includes: Ignoring iPhone 5S, canceling iPhone 5,
-
-Killer Patents, plastic
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 2505 words
-
-
-
 
 
 Perhaps the iOSphere is exhausted or suffering a post-adrenaline crash, but some
-
 this week have actually suggested thatconsumers will ignore iPhone 5S, setting
-
 their hopes on the Radically New and Innovative iPhone 6 in 2014.
 
-
-
 Analysts and pundits seem nearly paralyzed with dread at the prospect that
-
 buyers will not be lining up at Apple retail stores to buy the 2013 iPhone. How
-
 could the world have come to such a pass?
 
-
-
 And this despite the promise of still more Killer Features for the Next iPhone,
-
 which were revealed this week thanks to new published Apple patent applications,
-
 although the applications nowhere mention the iPhone 5S or iPhone 6.
 
-
-
 Also this week: surprising, not to say stupid, speculation that once Apple
-
 announces the Next iPhone, including the new Plastic iPhone, it will cancel
-
 iPhone 5; the awesome spectacle of a rumor being born before your eyes and then
-
 strangled; and new iPhone 6 fan art that finally reveals a use for flexible
-
 displays.
-
-
 
 You read it here second.
 
-
-
 __________"The consumer reaction to iPhone 5S is, of course, unknowable at this
-
 point, but we worry this could be the first iPhone launch that doesn't generate
-
 lines on launch day."~ Chris Caso, Susquehanna Financial Group, and Chief iPhone
-
 Worrier, who fears that having sold millions of innovative iPhones ever year
-
 since 2007, Apple will succeed finally in launching one that consumers don't
-
 care about.__________ iPhone 5S will be greeted without the usual lines of
-
 buyers outside stores If an iPhone is announced and no one lines up to buy it,
-
 is it really an iPhone?
 
-
-
 "Call it blasphemy, but Apple's next-generation smartphone could be the first
-
 iPhone model to debut without the usual lines of buyers outside stores on launch
-
 day," declares Patrick Seitz in a post at Investors.com.
-
 http://news.investors.com/technology-click/072513-665112-apple-customers-might-w
-
 ait-for-iphone-6-to-upgrade.htm [IPHONEYS: The iPhone 6 & iPhone 5S edition] And
-
 it's not just his opinion. There's a stock analyst, Chris Caso, of Susquehanna
-
 Financial Group, who share his opinion.
-
-
 
 In fact, Caso seems deeply, deeply worried.
 
-
-
 "The consumer reaction to iPhone 5S is, of course, unknowable at this point, but
-
 we worry this could be the first iPhone launch that doesn't generate lines on
-
 launch day," Caso wrote in a Note To Investors this week.
 
-
-
 That's because they'll be so disappointed in the 5S that they'll decide to wait
-
 until the Majorly Upgraded iPhone 6 is released in 2014.
 
-
-
 "The iPhone 5S is expected to be an incremental release, with the same look as
-
 the current iPhone 5 but with new components and features," according to Seitz,
-
 who shows just how conventional Conventional Wisdom really is. "The most talked
-
 about potential feature is a fingerprint-reader for security and perhaps mobile
-
 payments."
 
-
-
 Frankly, The Rollup is quivering...just quivering...with anticipation over this
-
 most-talked-about fingerprint reader. If that doesn't spell "breakthrough killer
-
 awesome magical feature" what does?
 
-
-
 "Apple's next major update won't be until the iPhone 6, which could ship in
-
 early 2014, Caso says. That phone is likely to feature a bigger display to
-
 compete with handsets from Samsung, HTC and others that have 5-inch screens."
-
 That makes perfect sense. The world's best selling smartphone model needs to
-
 compete with all those other models that are each selling fewer units than Apple
-
 is.
 
-
-
 According to Seitz' post, Caso believes that the "most compelling" iPhone
-
 feature that Apple could offer is a larger screen.
 
-
-
 "My thesis is that it comes next year, earlier in the year rather than later in
-
 the year," Caso says. "And that's the real reason to own Apple stock."
 
-
-
 The Rollup's thesis is that we are fortunate that Caso isn't designing Apple's
-
 iPhones.
 
-
-
 Caso is something of an Industry Worrier. In December 2012, he infected
-
 BusinessInsider's Jay Yarrow with worries about sales of the iPhone 5. Yarrow
-
 sounded close to despair in his post. "Apple's stock is down today, and the
-
 reason seems to be another brutal report about the state of iPhone demand," he
-
 began.
 
-
-
 "But there's something about Caso's report that's stronger than the other
-
 reports we've read," he continues. "Maybe it's that he's more through and
-
 convincing. Whatever the case may be, it sounds really bad for Apple."
-
-
 
 Really bad. Really, really bad for Apple.
 
-
-
 "From our perspective, the difference seems to be that Caso isn't alone in his
-
 call. Lots of analysts are worried about iPhone 5 production and demand."
-
-
 
 Lots of analysts. Lots and lots of them.
 
-
-
 Caso's report then was especially worrying to Yarrow because it was different.
-
 The difference is, first, that it's stronger than the other reports and, second,
-
 because it's...uh, just like the other reports.
 
-
-
 The only problem with this worry is that it was, and is, completely unfounded.
-
 Because people, who aren't analysts and bloggers, have been buying iPhones in
-
 very large numbers.
 
-
-
 The iPhone 5, announced in September 2012, was widely and wildly trashed by
-
 bloggers, tech sites, analysts for looking so much like the iPhone 4S and
-
 lacking stuff like near-field communications and a 5-inch screen and mobile
-
 payments and a quad-core processor. It seemed like everyone was unhappy with
-
 it...except for the millions and millions of people who bought it. And the other
-
 millions who went out and happily bought iPhone models that were one and two
-
 years old - iPhone 4 and iPhone 4S.
 
-
-
 Apple, almost alone of the smartphone makers, seems to have created a product
-
 that people value and trust, less for some shallow idea of "innovation" and more
-
 for its reliability, beauty, quality, and capacity to do the jobs for which
-
 people "hire" it.
 
-
-
 IPhone 4S and iPhone 5 were slammed by media and analysts for lacking
-
 innovation. Yet both of those have gone on to be their best-selling iPhone
-
 models.
 
-
-
 Seitz concludes his post with this: "Apple late Tuesday, however, reported
-
 better-than-expected June-quarter results [and record iPhone sales for Q3], and
-
 shares rose 5.1% on Wednesday."
-
-
 
 Doh.
 
-
-
 iPhone 5S, iPhone 6 will have Killer Patented Inventions Here's the clickbait
-
 headline at International Business Times: "3 Likely Killer Features for iPhone
-
 6, iPhone 5S Release Date: Precognitive Battery Use, Smart Call Management &
-
 Dual-Sensor Camera."
 
-
-
 And here's how IBT's Erik Pineda launches his post:  "New patents from Apple,
-
 approved and under processing, gave hints on upcoming power features that both
-
 the iPhone 6 and iPhone 5S will showcase on release date, likely to be
-
 integrated with the recently revamped iOS 7."
-
-
 
 Of course, these patents, like all the others, do no such thing.
 
-
-
 Pineda, as is typical for IBT, grabs his information from an AppleInsider post
-
 by Mikey Campbell. Pineda finally mentions that website but doesn't link to
-
 Campbell's post or, as Campbell does, to the actual patent application.  The
-
 first thing one notices in just glancing at the application is that it was filed
-
 in January 2012. Apple may indeed implement this battery optimization invention
-
 in a future iPhone, but it's not going to be in the 2013 iPhone. Quite apart
-
 from the time and effort required to make any invention reproducible
-
 cost-effectively on a mass scale, each iPhone is in development for years, not
-
 months.
 
-
-
 Campbell gives a straightforward account of the invention described in Apple's
-
 application. "To help reduce power consumption, Apple proposes a system that can
-
 compare the estimated time period a user will spend on their device with battery
-
 reserves, determining whether the device has sufficient power to last for said
-
 period. If the battery does not have sufficient power, the system will adjust
-
 "one or more characteristics" to conserve energy."
 
-
-
 IBT ransacks other recent patent applications and AppleInsider posts in the same
-
 way, noting one invention that lets users "actively engage on social media
-
 activities even in the middle of active call but the conversation must be put on
-
 hold prior to sharing moments captured in images. File sharing is also
-
 possible." OK. We can see how that works: talking on your phone while
-
 simultaneously updating your Facebook page or tweeting. Somehow.
 
-
-
 Pineda: "Basically, the system allows access of contents in a given handset
-
 during active calls, opening up a gateway for the following: pictures, music,
-
 videos, status updates, upcoming calendar events and location information while
-
 talking...."
-
-
 
 Glad we cleared that up.
 
-
-
 Yet another is an invention "that will employ multiple sensors in capturing
-
 high-quality images with fewer flaws. The invention is described as 'a unique
-
 technology that can interleave imaging data from two or more imaging sensors,
-
 resulting in higher quality photos than a setup with a single sensor.'" Killer
-
 inventions each and every one, for sure. Just don't expect them as features on
-
 the 2013 iPhone.
 
-
-
 iPhone 5S, and "plastic iPhones" release will lead to canceling of the iPhone 5
-
 Breaking with past practice, Apple plans to announce the iPhone 5S along with
-
 its new line of "plastic iPhones" and scrap the iPhone 5, instead of continuing
-
 to offer one version of it at a discount.
 
-
-
 At least that's how MacRumors' Richard Padilla interprets a barflegabbing Google
-
 Translation of a post at Korea's ETNews.com.
 
-
-
 "Apple has been presumed to be discontinuing the iPhone 4 and 4S in order to
-
 make way for an all-Lightning [dock connector] iPhone lineup...," according to
-
 Padilla. The fate of the current iPhone 5 has, however, not been the subject of
-
 much discussion as it has remained unclear whether the new lineup of iPhone 5S
-
 and plastic iPhone would leave room for Apple to continue offering an iPhone 5
-
 model."
 
-
-
 In just two sentences, Padilla presents a mare's nest of casual and confident
-
 assumptions, all largely unexamined in the rest of his post. The reason that
-
 it's not been the subject of, from the rollup can tell, any discussion until now
-
 is that it doesn't make a whole lot of sense.
-
-
 
 The Google Translation of the ETNews post in Korean is here.
 
-
-
 Based on the translation, Padilla writes that "Apple will be discontinuing
-
 production of the iPhone 5 in the fall, instead putting all of its efforts
-
 towards the iPhone 5S and the rumored entry-level plastic iPhone." Presumably
-
 because there's no "room" - whatever that means - for continuing a lower-priced
-
 iPhone 5 if you have those cool low-priced Plastic iPhones that the world's
-
 value-conscious proletariat is so anxiously awaiting.
 
-
-
 Yet, for its current fiscal year, Apple's iPhone sales have been buoyed by
-
 strong (surprisingly strong, to many) sales of iPhone 4 and iPhone 4S,
-
 especially in emerging markets, according to Apple CEO Tim Cook, in the
-
 company's recent third quarter earnings conference call.
 
-
-
 "Apple already sells millions of discounted smartphones, said Michael Levin,
-
 co-founder of Chicago-based Consumer Intelligence Research Partners (CIRP):
-
 They're the iPhone 4 and iPhone 4S," reports Computerworld's Greg Keizer.  CIRP
-
 surveyed 500 U.S. Apple customers in July and found that nearly half of the
-
 iPhones bought between April and June were the older iPhone 4 and iPhone 4S
-
 models. "Together, the two accounted for 48% of all iPhone purchases, with the
-
 remainder going to the flagship iPhone 5," according to Keizer.
 
-
-
 "Eighteen percent of all Apple smartphones sold were the iPhone 4, a 2010
-
 smartphone that Apple and its U.S. carrier partners give away when customers
-
 sign a two-year contract. Almost double that -- 30% -- were iPhone 4S
-
 smartphones, a 2011 model priced at $99 with a contract, half the $199 of the
-
 subsidized iPhone 5."
 
-
-
 As Levin says: "We don't understand the call for a lower-priced iPhone, at least
-
 in the U.S. You can't get lower than zero."
 
-
-
 Quite.
-
-
 
 MacRumors' Padilla recounts that the ETNews post "claims that the in-cell
-
 technology used on the iPhone 5's touchscreen is 'not suitable for low-volume
-
 production,' contributing to Apple's decision to stop production on the phone
-
 and focus all of its efforts toward producing parts for newer products."
 
-
-
 We're not sure what ETNews or Padilla mean by "low-volume" production, but based
-
 on this past year's success of the iPhone 4 and 4S, Apple could confidently
-
 expect to sell millions more units of iPhone 5, the most popular iPhone model
-
 yet released, in the year following the release of the 2013 iPhone. Even if the
-
 Next iPhone has all the Killer Features that the technorati lust for, it still
-
 wouldn't obsolete the iPhone 5, or even the iPhone 4S.
 
-
-
 The quality of those handsets, and their continuing desirability, is revealed in
-
 the trade-in programs offered by Apple's retail partners: those programs, as
-
 Apple CEO Tim Cook acknowledged in the most recent earnings call, are lucrative
-
 for retailers because the older model iPhones retain so much of their value in
-
 the eyes of buyers.
 
-
-
 Apple began discounting the older iPhone models starting in 2009. In the
-
 Computerworld story, CIRP's Levin says "In October 2012, just before the launch
-
 of the iPhone 5, so-called 'legacy' [iPhone] models accounted for 32% of all
-
 iPhone sales. Since then, the legacy share has reached or neared 50% in
-
 subsequent surveys."   "The legacy iPhones are still quite compelling," Levin
-
 argued.
-
-
 
 Quite.
 
-
-
 iPhone 6 fan art gossip "reveals" foldable form factor "[C]onsumers love to
-
 drool over gossip and today Pritesh Chavan's concept iPhone 6 will surely make
-
 you crazy, if not insane," writes Anuj Bhatia in a post at Gizbot. "The first
-
 and foremost, would you like to buy a 3-in-one Apple device? A good look at the
-
 concept gives you an idea of what the future looks like."
 
-
-
 [Latest Apple iPhone 6 concept design: 3 devices in 1] If there's one thing that
-
 iPhone fan art is good for, it's giving us an idea of what the future looks
-
 like.
 
-
-
 And here it is, the iPhone that looks like a baked falafel sandwich, and folds
-
 out into two additional screen sizes. We knew those flexible screens would
-
 eventually be good for something.
 
-
-
 iPhone 6 or 6/7 is actually the Plastic iPhone Although not rising to the level
-
 of watching a star being created in the Carina Nebula, you can see a rumor being
-
 born from other rumors over at the iMore forums.
 
-
-
 Earlier this month, the French tech site, Nowhereelse.fr, created a stir (as
-
 noted by MacRumors among many others) when it published photos showing what
-
 appeared to be the rear shell of the rumored low-cost plastic iPhone, in a
-
 rainbow of colors.  For one member of iMore's forum, it was like, well, like an
-
 asteroid through the window.
 
-
-
 "It just came to me like an asteroid through a window," wrote boovish, an "iMore
-
 Beginner." "Is it so crazy that this [the plastic phones above] could be the
-
 iPhone 6/7? It would be like the 3G/S but it would come in a whole bunch of
-
 different colors to match iOS 7's Crazy color scheme."
-
-
 
 The idea apparently struck boovish's fellow posters as exactly that: so crazy.
 
-
-
 "That would be a HUGE backwards leap. NO WAY Apple goes this route," replied
-
 rdiddy_25.
-
-
 
 Fausty82 was blunter. "I'm calling BS on this ... just not going to happen."
 
-
-
 Boovish deserves an "A" for effort, though.
 
-
-
 John Cox covers wireless networking and mobile computing for Network
-
 World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: July 29, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

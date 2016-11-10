@@ -1,116 +1,33 @@
-                             322 of 1000 DOCUMENTS
-
-
-
-
-
-
-
-                                  t-break Tech
-
-
-
-                              July 12, 2015 Sunday
-
-
-
-Samsung testing out Snapdragon SoC for its Galaxy S7 handset?
-
-
-
-LENGTH: 290  words
-
-
-
 
 
 Is Samsung patching things up with Qualcomm again?
 
-
-
 By tbreak Staff -
 
-
-
 After severing its partnership with Qualcomm by incorporating its own Exynos
-
 7420 SoC in the Galaxy S6 duo instead of Snapdragon 810, Samsung is finally
-
 looking to patch things up with the leading mobile chipset maker in the world.
-
 According to Etnews, Samsung is said to be testing out a new Qualcomm chipset
-
 that might eventually find its place in the company's Galaxy S7. Earlier, it was
-
 reported that Galaxy S7 would be featuring Samsung's own custom core (just like
-
 Qualcomm Snapdragon 820).
 
-
-
 One of the reasons why we feel that Samsung is making an effort to mend its
-
 relationship with Qualcomm is because the company's upcoming handset, Galaxy S6
-
 Edge Plus will be featuring a Snapdragon 808, along with the company's Galaxy
-
 A8, which is expected to be armed with a Snapdragon 615. As for Galaxy S7, it
-
 cannot be confirmed this early which SoC is going to be assimilated to the
-
 handset, but we have a strong feeling that it is going to be Snapdragon 820.
 
-
-
 Since Snapdragon 820 has been processed on Samsung's own 14 nm FinFET process,
-
 the South Korean tech giant will be feeling fairly confident that the chipset
-
 will not be suffering from some of the overheating issues that Snapdragon 810 is
-
 plagued with. Snapdragon 820 will be running its own custom Kyro cores, which
-
 are expected to be running at a frequency of 3.0 GHz.
 
-
-
 While the processor present inside the SoC has eight cores, it has not yet been
-
 confirmed if all of these cores will possess the exact same frequency.
-
 Currently, Galaxy S7 is still undergoing the testing phase so it looks like we
-
 will find out next year (most likely Q1, 2016) which mobile chipset is running
-
 inside the upcoming flagship smartphone.
-
-
-
-LOAD-DATE: July 13, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-JOURNAL-CODE: 814
-
-
-
-
-
-                          Copyright 2015 TBREAK MEDIA
-
-                        Provided by Syndigate Media Inc.
-
-                              All Rights Reserved
-
-
-
-
 

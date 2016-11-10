@@ -1,100 +1,27 @@
-                              331 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                            April 23, 2014 Wednesday
-
-
-
-US Patent granted to Google Inc (California) on April 22 titled as "Method and
-
-apparatus for encoding anchor frame by encoding features using layers"
-
-
-
-LENGTH: 205  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,705,620 on
-
 April 22, 2014, to Google Inc (California), titled as "Method and apparatus for
-
 encoding anchor frame by encoding features using layers"
 
-
-
 Inventors:  Jia; Wei (San Jose, CA)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "A
-
 system, method, and apparatus for encoding a frame of video having a plurality
-
 of pixels are disclosed. The method includes identifying a plurality of sets of
-
 substantially identical adjacent pixels within the frame and determining a
-
 number of pixels in each set. The method includes assigning the pixels in each
-
 set to one of an enhancement layer or base layer based at least in part on the
-
 number of pixels in that set. The method further includes encoding the pixels
-
 assigned to the base layer using a first encoding technique and encoding the
-
 pixels assigned to the enhancement layer using a second encoding technique."
-
-
 
 The patent was filed on April 28, 2011 Application no. 13/095,975
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: April 24, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

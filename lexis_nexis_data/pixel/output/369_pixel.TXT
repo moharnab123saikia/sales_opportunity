@@ -1,110 +1,32 @@
-                              369 of 997 DOCUMENTS
-
-
-
-
-
-                            The Times of India (TOI)
-
-
-
-                            June 29, 2016 Wednesday
-
-
-
-Google gives 700 trillion-pixels makeover to Maps and Earth apps
-
-
-
-SECTION: TECH NEWS
-
-
-
-LENGTH: 327 words
-
-
-
 
 
 NEW DELHI: Finding Google Maps, Google Earth apps prettier? Yes, the search
-
 giant Google has been working on it and has rolled out sharper and more seamless
-
 imagery to the tools.The update includes photos from Landsat 8 designed by NASA
-
 and the United States Geological Survey and "new processing techniques for
-
 sharper images than ever before." Google claims that it is mining data from
-
 nearly a petabyte of Landsat imagery.
 
-
-
 To put that in perspective, 700 trillion pixels is 7,000 times more pixels than
-
 the estimated number of stars in the Milky Way Galaxy, or 70 times more pixels
-
 than the estimated number of galaxies in the Universe."To produce this new
-
 imagery, we used the same publicly available Earth Engine APIs that scientists
-
 use to do things like track global tree cover, loss, and gain; predict Malaria
-
 outbreaks; and map global surface water over a 30 year period," wrote the
-
 company in a blogpost.According to Google, the satellite images are often
-
 cloudy, but not always over the same place, so the company looked at millions of
-
 images and took the clearest pixels to stitch together a cloud-free and seamless
-
 image.The blog further reveals that the company in its previous mosaic used
-
 imagery from Landsat 7 only, which at the time was the best imagery of its kind.
-
 Unfortunately, Landsat 7 images captured after 2003 were affected by a hardware
-
 failure, resulting in large diagonal gaps of missing data Recently, the Home
-
 Ministry has rejected Google's Street View plan, under which the company plans
-
 to cover India via its SteetView service.Citing security concerns the ministry
-
 said that enabling such image capture techniques led to the planning of 2008
-
 terrorist attacks in Mumbai. The officials further said that the rejection came
-
 after a detailed analysis by the defence and security agencies. The security
-
 agencies believe that allowing Google to cover India may compromise the security
-
 of the country.
 
-
-
 For Reprint Rights: timescontent.com
-
-
-
-LOAD-DATE: June 28, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2016 Bennett Coleman & Co. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

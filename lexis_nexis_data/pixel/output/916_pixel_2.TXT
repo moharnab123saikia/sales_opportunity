@@ -1,102 +1,28 @@
-                              916 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           February 5, 2015 Thursday
-
-
-
-US Patent granted to Google Inc. (California) on February 03 titled as "Methods,
-
-systems, and media for image processing using hierarchical expansion"
-
-
-
-LENGTH: 213  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,948,512, on
-
 February 03, 2015, to Google Inc. (California), titled as "Methods, systems, and
-
 media for image processing using hierarchical expansion"
 
-
-
 Inventors:  Zuczek; Pawel (Wroclaw, PL)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Methods, systems, and media for image processing using hierarchical expansion
-
 are provided. More particularly, the hierarchical expansion can include a merge
-
 expansion and/or a refine expansion. In some embodiments, a method for image
-
 processing, comprising: receiving a plurality of images, wherein each of the
-
 plurality of images has one of a plurality of resolutions; for a first image
-
 from the plurality of images that has a first resolution, determining a first
-
 set of labels corresponding to each pixel of the first image; and for a second
-
 image from the plurality of images that has a second resolution, generating a
-
 second set of labels corresponding to each pixel of the second image based on
-
 the first set of labels."
-
-
 
 The patent was filed on March 15, 2013 Application no. 13/833,654
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: May 3, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2015 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

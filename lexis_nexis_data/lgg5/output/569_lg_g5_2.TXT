@@ -1,270 +1,111 @@
-                              569 of 820 DOCUMENTS
-
-
-
-
-
-
-
-                        Progressive Media - Company News
-
-
-
-                            February 22, 2016 Monday
-
-
-
-MWC 2016: 5 telco take-aways for the mobile industry
-
-
-
-SECTION: NETWORKS; News
-
-
-
-LENGTH: 736 words
-
-
-
-
 
 
 
 HIGHLIGHT: List: New devices and industry initiatives kick off Mobile World
-
 Congress.
 
 
-
-
-
 After much hype from the big players in the mobile industry, Mobile World
-
 Congress (MWC) is currently underway in Barcelona. Along with a huge range of
-
 devices, including smartphones, tablets and wearables, the conference has so far
-
 seen several big partnerships, initiatives and technologies being announced.
 
-
-
 CBR rounds up some of the biggest news from the conference for the telecoms
-
 industry so far.
 
-
-
 The Samsung Galaxy S7 was the big headline-grabber, but several other major
-
 names have unveiled devices. The S7 and S7 edge have restored expandable storage
-
 (absent from the S6), as well as adding wireless charging and VR capabilities.
 
-
-
 Mobile operators in the UK have been quick to offer the devices, with the S7
-
 available from all four of the country's big operators, as well as MVNOs such as
-
 Tesco Mobile.
 
-
-
 LG announced the G5 model, a modular smartphone that allows customers to add
-
 parts to the phone to customise it.
 
-
-
 Sony is continuing its battle to protect its flagging smartphone business with
-
 the launch of the X series devices. These emphasise battery life and the quality
-
 of the camera; a new technology in the latter will boost its ability to lock
-
 onto subjects by predicting their motion.
 
-
-
 HTC unveiled three Desire smartphones, the 530, 630 and 825, as well as a global
-
 variant on the One X9 smartphone.
 
 
 
-
-
-
-
 The names behind this initiative are big: it includes the UK-based Vodafone, as
-
 well as other operators such as Deutsche Telekom, Telstra and Sprint. The GSMA
-
 is spearheading the initiative, with Google participating on the device side.
 
-
-
 This industry aims to provide a globally interoperable messaging service for
-
 Android devices.
 
-
-
 The aim is to transition to a common, universal profile based on the GSMA's RCS
-
 specifications and an Android client provided by Google.
 
-
-
 This alignment on a universal RCS profile will allow mobile operators to deploy
-
 the same implementation, feature set and configuration. Features including group
-
 chat, high-resolution photo-sharing, read receipts will be able to become part
-
 of the operator messaging experience for SMS users.
 
-
-
 Mobile operators will be able to either deploy their own infrastructure or use
-
 Google's Jibe Platform when rolling out the standard.
 
 
 
-
-
-
-
 Cisco, Ericsson and Intel are working together to develop and trial the first
-
 ever 5G router.
 
-
-
 Touted as offering 1 Gbps speeds, the router will combine Cisco and Ericsson's
-
 networking technologies with Intel chips.
 
-
-
 The router targets both business and residential customers and aims to offer
-
 them faster speeds as well as lower latency and the ability to handle an
-
 increasing number of devices.
 
 
 
-
-
-
-
 From Facebook comes the Telecom Infra Project, an initiative focused on
-
 engineering that aims to bring operators, infrastructure providers, system
-
 integrators and other companies together to collaborate on developing new
-
 technologies to deploy telecom network infrastructure.
 
-
-
 The project aims to bring a community of telcos together to deal with the
-
 challenges presented by the growing number of people online.
 
-
-
 The members of TIP will collaborate on design in three key areas: access,
-
 backhaul and core and management. Facebook, Intel and Nokia are contributing an
-
 initial suite of reference designs and Deutsche Telekom and SK Telecom will help
-
 define and deploy the technology.
 
-
-
 This isn't Facebook's first move to turn telcos into partners and customers; it
-
 has also spearheaded an initiative called the Open Compute Project (OCP) in an
-
 attempt to drive open collaboration in data centres, which was part of the
-
 inspiration for the TIP.
 
-
-
 Operators including EE, AT&T, Deutsche Telekom, SK Telecom and Verizon have
-
 signed up.
 
-
-
 Facebook places these initiatives alongside Internet.org, within the wider
-
 context of trying to expand connectivity around the world to boost take-up of
-
 Facebook services.
 
 
 
-
-
-
-
 Also on the expanding connectivity theme, Orange and Google have signed a
-
 strategic partnership that will see them working to increase access to the
-
 mobile internet in areas that are not currently well-served.
 
-
-
 Orange will bring mobile network expertise and technology while Google will
-
 provide know-how in mobile applicatons.
 
-
-
 The customers in the Middle Eastern and African areas of Orange's business will
-
 be able to get a targeted mobile package with a smartphone and bundled voice,
-
 SMS and data services. At launch, it will provide access to YouTube and Google's
-
 search and maps services.
 
-
-
 It is expected to be rolled out from Q2 2016.
-
-
-
-
-
-
-
-LOAD-DATE: February 23, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                 Copyright 2016 Progressive Media Group Limited
-
-                              All Rights Reserved
-
-
 
 
 

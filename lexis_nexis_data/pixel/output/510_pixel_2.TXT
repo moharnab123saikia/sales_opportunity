@@ -1,110 +1,32 @@
-                              510 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           September 4, 2014 Thursday
-
-
-
-US Patent granted to Google Inc (California) on September 2 titled as "Video
-
-compression method"
-
-
-
-LENGTH: 268  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,824,553 on
-
 September 2, 2014, to Google Inc (California), titled as "Video compression
-
 method"
 
-
-
 Inventors:  Ameres; Eric (Cohoes, NY), Bankoski; James (Wynantskill, NY),
-
 Lavarnway; Scott (Chestertown, NY), Xu; Yaowu (Clifton Park, NY), Miller; Dan
-
 (New York, NY), Grange; Adrian (Cambridge, GB), Wilkins; Paul (Cambridge, GB)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "A
-
 method of compressing video data having at least one frame having at least one
-
 block and each block having an array of pixels is provided. The method
-
 transforms the pixels of each block into coefficients and creates an optimal
-
 transmission order of the coefficients. The method also optimizes the speed of
-
 processing compressed video data by partitioning the data bitstream and coding
-
 each partition independently. The method also predicts fractional pixel motion
-
 by selecting an interpolation method for each given plurality or block of pixels
-
 depending upon at least one metric related to each given block and varies the
-
 method from block to block. The method also enhances error recovery for a
-
 current frame using a frame prior to the frame immediately before the current
-
 frame as the only reference frame for lessening quality loss during data
-
 transmission. Enhanced motion vector coding is also provided."
-
-
 
 The patent was filed on November 14, 2003 Application no. 10/713,807
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: September 5, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

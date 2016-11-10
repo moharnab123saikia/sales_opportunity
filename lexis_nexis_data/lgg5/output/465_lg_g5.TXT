@@ -1,138 +1,36 @@
-                              465 of 820 DOCUMENTS
-
-
-
-
-
-
-
-                                  Daily Mirror
-
-
-
-                             August 9, 2016 Tuesday
-
-                                   Edition 1;
-
-                                Northern Ireland
-
-
-
-Bug trouble;
-
-Hackers could take control of 1 billion smartphones
-
-
-
-BYLINE: RUKI SAYID
-
-
-
-SECTION: FEATURES; Pg. 25
-
-
-
-LENGTH: 239 words
-
-
-
 
 
 ALMOST a billion Android phones and tablets could be taken over by hackers after
-
 security flaws were found in their design.
 
-
-
 Big brand models including Sony, Google, LG, HTC and Blackberry are vulnerable
-
 to four major bugs in chips made by US giant Qualcomm.
 
-
-
 If a rogue app was installed on the device it could access all of its data -
-
 including photos, passwords and personal details - and control the camera and
-
 microphone.
 
-
-
 The flaw is in the way the different parts of the phone's electronics "talk" to
-
 each other. It allows a malicious App to behave as if the phone had been
-
 "rooted" - away of bypassing all the security built into Android.
 
-
-
 Israeli specialist Check Point, who discovered the four vulnerabilities, named
-
 the flaw Quadrooter and released a free app to test if a phone or tablet is
-
 safe.
 
-
-
 They revealed the find at a US security meeting after giving chip-maker Qualcomm
-
 time to devise a fix. Head of cyber security Michael Shaulov said: "It's always
-
 a race as to who finds the bug first, the good guys or the bad."
 
-
-
 Brands at risk include Sony (Xperia Z Ultra), HTC (One, One M9 and 10), LG (G4,
-
 G5, and V10, Google Nexus (5X, 6 and 6P), BlackBerry (Priv and Dtek50), Motorola
-
 (Moto X) and OnePlus (One, 2, 3).
-
-
 
 Samsung is only affected in the US.
 
-
-
 Android maker Google said three of the bugs were fixed in its latest security
-
 update, adding: "Our systems help block applications that exploit holes like
-
 these."
 
-
-
 ruki.sayed@mirror.co.uk
-
-
-
-LOAD-DATE: August 9, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-GRAPHIC: AT RISK Nexus 5X
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: DMR
-
-
-
-
-
-                            Copyright 2016 MGN Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

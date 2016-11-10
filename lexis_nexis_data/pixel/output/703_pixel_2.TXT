@@ -1,364 +1,157 @@
-                              703 of 997 DOCUMENTS
-
-
-
-
-
-                            The Times of India (TOI)
-
-
-
-                            August 5, 2015 Wednesday
-
-
-
-Android One (second-generation) review
-
-
-
-BYLINE: Komal Mohan
-
-
-
-SECTION: REVIEWS
-
-
-
-LENGTH: 1104 words
-
-
-
 
 
 NEW DELHI: Google is giving Android One a reboot in the country, with Lava
-
 launching the first of these smartphones. With Lava pixel V1, Google hopes to
-
 ace the budget-smartphone category and reinvigorate its Android One initiative.
 
-
-
 However, in the road to achieve this goal, it has to compete with the existing
-
 rulers of the category - Lenovo K3 Note and Micromax Yu Yureka.
 
-
-
 Does the Lava pixel V1 smartphone achieve what its predecessors failed at? We
-
 try to find out in our review...
-
-
 
 Design
 
-
-
 In terms of design, the second-generation Android One smartphone has received a
-
 major upgrade compared to its predecessors.
 
-
-
 The front is dominated by a 5.5-inch screen with Asahi Dragon Trail Glass
-
 protection and houses an 8MP camera along with the usual sensor array and
-
 speaker grille. The phone does not offer any hardware capacitive keys for
-
 navigation.
 
-
-
 The metallic keys for volume control and power are located at the right edge and
-
 offer good tactile feedback. The 3.5mm headset and micro-USB port jack sit at
-
 the top.
 
-
-
 The removable back comes with a metallic finish and houses the Lava logo in the
-
 middle, there's some Android One branding at the bottom and loudspeaker grille
-
 is placed just below it. The back also features the 13MP rear camera along with
-
 LED flash light.
 
-
-
 Removing the cover reveals the two micro-sim slots (one mini-sim and the other
-
 micro-sim), a microSD card slot and a removable battery.
 
-
-
 The phone, although made of plastic, gives a sturdy and durable feel perhaps
-
 because of the metallic frame. However due to the large screen size, it becomes
-
 difficult to handle it with one hand.
-
-
 
 Display
 
-
-
 The second-generation Android One smartphone features a 5.5-inch HD (720x1280p)
-
 display.
 
-
-
 Although the phone has received an upgrade from the FWVGA(480x854p)IPS display
-
 that was seen in the Android One smartphones, it is still not good enough in
-
 today's competitive budget smartphone market.
 
-
-
 Many new phones, such as Yu Yureka Plus and Lenevo K3 Note, are now offering a
-
 full-HD display in this price range making this one of the major limitations of
-
 the phone.
 
-
-
 The display offers good viewing angles, however, the colour temperature is on
-
 the warmer side and the screen has a pinkish tinge to it. Text and images looked
-
 decent enough but not as sharp as how these look on full-HD displays.
 
-
-
 Though the screen is pretty reflective and slightly prone to smudging, the
-
 smartphone manages to deliver decent sunlight legibility at full brightness.
-
-
 
 Software
 
-
-
 The Lava pixel V1 smartphone comes with stock version of Android Lollipop 5.1.
-
 Just like the previous Android One phones, Google will directly seed software
-
 updates to the phone, which also implies that it will be one of the first
-
 devices to receive a software update when Google turns on the switch.
 
-
-
 The software comes with two pre-loaded apps -- Flipkart and Myntra -- that
-
 cannot be uninstalled.
 
-
-
 The phone comes with all Google apps. We'd specially like to mention the Google
-
 Photos app here that directly integrates your phone's pictures to your Google
-
 account.
-
-
 
 Hardware & performance
 
-
-
 In terms of hardware, Lava pixel V1 smartphone packs a 1.3GHz quad-core Mediatek
-
 MT6582 processor backed by 2GB RAM. This chipset is pretty old as it was
-
 launched in 2013. This is a fallout for the Android One smartphone as
-
 competitors such as Lenovo and Xiaomi offer latest chipsets.
 
-
-
 Another important feature lacking in this phone is 4G connectivity, which is
-
 available in all major budget smartphones today. As telecom operators are now
-
 moving towards rolling out 4G for their users, the absence of 4G might be a
-
 deal-breaker for some.
 
-
-
 The phone offers 32GB of internal storage, of which over 25GB is available to
-
 users. For additional storage, users can install microSD cards of up to 32GB
-
 capacity.
 
-
-
 Coming to the performance, we did not notice any major lag while navigating
-
 through the phone's menu, launching apps and switching between them.
 
-
-
 The phone offers decent gaming performance. We were able to play games like
-
 Subway Minion Rush and Flow Free without encountering frame drops or freezes or
-
 major heating issues.
 
-
-
 The Lava pixel V1 smartphone scored 19,033 in Antutu, 5,321 in Quadrant and 53.8
-
 in Nenamark 2 benchmark tests. We don't endorse benchmark tests and at times
-
 real world performance is very different from benchmark scores.
-
-
 
 It offers Bluetooth, Wi-Fi and GPS connectivity options.
 
-
-
 The second-generation Android One smartphone offers good call quality and signal
-
 reception and we did not encounter problems while making calls even in areas
-
 where cell signal is relatively weaker. It also offers FM Radio. The phone was
-
 able to lock to GPS without any hiccups.
 
-
-
 The sound output through the phone's speaker outlet offered decent sound
-
 quality. We were able to play most popular video and audio file formats on the
-
 phone.
-
-
 
 The phone is backed by a 2,600mAh battery and will last you a complete day.
 
-
-
 You'll be able to make about 2-3 hours of phone calls, play some casual games
-
 and browse the web in this time period. The phone can play video continuously
-
 for 3-4 hours. Your mileage may vary with a different usage pattern.
-
-
 
 Camera
 
-
-
 The second-generation Android One smartphone sports an improved 13MP BSI rear
-
 camera (software enhanced 8MP sensor) with f2.0 aperture, LED flash and an 8MP
-
 BSI front-facing camera (software enhanced 5MP sensor) for selfies.
 
-
-
 The phone's camera app is pretty basic with no granular settings for camera
-
 attributes.
 
-
-
 Most photos we took using the rear camera of the smartphone under direct
-
 sunlight came out pretty well with decent level of detail and colour
-
 reproduction. The camera can also record good quality 1080p videos.
 
-
-
 Low-light and indoor images turned out pretty good but were a little noisy and
-
 smudged.
 
-
-
 The front camera also shoots good quality selfies and is capable of recording
-
 720p videos which were of decent quality.
-
-
 
 Verdict
 
-
-
 With Lava pixel V1, Google has attempted to revolutionize the budget smartphone
-
 market again but has not been able to do so.
 
-
-
 The phone does offer good design, excellent touch response, smooth performance
-
 and decent camera, however at the same time lacks full-HD screen, 4G
-
 connectivity and the latest processor - features that are already available in
-
 various phones in this budget segment. However, users who value stock Android
-
 and priority updates may find this one to be a good option.
 
-
-
 At Rs 11,350 the smartphone fails to compete with Lenovo K3 Note, which is
-
 available at Rs 10,000 and offers better features including display, processor
-
 and camera. YU Yureka Plus also comes with better specifications at a lower
-
 price.
-
-
 
 Follow TOI Tech on Twitter >>>
 
-
-
 Like TOI Tech on Facebook >>>
 
-
-
 For Reprint Rights: timescontent.com
-
-
-
-LOAD-DATE: August 4, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2015 Bennett Coleman & Co. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

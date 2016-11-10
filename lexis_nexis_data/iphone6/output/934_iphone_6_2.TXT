@@ -1,160 +1,51 @@
-                              934 of 999 DOCUMENTS
-
-
-
-
-
-
-
-                             coventrytelegraph.net
-
-
-
-                      August 25, 2016 Thursday 9:54 AM GMT
-
-
-
-Dreaded iPhone 6 'Touch Disease' makes handsets USELESS;
-
-Experts say millions of handsets could potentially be affected
-
-
-
-BYLINE: By James Rodger
-
-
-
-SECTION: WHAT'S ON
-
-
-
-LENGTH: 334 words
-
-
-
 
 
 Two of Apple's signature smartphones, the iPhone 6 and 6 Plus, are suffered from
-
 'Touch Disease'.
 
-
-
 According to repair experts, the bug - which breaks screens - is affecting a
-
 growing number of the smartphones.
 
-
-
 A design flaw in the handsets renders them completely unusable if infected,
-
 according to repair specialist iFixit.
 
-
-
 According to reports, a growing number of customers have been sending their
-
 iPhone 6 handsets in for repair after a grey, flickering bar appeared at the top
-
 of their display.
 
-
-
 Shortly after the appearance of this grey bar, the iPhone's touchscreen has
-
 reportedly become unresponsive, rendering the device useless.
 
-
-
 iFixit claims that the issue can be traced back to a structural design flaw in
-
 the iPhone 6 and 6 Plus - meaning millions of handsets could potentially be
-
 vulnerable.
 
-
-
 Despite this revelation, it currently remains unclear how widespread the problem
-
 is.
 
-
-
 Several users have been left angry by their handset's vulnerability, with many
-
 taking to the Apple website to report the issue.
-
-
 
 Never miss a text message again with this hidden iPhone feature
 
-
-
 There is some respite to be found, say experts, by twisting your handset
-
 slightly and applying pressure to the screen.
 
-
-
 Doing this can make the smartphone work - albeit briefly - but the problem lies
-
 in the iPhone 6 and 6 Plus' logic board, the part of the phone that facilitates
-
 communication between the different elements of the device.
 
-
-
 The Touch IC chip, which controls how the screen responds to touch, connects to
-
 the board through a lot of little solder balls.
-
-
 
 Is your phone dying too quickly? New super-battery may offer a solution
 
-
-
 As the phone is bent and twisted slightly over time these balls crack and lose
-
 contact with the board, resulting in a dead area appearing on the screen.
 
-
-
 As such, there isn't a quick fix for the problem as replacing the screen on your
-
 iPhone 6 or 6 Plus won't solve the issue.
 
-
-
 To fix it, you need to replace the Touch IC on the phone's logic board, a
-
 procedure that Apple reportedly can't do in store.
-
-
-
-LOAD-DATE: August 25, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper; Web Publication
-
-
-
-JOURNAL-CODE: WEBET
-
-
-
-
-
-                         Copyright 2016 Trinity Mirror
-
-                              All Rights Reserved
-
-
-
-
 

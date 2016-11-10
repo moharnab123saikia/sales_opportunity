@@ -1,108 +1,30 @@
-                              253 of 999 DOCUMENTS
-
-
-
-
-
-                                  Stock Watch
-
-
-
-                      August 25, 2016 Thursday 6:30 AM EST
-
-
-
-Gadget repair vendor iFixit reports 'Touch Disease' defect affecting iPhone 6,
-
-iPhone 6 Plus
-
-
-
-BYLINE: Nimisha Sachdev
-
-
-
-LENGTH: 249  words
-
-
-
 
 
 Researchers at gadget repair vendor iFixit has recently drawn attention to a
-
 latent manufacturing defect in Apple's iPhone 6 and iPhone 6 Plus handsets which
-
 causes the displays of the handsets to behave in a number of erratic ways like
-
 flickering and becoming unresponsive.
-
-
 
 The defect has been dubbed by iFixit as 'Touch Disease.'
 
-
-
 Revealing that the 'Touch Disease' latent manufacturing defect causing
-
 display-related issues in iPhone 6 and iPhone 6 Plus handsets can make
-
 "millions" of iPhones potentially vulnerable, iFixit researchers said that the
-
 defect appears to affect iPhone units indiscriminately.
 
-
-
 According to the details shared by iFixit researchers, the 'Touch Disease'
-
 defect appears in iPhone 6 and iPhone 6 Plus handsets without any apparent cause
-
 or forewarning, and it mostly manifests itself in the form of visual artifacts
-
 and skewed sensitivity.
 
-
-
 As a result of the 'Touch Disease' defect, a thin, gray strip fades in and out,
-
 close to the top-most section of the screens of affected devices. The
-
 problematic strip, which is accompanied by annoying non-responsiveness to touch,
-
 eventually makes the touchscreen completely inoperable.
 
-
-
 Explaining the 'Touch Disease' defect in a video, an iFixit spokesman said: "At
-
 first, there may be no defect at all. Later you might notice that the screen is
-
 sometimes unresponsive, but it is quick to come back with a hard reset. As the
-
 crack deepens into a full separation of the chip-board [crack], the periods of
-
 no touch become more frequent."
-
-
-
-LOAD-DATE: August 25, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-          Copyright 2016 Manas Informatics, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

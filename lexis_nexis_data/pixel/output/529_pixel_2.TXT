@@ -1,108 +1,31 @@
-                              529 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                            June 10, 2015 Wednesday
-
-
-
-Google Inc. (California) applies for US Patent titled as "ADAPTIVE ARTIFACT
-
-REMOVAL"
-
-
-
-LENGTH: 223  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has received an application no.
-
 20150154738 for US Patent, published on June 04, 2015, by Google Inc.
-
 (California), titled as "ADAPTIVE ARTIFACT REMOVAL" for the registration of
-
 patent.
 
-
-
 Inventors:  Sinram; Olaf; (Dublin, CA) ; Adams; Jamie; (San Ramon, CA)
-
 Assignee:  Google Inc.
-
 Mountain View
-
 CA
-
 US
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Aspects of the disclosure relate to generating a digital terrain model ("DTM")
-
 from a digital surface model ("DSM"). For example, the DSM may include a
-
 plurality pixels associated with coordinate information and elevation
-
 information, including the elevation of features such as buildings and large
-
 vegetation. Initially, a set of vertices defining a polygon may be identified. A
-
 set of seed pixels, corresponding to points of the DSM of "bare" earth (without
-
 buildings or large vegetation) may also be identified. These may be the same or
-
 different from the set of vertices. An adaptive flood filler algorithm is used
-
 to evaluate the pixels of the polygon starting with the seed pixels. This
-
 process validates or invalidates the state of the pixels. The result is an
-
 approximation of a DTM for the polygon."
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: June 10, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2015 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

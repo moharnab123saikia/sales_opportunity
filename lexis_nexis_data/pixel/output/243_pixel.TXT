@@ -1,125 +1,38 @@
-                              243 of 997 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                           February 22, 2013, Friday
-
-
-
-Google confirms high-end Chromebook Pixel, surprising some;
-
-Premium Chromebook goes on sale in the Play store
-
-
-
-BYLINE: Jon Gold
-
-
-
-LENGTH: 315 words
-
-
-
 
 
 Google's Chromebook Pixel went up for sale on the Play store on Thursday, to the
-
 surprise of some industry observerswho had expressed doubts over earlier rumors
-
 that the device was on the way.
 
-
-
 In sharp contrast to previous Chromebook models, which have placed the emphasis
-
 on keeping costs low, the Pixel is aimed directly at the higher end of the
-
 market, featuring premium components -- and a correspondingly elevated price.
 
-
-
 [ PREVIOUSLY: Leaked Chromebook video raises questions beginning with: Is it
-
 real? ] The centerpiece of the Chromebook Pixel, which was designed in-house by
-
 Google, is the screen. At 12.85 inches, the 2560x1700 resolution gives it a
-
 pixel density of 239 ppi, and it boasts touch-sensitivity as well.
 
-
-
 Internally, the Pixel features a dual-core Intel Core i5 processor, running at
-
 1.8GHz, which implies either an i5-3427U or i5-3337U, according to Intel's
-
 product pages. It also uses Intel's HD 4000 integrated graphics functionality,
-
 and packs 4GB of RAM and either 32GB or 64GB of solid-state storage, depending
-
 on the model.
 
-
-
 Google says the Pixel comes with a free terabyte of Google Drive cloud storage
-
 for three years, as well as 12 free GoGo Inflight Internet sessions for the
-
 traveling user.
 
-
-
 The initially available model -- priced at $1,300 -- is the 32GB with Wi-Fi
-
 connectivity only, but the company says a $1,450, 64GB, LTE-enabled option will
-
 ship within six to seven weeks. (Verizon will provide the latter device with
-
 100MB/month of LTE service for two years.) Initial reaction to the Pixel has
-
 been mixed. ZDNet blogger Howard Lo says it's unlikely to be anything more than
-
 a driver of sales for the comparable Microsoft Surface Pro, but Computerworld's
-
 JR Raphael says that the inclusion of a generous amount of cloud storage could
-
 prove to be an important selling point for the device.
 
-
-
 Email Jon Gold at jgold@nww.com and follow him on Twitter at @NWWJonGold.
-
-
-
-
-
-
-
-
-
-LOAD-DATE: February 25, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
 
 
 

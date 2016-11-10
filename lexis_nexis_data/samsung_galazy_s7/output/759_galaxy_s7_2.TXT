@@ -1,170 +1,56 @@
-                             759 of 1000 DOCUMENTS
-
-
-
-
-
-                         The Straits Times (Singapore)
-
-
-
-                            August 4, 2016 Thursday
-
-
-
-New Note7 scans iris for added security
-
-
-
-BYLINE: Trevor Tan In New York and Lester Hio In Singapore
-
-
-
-SECTION: WORLD
-
-
-
-LENGTH: 477 words
-
-
-
 
 
 Samsung's newly launched flagship Galaxy Note7 phone comes with an iris scanner
-
 for enhanced security, which analysts say will be the next battleground for
-
 handset makers.
 
-
-
 Unveiled on Monday in New York, the 5.7-inch Note7 will be on sale in Singapore
-
 from Aug 20 for $1,168. The successor to the Note5 has skipped a version to
-
 synchronise its name with Samsung's popular Galaxy S7 and S7 edge smartphones.
 
-
-
 Sporting a display that curves down on both sides, the device's enhanced
-
 security features are aimed at consumers who increasingly use their phones for
-
 highly sensitive transactions and for storing classified documents.
 
-
-
 Mr Eugene Goh, Samsung Electronics Singapore vice-president of IT & Mobile, said
-
 that the Note7's strong security features and an enhanced service ecosystem make
-
 it "the ideal device for those who want to achieve more in life".
 
-
-
 For instance, iris scanning is used to unlock the phone and a new Secure Folder
-
 for storing users' confidential documents and apps. It can also be used for
-
 authenticating Samsung Pay transactions at retailers.
 
-
-
 Samsung Pay is the Korean electronics giant's e-wallet service, which allows
-
 users to tap their phone on contactless readers to pay for goods and services.
 
-
-
 Samsung is also working with service providers to let Note7 users access, say,
-
 financial apps by scanning their irises.
 
-
-
 Market research firm IDC's research manager, Ms Kiranjeet Kaur, said that the
-
 Note7's iris scanner helps the phone stand out from its competitors. "It is a
-
 matter of time before other companies, especially China-based handset markers,
-
 start embedding the same technology in their smartphones," she said.
 
-
-
 "But we will have to wait and see if iris recognition is as easy to use as
-
 fingerprint scanning," she added.
 
-
-
 Iris scanning is new for Samsung, although forerunners such as Japan's Fujitsu
-
 and China-based Vivo have already launched smartphones equipped with an iris
-
 scanner.
 
-
-
 Symantec security evangelist Nick Savvides said that iris scanning may be more
-
 convenient to use, but offers similar protection as fingerprint scanning from
-
 casual hackers. However, he points out that the biometric data of the iris
-
 should be stored in a secure enclave to reduce the chances of it falling into
-
 the hands of more sophisticated or well-resourced attackers.
 
-
-
 The new Note7 comes with an S Pen stylus that is twice as sensitive as the Note
-
 5's, making scribbling or drawing closer to a pen-and-paper experience. Working
-
 with the stylus is also possible when the Note7's screen is wet.
 
-
-
 The device is the first Galaxy Note to be dust- and water-resistant and can
-
 withstand water to a depth of 1.5m and up to 30 minutes. Like the S7 and S7
-
 edge, the Note7 sports a 12-megapixel rear camera and 5-megapixel front-facing
-
 camera. It also has 64GB of internal storage, which can be expanded by up to an
-
 additional 256GB using a microSD card.
-
-
-
-LOAD-DATE: August 3, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-GRAPHIC: Mr Justin Denison, Samsung's senior vice-president of product strategy,
-
-talking about the Galaxy Note7's iris recognition technology during the Samsung
-
-Unpacked event in New York.
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                Copyright 2016 Singapore Press Holdings Limited
-
-                              All Rights Reserved
-
-
-
-
 

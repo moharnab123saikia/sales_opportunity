@@ -1,150 +1,54 @@
-                              278 of 999 DOCUMENTS
-
-
-
-
-
-                                Dailybhaskar.com
-
-
-
-                     September 26, 2014 Friday 6:30 AM EST
-
-
-
-iOS 8.0.2 released to take care of issues caused by the previous update
-
-
-
-LENGTH: 356  words
-
-
-
 
 
 A day after Apple pulled a plug on iOS 8.0.1 update which created a few issues
-
 for Iphone 6 and 6 Plus users, Apple has now released the second update to iOS 8
-
 operating system. This iOS 8.0.2 update has been released to resolve issues like
-
 loss of call services and problems with TouchID which were faced by users who
-
 upgraded to the iOS 8.0.1.
 
-
-
 Apple had a day back apologised for the issues caused by the iOS 8.0.1 update,
-
 and suggested a workaround for Iphone 6 and iPhone 6 Plus users to downgrade to
-
 iOS 8.
 
-
-
 This update brings bug fixes and improvements to features which include
-
 Healthkit Apps, third-party keyboards, Photo Library, cellular services, SMS/MMS
-
 messages and others.
-
-
 
 Here is the complete changelog by the company:
 
-
-
 - Fixes an issue in iOS 8.0.1 that impacted cellular network connectivity and
-
 Touch ID on iPhone 6 and iPhone 6 Plus
-
-
 
 - Fixes a bug so HealthKit apps can now be made available on the App Store
 
-
-
 - Addresses an issue where 3rd party keyboards could become deselected when a
-
 user enters their passcode
 
-
-
 - Fixes an issue that prevented some apps from accessing photos from the Photo
-
 Library
 
-
-
 - Improves the reliability of the Reachability feature on iPhone 6 and iPhone 6
-
 Plus
 
-
-
 - Fixes an issue that could cause unexpected cellular data usage when receiving
-
 SMS/MMS messages
-
-
 
 - Better support of Ask To Buy for Family Sharing for In-App Purchases
 
-
-
 - Fixes an issue where ringtones were sometimes not restored from iCloud backups
-
-
 
 - Fixes a bug that prevented uploading photos and videos from Safari
 
-
-
 To download the update, do this:
 
-
-
 The update is available over-the-air and can easily be downloaded. Users of
-
 iPhone 6 and iPhone 6 Plus can go to 'Settings' in the menu and  'General' in
-
 it. There will be an option called Software Update given in it. Opt for it and
-
 download the update.
 
-
-
 Ever since the launch of the iPhone 6 and iPhone 6 Plus, users have been
-
 companing about some of the other issue. Appart from software issues, Apple
-
 users have also complaint about the iPhone 6 Plus bending issues when kept in
-
 pockets. Due to this bendgate issue, Apple has been trolled by other its
-
 competitors as well. You can read about it here.
-
-
-
-LOAD-DATE: September 27, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-          Copyright 2014 I Media Corp Ltd., distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

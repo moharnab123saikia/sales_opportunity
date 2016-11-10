@@ -1,340 +1,144 @@
-                              947 of 997 DOCUMENTS
-
-
-
-
-
-                        The International Herald Tribune
-
-
-
-                           February 9, 2012 Thursday
-
-
-
-3 giants from Androidland enter the phone lists;
-
-State of the Art
-
-
-
-BYLINE: BY DAVID POGUE
-
-
-
-SECTION: FINANCE; Pg. 15
-
-
-
-LENGTH: 1245 words
-
-
 
 ABSTRACT
 
-
-
 The HTC Rezound, the Motorola Razr Maxx and the Samsung Galaxy Nexus are being
-
 offered by the three biggest players in Androidland.
-
-
 
 FULL TEXT
 
-
-
 You know the old geek joke, right? If you don't like the Android phones, just
-
 wait. There will be a new one in a moment.
 
-
-
 Together, the iPhone and phones running the Android software by Google make up
-
 more than 90 percent of the app-phone market. But the philosophies of these two
-
 companies could not be more different.
 
-
-
 Apple designs ''the whole widget,'' as Steven P. Jobs used to say: both the
-
 software and the phone. The result is clean, reliable and consistent, but you
-
 are limited to the features Apple wants to give you. For example, if you want a
-
 4G phone (one that runs on the new, very fast Internet networks in big U.S.
-
 cities), you are out of luck.
 
-
-
 And a new iPhone, accompanied by a major software release, comes out only once a
-
 year, or less often.
 
-
-
 Google, on the other hand, subscribes to the old Microsoft Windows formula:
-
 Write the software, and let other companies build the phones. There are dozens
-
 of Android phones, and they are replaced by newer, better phones every few
-
 months.
 
-
-
 The result is a lot of choice, but also a lot of fragmentation. There is no one
-
 Android phone. Some models can be updated with new Android software, some
-
 cannot. A certain app might or might not run on your phone.
 
-
-
 The three biggest players in Androidland are Samsung, Motorola and HTC. All
-
 three are offering new marquee Android phones.
 
-
-
 By iPhone standards, these phones are big; that is the trend these days. You
-
 could almost fit an entire iPhone into just the screen area of these Androids.
-
 Big is great for maps, movies, photos and Web sites; less good for holding up to
-
 your head on a call.
 
-
-
 All three phones have front and back cameras, Wi-Fi, GPS and Bluetooth. Each can
-
 serve as a portable Wi-Fi hot spot for your laptop, for an added monthly fee
-
 from a service provider.
 
-
-
 The HTC Rezound ($300 with a two-year contract in the United States) comes with
-
 a pair of in-ear headphones from Beats by Dr. Dre. Those, plus matching
-
 software, give music playback extra clarity and bass.
 
-
-
 This thickish phone was the first in the United States with a true
-
 high-definition screen (1280 pixels by 720 pixels; 4.3 inches, or 11
-
 centimeters) - sharper even than the iPhone's Retina screen. Even the
-
 front-facing screen can film 720p high-definition video, which is a rarity. The
-
 rest of the specs are the usual on high-end phones these days: 8-megapixel rear
-
 camera, 10 gigabytes of built-in storage for your apps, and a   memory-card slot
-
 if you need more room (a 16-gigabyte card comes with the phone).
 
-
-
 Then there is the huge Motorola Razr Maxx ($300), whose claim to fame is its
-
 beefy battery. This may be the first 4G phone that gets you through a full day,
-
 and maybe even longer, on a single charge. Yet it is still as thin as an iPhone.
 
-
-
 The screen is not hi-def (it is 960 pixels by 540 pixels), but the storage is
-
 ample: 16 gigabytes inside, plus a 16-gig memory card.
 
-
-
 Motorola continues to think outside the hardware and software boxes: you can buy
-
 a 10-inch or 14-inch laptop for this phone, which becomes the brain and the
-
 storage when you connect it. And the Smart Actions app is pure brilliance: it
-
 lets you set up battery-saving rules like ''dim the screen when the battery gets
-
 low'' or ''turn off GPS if I forget to plug you in at nighttime.'' You can also
-
 set up convenience rules like ''set the ringer to vibrate after 10 p.m.,'' or
-
 ''display my kids' photo as the wallpaper whenever I'm at home.'' It is pretty
-
 wonderful.
 
-
-
 But the Samsung Galaxy Nexus ($300) might be the most interesting phone of the
-
 batch. Not because of the phone itself, though that is fine: 32 gigabytes of
-
 storage (no card slot), fast processor, textured removable plastic back panel to
-
 swap out a battery or memory card easily, 1280-by-720-pixel hi-def screen, so-so
-
 5-megapixel   camera.
 
-
-
 No, the Nexus is significant because it is the first phone to come with Android
-
 4.0, code-named Ice Cream Sandwich, or I.C.S. (Google names its Android versions
-
 after sugary treats.) There is a lot of excitement in this new software.
 
-
-
 One important change is that I.C.S. phones do not have a row of physical
-
 navigation buttons anymore (like Home, Back and Menu); instead, they are images
-
 on the screen. That eats away at the screen space, of course, but they disappear
-
 when you need the room - say, when you are watching movies or taking
-
 photographs. And they rotate with the phone now, too, so they are always
-
 upright.
 
-
-
 The Motorola and HTC phones reviewed here will get upgrades to I.C.S. this year.
-
 Of course, they will then have double sets of navigation buttons.
 
-
-
 A large part of I.C.S. is about playing iPhone catch-up. Now, for example, you
-
 can fire up the camera directly from the Lock screen. There is a Dock at the
-
 bottom of the screen for your most-used apps. You can now perform photo and
-
 video edits right on the phone. The e-mail apps show the first few words of the
-
 message bodies. There is a spelling checker that underlines questionable words.
-
 You can create folders for your apps by dragging one icon atop another.
 
-
-
 The new address-book app collects your friends' information from Twitter,
-
 LinkedIn and Google Plus (though not Facebook, weirdly enough). All of their
-
 photos and news blurbs rest in one handy place, as Microsoft has done with its
-
 phone software.
 
-
-
 The Web browser lets you save Web pages for reading later when you are offline,
-
 offers a stealth mode that leaves no browsing history and lets you request the
-
 full-blown version of a site if a subpar cellphone version is being forced on
-
 you.
 
-
-
 Android's speech recognition is not as accurate as that of Siri on the iPhone,
-
 and it is still just for dictation - it does not take Siri commands like ''Set
-
 my alarm for 8:30.'' But now the words fly onto the screen as you are saying
-
 them; you no longer have to wait until you stop talking for the transcription to
-
 appear.
 
-
-
 The camera app is a marvel. It offers zero shutter lag, face recognition and
-
 special effects like buggy eyes and background replacement. You can take a still
-
 photo while you are recording video. Best of all, there is a Panorama mode like
-
 the one on Sony cameras. You slowly swing the phone in an arc around you, and
-
 the phone creates a seamless super-wide photo.
 
-
-
 Then there is Face Unlock, which instantly unlocks the phone when the front
-
 camera recognizes you. It is probably sufficient to thwart only the least
-
 motivated bad guys; it is easily fooled by a photo of you, or a blood relative.
 
-
-
 Beam lets you share an app, a video, an address-book card, map directions or a
-
 Web address, just by holding your phone back-to-back with another I.C.S. phone
-
 and then tapping O.K. If it catches on, Beam will be a real hero.
 
-
-
 That is really only the tip of the ice cream sandwich. When the new software
-
 arrives on superphones like the Motorola Razr Maxx, it will be a truly delicious
-
 combination.
 
-
-
 Android still feels disjointed in spots. Why do we still have to use different
-
 apps for Gmail and all other e-mail? And there is no standard connector in a
-
 standard spot, so there is no universe of docks, alarm clocks, car adapters and
-
 so on, as there is with the Apple devices.
 
-
-
 Still, Android is coming on strong; all manufacturers considered, it is
-
 outselling the iPhone. In short, Android's latest push toward power and polish
-
 should thrill almost everyone. The possible exception: anyone whose
-
 three-month-old Android phone is suddenly obsolete.
-
-
-
-LOAD-DATE: February 8, 2012
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                  Copyright 2012 International Herald Tribune
-
-                              All Rights Reserved
-
-
-
-
 

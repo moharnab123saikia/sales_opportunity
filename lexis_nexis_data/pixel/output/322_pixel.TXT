@@ -1,108 +1,32 @@
-                              322 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           February 19, 2015 Thursday
-
-
-
-USPTO Published Patent application of Google Inc titled as "SINGLE PIXEL CAMERA"
-
-
-
-LENGTH: 204  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has received an application no.
-
 20150042834, published on February 12, 2015, by Google Inc, titled as "SINGLE
-
 PIXEL CAMERA" for the registration of patent.
 
-
-
 Inventors:   Miao; Xiaoyu; (Sunnyvale, CA) ; Amirparviz; Babak; (Mountain View,
-
 CA)
 
-
-
 Assignee: Google Inc.
-
 Mountain View
-
 CA
-
 US
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "A
-
 camera system includes a single pixel photo-sensor disposed in or on a substrate
-
 to acquire image data. A micro-lens is adjustably positioned above the single
-
 pixel photo-sensor to focus external scene light onto the single pixel
-
 photo-sensor. An actuator is coupled to the micro-lens to adjust a position of
-
 the micro-lens relative to the single pixel photo-sensor to reposition the
-
 micro-lens to focus the external scene light incident from different angles onto
-
 the single pixel photo-sensor. Readout circuitry is coupled to readout the image
-
 data associated with each of the different angles from the single pixel
-
 photo-sensor."
-
-
 
 The Patent was filed on October 27, 2014 under application No. 20150042834
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: February 19, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2015 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

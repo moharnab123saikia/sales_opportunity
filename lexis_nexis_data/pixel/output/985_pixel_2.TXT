@@ -1,308 +1,129 @@
-                              985 of 997 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                       March 30, 2015 Monday 08:34 AM EST
-
-
-
-Acer Chromebook 15 review: Massive display, with mixed results overall
-
-
-
-BYLINE: Bryan Lunduke
-
-
-
-SECTION: REVIEWS
-
-
-
-LENGTH: 1130  words
-
-
-
 
 
 Click for image
 
-
-
 Over the past few months I've had the opportunity to review two laptops. Both of
-
 them being... rather beefy: the Chromebook Pixel and the Dell M3800. These two
-
 machines are powerhouses - sporting extremely high-resolution screens and
-
 high-end processors - with price tags to match. But then, this past week, the
-
 delivery man dropped off an entirely different category of laptop: the Acer
-
 Chromebook 15.
 
-
-
 The model I have here is the CB5-571-C09S, sporting a 15.6-inch display (with a
-
 1080p resolution), an Intel Celeron CPU (at 1.6GHz), 4GB of RAM, and a 32GB SSD.
-
 All of which costs $350 retail.
 
-
-
 I'm going to come right out and say it - I've had a difficult time figuring out
-
 exactly how I feel about this laptop.
 
-
-
 On the one hand, it has a huge display, the biggest of any Chromebook ever made.
-
 It may not come even close to the resolution of Google's Pixel, which rocks
-
 2560x1700, but the Acer's 15.6-inch screen makes the Pixel's sub-13-inch screen
-
 look tiny by comparison. This is a big freaking laptop screen.
-
-
 
 See also: What it's like living on a Chromebook Pixel, Part 1
 
-
-
 The screen quality, it should be noted, is pretty nice. The viewing angles
-
 aren't quite as good as the Pixel (or the Dell M3800's 4K display), but it's not
-
 bad either. And, considering the massive price difference between the Acer and
-
 those other laptops ($350 for the Acer vs. over $2,000 for the Dell and over
-
 $1,000 for the Pixel), that reduction in quality is actually not as dramatic as
-
 you might expect.
 
-
-
 The guts of the machine (CPU, RAM, and hard drive) are all excellent... for a
-
 $350 machine. If you sit down and compare the specs of this relatively
-
 gargantuan-sized Chromebook against a Pixel, you will be disappointed. But when
-
 you remember that you can buy three of these Acer laptops for the cost of a
-
 single Pixel, things start to look (a lot) more interesting.
 
-
-
 Is the Acer Chromebook 15 a speed demon? No. It isn't exactly decked out with
-
 the latest and greatest i7 processor. But it's no slouch, either. In fact, I
-
 very rarely experienced any sluggishness with this machine. Even with a large
-
 number of tabs open and Google Play Music streaming some tunes in the
-
 background, the entire system was peppy and responsive.
-
-
 
 See also: Dell's Ubuntu-powered M3800 Mobile Workstation is a desktop destroyer
 
-
-
 And, let's be honest, in a Chromebook that's really what you care about: lots of
-
 Chrome tabs, background audio, and playing either a YouTube or Netflix HD video
-
 clip. This little Acer (did I just call this mega-sized laptop "little"?) can
-
 handle all of that without slowing down in the slightest.
 
-
-
 The battery life is pretty solid as well. Acer claims around nine hours of
-
 battery life. I drained the battery (from completely charged down to nothing) in
-
 around eight hours. But that was fairly heavy usage with music playing in the
-
 background the majority of the time (one does want to rock out while reviewing
-
 hardware, after all). Eight hours of battery life on a gigantic 15.6-inch screen
-
 seems really solid to me.
 
-
-
 So, what's the problem? It sounds like I've just described a pretty doggone
-
 great laptop at a super low price. If I stopped right there, purchasing this
-
 Chromebook is a no-brainer.
-
-
 
 But, instead of stopping there, let's talk about the build quality for a minute.
 
-
-
 When I first unpacked the box, and pulled out this large white laptop, I was
-
 struck by something... profound.
-
-
 
 This machine is... profoundly plastic.
 
-
-
 The model I have here is white. Solid white. With a subtle crisscross embossing
-
 patterning covering the entire outside.
 
-
-
 The plastic isn't the fancy kind of plastic, either. It's the kind of plastic
-
 that many of my toys from the 1980's were made with. The kind where, when you
-
 tap on it with your fingernail, it makes that distinct "just tapped on a plastic
-
 toy" sound. In other words: it feels cheap.
 
-
-
 When you open the lid and look at the keyboard, the initial impression is a
-
 positive one. The keyboard is certainly full laptop-sized. Typing on the keys
-
 feels good... for the most part. Typing aggressively on the keyboard - which I
-
 tend to do - results in a sound not unlike banging on a small plastic drum. Or,
-
 if you had an original Nintendo Entertainment System, the sound when you knocked
-
 on the top of it. That "hollow plastic shell" sound. That's the sound that
-
 banging on this keyboard makes. It's not loud, and it's not obnoxious, by any
-
 means. But it sounds cheap.
 
-
-
 That's a weird thing to say in a laptop review, I know. "It sounds cheap when
-
 you tap on it." But it's true. And it's noteworthy. And it begins to make me
-
 realize why this laptop is available at such a cheap price.
 
-
-
 Also... the screen bends. A significant amount. And rather easily. If you open
-
 the laptop (lift the screen up) and put just a small amount of pressure on the
-
 bottom of the bezel around the screen, it bends noticeably. This issue seems to
-
 pertain mostly to the display half. The keyboard half feels far sturdier and
-
 doesn't seem to suffer from any bending or rigidity issues.
 
-
-
 Interestingly, there are two things that do not feel quite as "cheap." The
-
 trackpad (which has a good feel and a distinctive "click" to it when pressed)
-
 and the speakers (which are large, with visible plastic grating covering them,
-
 that produce quite decent sound for this price range of a laptop). Two
-
 components that, often, even expensive laptops don't do well. So big high-five
-
 to the Acer crew there.
 
-
-
 So, to sum up: on the one hand, this laptop sports the largest screen on any
-
 Chromebook and packs enough muscle to stand toe-to-toe with most other
-
 Chromebooks. But, on the other hand, the build quality reminds you that you only
-
 paid a fraction of the price that you would for a "premium laptop."
-
-
 
 Would I recommend this laptop to someone? You know what... yes. Yes, I would.
 
-
-
 If you want a Linux-powered Chromebook with a big freaking screen... this is the
-
 Chromebook for you. I can literally put a Chromebook Pixel in front of the
-
 Acer's screen and it doesn't even come close to blocking the view.
 
-
-
 It's also an incredibly good deal. For $350, I could lug this laptop around with
-
 me and not worry too much about banging it up. I could break one and buy an
-
 identical replacement, and still have save several hundred dollars over buying a
-
 Pixel.
 
-
-
 So, yes. The Acer Chromebook 15 is a good machine with an interesting place in
-
 the market. I'm glad Acer is making it and I can think of some people who would
-
 truly enjoy using it for the price.
 
-
-
 But what would really interest me is if Acer were to come out with a premium
-
 version of this Chromebook. Made with metal instead of plastic. With a beefier
-
 processor and more storage. But still, of course, keeping a huge (for a laptop)
-
 15.6-inch screen, I could see that machine really turning some heads (including
-
 mine). Even if it cost two to three times as much.
-
-
-
-LOAD-DATE: April 14, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                 Copyright 2015 International Data Group, Inc.
-
-                              All Rights Reserved
-
-
-
-
 

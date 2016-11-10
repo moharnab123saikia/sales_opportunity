@@ -1,88 +1,23 @@
-                              318 of 998 DOCUMENTS
-
-
-
-
-
-                                Dailybhaskar.com
-
-
-
-                     September 19, 2014 Friday 6:30 AM EST
-
-
-
-1GB RAM and Qualcomm modem, check the innards of Apple iPhone 6 Plus
-
-
-
-LENGTH: 219  words
-
-
-
 
 
 Apple might have tried its best to be discreet about the hardware components
-
 used in its recently launched Iphone 6 Plus, however it could not keep it under
-
 covers for long. Gadget repair firm iFixit got a unit of Iphone 6 Plus in
-
 Australia and tore it down to reveal what sits inside the biggest-ever iPhone.
-
 The tear down shows that the iPhone 6 Plus includes chips from Qualcomm,
-
 Skyworks Solutions and Avago Technologies, comes with 1GB of RAM instead of the
-
 rumored 2GB RAM, and houses a high capacity 2,915mAh battery.
 
-
-
 The teardown shows that Apple has made noticeable bumps in the battery size by
-
 upping it to a massive 2915 mAh battery, from 1560 mAh battery on iPhone 5S. It
-
 also shows that the iPhone 6 Plus runs on Qualcomm 4G LTE chipset which is
-
 responsible for offering connectivity to 20 LTE bands.
 
-
-
 To ensure smooth and faster operations, it houses M8 motion coprocessor (NXP
-
 LPC18B1UK), Qualcomm WTR1625L RF transceiver chip, NXP 65V10 NSD425 NFC chip,
-
 Skyworks, Avago, Murata339S0228 Wi-Fi Module, Broadcom BCM5976 touchscreen
-
 controller, TriQuint power amplifier module and InvenSense's gyroscope and
-
 accelerometer. Also, the phone comes with SK Hynix's NAND flash memory chip for
-
 inbuilt storage. However what might disappoint some fans expecting better RAM is
-
 the 1GB of RAM provided in iPhone 6 Plus.
-
-
-
-LOAD-DATE: September 19, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-          Copyright 2014 I Media Corp Ltd., distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

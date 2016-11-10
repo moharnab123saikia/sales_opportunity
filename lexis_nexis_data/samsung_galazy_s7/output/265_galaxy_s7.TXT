@@ -1,114 +1,46 @@
-                             265 of 1000 DOCUMENTS
-
-
-
-
-
-
-
-                                  t-break Tech
-
-
-
-                            February 22, 2016 Monday
-
-
-
-Both Galaxy S7 models sport Sony's next-gen camera sensor and custom audio chip
-
-
-
-LENGTH: 395  words
-
-
-
 
 
 By tbreak Staff -
 
-
-
 We have already provided you with a breakdown of the hardware specifications of
-
 Galaxy S7 and Galaxy S7 edge, and its internals are downright impressive. Apart
-
 from the components that deliver stellar performance, there are two components
-
 that you might not have heard about from both devices; it's the camera sensor
-
 and its audio chip. Both Galaxy S7 devices are outfitted with a 12.3MP Sony
-
 IMX260 rear camera sensor, which is definitely a sizable upgrade over IMX240
-
 that were present in both smartphone's predecessors.
 
-
-
 The advantage of having smaller number of megapixels and a very wide fixed
-
 aperture is that more light will be able to enter the lens and be processed by
-
 each pixel, delivering an outstanding and lightning fast image capture in low
-
 and high-light environments. Smartphones have always suffered in low-light
-
 conditions, and it looks like Samsung is dead serious in ending this limitation
-
 once and for all. The second component that we hardly hear people talking about
-
 was the audio chip.
 
-
-
 Lucky CS47L91 Sound is the name on the chip, and while we are not familiar with
-
 the brand, we are confident that since this is a high-end device, it will
-
 deliver impeccable sound quality through the speaker grill present at the bottom
-
 of the smartphone. Samsung claims the CPU is about 30 percent faster and the GPU
-
 is 60 percent faster on the Galaxy S7 compared to the previous models. Battery
-
 capacity has also been increased with the S7 featuring a 3000mAh battery and the
-
 S7 Edge a 3600mAh battery.
 
-
-
 Also new is an always-on screen that can display time, calendar or some built-in
-
 images. Samsung claims that the battery drain is less than 1 percent per hour
-
 with the always-on screen. On the software side, the Edge panel is now wider and
-
 supports third party integration so expect to see widgets for news and sports.
-
 Samsung also supports folders like the iPhone now so you can drag and drop icons
-
 to create folders. A Game launcher is also added that collects all your games in
-
 its section while game tools allow you to disable notifications and buttons
-
 without leaving a game.
 
-
-
 If you want, you can check out our hands-on video with both handsets and tell us
-
 what you thought.
-
-
 
 SamMobile
 
-
-
 http://imgs.syndigate.info/232/814/21/145623215547.jpg
-
-
-
-
 
 
 
@@ -116,43 +48,7 @@ http://imgs.syndigate.info/232/814/2/145623215610.jpg
 
 
 
-
-
-
-
 http://imgs.syndigate.info/232/814/56/145623215627.jpg
-
-
-
-
-
-
-
-LOAD-DATE: February 23, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-JOURNAL-CODE: 814
-
-
-
-
-
-                          Copyright 2016 TBREAK MEDIA
-
-                        Provided by Syndigate Media Inc.
-
-                              All Rights Reserved
-
-
 
 
 

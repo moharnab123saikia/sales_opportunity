@@ -1,298 +1,126 @@
-                              98 of 998 DOCUMENTS
-
-
-
-
-
-                               The Economic Times
-
-
-
-                           November 27, 2014 Thursday
-
-
-
-ET Review: Apple iPhone 6 & 6 Plus
-
-
-
-SECTION: PANACHE
-
-
-
-LENGTH: 1063 words
-
-
-
 
 
 By Hitesh Bhagat
 
-
-
 It's easy to see the iPhone's appeal. Apple was singlehandedly responsible in
-
 shifting the market towards responsive touchscreen phones. They also made app
-
 stores and after market accessories popular, creating multiple new markets along
-
 the way. Each iPhone iteration along the line has seen tremendous success,
-
 despite the odd hiccup or two (remember antenna-gate and the more recent
-
 bendgate)?
-
-
 
 First impressions
 
-
-
 The iPhone has always stood for three key things: a beautiful design, seamlessly
-
 integrated hardware and software and nearly limitless, highquality apps. Much of
-
 the same tradition is carried forward here.
 
-
-
 The phones are completely new from the inside out and both have been designed to
-
 cater to the shift in preference for larger screens. As the quantity of content
-
 we consume has increased, so have screen sizes. The iPhone 4 and 5 series now
-
 look positively tiny in comparison.
 
-
-
 At first glance, you'll notice the more rounded edges of the iPhone 6 and 6
-
 Plus. They both have the exact same design but different screen sizes: 4.7-inch
-
 for the 6 and 5.5-inch for the 6 plus. On the face of it, the iPhone 6 seems to
-
 be logical choice for anyone upgrading from an existing iPhone while the 6 Plus
-
 is designed to attract anyone who's already using a phablet sized device.
 
-
-
 The screen curves lightly at all four edges - to meet the curve of the sides. On
-
 the iPhone 6, it makes the device feel premium. On the 6 Plus, it just feels
-
 slippery because of the larger dimensions. The 6 Plus also seems to have
-
 unnecessarily large bezels and this makes it larger than other phones with
-
 similar screen sizes.
 
-
-
 We feel that the only glaring design flaw is the protruding camera lens at the
-
 back. When placed flat on a surface without a case, the phone will rest on the
-
 lens. It's probably bad for the lens in the long run (despite it being sapphire
-
 glass - you don't a camera lens to be the first thing that makes contact with a
-
 hard surface) and also makes the phone wobble when placed flat. It's almost as
-
 if Apple designed it to be used only with a case.
-
-
 
 Hardware
 
-
-
 Odd as it may seem - the devices do not have identical specifications. The 6
-
 Plus has a larger battery which is understandable given the larger size. But it
-
 also has a higher resolution display (having the same resolution on both would
-
 have made it easier on developers) and a better camera equipped with optical
-
 image stabilisation.
 
-
-
 The rest of the device is all aluminium and the unibody shape now does without
-
 the chamfered edges. Apple never gives out detailed hardware specifications,
-
 insisting that it's the experience that matters more than specs on paper. While
-
 this is true for the most part, this feels like another Apple bastion (after
-
 screen size) that is destined to fall with time. A lot of people buy a device
-
 based solely on specs now.
 
-
-
 Both new iPhones have a 1.4Ghz dual core A8 processor and 1GB RAM. This seems
-
 like a far cry from the 2.5Ghz quad/octa core processors and 3GB RAM that many
-
 of the other flagship phones have. To make up for this, the devices have much
-
 more powerful PowerVR quad core graphics. Needless to say, you'll not be wanting
-
 for performance because the combination of iOS 8 and optimised hardware results
-
 in a very zippy device. The phone blazes through all the software benchmarks.
-
 Specifically browser rendering benchmarks and 3D gaming.
-
-
 
 \xA0
 
-
-
 Software
 
-
-
 Both devices are preloaded with iOS 8, which behaves slightly differently on
-
 both. The first thing you'll notice is that the interface rotates into landscape
-
 view on the 6 Plus. Recognising the larger size of the device/screen, Apple has
-
 also included some tweaks that can help in onehanded use.
 
-
-
 For example, Reachability can bring the top part of the screen down if you can't
-
 reach something. Some of the other native apps (Mail, Calendar) have dual pane
-
 views which can make better use of a larger screen. Apart of these things, iOS 8
-
 will look and feel pretty similar if you're already using it on an older device.
-
-
 
 Display
 
-
-
 The iPhone 6 has a 4.7-inch screen (1334 x 750 pixels) while iPhone 6 Plus has a
-
 5.5-inch screen (1920 x 1080 pixels). Apple also says that both phones have
-
 retina-class displays: roughly 326 pixels per inch (ppi) on the iPhone 6 and 401
-
 ppi on the iPhone 6 Plus. Look carefully and you'll still see individual pixels
-
 on the 6. In comparison, Samsung's Galaxy Note 4 has a 5.7-inch display ( 2560 x
-
 1440 pixels; 515 ppi).
 
-
-
 Having said all that, both iPhones have a very pleasing display - brilliant,
-
 accurate colours, excellent viewing angles and high levels of contrast. The 6
-
 Plus still has the edge because of the higher resolution.
-
-
 
 Camera
 
-
-
 Strong camera performance is expected and the new iPhones will not disappoint.
-
 The 6 Plus in particular has optical image stabilisation which compensates
-
 effectively for camera shake. Apart from this, specs are similar: same sensor
-
 size, same resolution (8MP), phase detection autofocus (being used in
-
 smartphones for the second time - first was on Galaxy S5) and dual tone LED
-
 flash. For video, the primary camera is capable of 1080p video at 60fps while
-
 the front camera can do 720p video at 30fps.
 
-
-
 The slow motion video is quite enticing - rear cameras on both phones can
-
 capture 720p video at 240 frames per second. Try capturing a fire, falling water
-
 or action sports in this mode.
 
-
-
 As expected, daytime photos are stunning from both phones. The 6 Plus has the
-
 obvious edge in low light thanks to OIS. There are very few cameras that can
-
 stand up to the quality that the iPhone 6 Plus offers. Only thing is, we would
-
 have liked to see 4K video recording and more options for exposure adjustment.
-
-
 
 Also see
 
-
-
 The reduced prices of the iPhone 5S have made it a very enticing buy for anyone
-
 who thought it was too expensive earlier. For the iPhone 6, the obvious
-
 competition would be Samsung's Galaxy Alpha. It's available for Rs 38,900 (only
-
 one version, 32GB without memory expansion) and has the same size screen.
 
-
-
 Other flagship 5-inch phones like the HTC One M8, Sony Xperia Z3 and Galaxy S5
-
 also qualify as competition. For the iPhone 6 Plus, we think a worthy competitor
-
 is the Galaxy Note 4. The Note 4 has a better camera overall, a higher
-
 resolution screen, expandable memory, removable battery, a precise
-
 pressure-sensitive stylus and many more features (heart rate monitor, IR
-
 emitter, 4K video recording etc).
 
-
-
 For Reprint Rights: timescontent.com
-
-
-
-LOAD-DATE: November 26, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2014 Bennett Coleman & Co. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

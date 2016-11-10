@@ -1,0 +1,76 @@
+
+
+Apple launched the iPhone 5S & the iPhone 5C amidst huge hype and brouhaha over
+its features and pricing, most of which were already leaked out pretty
+accurately. We bring to you all the information you would need to know about the
+iPhone 5S & iPhone 5C. Apple iPhone 5S Features & Pricing in India
+
+Display & Body
+
+The display on the iPhone 5S remains the same at 4.0 inches with a pixel density
+of 326 ppi. As expected, the design is also the same as the iPhone 5. 64 bit A7
+chip and M7 motion co-processor The iPhone 5S comes with the new A7 chip which
+Apple claims to be the world's first 64 bit desktop-class architecture in a
+smartphone. Apparently Huawei Ascend D Quad launched in Feb 2012 last year also
+boasted of a 64 bit chipset. M7 motion coprocessor gathers data from the
+accelerometer, gyroscope and compass to offload work from the A7 for improved
+power efficiency. Apple has allowed developers' access to the new CoreMotion
+APIs that take advantage of M7, thus allowing them to create better fitness and
+activity apps.
+
+Touch ID - Fingerprint Scanner Built into the home button, Touch ID uses a laser
+cut sapphire crystal, together with the capacitive touch sensor, to take a
+high-resolution image at about 550ppi of your fingerprint. Touch ID will allow
+you to authenticate Appstore purchases and app updates besides providing
+security lock to the iPhone 5S.
+
+8MP iSight Camera with True Tone Flash The iPhone 5S boasts of a new 8MP iSight
+camera, which features a larger f/2.2 aperture and a new, larger sensor with 1.5
+pixels for better sensitivity and low-light performance. The camera has
+capability to shoot 10 frames-per-second in burst mode, and 120
+frames-per-second slow motion video at 720p.
+
+The dual LED Flash, called the True Tone Flash by Apple adjusts colour and
+intensity for over 1,000 combinations to give better images under dark light
+conditions. Colours The new iPhone 5S now comes in three new different colours
+called Gold, Silver and Space Grey. Apple has also introduced new leather covers
+for the device with 6 colours to choose from i.e. beige, black, blue, brown,
+yellow and red.
+
+iOS 7 The iPhone 5S comes with iOS 7, Apple's latest redesigned UI along with
+the option to download the iWorks apps Suite for free which includes iPhoto,
+iMovie, Pages, Numbers and Keynote apps that are otherwise paid for apps.
+
+Availability and Pricing
+
+The iPhone 5S is priced at $199 for 16GB, $299 for 32GB and $399 for 64GB on
+two-year contract in the US, while you can expect it to be priced at around Rs.
+50,000 in India for the 16GB version and upwards for the others.
+
+The iPhone 5S will be available starting Sep 20th in the US, while it is
+expected to be made available in India sometime during mid-November. Apple
+iPhone 5C Features & Pricing in India Body & Design The iPhone 5C comes in a new
+polycarbonate shell design which we feel, resembles the Nokia Lumia 620 a bit.
+
+It's available in five colours viz, blue, green, pink, yellow and white. Other
+Features It sports the same features as the iPhone 5 which include: 4.0 inch
+Retina display
+
+8MP iSight Camera
+
+The A6 chip
+
+iOS 7 The iPhone 5C comes with iOS 7, Apple's latest redesigned UI along with
+the option to download the iWorks apps suite for free which includes iPhoto,
+iMovie, Pages, Numbers and Keynote apps that are otherwise paid apps.
+
+Pricing & Availability
+
+The iPhone 5C is priced at $99 for 16GB and $199 for the 32 GB version, both on
+a two year contract in the US. The iPhone 5C is expected to be priced at around
+Rs. 35,000 in India. While the iPhone 5C will be made available in the US on the
+20th of September, it is expected to arrive in India only by the mid week of
+November. Note: iOS 7 upgrade will be available for the entire Apple devices
+starting from iPhone 4 & iPad 2 from September 18th. But the iWorks apps are
+free only for newly bought devices with iOS7 installed on it.
+

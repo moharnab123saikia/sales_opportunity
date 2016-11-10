@@ -1,400 +1,173 @@
-                              674 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                 Guardian.com.
-
-
-
-                             August 19, 2013 Monday
-
-
-
-Boot up: NSA infractions, retina iPad mini questions, beauty queen's webcam
-
-shock, and more
-
-
-
-BYLINE: Charles Arthurtheguardian.com
-
-
-
-LENGTH: 1301 words
-
-
 
 ABSTRACT
 
-
-
 Charles Arthur: Plus how Twitter upgraded for scale, Googliness and Appliness,
-
 BlackBerry's fundamental failing, and more
-
-
 
 FULL TEXT
 
-
-
 A burst of 10 links for you to chew over, as picked by the Technology team
 
-
-
 NSA broke privacy rules thousands of times per year, audit finds && The
-
 Washington Post
 
-
-
 The National Security Agency has broken privacy rules or overstepped its legal
-
 authority thousands of times each year since Congress granted the agency broad
-
 new powers in 2008, according to an internal audit and other top-secret
-
 documents.
 
-
-
 Most of the infractions involve unauthorized surveillance of Americans or
-
 foreign intelligence targets in the United States, both of which are restricted
-
 by statute and executive order. They range from significant violations of law to
-
 typographical errors that resulted in unintended interception of U.S. e-mails
-
 and telephone calls.
-
-
 
 In case you missed this on Friday. Question is, who watches the watchers?
 
-
-
 Google engineer explains why multi-user isn't enabled for phones, offers hope
-
 for future functionality && Android Police
 
-
-
 "...it is not at all clear how it should work on a phone, specifically with
-
 respect to SMS and phone calls," writes Dan Morrill, Google Engineer and a
-
 regular on the popular /r/Android subreddit. "Suppose you have device sharing
-
 enabled and then a call comes in. Who gets it? Do you punch through to the
-
 current user? Only the owner gets it? If only the owner can answer, does it ring
-
 for the second user? Is it worse to annoy the current user with a ringing phone
-
 they can't answer, or worse for dad to miss a call from his boss because Junior
-
 was playing Angry Birds?"
 
-
-
 (The discussion is on a Reddit AMA.) Pretty clear that phones are more
-
 individual than tablets (where Google has enabled multi-user).
 
-
-
 If the new Nexus 7 can have a Retina-like screen, why can't the iPad mini? &&
-
 iMore
-
-
 
 Rene Ritchie:
 
-
-
 To maintain app compatibility, like the iPad 3 and iPhone 4 before it, Apple
-
 would need to go to @2x (double the horizontal and vertical pixels) to increase
-
 the density
 
-
-
 · The iPad mini is 7.87- x 5.3- x 0.28-inches and weighs 0.69 lbs. It currently
-
 uses the aforementioned 4:3 1024x768 (786,432 pixel), 163ppi screen, and gets 10
-
 hours of battery life.· A theoretical iPad mini Retina would need to stick very
-
 close to those same size, weight, and battery life measures, but bump up the
-
 display to a 4:3 2048x1536 (3,145,728 pixel), 326ppi monster.· The Nexus 7
-
 (2013) is 7.87- x 4.49- x 0.34 and weighs 0.64 lbs. It now uses a 16:10
-
 1920x1200 (2,304,000 pixel), 323ppi screen, and gets 9 hours of battery life -
-
 in airplane mode.
 
-
-
 So the Nexus 7 is a little thicker (though still light thanks to the plastic
-
 back), but more importantly, has only 3/4 of the amount of pixels an iPad mini
-
 Retina would need, and even then at only a fraction (who knows how much?) of the
-
 battery life. In other words, the Nexus 7 (2013) is thicker, has less pixels,
-
 and less battery life than a theoretical iPad mini Retina.
 
-
-
 Engadget's review of the 2013 Nexus 7 confirms that its battery life is shorter
-
 than last year's model. (The battery also has less capacity.)
-
-
 
 Newly crowned Miss Teen USA: I was a victim of cybercrime && TODAY.com
 
-
-
 About four months ago, [Cassidy] Wolf said she was notified through Facebook
-
 that someone had tried to log into her account from another state. She then
-
 received an anonymous e-mail from a stranger saying he was in possession of
-
 photos of her that were taken in her bedroom via the webcam on her computer
-
 after it was hacked. The person tried to extort her in return for ensuring the
-
 photos were not made public. She cannot divulge all the specific details because
-
 the incident is now under federal investigation.
 
-
-
 The FBI has a suspect. Her advice: put a sticker over the computer's webcam when
-
 you're not using it.
-
-
 
 Stack && Mugi Yamamoto
 
-
-
 My diploma project is a compact inkjet printer, which is placed on top of a
-
 paper pile. When printing, "Stack" slowly moves downwards and swallows the pile
-
 until no paper is left. The paper disappears under the printer and exits on top,
-
 where it creates a new pile.
 
-
-
 Thanks to this new way of printing it is possible to remove the paper tray, the
-
 bulkiest element in common printers. This concept allows a very light appearance
-
 and avoids frequent reloading.
-
-
 
 New Tweets per second record, and how && Twitter Blog
 
-
-
 Raffi Krikorian (@raffi), VP, Platform Engineering, on how Twitter learned to
-
 cope with gigantic demand - which meant dumping Ruby On Rails:
 
-
-
 When it came down to it, our Rails servers were only capable of serving 200 -
-
 300 requests / sec / host.
 
-
-
 Twitter's usage is always growing rapidly, and doing the math there, it would
-
 take a lot of machines to keep up with the growth curve.
 
-
-
 At the time, Twitter had experience deploying fairly large scale JVM-based
-
 services - our search engine was written in Java, and our Streaming Api
-
 infrastructure as well as Flock, our social graph system, was written in Scala.
-
 We were enamoured by the level of performance that the JVM gave us. It wasn't
-
 going to be easy to get our performance, reliability, and efficiency goals out
-
 of the Ruby VM, so we embarked on writing code to be run on the JVM instead. We
-
 estimated that rewriting our codebase could get us & 10x performance
-
 improvement, on the same hardware -- and now, today, we push on the order of 10
-
 - 20K requests / sec / host.
 
-
-
 Incidental: successive tweets are no longer incremented by 1. Really fascinating
-
 blogpost about the big and small picture of dealing with huge real-time demand,
-
 and how to retool for it.
-
-
 
 The Meanings of Googliness && Jens O. Meiert
 
-
-
 In case you missed this last week:
 
-
-
 Here's my own interpretation of what it means to be googley. What qualifies me
-
 to give one? Apart from having worked at Google for more than five years, I got
-
 to work with a few extraordinarily googley people who've been at Google for many
-
 more years, some of who paid special attention to teaching their protégés
-
 googliness. In my career at Google I too have then tried to inspire googliness,
-
 mostly by leading by example. Whether I succeeded (my personality can interfere
-
 with my intentions) is on others to judge, but I'll give myself the credit of
-
 working much on it. The idea of googliness made me love Google, and made me love
-
 going to work.
 
-
-
 Qualities cited include "doing the right thing", "striving for excellence",
-
 "doing something nice for others, with no strings attached", and more.
 
-
-
 Should do better for hiring than The Intern, anyway. Though judging by the
-
 comments..
-
-
 
 The Meanings of Appleiness && asymco
 
-
-
 Horace Dediu responds:
 
-
-
 I think I can get away with replying to the Meaning of Googliness with the
-
 following.
-
-
 
 Looks pretty accurate.
 
-
-
 BlackBerry - and Nokia's - fundamental failing && stratechery
-
-
 
 Ben Thompson recalls December 2009:
 
-
-
 Android 2.0 "Eclair" had launched two months previously, and a second app
-
 ecosystem was starting to take root, sealing BlackBerry's fate as a standalone
-
 ecosystem. It wasn't just BlackBerry; Nokia's door to platform independence
-
 closed at the exact same time for the exact same reason: while the history of
-
 software ecosystems is not long, the maximum number of said ecosystems seems to
-
 be about 2, maybe 2.5. This has held true for the desktop, for consoles2, and
-
 now for mobile.
 
-
-
 Quite a sobering thought - that three ecosystems, max, is what you get in any
-
 space. See also what he thinks BlackBerry and Nokia should have done.
-
-
 
 Apple seems to be beefing up hiring in China && WSJ
 
-
-
 Among the more than two hundred openings in China on professional network site
-
 LinkedIn, some of the eye-catching China-based positions include an
-
 environmental affairs program manager, a  security specialist and a store
-
 specialist.
-
-
 
 You can follow Guardian Technology's linkbucket on Pinboard
 
-
-
 To suggest a link, either add it below or tag it with @gdntech on the free
-
 Delicious service.
-
-
-
-LOAD-DATE: August 19, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-   Copyright 2013 Guardian News and Media Limited or its affiliated companies
-
-                              All Rights Reserved
-
-                  Registered in England and Wales. No. 908396
-
-   Registered office: PO Box 68164, Kings Place, 90 York Way, London N1P 2AP
-
-
-
-
 

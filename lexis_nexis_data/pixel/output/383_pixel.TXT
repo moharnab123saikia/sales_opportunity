@@ -1,362 +1,160 @@
-                              383 of 997 DOCUMENTS
-
-
-
-
-
-                       The Financial Express (Bangladesh)
-
-
-
-                           October 5, 2016 Wednesday
-
-
-
-Google Pixel phones and Home speaker take on Siri and Echo
-
-
-
-LENGTH: 1061 words
-
-
 
 DATELINE: Bangladesh
 
 
-
-
-
 Bangladesh, Oct. 5 -- Google has placed a virtual assistant at the heart of its
-
 latest smartphones and first voice-activated speaker.
 
-
-
 The two Pixel handsets are the first mobiles to trigger Google Assistant by
-
 pressing their home buttons, somewhat like Apple's Siri.
 
-
-
 The Home speaker lets the same artificial intelligence tool be controlled
-
 without use of a touchscreen. It rivals Amazon's Echo.
-
-
 
 Google also unveiled new virtual reality kit and a 4K media streamer.
 
-
-
 The Assistant has two key advantages over rival systems:
 
-
-
 #it can hold a conversation, in which one question or command builds on the
-
 last, rather than dealing with each request in isolation
 
-
-
 #it draws on Google's Knowledge Graph database, which links together information
-
 about more 70 billion facts, and has been in use for four years
 
-
-
 However, the US company will have to overcome privacy concerns and convince
-
 users that chatting to a virtual assistant has advantages over using individual
-
 apps.
 
-
-
 Google already offers the Assistant as part of its chat app Allo - but the
-
 software has been installed on only a small minority of phones that support it
-
 as yet.
-
-
 
 SMARTER PHONES
 
-
-
 The decision to brand the phones with the Pixel name, rather than Nexus, marks a
-
 break with the past, and is intended to signify that they were designed in house
-
 rather than by another manufacturer.
 
-
-
 The devices come in two sizes - with either a 5in (12.7cm) or 5.5in (14cm) OLED
-
 (organic light-emitting diode) screen - but otherwise have similar specs.
 
-
-
 Google said the 12.3 megapixel rear camera they share was the best on the market
-
 - basing its claim on an independent test by DxO Labs. And as further
-
 enticement, it is offering unlimited storage for the photos.
 
-
-
 Google also drew attention to the devices' glass-and-aluminium bodies, and
-
 specifically noted they featured a headphone jack - unlike Apple and Motorola's
-
 latest models.
 
-
-
 Unlike most Android phones, the Pixel and Pixel XL will automatically install
-
 operating-system and security updates as soon as they are released.
 
-
-
 But it is their ability to access Assistant as a standalone facility that makes
-
 them unique, at least for now.
 
-
-
 "It goes one step further than tapping on the microphone in the Google Search
-
 app and getting a bunch of responses - it gives a conversational feel to what
-
 you are doing," Google executive Mario Queiroz told the BBC.
 
-
-
 Users can, for example, ask for what films are playing at nearby cinemas, and
-
 then follow up the reply by saying: "We want to bring the kids," to narrow down
-
 the selection.
 
-
-
 "Having a conversation - one where you ask a question and then follow-on
-
 questions - is a much more natural way to interact, and you would think that
-
 would offer a better user experience," said Brian Blau, from the consultancy
-
 Gartner.
 
-
-
 "But we haven't had that type of system offered at the mass market level before,
-
 so it's hard to say how well it actually do."
 
-
-
 The Pixel will start at &#163;599 and the Pixel XL at &#163;719 when they go on
-
 sale on 20 October.
-
-
 
 A month later, Google will launch the Daydream View.
 
-
-
 The virtual reality headset and motion-sensing controller make use of Pixel -
-
 and other forthcoming compatible phones - as a display.
 
-
-
 A near-field communication (NFC) chip automatically puts the handset into VR
-
 mode when it is fitted inside.
 
-
-
 But the main advantages the &#163;69 package offers a user over the existing
-
 Google Cardboard headset is a strap to hold it to their head and its
-
 wave-and-click controller.
-
-
 
 Google says it believes smart speakers are about to become a "huge" category.
 
-
-
 But Home enters the market nearly two years behind Echo.
 
-
-
 The wi-fi speaker is activated by the trigger words "OK Google", following
-
 which, owners can use it to:
-
-
 
 #get answers to questions
 
-
-
 #control internet-connected lights and other smart home products
-
-
 
 #play music via Spotify, YouTube Music, Google Play Music and other services
 
-
-
 #set timers and alarms, create shopping lists and get travel updates
 
-
-
 Most of this can already be done on the Echo, which benefits from being able to
-
 tap into additional third-party products as well as Amazon's shopping services.
 
-
-
 But Google highlighted that Home could link up to its Chromecast media-streaming
-
 dongles, including a new higher-resolution 4K model, in addition to TVs and
-
 speakers with built-in Cast support.
 
-
-
 "It gives you an easy way to distribute music throughout your home," said Mr
-
 Queiroz.
-
-
 
 "You can also say, 'Play videos of John Oliver on my TV.'
 
-
-
 "And your TV will power up and launch YouTube and play the clips. You won't have
-
 to reach for a remote and press the microphone button."
-
-
 
 He added that the Assistant would soon be able to control Netflix as well.
 
-
-
 The $129 (&#163;101) device is launching in the US only next month, but is due
-
 to come to the UK next year.
-
-
 
 Unlike most Google services, it will not play ads of its own, at least for now.
 
-
-
 PRIVACY CONCERNS
 
-
-
 Some households might be concerned by the idea of Google gaining a further way
-
 to track their habits.
-
-
 
 But Mr Blau was not convinced Echo offered a better prospect.
 
-
-
 "While Amazon does not do advertising like Google, it does have a large base of
-
 affiliated businesses that get access to the information about what you do and
-
 buy," he said.
 
-
-
 "Anyway, consumers say that they are concerned about privacy but in general they
-
 usually don't act on those concerns."
 
-
-
 It might seem from today's announcements that Google is showing it can become a
-
 hardware company with the kind of control over the entire user experience that
-
 Apple enjoys.
 
-
-
 In fact, the key message coming from Mountain View is about software - and in
-
 particular artificial intelligence.
 
-
-
 Google believes that 17 years of collecting data about its users and the world,
-
 coupled with its growing expertise in machine learning, have given it a lead
-
 over rivals like Amazon, Apple and Microsoft.
 
-
-
 That AI capability is now being showcased in Assistant, the conversational
-
 helper which will be at the heart of its own devices - and those made by its
-
 partners.
 
-
-
 But its Achilles' heel could be customer concerns about privacy. Google may be
-
 smarter about anticipating its users every desire - but many may be cautious
-
 about handing over even more data to a business which already knows so much
-
 about them, according to BBC.
 
-
-
 Published by HT Syndication with permission from The Financial Express. For any
-
 query with respect to this article or any other content requirement, please
-
 contact Editor at htsyndication@hindustantimes.com
-
-
-
-LOAD-DATE: October 5, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                      Copyright 2016 The Financial Express
-
-                              All Rights Reserved
-
-
-
-
 

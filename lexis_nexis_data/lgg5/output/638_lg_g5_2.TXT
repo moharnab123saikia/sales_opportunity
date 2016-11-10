@@ -1,368 +1,151 @@
-                              638 of 820 DOCUMENTS
-
-
-
-
-
-
-
-                                  The Guardian
-
-
-
-                    September 7, 2016 Wednesday 8:10 PM GMT
-
-
-
-Apple reveals waterproof iPhone 7 with new camera... and no headphone jack;
-
-New colours, faster processor and longer battery life for the smaller iPhone 7,
-
-and dual-cameras on the back for the iPhone 7 Plus - but as predicted, the
-
-headphone jack is no moreApple iPhone 7 launch event: key points at a
-
-glanceApple Watch series 2: GPS, waterproofing and faster processingSuper Mario
-
-Run: Nintendo running game to launch with Apple's iPhone 7
-
-
-
-BYLINE: Samuel Gibbs
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 1265 words
-
-
-
 
 
 Apple has unveiled the iPhone 7 and 7 Plus, its next generation smartphones,
-
 which have a similar aluminium look but now waterproof with new insides, new
-
 pressure-sensitive home button, new dual-camera features and no headphone
-
 socket.
 
-
-
 Apple's senior vice president of worldwide marketing, Phil Schiller, took to the
-
 stage at the Bill Graham Civic Auditorium in San Francisco to announce the
-
 smartphone, the first to launch with the company's latest iOS 10 software for
-
 iPhone and iPad with improved notifications and messaging features.
 
-
-
 The biggest change to the new iPhone, however, is the removal of the universal
-
 3.5mm headphone jack, which used to be cut into the bottom of the smartphone and
-
 is common to almost all forms of audio-producing electronics. Instead, Apple
-
 hopes users will embrace the Lightning port, which is commonly used for power
-
 and file transfers, for audio, or wireless headphones such as those made by
-
 Apple's Beats headphones brand.
 
-
-
 Lightning connector headphones and a Lightning-to-analogue adapter will be
-
 included with the new iPhone.
 
-
-
 Schiller said: "Apple EarPods are the most popular headphones in the world. Now
-
 we're moving them to Lightning. Why? Because it provides digital audio, power,
-
 and many other advantages that are simply not possible over an analogue
-
 connection.
 
-
-
 "The analogue headphone jack has been with us for a very long time. But the
-
 reason to move on is courage. The courage to move on and do something new that
-
 betters all of us."
 
-
-
 Apple also announced a new set of its EarPod in-ear buds, this time without the
-
 cable, called AirPods, which it hopes will ease the transition from the
-
 headphones port.
 
-
-
 Bluetooth headphones are widely available in a range of prices and capabilities,
-
 and have become popular in the past two years, but truly wireless in-ear buds
-
 have struggled to overcome the technological constraints of short battery life
-
 and weak connectivity. Several new models released this year from companies such
-
 as Motorola, Bragi and Samsung hope to solve those problems.
 
-
-
 Phil Schiller, senior vice president of worldwide marketing, said: "Up until now
-
 no one has taken on the challenge of fixing the things that are difficult to do
-
 in the wireless experiences so we can all enjoy them. So that's what we're doing
-
 with the Apple AirPods."
 
-
-
 AirPods will cost $170 and be available in late October. Apple's headphone brand
-
 Beats will also release new wireless models.
-
-
 
 Faster A10 Fusion chip
 
-
-
 As with all previous iPhone updates, the iPhone 7 and 7 Plus have faster, more
-
 powerful processors - the Apple A10 Fusion replacing the A9 from last year's
-
 iPhone 6S - with the outside of the new smartphones seeing subtle changes in
-
 design.
 
-
-
 The new quad-core A10 Fusion processor will have 120 times the performance of
-
 the original iPhone and Apple says it will also extend battery life through
-
 improved power efficiencies.
 
-
-
 Apple estimates that the iPhone 7 will deliver, on average, two more hours of
-
 battery life than the iPhone 6S.
 
-
-
 The iPhone 7 comes in a new gloss black colour and has hidden the previously
-
 visible antenna lines on the back marking a couple of small visual tweaks to the
-
 new phones over predecessors. The new iPhone is also now waterproof to IP67
-
 standards, bringing it into line with rivals from Samsung and others.
 
-
-
 The home button has also been tweaked to use a similar pressure-sensitive
-
 technology as Apple's MacBook trackpads and the 3D touch screen of the iPhone
-
 6S, which simulate movement using a small vibrating sensation when pressed
-
 without actually depressing. The new button will allow further gesture control
-
 and could pave the way for the button to be removed entirely in subsequent
-
 version of the smartphone.
 
-
-
 For many, the home button has been one of the weak points of the iPhone,
-
 requiring replacement which has proved tricky due to the fingerprint sensor and
-
 secure chip hidden underneath.
-
-
 
 Plus dual-camera
 
-
-
 The iPhone 7 will also have an improved camera system to keep up with rivals.
-
 The iPhone used to have the best camera in the business, but the iPhone 6S faced
-
 stiff competition from not only Samsung, but HTC, LG and rising star Chinese
-
 firm Huawei.
 
-
-
 The camera now has a faster, larger 12-megapixel sensor, a faster f1.8 lens for
-
 better low-light photography and an enhanced true-tone flash. All versions of
-
 the iPhone will now have optical image stabilisation, not just the larger Plus
-
 models.
 
-
-
 The update will see a new dual-camera fitted to the back of the larger iPhone 7
-
 Plus - one 12-megapixel telephoto lens and one 12-megapixel wide-angle lens -
-
 similar to those fitted to LG's G5. Both Huawei and LG have released smartphones
-
 in the last year using two cameras on the back to varying degrees of success.
 
-
-
 Apple allows optical zoom now up to 2x with both lenses, using digital zoom to
-
 go beyond. A free update will also allow users to blur the background using both
-
 lenses to judge distance and create a bokeh effect, similar to software effects
-
 produced by rivals.
 
-
-
 Schiller said: "On a dSLR you can move lens elements to zoom with a large lens.
-
 But on a phone you can't do that. So we're using two cameras and two lenses to
-
 do the same. The quality of the zoom, even with software zoom, is so much better
-
 than before we decided to push it up to 10x."
 
-
-
 The iPhone 7 will be available in four colours starting on 16 September at $649
-
 for 32GB of storage - increased from last year's 16GB base storage with 128GB
-
 and 256GB options. The iPhone 7 Plus will cost from $769, again with 32GB of
-
 storage. The jet-black models will be 128GB and 256GB variants only.
 
-
-
 Last year's iPhone 6S, 6S Plus and the iPhone SE will be still available, now
-
 starting with 32GB of storage. The iPhone upgrade programme will also be made
-
 available in the UK.
-
-
 
 Tick, tock, tock?
 
-
-
 Until now, Apple's smartphones have had a complete redesign every two years
-
 according to its traditional release schedule, with improved processors and a
-
 few new features every other year making up the "tock" in the cycle. Intel and
-
 others also use the tick, tock product cycle, traditionally displaying improved
-
 battery life on the tick.
 
-
-
 The iPhone 6 was the tick, which means the iPhone 6S was the tock. The iPhone
-
 7's use of the similar industrial design of previous iPhones plus new colours
-
 bucks the trend, meaning the new iPhone could be considered as a second-such
-
 tock. Whether improved specifications and a few new features, some of which will
-
 come to 2015's iPhone 6S through software updates, will be enough to continue to
-
 woo customers remains to be seen.
 
-
-
 "Apple's biggest challenge is how to manage its large install base - the biggest
-
 in the industry - and convince them to replace their smartphones and spend more
-
 on services and in the company's ecosystem," said Francisco Jeronimo IDC's
-
 research director for European mobile devices. "As we approach 80-85% smartphone
-
 penetration, it's no longer about people buying their first smartphone but
-
 attracting customers from rivals."
 
-
-
 In the UK, Apple is fighting a war with chief rival Samsung over the 20% of
-
 users that switch between operating systems. It scored the most switchers with
-
 the iPhone 6, which introduced new screen sizes, but now it must attempt to
-
 convince users to upgrade from previous iPhones.
 
 
-
-
-
      ·    Does Apple really think we're ready to ditch the headphone jack?
-
      ·    The Chinese are coming. Samsung is steady. Apple's iPhone 7 has to
-
           impress
-
      ·    Bose QC35 wireless headphones: simply unrivalled noise cancelling
-
      ·    Marshall Major II Bluetooth headphones: they last for ages and sound
-
           great too
-
-
-
-
-
-LOAD-DATE: September 8, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: WEBGNS
-
-
-
-
-
-  Copyright 2016 The Guardian, a division of Transcontinental Media Group Inc.
-
-                              All Rights Reserved
-
-
-
 
 

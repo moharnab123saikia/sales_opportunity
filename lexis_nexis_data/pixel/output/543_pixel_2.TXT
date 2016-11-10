@@ -1,186 +1,70 @@
-                              543 of 997 DOCUMENTS
-
-
-
-
-
-                               The Economic Times
-
-
-
-                             October 9, 2016 Sunday
-
-
-
-In the AI wars, Google wants to change the world one 'Pixel' at a time
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 701 words
-
-
-
 
 
 By Sreeraman Thiagarajan
 
-
-
 Since Steve Jobs' version of Macintosh the one that was 'the computer for the
-
 rest of us', to today's iPhone7, hardware devices are the strategy and cloud is
-
 a tactic at Apple. They build beautiful, pricey hardware around which a unified,
-
 controlled garden of ecosystem runs on cloud such as iTunes, Music and App store
-
 seamlessly. Google has been the antithesis of this philosophy, for Google cloud
-
 is the strategy and devices are tactics. Their revenues rake in from the likes
-
 of cloud powered products such as Search and YouTube and the devices on which it
-
 runs are a series of tactic, of which, the nitty gritties are mostly handled by
-
 OEMs like Samsung and LG. But, that has all changed for good with the launch of
-
 hardware from the house of Google - Pixel phones and Google Home.
 
-
-
 Sundar Pichai's keynote on October 4 clearly articulated how computing has
-
 evolved from PC to mobile and how it is headed towards being A.I. powered. The
-
 hardware devices launched by Google are the beads of pearl strung together by
-
 their A.I. powered technology running on clouds, which has to learn about every
-
 user, every minute to ambitiously give 'a personal Google for everyone'
-
 experience, which aims to get things done in real life.
 
-
-
 But, it will not function the way Google imagines until they can control the
-
 hardware on which it runs - there is snowflake's chance in furnace for Google
-
 Assistant and ambitious A.I. products like Allo messenger to run on devices
-
 manufactured by competition like Amazon Alexa. If Google has to succeed in
-
 making their A.I. dreams come true, then they do not just have to outgrow the
-
 dependency on third party device makers, but must also have direct play in
-
 hardware to fend off competition and stay alive in what is coming - the A.I.
-
 wars.
 
-
-
 Launching a series of hardware is a tectonic shift in Sundar's Google, a company
-
 who otherwise open up their technology as much as possible for developers and
-
 OEMs to innovate openly and build independently. Their mobile OS Android is an
-
 open source software, their annual developer conference is befittingly called as
-
 I/O, which stand for innovation in the open (nope, not input/output) and for the
-
 last three years at Google I/O conference, Sundar has ended the keynote by
-
 saying, "we are excited to see what you will build"; The potency of that
-
 statement is getting diluted when they build their own hardware. Developers and
-
 press will probably retort to Google next year saying, we are excited to see
-
 what hardware Google will build and launch this year!
 
-
-
 Beside the osmosis of changing tactics into strategy, Google has been constantly
-
 trying to make the search results as infamous as possible by calling them as
-
 'just those blue links'. First they introduced knowledge graph a few years ago,
-
 now the A.I. agenda; all of which to self-disrupt and reinvent a space where
-
 they can be market leader. Subtle taunt is a good way to make planned obsolesce
-
 happen to technology, we all know how it feels to have an iPhone6 when iPhone7
-
 is launched, the same effect is what Google probably wishes for the blue
-
 coloured search results to happen - they want people to move on, try voice
-
 search, and better get habituated with it.
 
-
-
 As of May 2016, they said nearly 20% of search is voice based. Google Home
-
 devices does not even have a display screen to show search results, it is
-
 completely voice controlled and outcome of users inputs are actions like turn on
-
 music, book a table, etc., and not mere listing of information as blue links
-
 that we typically see in a search page. Their video teaser that ran before the
-
 Pixel phone announcement sums it all up pretty well - the ubiquitous horizontal
-
 Google search bar morphs into a portrait screen resembling a smartphone screen.
 
-
-
 Google turned eighteen last month and now have a vision beyond the horizon, an
-
 ambition to power the world with A.I. and are equipped with a range of hardware
-
 devices to do so- we can say surely say they have come of age. Happy birthday
-
 Google! Maybe you will change the world, one Pixel at a time.
 
-
-
 (Sreeraman Thiagarajan is Vice President at Publicis Beehive. Views expressed
-
 are personal. He tweets at @sree_raman )
 
-
-
 For Reprint Rights: timescontent.com
-
-
-
-LOAD-DATE: October 8, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2016 Bennett Coleman & Co. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

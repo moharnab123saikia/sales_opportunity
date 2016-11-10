@@ -1,210 +1,78 @@
-                               14 of 64 DOCUMENTS
-
-
-
-
-
-                          The Globe and Mail (Canada)
-
-
-
-                           December 9, 2015 Wednesday
-
-                                Ontario Edition
-
-
-
-PRODUCT REVIEW;
-
-Pixel C hybrid not quite a laptop - nor a tablet
-
-
-
-BYLINE: SHANE DINGMAN
-
-
-
-SECTION: REPORT ON BUSINESS; Pg. B6
-
-
-
-LENGTH: 680 words
-
-
-
 
 
 Tech . Telecom . Media
 
-
-
 Google's contribution to the growing tablet-laptop hybrid product category is
-
 the Pixel C, a 10-inch Android tablet with a detachable keyboard, an offering
-
 that will face some tough competition in winning over holiday shoppers.
 
-
-
 First unveiled in September, the Pixel C is the successor to previous Nexus
-
 tablets Google manufactured in partnership with the likes of Samsung and LG. The
-
 Pixel Chromebook was the first Google-designed-and-made device, a hugely
-
 expensive showpiece of little utility. The Pixel C is by the same Google team
-
 but is still expensive compared with the iPad Air 2 (its closest competitor in
-
 specs and audience).
 
-
-
 In Canada, the iPad Air 2 64GB is $659. The Pixel C 64GB model is $799, plus an
-
 extra $199 for the keyboard.
 
-
-
 When I compared the tabletlaptop crossovers Apple iPad Pro and Microsoft Surface
-
 Book, I complained mightily about the price points on both devices - which are
-
 far higher than the Pixel. But I also said the key distinction was that
-
 Microsoft makes a better laptop because it's running full Windows 10 with all
-
 the enterprise-level software you need, and iPad is the best tablet with the
-
 best array of consumer software. The Pixel sits somewhere in the middle.
 
-
-
 On the one hand, Pixel has all the Google Now goodness (cards that update you on
-
 how long your daily commute is going to be are both depressing and really
-
 useful) and the second-best array of tablet software. On the other hand, most
-
 Android software is designed for phones and so doesn't always scale beautifully
-
 to tablet.
 
-
-
 The real knock against the Pixel as a device that can compete with a laptop for
-
 serious work is Android's lack of multitasking capability. The latest edition of
-
 iOS allows its tablet users to see two apps at once, while Android keeps the
-
 single-screen app takeover model popularized on mobile phones. You can use
-
 alttab to cycle between open apps, but it's a poor man's version of the Windows
-
 experience.
 
-
-
 The CPU is the powerful Nvidia Tegra X1 with a Maxwell GPU, the same system on a
-
 chip Nvidia uses for its Shield gaming tablet.
 
-
-
 That said, I did feel the Pixel was a little poky in rendering imageheavy
-
 websites. Otherwise, it beats the iPad Air in pixel density and compares well in
-
 terms of processor, and without the keyboard is comparably thin and light.
 
-
-
 This device was designed with the keyboard in mind, but the peripheral has some
-
 flaws. Pixel uses a magnet to connect the keyboard to the screen that, when
-
 closed, makes it looks like a laptop.
 
-
-
 The Pixel's 10.2-inch screen is a diagonal measure, so the width of the keyboard
-
 is actually only 9.5 inches. The shift, tab, enter and apostrophe keys have been
-
 brutally chopped down to make space.
 
-
-
 It has some similarities with the iPad Pro keyboard: It's not backlit and has no
-
 track pad. The lack of a mouse or integrated track pad - something Microsoft
-
 includes on its Surface Touch keyboard and Surface Book - means you're
-
 constantly poking the screen, and wishing for finer controls almost all the
-
 time. The Pixel does beat Apple in one popular feature: Just like on a PC, when
-
 scrolling down a document page you can use the Pixel space bar to jump a page
-
 down.
 
-
-
 The strangest thing about the Pixel is the charging. To keep the keyboard
-
 powered up, you need to close the device for charging.
 
-
-
 You can keep the power cord plugged in while working if you're running out of
-
 battery for the screen, but it won't be charging the keyboard.
 
-
-
 One of the really unfortunate things about the Pixel C is that I can't really
-
 recommend it yet, in part because the first review unit Google gave me died
-
 mysteriously. After setting it up this past weekend, I let it run out of battery
-
 power as a standby test (it lost its charge overnight). Strangely, when I
-
 charged it back up the next day, I couldn't get the Pixel to turn on.
 
-
-
 Despite the impressive engineering effort that went into the Pixel C, it's not
-
 going to replace your work machine. The best user for the Pixel is a Google fan
-
 who wants an Android tablet, and that person is probably not going to bother
-
 plunking down extra for the keyboard.
-
-
-
-LOAD-DATE: December 9, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
- Copyright 2015 The Globe and Mail, a division of CTVglobemedia Publishing Inc.
-
-                              All Rights Reserved
-
-
-
-
 

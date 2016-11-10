@@ -1,158 +1,55 @@
-                              675 of 820 DOCUMENTS
-
-
-
-
-
-                                    Trak.in
-
-
-
-                       August 9, 2016 Tuesday 6:30 AM EST
-
-
-
-QuadRooter Bug Potentially Affecting 900 Mln Android Devices; Security Patches
-
-Coming Soon
-
-
-
-BYLINE: Abhishek Joshi
-
-
-
-LENGTH: 431  words
-
-
-
 
 
 Android is an open operating system, and an open OS is vulnerable to a lot of
-
 attacks. There have been malware attacks and security bugs that have plagued the
-
 Android world and the newest one to join the army is QuadRooter.
 
-
-
 Unlike malwares, QuadRooter is an bug that exists in smartphones running on
-
 Android and housing Qualcomm Snapdragon chipsets. The vulnerable chipsets pose a
-
 threat to 900 million Android devices at the moment, and some of the most
-
 popular, 'secure' and expensive smartphones out there.
 
-
-
 The bug gives full access to the hacker without the need of user permission,
-
 allowing the hacker to do anything with the user's data. The good thing is that
-
 no incidence of attack has been posted on any Android device. This bug was first
-
 notified to Qualcomm in April 2016, since then it has distributed security
-
 patches to all OEMs.
 
-
-
 On this topic, Federal Communications Commission (FCC) and Federal Trade
-
 Commission (FTC) said, "Consumers may be left unprotected, for long periods of
-
 time or even indefinitely, by any delays in patching vulnerabilities once they
-
 are discovered. There are significant delays in delivering patches to actual
-
 devices - and older devices may never be patched."
 
-
-
 Google regularly released security patches every month for its Nexus devices and
-
 other smartphone manufacturers, which should take care of these bugs. Qualcomm
-
 has provided the patches for three out of the four flaws, and has developed the
-
 code for the fourth which it plans to provide to all manufacturers.
-
-
 
 Some of the phones that could be affected are -
 
-
-
      ·    BlackBerry Priv
-
      ·    Blackphone 1 and 2
-
      ·    Google Nexus 5X, 6 and 6P
-
      ·    HTC One M9 and HTC 10
-
      ·    LG G4, G5, and V10
-
      ·    New Moto X by Motorola
-
      ·    OnePlus One, 2 and 3
-
      ·    Samsung Galaxy S7 and S7 Edge
-
      ·    Sony Xperia Z Ultra
 
 
-
-
-
 In fact, the upcoming smartphone BlackBerry DTEK 50, which is also called the
-
 most secure Android phone, will also be vulnerable to this bug. Unfortunately,
-
 the smartphone manufacturers might take some time to release these patches, so a
-
 few phones could be affected by this issue. There is also no security
-
 application that can catch this bug in your smartphone.
 
-
-
 Just as a precaution, make sure you have upgraded to the latest version of
-
 Android and are not indulging in rooting your smartphone right now. FCC and
-
 other regulators have reached out to smartphone manufacturers to pursue them to
-
 release updates soon. Considering hackers already know about this bug, they can
-
 easily manipulate your smartphone and steal data. "QuadRooter Bug Potentially
-
 Affecting 900 Mln Android Devices; Security Patches Coming Soon", 5 out of 5
-
 based on 1 ratings.
-
-
-
-LOAD-DATE: August 9, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-               Copyright 2016 Trak.in, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,104 +1,29 @@
-                              304 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                             May 21, 2014 Wednesday
-
-
-
-US Patent granted to Google Inc (California) on May 20 titled as "Image
-
-downscaling"
-
-
-
-LENGTH: 221  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,731,338 on
-
 May 20, 2014, to Google Inc (California), titled as "Image downscaling"
 
-
-
 Inventors:  Lam; Hin-Chung (Kirkland, WA), Gentilcore; Anthony C. (London, GB),
-
 Kyostila; Sami (London, GB)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "A
-
 machine-implemented method and system for decoding and interpolating the pixel
-
 lines of a source image, the method comprising the steps of: storing the
-
 plurality of decoded pixel lines in a queue, determining whether the queue
-
 contains a sufficient number of decoded pixel lines to perform interpolation
-
 between at least two of the decoded pixel lines, and in a case that it is
-
 determined that the queue contains a sufficient number of decoded pixel lines to
-
 perform interpolation, interpolating at least two of the plurality of decoded
-
 pixel lines in the queue to form one or more scaled pixel lines and deleting one
-
 or more of the decoded pixel lines in the queue by performing a pop operation on
-
 the queue."
-
-
 
 The patent was filed on March 5, 2012 Application no. 13/412,551
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: May 24, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,114 +1,34 @@
-                              376 of 997 DOCUMENTS
-
-
-
-
-
-                              Open Source FOR You
-
-
-
-                               September 27, 2016
-
-
-
-Google could mingle Chrome OS with Android to launch Andromeda in 2017
-
-
-
-BYLINE: Jagmeet Singh
-
-
-
-LENGTH: 301  words
-
-
-
 
 
 Google is reportedly all set to launch Andromeda as a mix of Android and Chrome
-
 OS. The new open source operating system could go live as early as the third
-
 quarter of 2017.
 
-
-
 Android blog Android Police reports that Andromeda will debut on the
-
 next-generation Pixel notebook. Presently codenamed "Bison," the said hardware
-
 is likely to go official as the Pixel 3. This would finally showcase the highly
-
 anticipated efforts by Google's Pixel team in collaboration with Android and
-
 Chrome OS engineers.
 
-
-
 Google recently brought its Play store to Chrome OS to offer a large number of
-
 Android apps directly on Chromebooks. However, that tweak within the web-based
-
 platform didn't influence the masses, and many customers are still opting for a
-
 Windows-running laptop or a macOS-powered MacBook. The search giant is thus
-
 apparently in development to release an entirely new combination that can take
-
 on Windows as well as macOS through its powerpack features.
 
-
-
 It was initially rumoured that Google would completely merge Chrome OS with
-
 Android and develop a unified solution for smartphones and tablets. But
-
 considering the forthcoming event where the search giant is speculated to launch
-
 Pixel phones, that merge would not have a direct presence on smartphones.
 
-
-
 The blog claims that the very first Andromeda device will come as an "ultra-thin
-
 laptop" with a 12.3-inch display and have the latest USB-C ports. Also, the
-
 hardware is expected to be powered by either an Intel m3 or i5 Core processor
-
 with 32GB or 128GB of storage and up to 16GB of RAM.
 
-
-
 Google is yet to reveal details about the development of Andromeda. Meanwhile,
-
 the tech world is anticipating Android 7.1 running Pixel smartphones that are
-
 likely to be unveiled on October 4. That same event would also set the stage for
-
 the new platform development.
-
-
-
-LOAD-DATE: September 27, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Magazine
-
-
-
-
-
-      Copyright 2016 EFY Enterprises Pvt Ltd., distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,280 +1,115 @@
-                              737 of 998 DOCUMENTS
-
-
-
-
-
-                               The Economic Times
-
-
-
-                           September 23, 2016 Friday
-
-
-
-From Google Glass to iPhone 4, five biggest tech blunders
-
-
-
-BYLINE: Karan Bajaj
-
-
-
-SECTION: PANACHE
-
-
-
-LENGTH: 1102 words
-
-
-
 
 
 The exploding Galaxy Note 7 battery might be the latest tech debacle you've
-
 heard of but missteps are common in the consumer technology space. Here is a
-
 look at some such events from recent memory.
-
-
 
 APPLE
 
-
-
 Apple has always had a way with design -their products, be it phones, laptops or
-
 tablets have always been loved for stunning design and performance. However, the
-
 company has not been without its share of missteps when it comes to iPhone. Back
-
 in 2010 when Apple launched its iPhone 4, it was widely reported that when the
-
 phone was held near the antenna band, it lost a significant chunk of signal
-
 reception. Apple acknowledged that there was a problem and announced a fix via
-
 software update.However, the issue persisted even after the fix. Steve Jobs
-
 announced free bumper cases for iPhone 4 customers -using a case solved the
-
 issue of the antenna being blocked. It came to be called antenna-gate.
-
-
 
 iPhone 4 was launched in 2010.
 
-
-
 The second big blunder was with the iPhone 6 and iPhone 6 Plus. Both phones came
-
 with a new all-metal unibody design instead of the metal and glass design that
-
 was used on the iPhone 5s. However, customers complained that both the iPhone 6
-
 and iPhone 6 Plus would bend easily when kept in a pocket or in bags -raising
-
 concerns on the build quality of the phone. While Apple never officially
-
 acknowledged it to be a big issue, the company did offer a free replacement to
-
 users if the handset did appear to be accidently bent. In the next variants -
-
 iPhone 6s and iPhone 6s Plus, Apple improved build quality of the devices by
-
 using strengthened anodized aluminum to build the phone's shell.Bend-gate was
-
 the term handed out this time.
-
-
 
 HOVERBOARDS
 
-
-
 Sub-standard lithium-ion batteries were used in the device which started
-
 resulting in explosions. (Image: AP)
 
-
-
 A hoverboard is the common name given to a self-balancing, battery-powered
-
 scooter.These devices first came into the limelight in China (around 2014)
-
 -within a year, they became the new craze for the urban elite. A number of
-
 Indian companies also imported and launched them in India and many variants were
-
 available at electronics and toy stores for a while. We reviewed one of the
-
 variants -it was a lot of fun to ride it -you just need to bend slightly forward
-
 to make it go forward and bend backwards to slow down or stop. Think of it like
-
 a mini Segway. However, because of the hype and sudden demand, a lot of cheap
-
 knock offs started appearing -these devices failed to meet many safety
-
 requirements and used sub-standard lithium-ion batteries which started resulting
-
 in explosions. As the number of YouTube videos grew -Hoverboards were quickly
-
 deemed to a big fire hazard. Almost all commercial airlines quickly banned
-
 carriage of hoverboards. Interest took a nosedive and the product faded away
-
 slowly. Even the so called `certified' and quality controlled hoverboards have
-
 not caught on.
-
-
 
 GOOGLE
 
-
-
 Just like Apple and Microsoft, Google has had its share of blunders over the
-
 years when it comes to devices. The company raised a lot of interest when it
-
 announced Google Glass and showed off a demo of how interactive it is and how
-
 useful it is in daily life. However, the hype went down the drain when the price
-
 was announced -at US$1,500, the glass was clearly overpriced, bulky, had limited
-
 use and limited battery life. There has been no significant news regarding any
-
 update of the product for a few months now.
-
-
 
 The device was overpriced, bulky and had limited battery life. (Image: Reuters)
 
-
-
 In addition, Nexus smartphones have done well great, but Google also tried its
-
 hand at media players with the Nexus Q. It was announced in 2012 and priced at
-
 US$300 -the idea was that the player will prove to be a one-stop solution for
-
 anyone who wants to use Google's services (Google Play Music, YouTube, Google
-
 Play Movies & TV) on a Television instead of a smartphone. Tech media liked the
-
 device -the spherical design was unique but it lacked features in comparison to
-
 existing media players and had a high price. The device never properly launched
-
 for consumers and those who had pre-ordered it after the announcement got the
-
 device for free. In 2013, Google quietly discontinued the failed product.
 
-
-
 The latest misstep from Google is the modular smartphone project called Project
-
 Ara. The concept of a modular smartphone -where you can replace a particular
-
 component with another to improve performance and capabilities started in 2012.
-
 Google demoed a few prototypes over the years but did not have a fixed date for
-
 a launch. At the Google IO event in 2016, the company showcased a new prototype
-
 of Project Ara called the Developer edition and announced that a consumer launch
-
 of the device will happen in 2017. However, just a short while later, 2
-
 September 2016, Google announced that the project had been discontinued to
-
 streamline the company's hardware strategy -this throws 4 years of work on the
-
 project down the drain.
-
-
 
 HD DVD
 
-
-
 Many of you will not have heard of HD DVD -it was an alternative, high-density
-
 optical drive option that was released about the same time as Blu-Ray discs.
-
 While the formats were announced in 2003, the industry was divided into two
-
 groups: HD DVD vs Blu-Ray . Microsoft and Toshiba went with HD DVD and in 2006
-
 the first HD DVD players and discs appeared for consumers.However, in 2008,
-
 Warner Bros -who had the largest share of the DVD market announced, that they
-
 would no longer support HD DVD. This was followed by Walmart -the largest DVD
-
 retailer in the United States.Finally , NetFlix, which was one of the biggest
-
 online video rental services, also revoked support for the HD DVD format which
-
 essentially led to the victory of the Blu-Ray format in a short two years. One
-
 big reason for the victory of Blu-Ray could be credited to Sony -they chose to
-
 include Blu-Ray drives in the PlayStation 3 console which automatically resulted
-
 in increasing the user base of the Blu-Ray format exponentially compared to HD
-
 DVD.
-
-
 
 MICROSOFT ZUNE
 
-
-
 The iPod digital music player was a gamechanging device that brought Apple back
-
 from bankruptcy . Microsoft wanted to replicate some of that success by
-
 launching a digital music player of their own in 2006. While Apple sold over 100
-
 million iPods in 2008, Microsoft manage to sell 2 million Zune players. Between
-
 2006 to 2011, Microsoft launched four variants of the player but none of them
-
 was able to make any dent on the market. In 2011 Microsoft officially announced
-
 the discontinuation of the Zune device, thanks to what many described as a
-
 spectacular failure against the Apple iPod and other portable music players.
 
-
-
 For Reprint Rights: timescontent.com
-
-
-
-LOAD-DATE: September 22, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2016 Bennett Coleman & Co. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

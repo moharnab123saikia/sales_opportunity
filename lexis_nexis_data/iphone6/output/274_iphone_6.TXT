@@ -1,490 +1,221 @@
-                              274 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                            April 22, 2014, Tuesday
-
-
-
-iPhone 6 rumor rollup for the week ending April 18;
-
-Super Siri, strange price hike, clues in cases and batteries
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1958 words
-
-
-
 
 
 The iOSphere this past week wondered at the prospect of iPhone 6 with a
-
 Supercharged Siri, an all-knowing, all-doingsoftware entity that will manage
-
 your iOS life for you. Eventually, probably in iOS 9, Siri will offer
-
 psychotherapy.
 
-
-
 The Bummer of the Week was a confused, and confusedly reported, rumor that Apple
-
 is negotiating with carriers to raise the iPhone 6 price by $100. Why Apple
-
 would need carrier by-in to price its smartphone was unclear. The rumor resulted
-
 in something rarely seen: cheers for the carriers, who according to the Wall
-
 Street analyst who floated the context-less rumor, were supposedly resisting the
-
 hike.
 
-
-
 Bloggers and tech websites also eagerly sifted through anonymous photos of
-
 third-party phone cases, "specially designed for the iPhone 6," and bigger
-
 batteries that, although they could be for any smartphone, if you think of them
-
 as being for the iPhone 6, show that the iPhone body would have to be larger,
-
 too.
-
-
 
 It's simple really.
 
-
-
 You read it here second.
 
-
-
 iPhone 6 will have "supercharged" Siri This is less a rumor than a hope. It's
-
 based on listing the various ways in which Apple's Siri voice assistant lacks
-
 certain features found in rivals, such as Google Now and Microsoft's
-
 just-announced Cortana, and looking at some Apple acquisitions.
 
-
-
 Neither technique really guarantees what we'll see in Siri with the next release
-
 of iOS.
 
-
-
 This latest comparison is a Slashgear post by Chris Davies, who uses the space
-
 to mainly rehash and link to various earlier Slashgear posts on this general
-
 topic.
 
-
-
 As did many others, Davies points again to Apple's recently disclosed
-
 acquisition of Novauris Technologies, a startup created by Dragon Systems
-
 co-founder James Baker, which reportedly is working on an automatic speech
-
 recognition system that runs partly on the client device and partly in the
-
 cloud.
 
-
-
 "Local speech processing is one of the elements that rivals to Siri have cited
-
 as key advantages," Davies claims. "Rather than waiting for server-side
-
 analysis, for instance, Intel's Jarvis voice control can do it on the wearable
-
 itself."
 
-
-
 The other elements of the "supercharged" Siri would be a personalized calendar,
-
 via Apple's acquisition of Cue, integration with the Shazam audio database for
-
 music recognition, and a Siri API, which would let third-party app developers
-
 tap into Siri. Apple is "believed to be readying" this, according to Davies.
 
-
-
 Davies seems to be borrowing the API stuff from a TechCrunch post by Darrell
-
 Etherington, who in turn is, openly, borrowing from a subscription-only original
-
 article, "Apps Emerge as Key Battleground in Mobile Search," at The Information,
-
 a high-profile news startup focusing on the technology business.
 
-
-
 That article, as Etherrington notes, looks at Siri as part of a larger analysis
-
 of the evolving mobile search/app integration space. As such, Siri is likely to
-
 become "smarter" and more capable - relating apps, calendars, and personalized
-
 information to tasks carried out on behalf of the user, sometimes in cooperation
-
 with third-party apps or online services.
 
-
-
 In that sense, Siri becomes a growing part of the end-user "infrastructure" of
-
 Apple iOS users, analogous to Apple's extension of iOS location services by
-
 means of the iBeacon software framework for Bluetooth Low Energy radios on iOS
-
 devices, opening them up to interacting with third-party BTLE beacons,
-
 notifications, and apps and other content.
 
-
-
 As a human-machine interface, Siri is a work in progress, and there's no
-
 indication that Apple has given up on it or made it a lesser priority.
 
-
-
 iPhone 6 will be $100 more expensive than the iPhone 5s Business Insider's Jay
-
 Yarrow thinks Apple is "too focused on profits."
 
-
-
 That's his conclusion, in a blog post titled "Apple Reportedly Wants To Raise
-
 The Price Of The iPhone By $100," about a claim put forward by Jefferies stock
-
 analyst Peter Misek. According to Yarrow's post, Misek says, "Our checks
-
 indicate Apple has started negotiating with carriers on a $100 iPhone 6 price
-
 increase. The initial response has been no, but there seems to be an admission
-
 that there is no other game-changing device this year."
 
-
-
 "Because the iPhone is the only phone that matters this year, carriers may cave
-
 and give Apple the price bump it wants," Yarrow concludes. This strikes The
-
 Rollup as a fundamental misunderstanding of Apple's relationship with the
-
 carriers. About 70 percent of Apple's iPhone business is transacted mainly
-
 through carriers and some retailers.
 
-
-
 There's a lot about this relationship that's not clear. In general, the
-
 conviction is that mobile carriers pay Apple something close to the full retail
-
 price of each iPhone, which they then sell to subscribers for less, if the phone
-
 is bought with a two-year contract: the starting price iPhone 5s is $199, with a
-
 contract, for example. There are additional costs for the carriers: as part of
-
 the deal, Apple requires carriers to commit to TV and print advertising, set up
-
 an "exclusion zone" around the iPhone display space to keep other products
-
 further away, and dedicate customer service staff specifically for Apple
-
 products, at least according to this July 2013 article in The Telegraph, which
-
 examined Apple's terms with European carriers.
 
-
-
 As importantly, Apple apparently requires a "minimum order quantity" or MOQ from
-
 carriers, which seems to be a percentage of their total subscriber base. (See
-
 Horace Dediu's analysis of this at his Asymco blog).
 
-
-
 None of this suggests that Apple negotiates the iPhone "price" with carriers.
-
 They can negotiate, or try to, the amount of the "subsidy" - the difference
-
 between what the carriers charge their subscribers for an iPhone and what Apple
-
 charges the carriers. So far, they've been willing to pay that, because of the
-
 phone's popularity and because of the data usage patterns of iPhone users - they
-
 use a lot, and if they're on LTE, they use even more.
 
-
-
 Yarrow seems to assume that Apple simply intends to raise by $100 the price of
-
 whatever the iPhone 6 turns out to be. "But really, for a company with $150
-
 billion in cash, adding $100 to the price of its phone seems like a move that's
-
 too focused on profits," he declares.
 
-
-
 "This seems like a strange move for Apple," Yarrow writes. "At a time when its
-
 rivals are going down in price, Apple wants to go up." But then he undermines
-
 his own argument by noting that "Samsung's phablet, the 6-inch Galaxy Note 3
-
 sells for $100 more than its 5-inch Galaxy S5."
 
-
-
 UPI's Ananth Baliga wrote a story based on the same Misek Note To Investors, but
-
 added one detail missing from Yarrow's account.
 
-
-
 "According to the note the extra cost will be split between the customer and
-
 carrier, with each asked to pay $50," she says.
 
-
-
 "The iPhone 5S is currently sold at a subsidized rate of $200 with a standard
-
 two-year contract. If the price increase were to take place, customers would
-
 have to pay $250 for the new phone."
 
-
-
 It remains very unclear whether, or how, Apple will extend the iPhone portfolio
-
 in 2014. It currently has two models, the flagship 5s and the lower-priced 5c,
-
 both with 4-inch diagonal screens. Many people are expecting two new iPhones by
-
 the end of 2014, both with screens larger than that. But would that mean Apple
-
 does away with the 4-inch display completely? Would a 4.7-inch iPhone become the
-
 new "5c" and a 5.5- or 6-inch iPhone the new "5s?" Or do both phones migrate to
-
 a 4.7-inch screen and a new, third model offers a 5-inch-or-larger screen, at a
-
 price hike?
 
-
-
 And what, actually, is strange about charging more for a phone that's more
-
 expensive to produce, if consumers see, and are willing to pay for, added value?
 
-
-
 iPhone 6 will have 4.7-inch screen, as revealed by anonymous third-party phone
-
 cases Thank heavens someone is tracking the trends in Purported iPhone 6 Cases.
 
-
-
 And why? Because "Purported iPhone 6 cases suggest design changes," according to
-
 the CNET post by Don Reisinger.
 
-
-
 "Photos of purported iPhone 6 cases have popped up on the Web and seem to show
-
 features that have been rumored over the last several months," he announces.
 
-
-
 "The cases, made by an unidentified third-party and specifically designed for
-
 the iPhone 6, feature the same design in a few colors," he reveals. "They come
-
 with a screen opening of 4.7 inches and a new location for the power switch from
-
 the top of the iPhone to the side. The cases also include rectangular volume
-
 controls on the opposite side of the power button. An opening for Apple's logo
-
 and another for a camera are also in the cases."
 
-
-
 Reisinger gets this from 9to5Mac, which got it from the French site
-
 NoWhereElse.fr, which in turn picked up from the Japanese Mac fan site, Mac
-
 Otakara.
 
-
-
 NoWhereElse's Steve Hemmerstoffer exhibits an almost compulsive attention to
-
 details, measuring and annotating everything and drawing conclusions. The
-
 assumption behind all these posts is that companies making money selling
-
 protective cases for iPhones have an interest in getting accurate information so
-
 they can pre-design and manufacture cases for the Next iPhone before anyone
-
 else.
 
-
-
 Here's the Google translation of part of the research and analysis from
-
 NoWhereElse: "Designed on the basis of information obtained from a source kept
-
 secret, these shells are supposed silicone perfect fit an iPhone 6 with a screen
-
 measuring 4.7 inches diagonally. Wishing to avoid that these data may allow a
-
 more props to manufacture their own products, my contact was unfortunately not
-
 want to give me the exact dimensions of these hulls ..."
 
-
-
 Makes perfect sense to us: secret sources, alleged or purported photos, no exact
-
 dimensions. No, you know, facts. The perfect rumor.
 
-
-
 iPhone 6 will be bigger because photos show bigger batteries It was busy week
-
 for Hemmerstoffer's NoWhereElse blog, which was also the source of photos
-
 supposedly showing the batteries for the iPhone 6. The batteries are bigger than
-
 the batteries in today's iPhones, therefore the Next iPhone must be bigger, too.
 
-
-
 To lend credence to this imagining, the post notes that (via Google Translate of
-
 the original French) "End of March, Aaron Lee and Joseph Tsai of Digitimes
-
 claimed Apple would at already placed orders with suppliers of batteries under
-
 the production of its future iPhone 6, according to Hemmerstoffer. "Imagine a
-
 picture that you was passed earlier in the morning seems to confirm the rumor
-
 launched by the Taiwanese website ...The photo in question is supposed to
-
 introduce ourselves batteries or to equip the next iPhone. These batteries could
-
 of course have been designed for any other smartphone but admit for a moment
-
 that my source is telling the truth ..."
 
-
-
 Wait. What? "These batteries could of course have been designed for any other
-
 smartphone?"
 
-
-
 But we can get past that, by admitting - for a moment - that his source is
-
 telling the truth. Why would he lie, right?
 
-
-
 "In examining these batteries more closely, you will actually realize that a
-
 mysterious metallic elements missing from current models has been integrated
-
 alongside the + and - terminals whose positioning has also been slightly
-
 modified," Hemmerstoffer notes. "A hole was drilled at the end of this new
-
 element, I guess it will fix the battery housing of the device." So by examining
-
 the mysterious details, we can see that these batteries that could be for any
-
 smartphone are indeed different from the battery in the current iPhone.
 
-
-
 "Assuming that the batteries that have led me to write this article are indeed
-
 intended to supply the iPhone 6, it could therefore be effectively presented in
-
 approximately three months either in the month of July ... Wait & See ..."
 
-
-
 If we all just waited and saw what Apple actually announces for the 2014 iPhone,
-
 life would be so much simpler.
-
-
 
 John Cox covers wireless networking and mobile computing for "Network World."
 
-
-
 Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: April 28, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2014 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

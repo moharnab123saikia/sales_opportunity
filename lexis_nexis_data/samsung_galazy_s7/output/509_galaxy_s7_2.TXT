@@ -1,182 +1,67 @@
-                             509 of 1000 DOCUMENTS
-
-
-
-
-
-                                  Stock Watch
-
-
-
-                        July 11, 2016 Monday 6:30 AM EST
-
-
-
-Rumors about likely features and specs of Samsung's upcoming Galaxy Note 7
-
-making rounds
-
-
-
-BYLINE: Herb Ryder
-
-
-
-LENGTH: 613  words
-
-
-
 
 
 Samsung's upcoming Galaxy Note 7 is likely to be unveiled in the coming month,
-
 and rumors have already been widespread about the probable features and specs of
-
 the device. There isn't any official information so far about the handset.
 
-
-
 A version of the device, allegedly restricted for the US carrier Verizon, has
-
 been seen on the Geekbench benchmark database.
 
-
-
 The device apparently a test unit has model number SM-N930V. It possesses the
-
 Qualcomm Snapdragon 820 processor with 4GB RAM. The mentioned specs aren't the
-
 same as the previously rumored details, according to which the Galaxy Note 7 is
-
 going to be powered by a Qualcomm Snapdragon 821 processor and Samsung's Exynos
-
 8893 processor in specific variants of the device, carrying 6GB RAM.
 
-
-
 Thus according to SamMobile, the Geekbench device may just be under testing on
-
 Verizon's network without containing the actual specifications.
 
-
-
 It seems like the same variant of the Galaxy Note 7 was present on the AnTuTu
-
 benchmark site, mentioning that the device has been powered by the Snapdragon
-
 820 SoC, carries a quad-core CPU and boasts the Adreno 530 GPU.
 
-
-
 Past week, there was another Galaxy Note 7 version which was present on
-
 Geekbench as well, suggesting that the handset is going to have the all new
-
 Android 7 build, also known as the Android Nougat, out of the box.
 
-
-
 This specific Galaxy S7 variant wasn't like the alleged Verizon-bound version,
-
 and carried the model number SM-N930F. It sported the Exynos 7420 chipset,
-
 rather than the rumored Exynos 8893 processor.
 
-
-
 According to a report in IBTimes by  Kukil Bora, "Rumors are rife about the
-
 likely features and specs of Samsung's upcoming Galaxy Note 7, which is
-
 widely-expected to be unveiled next month. While there is no official
-
 information available about the handset, a version of the device - allegedly
-
 bound for U.S. carrier Verizon - has been spotted on the Geekbench benchmark
-
 database."
 
-
-
 The device, which appears to be a test unit, carries the model number SM-N930V
-
 and features the Qualcomm Snapdragon 820 processor with 4GB of RAM. These specs
-
 don't match the previously rumored details, which suggested that the Galaxy Note
-
 7 will be powered by a Qualcomm Snapdragon 821 processor and Samsung's Exynos
-
 8893 processor in certain variants of the device, along with 6GB of RAM.
 
-
-
 Another version of the Galaxy Note 7 appeared on Geekbench last week as well,
-
 indicating that the handset will come with the latest Android 7 build, also
-
 referred to as Android Nougat, out of the box. Unlike the alleged Verizon-bound
-
 version, this particular Galaxy S7 variant was carrying the model number
-
 SM-N930F and was sporting the Exynos 7420 chipset, instead of the rumored Exynos
-
 8893 processor.
 
-
-
 "Just recently, the Galaxy Note 7 popped up on Geekbench with model number
-
 SM-930F, revealing some tidbits of information regarding its specifications. The
-
 new AnTuTu listing shows some differences in purported specifications,"
-
 according to a news report published by Tech Times.
 
-
-
 Previous leaks, meanwhile, have revealed that the Samsung Galaxy Note 7 will be
-
 rocking an advanced iris scanner for extra security, a dual-edged display
-
 similar to that of the Galaxy S7 edge flagship and a new S Pen stylus with Air
-
 Command features. The phablet is further expected to feature a powerful 3,600
-
 mAh battery to fire up that high-end display, purportedly lasting for up to 20
-
 hours of video playback.
 
-
-
 Lastly, the Galaxy Note 7 will come as the successor to last year's Galaxy Note
-
 5, skipping a numeral to be more in line with the Galaxy S7 series. The company
-
 reportedly fears that launching the phablet as the Galaxy Note 6 would confuse
-
 potential customers into thinking it was an older model.
-
-
-
-LOAD-DATE: July 11, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-          Copyright 2016 Manas Informatics, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

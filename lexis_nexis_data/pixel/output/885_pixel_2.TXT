@@ -1,242 +1,96 @@
-                              885 of 997 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                     November 3, 2015 Tuesday 12:23 PM EST
-
-
-
-8 facts that explain Google's complex situation with Chrome OS
-
-
-
-BYLINE: Steven Max Patterson
-
-
-
-SECTION: NEWSANALYSIS
-
-
-
-LENGTH: 770  words
-
-
-
 
 
 Click for image
 
-
-
 The Wall Street Journal reported last week that Google would fold the Chrome OS
-
 into Android, spawning widespread rumors and speculation. Then Chrome and
-
 Android VP of Engineering Hiroshi Lockheimer contradicted the Wall Street
-
 Journal in a tweet confirming Google's commitment to Chrome OS. And a Google
-
 spokesperson's response to my request for clarification unequivocally stated
-
 that Google wasn't sun-setting the Chrome OS. But then again, Google CEO Sundar
-
 Pichai, who once ran the Chrome group, has said that Chrome OS and Android would
-
 come closer together. The controversy has been echoing ever since.
 
-
-
 The root of this controversy is probably the high-end Chromebook Pixel C
-
 introduced in September. The Pixel C runs Android Marshmallow 6.0 and created a
-
 hybrid third use case, combining the unique features of both Android and Chrome
-
 OS into a superset of both.
 
-
-
 Here are the eight things that will help you understand the controversy for
-
 yourself.
 
 
-
-
-
      ·    Chrome OS was built to provide compatibility on low-cost hardware
-
           running Google's Chrome browser. Chromebooks presume its users will
-
           have consistent access to a high-bandwidth internet connection and a
-
           use case limited to running all apps in a browser. Chrome OS provides
-
           a minimal set of OS resources that a browser needs to run, like
-
           storage, memory management, and connections to external services such
-
           as HTTPS, identity, and security.
 
 
-
-
-
      ·    Android was created to run immersive native mobile apps with rich
-
           interactions designed for the mobile internet. It's a complete
-
           operating system able to run many different autonomous apps, including
-
           the Chrome browser.
 
 
-
-
-
      ·    Both Chrome OS and Android system architects chose Linux as the
-
           foundation for their operating systems because it reduces the time to
-
           market and the risk of building a mobile device. Chromebook and
-
           Android device manufacturers gain time to market advantages too,
-
           because Linux has been cooperatively ported to many hardware platforms
-
           by system on a chip (SoC) manufacturers such as Qualcomm and Intel,
-
           device manufacturers like Lenovo and Samsung, and the Linux community.
 
 
-
-
-
      ·    Google would benefit immediately from the cost reductions from
-
           maintaining a single software stack of the Linux modules common to
-
           both Android and Chrome OS. However, there is a much bigger
-
           opportunity to scale Chromebooks by combining the Chrome OS and
-
           Android communities, especially with the device manufacturers. The
-
           hundreds of Android device manufacturers could quickly become
-
           Chromebook manufacturers.
 
 
-
-
-
      ·    Building apps for Android and extensions for the Chrome browser
-
           require entirely different skills. Android apps are built by native
-
           platform developers in Java and C/C++, while Chrome apps are built by
-
           front-end developers with HTML, CSS, and Javascript (not to be
-
           confused with Java). Different tools for different jobs. Android
-
           development targets the native features of the platform to build apps
-
           with rich interactions. Chrome targets the rich features of the web.
 
 
-
-
-
      ·    The mobile use cases for smartphones, tablets, and PCs are converging.
-
           So is the hardware. For example, a teardown of the new MacBook by
-
           iFixit revealed a mobile phone-sized system board with an Intel Core M
-
           mobile processor. Nearly the same hardware design could be used for a
-
           smartphone, tablet, Chromebook, or ultrabook. Devices are defined by
-
           software, not hardware.
 
 
-
-
-
      ·    As devices become more intelligent and the internet of things (IoT)
-
           emerges, many will need a user interface. Building a unique user
-
           interface for most applications wouldn't be justified when browsers
-
           are available and millions of developers understand how to program
-
           them. Android has been ported to every type of device, from power
-
           outlets to vending machines, making a merged Chrome OS and Android a
-
           strong and light candidate to support a Chrome browser-based user
-
           interface, not only for Chromebooks but for smart devices like
-
           refrigerators.
 
 
-
-
-
      ·    The Android App ecosystem has achieved large-scale efficiency, with
-
           over 1.5 million apps on the Google Play store. Chrome apps number in
-
           the tens of thousands, and could benefit from Android's scale.
 
 
-
-
-
 Converging Android and Chrome OS into one OS that supersedes both is easier said
-
 than done. The hardware is converging much more quickly than the use case and
-
 the software. Chromebooks, embedded devices, and smartphones all are used
-
 differently. The superset represented by the Pixel C is very attractive, but why
-
 drag the overhead of all the underlying Chrome OS and Android software to an
-
 interactive Chrome kiosk, a Chrome control panel, or a Chromebook used in an
-
 environment where just a browser meets all the requirements?
-
-
-
-LOAD-DATE: November 4, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                 Copyright 2015 International Data Group, Inc.
-
-                              All Rights Reserved
-
-
-
-
 

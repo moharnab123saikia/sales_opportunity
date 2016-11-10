@@ -1,356 +1,152 @@
-                              874 of 997 DOCUMENTS
-
-
-
-
-
-                        The International Herald Tribune
-
-
-
-                           November 1, 2012 Thursday
-
-
-
-3 new toys, each great in its own way;
-
-State of the Art
-
-
-
-BYLINE: BY DAVID POGUE
-
-
-
-SECTION: FINANCE; Pg. 18
-
-
-
-LENGTH: 1263 words
-
-
 
 ABSTRACT
 
-
-
 Meet the iPad Mini, Nook HD and Windows Phone 8.
-
-
 
 FULL TEXT
 
-
-
 Hollywood studios try to avoid opening big movies on the same weekend, to avoid
-
 diluting the buzz and the news coverage. ''Oh, no - we can't open that day,''
-
 one might say. '' 'Titanic II: The Return' is opening that weekend.''
 
-
-
 That is usually the way it works with technology companies, too, especially as
-
 the holiday shopping season begins.
 
-
-
 This year, though, a barrage of huge technology announcements all landed within
-
 about a week. Windows 8.   Microsoft's Surface. The iPad Mini. Google's
-
 Chromebook. The Barnes & Noble Nook HD. Windows Phone 8. A 10-inch Samsung
-
 tablet and a new Google phone.
-
-
 
 Meet the iPad Mini, Nook HD and Windows Phone 8.
 
-
-
 The iPad Mini  The rumors were true: Apple now has a smaller iPad.
 
-
-
 The iPad Mini is half the weight of the big iPad (0.7 pounds versus 1.4, or 318
-
 grams versus 635), thinner (0.28 inch versus 0.37, or 7 millimeters versus 9
-
 millimeters), shorter (7.9 inches versus 9.5) and narrower (5.3 inches versus
-
 7.3). Those specifications add up to one towering meta-change: You can
-
 comfortably hold this iPad in one hand. It is still too wide for a blazer
-
 pocket, alas, but it certainly fits in a purse or overcoat pocket.
 
-
-
 It is available in white-and-silver and black-on-black, both with metal backs,
-
 both gorgeous.
 
-
-
 Apple's masterstroke was keeping the screen shape and resolution the same as on
-
 the iPad 2 (1,024 by 768 pixels). As a result, the Mini can run all 275,000
-
 existing iPad apps unmodified, plus 500,000 more iPhone apps. The text and
-
 graphics are a little smaller, but perfectly usable.
 
-
-
 Sadly, the Mini does not gain Apple's supercrisp Retina display. Nobody's going
-
 to complain about the sharpness - it packs in 163 pixels per inch - but it is
-
 not the same jaw-dropping resolution as the big iPad (264 ppi). Gotta hold
-
 something back for next year, right?
-
-
 
 You pay $330 for the base model (16 gigabytes of storage, Wi-Fi connections).
 
-
-
 Prices run all the way up to $660 for four times the storage and the option to
-
 go online over the cell network.
 
-
-
 The Mini's price allows the $200 class of seven-inch Android tablets and readers
-
 to live (Google Nexus, Kindle Fire HD, Nook HD). Those tablets also have
-
 high-definition screens (1,280 by 800 pixels), which the Mini does not.
 
-
-
 But the iPad Mini is a classier, more attractive, thinner machine. It has two
-
 cameras instead of one. Its fit and finish are far more refined. And above all,
-
 it offers that colossal app catalog, which Android tablet owners can only dream
-
 about.
 
-
-
 Over all, the Mini gives you all the iPad goodness in a more manageable size,
-
 and it is awesome. You could argue that the iPad Mini is what the iPad always
-
 wanted to be.
 
-
-
 Barnes & Noble Nook HD  The redesign of this $200 e-book reader/video player
-
 focuses on the three things that matter most in a hand-held e-book reader:
-
 weight, size and screen clarity.
 
-
-
 In those ways, the Nook HD trounces its nemeses, Amazon's Kindle Fire HD and
-
 Google's Nexus 7. The Nook is lighter (11.1 ounces, or 315 grams, versus 12 for
-
 the Nexus and 13.9 for the Kindle) and noticeably narrower, despite the
-
 same-size screen, because it has a far slimmer bezel. You can wrap your hand
-
 around its back, even if you are dainty of hand.
 
-
-
 And the screen is much sharper: 1,440 by 900 pixels (versus 1,280 by 800). At
-
 243 dots ppi, the Nook's screen comes dangerously close to the iPad Retina's 264
-
 ppi. Wow, is this screen sharp. Movies, books and magazines pop.
 
-
-
 Whites are so white on this screen, it could be a bleach commercial; the Nexus
-
 and Kindle screens look yellowish in comparison. (A 9-inch, $270 version, the
-
 Nook HD+, is also available.)
 
-
-
 The software continues to improve. You can now create as many as six accounts,
-
 one for each family member, each listing different books and movies. (It does
-
 not remember where each person stopped reading a given book, but the company
-
 says that is coming soon.)
 
-
-
 The base-model, $200 Nook comes with only 8 gigabytes of storage - half as much
-
 as the Kindle; on the other hand, it has a memory-card slot, so it is simple and
-
 costs little to expand. The Nook includes a wall charger (it cannot charge from
-
 a USB jack), which the Kindle does not. And the Nook does not display ads, as
-
 the $200 Kindle does.
 
-
-
 However, there is no camera at all. (The company says it spent the money on the
-
 nicer screen.) And the speaker volume is way too low during movie playback, but
-
 B&N says a fix is coming this week.
 
-
-
 Still, in the hardware war, Nook HD clearly wins this round. It is fast, fluid
-
 and gorgeous; the Fire HD lags in all of those categories.
 
-
-
 Then again, Amazon's movie service - rent, buy or stream free as part of the
-
 $80-a-year Prime program - is mature and delightful; Barnes & Noble's movie
-
 store is just starting up. If you can tolerate that fledgling store awhile, then
-
 you will love the way the company exploited its second-mover advantage.
 
-
-
 Windows Phone 8  The good news in touch screens continues with Windows Phone 8.
-
 It is what you will get on sleek coming phones like the Nokia Lumia 920 and
-
 HTC's Windows Phone 8X (the one I tested).
 
-
-
 Microsoft's Windows Phone 7 - a fresh, colorful, efficient, tile-based
-
 alternative to the icon-based design of iPhone and Android - earned rave
-
 reviews. But few phones run it and few people have it.
 
-
-
 Windows Phone 8 may look identical, but the company says it is a complete
-
 rewrite based on underlying code from Windows 8 for PCs. It is therefore ready
-
 for far more hardware flexibility than 7 was: multicore processors, screens with
-
 different resolutions, phones with memory cards and so on.
 
-
-
 The Start screen is more customizable; you can choose from three different tile
-
 sizes. Apps can modify your Lock screen automatically; for example, the Groupon
-
 app might display a special offer that is tailored to where you are right now.
 
-
-
 If you swipe leftward from the Lock screen, you enter Kid Corner, an inspired
-
 idea. It is a quarantined world containing only apps, music and videos that you
-
 handpick for your offspring. Next time you hear, ''I'm bored - can I play on
-
 your phone?'' you can hand the phone over without worry; the phone, Web and text
-
 messages are off limits.
 
-
-
 More solid improvements: The desktop software can load the phone with your
-
 iTunes music and video libraries. ''Rooms'' are private groups - Bowling
-
 Buddies, Teen Party and so on - whose members can share their locations,
-
 calendars, photos and chats. You can now back up the phone online.
 
-
-
 Two juicy features are promised: a ''pay with your phone'' option brought to you
-
 by NFC, or near-field communication, chips in phones, and Data Sense, which
-
 tries to conserve Internet data and monitors your monthly allotment.
 
-
-
 Microsoft's phone software is fast, simple and beautiful. But it still lacks
-
 universal dictation for quick text entry. Its new Maps app does not offer spoken
-
 directions (in 2012? seriously?). And the audience will not come until there are
-
 more great apps.
 
-
-
 There are promising signs; Microsoft says that there are 110,000 Windows Phone
-
 apps and that software companies can reuse chunks of code from their Windows 8
-
 programs. That should make it easier to bring new apps to the phone.
 
-
-
 So there you have it: three touch-screen technology toys, each triumphant in its
-
 own way. One comes from a market leader hoping to swipe business from its
-
 bargain-basement rivals; two come from underdogs determined to make a bigger
-
 dent.
 
-
-
 None of these products are themselves perfect. But they represent new highs on
-
 the graph that plots price against polish and pleasure - and for gadget lovers,
-
 that portends some very merry holidays indeed.
-
-
-
-LOAD-DATE: October 31, 2012
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                  Copyright 2012 International Herald Tribune
-
-                              All Rights Reserved
-
-
-
-
 

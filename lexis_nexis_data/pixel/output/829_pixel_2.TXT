@@ -1,104 +1,29 @@
-                              829 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           December 30, 2014 Tuesday
-
-
-
-US Patent granted to Google Inc. (California) on December 30 titled as
-
-"Automatic background identification in video images"
-
-
-
-LENGTH: 229  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,923,611, on
-
 December 30, 2014, to Google Inc. (California), titled as "Automatic background
-
 identification in video images"
 
-
-
 Inventors:  Carpenter; Thor (Snoqualmie, WA)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Methods and systems are provided allowing for background identification in
-
 video images. A computer-implemented image processing method includes:
-
 receiving, using at least one processing circuit, a plurality of image frames of
-
 a video; constructing, using at least one processing circuit, a plurality of
-
 statistical models of the plurality of image frames at a plurality of pixel
-
 granularity levels; constructing, using at least one processing circuit, a
-
 plurality of probabilistic models of an input image frame at a plurality of
-
 channel granularity levels based on the plurality of statistical models; merging
-
 at least some of the plurality of probabilistic models based on a weighted
-
 average to form a single probability image; and determining background pixels,
-
 based on a probability threshold value, from the single probability image."
-
-
 
 The patent was filed on November 1, 2013 Application no. 14/070,412
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: December 31, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

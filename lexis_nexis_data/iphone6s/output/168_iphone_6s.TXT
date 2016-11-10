@@ -1,278 +1,114 @@
-                             168 of 1000 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                      October 12, 2015 Monday 08:06 AM EST
-
-
-
-iPhone 6s battery concerns are overblown, Apple explains why
-
-
-
-BYLINE: Yoni Heisler
-
-
-
-SECTION: NEWS
-
-
-
-LENGTH: 1041  words
-
-
-
 
 
 Click for image
 
-
-
 Did you hear the bad news? That fancy iPhone 6s you just bought might be a
-
 lemon. In case you haven't heard, your shiny new device might have subpar
-
 battery performance depending on if its A9 processor came from Taiwan
-
 Semiconductor Manufacturing Company (TSMC) or Samsung.
 
-
-
 Just when you thought we finally survived a new iPhone release without some sort
-
 of overblown "-gate" scandal comes, well, an overblown story that recently
-
 picked up quite a bit of steam mainstream tech circles.
 
-
-
 The current 'scandal' is rooted in the fact that the A9 processors Apple packed
-
 into its new iPhone 6s models are sourced from two different companies, TSMC and
-
 Samsung. This, of course, is nothing new and shouldn't raise any eyebrows. Not
-
 only does Apple often source similar components from different companies, but it
-
 did the same thing last year with the A8 processor on last year's iPhone 6.
 
-
-
 But this being Apple, even the tiniest seed of a complete non-story can quickly
-
 blossom into a full-fledged panic.
 
-
-
 Battery-related issues pertaining to the iPhone 6s began to pick up steam last
-
 Wednesday when an Engadget piece popped up and suggestively asked users if their
-
 iPhone "had a good or bad A9 CPU." The report boldly claimed that battery life
-
 on iPhones with an A9 processor from TSMC yields about two hours more battery
-
 life than an iPhone with A9 processor from Samsung.
 
-
-
 From there, the story was picked up by MacRumors and was even tweeted by noted
-
 blogger and developer Marco Arment.
 
-
-
 The only problem is that the Engadget story wasn't exactly a legit Engadget
-
 article. Specifically, it was written by one of the site's community members.
-
 Indeed, the tagline above the headline, which was perhaps overlooked by some,
-
 reads:
 
-
-
 "This post was created by a member of the Public Access community. It has not
-
 been edited for accuracy or truthfulness and does not reflect the opinions of
-
 Engadget or its editors."
 
-
-
 Furthermore, a closer look at the Engadget post reveals that the bulk of its
-
 evidence came from a lone Reddit comment alongside some scattered speculation
-
 from forum threads. In other words, there wasn't a lot of empirical evidence to
-
 truly suggest that iPhone battery life might vary wildly from device to device.
 
-
-
 As for the testing done by the Reddit user, there are a number of problems to be
-
 had with drawing any bulletproof conclusions. For starters, any number of
-
 factors can affect battery life, and we have no way of knowing what steps were
-
 taken to ensure a controlled testing environment. Note that when the Reddit user
-
 conducted his testing, one iPhone 6s had a SIM card installed, while the other
-
 one did not. Additionally, the screenshots that accompanied the Reddit comment
-
 suggested that an app using location services was active during testing; which
-
 app or apps were in use? We don't know. Was screen brightness uniform between
-
 devices? Who knows. Were these devices on the same Wi-Fi network? Perhaps, but
-
 how do we really know for sure? Obviously, there are enough question marks here
-
 that ultimately make this thread somewhat hard to take seriously.
 
-
-
 So, what might happen when we see iPhone's with varying A9 chips tested in a
-
 controlled environment? Well, there's actually some video footage of an iPhone
-
 6s Plus with a Samsung A9 going head-to-head against an iPhone 6s Plus with a
-
 TSMC A9.
-
-
 
 The result? There's basically no difference whatsoever.
 
-
-
 Now, what's that you say? The phones in the video above are on two different
-
 carriers? Why yes, yes they are. Which goes to show that its hard to take these
-
 one-off examples with effective sample sizes of just one all that seriously
-
 because users can easily unearth "evidence" to support contrived conclusions.
-
 While it's certainly easy to manipulate statistical data, the problem here is
-
 that there's not even any data to speak of in the first place.
 
-
-
 Even if we put aside glaring statistical holes and all of the various ways one
-
 can go about testing battery life on varying iPhones, one would have to suspend
-
 disbelief to believe that Apple, even for a second, would ever contemplate
-
 putting out a product with subpar performance relative to a seemingly equivalent
-
 device released at the same time. The idea is downright preposterous.
 
-
-
 If anything, Apple would much sooner release a product with uniformly lower
-
 battery performance than it would release a product with wildly inconsistent
-
 battery life.
 
-
-
 Indeed, product uniformity and consistency is taken with utmost seriousness
-
 across all industries. Even when McDonald's sources something as seemingly
-
 inconsequential as cheese from a new farm, the company undergoes an exhaustive
-
 an extensive series of tests to ensure that the flavor of its products remains
-
 exactly the same. To think that Apple wouldn't take similar precautions with its
-
 prized iPhone is laughable.
 
-
-
 If battery life on your new iPhone 6s or 6s Plus isn't up to snuff with Apple's
-
 published specifications, then by all means take it in and see what's going on.
-
 Otherwise, it's probably best to stop worrying and enjoy your new device.
 
-
-
 Of course, Apple hopefully put this mini-scandal to bed last week when it issued
-
 the following statement to TechCrunch.
 
-
-
 With the Apple-designed A9 chip in your iPhone 6s or iPhone 6s Plus, you are
-
 getting the most advanced smartphone chip in the world. Every chip we ship meets
-
 Apple's highest standards for providing incredible performance and deliver great
-
 battery life, regardless of iPhone 6s capacity, color, or model.
 
-
-
 Certain manufactured lab tests which run the processors with a continuous heavy
-
 workload until the battery depletes are not representative of real-world usage,
-
 since they spend an unrealistic amount of time at the highest CPU performance
-
 state. It's a misleading way to measure real-world battery life. Our testing and
-
 customer data show the actual battery life of the iPhone 6s and iPhone 6s Plus,
-
 even taking into account variable component differences, vary within just 2-3%
-
 of each other.
 
-
-
 Indeed, all of the subsequent battery tests that sprung up in the wake of
-
 batterygate or chipgate (or whatever you want to call it) seemed to put the
-
 iPhone through unrealistic testing conditions. As far as real-world usage is
-
 concerned, there's probably not much reason at all for iPhone 6s owners to
-
 worry.
-
-
-
-LOAD-DATE: October 13, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                 Copyright 2015 International Data Group, Inc.
-
-                              All Rights Reserved
-
-
-
-
 

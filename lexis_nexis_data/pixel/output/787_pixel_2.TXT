@@ -1,304 +1,122 @@
-                              787 of 997 DOCUMENTS
-
-
-
-
-
-               National Post (f/k/a The Financial Post) (Canada)
-
-
-
-                             June 28, 2012 Thursday
-
-                                National Edition
-
-
-
-Google's goggles; Questions Answers
-
-
-
-BYLINE: Matt Hartley, Financial Post
-
-
-
-SECTION: FP TECH DESK; Pg. FP12
-
-
-
-LENGTH: 1197 words
-
-
-
 
 
 As a crowd of more than 6,000 developers looked on, a quartet of skydivers
-
 sporting futuristic, Web-enabled glasses jumped from a blimp hovering over San
-
 Francisco and landed on the roof of Google Inc.'s annual I/O conference on
-
 Wednesday.
 
-
-
 Inside, the assembled developers were treated to a view of the jump via cameras
-
 in the head-mounted devices, known simply as Project Glass. The stunt was
-
 designed to demonstrate one of the features of Google's glasses project, an
-
 initiative designed to meld the digital and physical worlds.
 
-
-
 But Project Glass isn't the only Google project designed to use the Web to give
-
 people a new window on the world, one overlaid with additional information
-
 provided by the Internet. The Google Goggles project was also created to enable
-
 people to use images to search the Web, simply by pointing their phone at an
-
 object.
 
-
-
 In a recent interview, Hartmut Neven, Google's director of engineering for
-
 visual search, spoke to FP Tech Desk editor Matt Hartley about some of the
-
 computer vision and augmented reality research going on at Google.
 
-
-
 Q How does Google view the research areas of augmented reality and
-
 image-recognition technology?
 
-
-
 A Augmented reality, in the narrow sense of the definition, is essentially an
-
 overlay over an image, be it a video image on a mobile phone or a live stream of
-
 images that you see through a head-mounted display, and then present in this
-
 overlay additional information about the world around you. That is the current
-
 standard definition of augmented reality. My view has been that it's a very
-
 fascinating technology but it is hard to find really good use cases where it is
-
 superior over other forms of presenting information.
 
-
-
 Q Could you tell me a little bit more about what your team is working on in this
-
 area?
 
-
-
 A One example of what we are working on in my group is how advertisers could use
-
 it. We've had a system based on Google Goggles where if [the Goggles] were to,
-
 for example, recognize a print ad in a magazine such as a car ad, and then upon
-
 recognition we would not just link you to the Web page of this advertiser, but a
-
 3D model of a car would pop up on this page and drive around on the page and you
-
 could look at the car from all angles. Invariably there's a wow effect, but then
-
 what kicks in is what we started dubbing the "stiff arm syndrome." It's when you
-
 hold up your phone and look at the car from all angles, at some point after half
-
 a minute or so that gets a little tedious. So the question is, wouldn't it have
-
 been better to just trigger, let's say, a YouTube video showing this car and
-
 then you see this car driving around some nice street that's somewhere not in
-
 front of you, wouldn't it have been a better, more informative way of presenting
-
 the same information?
 
-
-
 Q I think a lot of people would agree that augmented reality still feels
-
 somewhat primitive at this point, but would it be fair to say that image
-
 recognition technology is driving a lot of these augmented reality innovations?
 
-
-
 A Image recognition technology is at the core in the example we just discussed.
-
 First, you have to recognize the print ad and know what the associated content
-
 is - in this example, the car - and then do the registration of the synthetic 3D
-
 content that you layer over the videos that come through the camera of the
-
 mobile phone. To do this in a proper way so that you have the illusion that the
-
 car is really driving over the page of the magazine, that requires various
-
 disciplines of image recognition.
-
-
 
 Q Is it fair to say that this is a technology for which Google sees a future?
 
-
-
 A Absolutely. With the caveat that I'm a little bit struggling to see in which
-
 situations it would be a slam dunk application.- If you wear the display on your
-
 head, then you don't have the stiff arm syndrome anymore, so there's no problem.
-
 That's in principle true, but the challenge has become different. In augmented
-
 realities there are two terms: "video seethrough" and "optical see-through."
-
 Video see-through is what we discussed earlier, essentially the car overlayed
-
 over the video that is acquired by the phone. Optical seethrough is a technology
-
 where you have the light, as it comes from the physical world, hitting your eye.
-
 As it's hitting your eye, as it passes through glasses of some sort, additional
-
 information is rendered on those glasses and then ideally gives you the same
-
 effect of this overlayed 3D content that, let's say, is the car. The big
-
 difference here is that in the video, you acquire the video, you take a frame
-
 from the camera, put it in the frame buffer, and then put it in some memory in
-
 the mobile phone, and then I take some content to replace certain pixels in the
-
 frame buffer - the natural pixels with synthetic pixels - that creates the
-
 illusion of this new object being there that is augmented over reality. In
-
 optical see-through, I don't have this opportunity. The light, at the speed of
-
 light, is literally going to hit my retina then get processed by my brain, so if
-
 I want to render information in there, it has to be incredibly fast. I have to
-
 have a separate camera stream that also sees what my eye is seeing as it sees
-
 the print ad, and then very rapidly, it would have to capture the image, analyze
-
 the image, render the new pixels and then display the new pixels, inserting them
-
 into the stream as the light hits your eye. This has to be incredibly fast,
-
 because if it's not, and there's any latency, then the process is delayed. We
-
 have dubbed this the ping pong effect because the delay makes it look like a
-
 ping pong ball bouncing around.
 
-
-
 Q It sounds like the optical seethrough technology makes much more sense in
-
 something that you would wear, as opposed to the video overlay technology.
 
-
-
 A Exactly, because nobody would want to see the world around him as a video
-
 see-through, so it wouldn't be acceptable to wear. There are some manufacturers
-
 that have such glasses, and essentially you would perceive the world around you
-
 through video, but that is not really acceptable for a longer period of time.
 
-
-
 Q It would seem that the optical seethrough technology presents a more
-
 challenging problem for researchers. Would it be fair to say this technology is
-
 further away from practical applications?
 
-
-
 A The challenges are much harder. The whole processing pipeline has to be
-
 streamlined in every respect and it starts with the acquisition of a camera
-
 image. If it takes 30 milliseconds to just get the image into the frame buffer
-
 and then I start processing it; you've lost already - it would require an
-
 extremely well-tuned hardware and software processing pipeline and rendering
-
 pipeline.
-
-
 
 Q Where are we on the evolutionary curve of image-recognition technology?
 
-
-
 A It depends where you look at it from. Of course, the things you haven't
-
 accomplished yet, you never know how long they're going to take. On the other
-
 hand, sometimes I'm amazed how far we've come. Our Google Goggles today has a
-
 database of billions of items, while we still might wonder why isn't it
-
 recognizing this or that item - simply because there are many more items on the
-
 planet than, for example, we have words for - but in a certain respect, we have
-
 made tremendous advancements.
 
-
-
 mhartley@nationalpost.com
-
-
-
-LOAD-DATE: June 28, 2012
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-GRAPHIC: AFP, Getty Images; Project Glass is one Google effort designed to use
-
-the Web to give people a new window on the world, one that is overlaid with
-
-additional information provided by the Internet.;
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                          Copyright 2012 National Post
-
-                              All Rights Reserved
-
-
-
-
 

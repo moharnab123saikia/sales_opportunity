@@ -1,284 +1,119 @@
-                              229 of 997 DOCUMENTS
-
-
-
-
-
-                     The Times & Transcript (New Brunswick)
-
-
-
-                            October 6, 2016 Thursday
-
-
-
-Google launches phones, gadgets
-
-
-
-SECTION: FEATURES; Pg. C1
-
-
-
-LENGTH: 916 words
-
-
-
 
 
 SAN FRANCISCO * Google is taking a page from Apple's playbook by making a bigger
-
 push to build its own hardware.
 
-
-
 Rick Osterloh, head of Google's new hardware group, said that in doing so,
-
 Google can take full advantage of capabilities it's designing with artificial
-
 intelligence and machine learning. Apple has long designed both iPhone hardware
-
 and the iOS operating-system software that runs on it. Now, Google is doing the
-
 same with the upcoming Pixel phones running Google's Android system.
-
-
 
 The Pixel is one of several gadgets Google announced Tuesday in San Francisco.
 
-
-
 NEW PHONE, NEW BRANDING, NEW MARKETING
-
-
 
 Google's previous phones, dubbed Nexus, had limited distribution.
 
-
-
 Now, the company is casting aside the Nexus name in favour of Pixel, a brand
-
 that Osterloh said has "always represented the best of hardware and software
-
 designed by Google." And instead of relying primarily on online orders, as was
-
 the case with Nexus, Google will offer Pixel through Verizon as well, starting
-
 Oct. 20. Advance orders begin Tuesday starting at roughly $650 for the 5-inch
-
 version and $750 for the slightly larger 5.5-inch screen.
 
-
-
 One of the advantages Google phones have long had is their quick access to
-
 Android updates. With other phones, individual manufacturers and carriers have
-
 to approve changes, resulting in delays . Google said Verizon will still have to
-
 approve updates for Pixel, but the process will be streamlined and done ahead of
-
 time.
 
-
-
 Google promises a spectacular camera and unlimited online storage for phones at
-
 full resolution. When storage space on the phone is low, the Pixel will free up
-
 storage and rely on the online copy. Apple takes a similar approach with its
-
 iCloud Photo Library, though free storage is limited to 5 gigabytes, or a few
-
 thousand photos.
-
-
 
 IT'S IN YOUR HEAD
 
-
-
 Google's new virtual-reality headset, Daydream View, will differ from other
-
 headsets like Samsung's Gear VR in having a companion motion controller and
-
 compatibility with a wide range of phones, including Pixel.
 
-
-
 Daydream is also a challenge to more sophisticated, but expensive systems from
-
 Facebook's Oculus business, HTC and Sony - as well as to Google's own Cardboard
-
 effort.
 
-
-
 Cardboard is cheap - available for as little as $15 - but it doesn't offer much
-
 control over VR environments beyond pushing a button on the headset as you move
-
 your head. The new wireless motion controller for Daydream can function like a
-
 fishing rod, a steering wheel or a pointer to permit more sophisticated VR
-
 experiences.
 
-
-
 Daydream View and the controller will be out in November for $79. You'll need a
-
 new Android phone , as existing phones won't have the right hardware.
 
-
-
 Google also plans to share design guidelines with other manufacturers to make
-
 Daydream headsets and controllers.
-
-
 
 AN ECHO OF AMAZON'S ECHO
 
-
-
 Google is promoting its new Home smart speaker as a way to access Google's
-
 knowledge - hands free.
 
-
-
 Home will be able to perform many of the same tasks as Echo, Amazon's
-
 internet-connected speaker. Both will use voice commands to play music, field
-
 questions and control home appliances - assuming you've installed "smart"
-
 versions of them.
 
-
-
 If you're feeling creepy about a speaker listening to your conversations, Google
-
 says you can turn the microphone off.
 
-
-
 Home will be available on Nov. 4 for about $130, with advance orders starting
-
 Tuesday. The cylinder-shaped Echo costs $180, though Amazon also sells a smaller
-
 version shaped like a hockey puck that sells for $50.
-
-
 
 WHAT ELSE?
 
-
-
 Google's new video-streaming device, Chromecast Ultra, will support a
-
 higher-resolution video format called 4K. Larger, more expensive streaming
-
 devices such as the $100 Amazon Fire TV already do that. Ultra will cost $69.
 
-
-
 Meanwhile, Google wants to improve Wi-Fi in the home by creating its own router.
-
 The company said people use internet differently now, with games, video chatting
-
 and more on various devices throughout the home. The new Google Wi-Fi system
-
 will cost about $130 for the main device. A three-pack for larger homes will
-
 cost about $300.
-
-
 
 BEYOND GOOGLE
 
-
-
 Even as it pushes Pixel, Google isn't abandoning the Android system that other
-
 manufacturers can use for free. That means Samsung, LG and others can keep
-
 making their own phones with Google software.
 
-
-
 In that sense, Google's approach is more like Microsoft's than Apple's.
-
 Microsoft also has been making hardware through its line of Surface computers
-
 running Windows. That puts Microsoft - and now Google - in the awkward position
-
 of promoting both its own devices and those of rivals that run the company's
-
 software.
-
-
 
 BEYOND HARDWARE
 
-
-
 Google predicts that artificial intelligence will play a greater role in our
-
 lives. CEO Sundar Pichai said computing is transitioning to an AI -first world,
-
 just as it moved to a mobile-first world just a few years ago.
 
-
-
 "Our goal is to build a personal Google for each and every user," Pichai said.
-
 "We want to build a Google for each user."
 
-
-
 Google services along those lines include Google Assistant, software that's
-
 designed to answer questions and retrieve information, conversation-style.
-
 Google Assistant made its debut in a chat app called Allo a few weeks ago. It
-
 will also be part of Home and the new Pixel phones.
 
-
-
 The features demonstrated Tuesday seem similar to what Amazon and Apple already
-
 offer with their virtual assistants. Google officials have repeatedly emphasized
-
 that its AI technology is in the early stages - so it remains to be seen what
-
 this new era for Google will lead to. !@COPYRIGHT=© 2016 Times &; Transcript
-
 (Moncton)
-
-
-
-LOAD-DATE: October 6, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                     Copyright 2016 The Times & Transcript.
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,0 +1,29 @@
+
+
+Users have reported that their new iPhones emit a white noise-like sound when
+the processor is working hard.
+
+Aside from a launch day stock sellout and a few issues with iOS 10, the iPhone 7
+has been a pretty well received device so far. However, there might be a new
+annoyance in store for some surprised fans.
+
+A few iPhone 7 users have reported that the new smartphone from Apple makes an
+odd hissing sound when processing heavy loads. First pointed out by Stephen
+Hackett of 512 Pixels, other users have also complained on Twitter that they're
+experiencing the same problem, with both the iPhone 7 and the iPhone 7 Plus.
+
+By Hackett's account, his iPhone 7 began hissing when restoring it from iCloud.
+The sound seemed to be emanating from the phone's rear, possibly due to the A10
+processor facing near overload. Here's the video Hackett posted, so you can
+listen to the white noise for yourself.
+
+Users have compared the sound to that of a CPU's fans whirring loudly when the
+processor is at work, except, obviously, the new iPhone has no such fans. The
+fact that the iPhone 7 is supposed to be a more power efficient device than its
+predecessors makes the phenomenon even more perplexing.
+
+Apple has made no official comment on the hissing so far, However, it might
+point to a defect in the manufacturing process and not something affecting all
+iPhone 7s, considering the company's customer care support responded to
+Hackett's complaint by asking him to have his iPhone replaced.
+

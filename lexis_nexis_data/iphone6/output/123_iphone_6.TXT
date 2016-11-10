@@ -1,408 +1,180 @@
-                              123 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                             April 25, 2014, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending April 25;
-
-The Marilyn Monroe Phone, delays, fat batteries, faith
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1588 words
-
-
-
 
 
 Aesthetics reared its ugly, or beautiful (depending on your side of the debate),
-
 head in the iOSphere this week, as commentarianscontemplated the question of
-
 whether real iPhones have curves.
 
-
-
 Speaking of curves, the iOSphere was thrown one with a rumor that the Really Big
-
 iPhone 6 would be delayed until 2015. The reason: there are no Really Thin
-
 Batteries for it. Finally, much was made over the prospects, via stock market
-
 analysts, that the stock price of a  Taiwanese firm you've never heard of rise
-
 because it would continue to be one supplier of the aluminum bodies for the
-
 iPhone. The only reason this is important is that the analyst, perhaps unwisely,
-
 predicted 2014 iPhone 6 shipment.
 
-
-
 +More on Network World: Fave Raves: 33 tech pros share their favorite IT
-
 products+ You read it here second.
 
-
-
 __________ "Bulls excited by promise of never-before-seen Apple innovations"
-
             ~ This headline, to a Chris Smith post at BGR.com, wins April's
-
 "Image-from-a-news-headline-we'd-most-like-to-forget-but-can't Award" for its
-
 suggestion of manifestly uncastrated male bovines aroused by promises.
 
-
-
 __________ iPhone 6 will drop flat sides, go with curves, and a "curved display"
-
 or something A Japanese language post at Mac Otakara is spreading confusion, via
-
 Google Translate, in the iOSphere regarding Apple's alleged plans for the body
-
 and display of the iPhone 6.
 
-
-
  The translated version of the website is here. http://translate.google.com
-
 Here's a sample: "According to reliable information, GALAXY S III , has adopted
-
 a curved glass with a rounded edge portion, but there seems to be a possibility
-
 that employ curved glass that was round along the curved surface iPhone 6."
 
-
-
 The translation continues: "The SQUAIR "design of the housing, SQUAIR CURVACIOUS
-
 BUMPER a metal housing that is similar to the state that attached the "not
-
 employ a diamond edge processing, such as the back camera portion, which is
-
 divided for antenna It does not seem to shape."
 
-
-
 According to CNET's Lance Whitney, this means: "The iPhone 6 will incorporate a
-
 curved glass display that will stay flush against the phone's new rounded
-
 corners...."
 
-
-
 "[T]he iPhone's more rounded body would resemble the design used in the Squair
-
 Curvaceous Bumper, which envelopes the phone in a rounded case," Whitney writes.
-
-
 
 Here's what that would look like, based on an image from Squair's website.
 
-
-
 "Apple is not one to jump on the curved display bandwagon without a good
-
 reason," Whitney reminds us. "But if the rounded corner rumor is true, then it's
-
 possible the display itself might need to curve at the edges to fit properly."
-
-
 
 That's one possibility for sure.
 
-
-
 BGR put this hilarious headline on a Chris Smith post about the Mac Otakara
-
 rumor, an exercise in pure clickbait: "New report reveals huge iPhone 6 design
-
 changes" Redmond Pie's Paul Morris posted that Mac Otakara "is claiming that the
-
 soon to be announced next-generation model will ship with a design overhaul in
-
 favor of rounded edges and accompanying curved glass, very much akin to
-
 Samsung's Galaxy S3."
 
-
-
 And that the "same sources are suggesting that whatever device is announced
-
 later in the year will also feature a revamped display made of slightly curved
-
 glass that will be implemented to accompany the rounded edge design."
 
-
-
 Jacob Kleinman at TechnoBuffalo says the post means "the upcoming device will
-
 feature a curved glass design around the edges, offering some sort of hybrid
-
 between the iPhone 5s and 5c design."
 
-
-
 At CultOfMac, John Brownlee gives the Mac Otakara a pop culture spin. The iPhone
-
 6 will "have a curved display. And that's not where the curves stopped: like
-
 Marilyn Monroe, the iPhone 6 will also have curves that fit nicely in the hand."
-
 In case you're too young to know who Ms. Monroe was, here's a clue.
 
-
-
 "Every iPhone since the iPhone 4 has featured straight edges, but with the
-
 iPhone 6, Jony Ive wants a more organic feel in the hand, which makes a lot of
-
 sense, given that the device's increased size will likely make it harder to
-
 hold," Brownlee confidently declares, based on his telepathic insight into the
-
 mind of Mr. Ive.
 
-
-
 AppleInsider's Mikey Campbell takes a swing at what "curved glass" might mean.
-
 "To accommodate the rounded edges, a slightly curved display glass is also said
-
 to be part of Apple's design plans," he writes. "Based on what can be gleaned
-
 from the report, it seems like the top glass will not feature a convex face, but
-
 rounded edges to sit flush with the chassis.
-
-
 
 In other words, your guess is as good as anyone else's.
 
-
-
 5.5-inch iPhone 6 will be delayed The larger version of the iPhone 6, with a
-
 5.5-inch screen, is going to be delayed until 2015, according to a Chinese
-
 language post at Taiwan's Commercial Times, as picked up by GForGames.
-
-
 
 The reason: it's hard to find a battery thin enough to fit inside it.
 
-
-
 "Accord to a recent report coming from the Taiwanese media (or Taiwan's
-
 "Commercial Times" to be exact), Apple's 5.5-inch iPhone 6 (which has been
-
 referred to as the "iPhone Air") might not be ready for the masses by the end of
-
 2014," writes GForGames' Mihai Matei. "Supposedly, Apple's biggest challenge is
-
 to create a very thin device, and the main issue is that the battery cell
-
 suppliers are currently unable to meet the Cupertino giant's demands."
 
-
-
 Matei has numbers. "In general, smartphone batteries have a thickness of roughly
-
 2.8 / 2.9 millimeters, but in Apple's vision, the 5.5-inch iPhone 6 must have a
-
 slick profile which can only be achieved by fitting a battery that measures only
-
 2 mm or less," according to Matei.
 
-
-
 Stranger things have happened, of course. It just seems a bit odd that - five
-
 months from the most-expected iPhone 6 announcement date - Apple is only now
-
 discovering there's a problem with thick batteries.
 
-
-
 iPhone 6 metal casings to be produced by a Taiwan firm you've never heard of
-
 This is one of those "facts" that doesn't really lead anywhere, and yet provides
-
 the perfect growth medium for iOSphere conclusions.
 
-
-
 The starting point is a post at FocusTaiwan, which is the English-language news
-
 service of Central News Agency (CAN), a Taiwan-based news and media company. The
-
 FT post is based on an investors report, prepared by Morgan Stanley analyst
-
 Grace Chen, about Catcher Technology Co., which manufacturers metal (and other
-
 materials) casings for a wide range of products, including smartphones.
 
-
-
 It is at least one supplier of machined aluminum bodies for various Apple
-
 products, including the iPhone.
 
-
-
 "Taiwan's Catcher Technology Co., a casing supplier for Apple Inc., will benefit
-
 from next-generation iPhone product cycle and the growing adoption of metal
-
 casings in smartphones, Morgan Stanley said Monday in a research note,"
-
 according to the FT post.
 
-
-
 "Chen expects Catcher to ship 10.5 million iPhone 6 casings in 2014,
-
 representing an estimated 15 percent share of overall iPhone 6 orders, and will
-
 ship 20 million casings for all iPhone models, about a 17 percent share of total
-
 iPhone orders," according to the post.
 
-
-
 Doing the math, the result shows that Chen apparently believes that Apple will
-
 or could or might ship a total of 70 million iPhone 6 units in 2014, most of the
-
 presumably during the October-December quarter. So...she likes outlook for
-
 Catcher's stock.
 
-
-
 Another CNA news outlet, TaipeiTimes.com, carried a post about a second stock
-
 analyst report on Catcher Technology, this one from Barclays Capital. Barclays,
-
 too, raised its target share price for Catcher, and "said it expects Apple's
-
 next-generation smartphone to be launched in the second half of the year and
-
 that shipments of the new model will be 35 to 40 percent higher than the
-
 previous one."
 
-
-
 The fact that Catcher continues to be a case supplier to Apple for the iPhone
-
 doesn't really tell us anything about the iPhone 6. It's a fact without meaning.
-
 The only fact with potential meaning is Chen's guestimate of how many iPhone 6
-
 units she thinks Apple will ship this year.
-
-
 
 But the iOSphere boldly ventured into extrapolation.
 
-
-
 Mihai Matei, at GForGames, condescendingly begins his post about the two analyst
-
 forecasts by claiming that the "The iPhone 5S seems to lose its charm, reason
-
 why recently, the handset in question has been massively discounted in the US."
-
 (Apart from being false, his claim ignores the fact that in Apple's
-
 just-announced second quarter iPhone sales were stronger than expected, at 43.7
-
 million units, increasing from 37.4 million units in last year's second quarter,
-
 resulting in a slight hike in quarterly profit and revenue.) Matei pulls Chen's
-
 figures from the FT post and writes: "In turn, this means that Apple intends on
-
 shipping roughly 70 million iPhone 6 units in 2014." Of course, it means nothing
-
 of the kind. Neither Chen nor Matei have any knowledge of what Apple "intends."
 
-
-
 Matei concludes, "Apple seems to have a lot of faith in its upcoming iPhone 6.
-
 ..." This is equally meaningless, since there's no way from way, based on a
-
 stock analysts estimate of future product sales, what the degree of Apple's
-
 "faith" - whatever that would mean - in its product.
 
-
-
 For a picture of quarterly iPhone sales, check out this bar chart from
-
 Statista.com.  Q1 in Apple's fiscal year is the October-December quarter, which
-
 usually has the highest number of unit sales. The chart shows that every
-
 quarter's sales have been higher than the year-earlier quarter, and that sales
-
 continue to climb overall.
-
-
 
 That seems like a pretty solid foundation for anyone's "faith."
 
-
-
 John Cox covers wireless networking and mobile computing for "Network World."
 
-
-
 Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: April 28, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2014 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

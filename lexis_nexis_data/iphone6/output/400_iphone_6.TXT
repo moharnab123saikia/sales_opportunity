@@ -1,664 +1,308 @@
-                              400 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                              May 10, 2013, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending May 10;
-
-Popping inventory, Apple's secret factories, June madness
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 2800 words
-
-
-
 
 
 An unstable hot air mass troubled the iOSphere this week, the sky blackened by
-
 contradictory rumors, sometimes in thesame blog post.
 
-
-
 There was even confusion over whether the words "4G iPhone 6" referred to the
-
 Next iPhone or the Current iPhone.
 
-
-
 Also this week: the audacious made-before-your-very-eyes rumor that Apple is
-
 building its own overseas assembly plants; the supply chain is ahead of schedule
-
 and behind schedule so that means a June or perhaps later release date for
-
 iPhone 6; and Sharp is ramping up to mass produce iPhone 5S screens in June even
-
 though it dropped Apple as a customer in January.
-
-
 
 You read it here second.
 
-
-
 __________"The curiously conflicting comments from the factories [of Apple's OEM
-
 partners], which don't line up with known sales figures and inventory
-
 availability, only make sense if Apple is quietly but broadly pulling its
-
 manufacturing orders from its longtime partners in favor of building its own
-
 factories."~ Will Stabley, StableyTimes.com, showing what can be accomplished
-
 when one pretends that comments and figures are based on facts instead of on
-
 rumors.__________ iPhone 6 "pops up in carrier system" Yet another rumor that
-
 promises more than it delivers.
 
-
-
 The headline at GottaBeMobile reads in full: "iPhone 6 Pops Up in Carrier
-
 System, But Far From Release."  Which certainly implies that, you know, someone
-
 saw and identified an iPhone 6.
 
-
-
 In fact, what allegedly "popped up" were the words "4G iPhone 6" on what was
-
 variously called (sometimes in the same online posting) an inventory list, a
-
 product list, a "till system," a computer system, or perhaps all the above, of
-
 British mobile carrier Vodafone.
 
-
-
 "A Vodafone employee reportedly snapped the photo of the computer system showing
-
 an entry for the "4G iPhone 6? mixed in with what appear to be plans and other
-
 device listings," explains Josh Smith.
 
-
-
 The photo was originally published by Stuff.tv.  "Stuff has received a spy shot
-
 of a UK mobile operator's till system which lists '4G iPhone 6' on a product
-
 list," the website announced. Here's the current version of the spy shot, with
-
 some previously visible portions blurred out.
 
-
-
 "The photo was snapped at a UK operator store and strongly suggests that Apple
-
 will be skipping the 5S moniker and jumping straight to the iPhone 6, meaning we
-
 could be in for some drastic changes from the Apple camp," Stuff announces
-
 breathlessly.
 
-
-
 Because the iPhone 5S is just, in the phrase a la mode, a "spec bump" whereas
-
 the iPhone 6 will be a Huge Step Forward.
 
-
-
 But by this time, GottaBeMobile's Josh Smith is busily trying to convince
-
 readers of his post that actually there's nothing to the rumor, because the term
-
 "iPhone 6" doesn't refer to a new iPhone at all.
 
-
-
 "The simpler explanation for the iPhone 6 showing up in Vodafone's system is
-
 that this may be a listing for the [existing] iPhone 5," he reveals. "The iPhone
-
 5 is actually the sixth iPhone, so it could potentially carry the iPhone 6 name
-
 on an internal system that is never meant to see the light of day."
 
-
-
 But there's no holding back Stuff.tv, which reaches escape velocity from the
-
 gravitational pull of Reason in just a few sentences.
 
-
-
 "[W]e could see a totally revamped body which strays away from the iPhone 4S and
-
 iPhone 5's well-established shape," according to Stuff. "With Apple's WWDC
-
 kicking off on June 10th with a plastic budget iPhone expected to make an
-
 appearance, Apple could surprise us all with an early reveal of the iPhone 6.
-
 This would match up with the latest rumours which suggest that iPhone 6
-
 production will begin in July, with an earlier August release date."
 
-
-
 Which of course contradicts rumors from as recently as last week, which pushed
-
 the "iPhone 6" into 2014, leaving us in 2013 with only the "iPhone 5S."
 
-
-
 iPhone 6 will be assembled in Apple's own factories StableyTimes.com is to be
-
 congratulated for what is undoubtedly the most audacious rumor of the week,
-
 created apparently ex nihilo ("out of nothing"): Apple is building and manning
-
 its own overseas manufacturing/assembly factories. The downside to audacity is
-
 that after this, the website will be known as UnstableyTimes.com The post by
-
 Will Stabley starts by misstating, misinterpreting, and mangling news and rumors
-
 about two of Apple's device assemblers, Pegatron and Foxconn.
 
-
-
 "[iPad assembler] Pegatron [is] stating that it's facing a surprise drop in iPad
-
 mini demand from Apple," Stabley asserts.
 
-
-
 "IPhone 5 sales continue to soar while its manufacturer Foxconn reports massive
-
 drops in orders for it as well, with the vendor talking about life after Apple
-
 as if it's already lost the iPhone 6."
-
-
 
 Neither of the companies made such assertions.
 
-
-
 A Bloomberg story this week by Tim Culpan, on Pegatron's first quarter results,
-
 implied that Pegatron's CEO explicitly blamed a drop in iPad orders from Apple
-
 for an expected second quarter decline in Pegatron's consumer electronics
-
 revenues. And that's how it was widely and uncritically interpreted.
 
-
-
 But Fortune's Philip Elmer-Dewitt dissected the Bloomberg story's problems. And
-
 he emailed Pegatron CEO Jason Cheng and asked him about his alleged comments. In
-
 reply, Cheng summarized his interacting with Culpan and concluded "I did not say
-
 anything associated with any specific products." Or, in keeping with the
-
 company's long-standing practice and principles, with any specific customer.
 
-
-
 Which, as Elmer-Dewitt noted, is standard operating procedure for contract
-
 manufacturers, especially those working with Apple.
 
-
-
 Similarly, in its recent quarterly financial report, Foxconn reported a decline
-
 in orders from one customer, without naming the customer. Apple isn't its only
-
 customer; and estimates of the percentage of Foxconn business attributed to
-
 Apple are unreliable, ranging from 40 to 70%. Again, executives made no mention
-
 of Apple or the iPhone.
 
-
-
 But Stabley is undeterred and, apparently unaware of the dangers of building a
-
 house on sand instead of rock (cf the Gospel of Matthew 7:24-27), constructs a
-
 new rumor before our very eyes.
 
-
-
 "The curiously conflicting comments from the factories, which don't line up with
-
 known sales figures and inventory availability, only make sense if Apple is
-
 quietly but broadly pulling its manufacturing orders from its longtime partners
-
 in favor of building its own factories," he declares. It apparently doesn't
-
 occur to Stabley that the comments are in conflict and don't line up because
-
 there's something mistaken about the comments or figures.
 
-
-
 Set aside the question of what actually is "known" about Apple's sales figures
-
 and inventory availability, except quarterly.
 
-
-
 Let's think about this. Apple relies on Asian OEM manufacturers who have honed
-
 their ability to manufacture complex, high quality consumer electronics products
-
 on a mass basis. This takes place, especially in the case of Foxconn, in immense
-
 factories based in Taiwan and China, staffed by hundreds of thousands of
-
 employees in some cases. As a result, these companies have a web of
-
 relationships with local and national political and regulatory authorities,
-
 local labor markets, shipping and freight carriers, and a network of scores or
-
 hundreds of component suppliers to name just a few.
 
-
-
 Apple, according to Stabley, is preparing to scrap this entire, complex
-
 infrastructure and re-create it all by itself.
 
-
-
 "As odd as the idea may sound, it's the only explanation which allows the
-
 current chain of events regarding the two products to make sense," Stabley
-
 insists.
-
-
 
 "Odd" doesn't begin to describe the idea.
 
-
-
 In 2012, Apple invested $9.5 billion in capital spending, "including product
-
 tooling and manufacturing process equipment, and other corporate facilities and
-
 infrastructure." That was more than double what it spent in 2011. Apple
-
 indicated last fall it will spend over $10 billion in the current fiscal 2013.
 
-
-
 In a November 2012 analysis of this spending, Asymco's Horace Dediu suggests
-
 that some of this money is to secure manufacturing assets of Sharp Corp., a
-
 financially struggling screen manufacturer and a key supplier of mobile displays
-
 to Apple. The rest of it is investing in equipment that is owned by Apple but
-
 deployed at the manufacturing plants of its OEM contractors.
 
-
-
 "The overall story remains that Apple is still injecting vast and growing
-
 amounts of capital into production and placing those assets on its own balance
-
 sheet," Dediu concluded.
 
-
-
 Far from replacing the strengths and infrastructure of OEM partners, Apple's
-
 capital spending leverages them. And the $20 billion being spent in calendar
-
 2012 and 2013 indicate a massive growth in production capacity and, conceivably,
-
 in equipment for new categories of Apple products, as Tim Cook indicated at
-
 Apple's most recent earnings call when he talked about product introductions
-
 starting in the fall of 2013 and continuing into 2014.
 
-
-
 iPhone 5S or 6 due in June, or maybe July or August, no matter what Tim Cook
-
 says If it's Friday, the Apple supply chain must be behind schedule again. Or
-
 ahead of schedule. It all depends.
 
-
-
 International Business Times on May 8 declared that "New rumours claimed that
-
 Apple's upcoming smartphones, iPhone 6 and 5S, is set to be launched next month
-
 along with iOS 7."
-
-
 
 That seems straightforward enough, eh?
 
-
-
 "This contradicts earlier reports that the next iPhone will be released as early
-
 as later this year, according to the somewhat confused phrasing of Kristin Dian
-
 Mariano. She mentions that Apple CEO Tim Cook recently said, pretty clearly,
-
 that new hardware, software and sources would begin to be announced in the fall
-
 of 2013. Rather amazingly, she takes this as proof that "the reports on the
-
 delayed release date of Apple products proved to be true."
 
-
-
 The June release rumor also contradicts IBT's post - the day before on June 7 --
-
 that the "production of iPhone 6 and 5S may commence as soon as July." IBT's
-
 source for this claim was a post at PatentlyApple on May 6, which in turn cited
-
 but didn't link to a "new Chinese report" that Apple's "supply chain
-
 manufacturers have begun to receive component parts for the new iPhone,
-
 supposedly named the 5S."
 
-
-
 PatentlyApple's Jack Purcher explains it takes two months to "reach the assembly
-
 stage," which means the Next iPhones will be assembled in July and released in
-
 August.
 
-
-
 "Today's latest rumor suggests that Apple could be breaking with their
-
 traditional September-only release time frame for new iPhones," Purcher says.
 
-
-
 That would be the ancient and venerable 2-year-old tradition encompassing the
-
 iPhone 4S, released October 2011, and the iPhone 5, released September 2012.
 
-
-
 "The rumor is blatantly suggesting that the iPhone 5S would debut in August and
-
 a new economical entry in September." For no identifiable reason, Purcher
-
 considers this a "stretch."
 
-
-
 "Yet for now, the rumor of the day out of Apple's supply chain is that Apple has
-
 moved up their part orders earlier than normal which could point to an earlier
-
 release of the iPhone 5S."
 
-
-
 So putting together these two websites' "reporting," we now know that Apple's
-
 supply chain is running ahead of schedule and behind schedule, that the release
-
 of the Next iPhones will be later than planned and earlier than planned, and
-
 could be released in June, August, or September or possibly as early as later
-
 this year.
 
-
-
 iPhone 5S display panel from Sharp ramps up production in June or not More
-
 "reporting" from the supply chain.
 
-
-
 "A report from the Far East on Tuesday says struggling LCD manufacturer and
-
 Apple supplier Sharp is ready to ramp up display manufacture for the
-
 next-generation iPhone, with mass production slated to start next month," says
-
 AppleInsider's Mikey Campbell.  The information, such as it is, is lifted
-
 originally from a Japanese website, Nikkan Kogyo Shimbun. The website post also
-
 caught the eye of VentureBeat's John Koetsier, who like Campbell, wrote a
-
 summary that managed to be longer than the original.  Koetsier linked to a
-
 Google Translate version of the original post, something that always require a
-
 certain, uh, flexibility of imagination to grasp its meaning, since you end up
-
 with sentences like: "Appears to have embarked on production readiness of
-
 consecutive holidays from May Kameyama Plant No. 1 of Apple smartphones LCD
-
 dedicated plagued by sluggish occupancy rate since the beginning of the year in
-
 (Kameyama, Mie Prefecture)."
 
-
-
 A generous interpretation appears to be: the Japanese website claims that Sharp
-
 will ramp up production of iPhone 5S displays starting in June. Koetsier calls
-
 attention to this sentence: "The liquid crystal panel of the next model 'iPhone
-
 (iPhone) 5' Apple, specification is close to the current and the 'iPhone 5'."
 
-
-
 "In other words, the 5S is the same size and shape as the 5, which means that
-
 this particular product is not the iPhone Mini or iPhone Maxi that have recently
-
 been rumored," Koetsier explains. "Which doesn't, of course, mean that Apple is
-
 not sourcing components for those potential products from other manufacturers."
 
-
-
 Exactly. What we know points to the opposite of what we thought we knew but that
-
 doesn't mean that what we thought was happening isn't actually happening. As
-
 Will Stabley might put it, "As odd as the idea may sound, it's the only
-
 explanation which allows the current chain of events regarding the two products
-
 to make sense."
 
-
-
 Yet despite the rumors that Sharp is ramping up iPhone display production, this
-
 week also brings rumors that say, basically, the reverse. "Surprising Report
-
 Surfaces Claiming Sharp has Dropped Apple" is the headline at PatentlyApple.
 
-
-
 "A surprising Korean report [by Korea IT News] this afternoon emphatically
-
 states that Sharp, the leading company in the small & medium-sized LCD panel
-
 market, is starkly changing its supply strategy...."writes Jack Purcher.
-
 "According to the industry on May 8, Sharp stopped the production of LCD panels
-
 for iPad as of January this year and started supplying Samsung with small and
-
 medium-sized IGZO panels instead."
 
-
-
 The problems with this assessment are almost as great as those associated with
-
 Stabley's assessment that Apple is building its own assembly plants, as this
-
 March 27 story by The Wall Street Journal makes clear: "Sharp Corp. is banking
-
 on a proprietary technology with an unproven track record to revive its fortunes
-
 after it soon reports what's expected to be the largest annual loss in its
-
 100-year history."
 
-
-
 Thoroughly reported, the Journal story clarifies the technology's benefits,
-
 reveals its importance to Sharp, and puts the company's product and financial
-
 challenges in context.
 
-
-
 "The technology is IGZO, short for indium gallium zinc oxide, and it's a
-
 semiconductor material developed to make liquid crystal displays. It appears to
-
 be a major step forward from the more common silicon-based alternatives,
-
 promising twice as much battery life, sharper images and a more than fivefold
-
 increase in the sensitivity of touch screens for smartphones and tablets."
 
-
-
 Here's how important IGZO is to Sharp, according to the Journal story: "'IGZO
-
 will be the technology to rescue Sharp,' Takashi Okuda, the company's president,
-
 told a news conference Nov. 1 [2012] as the electronics maker warned that its
-
 financial situation was so tenuous it was worried about its future as a 'going
-
 concern.'" But the rescue is not assured. From the Journal: Sharp is "on track
-
 for a loss of nearly $9 billion [!] over the past two fiscal years, and its
-
 interest-bearing debt dwarfs its cash on hand by a ratio of seven to one." The
-
 story continues: "Ironically, the exclusive advances made by Sharp's IGZO
-
 screens are limiting the company's reach. Major electronics manufacturers often
-
 insist on at least two suppliers for every key component to ensure stable supply
-
 and maintain pricing leverage."
 
-
-
 As noted above in "iPhone 6 will be assembled in Apple's own factories," Apple
-
 may have been heavily involved in 2012 in propping up Sharp's troubled finances.
-
 Samsung recently took about a 3% equity stake in Sharp, and according to the
-
 Journal is set to expand its purchase of Sharp IGZO displays, currently found on
-
 Samsung products sold only in Japan. It's not clear that Samsung's stake is to
-
 persuade or compel Sharp to "drop" Apple, given how desperately the display
-
 maker needs more, not fewer, customers.
 
-
-
 The Journal notes two other display makers are investing in IGZO, but don't seem
-
 to have reached the level of Sharp: Innolux Corp., a unit of Taiwan's Hon Hai
-
 Precision Industry Co. (parent of Foxconn, a main assembler for Apple products)
-
 started producing IGZO displays in small quantities in February 2013; and AU
-
 Optronics Corp., also based in Taiwan, has developed IGZO displays, "but it
-
 hasn't said if or when it will start mass production."
 
-
-
 So we know that Sharp is ramping up production of screens for the next iPhone.
-
 And we know that it's not.
 
-
-
 John Cox covers wireless networking and mobile computing for Network
-
 World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: May 13, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

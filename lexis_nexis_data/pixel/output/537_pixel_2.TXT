@@ -1,110 +1,32 @@
-                              537 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           December 6, 2014 Saturday
-
-
-
-US Patent granted to Google Inc (California) on December 2, titled as "System
-
-and method for sub-pixel alignment of digital geographic imagery"
-
-
-
-LENGTH: 258  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,903,137, on
-
 December 2, 2014, to Google Inc (California), titled as "System and method for
-
 sub-pixel alignment of digital geographic imagery"
 
-
-
 Inventors:  Guo; Hong (Palo Alto, CA), Yonas; Aaron David (Berkeley, CA),
-
 Marwood; David (Mountain View, CA)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Systems and methods for associating geographic coordinates with one or more
-
 points in a digital geographic image, such as a satellite image, aerial image,
-
 ground based image, street level image or other suitable geographic image are
-
 provided. More particularly, a digital geographic image can be analyzed to
-
 identify one or more features that may be suitable as measurement points for
-
 collecting measured ground truth data. The one or more features can be described
-
 as a mathematical model that defines image coordinates along the feature
-
 depicted in the digital geographic image with sub-pixel accuracy. Image
-
 coordinates can be assigned to the measurement points with sub-pixel accuracy
-
 using the mathematical model. Collected ground truth data can then be associated
-
 with the identified image coordinates to allow for the more precise association
-
 of geographic coordinate information to points in the digital geographic
-
 imagery."
-
-
 
 The patent was filed on October 26, 2012 Application no. 13/661,598
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: December 6, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

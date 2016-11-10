@@ -1,158 +1,54 @@
-                             725 of 1000 DOCUMENTS
-
-
-
-
-
-
-
-                                The Jordan Times
-
-
-
-                            March 24, 2016 Thursday
-
-
-
-Deceptive numbers versus quality
-
-
-
-LENGTH: 544  words
-
-
-
 
 
 By Jean-Claude Elias - Mar 24,2016 - Last updated at Mar 24,2016
 
-
-
 In an apparently strange move, Samsung's newest flagship smartphone, the Galaxy
-
 S7, features a 12-megapixel (MP) camera, whereas two models ago the company S5's
-
 camera sported 16MP. Does this constitute a step backward, a bad thing?
 
-
-
 On the contrary, it is a wise move forward and the decision of a manufacturer
-
 that is now mature. More importantly it tells you a lot about deceptive numbers
-
 versus quality. If this known commercial behaviour can be found in many fields,
-
 it is more particularity flagrant in the world of high-tech where vendors try to
-
 entice you to buy their products by impressing you with raw numbers that do not
-
 really reflect the final quality or performance.
 
-
-
 As a matter of fact, the new Galaxy S7 camera performs significantly better than
-
 previous models that have higher MP count and has already received a milestone
-
 of 88 per cent, the highest mark by any smartphone camera on the respected
-
 DXOMark web reference test. The explanation is simple, regardless of MP count,
-
 the S7 lens is of a much better quality. Besides, professional photographers are
-
 rarely impressed by the MP count that only reflects the size of the photo you
-
 get in the end, not its quality. And since 12MP already produce a quite large
-
 picture, who needs more then on a phone set?
 
-
-
 Transpose the concept to Internet subscriptions now. In Amman you can get a 24Mb
-
 ADSL line or a 4Mb leased line, among other options of course. Here again, 24Mb
-
 seems faster at first sight. The truth is it is not. The inherent structure of
-
 ADSL means that you are actually sharing the line with a few other subscribers
-
 and that what you actually get depends on everybody's usage at any given moment.
-
 In other words, the real speed is totally inconsistent and oscillates between
-
 some values, the highest of which is 24Mb, if you are very, very lucky.
 
-
-
 On the other hand, a leased like is just for you, fully dedicated, no one else
-
 uses it and you always get consistent 4Mb, both in upload and download, which
-
 anyway is never the case in ADSL mode. Now of course, ADSL even at 24Mb will
-
 cost you between 400 and 800 dinars per year (depending on whether you are a
-
 home user or a business client), whereas leased lines are five to six times more
-
 expensive; but this is another subject altogether.
 
-
-
 On to hard disks. Forget about terabytes, although the flashy numbers can always
-
 help you to impress your friends over social talk in the evening. Typically
-
 vendors will only tell you about how large the capacity of the hard disk is,
-
 1TB, 2TB, etc., but its actual working speed is kept in the background, in the
-
 shadow. Hard disks rotational speed varies from as "slow" as 4,500 rpm
-
 (rotations per minute) to superfast models operating at 15,000 rpm. In between
-
 these two extremes, you get 5,400, 7,500 or 10,000 rpm. The slowest are usually
-
 found on entry-level laptop computers, whereas the fastest are installed on
-
 servers.
 
-
-
 Naturally, in the end it all boils down to numbers when it comes to technology,
-
 but vendors should give you all the numbers, not just those they choose to put
-
 forward, and the accurate ones what's more. It's like telling the truth in
-
 court, in cannot be just partial, it must be complete so as not to deceive.
-
-
-
-LOAD-DATE: March 25, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: 62
-
-
-
-
-
-                        Copyright 2016 The Jordan Times.
-
-                        Provided by Syndigate Media Inc.
-
-                              All Rights Reserved
-
-
-
-
 

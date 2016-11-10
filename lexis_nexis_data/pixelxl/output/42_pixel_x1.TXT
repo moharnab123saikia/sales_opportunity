@@ -1,854 +1,417 @@
-                               42 of 64 DOCUMENTS
-
-
-
-               Copyright (c) 2007 by the Vermont Bar Association
-
-                      The Vermont Bar Journal & Law Digest
-
-
-
-                                  Summer, 2007
-
-
-
-                           33 Ver. B. J. & L. Dig. 46
-
-
-
-LENGTH: 3798 words
-
-
 
 FEATURE: COOL TECHNOLOGY FOR HOT LAWYERS
 
-
-
 by Sharon D. Nelson, Esq. and John W. Simek
 
-
-
 Sharon D. Nelson, Esq. and John W. Simek are the President and Vice President of
-
 Sensei Enterprises, Inc., a legal technology and computer forensics firm based
-
 in Fairfax, VA. They can be reached at. 703-359-0700 or online at
-
 www.senseient.com.
-
-
 
    (c) 2007 Sensei Enterprises, Inc.
 
-
-
 TEXT:
 
-
-
     [*46]  Most lawyers, if not quite technophobes, have a limited knowledge of
-
 technology. Did the clock on your VCR flash a perpetual 12:00 because you
-
 couldn't figure out how to reset it? Do you have a cell phone with five hundred
-
 functions, about five of which you know how to use? If so, you are members of a
-
 very large club. If multiple remotes befuddle you and you find yourself asking
-
 your ten-year old for assistance to watch a DVD or get rid of non-English
-
 subtitles, you are far from alone.
 
-
-
    Very few lawyers are adept at technology. Many of the rest wish they were,
-
 knowing that technology can facilitate efficiency in their law offices. Really,
-
 it is not always difficult or costly to implement. In addition, there are some
-
 cool gadgets that can make you, well, kind of hot. You may even impress that
-
 ten-year old. The fringe benefit will be making everyday tasks easier and more
-
 secure.
 
-
-
    We'll cover several different items that will help bring your practice into
-
 the twenty-first century. Some are physical and some are just procedural. These
-
 days, no law office can expect to be successful unless it begins to harness the
-
 power of the Internet and the significant advantage (not to mention the low
-
 cost) of electronically communicating with colleagues and clients. Best of all,
-
 there are additional revenue streams to be found from the tech world--and what
-
 lawyer isn't hungry to drink from those waters?
-
-
 
    Below are our some of our suggestions for cool technology for hot lawyers!
 
-
-
 Digital Cameras
 
-
-
    There should be a digital camera in almost every law office. Many of the
-
 cameras can also capture motion footage too, but a good "still" digital camera
-
 is an essential piece of equipment. You might use the camera to take pictures of
-
 the plaintiff's accident scene, your defendant's crime scene, your plaintiff's
-
 construction site in a breach of contract dispute, or just your good-looking
-
 staff in order to post it on your firm web site. It's getting harder and harder
-
 to find a 35mm film camera these days and even professional photographers are
-
 using high-end digital cameras. Besides, a digital camera gives you instant
-
 access to your photos without the wait for film developing.
 
-
-
    What should you look for in a digital camera and how much to spend? As a
-
 minimum, you should purchase at least a 5 mega pixel camera. So what is a mega
-
 pixel? A mega pixel is a unit of image-sensing capability for a digital camera.
-
 In general, the higher the mega pixels, the better the resolution of an image
-
 printed at a certain size. In other words, an image from a 5 mega pixel camera
-
 will start to appear grainy before one from a 7 mega pixel camera as the image
-
 size increases. Expect to pay a little over $ 100 for a good 5 mega pixel
-
 camera. You almost can't go wrong with any of the name brand cameras, such as
-
 those from Nikon, Canon, Sony, and Kodak. If you can afford it, get a 7 mega
-
 pixel camera, which should last you for several years and is capable of
-
 producing good-sized clear exhibits.
 
-
-
    What about the zoom capability? The most important characteristic of the zoom
-
 value is the optical zoom setting. Some manufacturers tout 15x or 20x zoom
-
 capability, but that's the digital zoom setting. Electronics are used to get the
-
 high magnification factors and quality is less than optimal as the digital zoom
-
 gets higher and higher. In contrast, the optical zoom is the capability of the
-
 lens optics. Normally, values in the 3x or 4x range are more than sufficient and
-
 will produce crisp and clear images.
 
-
-
    Many of the digital cameras also allow you to take motion pictures and store
-
 them in MPG, AVI, or MOV formats. Check with the manufacture to determine the
-
 storage format for video clips, as there is no single standard that all
-
 manufacturers use. The video clip capability is a "quick and dirty" way to store
-
 motion pictures. If you are going to be doing a lot of motion picture recording,
-
 get a digital video camera, which is specifically designed for video recording.
 
-
-
    Memory for your digital camera is less of an issue since you can typically
-
 increase the storage capability by purchasing additional cards. If you have
-
 several digital cameras, try to get models that use the same form factor for the
-
 memory cards. This gives you more flexibility since you can swap the cards among
-
 different cameras. It is probably pretty obvious, but you can store more
-
 high-resolution images on the larger memory cards. This may be particularly
-
 important if you plan on storing a lot of video clips, which take up more
-
 storage space.
-
-
 
 Image Organization
 
-
-
    You should have some method in which to organize your graphic files. As an
-
 example, you'll want to keep your digital photos of the intersection where the
-
 accident occurred separate from the ones of your grandchildren at Christmas.
-
 Lest you think this is a small point, we hasten to note that we have seen one of
-
 our colleagues teach a CLE and accidentally pull up a photo of an unclothed
-
 young lady. This is a very big "whoops." If you are using case management
-
 software, then reference the digital photos to the particular case. A very
-
 simple method would be to create a folder structure on your computer and just
-
 copy the images there. It also helps to actually name the files with some
-
 description of the actual picture. Digital cameras have an automatic naming
-
 scheme, which doesn't help at all in identifying the picture contents. It is
-
 much easier (and faster) to access a picture named 'Main Street Looking
-
 South.jpg' then to try and figure out what a picture named 'DCS00129.jpg' is all
-
 about.
 
-
-
    An excellent and free (lawyers love free!) photo organization software is
-
 Picasa by Google. n1 Picasa provides an easy interface to sort and describe your
-
 image collections. You can also touch-up your photos and even burn them to a CD.
-
-
-
-
-
 
 
 
 
    n1 http://picasa.google.com.
 
-
-
 Thumb Drives
 
-
-
    USB thumb drives, flash drives, jump drives, and pen drives are all names for
-
 a small portable item that is nothing more than a solid-state storage device.
-
 We'll use the term "thumb drive" to refer to these wonderful devices that no one
-
 should be without. The term "thumb drive" came to be because these hummers are
-
 about the size of your thumb. Duh. They fit into the USB port  [*47]  of your
-
 desktop or laptop. Windows 2000 and above have native support for thumb drives.
-
 Many manufacturers also supply drivers for a Windows 98 system. The thumb drive
-
 appears as another disk drive to your computer. Think of it as a large size
-
 electronic floppy disk. They come is sizes from 16MB all the way up to a
-
 whopping 16GB!
 
-
-
    What are the practical uses for a thumb drive? Since they are portable, thumb
-
 drives are great for copying data from your work computer to take home. We
-
 regularly copy our PowerPoint presentations to a thumb drive as a backup when we
-
 lecture. If our laptop dies, we still have the presentation on a thumb drive and
-
 can borrow another presenter's equipment. Reference materials and special
-
 utility software are also excellent candidates for the thumb drive. If you are
-
 recording your CLEs for online presentation, it is very helpful to have someone
-
 attend with a thumb drive so they can download the speaker's PowerPoint, which
-
 in all likelihood will not have been completed until the day before (or day of!)
-
 the presentation.
 
-
-
    Another consideration is the security of the data on the thumb drive. These
-
 devices are easy to lose since they are relatively small. Losing a thumb drive
-
 with your confidential client data is not a good thing. Have you ever misplaced
-
 your cell phone? 'Fess up now. If you think a cell phone is easy to lose, think
-
 about a thumb drive, which is often carelessly tossed in a pocket. You'll be
-
 lucky if you just end up with it in the laundry. It is remarkably easy to pull
-
 out your car keys and leave your thumb drive (with all its confidential data) in
-
 a parking lot. Several manufacturers provide software (usually via their web
-
 site) that allows you to encrypt the data or provide a portion of the drive to
-
 store encrypted data. Some of the really cool thumb drives even have biometric
-
 access in order to get to the data. Just make sure that you scan in at least two
-
 fingers/thumbs in case you try to emulate Emeril one night and end up with a
-
 sliced finger.
-
-
 
 Scanner
 
-
-
    As we begin to move towards a paperless practice, a scanner is a requisite
-
 piece of equipment. Consider the Fujitsu ScanSnap S500 scanner. It can scan
-
 double-sided color pages at the rate of eighteen per minute. The best part is
-
 that this scanner costs around $ 500 and includes a copy of Adobe Acrobat 7.0
-
 Standard! Acrobat alone costs over $ 250 if purchased separately. The previous
-
 model (fi-5110EOX2) is no longer available; however, the S500 seems to be an
-
 even better replacement unit.
-
-
 
 The Palm Treo 700w(x), a/k/a The BlackBerry Killer
 
-
-
    We affectionately call the Palm Treo 700w device the BlackBerry Killer.
-
 Research In Motion (RIM), the manufacturer of the BlackBerry, seems to have
-
 escaped a death knell in the legal battles over the technology used in their
-
 addictive little devices. Legal battles seem to follow RIM everywhere, with the
-
 latest lawsuit involving the Texas company, Visto. While RIM was focused on past
-
 litigation, a competitor quietly found a way to strike a blow to BlackBerry's
-
 jugular. A major problem with the BlackBerry is cost. RIM requires the use of a
-
 BlackBerry Enterprise Server (BES) to facilitate the integration of the
-
 corporate e-mail server and the BlackBerry service. There is a cost for the BES
-
 software and the hardware to run it on. Many small and medium-sized firms have
-
 consequently avoided the BlackBerry and several large firms are considering a
-
 massive exodus to a non-BES environment. The recent BlackBerry network outage
-
 (over ten hours) has caused even more firms to investigate alternatives that
-
 won't make them wholly dependent on a vendor with a single point of failure.
 
-
-
    Enter the BlackBerry Killer. The Treo 700w (or 700wx) is a Windows Mobile 5
-
 device. Any Windows Mobile 5  [*48]  device with the Microsoft Messaging and
-
 Security Feature Pack (MSFP) can connect with an Exchange 2003 Server with
-
 Service Pack 2 and support the Direct Push Technology. This complete
-
 implementation is at no additional cost and requires no additional server. More
-
 and more corporations and law firms are moving away from the BlackBerry because
-
 of cost and complexity issues, not to mention RIM's continuing legal battles. As
-
 an added bonus, you can remotely wipe the data from the Treo 700w if it is lost
-
 or stolen. We have first hand experience with the Treo 700w and Direct Push
-
 Technology. We absolutely love it, with the minor caution that every once in a
-
 while you do have to "reset" your phone. After all ... it is a Windows-based
-
 phone, so why shouldn't it require a periodic reboot just like your computer?:)
-
-
 
 iPods
 
-
-
    The iPod isn't just for music anymore. The latest versions of the iPod can
-
 now store video clips along with music, podcasts, digital photos, and
-
 audiobooks. Podcasts (a web feed of audio or video files placed on the Internet
-
 for subscribers to download to their iPods) are one of the many implementations
-
 of iPods. Podcasts include such things as the updated sports scores, latest news
-
 headlines, radio talk shows, and even CLEs. The podcast is downloaded to the
-
 iPod for later playback. This is the leading edge of legal tech these days. Many
-
 lawyers now consider the iPod a "must have" device, especially if they have long
-
 commute times or a lot of plane and airport time. n2
 
 
 
-
-
-
-
    n2 For more information on legal podcasts, check out
-
 http://www.law.com/jsp/legaltechnology/PubArticleFriendlyLT.jsp?id=1133517911750
-
 and the podcasts of two good friends, Tom Mighell and Dennis Kennedy, at
-
 http://tkmr.libsysn.com.
 
-
-
    The iPod can be used to store any type of file and even be the destination
-
 for your backup files. The portability allows you to backup your office computer
-
 to your iPod and move the data off-site. The video feature is pretty cool, too.
-
 You can download classic Disney or Pixar animated shorts, and over three
-
 thousand music videos and hundreds of television shows from the iTunes store. If
-
 you have any trouble, your ten-year old can be summoned to answer your
-
 questions.
 
-
-
    One caveat concerning iPods (and any other portable device for that matter).
-
 You must make sure that the iPod is charged prior to use. The authors recently
-
 flew out to Honolulu for the ABA Annual Meeting. Both authors own the 60GB
-
 version of the iPod Video. Guess which author's iPod didn't work for the entire
-
 flight because the batteries were dead. J (Note from the guilty party: So where
-
 was my tech support, John?)
-
-
 
 Metadata Scrubbers
 
-
-
    While we don't think of metadata scrubbers as a hot technology because
-
 they've been around for a while, we find that most solo and small firm lawyers
-
 have not yet addressed the problem of metadata--these days, that's becoming an
-
 invitation to be accused of malpractice. Metadata is generally described as data
-
 about data. Microsoft Office products (especially Word) carry a large amount of
-
 metadata; other vendors' products also carry metadata, although generally to a
-
 lesser extent. As an example, metadata in a Word document would be such
-
 information as the author of the document, date last printed, tracked changes,
-
 last access date, document creation date, and embedded links.
 
-
-
    Lawyers handle a lot of confidential data. They also hand draft versions of
-
 documents around for comment. The careful attorney will want to make sure that
-
 the final version of a document sent to the client, court, opposing counsel, or
-
 elsewhere is clean of metadata so that earlier versions, comments, and so forth,
-
 are not recoverable. By this time, almost everyone has heard metadata horror
-
 stories, including court briefs including such recoverable draft comments as
-
 "Judge XXXX isn't very bright, but even a fool wouldn't buy this argument." Or
-
 how about the partner who had his associate draft a very important contract for
-
 a client and then billed the entire matter at partner rates? He's up on
-
 disciplinary charges, hoisted on his own petard by the document's metadata.
 
-
-
    There are several products to scrub the metadata that vary in cost and
-
 effectiveness. Microsoft provides a free metadata scrubbing utility, but it only
-
 works with Office 2003. Trace! by Workshare, n3 is a free metadata scrubbing
-
 utility. It is not an automated process, so you have to remember to run the
-
 software each time you wish to review or scrub the metadata from the file. Our
-
 personal recommendation is Metadata Assistant by Payne Consulting, n4 which
-
 costs $ 79 and fully integrates with the Office suites. If you e-mail a Word
-
 document as an attachment, Metadata Assistant will prompt you to scrub the
-
 metadata or send it without cleaning. It is idiot-proof enough that the lawyer
-
 half of this writing duo has been saved from herself more times than she can
-
 count. Lawyers move too fast to be trusted to remember to scrub each document
-
 they attach to e-mail. All by itself, the prompt feature of Metadata Assistant
-
 makes it worth investing in.
-
-
-
-
 
 
 
    n3 www.workshare.com.
 
-
-
    n4 www.payneconsulting.com.
-
-
 
 Auto Complete
 
-
-
    More and more, lawyers are falling into this snake pit, as their software
-
 helpfully completes e-mail addresses as they begin to enter them. Make sure you
-
 turn off the auto complete feature of your e-mail client. A large number of
-
 attorneys use Outlook for e-mail access. Some think it's a great advantage to
-
 begin typing a client name and have the software automatically complete the
-
 rest. This is a recipe for disaster at best and more realistically,
-
 auto-complete may mean auto-embarrass. This means that you could be typing a
-
 message that you intend to send to Frank Jones. As you begin to type Frank,
-
 Outlook fills in the rest of the name. You hit 'send' before seeing that the
-
 auto complete inserted Frank Allen (opposing counsel) instead for the intended
-
 recipient. Oops! The vast majority of lawyers using auto-complete report that
-
 they have sent confidential data to the wrong party. This is not a roster you
-
 want to see your name on.
-
-
 
 Desktop Search Engines
 
-
-
    Ever have a need to find something on your computer when you have no idea
-
 what the file name is? Enter the desktop search engines. Desktop search engines
-
 are software applications that are used to find information on your computer.
-
 You can always use the 'find' function of Windows, but there are many other
-
 alternatives that are much, much faster and potentially more accurate.
 
-
-
    Probably one of the most "famous" of the desktop search engines is Google
-
 Desktop. The Google Desktop is free (as we said before, lawyers love free) for
-
 personal and internal business use. You install the Google Desktop and then
-
 configure it to "point" to certain folders and file types. Google Desktop
-
 indexes the files to aid in the search speed. Google Desktop does have its
-
 limitations, so take it for a "test drive" and see if you need something more
-
 robust.
 
-
-
    X1 n5 and dtSearch n6 are two excellent commercial versions of desktop search
-
 software. Both are widely used in the commercial marketplace and very efficient.
-
 You really can't go wrong with  [*49]  either of these recommendations for a
-
 very robust search solution. A number of our law firm clients have implemented
-
 these tools and regard them as invaluable.
-
-
-
-
 
 
 
    n5 www.x1.com.
 
-
-
    n6 www.dtsearch.com.
-
-
 
 Laptop Locks
 
-
-
    It is just amazing to us that many of our colleagues leave their laptops in
-
 their hotel rooms without securing them. All of the modern day laptops are
-
 constructed with a locking slot to accept a laptop lock. The laptop lock is a
-
 cable device with a key or combination lock at the end. The cable is wrapped
-
 around a secure device in the hotel (perhaps the bed frame) and then it is
-
 locked to the laptop. Kensington is just one company that produces excellent
-
 laptop locks. You should be able to get a very decent laptop lock for $ 20 to $
-
 50. In case you've missed the recent news stats, laptops are the number one
-
 stolen item at airports and hotels.
-
-
 
 Secure Laptops
 
-
-
    More and more data is being compromised because of laptop theft and loss. It
-
 seems like the latest craze is to have your laptop stolen with confidential
-
 client information. Even the FBI has lost hundreds of laptops, so you think
-
 you're immune? Unfortunately, most attorneys have significant personal and
-
 confidential information on their laptops and take no precautions to secure
-
 access to the data. As a minimum, get yourself some encryption software and
-
 create a "virtual disk" on your laptop to store information securely. PGP
-
 (Pretty Good Privacy) is a very popular and secure software encryption
-
 application that can meet your needs.
 
-
-
    Investigate biometrics if you need even more security. Our ThinkPad laptops
-
 have biometric access just to get past the "power on" sequence. You swipe your
-
 finger across the reader, which retrieves the data from the security subsystem
-
 of the laptop. As with all biometric devices, make sure you register at least
-
 two fingers, in case Emeril-emulation results in a lacerated digit. To make it
-
 even more secure, the hard disk is "married" to the security chipset on the
-
 system board. This means that the hard drive cannot be accessed if it is removed
-
 from the laptop. With this type of configuration, the hard disk still has to be
-
 in the casing even if you are trying to access the drive forensically.
-
-
 
 Anti-Spyware
 
-
-
    Anti-virus software is no longer an option for modern computing. The latest
-
 threat to the computing environment is spyware (Trojans, adware, malware,
-
 keystroke loggers, root kits, etc.). We now have to install anti-spyware
-
 software to protect us from these threats. The anti-virus vendors are beginning
-
 to provide spyware protection in their products, but they are generally immature
-
 when  [*50]  compared to vendors that explicitly provide anti-spyware
-
 applications. Two very popular, effective and cost efficient products are Spy
-
 Sweeper by Webroot n7 and CounterSpy by Sunbelt Software. n8 Both vendors offer
-
 standalone consumer versions and centrally-managed enterprise editions.
-
-
-
-
 
 
 
    n7 www.webroot.com.
 
-
-
    n8 www.sunbelt-software.com.
-
-
 
 Huge Attachments
 
-
-
    Some of you may have limitations for the size of attachments that you can
-
 send with your e-mail messages. This limitation may be imposed by your ISP or
-
 internally restricted by your law firm IT staff. It is not uncommon to have a
-
 limitation of 2MB for a file attachment. What do you do if you need to send a
-
 file that is larger? There is a free service--www.yousendit.com--that allows for
-
 files of up to 100MB in size. You log on to YouSendlt and transfer your file to
-
 their servers. You receive a URL that points to the file that is stored in an
-
 encrypted format. You send the URL to the recipient and they download the file
-
 from the YouSendlt servers in a decrypted form. Easy peasy, and once again, at
-
 an attorney's favorite cost: zilch.
-
-
 
 Mobile Hot Spots: Two for the Road
 
-
-
    One of our favorite technology gadgets is our portable wireless AP.
-
 Effectively; we create our own "hot spot" in our hotel room while traveling. No
-
 more Ethernet cables stretching across the bed and both of us can share the
-
 single broadband connection at the same time. This is a great stride in marital
-
 amity.
 
-
-
    So what makes this magic happen? We use the AirPlus G DWL-G730AP Wireless
-
 Pocket Router/AP from D-Link. The product can be used as a router, access point,
-
 or wireless network adapter. It costs around $ 55 and is really small for easy
-
 transport. The DWL-G730AP comes with its own travel case, power adapter, and
-
 cables. It is amazingly small at only 3.15"x2.36"x0.67" (LxWxH). It is an
-
 extremely powerful little device and we never leave home without it.
-
-
 
 Secure Internet Access at Starbucks, et al.
 
-
-
    Make sure that you do not transmit any sensitive information over a wireless
-
 or unsecured wired connection. If you access your company e-mail via a web
-
 browser, make sure you at least use SSL (Secure Socket Layer) by having the
-
 https:// in the URL. If you connect to the firm's network, use a VPN (Virtual
-
 Private Network), which provides a secure, encrypted connection for the data
-
 flow. Mobile hot spots are a boon to network infiltrators, so it is imperative
-
 to get enough training that you can connect securely. Mobile hot spots are
-
 seductive, especially when free, but they require a duty of care.
 
-
-
    A little time and a little money can put you on legal tech's forefront. Then
-
 when you're lounging around a pool in Bermuda remotely and securely connected to
-
 your firm network, and the steel drum bands play "Hot, Hot, Hot," they'll be
-
 talking about you--a hot lawyer with cool technology. You may even impress that
-
 ten-year old.
-
-
 
 Legal Topics:
 
-
-
 For related research and practice materials, see the following legal topics:
-
 Communications LawTelephone ServicesCellular ServicesComputer & Internet
-
 LawCopyright ProtectionCivil Infringement ActionsOwner RightsAdaptationLegal
-
 EthicsLegal Services MarketingAdvertising
-
-
-
 
 

@@ -1,232 +1,93 @@
-                              121 of 997 DOCUMENTS
-
-
-
-
-
-                     The Telegraph-Journal (New Brunswick)
-
-
-
-                             March 16, 2015 Monday
-
-
-
-Review: Google Pixel laptop impresses
-
-
-
-SECTION: BUSINESS; Pg. D1
-
-
-
-LENGTH: 740 words
-
-
-
 
 
 CHARLOTTE, N.C. * There's a lot to love about Google's new high-end Chromebook
-
 Pixel laptop: a vivid, high-resolution touch screen, powerful speakers and
-
 next-generation USB ports meant to standardize power chargers. All for $300
-
 cheaper than the original model.
 
-
-
 But the Pixel's limitations became clear during a cross-country flight. Machines
-
 running Google's Chrome operating system are meant primarily for online use.
-
 Although the Pixel promises offline access to files stored on Google's online
-
 Drive service, it was hit or miss with files that weren't in Google's own
-
 formats. Fortunately, I had my Mac laptop to turn to.
 
-
-
 The Pixel goes on sale Wednesday for $999, while $1,299 gets you a version with
-
 more storage and a faster processor.
-
-
 
 Chromebook basics
 
-
-
 On machines running Chrome just about everything works through the web browser.
-
 Many apps, in fact, are simply bookmarks to a service's regular website.
 
-
-
 Google figures you'll store most of your files in the cloud, so Chromebooks have
-
 limited storage. The basic Pixel has just 32 gigabytes, compared with the
-
 minimum 128 gigabytes on a MacBook Air. The pricier Pixel has 64 gigabytes.
-
-
 
 Using it without Internet access
 
-
-
 Some apps do have limited offline capabilities, and they have improved since I
-
 tested the original Pixel in 2013. Some of these functions are now automatically
-
 enabled, and the Pixel stores your most recently opened files automatically for
-
 offline use.
 
-
-
 But that doesn't apply to files you merely copied to Google Drive, as I learned
-
 the hard way. All Google-format files are stored automatically, but what I
-
 needed were Word and PDF documents. Next time, I'll need to open or download
-
 those files individually ahead of time. I couldn't find a way to enable entire
-
 folders at once.
-
-
 
 As an online device
 
-
-
 Chromebooks are typically budget devices costing a few hundred dollars. The
-
 Pixel is the exception, with premium performance and a premium price tag.
 
-
-
 Still, the Pixel offers a 13-inch touch screen and sharp display at 239 pixels
-
 per inch for less than $1,000. Windows laptops with that performance typically
-
 cost a few hundred dollars more. Apple doesn't make touch-screen laptops at all.
-
 (That said, comparable Windows and Mac laptops have more storage for the money.
-
 And many are lighter than the Pixel's 3.3 pounds.)
 
-
-
 The slower model I tested was speedy - more than adequate for Web surfing, text
-
 documents and even video. Sound came through nice and clear. Google promises up
-
 to 12 hours of use on a single battery charge. With the battery nearly drained,
-
 I got a 50 per cent charge in about a half-hour - enough for a day of meetings
-
 Tuesday in Silicon Valley.
-
-
 
 Power potential
 
-
-
 What I like most is the Pixel's use of the emerging Type-C standard for USB. In
-
 English, that means faster and more flexible charging. Android phones have long
-
 used USB for charging, but the current USB technology limits how much power the
-
 phone can draw. That's one reason laptops, with greater power needs, come with
-
 their own chargers.
 
-
-
 Type-C is meant to standardize those chargers, so you might one day need just
-
 one for all your phones, tablets and laptops. Type-C draws more power and
-
 transfers data faster than current USB.
 
-
-
 You might have heard of Type-C when Apple announced a new MacBook on Monday.
-
 Apple ditched regular USB ports in favour of USB-C, but in addition to Type-C,
-
 the Pixel has two regular ports and an SD slot for camera memory.
 
-
-
 With Type-C, cords can be inserted in either direction, much like the iPhone's
-
 Lightning connector, so you don't have to figure out which side is up. The Pixel
-
 goes further in having ports on both sides, so you're not left with tangled
-
 cords if the outlet is on the wrong side.
 
-
-
 The port also works for display output, though you'll need a $40 adapter until
-
 TVs and monitors start getting Type-C. I watched The Simpsons on my TV that way.
-
-
 
 Apps
 
-
-
 Google gives Android developers an easy way to make their apps also work on
-
 Chrome. Google says about 30 apps have been converted, including the
-
 video-sharing app Vine.
 
-
-
 Microsoft's Office isn't one of them, but Google does make it easy to work with
-
 Office files. They open in a web browser just like Google-format files and get
-
 saved automatically in the Microsoft formats for sharing.
 
-
-
 The Pixel is impressive, but consider your needs away from Wi-Fi. Many other
-
 laptops, including the new MacBook, offer more flexibility for a few hundred
-
 dollars more. !@COPYRIGHT=© 2015 Telegraph-Journal (New Brunswick)
-
-
-
-LOAD-DATE: March 16, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                      Copyright 2015 The Telegraph Journal
-
-                              All Rights Reserved
-
-
-
-
 

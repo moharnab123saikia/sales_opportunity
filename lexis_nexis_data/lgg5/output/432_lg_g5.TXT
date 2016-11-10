@@ -1,108 +1,30 @@
-                              432 of 820 DOCUMENTS
-
-
-
-
-
-                            The Times of India (TOI)
-
-
-
-                             August 9, 2016 Tuesday
-
-
-
-900 million Android smartphones affected by security flaw in Qualcomm
-
-processors: Report
-
-
-
-SECTION: TECH NEWS
-
-
-
-LENGTH: 303 words
-
-
-
 
 
 NEW DELHI: Beware, over 900 million Android devices are affected by 'high-risk'
-
 Quadrooter flaw warns security company Check Point software technologies.Found
-
 in devices running Qualcomm processors, QuadRooter includes four
-
 vulnerabilities, any of which can be used by hackers to take control of an
-
 smartphone. "If exploited, QuadRooter vulnerabilities can give attackers
-
 complete control of devices and unrestricted access to sensitive personal and
-
 enterprise data on them. Access could also provide an attacker with capabilities
-
 such as keylogging, GPS tracking, and recording video and audio," says Check
-
 Point in a blog post.Hackers can trigger any of these four vulnerabilities using
-
 a malicious app.
 
-
-
 "Such an app would require no special permissions to take advantage of these
-
 vulnerabilities, alleviating any suspicion users may have when installing," adds
-
 the post.The blog notes that QuadRooter affects smartphone drivers which control
-
 communication between the various chipset components. Since the vulnerable
-
 drivers are pre-installed on devices at manufacturing level, it can only be
-
 fixed if the OEMs or carriers issue a software patch.Check Point recommends
-
 users to download and install the latest Android updates as soon as they become
-
 available, avoid side-loading apk files, read app permission requests carefully
-
 while installing apps and more.Some of the latest smartphones that are
-
 vulnerable to the QuadRooter are Samsung Galaxy S7, Galaxy S7 Edge , OnePlus 3,
-
 Google Nexus 5X, Nexus 6, Nexus 6P, LG G4, LG G5 , LG V10, OnePlus One, OnePlus
-
 2, OnePlus 3 and more.Earlier this year (in May), it was found that several
-
 million Android smartphones running on Qualcomm processors are exposed to a
-
 glitch that can be exploited by hackers to gain access to the device.
 
-
-
 For Reprint Rights: timescontent.com
-
-
-
-LOAD-DATE: August 8, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2016 Bennett Coleman & Co. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,140 +1,39 @@
-                             443 of 1000 DOCUMENTS
-
-
-
-
-
-
-
-                                  The Guardian
-
-
-
-                      October 9, 2015 Friday 11:24 AM GMT
-
-
-
-Apple says battery life difference in new iPhones not reflected in 'real-world
-
-use';
-
-Whether your iPhone processor chip was manufactured by Samsung or TSMC, Apple
-
-says battery life will only vary by 2-3%
-
-
-
-BYLINE: Alex Hern
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 336 words
-
-
-
 
 
 Claims that the battery life of the new iPhones can vary by up to two hours
-
 depending on which third-party supplier manufactured the central chip don't
-
 reflect real-world usage, according to Apple.
 
-
-
 The chip at the heart of the iPhone 6s and 6s Plus, named the "A9" chip by
-
 Apple, comes in two forms, one manufactured by Samsung and the other by
-
 Taiwanese company TSMC. Since the phones started hitting shelves last week,
-
 users have reported that the phones containing Samsung chips significantly
-
 underperform those with TSMC chips in intensive battery-life tests.
 
-
-
 According to battery life benchmarks, the difference can be almost two hours.
-
 But in a statement, Apple said that the discrepancy was not reflected in
-
 real-world usage.
 
-
-
 It said: "Certain manufactured lab tests which run the processors with a
-
 continuous heavy workload until the battery depletes are not representative of
-
 real-world usage, since they spend an unrealistic amount of time at the highest
-
 CPU performance state.
 
-
-
 "It's a misleading way to measure real-world battery life. Our testing and
-
 customer data show the actual battery life of the iPhone 6s and iPhone 6s Plus,
-
 even taking into account variable component differences, vary within just 2-3%
-
 of each other."
 
-
-
 The battery metrics cited by Apple for the iPhone 6S include a number of
-
 different usage profiles, including talk time, internet use, HD video playback,
-
 and standby time. While video playback is relatively processor-intensive, none
-
 of those tasks are likely to max out the new A9 chip in the way a battery
-
 benchmark test does, suggesting that the discrepancy between the two chips only
-
 has an impact at the very highest end of performance.
 
-
-
 In terms of real-world battery life, the Guardian's own review of the new
-
 iPhones found that they underperformed compared to similar devices. Samuel
-
 Gibbs, reviewing the iPhone 6s, found: "Battery life is the iPhone 6S's biggest
-
 problem. During the week the phone failed to make it past 11pm after leaving the
-
 charger at 7.30am in the morning."
-
-
-
-LOAD-DATE: October 18, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: WEBGNS
-
-
-
-
-
-  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
-
-                              All Rights Reserved
-
-
-
-
 

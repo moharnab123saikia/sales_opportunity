@@ -1,114 +1,34 @@
-                              419 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           November 22, 2014 Saturday
-
-
-
-USPTO Published Patent application of Google Inc titled as "IMAGE MASKS FOR
-
-FACE-RELATED SELECTION AND PROCESSING IN IMAGES"
-
-
-
-LENGTH: 244  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has received an application no.
-
 20140341442, published on November 20, 2014, by Google Inc, titled as "IMAGE
-
 MASKS FOR FACE-RELATED SELECTION AND PROCESSING IN IMAGES" for the registration
-
 of patent.
 
-
-
 Inventors:   Lewis; Justin; (Marina Del Rey, CA) ; James; Gavin; (Los Angeles,
-
 CA) ; Lang; Grayson; (Santa Clara, CA) ; Krishnaswamy; Aravind; (San Jose, CA) ;
-
 Babacan; Sevket Derin; (San Francisco, CA)
-
 Assignee: Google Inc.
-
 Mountain View
-
 CA
-
 US
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "In
-
 some implementations, a method includes identifying one or more face regions of
-
 an image, the face regions including pixels that depict at least a portion of
-
 one or more faces of persons. The face regions are identified based on
-
 identifying facial landmarks of the faces. The method determines an associated
-
 face mask for each of the faces based on the face regions, where each face mask
-
 indicates which pixels in the image depict the corresponding face. Face pixels
-
 can be selected for processing by applying the face masks, and image pixels
-
 outside the faces can be selected by inversely applying the face masks. The
-
 selected pixels can be provided to a processing operation for adjustment of the
-
 selected pixels."
-
-
 
 The Patent was filed on May 14, 2013 under application No. 20140341442
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: November 22, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

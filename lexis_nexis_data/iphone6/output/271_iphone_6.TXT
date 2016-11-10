@@ -1,426 +1,189 @@
-                              271 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                            January 10, 2014, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending Jan. 10;
-
-Metal mystery frame, 6 mm, 8 mp, and Pegatron 50-50
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1704 words
-
-
-
 
 
 The cold gripping much of the U.S. this week was absent from the iOSphere which
-
 steamed with speculation over a mysteriousmetal frame that revealed Important
-
 Details of the iPhone 6.
 
-
-
 The heat edged still higher with a New Report that the next iPhone would be 6 mm
-
 thick; that Apple might refuse to upgrade the phone's camera from 8 to 13
-
 megapixels; and that Pegatron was building a huge new plant in China where its
-
 worker bees would crank out half of all future iPhone 6's, even though no one
-
 explained why that would matter.
-
-
 
 You read it here second.
 
-
-
 +More on Network World: 17 hot new wearable computers | Best of CES 2014: In
-
 Pictures + iPhone 6 phablet is revealed in leaked photos of metal frame Photos
-
 appearing on a Chinese website were copied throughout the iOSphere, even as the
-
 copiers often solemnly acknowledged that there was no way of knowing whether the
-
 photos actually showed anything to do with an iPhone.
 
-
-
 Here's one of the two photos being replicated.  One line of postings started
-
 with Vlad Andrici at a site called GForGames, who assured his readers that
-
 "There is no way of being sure that this is indeed iPhone 6?s metal housing, but
-
 China is definitely the way to look for accurate Apple related leaks and
-
 rumors." Because...well, just because.
 
-
-
 He sourced this accurate leak from this Chinese language blog on the social
-
 networking site Weibo.com (login is required).
 
-
-
 But that microblog seems to be simply a corporate site for CTech.cn.com (here's
-
 the Google Translate version of the home page), which is variously described by
-
 iOSpherians as a "Chinese news site," "prolific leaker," "Chinese site", and by
-
 GForGames as "renowned Apple leaker." The Rollup googled for a bit but couldn't
-
 come up with any more details, at least in English, about CTech or C Technology.
 
-
-
 "Chinese news site C-Tech carries photos of a smartphone outer shell that is
-
 both a lot larger and much slimmer than the current iPhone 5S and the sizing
-
 shown in the blurry image marries up with recent rumours regarding the iPhone 6,
-
 " Jamie Hinks confidently declares at ITPortal.com, even though it's not really
-
 an outer shell. Those not-so-recent rumors, for an iPhone with a
-
 bigger-than-four-inch diagonal screen, date from at least September 2012 when
-
 Apple released the four-inch iPhone 5.
 
-
-
 At MacRumors, Eric Slivka took a close look at the "leaked" metal frame, and
-
 compared it to Apple's actual design changes.
 
-
-
 His conclusion: it may be a leaked smartphone frame but it's almost certainly
-
 not the iPhone 6.
 
-
-
 "The part appears to be a midframe such as that found in earlier iPhone models,
-
 allowing components to be attached to both sides of the part before being
-
 enclosed in the device's shell," he observes. "Apple did away with midframe
-
 components as of the iPhone 5, opting for a unibody rear shell design that
-
 allows components to be mounted directly to the shell, yielding a thinner
-
 design. A return to a design requiring a midframe part would seem unlikely given
-
 Apple's emphasis on thinness."
 
-
-
 Secondly, the "frame seems to show accommodation for a headphone jack at the
-
 same end of the device where a circular feature presumably corresponding to the
-
 device's rear camera is positioned, undoubtedly the top end. With the shift to
-
 the narrower Lightning connector in the iPhone 5, Apple shifted the location of
-
 the iPhone's headphone jack to the bottom edge of the device....Moving the
-
 headphone jack back to the top edge of the device for the iPhone 6 appears
-
 unlikely, though not impossible."
 
-
-
 Perhaps we need to rethink the idea that China is definitely the way to look for
-
 accurate Apple related leaks and rumors.
 
-
-
 iPhone 6 will be 6 mm thick and be called iPhone Air For the metrically
-
 challenged, it's 0.23622, or just under one-quarter of an inch, as
-
 ChannelPartners' Craig Galbraith helpfully points out. Compare that to the
-
 chunky iPhone 5S, which is a whopping 7.6 mm or 0.299213 inches thick.
 
-
-
 Galbraith assures us that a "new report" says this. Specifically, a "source not
-
 only spilled to Korea's ET News the width of the device, but also that it will
-
 be called the iPhone Air."
 
-
-
 Checking the ETNews.com webpage, to which Galbraith links, and putting it
-
 through Google translate we end up with this: "Chinese IT media, digital tech
-
 (digi.tech.qq.com) to 5 (local time), citing sources, Apple's leading
-
 manufacturer of next-generation smart phones' iPhone Air (working title), so the
-
 thinner the thickness of 6mm reported that ."
 
-
-
 So the original story, for ETNews, is actually the Chinese news site,
-
 digi.tech.qq.com, (here's the Google translation of the home page) and its
-
 apparently unidentified "sources." is part of Tencent Holdings, a big
-
 China-based Internet services company.  The translation, on which Galbraith so
-
 blithely relies, continues with this gem: "Apple's next-generation iPhone to
-
 large screen display is used, the attention of people rea jimyeo news delivered
-
 equipment is collected, but there was no detailed information about the
-
 thickness. Recent leading online sources for the next generation of the Apple
-
 iPhone is the thickness of the experimental drug would be said about 6mm."
-
-
 
 We couldn't have said it better ourselves.
 
-
-
 iPhone 6 will stay with 8 megapixel camera instead of 13 Here's the starting
-
 point: a story on the English-language site of ChinaPost.com, about the sliding
-
 stock price of Largan Precision Co., a major supplier of camera lens modules for
-
 a range of mobile devices. The ChinaPost story says the stock price "tumbled
-
 dramatically during trading yesterday, bottoming out after a near 7-percent drop
-
 shortly after noon as disappointed investors reacted to rumors that Apple's
-
 upcoming iPhone 6 handset would not be upgraded with a 13 megapixel (MP)
-
 camera."
 
-
-
 In fact, what investors were apparently reacting to was an investment note,
-
 published by Nomura Securities (referenced by not linked to by ChinaPost). In
-
 that note, the unnamed Nomura analys (or analysts) says that "Largan's recently
-
 lagging performance in the market is caused by rumors that Apple may adopt an 8
-
 mega-pixel (MP) camera with improved optical image stabilization on its upcoming
-
 handset, instead of the 16 [apparently a typo for '13'] MP upgrade anticipated
-
 by industry observers."
 
-
-
 In other words, the stock analyst read some Apple rumors, notified investors
-
 about them, and stepped away from the stampede.
 
-
-
 But the ChinaPost story goes on to say that "Apple's decision is based on the
-
 design requirement to retain the handset's more portable form factor, said
-
 Nomura Securities." That claim by Nomuro suggests more than a mere rumor, but
-
 again no source for the claim is offered.
 
-
-
 It's also a claim that explains away rather than explains the alleged Apple
-
 decision. For years, Apple's iPhone evolution has been about constant refinement
-
 and improvement, all of which are viewed from a wholistic appreciation of the
-
 "user experience."
 
-
-
 That's why Apple can still have "only" a dual-core processor in the iPhone 5S
-
 while far less successful rivals keep touting their wondrous four-core
-
 processors.
 
-
-
 BusinessInsider's Jay Yarrow buys into this conventional wisdom in his post
-
 about the Nomura claim: "Its top rival, Samsung, has a 13 megapixel camera on
-
 its top of the line phone, the Galaxy S4. So, it's a little surprising that
-
 Apple doesn't want to upgrade the megapixel count on the iPhone."
 
-
-
 But Yarrow goes on to draw a more insightful conclusion. "The iPhone's camera is
-
 either the best or second best (depending on who you ask) for smart phones, even
-
 with an 8 megapixel lens. Apple has managed to improve camera performance
-
 through software, and other hardware engineering."
 
-
-
 iPhone 6 will be built by Pegatron in addition to Foxconn This is one of those
-
 rumortoids that have no relevance to real life for 99 percent of the world's
-
 population. It's like knowing that "Traveling at the speed of light it would
-
 still take you over 4 years to reach the Sun's nearest neighbor star."
 
-
-
 From what The Rollup can tell, Taiwan's Chinese-language Liberty Times (the
-
 parent also publishes the English-language Taipei Times) posted a story - based
-
 on a single anonymous source - claiming that contract manufacturer Pegatron was
-
 building a massive new plant in China where it would be building up to half of
-
 all future iPhone 6 units.
 
-
-
 That post was picked up and rewritten by wire service Agence France-Presse
-
 (AFP), from which it was picked by outlets such as ChinaPost.com, and content
-
 syndicators like Repost.us. From there, it made its way into a blizzard of
-
 repostings in the iOSphere, like MacRumors, and from MacRumors to Ubergizmo.
 
-
-
 Here's the core of the rumor, from the original AFP summary of the LibertyTimes
-
 post: "Taiwan's Pegatron Corp, an assembler of Apple's iPhone 5C, is expected to
-
 win half of the orders from the U.S. tech giant for its next smartphone model, a
-
 report said Thursday.
 
-
-
 In order to meet the demand, Pegatron has started building a new plant at
-
 Kunshan, a satellite city near Shanghai where all its iPhones are assembled, the
-
 Liberty Times said without identifying its source.
 
-
-
 The paper said the Kunshan plant is scheduled to become operational in the
-
 middle of the year and start mass production late this year, when Apple is
-
 expected to roll out its iPhone 6."
 
-
-
 To The Rollup, and we freely admit to being non-expert in building large-scale
-
 manufacturing sites, if Pegatron is just now starting to build a massive new
-
 plant for the iPhone 6, it seems a bit of a stretch that it will be ready by
-
 June or July to cranking out phones in volume.
 
-
-
 In any case, 1) the entire web of reposted and regurgitated speculation hinges
-
 on one anonymous source and 2) even if true, doesn't really tell us anything
-
 about the iPhone 6 that people might care about. Although Ubergizmo's Tyler Lee
-
 gives it his best shot: "It's odd that the report only mentions one device, the
-
 iPhone 6, because if the previous rumors have any credibility to them, Apple is
-
 said to launch two phones: one of the 4.7-inch variety, and one of the 5.7-inch
-
 variety."
 
-
-
 Exactly: it's a mystery why one rumor about building the Next iPhone doesn't
-
 take into account all those other rumors about two Next iPhones.
 
-
-
 John Cox covers wireless networking and mobile computing for Network
-
 World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: January 13, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2014 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

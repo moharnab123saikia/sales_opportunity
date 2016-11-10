@@ -1,332 +1,142 @@
-                              720 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                              May 27, 2011, Friday
-
-
-
-iPhone 5 rumor rollup for week ending May 27;
-
-Panic, British journos, disguises and curves define week in iPhone 5 scuttlebutt
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1231 words
-
-
-
 
 
 The anticipation of iPhone 5, iOS 5 or Something Big Anyway is mounting as
-
 Apple's Worldwide Developer Conference (WWDC),which starts June 6, draws nearer.
 
-
-
 This week: There will be no iPhone 5 launch at WWDC because of a fire at one of
-
 Apple's partner assembly plants, triggering panic among bloggers; there will be
-
 an iPhone 5 launch at WWDC because Apple is inviting British journalists and
-
 casting a TV commercial; iPhone 5 is already out there being tested but you
-
 can't tell because it looks just like the existing iPhone 4; and you will be
-
 able to tell because iPhone 5 will have a concave glass screen.
 
-
-
 There is no, zero, nada chance of iPhone 5 being released in June, BeatWeek
-
 assures us. Why, you ask? Because of an explosion and fire a week ago at the
-
 Foxconn manufacturing plant where the iPhone, and the iPad, are built. The fire
-
 "should put to bed the pipe dream that saw Apple somehow introducing the iPhone
-
 5 a mere six weeks after first shipping the white iPhone 4," BeatWeek sneeringly
-
 concluded.
 
-
-
 But just to cover all the bases, BeatWeek also said, "But even if Apple were
-
 planning to secretly launch the iPhone 5 in June, those plans would certainly
-
 have to be scuttled after the factory damage."
 
-
-
 The use of the word "certainly" when it comes to rumors and unfounded
-
 speculation is always good for a laugh.
 
-
-
 MORE IPHONE 5 RUMOR ROUNDUPS: May 20, May 13, May 6 Gizmodo had a brief official
-
 statement from Foxconn, which didn't do much to clarify exactly what had blown
-
 up and burned, how bad the damage was, or whether there really would be any
-
 impact on either current iPad 2 shipments or on the iPhone 5 rollout.
 
-
-
 The prospect of delay panicked some folks, like Derick Lemay, at The Red 99. The
-
 despair was almost palpable in his post: "All we can hope is that Foxconn can
-
 get their plant up and running as soon as possible. Otherwise we may not be
-
 seeing a new generation iPhone at all in 2011."
-
-
 
 2011: The Year of the Lost iPhone.
 
-
-
 But by last Sunday, two days after the fire, MacRumors was linking to a
-
 reassuring China Times story (in Chinese) which claimed that "sources" were
-
 saying that "production of iPad 2 would not be delayed and related iPhone
-
 devices [could this be iPhone 5?] and new iPad products would still be in mass
-
 production in the third quarter."
 
-
-
 We know this because 1) Apple is inviting British journalists to the WWDC in San
-
 Francisco, and 2) a casting call was posted on Craigslist looking for actors to
-
 appear in an iPhone 5 TV commercial.
 
-
-
 U.K. tech site Mobile Pig tackled the issue head-on: "If you believe the rumours
-
 currently fizzing down Britain's broadband pipes, Apple has pretty much put the
-
 kibosh on iPhone 5 -- at least for 2011."
-
-
 
 That statement actually qualifies as a separate rumor all on its own.
 
-
-
 "But if that's the case," Mobile Pig triumphantly asked, "why is Apple's public
-
 relations department -- specifically the team dedicated to all things iPhone --
-
 reaching out to selected British journalists in an effort to persuade them to
-
 attend Apple's WWDC developer jamboree on 6-10 June?"
 
-
-
 That was pretty conclusive for James Isabel, at The Appera. Isabel dismissed the
-
 rumor that WWDC will focus only on the software, iOS 5, but not the iPhone 5
-
 hardware. He wrote, "I doubt this is a simple software reveal judging by the
-
 magnitude of people they're inviting. I'm betting on iPhone 5 [insert excited
-
 emoticon here]. Also, even though Steve Jobs is on leave, I'd expect him to be
-
 at the keynote on June 6."
 
-
-
 Plus there's the TV casting post at Craigslist. MacRumors noted that it appeared
-
 Wednesday, May 25, but apparently only for a couple of hours, seeking male and
-
 female actors for a commercial for "iPhone 5" to be filmed in L.A. with payment,
-
 oddly, in British pounds sterling. MacRumors couldn't find any online
-
 information on the contact or production company. The site noted that it was
-
 similar to a casting call in New York in April. Real? A mistake? A hoax? Who
-
 knows? Who cares?
 
-
-
 ITPortal admitted that it didn't know if the casting call was genuine, but
-
 couldn't resist adding that if it was genuine, "then the iPhone 5 could indeed
-
 be launched at WWDC 2011."
 
-
-
 "On the other hand," according to GizmoCrunch, "it could just be the work of
-
 Apple PR to build up hype for the phone which is not expected to launch this
-
 summer." Creating hype for iPhone 5 must be the world's easiest job, because
-
 thanks to ITPortal, GizmoCrunch and a zillion other websites, Apple PR doesn't
-
 actually have to do anything.
 
-
-
 That's what GizmoCrunch concluded after reading TechBuffalo's exclusive account
-
 of how the iPhone 4 was secretly brought to Verizon's network. That would be the
-
 "insider" account based on one, repeat one, source "close to the action." No one
-
 referred to the "iPhone" but the "Acme"; it was being tested six or seven months
-
 before the actual release; employees had to sign a four-page non-disclosure
-
 agreement, and enter a unique PIN every 12 hours to confirm they still had the
-
 phone, and so on.
 
-
-
 Even though TechBuffalo's story never mentions "iPhone 5," GizmoCrunch sees a
-
 connection: The Verizon iPhone was being tested at Verizon stores and in the
-
 field, but "due to the fact that [the Verizon iPhone] resembled the AT&T version
-
 it went unnoticed."
 
-
-
 (It's not real clear how that would work, between two Verizon employees: "Hey,
-
 watcha got there?" "Oh, it's the Acme." "Really?
 
-
-
 Gee it looks just like the AT&T iPhone." "I didn't notice." "Oh, me either.")
-
 Unfazed, GizmoCrunch optimistically asks, "So what does all this mean as the
-
 Verizon iPhone 5 release date nears?" And they have an answer. "For one, it
-
 could mean that the Verizon iPhone 5 is already undergoing field testing and may
-
 be under our very eyes."
 
-
-
 Winner of the Most Convoluted Rumor of the Week goes to iFan, which on Monday
-
 published a picture, from a Chinese website, of what purported to be a "white
-
 iPhone 5's backplate with even more evidence of the [previously rumored]
-
 separation of the camera and the flash components."
 
-
-
 By early the next morning, iFan had a new post, about how commenters to the
-
 first post had detected a reflection in the picture, revealing another iPhone 5
-
 taking the photography. They say you can make out the Apple logo, and the widely
-
 separated flash and camera components (which are close together in iPhone 4).
 
-
-
 Then, iFan asked not one but two Adobe Photoshop wizards to manipulate the
-
 original image, a process that TFTS.com called, without a hint of irony,
-
 "forensic tech voodoo." Their conclusion: It's an iPhone 5!
 
-
-
 DigiTimes claims that unnamed sources say that Apple has bought 200-300
-
 expensive glass-cutting machines to fashion curved glass screens for iPhone 5.
 
-
-
 "That would seem to fly in the face of recent reports that the iPhone 5 would be
-
 very similar to the iPhone 4 in appearance," observed 9to5 Mac.
-
-
 
 No fooling.
 
-
-
 PC Magazine notes some phones already have a concave screen, including Samsung
-
 Nexus S. "The concave glass display of the Nexus S is often praised for feeling
-
 more comfortable when holding it up to your face. In fact curved glass displays
-
 are more about aesthetics and "perceived usability" (as Engadget notes in its
-
 review for the Nexus S) than any actual change to display quality," according to
-
 the post.
-
-
 
 John Cox covers wireless networking and mobile computing for Network World.
 
-
-
 Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com Blog RSS feed:
-
 http://www.networkworld.com/community/blog/2989/feed
-
-
-
-
-
-
-
-LOAD-DATE: May 30, 2011
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2011 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

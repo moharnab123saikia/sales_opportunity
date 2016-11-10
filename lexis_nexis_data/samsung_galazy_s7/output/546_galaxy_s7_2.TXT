@@ -1,220 +1,89 @@
-                             546 of 1000 DOCUMENTS
-
-
-
-
-
-                                 EKantipur.com
-
-
-
-                             April 12, 2016 Tuesday
-
-
-
-Upgrades and updates
-
-
-
-LENGTH: 771 words
-
-
 
 DATELINE: Nepal
 
 
-
-
-
 Nepal, April 12 -- I think my computer is infected with a very potent virus
-
 because it is not turning on at all. I want to format the computer but I can't
-
 do that either because the computer just refuses to turn on. What can I do to
-
 get my laptop working again
-
-
 
 -Namish Poudel
 
-
-
 Dear Namish,
 
-
-
 You haven't provided a lot of details in your question that I can work with. How
-
 can you be so sure that it's affected with a virus because unless a virus is a
-
 really complex virus, they don't affect hardware as much. There are viruses that
-
 infect the boot sector of your hard drive or even affect your MBR partitioning
-
 tables but these viruses are really rare. Most common viruses won't behave like
-
 this and even if did affect your Windows, the BIOS should boot. You'll know the
-
 BIOS has booted when your laptop's manufacturer's logo will pop-up. But if
-
 you're computer is not turning on at all, then a virus is most likely not the
-
 issue because software will very rarely affect hardware. I think your laptop is
-
 suffering from a hardware issue that is not letting it boot up at all, if
-
 hardware is to be blamed, you might have to take your computer in for repair and
-
 figure out which part of your hardware has been compromised. If your computer is
-
 not booting up at all then there is nothing you can do anyway, so might as well
-
 take it for repair.
 
-
-
 I currently own a Galaxy S6 but with the release of the new Galaxy S7, I am
-
 thinking of upgrading to the newer model. What would you recommend? Do you think
-
 the S7 offers greater value that warrants an upgrade?
-
-
 
 -Prajesh Pradhan
 
-
-
 Dear Prajesh,
 
-
-
 If you already own last year's Samsung flagship, an update might not be
-
 necessary in terms of performance but if you want to upgrade because you want to
-
 stay on top of the game and own the latest and the greatest, you can upgrade.
-
 Upgrading would not offer you great value, however, because the S6 is already a
-
 powerful phone on its own and it's just a year old. The S7 is definitely faster
-
 than the S6 but your current phone can easily hold its own against anything that
-
 the Play Store has to offer. There are some really cool features on the Galaxy
-
 S7, however, like the always on display and better support for their edge
-
 display but you'll be paying premium money for a device that is slightly better
-
 than you current one. So, I would suggest holding on to your Galaxy S6 and
-
 upgrading to the S7 when the prices have dropped or once your S6 starts behaving
-
 sluggish. Be happy with what you have, sometimes our judgments are clouded by
-
 the gimmicky features and advertising that these big companies are known for.
 
-
-
 I have a Windows 8.1 PC and am pretty happy with the performance of the
-
 operating system but I get annoyed when it starts updating when I need to work.
-
 I will be nearing my deadline or will be getting ready for a presentation and
-
 all of a sudden, my Windows will go into update mode and I'll have to wait for
-
 the update to finish before even being able to work on my computer. This is
-
 embarrassing when I am ready with a presentation and I just have to make
-
 everyone wait until my Windows system updates before even being able to start my
-
 presentation. This has gotten so annoying that I simply want to disable all
-
 Windows updates. I don't want updates, I just want my computer to work, how do I
-
 do this?
-
-
 
 -Sunil Sherchan
 
-
-
 Dear Sunil,
 
-
-
 I can understand your frustration and I have been in similar situations. This
-
 has been a constant problem on all Windows systems and it's baffling that
-
 Microsoft has not done anything to rectify the issue. Turning off Windows
-
 Updates is simple actually and all you need to do is navigate to your control
-
 panel and open up the System & Security option. Here, turn off Automatic
-
 Updating and within the Important Updates menu, select the Never Check For
-
 Updates and you should be done. I do not recommend not updating since your
-
 system will have a lot of security holes that will be patched over by these
-
 updates but I can also understand your frustration; so disable updates when you
-
 have work but when you have time, or even at night, just leave your computer to
-
 update. This should avoid any hindrances in your work-flow and still keep your
-
 data safe.
 
-
-
 If your technological devices are giving you a hard time or if you're just
-
 curious about certain technological questions, please drop us an email at
-
 technopolis.tkp@gmail.com and we'll try to answer your questions as best as we
-
 can.
-
-
 
 Published: 12-04-2016 08:46
 
-
-
 Published by HT Syndication with permission from EKantipur.com. For any query
-
 with respect to this article or any other content requirement, please contact
-
 Editor at htsyndication@hindustantimes.com
-
-
-
-LOAD-DATE: April 12, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                 Copyright 2016 Kantipur Publications Pvt. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

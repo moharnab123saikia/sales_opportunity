@@ -1,0 +1,49 @@
+
+
+Apple's long-awaited iPhone 7 and iPhone 7 Plus finally hit the shelves on
+Friday, boasting upgraded processors, cameras and battery life.
+
+But there is one major drawback to the new devices if you live in a cold
+climate.
+
+The new iPhones feature a redesigned Home button, which is actually not a button
+at all but a pressure-sensitive touchpad that provides haptic feedback when
+pressed.
+
+Apple made the change in order to make the iPhones water-resistant - removing
+the tiny gap between the button and the glass front panel that would have
+allowed water to get in.
+
+However, while the new Home button effectively recreates the sensation of
+pushing a button thanks to Apple's taptic engine, it does not work in exactly
+the same way.
+
+The new Home button is capacitive, meaning it can only be used when a conductive
+object - like a finger - is used to press it.
+
+iPhone 7 HissGate: Apple customers report hearing hissing sounds coming from
+their new iPhones
+
+That means if you're wearing thick winter gloves, the new Home button won't
+respond to your touch.
+
+The issue was first brought to light by British Twitter user Myke Hurley:
+
+Some were quick to point out that the iPhone 7 was, after all, designed in
+California, where gloves are rarely worn, due to the warm climate.
+
+However, it's unlikely to be too much of an issue, as Apple's new iOS 10
+software has a feature called "Raise to Wake", which automatically turns on the
+screen so you can see your notifications every time you pick up your phone.
+
+Doing much more than this would require you to remove your gloves anyway, as the
+iPhone screen itself has always been capacitive.
+
+People who were most excited about the new iPhone 7 are now 'absolutely fuming'
+
+Gloves with conductive fingertips are also becoming more common, allowing you to
+use your phone without removing your gloves.
+
+There are mixed reports about whether these work with the iPhone 7's home
+button, but if you're desperate, they're certainly worth a shot.
+

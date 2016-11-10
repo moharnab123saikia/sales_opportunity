@@ -1,106 +1,30 @@
-                              831 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           January 28, 2015 Wednesday
-
-
-
-US Patent granted to Google Inc. (California) on January 27 titled as "Dynamic
-
-coefficient reordering"
-
-
-
-LENGTH: 240  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,942,290, on
-
 January 27, 2015, to Google Inc. (California), titled as "Dynamic coefficient
-
 reordering"
 
-
-
 Inventors:  Ameres; Eric (Cohoes, NY), Bankoski; James (Los Gatos, CA),
-
 Lavarnway; Scott (Warrensburg, NY), Xu; Yaowu (San Diego, CA), Miller; Dan (New
-
 York, NY), Grange; Adrian (Cambridge, GB), Wilkins; Paul (Cambridge, GB)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "A
-
 system, apparatus, and method of compressing video data having at least one
-
 frame having at least one block having an array of pixels. The method includes
-
 transforming the pixels of the at least one block into coefficients, creating a
-
 default transmission order of the coefficients, creating an optimal transmission
-
 order of the coefficients, comparing a coefficient position of at least one of
-
 the coefficients in the optimal transmission order with a coefficient position
-
 of the at least one of the coefficients in the default transmission order;
-
 determining an update value based on the comparison, and selectively encoding
-
 position information of the at least one of the coefficients in the optimal
-
 transmission order based on the update value."
-
-
 
 The patent was filed on August 30, 2012 Application no. 13/599,315
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: May 1, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2015 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

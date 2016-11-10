@@ -1,158 +1,49 @@
-                              88 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                  The Guardian
-
-
-
-                     September 29, 2015 Tuesday 6:03 PM GMT
-
-
-
-Pixel C - first wholly Google-made tablet spells end for Nexus slates;
-
-Made end-to-end by company, rather than by partnering with a third-party
-
-manufacturer, new Android tablet follows in Chromebook Pixel's footsteps
-
-
-
-BYLINE: Samuel Gibbs
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 372 words
-
-
-
 
 
 Google is making its own Android tablet called the Pixel C, its second wholly
-
 Google-made machine after the Chromebook Pixel.
 
-
-
 The 10in Pixel C will have a high resolution screen, a metal body, and will
-
 resemble the Chromebook Pixel with a multi-coloured bar light on the back.
 
-
-
 The tablet will also have a keyboard accessory that docks with the tablet and
-
 holds it like a laptop.
 
-
-
 The Pixel C has a USB-C port for charging - the same one used on the Chromebook
-
 Pixel and Google's latest Nexus smartphones - but is not designed to replace
-
 Chromebooks, according to Google.
-
-
 
 Nexus tablets dead?
 
-
-
 The new tablet, briefly shown off at Google's Nexus and Chromecast launch event
-
 in San Francisco, marks a departure from the partner-based model used by Google
-
 before with its Nexus tablets.
 
-
-
 The first Nexus tablet, the Nexus 7, was launched in 2012 and made by Asus. It
-
 followed the model established by the first Nexus smartphone made by HTC in
-
 2010, where Google partnered with a manufacturer to produce a device with a pure
-
 Android experience without the manufacturer's standard customisations.
 
-
-
 Google partnered with HTC last year to produce the Nexus 9 tablet, but the
-
 device suffered from manufacturing defects and overheating issues. It appears
-
 Google is replacing the Nexus tablet line with devices made wholly in-house.
 
-
-
 The search company uses both its Nexus and Pixel device lines to show what its
-
 platforms can do, attempting to entice developers to create apps for those
-
 platforms.
 
-
-
 In this case the Pixel C is the new flagship Android Marshmallow tablet
-
 experience, which Google obviously thinks should be based at least partially
-
 around productivity in the new hybrid laptop-tablet category, started by
-
 Microsoft's original Surface tablet in 2012.
 
-
-
 Apple recently announced the iPad Pro with a larger screen and similar keyboard
-
 accessory available in November. The new devices will pit both Google and Apple
-
 in direct competition with Microsoft.
 
-
-
 The Pixel C will be available with either 32GB of storage for $499 (£330) or
-
 64GB for $599 (£396) and is expected to be available before Christmas. The
-
 keyboard will cost $149 (£98).
 
-
-
 · Google Chromebook Pixel review: beautiful, powerful - but still just Chrome
-
-
-
-LOAD-DATE: September 29, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: WEBGNS
-
-
-
-
-
-  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
-
-                              All Rights Reserved
-
-
-
-
 

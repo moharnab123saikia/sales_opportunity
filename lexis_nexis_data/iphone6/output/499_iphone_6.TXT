@@ -1,336 +1,144 @@
-                              499 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                          December 20, 2012, Thursday
-
-
-
-iPhone 6 rumor rollup for the week ending Dec. 21;
-
-Hopes for spring, pre-shattered touchscreens, cool duals
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1098 words
-
-
-
 
 
 The holiday preparations took their toll on the iOSphere this week, as rumorers,
-
 distracted by ordering and buying thelatest Apple products, cut back on their
-
 speculative output about future ones.
 
-
-
 There are new and still completely unjustified rumors that Apple plans to
-
 release the next iPhone, which will be either iPhone 6 or iPhone 5S, in the
-
 January-March time frame. Also this week: a news report that an interim model,
-
 the 5C, with pre-shattered touchscreens, will be released before the iPhone 6;
-
 and dual-LED, dual-color flash for iPhone 6.
-
-
 
 You read it here second.
 
-
-
 __________ "The rumor came with no evidence (certainly no photos) but it's
-
 seemingly too odd to be made up."
 
-
-
 ~ "Peter," at GSMArena, posting about an anonymous tip and providing this week's
-
 most compelling iOS rumor assessment criteria: its credibility is directly
-
 proportional to its oddness.
 
-
-
 __________ iPhone 6 will be released Q1 2013 International Digital Times asserts
-
 that the Next iPhone will be released in the January-March 2013 time frame
-
 because of a "report" released by independent analyst Horace Dediu, founder of
-
 Asymco.
 
-
-
 The post is headlined "iPhone 6 Release Date 2013: First Quarter Launch For New
-
 Apple Smartphone [REPORT]." As is often the case, the text of the post is
-
 somewhat different. Dediu "has released a report stating that starting in 2013
-
 Apple will release a new generation of each device (iPhones and iPads) every six
-
 months, as opposed to the one year product cycle we've seen since the first
-
 iPhone debuted in 2007."
 
-
-
 And what's more, "Dediu's report is based on an official statement from former
-
 Apple CEO John Sculley."
 
-
-
 IDT is pretty dismissive of Sculley. "We're not sure how credible Sculley, who
-
 left Apple back in 1993, is when it comes to the electronics company's current
-
 inner workings."
 
-
-
 But. "However, we've been predicting that Apple will speed up its product cycle
-
 for weeks."
 
-
-
 The confusion in and with this post is emblematic of iOSphere rumors. First,
-
 Sculley didn't make an "official statement."
 
-
-
 The TUAW website interviewed him and he answered some question. He gave his
-
 opinion.
 
-
-
 Secondly, Dediu didn't "release a report." He composed on his blog, as is his
-
 wont, a reflective, informed speculation, triggered by the Sculley opinion,
-
 about what he frankly called "circumstantial evidence" that Apple may be moving
-
 to a semi-annual product release cycle; and the scale and impact of such a
-
 change. His full post, "Does S stand for Spring," is here.  The last bit of
-
 evidence he considered: "Rumors of 5S products in pre-production. This is the
-
 least valuable piece of evidence but it might indicate that the 'S' variant is
-
 targeting spring launch." That puts a different perspective on the "we've been
-
 predicting that Apple will speed up its product cycle for weeks" claim by IDT.
 
-
-
 One of the issues Dediu doesn't touch on is what impact a twice-a-year iPhone
-
 introduction would have on Apple's pricing, not so much for the newest iPhone
-
 but for the one or more preceding models, and on the length of each model's life
-
 cycle.
 
-
-
 iPhone 6 will be preceded by iPhone 5C The 5C is being targeted at college-age
-
 women, who have a greater than average penchant for breaking their iPhones. To
-
 address this problem, the 5C will come in several pre-shattered touchscreen
-
 options, all of which make it nearly impossible to use.
-
-
 
 Yet it relieves iPhone owners of breakage angst.
 
-
-
 Trust the parody site The Onion to track down the really interesting rumors.
-
 iPhone 6 will have dual-LED, dual-color flash Then, there's the
-
 almost-as-entertaining unintentional self-parodies.
 
-
-
 iOSphere Rumor Rule 17 (RR17) says that if a rumor doesn't pan out, then wait,
-
 tweak, and recycle: eventually you're bound to be right.
 
-
-
 "We received an anonymous tip," begins the post at GSMArena, by "Peter." He
-
 provides this week's most compelling iOS rumor assessment criteria: Its
-
 credibility is directly proportional to its oddness.
 
-
-
 "The rumor came with no evidence (certainly no photos) but it's seemingly too
-
 odd to be made up," he writes.
 
-
-
 The tipster, let's give him the codename OddJobs, says "that the next Apple
-
 smartphone (whether it's the iPhone 6 or 5S) will have a dual-LED flash...."
 
-
-
 But there's more. It will be "unlike any other dual-LED flash we've seen
-
 before," Peter declares. "It's going to have LEDs of two different colors."
 
-
-
 Think of it. Two LEDs. And two different colors. There will be a "regular LED"
-
 which is, you know, just regular. And one "with a slight blue tint." And why you
-
 ask? "The idea behind this is to improve white balance when snapping photos,"
-
 Peter assures us, authoritatively.
-
-
 
 Wow! Or more precisely, "Wow, again!"
 
-
-
 Dual LEDs for what became the iPhone 5 were widely rumored throughout 2011.
-
 Hence the "wait" part of RR17. But these LEDs will be differently colored, hence
-
 the "tweak" of RR17. All that's left is to ignore Google's search history and
-
 recycle.
 
-
-
 "We're not quite sure how this is supposed to work - use both LEDs at the same
-
 time to produce a brighter, slightly blue illumination, or light them up one at
-
 a time to get two different illuminations in an HDR-type strategy (instead of
-
 combining two exposures to get better dynamic range, combine two photos with
-
 different color to get better color accuracy)," Peter confesses.
 
-
-
 It's a puzzle. That's often the case with rumors, especially those falling under
-
 RR17.
 
-
-
 Some smartphones today use two LEDs for their camera flash. According to a 2011
-
 forum posting at StackExchange's Photography community, "a dual LED flash can
-
 emit twice as much light as a single LED, which means you can [light] subjects
-
 1.4 times further away. It also draws twice as much power."
 
-
-
 One forum member linked to a 2008 post by Steve Litchfield at
-
 AllAboutSymbian.com, comparing LED, dual-LED, and Xenon flashes in camera
-
 phones. He posted three photos of the same interior scene (a drumset) shot using
-
 the three different flash techniques.
 
-
-
 The dual-LED is indeed much brighter, with fewer and less intense dark areas.
-
 The Xenon flash is brighter still but also yields much more true-to-life colors
-
 compared to dual-LED.
-
-
 
 Peter doesn't weigh down his blog post with things like details.
 
-
-
 "It's an odd rumor as we said - it's unlikely, but why would someone make it
-
 up?" Peter asks, presumably rhetorically.
 
-
-
 Why indeed? Why make something up and then contact a tech blog and convince them
-
 that it's real or being considered or in a prototype?
-
-
 
 "Thanks to our anonymous tipster!" Peter concludes his post.
 
-
-
 Oh. Maybe...that's why.
-
-
 
 John Cox covers wireless networking and mobile computing for Network World.
 
-
-
 Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: December 24, 2012
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2012 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

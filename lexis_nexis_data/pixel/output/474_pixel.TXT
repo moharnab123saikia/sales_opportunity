@@ -1,176 +1,67 @@
-                              474 of 997 DOCUMENTS
-
-
-
-
-
-                                  EFYtimes.com
-
-
-
-                      January 7, 2014 Tuesday 6:30 AM EST
-
-
-
-Google's Five Breakthroughs And Failures In 2013
-
-
-
-LENGTH: 556  words
-
-
-
 
 
 We bring to you Google's greatest hits and misses in the year gone by.
 
-
-
 Tuesday, January 07, 2014: Last year was an eventful year for Google in more
-
 than one way. The giant announced several gadgets and saw some major setbacks
-
 too. For every Chromebook Pixel or Amazing Google+ GIF, there was a vaguely
-
 dystopian off-note involving government intrusions or killer robots.
 
-
-
 As stated on networkworld.com, here's taking a look at Google's greatest wins
-
 and fails last year.
-
-
 
 HITS
 
-
-
 1. Chromecast - Google's Chromecast costing $35 is quite a simple and cheap
-
 device that converts any TV into a web-streaming device through a simple click
-
 of a button. Its deep integration with Android apps like Hulu Plus, Netflix, and
-
 YouTube make it a good contender against competitors like Apple TV and Roku
-
 boxes.
 
-
-
 2. Waze -Google took over the crowd-sourced, commuter-focused navigation service
-
 at $1 billion in July. It plans to keep Waze a separate entity for the time
-
 being. However, Waze traffic information is already boosting Google products,
-
 which include Maps and Google Now.
 
-
-
 3. EFF report card and the fight for privacy -Google recently got high marks
-
 from the Electronic Frontier Foundation for the extent to which the company
-
 protects user data from prying eyes. Google and many other companies (including
-
 Dropbox, Facebook, and SpiderOak), received five out of five stars for
-
 implementing or making a promise to implement different encryption methods.
 
-
-
 4. Chromebook Pixel - The Pixel has an aluminum body and high resolution display
-
 that proves that Chromebooks can be more than cheap, plasticky machines.
-
 However, PC makers raced to adopt the Chrome OS platform in the Pixel's wake, to
-
 create affordable laptops, which made Google's browser-in-a-box more attractive
-
 to budget PC buyers.
 
-
-
 5. Street View Donkey - When a donkey was hit by Google's Street View Fleet and
-
 there were rumours regarding the donkey getting injured, Google calmly explained
-
 in a tongue-in-cheek blog post titled "Never ass-ume" that the Internet had got
-
 it totally wrong and the donkey was not at all injured after its close encounter
-
 with Google's Street View fleet.
-
-
 
 MISSES
 
-
-
 1. The Barge - Google's Barge was a bit more than a floating showroom but is now
-
 on a hiatus till late 2014, while Google deals with design requests from the
-
 U.S. Coast Guard.
 
-
-
 2. Google Reader - Google terminated its RSS web app in July stating that it
-
 didn't have ample users to justify its existence. It was a great utility tool
-
 for anybody who wished to keep a tab on multiple blogs and websites in one spot.
 
-
-
 3. Moto Maker - This app is a great tool aimed towards personalizing your Moto X
-
 smartphone with just the right shade of blue. However, this was blown up as
-
 Google's Moto Maker was exclusive to AT&T for nearly three months pushing Moto X
-
 fans on competing carriers to make do with plain white or black handsets.
 
-
-
 4. Google+ YouTube comments - A petition on Change.org has attracted over
-
 225,000 supporters as of this writing, with most people complaining about the
-
 loss of anonymity and the need to sign up for Google+.
 
-
-
 5. Ads in mail's clothing - A short time after Google cleaned up its clients
-
 Gmail accounts with tabs, it commenced inserting advertisements into their
-
 inboxes which seemed suspiciously like regular mail messages. The ads appear
-
 only under Promotions tab, paired with an ad label.
-
-
-
-LOAD-DATE: January 8, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-      Copyright 2014 EFY Enterprises Pvt Ltd., distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,114 +1,34 @@
-                              737 of 997 DOCUMENTS
-
-
-
-
-
-                                  Techtree.com
-
-
-
-                     October 7, 2015 Wednesday 6:30 AM EST
-
-
-
-Android One Devices Reportedly Receiving Marshmallow Update
-
-
-
-BYLINE: Phalgunn
-
-
-
-LENGTH: 238  words
-
-
-
 
 
 It's big news time for Android One users in India with Google rolling out
-
 Android Marshmallow 6.0 update over-the-air.
 
-
-
 However, though Google has not yet announced anything about this officially, a
-
 few users have posted screenshots on XDA-Developers website.
 
-
-
 Speaking about the update being rolled out, it is being said that the devices
-
 receiving the update as of now are Micromax Canvas A1, Karbonn Sparkle V and
-
 Spice Dream Uno.
 
-
-
 Surprisingly, there is no information about the latest Android One smartphone
-
 Lava Pixel V1 receiving the Marshmallow update.
 
-
-
 We can recall that Lava had announced during the launch of its Android One
-
 smartphone that the Marshmallow updates would be rolled out as and when they are
-
 available. Considering that, we would suggest the Pixel V1 users to stay calm
-
 and wait  for a few days until they receive the update.
 
-
-
 However, if you cannot wait for the OTA update to come to your device, you can
-
 also manually download the file (https://developers.google
-
 .com/android/nexus/images?hl=en)for your device and flash it.
 
-
-
 Speaking about the update, the Marshmallow update brings new features like
-
 support for fingerprint scanning, Google Now on Tap, Doze mode that is said to
-
 improve battery life, etc.
 
-
-
 Finally, other than the Android One devices, Motorola has also announced its
-
 list of devices which will be receiving the update.
 
-
-
 Also, the update has also been started to roll out to the Nexus line of
-
 smartphones.
-
-
-
-LOAD-DATE: October 7, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-            Copyright 2015 Techtree.com, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

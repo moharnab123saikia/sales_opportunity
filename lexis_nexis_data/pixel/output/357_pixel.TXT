@@ -1,112 +1,33 @@
-                              357 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                             July 10, 2014 Thursday
-
-
-
-US Patent granted to Google Inc (California) on July 8 titled as "Processing a
-
-satellite image of a region to determine a terrain boundary included therein"
-
-
-
-LENGTH: 271  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,774,470 on
-
 July 8, 2014, to Google Inc (California), titled as "Processing a satellite
-
 image of a region to determine a terrain boundary included therein"
 
-
-
 Inventors:  Schmidt; Karl Johann (Zurich, CH), Heiler; Matthias (Zurich, CH),
-
 Kehl; Roland (Dubendorf, CH)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "A
-
 system and method for processing a satellite image to determine a terrain
-
 boundary. Pixel data corresponding to a satellite image is obtained. For each
-
 pixel within a subset of the pixel data, multiple image features are determined
-
 corresponding to texture and color statistics for the pixel and neighboring
-
 pixels, based on a feature selection process for selecting discriminative
-
 features. An initial set of rules is generated for determining a terrain
-
 boundary. Plural image models for applying to the pixel data are created based
-
 on the initial set of rules. The plural image models are applied to the pixel
-
 data to generate at least one probability map, which represents output of the
-
 plural image models and corresponds to different terrains within the satellite
-
 image. A binary label mask is generated for the satellite image based on the
-
 probability map, and mask indicates segmentations corresponding to the different
-
 terrains."
-
-
 
 The patent was filed on April 3, 2012 Application no. 13/438,788
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: July 10, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

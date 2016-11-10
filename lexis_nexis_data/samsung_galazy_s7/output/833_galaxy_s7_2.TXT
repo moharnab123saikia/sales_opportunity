@@ -1,194 +1,74 @@
-                             833 of 1000 DOCUMENTS
-
-
-
-
-
-                                  Stock Watch
-
-
-
-                       May 12, 2016 Thursday 6:30 AM EST
-
-
-
-Over 1 million people used Oculus Gear VR in April
-
-
-
-BYLINE: John DiPietro
-
-
-
-LENGTH: 734  words
-
-
-
 
 
 Even though Oculus VR is currently working on limited number of Samsung phones,
-
 including Galaxy S7, the Galaxy S7 Edge, the Galaxy Note 5, it has been used by
-
 more than one million people in April.
 
-
-
 As per Oculus VR, developers have generated more than 250 applications for the
-
 Samsung Gear VR platform, which is powered by Oculus VR technology. Currently,
-
 some of the top-selling applications for Gear VR include EVE Gunjack, Star
-
 Chart, Dreadhalls, End Space, Escape Room VR, Land's End and Bandit Six.
 
-
-
 Some of the listed 'must haves' are Hulu, Goosebumps Night of Scares, Mike VR
-
 and Orion Trail VR. Seven of the top 10 most used apps are videos and on any
-
 given data, nearly 80% of people who use Gear VR watch video content.
 
-
-
 The company has announced that it will start adding 360 photos to the News Feed
-
 in the coming months. These photos can be taken with a phone or a 360 camera and
-
 viewed in VR form using the Oculus Photos app provided for the Gear VR headset.
 
-
-
 Oculus VR has also revealed that Oculus Home for Gear VR will be updated in
-
 June. It will be having a revamped design to make search for recently downloaded
-
 content a bit easier. In November 2015, Samsung launched the Gear VR headset,
-
 which is considered to be cheaper than Oculus Rift.
 
-
-
 The device has an inertial measurement unit (IMU) for rotating tracking, which
-
 connects to the smartphone's micro USB port. A proximity sensor detects whenever
-
 the headset is worn. But if you want to enjoy cost-effective taste of VR then
-
 you can try Google Cardboard, which is compatible with all Android and iOS-based
-
 phones.
 
-
-
 According to a story published on the topic by Engadget, "Oculus' mission is to
-
 help people experience anything, anywhere," Max Cohen, Oculus' head of mobile,
-
 told a roomful of journalists this Tuesday. There's the high-end experience of
-
 the Rift, of course, but there's also the portable easy-to-use version of the
-
 Gear VR. "The secret [with VR] is it can't just be slightly better than other
-
 experiences that you've had," said Cohen. "It has to be even better."
 
-
-
 Part of the reason why the million mark is so exciting, then, is because it'll
-
 hopefully push developers to create even more content for the platform. Cohen
-
 admits that it's sometimes daunting to get developers to spend time making VR
-
 content. "They tell us, 'Give us a call when you've a hit a million users.'"
-
 Well, now it has. Plus, Cohen says, the average time that users spend on the
-
 Gear VR is around 25 minutes a day. "They're highly engaged with the product."
 
-
-
 "Unlike 360-degree videos, virtually anyone with a smartphone will be able to
-
 create these new photos. Panoramas, photo spheres and photos shot with
-
 360-degree camera units will all be supported by Facebook when the update drops.
-
 On the other hand, if you want to take professional 360-degree photos, you're
-
 going to need a full 360 camera rig (for which Facebook happens to have
-
 introduced a set of blueprints last month). You can also pick up a GoPro Odyssey
-
 if you have a spare $15,000 lying around, or the Ricoh Theta S if you don't,"
-
 according to a recent BGR report.
 
-
-
 Along with being a neat addition to the platform, 360-degree photos are also
-
 another push for users to begin adopting VR head-mounted displays (HMDs).
-
 Facebook now owns Oculus, which is responsible for both the Oculus Rift and the
-
 software that runs Samsung's Gear VR headset as well. "We've been beta-testing
-
 360 photos internally for awhile now," writes Eugene Wei, head of video for
-
 Oculus. "It's a lot of fun. You get to share where you are; the story of your
-
 life with other people."
 
-
-
 A report published in CNET News informed, "VR is only as cool as the content you
-
 interact with. Right now this ranges from games and education to roller coasters
-
 and even pornography. Just as Netflix, Amazon and Hulu today are grabbing up
-
 marketshare by creating their own shows, Facebook-backed Oculus will gain a lot
-
 of momentum by giving its users stuff they can't find on any other platform."
 
-
-
 "A million is kind of a magic number for a lot of people to start taking this
-
 seriously," Oculus head of mobile, Max Cohen, told me. "It starts making more
-
 economic sense for others to join in." For example, Cohen continued, Microsoft
-
 wouldn't have been involved with releasing a VR version of Minecraft if it
-
 didn't think Oculus' platform was going anywhere. The potential is huge, too,
-
 just like it was when Facebook itself first took off.
-
-
-
-LOAD-DATE: May 12, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-          Copyright 2016 Manas Informatics, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

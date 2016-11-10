@@ -1,1680 +1,826 @@
-                              789 of 820 DOCUMENTS
-
-
-
-             Copyright (c) 2010 Marquette Intellectual Property Law
-
-                                     Review
-
-                   Marquette Intellectual Property Law Review
-
-
-
-                                  Summer, 2010
-
-
-
-                   Marquette Intellectual Property Law Review
-
-
-
-                       14 Marq. Intell. Prop. L. Rev. 237
-
-
-
-LENGTH: 11553 words
-
-
 
 HONORABLE HELEN WILSON NIES MEMORIAL LECTURE: THE THIRTEENTH ANNUAL HONORABLE
-
 HELEN WILSON NIES MEMORIAL LECTURE IN INTELLECTUAL PROPERTY LAW+: INNOVATION AND
-
 RECOVERY
 
-
-
 + Audio of the Thirteenth Annual Honorable Helen Wilson Nies Memorial Lecture in
-
 Intellectual Property Law, delivered at Marquette University Law School on
-
 October 21, 2009, is available at
-
 http://law.marquette.edu/cgi-bin/site.pl?2130&pageID=919. This lecture is
-
 delivered each year by a nationally recognized scholar in the field of
-
 intellectual property law. The remarks have been edited to reflect subsequent
-
 developments.
-
-
 
 NAME: John F. Duffy*
 
-
-
 BIO: * Oswald Symister Colclough Research Professor of Law, George Washington
-
 University Law School.
 
-
-
 LEXISNEXIS SUMMARY:
-
  ... The title for my lecture today is "Innovation and Recovery." ... The period
-
 during which recession turns to recovery is thus an optimal time to reconsider
-
 the nature and desirability of innovation, and great insight can be won by
-
 considering the types of innovations sought in time of crisis.  ... Pragmatic
-
 application is absent even from many inventions that have received patents,
-
 including for example, such novelties as the automatic hat tipper (patented in
-
 1896) or the wearable hamster cage (patented 1999).  ... Recession is a time to
-
 assess the standard practices that were yesterday's innovations, and the
-
 assessment is uncompromisingly pragmatic because firms must ask: Are these
-
 current practices, operations or lines of business as efficient as possible?
-
 ... Rather, current legal doctrine has bred dissatisfaction because the law has
-
 lost its focus on two traditional values of the patent system: generous
-
 accommodation for the extreme diversity of innovation and uncompromising
-
 pragmatism in building and refining patent law's doctrines.  ... The natural
-
 reaction to restrictions on equivalents analysis has been to add more claims to
-
 patents.  ... The legal issue arose because, as disclosed in their patent, the
-
 Wrights' aircraft design used a rope and pulley system that would automatically
-
 make the necessary rudder correction every time the wings were warped.
 
-
-
 TEXT:
-
  [*237]
-
-
 
    I. Introduction
 
-
-
  I would like to thank Dean Joseph Kearney and Professor Kali Murray, who
-
 invited me to give this lecture, and also the faculty of Marquette Law School
-
 for hosting me these few days.
 
-
-
    I especially appreciate being given the chance to deliver a lecture  [*238]
-
 named in honor of Judge Helen Nies, as I am a great fan of her work in the
-
 patent area. n1 Indeed, a recent article n2 of mine traces the Supreme Court's
-
 reengagement in the patent area to the Court's grant of certiorari in American
-
 Airlines v. Lockwood, n3 in which Judge Nies wrote a marvelous dissenting
-
 opinion at the Court of Appeals. Her dissent reads very much like a thoughtful
-
 and considered brief that was trying to attract Supreme Court review. She
-
 focused on a split in circuit authority on the issue in the case and articulated
-
 with great expertise the reasons why the issue was important. n4 In a subsequent
-
 law review article, Judge Nies explicitly stated her belief that dissents from
-
 Federal Circuit opinions could "provide[] an impetus for Supreme Court review,"
-
 as "judges disputing a point more likely will pique the Court's interest than
-
 lawyers disputing a point." n5 She also defended the value of dissenting
-
 opinions, stating her conviction that "a judge who disagrees with the majority
-
 must make the effort to write a dissent, especially here at the Federal Circuit
-
 where dissents are virtually the sole means by which contradicting positions on
-
 the law are presented fully and without personal bias to the Supreme Court." n6
 
-
-
    Judge Nies's dissent in Lockwood was a signal moment in modern patent law, as
-
 it marked a watershed in the Federal Circuit's relationship to the Supreme
-
 Court. The Court's decision in 1994 to  [*239]  grant certiorari in Lockwood
-
 ushered in a period of renewed interest by the high court on patent law issues.
-
 In the first twelve years after the creation of the Federal Circuit (1982-1994),
-
 the Supreme Court heard only five patent cases, and those cases were only
-
 tangentially related to substantive patent issues. n7 Starting in 1994 and
-
 continuing to the present day, the Supreme Court has considered, on average, at
-
 least one patent law case per term, with the majority of the cases involving
-
 core matters of patent policy. n8
 
-
-
    I have devoted attention to Judge Nies's dissent in Lockwood not merely
-
 because it is appropriate to recall the great jurist after whom this lecture was
-
 named, but also because my lecture today may be viewed as a dissent to some of
-
 the current approaches in modern patent law. Like Judge Nies, I too believe in
-
 the inherent value of dissent. While agreement can be signified with mere
-
 silence, disagreement imposes a responsibility to speak and to write, for only
-
 then can "contradicting positions" be fully and carefully presented.
 
-
-
    The title for my lecture today is "Innovation and Recovery." The lecture is
-
 premised on the undeniable fact that our nation has recently  [*240]  suffered a
-
 recession. We now hope for recovery. n9 Yet despite all the difficulties imposed
-
 by a recession, and despite our strongest desires to have it retreat into
-
 history, a recession also has great value to society. This value goes beyond
-
 mere cliched paraphrases of the famous advice attributed to Nicolo Machiavelli,
-
 "Never waste the opportunities offered by a good crisis." n10 The opportunities
-
 afforded by a recession are not merely the chance to seize power or to achieve
-
 other political objectives. Recession provides the chance to learn and to
-
 change. Most importantly, recession provides a lesson in the fallibility of
-
 human knowledge and in the need for continued improvement.
 
-
-
    Recession is failure. It is a failure of existing ways of doing things.
-
 Regulatory structures fail; businesses fail; and individuals fail to maintain
-
 their productivity and to meet their responsibilities. Precisely because
-
 existing practices have failed, the way out of a recession is the new, the
-
 changed, the innovative. Recovery from recession demands new practices and new
-
 organizations for governments, businesses, and individuals, and those
-
 reorganizations and reemployments are often quite different from what came
-
 before. Recovery thus demands innovation to rebuild society - to rebuild it a
-
 little bit better and, hopefully, a little bit more carefully.
 
-
-
    Innovation is therefore a natural response to a crisis. n11 In good times, it
-
 makes sense to follow worn paths. If current methods are yielding good results,
-
 it makes perfect sense to continue in those ways. Not so in times of crisis. The
-
 innovation necessary for an economic recovery is, to be sure, not just the
-
 innovation that goes on inside a laboratory or a research facility. It can be
-
 bigger and more dramatic - like the reorganization of an entire industry's
-
 business and regulatory practices. It can be smaller and more incremental, as
-
 when a single individual decides to change careers or to open a new business.
 
-
-
     [*241]  Examining the innovation necessary for recovery yields two important
-
 insights into the nature of innovation. First, innovation is wildly diverse; it
-
 spans the full breadth of human activities and human creativity. Second,
-
 innovation - or at least the innovation most ardently sought as the path for
-
 recovery - is intensely practical. My thesis in this lecture is that these two
-
 insights, though derived from our broader experience, are essential in obtaining
-
 recovery for our chief legal mechanism that is designed to foster innovation,
-
 the patent system.
-
-
 
    II. Innovation for Recovery
 
-
-
  Many patented innovations are incremental advances that build on pre-existing
-
 technologies in relatively standard ways. Recognizing this truth does not
-
 denigrate the value of those innovations and certainly does not suggest that
-
 they should be denied patent protection. Even on the forefront of scientific
-
 research, "normal science" usually dominates, with valuable but incremental
-
 additions to existing structures. n12 The most innovative of advances - changes
-
 that are truly "outside the box" in the sense that they reject pre-existing
-
 notions - are rare and episodic. Yet it is precisely those sorts of
-
 transformative changes, both large and small, that are the most necessary to
-
 generate a recovery from economic failure. The crisis of economic failure makes
-
 complete rejection of old ways easier, and the desire for recovery spurs
-
 creation of the boldly new.
 
-
-
    The period during which recession turns to recovery is thus an optimal time
-
 to reconsider the nature and desirability of innovation, and great insight can
-
 be won by considering the types of innovations sought in time of crisis. These
-
 innovations are distinguished by their diversity but unified by their
-
 practicality. These two qualities - diversity and practicality - will provide my
-
 overarching themes.
-
-
 
    A. The Diversity of Innovation
 
-
-
  Recession and recovery remind us of the extreme diversity among innovations.
-
 That diversity spans much more than advances in engines, semi-conductor chips,
-
 chemicals, pharmaceuticals and computer software. Such industrial diversity may
-
 be a common proxy for representing the diversity of innovation, n13 but it
-
 covers only a part of innovation. Innovation extends beyond the research
-
 laboratory; it  [*242]  ranges from the individual home, to the corporate
-
 boardroom, and, yes, even to inside the Beltway. Here, I will consider three
-
 types of innovation that are often neglected in discussions about innovation but
-
 yet are vital parts of the innovation needed for recovery.
-
-
 
    1. Economic Innovation
 
-
-
  First, let us consider the full scope of economic innovation. As I have
-
 suggested, economic failure is an invitation to innovate. Failed businesses
-
 recover through reorganizations of assets. n14 Indeed, modern corporate
-
 bankruptcy law is often not called bankruptcy, but corporate reorganization. n15
-
 That name is accurate precisely because business failure creates the opportunity
-
 to take assets being used in one way, which was unproductive, and put them to a
-
 new and hopefully productive use. n16 Such a common and seemingly trivial change
-
 demands innovation in the sense that at least those specific assets are put to a
-
 use that is new.
 
-
-
    Innovation is present not only in any corporate reorganization, but also in
-
 any individual's search for reemployment. For the unemployed in a recession,
-
 especially the newly unemployed, the job market often seems bleak. Yet the
-
 lesson of a foreboding job market - and it is no doubt a hard lesson on a
-
 personal level - is a lesson in the essential need for innovation. When
-
 traditional career paths are no longer open and promising, job seekers must be
-
 more creative. They must consider new ways to work. They must search for new
-
 opportunities because the old opportunities are diminished or gone altogether.
-
 It is common in our society to admire the innovator and the entrepreneur. Yet
-
 the unemployed share a common bond with innovators. For both, creativity is
-
 essential, but the path is as difficult and fraught with failure as it is
-
 essential.
 
-
-
    Finally, any discussion of economic innovation is incomplete without also
-
 considering those who are not bankrupt or unemployed, but who instead have
-
 assets or capital despite the recession. It might seem at  [*243]  first blush
-
 that these individuals and corporations should shun risk during recessionary
-
 times; they should "play it safe." But this is not so. For those with assets, a
-
 recession is also a challenge, and a challenge to innovate. For the well-off,
-
 recession also brings opportunity. Corporate reorganizations bring the
-
 opportunity to purchase properties at substantial discounts. Unemployment brings
-
 the opportunity to hire previously unavailable talent that is now looking for
-
 new employment, new directions, and new things to do.
 
-
-
    This discussion should make clear the full scope of economic innovation
-
 revealed by the process of recession and recovery. Innovation ranges from the
-
 small - for example, a new shop on one particular corner in Milwaukee, or a new
-
 career path for a single individual - to the large - such as an entirely new
-
 business model, a new product or pioneering technology. Economic innovation
-
 presents a large continuum from the very smallest changes to the very largest
-
 path-breaking developments.
-
-
 
    2. Regulatory Innovation
 
-
-
  Regulatory innovation is a second class of innovation that, though often
-
 overlooked in general discussions on innovation, gains due attention during a
-
 period of recession. By "regulatory innovation," I refer not merely to
-
 governmental regulation but instead to the vast swath of mechanisms by which
-
 public and private institutions organize and regulate human productivity. For
-
 the advocates of governmental ordering - the champions of the Beltway - the
-
 recession is (or at least should be) a challenge to existing assumptions about
-
 governmental regulation because the existing machinery of government may have
-
 failed. So too, for the advocates of private order, recession presents the
-
 possibility that the existing institutional machinery of the private sphere may
-
 have failed.
 
-
-
    The need for recovery, and hope for avoiding calamity in the future, thus
-
 typically prompts calls for public and private regulatory innovation. In
-
 Washington, this innovative impulse may take the form of new legislation or new
-
 administrative initiatives. n17 Change is not, however,  [*244]  limited to the
-
 public sphere. Private firms must also evaluate the causes of failure and seek
-
 worthwhile innovations. The private order must also discover or invent new ways
-
 to make sure that firms seek productivity and profit and not court risk and
-
 disaster.
-
-
 
    3. Governmental Innovation
 
-
-
  The final and highest level of innovation that I will discuss is governmental
-
 innovation. It is now fashionable in Washington to talk about Government 2.0.
-
 n18 The name derives directly from an analogy to the latest internet
-
 innovations, often called web 2.0. n19 The driving theory behind Government 2.0
-
 is that innovative information technologies have the power to transform
-
 government - to create government anew. The movement was recently the subject of
-
 a major conference in Washington, n20 and the new administration is a big fan.
-
 n21 Thus, inside the Beltway, the topic has become as ubiquitous as it is
-
 notorious.
 
-
-
    The current fascination with Government 2.0 should not, however, obscure the
-
 long tradition from which the movement descends. The  [*245]  longing for
-
 improved, innovative government has deep roots in our society. The slogans may
-
 change with each generation, but the underlying aspiration remains to achieve
-
 progress similar to that observed in technologies that have grown out of the
-
 physical sciences. A decade and a half ago, Al Gore championed the "reinvention
-
 of government" n22 - a name adopted from the public management book by David
-
 Osborne and Ted Gaebler that expressly invoked the "breathtaking change" in our
-
 current "information society" as the catalyst for reforming governmental
-
 structures and practices. n23 In an earlier era as well, Justice Brandeis relied
-
 on technological metaphor to defend federalism as a means for providing
-
 "laboratories" in which citizens could "try novel social and economic
-
 experiments." n24 Brandeis was, in turn, following in the tradition of the
-
 Progressive Era, which relied on the vast technological changes in the
-
 nineteenth century to justify the introduction of legal innovations at both the
-
 state and federal levels. n25 Indeed, the intellectual roots of the Progressive
-
 tradition can be traced back to Woodrow Wilson, a prominent academic who later
-
 became influential in politics. Wilson established the intellectual foundation
-
 for the development of an innovative "science of administration" by pointing to
-
 the profound technological and social changes that had occurred since the
-
 framing of the Constitution. n26
 
-
-
     [*246]  In pursuing governmental innovation to change existing
-
 constitutional structures, the Progressives were themselves carrying forward the
-
 more general tradition of innovation that dates back to the time of the framing
-
 of the Constitution. The constitutional framers were facing one of the greatest
-
 crises of our nation, as the very structure of the then-existing government
-
 established under the Articles of Confederation was failing badly. n27 That was
-
 a crisis of much greater magnitude than the economic crisis currently faced by
-
 our nation, n28 and the greater crisis produced monumental innovation. Indeed,
-
 the framers of our Constitution were not shy about telling the world that they
-
 were experimenting. For example, James Madison, in Federalist 39, talked about
-
 the "bold and radical innovations" that he was defending,  [*247]  in arguing
-
 for the adoption of the new constitution. n29 And in Federalist 37, again,
-
 Madison also said that the act of the Constitutional Convention had recommended
-
 so many important changes and innovations that great care was required to
-
 understand them all and to evaluate them. n30
 
-
-
    While the recent economic crisis has not produced - and is not likely to
-
 produce - dramatic constitutional innovation, it has spurred some proposals for
-
 incremental innovation in governmental institutions. For example, the currently
-
 proposed financial reform legislation would authorize the creation of a new
-
 "Bureau of Consumer Financial Protection" that (i) would be part of the Federal
-
 Reserve System (the "Fed"), n31 (ii) would be funded from the Fed's revenues,
-
 n32 (iii) would be capable of receiving delegations of power from the Fed's
-
 Board of Governors, n33 and yet (iv) would be independent from any substantive
-
 oversight by the Fed. n34 Thus, the proposed new Bureau is innovative in that,
-
 while it is statutorily created as a part of another independent agency (the
-
 Fed) and indeed receives its funding from that other agency, it nevertheless
-
 retains a seemingly complete independence even from that agency. The new Bureau
-
 would be an extension of the model of a "doubly independent" agency, which
-
 involves placing an independent agency within a larger, parent independent
-
 agency. That structure was pioneered with the Public Company Accounting
-
 Oversight Board ("PCAOB"), which Congress created as part of the Sarbanes-Oxley
-
 legislation in 2002 and which remains subject to a constitutional  [*248]
-
 challenge now pending before the Supreme Court. n35 Yet the proposed new Bureau
-
 goes beyond even the PCAOB, which is subject to some degree of supervision by
-
 its parent agency, the Securities and Exchange Commission.
 
-
-
    In tracing this continuing tradition of governmental innovations, I do not
-
 mean to suggest that such innovations are desirable. Innovation is well known to
-
 be a highly risky endeavor. Though a few innovations are wildly successful, most
-
 are failures. So too with governmental innovations. While the governmental
-
 structure in the U.S. Constitution has been a tremendously successful
-
 innovation, other attempts to produce innovative governance have not been
-
 enduring. The overarching point, however, is that the creative impulse to
-
 innovate defies narrow categorization. Where social needs are great, as in a
-
 recession, innovation is seen across numerous fields. Thus, the crisis of
-
 recession reveals the full scope of human creativity and innovation.
-
-
 
    B. Pragmatic Innovation
 
-
-
  The second theme concerns innovation and pragmatism. It is common for patent
-
 attorneys and scholars to believe that innovation is directed toward pragmatic
-
 or utilitarian goals. n36 Yet innovation does not necessarily have to be
-
 pragmatic or useful. Pragmatic application is absent even from many inventions
-
 that have received patents, including for example, such novelties as the
-
 automatic hat tipper (patented in 1896) n37 or the wearable hamster cage
-
 (patented 1999). n38 Innovative forms of artwork, dance, music or humor might be
-
 pleasing and socially desirable, but they are distinct from the pragmatic
-
 innovations that solve pressing problems or fulfill practical needs.
 
-
-
     [*249]  Recessions refocus attention on practical concerns. Indeed,
-
 recessions frequently begin with a pragmatic and essential, but often
-
 overlooked, form of innovation: firms lay off some portion of their employees.
-
 Though greater unemployment is not often seen as welcome news, it is a crucial
-
 part of the innovation that leads to recovery. In reducing their workforces,
-
 firms are attempting to continue production while using fewer resources or to
-
 eliminate unproductive activities. Layoffs are thus best seen as an intensely
-
 practical type of process innovation; they are attempts by firms to become more
-
 efficient in their operations.
 
-
-
    The desire for recovery is nothing more nor less than a hope that innovation
-
 and change will improve people's lives and make society better off in measurable
-
 ways. Layoffs, bankruptcies, and other economic failures are the necessary
-
 predicates toward the innovations associated with recovery - new employments,
-
 new businesses, and new successes. Recessions free labor and capital goods from
-
 unproductive activities so that they can be directed toward new and more
-
 productive uses.
 
-
-
    In both recession and recovery, the innovations most ardently sought by
-
 workers, firms and governments are intensely practical. In some respects, this
-
 focus on the practical reinforces my first theme about the diversity of
-
 innovation. In difficult times, individuals and firms look for innovations of
-
 all sorts provided that they will yield useful results. But the point is larger
-
 still. Recession is a time to assess the standard practices that were
-
 yesterday's innovations, and the assessment is uncompromisingly pragmatic
-
 because firms must ask: Are these current practices, operations or lines of
-
 business as efficient as possible? Are they even worth continuing? Recovery
-
 begins when the current inefficiencies have been eliminated, thereby freeing
-
 resources to be employed in new pursuits.
 
-
-
    The intense pragmatism fostered by recession is, I will argue, an approach
-
 that is urgently needed in reevaluating the legal doctrine associated with our
-
 nation's patent system. Just as periodic recessions trigger coldly practical
-
 assessments of economic practices, so too our standard legal practices should
-
 regularly undergo such uncompromising assessments. Now is a good time for one in
-
 the patent field.
-
-
 
 [*250]
 
-
-
    III. Recovery and Innovation
 
-
-
  The remainder of my talk will focus on the patent system. For you who are
-
 aficionados of the patent system, here is your part of the lecture.
 
-
-
    The first part of this talk set the stage for an evaluation of the patent
-
 system not only because the patent system is designed to foster the innovation
-
 that can be so crucial to economic recovery and growth, but also because the
-
 patent system itself is now widely viewed as being in crisis. Recent books on
-
 the patent system come under titles such as "Innovation and its Discontents" n39
-
 or "Patent Failure." n40 These books do not praise the current direction of the
-
 patent system, but instead question whether the system needs dramatic reform.
-
 n41
 
-
-
    Dissatisfaction with the status quo in the patent system is not limited to
-
 the pages of academic books and articles. For the better part of the last
-
 decade, Congress has continually been considering major patent reform
-
 legislation. n42 While nothing has yet been enacted, n43 the new  [*251]
-
 administration is promising to do all it can to end that inaction relatively
-
 soon. n44
 
-
-
    Unlike in Congress, patent reform has become a reality at the Supreme Court.
-
 In the last half decade, the Court has also been reevaluating and changing the
-
 status quo in patent law. n45 KSR v. Teleflex, a case I had some involvement in,
-
 n46 overturned a quarter of century of lower court precedent on the standard of
-
 patentability and, by endorsing a more capacious obviousness doctrine, n47 made
-
 it somewhat more difficult to obtain a patent. n48 In Medimmune v. Genentech,
-
 the Supreme Court ruled that more than two decades worth of Federal Circuit case
-
 law had overly restricted the ability of parties to bring declaratory judgment
-
 actions to challenge patents. n49 Similarly,  [*252]  eBay v. MercExchange held
-
 that longstanding Federal Circuit standards for awarding injunctive relief were
-
 improperly slanted toward patentees. n50
 
-
-
    While some of these Supreme Court cases have focused on procedural,
-
 jurisdictional and remedial issues, the cases are united in their rejection of
-
 Federal Circuit rulings held to be overly favorable to patent holders. It would
-
 be wrong, however, to assume that the dissatisfaction with the status quo and
-
 the movement for patent reform are grounded in hostility to patents and the
-
 patent system. Rather, current legal doctrine has bred dissatisfaction because
-
 the law has lost its focus on two traditional values of the patent system:
-
 generous accommodation for the extreme diversity of innovation and
-
 uncompromising pragmatism in building and refining patent law's doctrines. Below
-
 I set forth four examples as illustrations.
-
-
 
    A. Claim Interpretation
 
-
-
  My first example involves a highly technical issue, patent claim
-
 interpretation. A patent claim is a single sentence at the very end of the
-
 patent document that tries to define, with some degree of precision, the scope
-
 of the intellectual property rights encompassed within the patent. n51 Claims
-
 are now commonly called the "metes and bounds" of  [*253]  the property rights
-
 conferred by the patent. n52
 
-
-
    In the last two decades, a theory has arisen that I believe to be quite
-
 pernicious. It was best articulated by a colleague of Judge Nies, Judge Giles
-
 Rich of the Federal Circuit. He said: "the name of the game is the claim." n53
-
 In other words, the whole "game" in patent law (or perhaps more narrowly, patent
-
 infringement law) is the set of words written into the sentence of the patent
-
 document called the claim.
 
-
-
    Though many professors have cited it to emphasize the importance of patent
-
 claims, n54 Judge Rich's catchy slogan is, I believe, dead wrong. The name of
-
 the game in patent law should always be innovation, not some legalistic
-
 construct such as claims. Claims are for lawyers, and lawyers should be the
-
 servants of the innovators, not the masters. Judge Rich's slogan is a perfect
-
 example of how our current patent system has departed from an unswervingly
-
 pragmatic focus on the proper goal of the entire patent system - innovation -
-
 and instead has become overly concerned with legalisms for legalisms sake.
 
-
-
    Returning the law to a more pragmatic focus on encouraging innovation will
-
 require a major theoretical shift in patent law. It is, however, a shift worth
-
 making and actually requires nothing more radical than reviving more traditional
-
 approaches such as that embraced by the Supreme Court in its 1923 decision Eibel
-
 Process Co. v. Minnesota & Ontario Paper Co. n55 In that case, the Court
-
 emphasized that, to determine the proper scope of a patent, courts should "first
-
 look[] into the art to find out what the real merit of the alleged discovery or
-
 invention is." n56 I love that approach. Merit - judged not by  [*254]
-
 legalisms but by the degree of real inventive accomplishment in the art - is, or
-
 at least should be, the name of the game in patent law.
 
-
-
    The Eibel Court's approach is thoroughly pragmatic in that it focuses on the
-
 ultimate goal sought be accomplished in patent law. Eibel instructs courts first
-
 to look to the art, not to the claim, and then to determine the real merit of
-
 the invention. Only after that inquiry is complete can a court construe the
-
 legal limits of the patent rights. In other words, the legal analysis should be
-
 subservient to a pragmatic inquiry into real merit - not, as it so often seems
-
 today, the other way around.
 
-
-
    A corollary of Eibel's approach is that courts should always try to construe
-
 a patent claim to save its validity. n57 The theory behind this canon is
-
 consistent with Eibel's focus on real merit. If an inventor has made a
-
 meritorious contribution, then all of claim interpretation should be directed to
-
 protecting that contribution, with courts doing whatever they can in construing
-
 the ambiguities of the claim to save its validity. In recent years, however, the
-
 Federal Circuit has said that this canon of construction is "a last resort, not
-
 a first principle." n58 While that demotion of one canon of claim construction
-
 may seem to be a minor "down-in-the-weeds" change to patent doctrine, it is a
-
 perfect example of the more fundamental problem: recent patent doctrine is
-
 losing the traditional, pragmatic focus on inventive merit and replacing it with
-
 an unproductive emphasis on legalisms. An excellent and eminently achievable
-
 reform of current patent law - one that would help in patent law's recovery -
-
 would be to restore the traditional emphasis on interpreting patents to save
-
 validity and to capture the merit of the innovation.
 
-
-
     [*255]  Another example of the same problem is the recent hostility of the
-
 lower courts to the doctrine of equivalents. In patent infringement suits, our
-
 country's traditional approach was that, if a claim had some literalistic
-
 problem, courts would permit patentees to rely on the "doctrine of equivalents"
-
 to cover as infringements those things that were equivalent, if not literally
-
 identical, to what was claimed. n59 In other words, the courts applied a
-
 pragmatic rule of forgiveness in interpreting claims. n60 To be sure, the rule
-
 was not perfectly forgiving, but it nonetheless permitted some degree of
-
 forgiveness to account for the realistic difficulties associated with drafting
-
 language to cover the new and nonobvious.
 
-
-
    The most dramatic attempt to restrict the doctrine of equivalents came in the
-
 Federal Circuit's en banc ruling in Festo Corp. v. Shoketsu Kinzoku Kogyo
-
 Kabushiki Co., which purported to make the doctrine of equivalents inapplicable
-
 to all amended claim elements. n61 The Supreme Court's decision in Festo
-
 rejected that "rigid" rule and also warned against the dangers of excessive
-
 "literalism" in patent law. n62 Yet even after the Supreme Court's Festo
-
 decision, the Federal Circuit has continued to constrict the doctrine of
-
 equivalents. n63 Now, more than  [*256]  seven years after the Supreme Court's
-
 decision in Festo, it is common knowledge among patent practitioners and
-
 scholars that the doctrine of equivalents has been effectively eradicated. n64
 
-
-
    The demise of the doctrine of equivalents is a shame, for it is another step
-
 toward the fallacy that the "name of the game" should be what the lawyer writes
-
 in a claim and not what the inventor does in a laboratory. The natural reaction
-
 to restrictions on equivalents analysis has been to add more claims to patents.
-
 n65 If courts will not interpret patents in a reasonably forgiving manner to
-
 protect inventions of real merit - if semantic nuances can cost inventors
-
 effective protection over their inventions - then inventors' lawyers will try to
-
 compensate by drafting more and more claims to cover a wide variety of possible
-
 semantic permutations. n66
 
-
-
    This is not a positive development in patent law. It means more work for
-
 lawyers drafting patent applications, as they will spend time drafting dozens
-
 and perhaps even hundreds of claims per patent application. The abundance of
-
 claims will not, however, increase the certainty of the intellectual property
-
 rights. The chief criticism against the doctrine of equivalents has long been
-
 that the doctrine makes patent infringement analysis somewhat amorphous and
-
 therefore somewhat less predictable. n67 Yet applying the doctrine of
-
 equivalents to a small  [*257]  number of claims may produce more certainty than
-
 applying rigidly literal interpretations to hundreds of claims, which can be the
-
 situation that litigants face today. More importantly, the multiplication of
-
 claims directs attention away from the merits of the underlying invention.
 
-
-
    In sum, the slogan "the name of the game is the claim" is an excellent
-
 illustration of how current patent doctrine has lost its traditional, pragmatic
-
 focus on meritorious invention. The path toward recovery offers a different
-
 slogan: "the name of game is invention."
-
-
 
    B. The Paper Patent Doctrine
 
-
-
  My second example also involves a modern development that has taken the patent
-
 system away from its traditional pragmatism by distancing it from important
-
 business realities. There used to be a doctrine in patent law known as the
-
 "paper patent" doctrine. This neat little doctrine is now an historical remnant.
-
 n68 It has been buried by the courts, mostly in the last half-century. n69 Yet
-
 this doctrine was based on the realistic view that, if an alleged invention has
-
 been merely disclosed in a patent specification but never actually implemented
-
 in the real  [*258]  world, then it remains only a piece of paper. n70 The
-
 courts would look upon that such a patent with some degree of skepticism, almost
-
 as if the invention were half complete. The doctrine did not, however, mean that
-
 courts would never hold paper patents to be valid, but they were more likely to
-
 construe such patents narrowly or, at times, to hold them invalid. n71 In this
-
 respect, the paper patent doctrine could be seen as somewhat anti-patent because
-
 it would create difficulties for some patentees who were trying to enforce such
-
 patents.
 
-
-
    The doctrine had another face too, one that favored patentees. For those who
-
 held more than just a paper patent - for those who had gone out in the real
-
 world and built a business around an invention - the paper patent doctrine was a
-
 great help in sustaining the validity of the patent. If a competitor tried to
-
 invalidate such a patent based on older patents that had never been implemented,
-
 then the paper patent doctrine could be used to discount those older patents and
-
 limit the extent that they would be viewed as potentially invalidating prior
-
 art. n72
 
-
-
     [*259]  One result of the modern demise of the paper patent doctrine has
-
 been the rising controversy concerning what are known as "patent trolls" or, in
-
 less derogatory terms, "non-practicing entities," which are patentees that have
-
 never commercially implemented their technology but that are suing others who
-
 have taken the business risk to implement the technology. n73 A revival of the
-
 paper patent doctrine would be poison to patent trolls, but good news for patent
-
 holders who actually changed things in the real world. The old paper patent
-
 doctrine recognized the enormous business risks firms take in commercializing
-
 new technologies, and it made that risk-taking count for something in the patent
-
 system. That approach was eminently reasonable and pragmatic. True patent reform
-
 would revitalize the doctrine.
-
-
 
    C. Diversity of Innovation and Accommodation of Pioneers
 
-
-
  My last two examples show ways in which current legal doctrine has lost the
-
 traditional ability of patent law to accommodate the extreme diversity of
-
 innovation. In the past, courts used to discuss whether an invention should be
-
 considered a "pioneer" invention or "mere improvement." n74 That distinction was
-
 important to the courts precisely
 
-
-
    because they were trying to discern the real merit of the contribution by
-
 [*260]  the inventor. n75
 
-
-
    While the distinction between pioneering and incremental inventions was
-
 frequently used by the Supreme Court and by lower courts in the nineteenth
-
 century and in the earlier part of the twentieth century, it has all but
-
 disappeared from modern jurisprudence, particularly at the Federal Circuit. n76
-
 This is a real loss because, if the courts do not know what the true merit of
-
 the invention is, they will have great difficulty applying the patent system
-
 fairly. The distinction between pioneering and incremental inventions recognizes
-
 the full breadth of diversity in inventions. Some inventions are larger, more
-
 difficult, and more path-breaking than others.
 
-
-
    A great example of the proper use of the "pioneer" concept comes in Wright v.
-
 Paulhan. n77 The case involved a suit by the Wright Brothers to enforce their
-
 famous patent on a flying machine. The opinion was written by Judge Learned
-
 Hand, one of the greatest judges in the  [*261]  twentieth century and also one
-
 of the greatest patent judges ever. n78 A key issue in the case was whether the
-
 Wright Brothers' patent covered aircraft that were more modern than ones created
-
 and patented by the Wrights.
 
-
-
    The Wrights had discovered and patented an aircraft with a particular type of
-
 system to "balance" the aircraft and thereby to achieve stability in flight.
-
 Under the Wrights' system, an aircraft could be stabilized, in part, by warping
-
 the aircraft's wings - i.e., by "moving the lateral portions [of the wing] into
-
 different angular relations to the normal plane of the [wing]." n79 That
-
 balancing act was not all that needed to be done. The Wrights also realized
-
 that, when an aircraft did this balancing act - i.e., when a portion of the wing
-
 on one side of the aircraft was bent down and a portion of the wing on the other
-
 side of the craft was bent up to rebalance the aircraft dynamically - the
-
 aircraft also needed to make a rudder correction. n80 If the rudder correction
-
 was not made, the aircraft would go into a tailspin and crash. n81 The rudder
-
 correction was an important part of the Wrights' aircraft design and was
-
 essential for maintaining stability in the aircraft.
 
-
-
    The legal issue arose because, as disclosed in their patent, the Wrights'
-
 aircraft design used a rope and pulley system that would automatically make the
-
 necessary rudder correction every time the wings were warped. Thus, under the
-
 Wrights' claimed system, the pilot would concentrate on warping the wings to
-
 balance the aircraft, while the rudder would automatically make the proper
-
 correction. The  [*262]  airplane of the accused infringer lacked such an
-
 automatic system. n82
 
-
-
    The automatic rudder correction system had been eliminated after the Wrights'
-
 work because later airplane developers realized an automatic system was
-
 unnecessary. Pilots could balance the craft and also make appropriate rudder
-
 corrections. In fact, there were some advantages to eliminating the automatic
-
 rudder correction system because the pilot of the aircraft then had more freedom
-
 to control the rudder for other maneuvers. Thus, aircraft designers after the
-
 Wrights simply gave the airplane pilot independent control over both the wings
-
 and the rudder. Pilots knew that if they changed the aerodynamic profile of the
-
 aircraft's wing to rebalance the aircraft, they also had to make the rudder
-
 correction that the Wrights had discovered to be essential for stability.
-
 Learning that technique was part of learning to fly.
 
-
-
    For purposes of patent law, however, the elimination of the automatic rudder
-
 control system raised a very hard question. The patent claim at issue in the
-
 Wrights' suit included as an element a "means" for performing the function of
-
 causing the rudder to move in the proper way to account for the aerodynamic
-
 changes to the wings. n83 Under settled law then (as is true now), such
-
 means-plus-function claims are construed to cover the corresponding structures
-
 disclosed in the patent specification and equivalents. The question on
-
 infringement thus boiled down to whether the structure disclosed by the Wright
-
 Brothers, a rope and pulley system for making rudder corrections automatically,
-
 was equivalent to the system of later aircraft, which required the pilot to make
-
 the necessary rudder adjustments. In short, the question was whether a human
-
 pilot could be viewed as equivalent to a set of ropes and pulleys. n84
 
-
-
    The issue initially seems like one in which the Wrights could never expect to
-
 win. No one would ordinarily think that a set of ropes and pulleys is equivalent
-
 to a human being. If the law reached that conclusion, however, then the Wright
-
 Brothers would have gotten  [*263]  nothing from their patent, because no one
-
 was building airplanes the way they had built their first aircraft. Conversely,
-
 if the human pilot is an equivalent, then the Wrights' patent would cover
-
 essentially the entire aircraft industry. The stakes were enormously high, and
-
 there was no real middle ground.
 
-
-
    Learned Hand concluded that, although it relied on the pilot, the subsequent
-
 rudder correction system was an equivalent. n85 That conclusion is very
-
 difficult to reach as matter of linguistics or logic. Modern doctrine, as
-
 currently applied in the lower courts, might very well reach the opposite
-
 conclusion, which would have left the Wright Brothers with nothing from their
-
 famous patent. Learned Hand was able to reach a conclusion favoring the Wrights
-
 because he took into account the pioneering quality of the Wrights' work. n86
-
 Indeed, the pioneering work of the Wrights serves as the polestar of Hand's
-
 opinion, for he candidly acknowledges that, even with identical claim language,
-
 the result would have been different if the Wrights' contribution had been less
-
 significant. n87
 
-
-
    Modern law would be improved if courts followed Learned Hand's example and
-
 looked more directly and more thoroughly at the merits of the invention in
-
 deciding how to interpret patents. Hand's approach is essential because patented
-
 inventions are so enormously diverse - some are big and some are small. A
-
 reformed patent system would expend more effort trying to figure out which is
-
 which, and those efforts would necessarily have to look beyond on claim language
-
 to the underlying merit of the invention.
-
-
 
    D. Patentable Subject Matter
 
-
-
  My fourth and final example concerns what may be the most important patent case
-
 of the century, Bilski v. Kappos, which involves patentable subject matter. n88
-
 This is a sort of a natural ending point for  [*264]  my lecture because this
-
 case touches upon both pragmatism and the diversity of innovation.
 
-
-
    The issue in the Supreme Court case is whether practical business processes
-
 may be eligible for patenting even if they are not tied to a particular machine
-
 and do not transform matter into a different state or thing. n89 This seemingly
-
 simple question raises many other issues, and there are a variety of different
-
 approaches to analyzing the case. For example, the case can be considered as an
-
 interesting test of the Court's methodology for statutory interpretation. The
-
 relevant statutory text states that "any new and useful process" may be the
-
 subject of a patent, and it also expressly defines "process" to include
-
 "process, art, or method." n90 The government, however, argues that business
-
 processes and methods are nonetheless outside the intended scope of the statute
-
 if they are not tied to a particular machine and do not transform matter to a
-
 different state. n91 The government is essentially trying to impose onto the
-
 statute a gloss not found anywhere in the statutory text, and not recognized by
-
 the courts in two hundred years. The case can thus be viewed as an interesting
-
 test of whether a textualist approach to  [*265]  statutory interpretation will
-
 be applied to the Patent Act.
 
-
-
    Rather than focusing matters of statutory interpretation and other
-
 jurisprudential issues, I want to consider the Bilski case in light of the
-
 themes of this lecture. First, let us consider the theme of diversity in
-
 innovation. One major argument against the modern appearance of business method
-
 patents is that few such patents were issued in the nineteenth and early
-
 twentieth centuries. n92 Yet if the patent system has traditionally been
-
 accommodating of a wide and diverse range of innovations, limiting patentable
-
 subject matter to historical categories of innovation is highly problematic.
-
 Indeed, the approach seems exceptionally bad, for it invites the courts to look
-
 not to the governing text of the statute (which Congress wisely drafted in
-
 sufficiently broad terms to cover a diverse range of innovations), but to
-
 historical examples of things that were patented in the past. Yet today's
-
 innovations are not supposed to fit yesterday's molds. The very best of
-
 innovations break down our preexisting conceptions and pioneer whole new fields.
-
 The patent law should be welcoming of new and diverse forms of innovations.
 
-
-
    My other theme has been the patent system's traditionally pragmatic approach
-
 to the building of legal doctrine. The overarching tradition in the field has
-
 been to favor the innovations that produce practical benefits in the real world.
-
 That approach seems to be in deep tension with the government's hostility to
-
 patenting "methods of organizing human activity that are untethered to
-
 technology." n93 First of all, the government's argument suffers from a
-
 significant degree of incoherence, for technological processes are always about
-
 ways of arranging the productive activities of humans. Indeed, natural processes
-
 have long been held not to be patentable. n94
 
-
-
    More importantly, even if the category of "methods of organizing human
-
 activity" could be defined, the question remains why the patent system should
-
 attempt to target that category of innovations for exclusion. If a new process
-
 is practically useful, n95 if it "would not be disclosed or devised but for the
-
 inducement of a patent," n96 and if it can  [*266]  be defined with sufficient
-
 definiteness and clarity necessary to construct stable property rights, n97 then
-
 it is very difficult to understand the practical case for imposing a categorical
-
 exclusion to bar the process from patent eligibility. A more pragmatic approach
-
 would care less about whether an inventive new process fits into some
-
 preconceived notion of what patentable inventions should look like, and more
-
 about whether the prospect of patenting would produce practical benefits for
-
 society.
-
-
 
    IV. Conclusion
 
-
-
  I would like to conclude by taking a look back to another Learned Hand opinion.
-
 The case is Parke-Davis & Co. v. H. K. Mulford Co., a decision that, while still
-
 controversial today, has nonetheless stood the test of time and now provides a
-
 basic pillar for many biotechnology patents. n98
 
-
-
    The question in Parke-Davis was whether a substance naturally occurring in
-
 the human body can be patented by someone who has succeeded in extracting it
-
 from the body, isolating it, and purifying it. n99 That was a difficult,
-
 cutting-edge legal question, with some significant authority suggesting that
-
 even a purified natural substance should be  [*267]  viewed as identical to the
-
 naturally occurring substance and therefore unpatentable. n100 The substance at
-
 stake was adrenalin, n101 which, of course, naturally occurs in human bodies.
-
 The inventor, Jokichi Takamine, extracted and purified adrenalin, and his patent
-
 claimed this purified product.
 
-
-
    Judge Hand held purified adrenalin to be patentable, n102 but more important
-
 than the result is Hand's reasoning. Consistent with the then-emerging approach
-
 of the legal realists, Judge Hand admonished that "the line between different
-
 substances and degrees of the same substance" - i.e., between the patentable and
-
 the unpatentable - "is to be drawn rather from the common usages of men than
-
 from nice considerations of dialectic." n103 In evaluating the actual "usages" -
-
 the real practicalities of the case - Hand found clarity. "Whatever confusion
-
 the intricacy of the subject-matter causes," Judge Hand explained, "one fact
-
 stands out, which no one ought fairly to forget." n104 He continued:
 
 
 
-
-
-
-
    Before Takamine's discovery the best experts were trying to get a practicable
-
 form of the active principle. The uses of the gland were so great that it became
-
 a part of the usual therapy in the best form which was accessible. As soon as
-
 Takamine put out his discovery, other uses practically disappeared; by that I do
-
 not mean absolutely, but that the enormous proportion of use now is of
-
 Takamine's products. There has been no successful dispute as to that; hardly
-
 indeed any dispute at all. What use remains is, so far as the evidence shows, of
-
 the old dried glands, which every one concedes to have been dangerous, at least
-
 for intravenous use. All this ought to count greatly for the validity of the
-
 patent,  [*268]  and Takamine has a great start, so to speak, from such facts
-
 ... . This is a case where he should be entitled to a lenient construction, for
-
 he has been author of a valuable invention and has succeeded where the most
-
 expert have failed. n105
 
-
-
  Hand's opinion in Parke-Davis is a perfect example of the right approach to
-
 patent law. The opinion focuses on the practical effects and merits of the
-
 invention. Those realities - not "nice considerations of dialectic" - are what
-
 guided Hand in crafting the law. The opinion is rightly famous because it
-
 resolves a seemingly difficult issue of patent law by slicing through
-
 indeterminate, sterile legalisms, focusing on the pragmatics of the case, and
-
 refusing to constrict the diversity of human innovation sought to be encouraged
-
 by our patent system. Our current patent system could use more of that approach,
-
 for it could show us the way out of crisis and toward recovery.
-
-
 
    Thank you.
 
-
-
 Legal Topics:
 
-
-
 For related research and practice materials, see the following legal topics:
-
 Copyright LawSubject MatterSemiconductor Chips & Boat HullsGeneral
-
 OverviewPatent LawInequitable ConductGeneral OverviewPatent LawOwnershipGeneral
-
 Overview
-
-
 
 FOOTNOTES:
 
 
 
 
-
-
-
-
-
 n1.  During her time as an active sitting Federal Judge from 1980-1994, Judge
-
 Nies authored more than 100 opinions on patent related matters. She also wrote a
-
 number of law review articles related to intellectual property matters
-
 including: Secondary Meaning: An Historical Note, 64 Trademark Rep. 247 (1974);
-
 The Federal Circuit: A Court for the Future, 41 Am. U.L. Rev. 571 (1992); and
-
 Dissents at the Federal Circuit and Supreme Court Review, 45 Am. U.L. Rev. 1519
-
 (1996) [hereinafter Nies, Dissents at the Federal Circuit]. I am also a fan of
-
 Judge Nies's choice in law clerks. Her former clerk Craig Nard, now a professor
-
 at Case Western but once a professor here at Marquette (see the faculty profile
-
 for Craig A. Nard at the Case Western Reserve University School of Law,
-
 http://law.case.edu/FacultyResearch/MeetOurFaculty/ FacultyDetail.aspx?id=139
-
 (last visited Dec. 8, 2009)), is a fine scholar and an excellent co-author. See,
-
 e.g., Craig Allen Nard & John F. Duffy, Rethinking Patent Law's Uniformity
-
 Principle, 101 Nw. U. L. Rev. 1619 (2007); Thomas G. Field, Jr., Craig Allen
-
 Nard & John F. Duffy, Dickinson v. Zurko: An Amicus Brief, 4 Marq. Intell. Prop.
-
 L. Rev. 49 (2000).
 
 
 
 
 
-
-
-
-
-
-
 n2.  John F. Duffy, The Federal Circuit in the Shadow of the Solicitor General,
-
 78 Geo. Wash. L. Rev. 518, 523 (2010) [hereinafter Duffy, Federal Circuit].
 
 
 
 
 
-
-
-
-
-
-
 n3.  See American Airlines v. Lockwood, 515 U.S. 1211 (1995) (order granting
-
 certiorari); 515 U.S. 1182 (1995) (order vacating the Federal Circuit's decision
-
 and remanding the case to the district court).
 
 
 
 
 
-
-
-
-
-
-
 n4.  In re Lockwood, 50 F.3d 966, 980 (Fed. Cir. 1995) (Nies, J., dissenting
-
 from denial of en banc rehearing).
-
-
-
-
-
-
 
 
 
@@ -1686,163 +832,79 @@ n5.  Nies, Dissents at the Federal Circuit, supra note 1, at 1520.
 
 
 
-
-
-
-
-
-
 n6.  Id. at 1527.
 
 
 
 
 
-
-
-
-
-
-
 n7.  See Duffy, Federal Circuit, supra note 2, at 522; John F. Duffy, The Festo
-
 Decision and the Return of the Supreme Court to the Bar of Patents, 2002 Sup.
-
 Ct. Rev. 273, 297 (2002).
 
 
 
 
 
-
-
-
-
-
-
 n8.  See Duffy, Federal Circuit, supra note 2, at 523-24. Ironically, although
-
 Judge Nies's dissent in Lockwood was successful in attracting the Supreme
-
 Court's attention to patent issues, she was ultimately unsuccessful in having
-
 the Court review the issue on which she dissented. The issue in Lockwood
-
 concerned the allocation of power between judge and jury in deciding issues of
-
 patent validity. The patentee Lockwood sued American Airlines for patent
-
 infringement and demanded a jury trial. See Lockwood, 50 F.3d at 968. American
-
 Airlines counterclaimed for a declaratory judgment of patent invalidity. See id.
-
 The district court granted American's motion for summary judgment as to
-
 Lockwood's patent infringement claims. With the issue of patent validity the
-
 only dispute remaining, the district court denied Lockwood's demand for a jury
-
 trial, holding that "the remaining claims are equitable in nature [and] the
-
 plaintiff [Lockwood] is not entitled to a trial by jury as a matter of right."
-
 Id. at 969 (quoting the district court's ruling). After Lockwood obtained a
-
 reversal of the district court's ruling, American Airlines successfully
-
 petitioned for certiorari on the issue whether the right to a jury trial applies
-
 in such circumstances. Lockwood then withdrew his demand for a jury trial. The
-
 issue on which the Court had granted certiorari had thus become moot, and the
-
 Court merely vacated the Federal Circuit's decision and remanded the case to the
-
 district court. See 515 U.S. 1182 (1995). In the fifteen years since Lockwood,
-
 the Supreme Court has never again granted certiorari on any of the important
-
 issues surrounding the jury's role in determining patent validity, though the
-
 Court has had the opportunity to do so. See, e.g., Petition for a Writ of
-
 Certiorari in Medela AG v. Kinetic Concepts, No. 09-198 (filed Aug. 13, 2009),
-
 available at http://www.patentlyo.com/medela_20v._20kinetic_
-
 20petition_20for_20cert_20final.pdf; Medela AG v. Kinetic Concepts, 130 S. Ct.
-
 624 (2009) (order denying certiorari). Hopefully, the Supreme Court will
-
 eventually resolve the split in authority that gave rise to Judge Nies's
-
 dissent.
 
 
 
 
 
-
-
-
-
-
-
 n9.  See, e.g., Recovery Remains Fragile, Fed Chief Says, N.Y. Times, Dec. 8,
-
 2009, at B7; Neil Irwin & Renae Merle, Economy Limping Back to Strength;
-
 "Slow-Motion Recovery' Fed: Return to Normal May Take 5 or 6 Years, Wash. Post,
-
 Nov. 25, 2009, at A1; Good News From Near and Far Boosts Stocks, Wash. Post,
-
 Dec. 6, 2009, at G5.
 
 
 
 
 
-
-
-
-
-
-
 n10.  Katharine Q. Seelye, A Different Emanuel for One Church, N.Y. Times, Mar.
-
 17, 2009, available at
-
 http://thecaucus.blogs.nytimes.com/2009/03/17/a-different-emanuel-for-one-church
-
 / (attributing the quote to Machiavelli). This quote became famous in 2008 and
-
 2009 because two of President Obama's advisors employed paraphrases of it. See
-
 id. (quoting Rahm Emanuel and Hillary Clinton as employing slightly different
-
 paraphrases of the original).
 
 
 
 
 
-
-
-
-
-
-
 n11.  See Timothy Hay, Investors See Crisis Ebbing, Wall St. J., Nov. 11, 2009
-
 (relating the comments of a venture capitalist that invention has not slowed in
-
 spite of the recession).
-
-
-
-
-
-
 
 
 
@@ -1854,477 +916,236 @@ n12.  1.See Thomas S. Kuhn, The Structure of Scientific Revolutions (1962).
 
 
 
-
-
-
-
-
-
 n13.  See, e.g., Brian Kahin, Patents and Diversity in Innovation, 13 Mich.
-
 Telecomm. Tech. L. Rev. 389, 394 (2007).
 
 
 
 
 
-
-
-
-
-
-
 n14.  See, e.g., Mark D. Roe, Corporate Reorganization and Bankruptcy 18 (2000)
-
 (noting that under Chapter 11 of the Bankruptcy Code, a corporate reorganization
-
 allows "the ownership interests in the [company] will be reallocated."); Robert
-
 C. Clark, The Interdisciplinary Study of Legal Evolution, 90 Yale L.J. 1238,
-
 1250-54 (1981) (tracing the development of corporate reorganizations under
-
 bankruptcy laws).
 
 
 
 
 
-
-
-
-
-
-
 n15.  See, e.g., Lucian Arye Bebchuk, A New Approach to Corporate
-
 Reorganizations, 101 Harv. L. Rev. 775, 775-77 (1988); Douglas G. Baird, The
-
 Uneasy Case for Corporate Reorganizations, 15 J. Legal Studies 127, 138-39
-
 (1986).
 
 
 
 
 
-
-
-
-
-
-
 n16.  See, e.g., Michael A. Gerber, Business Reorganizations 597-607 (2d ed.
-
 Lexis pub. 2000) (providing a brief overview of a Chapter 11 reorganization plan
-
 procedure).
 
 
 
 
 
-
-
-
-
-
-
 n17.  See, e.g., S. 3217, 111th Cong., 2nd Sess. (2010) (April 29, 2010
-
 version), available at
-
 http://frwebgate.access.gpo.gov/cgi-in/getdoc.cgi?dbname=111_cong_bills&docid=
-
 f:s3217as.txt.pdf (financial reform legislation proposed by Senator Dodd in
-
 response to the financial crisis); Securities and Exchange Commission,
-
 Amendments to Regulation SHO, 75 Fed. Reg. 11232, 11233 (2010) (announcing
-
 amendments to "short sale" rules and justifying the rules partly on the basis of
-
 recent "market turmoil" including "the subprime mortgage crisis and credit
-
 crisis in 2007"); Securities and Exchange Commission, Concept Release on Equity
-
 Market Structure, 75 Fed. Reg. 3594, 3594 (2010) (announcing "a broad review of
-
 the current equity market structure" with the goal of "determining whether
-
 regulatory initiatives to improve the current equity market structure are
-
 needed").
 
 
 
 
 
-
-
-
-
-
-
 n18.  See, e.g., John D. Sutter, Cities Embrace Mobile Apps, "Gov 2.0,' Cnn.com,
-
 Dec. 29, 2009, available at
-
 http://www.cnn.com/2009/TECH/12/28/government.web.apps/index.html (discussing
-
 the Government 2.0 movement); Connect with Government, USA.gov, Dec. 22, 2009,
-
 available at http://www.usa.gov/Topics/Multimedia.shtml (providing a directory
-
 of websites allowing the public to access governmental blogs, twitter posting,
-
 YouTube videos, RSS feeds, etc.).
 
 
 
 
 
-
-
-
-
-
-
 n19.  See, e.g., Social Media and Web 2.0 in Government, WebContent.gov, Sept.
-
 24, 2009, available at http://www.usa.gov/webcontent/technology/other_tech.shtml
-
 (listing the social media and new web content materials available to government
-
 agencies to make their agency's websites more publicly interactive).
 
 
 
 
 
-
-
-
-
-
-
 n20.  See Gov 2.0 Summit, About Gov 2.0 Summit,
-
 http://www.gov2summit.com/gov2009/public/content/about (last accessed Dec. 9,
-
 2009).
 
 
 
 
 
-
-
-
-
-
-
 n21.  See, e.g., Danielle Keats Citron, Fulfilling Government 2.0's Promise with
-
 Robust Privacy Protections, 78 Geo. Wash. L. Rev. Arguendo A-101 (2010),
-
 available at http://groups.law.gwu.edu/LR/ArticlePDF/Arguendo_Citron.pdf
-
 (providing examples of the Obama administration's enthusiasm for "Government
-
 2.0"); Charles Homans, The Geekdom of Crowds: The Obama Administration
-
 Experiments with Data-Driven Democracy, Wash. Monthly, July 1, 2009, at 13
-
 (noting how Obama has been a "prominent champion" of Government 2.0); Daniel
-
 Lyons & Daniel Stone, President 2.0, Newsweek, Dec. 1, 2008, at 40; Micah L.
-
 Sifry & Andrew Rasiej, The Rise of Government 2.0, Politico.com, May 7, 2009,
-
 available at http://www.politico.com/news/stories/0509/22185.html; David
-
 Herbert, Poll Gives E-Government Highest Marks Ever, National Journal, Feb. 3,
-
 2009, available at http://www.nationaljournal.com/njonline/
-
 no_20090203_9690.php.
 
 
 
 
 
-
-
-
-
-
-
 n22.  See, e.g., Fewer Costs, Fewer Offices in Government "Reinvention,' USA
-
 Today, Oct. 14, 1994, at A4; National Archives and Records Administration,
-
 Remarks of Vice President Al Gore, Opening Session of International Rego
-
 Conference, Jan. 14, 1999, available at
-
 http://clinton2.nara.gov/WH/EOP/OVP/speeches/interego.html.
 
 
 
-
-
-
-
    We are here at this extraordinary international gathering, the very first of
-
 its kind, to talk about a subject that lies at the very heart of economic growth
-
 and productivity - and even basic political legitimacy - for the 21st Century:
-
 reforming and reinventing government so that it is smaller, smarter, and more
-
 responsive to change in this fast-changing Information Age.
 
-
-
  Id.
-
-
-
-
-
-
 
 
 
 
 
 n23.  See David Osborne & Ted Gaebler, Reinventing Government: How the
-
 Entrepreneurial Spirit Is Transforming The Public Sector 15 (1992) (arguing that
-
 the "bureaucratic institutions developed during the industrial era ...
-
 increasingly fail us" because "we live in an era of breathtaking change" that
-
 has produced "an information society, in which people get access to information
-
 almost as fast as their leaders do").
 
 
 
 
 
-
-
-
-
-
-
 n24.  New State Ice Co. v. Liebmann, 285 U.S. 262, 311 (1932) (Brandeis, J.,
-
 dissenting) ("It is one of the happy incidents of the federal system that a
-
 single courageous State may, if its citizens choose, serve as a laboratory; and
-
 try novel social and economic experiments without risk to the rest of the
-
 country.").
 
 
 
 
 
-
-
-
-
-
-
 n25.  See, e.g., John F. Duffy, The FCC and the Patent System: Progressive
-
 Ideals, Jacksonian Realism, and the Technology of Regulation, 71 U. Colo. L.
-
 Rev. 1071, 1081-84 (2000).
 
 
 
 
 
-
-
-
-
-
-
 n26.  Woodrow Wilson, The Study of Administration, 2 Pol. Sci. Quar. 197, 200
-
 (1887). To explain "the reason why we are having now what we never had before, a
-
 science of administration," Wilson pointed to "difficulties of governmental
-
 action," which had been "gathering in other centuries" and were "culminating in
-
 our own." Wilson argued that, in earlier times, "the functions of government
-
 were simple, because life itself was simple." Id. at 199. In his prior work,
-
 Woodrow Wilson, Congressional Government: A Study in American Politics (1885),
-
 Wilson also relied on the changes brought by the past hundred years as the basis
-
 for reconsidering constitutional structures. See id. at 53-54 (arguing for a
-
 greater centralization of governmental power than was contemplated when the
-
 Constitution was adopted because "the Constitution was adopted when it was six
-
 days' hard traveling from New York to Boston; when to cross the East River was a
-
 to venture a perilous voyage; when men were thankful for weekly mails; ... when
-
 there were no telegraph lines, and no monster corporations").
 
 
 
 
 
-
-
-
-
-
-
 n27.  See, e.g., Carol Berkin, A Brilliant Solution: Inventing the American
-
 Constitution 11-22 (2002) (recounting that in the years following the
-
 Declaration of Independence, the United States confronted major difficulties due
-
 to a weak and ineffective federal government that was unable to address rising
-
 economic discontent, to manage the repayment of war time loans, or to resolve
-
 political disputes among the individual states). See also Gordon S. Wood,
-
 Revolutionary Characters: What Made the Founders Different 145-46 (2006). Wood
-
 noted that the "Articles of Confederation ... had not created a real government"
-
 since it vested and reserved many substantive powers to the individual states.
-
 Id. Specifically, the Articles of Confederation lacked the "crucial powers of
-
 commercial regulation and taxation - indeed all final ordinary law making
-
 authority." Id. at 146. See also Joseph J. Ellis, American Creation: Triumphs
-
 and Tragedies at the Founding of the Republic 91 (2007) (relating that George
-
 Washington "had grown convinced that ... the government established under the
-
 Articles of Confederation had proved itself "a rope of sand' and was now
-
 lurching from mere incompetence to complete dissolution."); Sean Wilentz, The
-
 Rise of the American Democracy 31 (2005) (noting that "the national government,
-
 under the loosely knit Articles of Confederation, was so feeble that it had
-
 become nearly impossible to conduct a foreign policy, secure the nation's
-
 defense and complete commercial treaties, let alone settle the leftover debts
-
 from the Revolution").
 
 
 
 
 
-
-
-
-
-
-
 n28.  See Ellis, supra note 27, at 93 (noting that Madison was concerned that
-
 continued inactivity regarding reforms to the Articles of Confederation would
-
 lead to "anarchy," and the potential for "utter chaos, widespread violence,
-
 possible civil war between or among the states, and the likely intervention of
-
 several European powers eager to exploit the political disarray for their own
-
 imperial purposes" in the fledging nation).
 
 
 
 
 
-
-
-
-
-
-
 n29.  The Conformity of the Plan to Republican Principles, The Federalist No. 39
-
 (James Madison).
 
 
 
 
 
-
-
-
-
-
-
 n30.  Concerning the Difficulties of the Convention in Devising a Proper Form of
-
 Government, The Federalist No. 37 (James Madison).
 
 
 
-
-
-
-
    It is a misfortune, inseparable from human affairs, that public measures are
-
 rarely investigated with that spirit of moderation which is essential to a just
-
 estimate of their real tendency to advance or obstruct the public good; and that
-
 this spirit is more apt to be diminished than promoted, by those occasions which
-
 require an unusual exercise of it. To those who have been led by experience to
-
 attend to this consideration, it could not appear surprising, that the act of
-
 the convention, which recommends so many important changes and innovations,
-
 which may be viewed in so many lights and relations, and which touches the
-
 springs of so many passions and interests, should find or excite dispositions
-
 unfriendly, both on one side and on the other, to a fair discussion and accurate
-
 judgment of its merits.
 
-
-
  Id.
-
-
-
-
-
-
 
 
 
@@ -2336,19 +1157,7 @@ n31.  See S. 3217, supra note 17, § 1011(a).
 
 
 
-
-
-
-
-
-
 n32.  See id. § 1017(a).
-
-
-
-
-
-
 
 
 
@@ -2360,485 +1169,240 @@ n33.  See id. § 1012(c)(1).
 
 
 
-
-
-
-
-
-
 n34.  See id. § 1012(c)(2), (3) & (4).
 
 
 
 
 
-
-
-
-
-
-
 n35.  See Free Enter. Fund v. Public Co. Accounting Oversight Bd., cert.
-
 granted, 129 S. Ct. 2378 (No. 08-861) (May 18, 2009).
 
 
 
 
 
-
-
-
-
-
-
 n36.  See, e.g., Federal Trade Commission, To Promote Innovation: The Proper
-
 Balance of Competition and Patent Law and Policy, Executive Summary, 1 (October
-
 2003), available at http://www.ftc.gov/os/2003/10/innovationrpt.pdf ("Innovation
-
 benefits consumers through the development of new and improved goods, services,
-
 and processes ... . Technological breakthroughs such as automobiles, airplanes,
-
 the personal computer, the Internet, television, telephones, and modern
-
 pharmaceuticals illustrate the power of innovation to increase prosperity and
-
 improve the quality of our lives.").
 
 
 
 
 
-
-
-
-
-
-
 n37.  See U.S. Patent No. 556,248 (1896) (disclosing a "novel device for
-
 automatically effecting polite salutations by the elevation and rotation of the
-
 hat on the head of the saluting party when said person bows to the person or
-
 person saluted, the actuation of the hat being produced by mechanism therein and
-
 without the use of the hands in any manner").
 
 
 
 
 
-
-
-
-
-
-
 n38.  See U.S. Patent No. 5,901,666 (1999) (disclosing "pet display clothing"
-
 consisting of a wearable "vest or belt ... with tubular, pet receiving
-
 passageways [that are] are transparent so that a pet moving along the
-
 passageways can be seen by a spectator").
 
 
 
 
 
-
-
-
-
-
-
 n39.  Adam B. Jaffe & Josh Lerner, Innovation and Its Discontents: How Our
-
 Broken Patent System is Endangering Innovation and Progress, and What to Do
-
 About It (2004).
 
 
 
 
 
-
-
-
-
-
-
 n40.  James Bessen & Michael J. Meurer, Patent Failure: How Judges, Bureaucrats,
-
 and Lawyers Put Innovators at Risk (2008). Bessen and Meurer's book has inspired
-
 significant scholarship, with an issue of the Journal of Intellectual Property
-
 Law dedicated solely to publishing academic responses to the book's conclusions.
-
 See 16 J. Intell. Prop. L., vol. 1 (2008).
 
 
 
 
 
-
-
-
-
-
-
 n41.  See Recent Publications, 122 Harv. L. Rev. 835, 836 (2008) (summarizing
-
 "Patent Failure"); Sandra Chartrand, In a Forthcoming Book, Two Professors Make
-
 Suggestions on Reinventing the Patent System, N.Y. Times, Sept. 27, 2004, at C4
-
 (discussing "Innovation and its Discontents").
 
 
 
 
 
-
-
-
-
-
-
 n42.  Congress has proposed at least eight versions of patent reform in the past
-
 five years. See, e.g., Patent Reform Act of 2009, S. 515, 111th Cong. (Mar. 3,
-
 2009); Patent Reform Act of 2009, S. 610, 111th Cong. (Mar. 17, 2009); Patent
-
 Reform Act of 2009, H.R.1260, 111th Cong. (Mar. 3, 2009); Patent Reform Act of
-
 2008, S. 3600, 110th Cong. (Sept. 25, 2008); Patent Reform Act of 2007, S. 1145,
-
 110th Cong. (Apr. 18, 2007); Patent Reform Act of 2007, H.R. 1908, 110th Cong.
-
 (Apr. 18, 2007); Patent Reform Act of 2006, S. 3818, 109th Cong. (Aug. 3, 2006);
-
 Patent Reform Act of 2005, H.R. 2795, 109th Cong. (June 8, 2005).
 
 
 
 
 
-
-
-
-
-
-
 n43.  Patent reform was closest to reality in 2007, when the House of
-
 Representatives passed its version of the Patent Reform Act of 2007 (H.R. 1908).
-
 See Lisa Friedman, House Passes Patent Reforms; Bill Supported by Tech Industry,
-
 Daily News (Los Angeles), Sept. 8, 2007, at B1; Tom Ramstack, Firms Call Patent
-
 Reform Bill Too Weak; Say It Increases Incentive to Steal Inventions, Wash.
-
 Times, Sept. 14, 2007, at C9. Despite having S. 525 calendared for debate,
-
 ultimately the Senate was unable to pass their version of patent reform prior to
-
 the conclusion of the 110th session of Congress, leaving proponents of
-
 substantive revisions to the existing Patent Laws to start the process over
-
 again. See Michael J. Schallop, Hedging on the Scope of Patentable Subject
-
 Matter for Business Methods - The Potential Broader Implications of In re
-
 Bilski, Intell. Prop. Today, July 2008, at 36; Methods and Madness; America's
-
 Patent System, The Economist, May 10, 2008.
 
 
 
 
 
-
-
-
-
-
-
 n44.  See George Best, Stephen B. Maebius, Jeanne M. Gills, Philip G. Kiko &
-
 Jonathan W. Dudas, The Obama Administration Weighs In On Patent Reform
-
 Legislation: Will The Logjam Break?, Mondaq Bus. Briefing, Oct. 14, 2009; Gary
-
 Locke, Opinion: Congress Must Pass Patent Reform, San Jose Mercury News, Oct. 7,
-
 2009.
 
 
 
 
 
-
-
-
-
-
-
 n45.  See, e.g., Quanta Computer, Inc. v. LG Elecs., Inc., 128 S. Ct. 2109
-
 (2008); Microsoft Corp. v. AT&T Corp., 550 U.S. 437 (2007); KSR Int'l v.
-
 Teleflex, 550 U.S. 398 (2007); MedImmune, Inc. v. Genentech, Inc., 549 U.S. 118,
-
 137 (2007); eBay Inc. v. MercExchange, LLC, 547 U.S. 388 (2006); Merck KGaA v.
-
 Integra Lifesciences I, Ltd., 545 U.S. 193 (2005).
 
 
 
 
 
-
-
-
-
-
-
 n46.  KSR, 550 U.S. at 404 (listing counsel in the case for petitioner KSR); see
-
 also John F. Duffy, KSR v. Teleflex: Predictable Reform of Patent Substance and
-
 Procedure in the Judiciary, 106 Mich. L. Rev. First Impressions 34, 35-36
-
 (2007), available at
-
 http://www.michiganlawreview.org/firstimpressions/vol106/duffy.pdf (discussing
-
 the author's involvement in KSR).
 
 
 
 
 
-
-
-
-
-
-
 n47.  The Supreme Court in KSR rejected Federal Circuit precedents, which
-
 required a rigid framework, in favor of "an expansive and flexible approach" in
-
 determining whether an invention was obvious in light of the prior art. KSR, 550
-
 U.S. at 415-18. Previously, the Federal Circuit, had required that a
-
 determination of obviousness based on a combination of existing prior art
-
 references should include a "teaching motivation or suggestion" to combine such
-
 references. See, e.g., Pro-Mold v. Great Lakes Plastics, 75 F.3d 1568, 1573
-
 (Fed. Cir. 1996) ("It is well-established that before a conclusion of
-
 obviousness may be made based on a combination of references, there must have
-
 been a reason, suggestion, or motivation to lead an inventor to combine those
-
 references."); ACS Hosp. Sys., Inc. v. Montefiore Hosp., 732 F.2d 1572, 1577
-
 (Fed. Cir. 1984).
 
 
 
 
 
-
-
-
-
-
-
 n48.  See, e.g., Leapfrog Enters. v. Fisher-Price, Inc., 485 F.3d 1157 (Fed.
-
 Cir. 2007) (affirming the use of a common sense, flexible approach to find
-
 obviousness); Ball Aerosol & Specialty Container, Inc. v. Limited Brands, Inc.,
-
 555 F.3d 984 (Fed. Cir. 2009) (applying KSR's rationale in affirming the
-
 district court's finding that the patent at issue was an obvious combination of
-
 existing features). See also Joshua D. Sarnoff & Christopher M. Holman, Recent
-
 Developments Affecting the Enforcement, Procurement, and Licensing of Research
-
 Tool Patents, 23 Berkeley Tech. L.J. 1299, 1343-46 (2008) (noting that the
-
 Supreme Court's KSR opinion and the flexible approach for determining
-
 obviousness may make it easier for the USPTO to reject patentability of many
-
 inventions).
 
 
 
 
 
-
-
-
-
-
-
 n49.  See MedImmune, Inc. v. Genentech, Inc., 549 U.S. 118, 132 n.11 (2007)
-
 (rejecting Federal Circuit case law that had required parties challenging
-
 patents in Declaratory Judgment Actions to establish that they had a "reasonable
-
 apprehension of suit"). See also SanDisk Corp. v. STMicroelectronics, Inc., 480
-
 F.3d 1372, 1379 (Fed. Cir. 2007) (acknowledging that the Supreme Court's
-
 decision in MedImmune had rejected the circuit's longstanding rule requiring a
-
 "reasonable apprehension of suit" as a prerequisite to declaratory judgment
-
 jurisdiction); Jervis B. Webb Co. v. Southern Systems, Inc., 742 F.2d 1388, 1398
-
 (Fed. Cir. 1984) (early case articulating the "reasonable apprehension" of suit
-
 as a requirement for declaratory judgment jurisdiction).
 
 
 
 
 
-
-
-
-
-
-
 n50.  The Court rejected a ""general rule,' unique to patent disputes, "that a
-
 permanent injunction will issue once infringement and validity have been
-
 adjudged.'" 547 U.S. at 394 (disapproving of the analysis in MercExchange, LLC
-
 v. eBay, Inc., 401 F.3d 1323, 1338 (Fed. Cir. 2005)). Instead, "the decision
-
 whether to grant or deny injunctive relief ... must be exercised consistent with
-
 traditional principles of equity, in patent disputes no less than in other cases
-
 governed by such standards." Id. at 394.
 
 
 
 
 
-
-
-
-
-
-
 n51.  See 35 U.S.C. § 112, P 2 (2006) ("The specification shall conclude with
-
 one or more claims particularly pointing out and distinctly claiming the subject
-
 matter which the applicant regards as his invention."). See also U.S. Patent &
-
 Trademark Office, Manual of Patent Examining Procedure § 608.01(m) (8th ed. rev.
-
 7 2008) ("While there is no set statutory form for claims, the present Office
-
 practice is to insist that each claim must be the object of a sentence.");
-
 Fressola v. Manbeck, 36 U.S.P.Q.2d (BNA) 1211, 1214-15 (D.D.C. 1995) (holding
-
 that the PTO's requirement that claims must be written in one sentence format
-
 was procedural in nature and thus was a limitation that could be imposed by the
-
 PTO). See also Markman v. Westview Instruments, Inc., 517 U.S. 370, 372 (1996)
-
 (recognizing the claim as "the portion of the patent document that defines the
-
 scope of the patentee's rights").
 
 
 
 
 
-
-
-
-
-
-
 n52.  See, e.g., Corning Glass Works v. Sumitomo Elec. U.S.A., Inc., 868 F.2d
-
 1251, 1257 (Fed. Cir. 1989). The analogy to the "metes and bounds" of a property
-
 deed may be unfortunate because it suggests a degree of precision that is
-
 demonstrably not obtainable in defining the scope of most patents.
 
 
 
 
 
-
-
-
-
-
-
 n53.  Hon. Giles S. Rich, The Extent of the Protection of and Interpretation of
-
 Claims - American Perspectives, 21 Int'l Rev. Indus. Prop. & Copyright L. 497,
-
 499 (1990).
 
 
 
 
 
-
-
-
-
-
-
 n54.  See, e.g., F. Scott Kieff, The Case for Registering Patents and the Law
-
 and Economics of Present Patent-Obtaining Rules, 45 B.C. L. Rev. 55, 102 (2003);
-
 Mark A. Lemley, The Changing Meaning of Patent Claim Terms, 104 Mich. L. Rev.
-
 101, 102 (2005); Craig Allen Nard, A Theory of Claim Interpretation, 14 Harv. J.
-
 Law & Tech. 2, 3 (2000); Kristen Osenga, Linguistics and Patent Claim
-
 Construction, 38 Rutgers L.J. 61, 63 (2006).
-
-
-
-
-
-
 
 
 
@@ -2850,37 +1414,18 @@ n55.  261 U.S. 45 (1923).
 
 
 
-
-
-
-
-
-
 n56.  Id. at 63. The complete quotation reads:
 
 
 
-
-
-
-
    In administering the patent law the court first looks into the art to find
-
 what the real merit of the alleged discovery or invention is and whether it has
-
 advanced the art substantially. If it has done so, then the court is liberal in
-
 its construction of the patent to secure to the inventor the reward he deserves.
-
 If what he has done works only a slight step forward and that which he says is a
-
 discovery is on the border line between mere mechanical change and real
-
 invention, then his patent, if sustained, will be given a narrow scope and
-
 infringement will be found only in approximate copies of the new device.
-
-
 
  Id.
 
@@ -2888,57 +1433,26 @@ infringement will be found only in approximate copies of the new device.
 
 
 
-
-
-
-
-
-
 n57.  See, e.g., Turrill v. Michigan Southern & Northern Indiana Railroad, 68
-
 U.S. 491, 510 (1863) (holding that claims "are, if practicable, to be so
-
 interpreted as to uphold and not to destroy the right of the inventor"); Rhine
-
 v. Casio, Inc., 183 F.3d 1342, 1345 (Fed. Cir. 1999) (acknowledging this canon
-
 of claim interpretation).
 
 
 
 
 
-
-
-
-
-
-
 n58.  See, e.g., MBO Labs., Inc. v. Becton, Dickinson & Co., 474 F.3d 1323, 1332
-
 (Fed. Cir. 2007) ("Validity construction should be used as a last resort, not a
-
 first principle: "we have limited the maxim [that claims are to be construed to
-
 preserve validity] to cases in which the court concludes, after applying all the
-
 available tools of claim construction, that the claim is still ambiguous.'");
-
 Phillips v. AWH Corp., 415 F.3d 1303, 1327 (Fed. Cir. 2005) ("While we have
-
 acknowledged the maxim that claims should be construed to preserve their
-
 validity, we have not applied that principle broadly, and we have certainly not
-
 endorsed a regime in which validity analysis is a regular component of claim
-
 construction.").
-
-
-
-
-
-
 
 
 
@@ -2948,365 +1462,181 @@ n59.  See Winans v. Denmead, 56 U.S. 330, 343 (1854).
 
 
 
-
-
-
-
    Patentees sometimes add to their claims an express declaration, to the effect
-
 that the claim extends to the thing patented, however its form or proportions
-
 may be varied. But this is unnecessary. The law so interprets the claim without
-
 the addition of these words. The exclusive right to the thing patented is not
-
 secured, if the public are at liberty to make substantial copies of it, varying
-
 its form or proportions.
 
-
-
  Id.; Graver Tank & Mfg. Co. v. Linde Air Prods. Co., 339 U.S. 605, 608-09
-
 (1950) (noting the history and development of the doctrine of equivalents);
-
 Warner-Jenkinson Co. v. Hilton Davis Chem. Co., 520 U.S. 17, 28 (1997) ("The
-
 lengthy history of the doctrine of equivalents strongly supports adherence to
-
 our refusal in Graver Tank to find that the Patent Act conflicts with that
-
 doctrine.").
 
 
 
 
 
-
-
-
-
-
-
 n60.  See, e.g,, Pennwalt Corp. v. Durand-Wayland, Inc., 833 F.2d 931, 946 (Fed.
-
 Cir. 1987) (remarking that the "equitable doctrine of equivalents ... "has been
-
 consistently applied by [the Supreme Court] and the lower federal courts ...
-
 when the proper circumstances for its application arise.' (citation omitted) ...
-
 . In these more than 130 years of jurisprudence there have indeed arisen
-
 instances of judicial interpretation of claims beyond their literal boundaries,
-
 in the interest of justice. The view that such judicial flexibility should not
-
 exist is contrary to these decades of decisions, and appears to be contrary to
-
 that good judgment which underlies our precedents.").
 
 
 
 
 
-
-
-
-
-
-
 n61.  234 F.3d 558, 563-64 (Fed. Cir. 2000) (en banc) (setting forth the court's
-
 holding), rev'd, 535 U.S. 722 (2002).
 
 
 
 
 
-
-
-
-
-
-
 n62.  Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., 535 U.S. 722, 738
-
 (2002).
 
 
 
 
 
-
-
-
-
-
-
 n63.  O2 Micro Int'l Ltd. v. Beyond Innovation Tech. Co., 521 F.3d 1351, 1364-66
-
 (Fed. Cir. 2008) (interpreting the doctrine of prosecution history estoppel
-
 broadly to foreclose application of the doctrine of equivalents); Honeywell
-
 Int'l v. Hamilton Sundstrand Corp., 370 F.3d 1131 (Fed. Cir. 2004) (en banc)
-
 (same); Johnson & Johnston Assocs. v. R.E. Serv. Co., 285 F.3d 1046, 1055 (Fed.
-
 Cir. 2002) (en banc) (holding that the doctrine of equivalents cannot be applied
-
 to cover equivalents that were "disclosed but unclaimed" in the patent).
 
 
 
 
 
-
-
-
-
-
-
 n64.  See John R. Allison & Mark A. Lemley, The (Unnoticed) Demise of the
-
 Doctrine of Equivalents, 59 Stan. L. Rev. 955, 958 (2007) (empirically
-
 documenting the death of the doctrine of equivalents); Charles W. Adams, The
-
 Doctrine of Equivalents: Becoming a Derelict on the Waters of Patent Law, 84
-
 Neb. L. Rev. 1113 (2006); John R. Thomas, Claim Re-Construction: The Doctrine of
-
 Equivalents in the Post-Markman Era, 9 Lewis & Clark L. Rev. 153, 154 (2005)
-
 (recognizing "the increasing disdain with which the Federal Circuit has viewed
-
 arguments of equivalent infringement").
 
 
 
 
 
-
-
-
-
-
-
 n65.  See Mark R. Hull, Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.: A
-
 Fog Between the Bars, 37 Akron L. Rev. 339, 371-72 (2004) ("As a result [of the
-
 limitations on the doctrine of equivalents], the cost to the patentee will
-
 increase as patent lawyers must consider drafting narrow claims, drafting longer
-
 claims to cover all foreseeable equivalents, and spending more time researching
-
 the technology and fine tuning language.").
 
 
 
 
 
-
-
-
-
-
-
 n66.  See, e.g., Festo Corp., 234 F.3d at 624 (Rader, J., dissenting) (noting
-
 that the en banc court's new limitation on the doctrine of equivalents "will
-
 substantially increase the cost of obtaining patent protection, and may in fact
-
 become prohibitively high for individual inventors and start-up companies ...
-
 [since it would] require applicants to file in an original application numerous
-
 "narrow' claims."). See also, Glen P. Belvis, An Analysis of the En Banc
-
 Decision in Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co. and the Doctrine
-
 of Equivalents, 11 Fed. Cir. B.J. 59, 101 (2001) (noting that, as the doctrine
-
 of equivalents is narrowed, patent attorneys would respond by drafting patents
-
 containing "claims of as many different types, styles, and scopes as is
-
 practical.").
 
 
 
 
 
-
-
-
-
-
-
 n67.  Hilton Davis Chem. Co. v. Warner-Jenkinson Co., 62 F.3d 1512, 1538 (Fed.
-
 Cir. 1995) (Plager, J., dissenting) (arguing that the doctrine of equivalents
-
 would have the effect of disrupting the public disclosure requirement and the
-
 underlying policy doctrines associated with this requirement would all "thrown
-
 into disarray by this unpredictable aspect of current patent litigation"). See
-
 also Martin J. Adelman, The New World of Patents Created by the Court of Appeals
-
 for the Federal Circuit, 20 U. Mich. J.L. Reform 979, 996 (1987) (noting that
-
 the doctrine of equivalents "has the potential to overwhelm the peripheral
-
 claiming system ... [would result in] no way to determine with reliability prior
-
 to suit whether or not one is infringing another's patent."); M. Scott Boone,
-
 Defining and Refining the Doctrine of Equivalents: Notice and Prior Art,
-
 Language and Fraud, 43 IDEA 645, 658 (2003) ("The doctrine of equivalents has
-
 been criticized on several related grounds: the unpredictability caused by the
-
 lack of a precise linguistic framework for the doctrine; the harm that the
-
 doctrine causes the notice function of the claims; the unpredictable results
-
 reached by juries that decide the issue of equivalents.").
 
 
 
 
 
-
-
-
-
-
-
 n68.  See Michael Abramowicz & John F. Duffy, Intellectual Property for Market
-
 Experimentation, 83 N.Y.U. L. Rev. 337, 401-02 (2008) (noting that "the paper
-
 patent doctrine has fallen out of favor").
 
 
 
 
 
-
-
-
-
-
-
 n69.  For instance, since the creation of the Federal Circuit in 1982, the term
-
 "paper patent" appears in only two published decisions. See UMC Elec. Co. v.
-
 U.S., 816 F.2d 647, 664-65 (Fed. Cir. 1987); In re Johnson, 747 F.2d 1456, 1461
-
 (Fed. Cir. 1984). In the past thirty years, only seven district court cases
-
 mentioning the paper patent doctrine have been published in the Federal
-
 Supplement Reporter. See Wooster Brush Co. v. Newell Operating Co., 46 F. Supp.
-
 2d 713, 721-22 (N.D. Ohio 1999); Monovis, Inc. v. Aquino, 905 F. Supp. 1205,
-
 1226 (W.D.N.Y. 1994); State Indus., Inc. v. Mor-Flo Indus., Inc., 639 F. Supp.
-
 937, 951 (E.D. Tenn. 1986); Carella v. Starlight Archery, 595 F. Supp. 613, 617
-
 (E.D. Mich. 1984); Johns-Manville Corp. v. Guardian Indus. Corp., 586 F. Supp.
-
 1034, 1068 (E.D. Mich. 1983); Studiengesellschaft Kohle mbH v. Dart Indus.,
-
 Inc., 549 F. Supp. 716, 757 (D. Del. 1982); Wycoff v. Motorola, Inc., 502 F.
-
 Supp. 77, 92 (N.D. Ill. 1980).
 
 
 
 
 
-
-
-
-
-
-
 n70.  4 Anthony Deller, Deller's Walker on Patents, § 229, at 78 (2d ed. 1965)
-
 (recognizing that "non-use of a patented invention may result in ... the patent
-
 [being] declared a mere "paper" patent and entitled to a narrow
-
 interpretation"); Abramowicz & Duffy, supra note 68, at 401-03 ("Under the
-
 "paper patent' doctrine, U.S. courts have in the past distinguished between
-
 patents that remain merely pieces of paper issued by a government agency and
-
 those that are made into commercial products.").
 
 
 
 
 
-
-
-
-
-
-
 n71.  Thompson v. Dernell Potato Prods. Co. v. Snelling, 38 F.2d 788, 789 (2d
-
 Cir. 1930) ("The appellant's patent has not been put to commercial use, and
-
 therefore it is not entitled to a construction of any broader scope than it is
-
 clearly required to be given."); Dillon Co. v. Cont'l Supply Co., 98 F.2d 581,
-
 587 (10th Cir. 1938).
 
 
 
-
-
-
-
    Neither Dillon nor his assignee nor anyone by their consent during those nine
-
 years had used, made or sold a patented device constructed in accordance with
-
 his specification, claims and patent drawings ... . That has been said to render
-
 the patent a mere paper patent, entitled to a narrow interpretation when
-
 thereafter sued on for infringement.
 
-
-
  Id.; Richard Irvin & Co. v. Westinghouse Air Brake Co., 121 F.2d 429, 430 (2d
-
 Cir. 1941) ("The patent has never gone into use; manual pressure retaining
-
 valves are still part of the equipment of the A.B. Brake; and we should not be
-
 warranted in giving the claims any but the most meager range of equivalents.").
-
-
-
-
-
-
 
 
 
@@ -3316,313 +1646,155 @@ n72.  Kings County Raisin v. U.S. Consol., 182 F. 59, 62-63 (9th Cir. 1910).
 
 
 
-
-
-
-
    The Crosby invention undoubtedly anticipates ... [and] describes the whole
-
 theory of the Pettit patent; but it does not appear ever to have been put to
-
 use, and there is no evidence that any machine was ever constructed under it ...
-
 . It would seem that it was one of those unsuccessful and abandoned inventions
-
 which are held to have no place in the art to which they relate.
 
-
-
  Id.; Wahl Clipper Corp. v. Andis Clipper Co., 66 F.2d 162, 165 (7th Cir. 1933)
-
 ("It is more important to study those developments of the art which are bright
-
 with use in the channels of trade than to delve into abandoned scrap heaps and
-
 dust-covered books which tell of hopes unrealized and flashes of genius quite
-
 forgotten."). See also The Paper Patent Rule in the Patent Office, 29 J. Pat.
-
 Off. Socy. 599 (1947).
 
 
 
 
 
-
-
-
-
-
-
 n73.  See, e.g., David W. Opderbeck, Patent Damages Reform and the Shape of
-
 Patent Law, 89 B.U. L. Rev. 127, 130 (2009) (defining the concept of "a
-
 non-practicing entity, or "patent troll,' [to be a firm] that has no business
-
 model except to collect and license patents"). The term "patent troll" has even
-
 migrated into the mainstream press. See, e.g., Joe Nocera, Tired of Trolls, A
-
 Feisty Chief Fights Back, N.Y. Times, Sept. 16, 2008, at C1 (noting that the
-
 patent troll's typical business model involves "acquiring patents, often from
-
 bankrupt companies - and often overly broad patents that should never have been
-
 issued by the United States Patent and Trademark Office in the first place ...
-
 [and instead] of using them to build a commercial product, they extract
-
 licensing fees from companies that are making and selling real products.").
 
 
 
 
 
-
-
-
-
-
-
 n74.  See, e.g., Westinghouse v. Boyden Power Brake Co., 170 U.S. 537, 561
-
 (1898).
 
 
 
-
-
-
-
    To what liberality of construction these claims are entitled depends to a
-
 certain extent upon the character of the invention, and whether it is what is
-
 termed in ordinary parlance a "pioneer." This word, although used somewhat
-
 loosely, is commonly understood to denote a patent covering a function never
-
 before performed, a wholly novel device, or one of such novelty and importance
-
 as to mark a distinct step in the progress of the art, as distinguished from a
-
 mere improvement or perfection of what had gone before.
 
-
-
  Id.; Doble Eng'g Co. v. Leeds & Northrup Co., 134 F.2d 78, 84 (1st Cir. 1943)
-
 ("A patent covering what is called a pioneer invention, that is, one covering a
-
 wholly novel device, or one of such novelty and importance as to mark a long
-
 step forward in the progress of the art to which it appertains, is to be
-
 construed liberally."); Swanson v. Unarco Indus., Inc., 479 F.2d 664, 669 (10th
-
 Cir. 1973) ("[A] pioneer or primary patent ... must be given a broad and liberal
-
 construction which should not be limited to the precise device and
-
 instrumentality shown.").
 
 
 
 
 
-
-
-
-
-
-
 n75.  See, e.g., Sessions v. Romadka, 145 U.S. 29, 45 (1892) ("In view of the
-
 fact that ... [the patentee] was a pioneer in the art of making a practical
-
 metallic trunk fastener, and invented a principle which has gone into almost
-
 universal use in this country, we think he is entitled to a liberal construction
-
 of his claim."); Cimiotti Unhairing Co. v. Am. Fur Refining Co., 198 U.S. 399,
-
 406 (1905).
 
 
 
-
-
-
-
    It is well settled that a greater degree of liberality and a wider range of
-
 equivalents are permitted where the patent is of a pioneer character than when
-
 the invention is simply an improvement, may be the last and successful step, in
-
 the art theretofore partially developed by other inventors in the same field.
 
-
-
  Id.; Continental Paper Bag Co. v. Eastern Paper Bag Co., 210 U.S. 405, 415
-
 (1908) (noting that while pioneer patents were to be given wider latitude under
-
 the doctrine of equivalents, the extent to which the inventor contributed to the
-
 relevant art was also a significant factor in determining the scope of
-
 invention); Black, Sivalls & Bryson, Inc. v. Nat'l Tank Co., 445 F.2d 922, 925
-
 (10th Cir. 1971) (holding that "infringement is not a mere matter of words ...
-
 [but rather] the test is whether the accused device and the device covered by
-
 the patent do the same work in substantially the same way to accomplish
-
 substantially the same result ... . A primary or pioneer patent ... is to be
-
 given a broad and liberal construction and, also, a broad and liberal range of
-
 equivalence and it is not to be limited to the precise device and
-
 instrumentality disclosed.").
 
 
 
 
 
-
-
-
-
-
-
 n76.  The Federal Circuit's view seems to be that courts do not need to consider
-
 the distinction because pioneers can draft broader claims, while incremental
-
 improvers will have to keep their claims narrow to avoid prior art. See
-
 Augustine Med., Inc. v. Gaymar Indus., 181 F.3d 1291, 1301 (Fed. Cir. 1999).
 
 
 
-
-
-
-
    Pioneers enjoy the benefits of their contribution to the art in the form of
-
 broader claims. Without extensive prior art to confine and cabin their claims,
-
 pioneers acquire broader claims than non-pioneers who must craft narrow claims
-
 to evade the strictures of a crowded art field. Thus, claim scope itself
-
 generally supplies broader exclusive entitlements to the pioneer.
 
-
-
  Id. Once again, this approach tends to emphasize the literal scope of the
-
 claims, and to deemphasize the traditional inquiry into the merits of the
-
 invention.
 
 
 
 
 
-
-
-
-
-
-
 n77.  Wright Co. v. Paulhan, 177 F. 261 (C.C.S.D.N.Y. 1910) [hereinafter Wright
-
 Co.].
 
 
 
 
 
-
-
-
-
-
-
 n78.  Id. at 261. See also Kathryn Griffith, Judge Learned Hand and the Role of
-
 the Federal Judiciary 5-13 (1973) (noting Learned Hand's judicial record and
-
 accolades); Hon. Henry F. Friendly, Learned Hand: An Expression from the Second
-
 Circuit, 29 Brooklyn L. Rev. 6 (1962) ("No oracular gifts are required for the
-
 prophecy that when the history of American law in the first half of this century
-
 comes to be written, four Judges will tower above the rest - Holmes, Brandeis,
-
 Cardozo and Learned Hand."); James Oakes, Special Book Section: Personal
-
 Reflections on Learned Hand and the Second Circuit, 47 Stan. L. Rev. 387 (1995).
-
 For evaluations of Learned Hand's prowess as a patent judge, see Marvin Schick,
-
 Learned Hand's Court 166 (1970) (noting that Judge Hand "perhaps had no peer" in
-
 the field of patent law); Gerald Gunther, Learned Hand: The Man and the Judge
-
 138, 306-07 (1994) (noting how Judge Hand's opinions on patent matters "before
-
 long achieved [him] a reputation as one of the nation's great patent judges");
-
 Stephen H. Philbin, Judge Learned Hand and the Law of Patents and Copyrights, 60
-
 Harv. L. Rev. 394 (1947) ("To say that Judge Learned Hand is a great patent,
-
 copyright or common-law judge is simple tautology - his abilities do not vary
-
 with the kind of case before him.").
 
 
 
 
 
-
-
-
-
-
-
 n79.  Wright Co., 177 F. at 262 (quoting claim 7 from the Wrights' patent, U.S.
-
 Patent No. 821,393 (1906)).
 
 
 
 
 
-
-
-
-
-
-
 n80.  See id. at 263-64 (describing the automatic rudder correction disclosed in
-
 the patent).
-
-
-
-
-
-
 
 
 
@@ -3634,71 +1806,33 @@ n81.  See id.
 
 
 
-
-
-
-
-
-
 n82.  Id. at 262 ("The defendant says that he does not infringe the patent
-
 because he does not use a device which automatically always presents to the wind
-
 that side of the rudder nearer the angle of lesser incidence.").
 
 
 
 
 
-
-
-
-
-
-
 n83.  Id. at 262 (setting forth claim 7 of the Wrights' patent, which included
-
 as an element a "means whereby said rudder is caused to present to the wind that
-
 side thereof nearest the side of the aeroplane having the smaller angle of
-
 incidence and offering the least resistance to the atmosphere").
 
 
 
 
 
-
-
-
-
-
-
 n84.  Robert Patrick Merges & John Fitzgerald Duffy, Patent Law and Policy:
-
 Cases and Materials 821, 824-25 (4th ed. LexisNexis 2007).
 
 
 
 
 
-
-
-
-
-
-
 n85.  Wright Co., 177 F. at 264 (concluding that it was "a fair equivalent to
-
 operate the tiller ropes independently by a mechanism under the direct control
-
 of the aviator").
-
-
-
-
-
-
 
 
 
@@ -3710,61 +1844,30 @@ n86.  Id. at 264, 267 (describing the Wright patent as a "pioneer" patent).
 
 
 
-
-
-
-
-
-
 n87.  Id. at 264 (noting that "were the invention an advance over a prior art
-
 which had progressed already to the combination without any automatic movement
-
 of the rudder, then the claim must have been limited to the precise
-
 specifications").
 
 
 
 
 
-
-
-
-
-
-
 n88.  See Bilski v. Doll, 545 F.3d 943, 951 (2008) (en banc), cert. granted, 129
-
 S. Ct. 2735 (2009). The case was argued as Bilski v. Kappos, No. 08-964, on Nov.
-
 9, 2009. See Journal of the Supreme Court of the United States, Oct. Term 2009,
-
 at 296 (2009), available at
-
 http://www.supremecourt.gov/orders/journal/jnl09.pdf.
 
 
 
-
-
-
-
    [This] appeal turns on whether Applicants' invention as claimed meets the
-
 requirements set forth in § 101 ... . The statute thus recites four categories
-
 of patent-eligible subject matter: processes, machines, manufactures, and
-
 compositions of matter. It is undisputed that Applicants' claims are not
-
 directed to a machine, manufacture, or composition of matter. Thus, the issue
-
 before us involves what the term "process" in § 101 means, and how to determine
-
 whether a given claim ... is a "new and useful process."
-
-
 
  Id.
 
@@ -3772,37 +1875,16 @@ whether a given claim ... is a "new and useful process."
 
 
 
-
-
-
-
-
-
 n89.  The Federal Circuit's en banc opinion in Bilski stated that a "claimed
-
 process is surely patent-eligible under § 101 if: (1) it is tied to a particular
-
 machine or apparatus, or (2) it transforms a particular article into a different
-
 state or thing." Bilski, 545 F.3d at 954 (citing Gottschalk v. Benson, 409 U.S.
-
 63, 70 (1972) and Diamond v. Diehr, 450 U.S. 175, 192 (1981)). The en banc court
-
 held that processes and methods failing to meet either of those two alternatives
-
 are generally unpatentable. At the Supreme Court, the Petitioners in Bilski are
-
 challenging the en banc court's test, which is generally referred to as the
-
 "machine-or-transformation test." For the questions presented to the Supreme
-
 Court in the case, see http://origin.www.supremecourtus.gov/qp/08-00964qp.pdf.
-
-
-
-
-
-
 
 
 
@@ -3812,21 +1894,11 @@ n90.  35 U.S.C. §§101, 100(b). See also Bilski, 545 F.3d at 951-52.
 
 
 
-
-
-
-
    As several amici have argued, the term "process" is ordinarily broad in
-
 meaning, at least in general lay usage. In 1952, at the time Congress amended §
-
 101 to include "process," the ordinary meaning of the term was: "[a] procedure
-
 ... [a] series of actions, motions, or operations definitely conducing to an
-
 end, whether voluntary or involuntary."
-
-
 
  Id.
 
@@ -3834,43 +1906,19 @@ end, whether voluntary or involuntary."
 
 
 
-
-
-
-
-
-
 n91.  Brief for the Respondent, Bilski v. Kappos, 2009 U.S. S. Ct. Briefs LEXIS
-
 953, at 50 (2008) (No. 08-964). The government's brief also articulates the
-
 class of inventions it views as unpatentable to be "methods of organizing human
-
 activity that are untethered to technology." Id. at 19. It is unclear whether
-
 these different formulations are meant to be separate or identical restrictions
-
 on patentable subject matter.
 
 
 
 
 
-
-
-
-
-
-
 n92.  Id. at 36-42 (arguing that few "patents directed to the organization of
-
 human activities" issued in past centuries).
-
-
-
-
-
-
 
 
 
@@ -3882,21 +1930,8 @@ n93.  Id. at 9.
 
 
 
-
-
-
-
-
-
 n94.  See Diamond v. Chakrabarty, 447 U.S. 303, 309 (1980) (noting that Newton
-
 and Einstein could not have patented natural laws such as gravity and E=mc2).
-
-
-
-
-
-
 
 
 
@@ -3908,147 +1943,71 @@ n95.  See 35 U.S.C. § 101 (requiring that patented inventions be "useful").
 
 
 
-
-
-
-
-
-
 n96.  Graham v. John Deere Co., 383 U.S. 1, 11 (1966) (interpreting the
-
 nonobviousness requirement in 35 U.S.C. § 103).
 
 
 
 
 
-
-
-
-
-
-
 n97.  35 U.S.C. § 112 (requiring the disclosure of an invention "in such full,
-
 clear, concise, and exact terms as to enable any person skilled in the art to
-
 which it pertains, or with which it is most nearly connected, to make and use
-
 the same" and also requiring that patent applicants "particularly pointing out
-
 and distinctly claiming the subject matter which [they] regard[] as [their]
-
 inventions").
 
 
 
 
 
-
-
-
-
-
-
 n98.  Parke-Davis & Co. v. H. K. Mulford Co., 189 F. 95 (C.C.D.N.Y. 1911),
-
 aff'd, 196 F. 496 (2d Cir. 1912). For sources recognizing the modern importance
-
 of Parke-Davis, see, e.g., Thomas F. Cotter, A Burkean Perspective on Patent
-
 Eligibility, 22 Berkeley Tech L.J. 855, 860 n.14 (2007) (acknowledging that due
-
 to the holding in Parke-Davis, "products of nature that have been isolated and
-
 refined from their naturally-occurring state ... have been viewed as
-
 patentable"); Rebecca S. Eisenberg, Genetics and the Law: Patenting the Human
-
 Genome, 39 Emory L.J. 721, 727 & n.27 (1990) (recognizing Parke-Davis as
-
 providing part of the foundation for the patentability of purified and isolated
-
 DNA sequences); Robert P. Merges & Richard R. Nelson, On the Complex Economics
-
 of Patent Scope, 90 Colum. L. Rev. 839, 903 (1990) (noting that the Parke-Davis
-
 decision affects modern biotechnology, particularly on the patentability of
-
 synthetic versions of naturally occurring substances); John M. Golden,
-
 Biotechnology, Technology Policy, and Patentability: Natural Products and
-
 Invention in the American System, 50 Emory L.J. 101, 105 n.18 (2001) (also
-
 citing Parke-Davis as providing the foundation for patents on purified versions
-
 of naturally occurring organic molecules). The controversial nature of
-
 Parke-Davis is well illustrated by the recent district court decision by Judge
-
 Sweet, Ass'n for Molecular Pathology v. United States PTO, 2010 U.S. Dist. LEXIS
-
 35418 (April 2, 2010), which rejected Learned Hand's reasoning in Parke-Davis
-
 and held unpatentable isolated DNA sequences. See id. at 126-27.
 
 
 
 
 
-
-
-
-
-
-
 n99.  Parke-Davis, 189 F. at 103 (considering and rejecting the argument that a
-
 patent may not issue on a substance distinguished by its degree of purity).
 
 
 
 
 
-
-
-
-
-
-
 n100.  See, e.g., Am. Wood Paper Co. v. Fibre Disintegrating Co., 90 U.S. 566,
-
 593-94 (1874).
 
 
 
-
-
-
-
    There are many things well known and valuable in medicine or in the arts
-
 which may be extracted from divers substances. But the extract is the same, no
-
 matter from what it has been taken. A process to obtain it from a subject from
-
 which it has never been taken may be the creature of invention, but the thing
-
 itself when obtained cannot be called a new manufacture.
 
-
-
  Id.; Ex parte Latimer, 1889 Dec. Com. Pat. 123 (rejecting a claim for the
-
 natural qualities of a pine needle on the basis that the applicant was seeking
-
 to patent the discovery of these properties).
-
-
-
-
-
-
 
 
 
@@ -4060,23 +2019,9 @@ n101.  Parke-Davis & Co., 189 F. at 97.
 
 
 
-
-
-
-
-
-
 n102.  Id. at 103 (holding that "even if [the claimed invention] were merely an
-
 extracted product without change, there is no rule that such products are not
-
 patentable").
-
-
-
-
-
-
 
 
 
@@ -4088,27 +2033,12 @@ n103.  Id.
 
 
 
-
-
-
-
-
-
 n104.  Id. at 114.
 
 
 
 
 
-
-
-
-
-
-
 n105.  Id. at 114-15.
-
-
-
 
 

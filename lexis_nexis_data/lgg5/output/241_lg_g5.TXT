@@ -1,278 +1,109 @@
-                              241 of 820 DOCUMENTS
-
-
-
-
-
-
-
-                                  The Guardian
-
-
-
-                     February 22, 2016 Monday 11:54 AM GMT
-
-
-
-MWC 2016: six of the hottest new smartphones and gadgets;
-
-From Samsung's even more curvy Galaxy S7 and S7 Edge to Cat's thermal camera
-
-phone, the best new tech from day one at Barcelona's Mobile World Congress
-
-
-
-BYLINE: Samuel Gibbs
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 804 words
-
-
-
 
 
 The first day of the biggest trade show in smartphones has been and gone with a
-
 myriad of shiny new gadgets launched from Samsung, Sony, HP, LG, HTC and even
-
 Cat. Here's what's hot from Barcelona's Mobile World Congress.
-
-
 
 1. Samsung Galaxy S7 and S7 Edge
 
-
-
 Following up on the redesign of its primarily plastic smartphones into popular
-
 premium metal and glass slabs, Samsung's back with the even more curvy 5.1in
-
 Galaxy S7 and bigger 5.5in Galaxy S7 Edge.
 
-
-
 They both bring back fan favourites of waterproofing and expandable storage with
-
 a microSD card slot. But possibly the most significant thing is that they have
-
 larger batteries, hopefully ending the eternal hunt for a power supply.
 
-
-
 Samsung also launched a 360-degree camera and will start bundling its Gear VR
-
 headsets with the S7.
-
-
 
 2. LG G5
 
-
-
 Not to be outdone by its Korean rival, LG launched arguably one of the bravest
-
 flagship Android smartphones to date. Its new G5 has a metal body, 5.3in quad HD
-
 screen, fingerprint scanner on the back and runs Android 6.0 Marshmallow.
 
-
-
 But unlike everything else the bottom of the phone is removable, exposing an
-
 expansion port and the battery. LG hopes consumers will buy into a modular
-
 design that allows them to add more battery, accessories and add-ons by slapping
-
 them into the bottom of the phone.
 
-
-
 LG also had a slender and light virtual-reality headset, a robotic ball with
-
 cameras, IR blasters and a laser pointer built in and a 360-degree camera.
-
-
 
 3. HP Elite X3
 
-
-
 Computer manufacturer HP is having another stab at the smartphone game after
-
 failing with the Palm Pre and a few others.
 
-
-
 The Elite X3 is being pitched as the do-it-all Windows 10 device. A dual-sim 6in
-
 phablet that slots into a dock to turn it into a Windows 10 PC of sorts,
-
 allowing users to connect to an external display, keyboard and mouse.
-
 Microsoft's Lumia smartphones will do something similar, but HP also showed off
-
 a "Mobile Extender" that connects to the X3 to turn it into a laptop.
 
-
-
 The device has its own battery, a full keyboard, a 12.5in display and various
-
 ports.
 
-
-
 It's all powered by Windows 10's Continuum feature, which provides a PC-like
-
 experience from a smartphone when connected to a keyboard, mouse and screen.
 
-
-
 The idea isn't new - Motorola tried something very similar with its Atrix
-
 smartphones that slotted into a laptop accessory - and while it will be Windows
-
 10 on the laptop or desktop, users will be limited to Windows Store apps.
-
 Desktop apps require x86 chips such as those made by Intel, not mobile chips
-
 such as the Qualcomm Snapdragon 820 within the X3, no matter how powerful they
-
 are.
-
-
 
 4. Cat S60 thermal camera phone
 
-
-
 Industrial machinery and clothing brand, Cat, has been making rugged Android
-
 smartphones for a couple of years, but its latest has a new trick up its sleeve.
 
-
-
 The S60 features a built-in Flir thermal camera for checking temperatures,
-
 spotting hotspots and even finding people trapped in wreckages, according to the
-
 company.
 
-
-
 It's also waterproof to 5m depth, designed to survive falls of up to 1.8m and
-
 certified to US military specifications for shock, heat, dust, salt and other
-
 conditions that ruin regular smartphones.
-
-
 
 5. HTC Vive
 
-
-
 HTC and Valve's long-awaited virtual reality headset, the Vive, finally has a
-
 price and release date. The Vive will cost $799 (£564), with pre-orders starting
-
 on 29 February, shipping in early April.
 
-
-
 In competition with Facebook's Oculus Rift VR headset, which costs $599, HTC is
-
 pitching the Vive as the "complete VR solution" bundling it with two wireless VR
-
 controllers, head-tracking sensors and two VR titles. The Vive also has a camera
-
 built-in for enabling augmented reality experiences as well as VR, plus is has a
-
 phone built into it for making calls, sending messages and checking calendar
-
 invites.
 
-
-
 It remains to be seen whether consumers, who will also have to either have or
-
 shell out for a very powerful computer to run either the Vive or the Oculus
-
 Rift, will be swayed by a gaming and computer accessory costing as much as a
-
 smartphone.
-
-
 
 6. Sony Xperia Ear
 
-
-
 Sony's trying to make Bluetooth headsets cool again (if they ever were). The
-
 Xperia Ear is a small earbud that does more than just make calls. It aims to put
-
 a digital assistant into your ear, allowing users to get the latest news,
-
 weather, social media updates and schedule information.
 
-
-
 It responds to voice commands and can perform web searches or give directions,
-
 but does not use Android's built-in Google Now voice assistant, instead relying
-
 on Sony's own systems.
 
-
-
 Other manufacturers have tried and failed to make tiny Bluetooth headsets more
-
 than just hands-free calling accessories, including Motorola with its Hint. But
-
 none have managed to overcome the stigma of wearing such a device in public or
-
 convince consumers they want such a thing.
 
 
-
-
-
      ·    The mobile makers are coming for the PC market and it's all
-
           Microsoft's fault
-
-
-
-
-
-LOAD-DATE: February 22, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: WEBGNS
-
-
-
-
-
-  Copyright 2016 The Guardian, a division of Transcontinental Media Group Inc.
-
-                              All Rights Reserved
-
-
-
 
 

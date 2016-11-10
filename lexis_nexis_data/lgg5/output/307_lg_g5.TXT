@@ -1,112 +1,33 @@
-                              307 of 820 DOCUMENTS
-
-
-
-
-
-                            The Times of India (TOI)
-
-
-
-                            August 18, 2016 Thursday
-
-
-
-Android Nougat to come with improved data saving options
-
-
-
-SECTION: TECH NEWS
-
-
-
-LENGTH: 345 words
-
-
-
 
 
 NEW DELHI: Majority of smartphone users have limited mobile data plans, which is
-
 probably the reason why the 'Data Saver' included in Android is quite popular.
-
 And if the latest leaks are to be believed, it's going to get a lot better with
-
 the latest Android release - Nougat . Android's Data Saver option enables users
-
 to set up warning and halt limits, making it easy to manage mobile data
-
 allowances. It also lets users provide unrestricted data access to certain apps.
 
-
-
 If that's not intelligent enough, Android Nougat will make Data Saver even
-
 smarter. According to a report by Android Central website, Data Saver option in
-
 Android 7.0 Nougat will enable unrestricted network access to apps, for users
-
 with unlimited data plans. That said, it will also restrain the internet access
-
 to the apps in a limited data plan. These changes were indicated in the
-
 ConnectivityManager API in Android Nougat's SDK. The new data saving features
-
 will also work even if users are travelling abroad and buy prepaid local sim
-
 cards. The amount of data used by background processes will also be managed by
-
 the improved Data Saver option. Slowly, smartphone manufacturers have started
-
 rolling out beta programmes for Android N. Recently, LG started the rollout of
-
 the Android N preview programme for users of its G5 smartphone users. The
-
 programme is currently available only in Korea on the LG U+ network, and will
-
 enable users to experience Android 7.0 Nougat early.The preview programme will
-
 be only available to 2000 testers, who have applied for it on a first-come,
-
 first-served basis, starting August 16. Users can download the LG OS preview app
-
 from Google Play Store and follow mentioned steps to download the preview
-
 release of Android Nougat through the companion desktop application.
-
 Participants of the preview programme will be able to offer feedback and report
-
 bugs, so that the same can be removed from the final release when it's seeded to
-
 all customers. LG will also announce the stable Nougat rollout for G5 users once
-
 it is ready.
 
-
-
 For Reprint Rights: timescontent.com
-
-
-
-LOAD-DATE: August 17, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2016 Bennett Coleman & Co. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

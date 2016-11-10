@@ -1,340 +1,140 @@
-                              461 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                              The Washington Post
-
-
-
-                            October 4, 2016 Tuesday
-
-                                Regional Edition
-
-
-
-Smartphone from Google signals shift to hardware
-
-
-
-BYLINE: Elizabeth Dwoskin;Craig Timberg
-
-
-
-SECTION: A-SECTION; Pg. A01
-
-
-
-LENGTH: 1315 words
-
-
 
 DATELINE: SAN FRANCISCO
 
 
-
-
-
 SAN FRANCISCO - Software giant Google is beginning an aggressive foray into
-
 hardware production with the launch Tuesday of a smartphone and other devices
-
 that will bring the company into direct competition with other leading tech
-
 firms, including its longtime partner Samsung.
 
-
-
 The launch signals a major shift for one of the world's most profitable
-
 companies as it seeks to adapt to a technology landscape increasingly dominated
-
 by mobile and other connected hardware. Google must find a way, analysts say, to
-
 keep acquiring user data for targeting ads as Web search - traditionally done
-
 from laptop or desktop computers - is supplanted by newer technologies.
 
-
-
 Google's new smartphone, the Pixel, will employ artificial-intelligence
-
 technology that users can converse with, allowing them to sidestep keyboards as
-
 they access online information and make purchases such as movie tickets, say
-
 people familiar with the company's plans who spoke on the condition of anonymity
-
 to reveal information ahead of its official release. The company also plans to
-
 release other new hardware, including a voice-based assistant for the home to
-
 rival Amazon's Echo and a virtual-reality headset to rival Facebook's Oculus.
 
-
-
 These moves push Google beyond its traditional comfort zone - industry-leading
-
 online portals for Web search, and popular apps for email and maps - and into
-
 the harshly competitive world of hardware design, production, sales and customer
-
 service in which the company has only dabbled. The company has relied on
-
 partners such as Samsung and Huawei to sell devices loaded with free Google
-
 software, including the Android mobile operating system.
 
-
-
 "Android is ubiquitous now, but as people shift into these new patterns for
-
 interacting with the Web, Google has less and less reach," said Benedict Evans,
-
 partner at the Silicon Valley venture capital firm Andreessen Horowitz. "They
-
 have you for Web search, but not for the other things that you increasingly do.
-
 This is both an existential and a strategic problem for Google."
 
-
-
 The launch of the Pixel - which was to be heralded this week by prime-time
-
 television ads during "Monday Night Football" and "The Voice," as well as
-
 billboards and installations in London, Sydney, Berlin and New York - will test
-
 Google's mettle in a new kind of business. The shift toward hardware also puts
-
 the company on a collision course with Apple, Amazon and Facebook, and with
-
 partners such as Samsung that have used Google's free Android software to build
-
 their own global smartphone empires. Samsung's Galaxy phones are the most
-
 popular high-end smartphones in the United States after Apple's iPhone.
 
-
-
 Samsung and Google have engaged in a tug of war in recent years, each trying to
-
 shake free of its dependence on the other, said people familiar with the
-
 situation. Google in recent years has tested the hardware market, with a spotty
-
 record, including limited efforts to sell its own line of smartphones, its
-
 purchase (and later sale) of Motorola and release of other troubled products
-
 such as Google Glass. Samsung, meanwhile, has gone so far as building its own
-
 mobile operating system and app marketplace, Tizen, as a hedge against the
-
 company's dependence on Android.
-
-
 
 Samsung declined to comment.
 
-
-
 "Google's challenge is that Android's success has also been its greatest
-
 weakness," said Jeffrey Hammond, principal analyst at Forrester.
 
-
-
 The Android operating system is used by Samsung, Huawei, HTC and dozens of other
-
 manufacturers. But Google's licensing deals with manufacturers - offering the
-
 smartphone operating system and the popular Google Play Store app marketplace to
-
 manufacturers only if they agree to bundle it with other Google apps - has
-
 generated antitrust scrutiny in Europe.
 
-
-
 It also has left Google with little control over the devices, opening them to
-
 security flaws while hampering the company's ability to leverage the popularity
-
 of Android as a path to other Google-provided services, such as the growing
-
 market for artificial intelligence.
 
-
-
 Many tech companies have tried and failed to produce smartphones. Smartphones
-
 released by both Facebook and Amazon over the past two years have flopped.
-
 Microsoft - another software giant that moved into the hardware business - sold
-
 Nokia two years after buying it. In 2011, Google bought smartphone maker
-
 Motorola for $12.5 billion and sold it for less than a quarter of that amount
-
 three years later, reportedly because the ownership of Motorola caused problems
-
 with its other manufacturer partners.
 
-
-
 The Pixel will be manufactured by HTC and cost about $650, according to people
-
 familiar with the company's plans, though different payment options will be
-
 available. The Pixel is also expected to be branded exclusively as a Google
-
 phone. This stands in contrast to the packaging for Nexus phones, the largely
-
 obscure line of Android phones that Google has produced with manufacturer
-
 partners since 2010, which had the names of both manufacturers and Google on its
-
 packaging.
 
-
-
 Google plans to build out an extensive customer service and marketing operation
-
 to accompany the Pixel devices, said individuals familiar with the company's
-
 plans.
 
-
-
 Google thinks that if it waits longer to make a major push into hardware, it
-
 risks losing control of the Android device market. Moreover, the search giant
-
 sees an opportunity as consumers become more comfortable buying smartphones
-
 directly from manufacturers and carriers and dropping two-year contracts that
-
 lock customers in, said the people familiar with the company's thinking.
 
-
-
 Samsung's recent recall of its flagship Galaxy phone, because of battery
-
 explosions, is a vulnerability Google could exploit, said Charles Golvin,
-
 research director at Gartner.
 
-
-
 Today, Google's core search advertising business is still a cash cow, but Wall
-
 Street thinks that search advertising is a maturing industry. The queries that
-
 people type into Google on a smartphone today could, in the near future, be
-
 asked aloud to a device in the home or in a car, Evans said.
 
-
-
 "If you have a device in your home, they would like you to be asking Google -
-
 and not Amazon's Alexa - what the weather is or telling Google to play you this
-
 music," Evans said. "Google sees there is a new endpoint emerging beyond
-
 smartphones."
 
-
-
 The new smartphones will come equipped with Google's latest
-
 artificial-intelligence software, a souped-up voice-based helper called Google
-
 Assistant, that can do things such as buy movie tickets when asked. The phone
-
 will come with software that works smoothly with Daydream, the company's
-
 virtual-reality platform and headset, and with the home appliance, Google Home.
-
 Like Apple and Microsoft, which have built clusters of devices that sync in the
-
 hopes of keeping consumers wedded to their products, Google expects that
-
 consumers will be motivated to buy more of the products if any one of them takes
-
 off.
 
-
-
 Google has made organizational changes across the company as part of its dive
-
 into hardware. In April, Google rehired Rick Osterloh, who was president of
-
 Motorola when the handset maker was owned by Google, to run a new hardware
-
 division. Osterloh, who managed the relationship with Google's Android team
-
 during his tenure at Motorola, has consolidated the company's various hardware
-
 initiatives, including Chromecast, Nexus, Google Glass, the Nest thermostat, and
-
 now Pixel, into a single unit. He is building out a customer service operation
-
 and has appointed a design chief to oversee all the company's hardware. A
-
 separate unit manages the relationships with manufacturer partners.
 
-
-
 "He's one of the elite few who understands that the new wave of innovation will
-
 go beyond smartphones and combine software and hardware," said Jason Rosenthal,
-
 chief executive of virtual-reality start-up Lytro, where Osterloh sits on the
-
 board of directors. "There are just few very executives who have worked on
-
 both."
-
-
 
 elizabeth.dwoskin@washpost.com
 
-
-
 craig.timberg@washpost.com
-
-
-
-LOAD-DATE: October 4, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-DISTRIBUTION: Every Zone
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-     Copyright 2016 Washingtonpost.Newsweek Interactive Company, LLC d/b/a
-
-                            Washington Post Digital
-
-                              All Rights Reserved
-
-
-
-
 

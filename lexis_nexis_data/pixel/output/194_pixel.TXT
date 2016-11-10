@@ -1,320 +1,135 @@
-                              194 of 997 DOCUMENTS
-
-
-
-
-
-                The Berkshire Eagle (Pittsfield, Massachusetts)
-
-
-
-                             April 6, 2013 Saturday
-
-
-
-Google laptop is impressive, but not for all
-
-
-
-BYLINE: By Anick Jesdanun,
-
-
-
-SECTION: BUSINESS
-
-
-
-LENGTH: 1151 words
-
-
-
 
 
 Sunday April 7, 2013
 
-
-
 Associated Press
 
-
-
 Google's first high-end laptop, the Chromebook Pixel, is an impressive machine.
-
 It feels light and comfortable in my hands and on my lap. Its high-resolution
-
 display makes photos look sharp and video come to life. From a hardware
-
 standpoint, it's everything I'd want a laptop to be.
 
-
-
 But the Pixel isn't very practical -- at least not yet -- for most people. It
-
 works well when you have a steady Internet connection, but can't do much once
-
 you lose that connection. And because it uses Google's own operating system, it
-
 doesn't run enough software yet to replace your other machines.
 
-
-
 I brought the Pixel along for a nearly three-week trip to Thailand and Cambodia,
-
 where I knew I wouldn't have the type of round-the-clock access I'm used to in
-
 the U.S. I was surprised by how much I could do, but quickly got frustrated when
-
 I couldn't do more.
 
-
-
 Such frustration doesn't come cheap. Prices for the Pixel start at $1,299, just
-
 $200 less than a MacBook with a comparable screen and the ability to do much
-
 more offline. A higher-end Pixel with cellular access costs $150 more than the
-
 basic model and is scheduled to start shipping Monday.
 
-
-
 For those unfamiliar with Google's entry into the laptop market -- I guess
-
 that's many of you -- the Pixel and other Chromebooks run a Google operating
-
 system called Chrome OS. Based on the Chrome Web browser available for Windows
-
 and Mac computers, Chrome OS underscores Google's vision of letting the Internet
-
 do all the heavy lifting instead of your computer.
 
-
-
 As a result, you can power up and start working on the Chromebook right away.
-
 Boot time is minimal because there's not a lot of software to load. Those
-
 functions are pulled from the Internet as needed. That also means updates come
-
 regularly and don't need any installation on your part.
 
-
-
 There's not a lot of storage on the machine either. The idea is to keep as much
-
 as you can online, through a storage service such as Google Drive or Dropbox.
 
-
-
 Think of the Chromebook as a gateway to the Internet. You can download apps from
-
 Google and others to run on the Chromebook, but many of those apps do little
-
 more than access a website on your Chrome browser when you're online.
 
-
-
 Previous Chromebooks haven't been too powerful. They have tended to be low-cost
-
 machines ideal for casual users who mostly need computers for Internet tasks
-
 such as email and Facebook.
 
-
-
 Google is changing the dynamics with the Pixel. It's targeting power users who
-
 are willing to pay more money for the best features.
 
-
-
 For $1,299, you get a well-built machine sporting a touch-sensitive display that
-
 measures nearly 13 inches diagonally. The screen's resolution is among the best
-
 out there. At 239 pixels per inch, it tops the 227 pixels per inch on the
-
 13-inch MacBook Pro, though your eyes might not be able to discern that small
-
 difference.
 
-
-
 The basic Pixel model comes with 32 gigabytes of storage and has a slot for
-
 external storage, such as a camera's SD card. Each machine also comes with a
-
 three-year subscription for 1 terabyte of online storage through Google Drive.
-
 It's normally $50 a month.
 
-
-
 Google also offers a $1,449 model that has double the internal storage, at 64
-
 GB, and 100 megabytes a month of LTE cellular data access through Verizon
-
 Wireless for two years. That's suitable for occasional use, but if you'll be
-
 away from Wi-Fi a lot, you'll need a data plan. Prices start at $10 a day.
 
-
-
 The LTE model isn't set to ship until Monday, but Google lent me one to try out.
-
 I was impressed with the LTE offering, as the cellular access would help cover
-
 some of the gaps I'd have outside my home and office. But it's of no use abroad.
 
-
-
 Nor is LTE of use on airplanes. Both models offer 12 free sessions with Gogo's
-
 Wi-Fi service on airplanes, but those are good only for flights that offer that
-
 capability. Those tend to be domestic flights in the U.S.
-
-
 
 So I found myself trying to use Chromebook without a steady Internet connection.
 
-
-
 Before I left, I configured the Chromebook browser to enable offline access to
-
 Google Docs, the company's set of online tools such as word processing and
-
 spreadsheets. With offline access, you're able to access and edit documents.
-
 Changes get synced with the online versions the next time you connect to the
-
 Internet.
 
-
-
 I was able to do a fair amount of writing offline, but every now and then, my
-
 document would disappear, replaced by Google's "Aw, Snap" error message sporting
-
 a sad face icon. That would be cute if hours of work weren't at stake.
 
-
-
 Although I was usually able to recover the file and never lost more than a
-
 paragraph of writing, I got nervous with every crash. Google Docs lets you save
-
 copies on your computer as text files or in Microsoft's Word format. But that
-
 function works only when you are online, even for changes you are making
-
 offline.
 
-
-
 Even without the crashes, I wasn't getting tools such as spell-checking while
-
 offline. That's not an issue when using Word or Apple's Pages on other machines.
 
-
-
 Beyond text documents, the Chromebook is able to view photos, PDFs and other
-
 files, just like any other computer. It can also read files in Microsoft's Word
-
 and Excel formats, though you must convert them to Google Docs to make changes.
 
-
-
 And obviously, it can browse the Web. I successfully paid credit card bills,
-
 bought magazines and watched Hulu video on the Pixel. I was able to read an
-
 e-book on Amazon's Web-based Kindle app, too.
 
-
-
 But there are limits, particular when sites require plug-ins that aren't
-
 available for the Chromebook.
 
-
-
 And while I was able to write this story on a Chromebook, our publishing system
-
 isn't compatible with it.
 
-
-
 Chromebooks are ideal for those who have steady Internet access and do most of
-
 their computing on Web browsers. But those people may be fine with one of the
-
 other, much cheaper Chromebooks. One is the $249 Samsung Chromebook, which I
-
 have tried and like for simple tasks when Internet access isn't an issue.
 
-
-
 If you need a machine as powerful as the Pixel, you might also need an operating
-
 system that can do more, especially when offline.
 
-
-
 Google executive Caesar Sengupta admits that Chromebook owners might still have
-
 to turn to a Windows or Mac computer now and then. In many ways, it reminds me
-
 of the early days of the Mac, when most software was written only for Windows.
 
-
-
 That makes the Pixel expensive for a machine
-
 that can't serve as your sole computer.
 
-
-
 At $1,299, I'd rather spend another $200 for a MacBook with a high-resolution
-
 display and four times the storage, at 128 gigabytes. You don't get a touch
-
 screen with the MacBook, but frankly, I didn't use the Pixel's touch controls
-
 even once during my Asia trip.
 
-
-
 On the other hand, Sengupta told me that selling Pixels isn't Google's main goal
-
 with the machine. Rather, the company made it to showcase Google's vision for
-
 the future of computing. In that case, Google has succeeded in producing a
-
 machine that is a pleasure to use -- as long as you're online.
-
-
-
-LOAD-DATE: April 7, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-   Copyright 2013 MediaNews Group, Inc. and New England Newspaper Group Inc.
-
-                              All Rights Reserved
-
-
-
-
 

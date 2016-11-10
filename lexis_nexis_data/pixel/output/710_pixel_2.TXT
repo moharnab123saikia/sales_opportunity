@@ -1,98 +1,26 @@
-                              710 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           August 27, 2014 Wednesday
-
-
-
-US Patent granted to Google Inc (California) on August 26 titled as "N-patch
-
-image resizing"
-
-
-
-LENGTH: 191  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,817,050, on
-
 August 26, 2014, to Google Inc (California), titled as "N-patch image resizing"
 
-
-
 Inventors: Friedman; Mark S. (Mountain View, CA), Cleron; Michael A. (Menlo
-
 Park, CA), Hackborn; Dianne K. (Santa Clara, CA)
-
 Assignee: Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "The
-
 subject matter of this specification can be embodied in, among other things, a
-
 method that includes receiving an image having indication pixels that define a
-
 plurality of regions within the image that are used for resizing the image and
-
 determining, based on the indication pixels, two or more of the regions that are
-
 stretchable regions that change size when the image is resized. The method also
-
 includes resizing the image by changing a size of at least one of the determined
-
 stretchable regions."
-
-
 
 The patent was filed on. October 26, 2007 Application no. 11/925,259
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com3
-
-
-
-LOAD-DATE: August 27, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

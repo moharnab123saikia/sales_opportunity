@@ -1,152 +1,52 @@
-                              988 of 997 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                                October 23, 2009
-
-
-
-Verizon Droid phone briefly unveiled on Motorola Web site;
-
-Droid smartphone specs and photos leaked, then taken down
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 377 words
-
-
-
 
 
 The world got an apparently unplanned preview of the Verizon Android-based Droid
-
 smartphone when Motorola briefly postedonline the official Web pages describing
-
 and showing the new device in depth.
-
-
 
 The impression is that of an Android iPhone with a slider keyboard.
 
-
-
 The pages were quickly yanked from the Web, but not before bloggers and new
-
 sites quickly captured them. Slashgear even recorded their navigation through
-
 the phone's 3-D simulation and posted it online.  Smartphone smackdown: Motorola
-
 Droid vs. iPhone 3GS The leaked information confirms the rumors swirling around
-
 the Droid (the name itself is licensed form George Lucas' Lucasfilms) since
-
 Verizon's controversial TV ads debuted this week, quietly but pointedly mocking
-
 a device dubbed the "iDon't" and promising that the Droid will do everything the
-
 iDon't doesn't.
 
-
-
 Here's what the leak revealed: * Almost identical in size to the iPhone: 2.4 x
-
 4.6 x 0.5 inches; but quite a bit heavier at 6 oz. compared to 4.8 oz. for
-
 iPhone.
 
-
-
 * A big 3.7-inch diagonal capacitive touchscreen with haptic feedback, 854x480
-
 pixel resolution; that compares to the iPhone's 3.5-inch multi-touchscreen with
-
 480x320 pixels.
 
-
-
 * Google Android 2.0, running on an unnamed 550MHz processor (though the
-
 smartphone site The Boy Genius Report, which claims to have handled a Droid
-
 prototype, says it's a TI OMAP3430); a batch of e-mail and PIM applications that
-
 sync with Google's online services; and a range of improvements and refinements
-
 over the original.
 
-
-
 * Android's Webkit-based browser, speedier in Android 2.0, with support for HTML
-
 5, which will allow the browser to store and run a range of code and user
-
 information; it will support Adobe Flash 10.1 when that code is released next
-
 year.
 
-
-
 * Wireless connectivity via EV-DO Rev A 3G, Wi-Fi 802.11b/g, and Bluetooth,
-
 along with GPS (there's also a micro USB port).
-
-
 
 * 5-megapixel autofocus camera, with 4x digital zoom, and dual-LED flash.
 
-
-
 * 1.400mAh battery, which Motorola says will deliver up to 6.5 hours of talk
-
 time and 270 hours of standby. The iPhone 3GS promises up to five hours on 3G
-
 and 300 hours standby.
 
-
-
 * 6GB microSD card bundled, with an option for 32GB card when this capacity
-
 comes to market in 2010.
 
-
-
 * "Advanced speech recognition" features promised by Verizon
-
-
-
-
-
-
-
-LOAD-DATE: October 26, 2009
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2009 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

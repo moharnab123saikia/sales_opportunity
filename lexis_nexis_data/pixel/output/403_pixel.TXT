@@ -1,118 +1,36 @@
-                              403 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                              May 20, 2014 Tuesday
-
-
-
-US Patent granted to Google Inc. (California) on May 20 titled as "Anti-aliasing
-
-of straight lines within a map image"
-
-
-
-LENGTH: 313  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,730,258, on
-
 May 20, 2014, to Google Inc. (California), titled as "Anti-aliasing of straight
-
 lines within a map image"
 
-
-
 Inventors: Cornell; Brian (Kenmore, WA)
-
 Assignee: Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "A
-
 graphics or image rendering system, such as a map image rendering system,
-
 receives image data from an image database in the form of vector data that
-
 defines various image objects, such as roads, boundaries, etc., which are to be
-
 rendered as straight lines within an image. The imaging rendering system renders
-
 the image objects by applying an anti-aliasing technique that determines varying
-
 pixel color values at or near the edges of each straight line to be rendered on
-
 the image, so as to obtain a pleasing visual effect when rendering a road or
-
 other boundary in any orientation on the image screen. The anti-aliasing
-
 technique determines a scaling vector having values dependent on the location of
-
 a particular pixel in the image along the normal to the straight line forming a
-
 road and determines a pixel color value at each pixel location associated with
-
 the road based on this scaling vector, such that the pixel color value at each
-
 pixel in or near the line is proportional to a component of the scaling vector.
-
 This technique produces a more gradual transition in pixel color values from a
-
 non-road location to a road location in the image, and thus provides a
-
 non-aliased rendering of the road regardless of the orientation or direction in
-
 which the road is being rendered in the image."
-
-
 
 The patent was filed on. June 30, 2011 Application no. 13/174,320
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: May 22, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,163 +1,58 @@
-                              957 of 997 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                            August 2, 2011, Tuesday
-
-
-
-Webdoc, In Between a Social Network and a Social Tool
-
-
-
-BYLINE: Mark Gibbs
-
-
-
-LENGTH: 482 words
-
-
-
 
 
 For once, I'm not sure how to pigeonhole the product I'm focused on today:
-
 Webdoc, a curious hybrid of an online digitalscrapbook and a social media
-
 service.
 
-
-
 To create content on Webdoc you sign up for a free account using a regular
-
 registration process or via Facebook or Twitter authorization and then complete
-
 your profile details. You can invite friends via Facebook, Twitter or email and
-
 search for friends already on the service ... all of the usual social network
-
 building stuff that we've seen in scores of other sites.
 
-
-
 The meat and potatoes of Webdoc are the multimedia documents you create and
-
 distribute via social media and email.
 
-
-
 The default document size is 500 pixels wide by 340 pixels long. While you can
-
 increase the length of the document, the width is, for some reason, fixed.
 
-
-
 There are controls for changing the document's background, adding text and
-
 lines, embedding links, including images from local capture devices (though OS X
-
 support via Flash doesn't seem to work) as well as from uploads, Google, Fickr,
-
 Facebook, and your own library on Webdoc; embedding video from a number of
-
 services including YouTube,Vimeo, and Hulu; adding audio from Soundcloud, and
-
 using Webdoc's "Apps" which are simple active widgets such as countdown clocks,
-
 Google Maps displays, ratings widgets, and so on.
 
-
-
 What's really impressive is that the service's Web interface uses only HTML,
-
 Javascript, cascading style sheets, and SVG ...
-
-
 
 not a sniff of Flash or Java at all.
 
-
-
 You drop any of these elements onto a document then customize them (define
-
 links, change colors, and so on) and organize their layout (both X-Y location
-
 and Z-order). The result can be quite elegant though the limited window width is
-
 an issue.
 
-
-
 When you're done you can save your creation (you can make the document private
-
 or public) then push it to Facebook and Twitter or email it.
 
-
-
 When someone comes to see your Webdoc presentation they will see it "in" your
-
 account ... with your picture, other documents, stats on your followers ...
-
 pretty much the kind of display you find on other social services. The focus
-
 isn't the document itself but rather it's social context as related to you.
 
-
-
 Although you can embed Webdoc documents in Web sites, as of writing the company
-
 doesn't provide any option to remove their own branding on the document frame
-
 (perhaps this will come in a future premium subscription option) and the fixed
-
 width sizing limits design options.
 
-
-
 So, bottom line: Webdoc is, in some ways, a social network in its own right but
-
 if creating Webdoc documents isn't your motivation there's no reason to be
-
 there. As an adjunct to other social media services it has huge potential but it
-
 is fairly complex and time consuming enough to not be too useful to the average
-
 user. In summary, technically, Webdocs is really impressive but where and how it
-
 will fit into the broader context of social media is hard to say.
-
-
-
-
-
-
-
-
-
-LOAD-DATE: August 8, 2011
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2011 Network World, Inc.
-
-                              All Rights Reserved
-
 
 
 

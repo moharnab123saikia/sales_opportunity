@@ -1,156 +1,57 @@
-                              343 of 820 DOCUMENTS
-
-
-
-
-
-                       The Financial Express (Bangladesh)
-
-
-
-                             August 8, 2016 Monday
-
-
-
-Android virus to affect 900 million phones
-
-
-
-LENGTH: 301 words
-
-
 
 DATELINE: Bangladesh
 
 
-
-
-
 Bangladesh, Aug. 8 -- BlackBerry Priv
-
-
 
 Blackphone 1 and Blackphone 2
 
-
-
 Google Nexus 5X, Nexus 6 and Nexus 6P
-
-
 
 HTC One, HTC M9 and HTC 10
 
-
-
 LG G4, LG G5, and LG V10
-
-
 
 New Moto X by Motorola
 
-
-
 OnePlus One, OnePlus 2 and OnePlus 3
-
-
 
 US versions of the Samsung Galaxy S7 and Samsung S7 Edge
 
-
-
 Sony Xperia Z Ultra
 
-
-
 Shaulov said six months of work to reverse engineer Qualcomm's code revealed the
-
 problems.
 
-
-
 The flaws were found in software that handles graphics and in code that controls
-
 communication between different processes running inside a phone.
 
-
-
 Exploiting the bugs would allow an attacker to gradually be able to take more
-
 control over a device and gain access to its data.
 
-
-
 Checkpoint handed information about the bugs and proof of concept code to
-
 Qualcomm earlier this year.
 
-
-
 In response, Qualcomm is believed to have created patches for the bugs and
-
 started to use the fixed versions in its factories.
 
-
-
 It also distributed the patches to phone makers and operators. However, it is
-
 not clear how many of those companies have issued updates to customers' phones.
 
-
-
 Checkpoint has created a free app called QuadRooter Scanner that can be used to
-
 check if a phone is vulnerable to any of the bugs, by looking to see if the
-
 patches for them have been downloaded and installed.
 
-
-
 In addition, Shaulov said Android owners should only download apps from the
-
 official Google Play store to avoid falling victim to malicious programs.
 
-
-
 "People should call whoever sold them their phone, their operator or the
-
 manufacturer, and beg them for the patches," said Shaulov.
 
-
-
 Qualcomm has yet to respond to a request for comment, according to news
-
 agencies.
 
-
-
 Published by HT Syndication with permission from The Financial Express. For any
-
 query with respect to this article or any other content requirement, please
-
 contact Editor at htsyndication@hindustantimes.com
-
-
-
-LOAD-DATE: August 8, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                      Copyright 2016 The Financial Express
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,530 +1,244 @@
-                              815 of 997 DOCUMENTS
-
-
-
-
-
-                            Afternoon Voice (India)
-
-
-
-                          September 22, 2012 Saturday
-
-
-
-iPhone 5 Vs Galaxy S III: Which is better?
-
-
-
-LENGTH: 2064 words
-
-
 
 DATELINE: India
 
 
-
-
-
 India, Sept. 22 -- Apple has finally announced the much-awaited iPhone 5
-
 smartphone with new design and hardware inside than the older iPhones. While
-
 price of this smartphone still remains a mystery, many plan to purchase and
-
 aspire to own the new iPhone 5. But if you have waited so long to own the iPhone
-
 5, just rest and check another giant in the smartphone industry -- the Android
-
 based Samsung Galaxy S III.
 
-
-
 Samsung Galaxy S III and Apple iPhone 5 are the two top of the line smartphones
-
 offering different experiences over different mobile operating systems. While
-
 many basic details about the Apple iPhone 5 are still to be clarified, we think
-
 it just fine to compare on existing features to get an overview of about these
-
 two smartphones as competitors.
 
-
-
 Do note that since Apple iPhone 5 is yet to be made available in India or even
-
 in the USA, we would be skipping the portions that involve benchmarks and other
-
 missing details of the iPhone 5.
-
-
 
 1. Display
 
-
-
 Samsung proudly showed the new Galaxy S III on May 3 in London this year. The
-
 Galaxy S III GT-I9300 features a HD Super Amoled display built using the Corning
-
 Gorilla Glass 2 which is lighter, thinner and promises to provide more strength.
 
-
-
 Measuring 4.8-inch diagonally, the display by default offers 1280x720 pixel
-
 resolution support and has 302 pixels per inch density. Basically this display
-
 panel is capable of producing the colours as well as white rapidly and do not
-
 require additional backlight for that.
 
-
-
 Supporting the HD resolution, this display supports multi-touch, bounces minimal
-
 possible reflection and consumes least possible amount of energy. Currently,
-
 this is the top of the line display technology meant for smartphones used by
-
 Samsung amongst the Google Android based devices.
 
-
-
 Apple has made fundamental changes to the display and resolution of the iPhone 5
-
 when compared to its predecessor models. The new iPhone 5 comes with a 4-inch
-
 Retina display which is based on the LCD IPS panel technology and offers
-
 1136x640 pixel resolution natively. In terms of pixel density, the iPhone 5
-
 offers about 326 pixels per inch.
 
-
-
 Besides having higher pixel density, the new retina display used in the iPhone 5
-
 will appear more vibrant than the iPhone 4S -- all thanks to the higher pixel
-
 density. Also this is the new in-cell technology that integrates the
-
 touch-detecting sensors inside the retina display panel to make the display as
-
 thin as possible.
 
-
-
 For those who prefer slightly bigger display for reading text and watching
-
 movies comfortably, then the Samsung Galaxy S III might be the right one. When
-
 it comes to colour reproduction and saturation, the Samsung Galaxy S III has an
-
 edge over the iPhone 4S. But with the new larger and higher resolution
-
 supporting display, the Apple iPhone 5 might come on top of the Galaxy S III.
-
-
 
 Design
 
-
-
 Apple iPhone 5 comes with anodised aluminium back panel with glass panels to
-
 pack the phone together. With thinner 7.6 mm form factor, the iPhone 5 weighs
-
 mere 112 grams.
-
-
 
 On the other hand, the Galaxy S III is 8.6 mm thick and weighs about 133 grams.
 
-
-
 In terms of physical design and demographics, Apple iPhone 5 will appeal to
-
 those who always aspired to own one. Apple has just managed to grip the cake
-
 tighter with the new materials used and making the iPhone lighter and thinner
-
 than ever.
 
-
-
 On the other hand, the Galaxy S III offers one of the best designs amidst the
-
 plethora of Google Android based devices.
-
-
 
 Hardware
 
-
-
 Under the 7.6 mm body, the iPhone 5 packs a new Apple A6 mobile processor that
-
 is claimed to be twice as fast as the Apple A5 mobile processor.
 
-
-
 Even for the graphics, Apple has used the same words -- twice as fast as the
-
 Apple A5 mobile processor. The Apple A6 mobile processor bearing iPhone 5, in a
-
 way, becomes the first smartphone to arrive with ARM Cortex A15 MPCore processor
-
 inside.
 
-
-
 Inside the Apple A6 is a dual-core ARM Cortex A15 processor clocked at 1.2 GHz
-
 speed to run smoothly. By default, Apple has packed 1 GB RAM inside the iPhone 5
-
 and this will certainly make several power users as well as developers happy.
-
 Reason being, developers will be able to pack more graphics and larger file size
-
 bearing apps due to beefed up resolution.
 
-
-
 Also the dual-core A6 processor along with the 1 GB RAM will work harmoniously
-
 to load the apps faster than on previous generation devices.
 
-
-
 For best quality graphics, the Apple A6 mobile processor packs PowerVR SGX
-
 6200MP2, a dual-core graphics chip. Well, here is the time to rejoice for the
-
 avid mobile gamers and multimedia fanatics. The new dual-core GPU chip is
-
 actually a powerhouse and support the latest graphics API to deliver crisper
-
 quality graphics without much energy consumption. Basically, this new graphics
-
 chip is technically capable of delivering twice the performance of the graphics
-
 chip used in the Apple iPad 3.
 
-
-
 Samsung Galaxy S III houses the company manufactured quad-core 1.4 GHz Exynos 4
-
 Quad 4412 mobile processor. This processor packs four ARM Cortex-A9 mobile cores
-
 and is coupled with 1 GB RAM.
 
-
-
 A special edition Galaxy S III with 2 GB RAM for Korea has been announced. This
-
 Samsung smartphone comes with ARM's Mali-400MP4 graphics chip which offers four
-
 graphics cores. Clearly, the power of four CPU cores and four graphic cores
-
 works in the favour of the Galaxy S III.
 
-
-
 However, we shall not shy away from the prowess showed by the dual-core Qualcomm
-
 Snapdragon S4 mobile processors that could match up and even out-perform
-
 quad-core Nvidia Tegra 3 mobile processors on certain grounds.
 
-
-
 The Apple iPhone 5 and Galaxy S III feature almost common set of features when
-
 it comes to GPS technologies. Both smartphones offer built-in GPS, Assisted GPS
-
 and also support for the GLONASS satellites network mesh maintained by the
-
 Russian government. Both smartphone feature Bluetooth 4.0 but only Samsung
-
 Galaxy S III has the Near Field Communication chip. That clearly sends the
-
 message that Apple is still not ready to step in to the NFC world with its
-
 products.
 
-
-
 Samsung Galaxy S III uses the industry standard micro USB port while Apple has
-
 introduced new Lightning connector to charge the 9-pin port of the iPhone 5.
-
 Apple announced support for Wideband Audio most often known as HD Voice for
-
 better audio quality during voice calls.
-
-
 
 Camera
 
-
-
 Apple has used a new generation 8 megapixel iSight camera that promises great
-
 quality images and also full 1080p HD video recording. The iSight camera is
-
 presumed to comprise of the new generation Backside Illumination technology
-
 based OmniPixel3-HS image sensor. The new 8 megapixel iSight camera is about 25
-
 per cent smaller than the one OmniBSI-2 image sensor used in the iPhone 4S.
 
-
-
 The iSight camera of iPhone 5 can click pictures 40 percent faster and
-
 constructed using f/2.4 lens is made from five elements and now includes
-
 Sapphire crystal which makes it thinner and even more durable than glass. The
-
 capabilities of the Apple A6 mobile processor's graphic chip are tapped to
-
 reduce noise and the image sensor promises greater performance even in low-light
-
 environments.
 
-
-
 Apple has added new panoramic switch mode that will let the users shoot
-
 beautiful panoramic scenes to up to 28 megapixels.
 
-
-
 The full 1080p HD video recording has been improved with better image
-
 stabilisation and face detection of up to 10 faces. Most importantly, Apple has
-
 finally managed implement the capability of shooting still images while
-
 recording video -- a feature that HTC One X loves to flaunt. Even the front
-
 facing camera has been bumped to 1.2 Megapixel and offers capability to capture
-
 720p HD videos.
 
-
-
 On the other hand, the Samsung Galaxy S III comes with 8 megapixel camera that
-
 is capable of clicking high quality images with zero shutter lag. Also there is
-
 a burst mode that allows capturing 20 images in 6 seconds and that too at full 8
-
 megapixel resolution. The camera is also capable of recording full 1080p HD
-
 videos with least possible noise.
 
-
-
 The Galaxy S III is one of the sharpest image quality offering Android
-
 smartphone in the market at this moment.
 
-
-
 Also it has a new Smart-Stay feature that uses the front facing camera to detect
-
 if the user is awake or asleep and accordingly puts the display in sleep mode.
-
-
 
 Mobile Operating Systems
 
-
-
 Apple will introduce the new iOS 6 software update by default on the Apple
-
 iPhone 5. This new software update brings plethora of features; most notable
-
 among them is the Maps app. Apple has designed and used its cartography for the
-
 new Maps app which also offers realistic 3D views and turn by turn based
-
 navigation.
 
-
-
 The much talked about virtual digital assistant, Siri, now brings support for
-
 more languages and is available in more countries. Facebook service has now been
-
 integrated inside the iOS operating system and thereby you can share updates,
-
 images and videos using native options.
 
-
-
 Thankfully, Facebook is also working on a Cocoa Touch based native app for the
-
 iOS platform. So Facebook lovers will simply endure the integration along with
-
 the upcoming official Facebook app hopefully. With improved mobile Safari
-
 browser, the iOS devices can look forward to snappier mobile web browsing
-
 experience. Apple has added new Passbook app that offers storing movie tickets,
-
 coupons, passes, loyalty cards, etc.
 
-
-
 Samsung Galaxy S III runs the Android 4.0 Ice Cream Sandwich with company's new
-
 Nature UX (user experience) that comes with least possible implementation of its
-
 TouchWiz user interface. Samsung has confirmed to release the latest Android 4.1
-
 Jelly Bean update with significant improvements for Galaxy S III.
 
-
-
 The company has also taken competition for voice-driven natural language
-
 processing with the new S-Voice feature that functions almost like the Apple
-
 Siri. Besides, Samsung has added several other improvements such as task manager
-
 and other features in the Android 4.0 ICS update itself. Both smartphone
-
 operating systems have just entered their prime and will be offering the
-
 smartphone experience that everyone dreamt about.
-
-
 
 Network and Wireless Connectivity
 
-
-
 Samsung Galaxy S III for India comes with high-speed 3G networks support while
-
 for select regions, the company will introduce 4G LTE network supporting models
-
 too. This smartphone has Bluetooth 4.0 for low-power files transfer. For
-
 wireless Internet, Galaxy S III has a Wi-Fi support (802.11 a/b/g/n) and also
-
 Wi-Fi Direct feature along with capability to create mobile hotspot.
 
-
-
 Apple will offer the iPhone 5 in GSM and CDMA models separately. Both models
-
 will support Long Term Evolution network (different bands) with the Qualcomm's
-
 new smaller modem chip.
 
-
-
 Apple has added dual-band (2.4 GHz and 5 GHz for 802.11n) Wi-Fi network support
-
 for faster download and browsing speeds. Now the company allows FaceTime video
-
 calling over cellular network too.
-
-
 
 Battery
 
-
-
 When it comes to battery, Samsung has upped the ante by adding a 2100 mAh
-
 battery in the monstrous Galaxy S III. That allows the smartphone to make up for
-
 the quad-core mobile processor and the quad-core graphics chip inside. Besides
-
 the alleged battery drain issues of the Android operating system, the Galaxy S
-
 III promises talk time of about 11.5 hours on 3G Network and over 20 hours on 2G
-
 networks.
 
-
-
 Apple iPhone 5 with beefed up hardware and bigger display promises talk time of
-
 8 hours on 3G network as well as LTE network. Meanwhile, users can expect about
-
 10 hours of battery life on Wi-Fi network.
 
-
-
 However, Apple does promise 40 hours of music listening and 10 hours of video
-
 playback. When it comes to one of the most important feature of a smartphone --
-
 battery, Samsung takes away the cake.
-
-
 
 Can we conclude yet?
 
-
-
 Several other parameters are yet to be compared but that comes into light when
-
 both devices are tested side by side. Most important aspect that plays a crucial
-
 role is the price of these smartphones. Apple has introduced iPhone 5 at the
-
 same price (on contract) in the USA and is yet to announce the price of unlocked
-
 models.
 
-
-
 Meanwhile, Samsung has just announced a price cut in the USA on its Galaxy S III
-
 model.
 
-
-
 The real winner is the smartphone that offers over all best performance, greater
-
 battery life and consistent experience. From the specifications perspective,
-
 Samsung Galaxy S III should welcome its new competitor - Apple iPhone 5 in the
-
 battle ground. Published by HT Syndication with permission from Afternoon Voice.
-
 For any query with respect to this article or any other content requirement,
-
 please contact Editor at htsyndication@hindustantimes.com
-
-
-
-LOAD-DATE: September 27, 2012
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                       Copyright 2012 afternoonvoice.com
-
-                              All Rights Reserved
-
-
-
-
 

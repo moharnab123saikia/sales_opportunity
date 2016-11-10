@@ -1,0 +1,39 @@
+
+
+Apple's iPhone 7, iPhone 7 Plus makes a hissing sound which may pretty much
+disappoint you
+
+Apple's iPhone 7, iPhone 7 Plus seems to have a hissing problem, according to
+reports from users and reviewers. The issue was first noted by 512 Pixels'
+Stephen Hackett, who posted about the same on Twitter, and also shared a YouTube
+link to the hissing sound from his iPhone 7 Plus. [Check out the video here]
+
+Hackett wrote on Twitter, "My iPhone 7 Plus makes terrible noises when under
+load," and has added the YouTube link. And his complaint has been corroborated
+by others as well who are facing the same problem.
+
+TechCrunch writer Darrell Etherington also posted on Twitter saying a brand new,
+just un-boxed iPhone 7 Plus was doing the same thing, aka the hissing sound. It
+seems the iPhone 7 series is making this hissing sound, which is what is known
+as a 'coil noise' made by a high-powered processor when under load.
+
+At present, there are several theories about why this is happening, even though
+nobody knows the real cause behind it.
+
+Engadget Jon Fingas said that "some suspect coil whine or similar
+electromagnetic effects." He also points out that it's not a universal problem
+because he has "tested an iPhone 7 using 3DMark 'Ice Storm Extreme,' a
+performance benchmark that puts the processor under serious strain, and heard no
+hissing at all."
+
+Apple Insider speculated that it "could involve the RF transmitter or some other
+form of interference with the speaker system."
+
+According to iMore, this hissing sound is not just an iPhone 7 problem. The
+author noted that pretty much all devices make this 'hissing noise' especially
+in "high-intensity CPU/GPU activity."
+
+Apple has so far declined to comment on 'hissing-gate.' Instead it reminded
+iPhones had faced the bending issue, but it was still one of the most talked
+about things for the iPhone 6 Plus launch.
+

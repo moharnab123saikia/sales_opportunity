@@ -1,292 +1,118 @@
-                              133 of 997 DOCUMENTS
-
-
-
-
-
-                                 The Australian
-
-
-
-                            October 25, 2016 Tuesday
-
-                               Australian Edition
-
-
-
-Google's premium Pixel too smart for its own good
-
-
-
-BYLINE: Chris Griffith, Smartphones
-
-
-
-SECTION: AUSTRALIANIT; Pg. 26
-
-
-
-LENGTH: 1062  words
-
-
-
 
 
 Can an intelligent smartphone help write its own phone review? To find out, I
-
 conscripted the natural-language Assistant found on Google's new Pixel XL
-
 smartphone to the journalistic process. And my first question was: "why aren't
-
 you waterproof?" If you don't know about Pixel (5-inch display) and Pixel XL
-
 (5.5-inch display), they are Google's first premium handsets designed by the
-
 company top-to-bottom.
 
-
-
 Google this year is playing serious. For the first time, it is directly
-
 challenging the might of the iPhone and premium Android handsets such as
-
 Samsung's Galaxy S7 with its own premium handset that targets their market with
-
 a phone of similar price.
 
-
-
 Pixel is a different proposition to the previous Google Nexus-branded phones
-
 such as last year's Nexus 5X and 6P. At $300 to $500 they were great value, but
-
 weren't competing in the big league.
 
-
-
 One of the developments around Google is the Assistant. It's a smarter, more
-
 intelligent version of Google Now that understands the context of questions.
 
-
-
 When I asked "why aren't you waterproof?", the Assistant in my Pixel XL review
-
 unit understood that when I said "you", I was talking about it, a smartphone. It
-
 displayed a blog entry in Quora that went through this issue chapter-and-verse.
-
 "The problem with -waterproofing is that it adds cost and liability," this post
-
 said. "If you say something is waterproof then you had better mean it." And on
-
 it went.
 
-
-
 This is a bittersweet result for Pixel because while it handled this particular
-
 query well, the fact is this phone lacks what is now a standard feature of
-
 premium handsets - water resistance.
 
-
-
 Is that a big deal? Yes it is, because this summer, a big proportion of
-
 Australians who head to the beach or the pool with their iPhone 7, Samsung S7,
-
 Sony Xperia XZ and the like won't worry if their phone is sprayed with some
-
 water or gets sand on it.
 
-
-
 Of course, I wouldn't use a water and dust-resistant smartphone as a shovel for
-
 building sand castles but with minimal care (such as rinsing it in clean water
-
 afterwards) a water resistant phone gives you confidence to take it anywhere.
-
 With the Pixel range you can't do that yet, which is a mistake if Google is
-
 playing in the 2016 league.
 
-
-
 As for Assistant, it's excellent for showing me the nearby Thai restaurants,
-
 Woolworths supermarkets and police stations, although it makes mistakes. When I
-
 ask it for movies in Newtown it shows them for Newtown, Virginia. At times it
-
 doesn't understand my accent. Over time its capability to be useful will improve
-
 as more Australian public utilities put their data online and you get answers to
-
 anything and everything.
 
-
-
 In other regards, the XL is a very good phone. It has a very high resolution
-
 quadHD screen (534 pixels per inch), a fast Snapdragon 821 quad core processor,
-
 and a big 3450 milliampere hour battery with more capacity than even an iPad
-
 battery.
 
-
-
 If you like Android phones that are fast and don't have bloatware, Pixel could
-
 be for you. They run a pure form of the Android operating system that hasn't
-
 been modified by manufacturers and is minus add-ons that slow down operation.
-
 They are the first to get Android updates. I found Pixel XL to be very fast to
-
 open apps and to move between screens.
 
-
-
 With Android Nougat 7.1, operation is simple. From a home screen, swiping down
-
 from the top brings up notifications, swiping from the bottom the app drawer,
-
 and swiping to the right shows your Google cards: weather, calendar events,
-
 stocks, relevant news stories and so on. There is also stunning live wallpapers
-
 to choose from. Press and hold an icon and you'll get shortcuts to chosen app
-
 options, as with iOS10. The home screen has a small search tab instead of a
-
 search bar, which is less intrusive.
 
-
-
 Google knew a frightening lot about my tastes, the type of political stories I
-
 read, the football codes I follow, the devices I like reading about - all
-
 gleaned from its previous encounters with Chrome.
 
-
-
 There are other big-ticket items on this phone. They start with the 12.3 and 8
-
 megapixel back and front-facing cameras. Google has been plugging the virtues of
-
 this phone, its DuoMark Mobile camera score of 89, but the proof is in the
-
 pudding.
 
-
-
 There's no question about the clarity, sharpness and colour of daytime images.
-
 Press down the camera app button and you invoke an intelligent burst mode where
-
 it separates out the cleanest, sharpest shots from the rest. You can also blur
-
 the background, which proved useful in our office where it is busy and
-
 distracting.
 
-
-
 The selfie snapper offers equal resolution to some premium smartphone
-
 back-facing cameras. With a 1.55 micron pixel size, this camera purports to take
-
 great low-light photos, but I found those taken by iPhone 7 Plus to be more
-
 reliable, and more accurate colour wise.
 
-
-
 On some occasions, the auto setting for the light source would select the wrong
-
 light type (for example, fluorescent versus tungsten), which meant I sometimes
-
 took shots with a blue or yellow tinge in low light. You can set this manually
-
 but this is a complication I don't have with other phones.
 
-
-
 Software is another factor making Google (and) Pixel increasingly attractive.
-
 Pixel has the Google Duo, a new video calling app and rival to Apple Facetime.
-
 It's cross platform, so you can call iPhones and Android phones.
 
-
-
 And there's Google's Photos app, which uses machine learning to identify people
-
 and other objects in photos. From this it can stitch together a collage of old
-
 photos of a friend or family member. It uses machine learning to comb through a
-
 video and select a pivotal moment for an animation and it can straighten photos
-
 too.
 
-
-
 If that doesn't convince you, Google offers free unlimited cloud storage of
-
 photos you take with Pixel.
 
-
-
 Battery wise Pixel XL wasn't that impressive with 6.5 hours of battery life
-
 playing video at 50 per cent brightness. That's probably due to the Quad HD
-
 display. Battery saver mode will prolong use. AnTuTu benchmark testing scored
-
 this phone at 138,916, making it one of the fastest-performing phones around.
 
-
-
 With Assistant aboard, Pixel and Pixel XL give you not only a great phone but
-
 also a window into the future of smartphone communications. It's fast and
-
 bloatware free. But be careful around the pool and at the beach.The Pixel with
-
 its 5-inch display costs $1079 (32GB) or $1229 (128GB). Pixel XL costs $1269
-
 (32GB) and $1419 (128GB). While it's a great phone, I think that's too much.
-
-
-
-LOAD-DATE: October 24, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: The Australian
-
-
-
-
-
-                   Copyright 2016 Nationwide News Pty Limited
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,182 +1,65 @@
-                              612 of 997 DOCUMENTS
-
-
-
-
-
-                   The Independent on Saturday (South Africa)
-
-
-
-                               September 10, 2016
-
-                                   E1 Edition
-
-
-
-Worried about online privacy? That's just the way the cookies crumble
-
-
-
-SECTION: NEWS; Pg. 8
-
-
-
-LENGTH: 507 words
-
-
-
 
 
 It is not a coincidence that when you have been googling south-east Asia, your
-
 Facebook page is inundated with ads for holidays in Thailand.
 
-
-
 Neither is it a sign from the retail gods that you need to buy the pair of shoes
-
 that you've browsed once, when its image keeps popping up on your social media
-
 accounts.
 
-
-
 It's not that you've been cyberstalked, but the practice of retargeting - using
-
 your internet browsing habits to track your preferences - is widely used by
-
 companies to send you advertisements of products and services you've googled.
 
-
-
 Rohan Isaacs, director at Norton Rose Fulbright said it was all done through the
-
 use of cookies (a small piece of data sent from a website and stored in your web
-
 browser) and tracking pixels (the basic unit of programmable colour on a
-
 computer display).
 
-
-
 "Pixels embedded within an advertising slot on a web page can access cookies
-
 previously dropped on to your computer by the advertiser. These cookies give the
-
 advertiser information about previous searches and browsing habits, enabling the
-
 advertiser to target your preferences."
 
-
-
 Isaacs said whether this was an invasion of privacy depended on one's point of
-
 view.
 
-
-
 "Services which obtain this information about you would argue that you have
-
 consented to it. You aren't forced to use the service after all. Their privacy
-
 policies invariably explain what they do, at least in general terms," he said.
 
-
-
 Nathan Desfontaines, cyber security manager at KPMG agrees. "Privacy policies
-
 are loosely explained. Websites tell us that they are using cookies and give us
-
 an option to opt out by disabling cookies. But doing so means some features of a
-
 website may not work."
 
-
-
 Desfontaines also agrees that retargeting is not illegal. "But the problem is
-
 that we are not given an option to decide if we want to opt in."
 
-
-
 And for that reason, he said, this practice tested ethical borders and had the
-
 potential to embarrass users.
 
-
-
 "If a woman thinks she is pregnant, for example, and googles contraceptives or
-
 abortion and then moves away from her desk. Then when these adverts pop up on
-
 her screen everyone can see what she has been browsing," Desfontaines said.
 
-
-
 "By using Google to browse the net you have automatically opted to be tracked if
-
 you already use other Google unpaid services such as Gmail, Google Maps and
-
 Google Drive."
 
-
-
 "To access many of these services you need to log into a Google account. And as
-
 long as you're logged in, Google knows exactly who you are and mines everything
-
 you are doing within the Google environment for information about you," Isaacs
-
 said.
 
-
-
 "They use this information to monetise their services by selling advertisers the
-
 abili-â[#x20ac]¨ty to target you through pixels and cookies... if the product is
-
 free, you're the product."
 
-
-
 Both Isaacs and Desfontaines agree retargeting is far from illegal because we
-
 typically grant websites permission to track us and browsing habits on their own
-
 don't generally constitute personal information.
 
-
-
 But, if you don't want to be tracked, you can turn cookies off on your browser
-
 setting or switch browsers.
-
-
-
-LOAD-DATE: September 11, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: NS
-
-
-
-
-
-                Copyright 2016 Independent Newspapers Pty (Ltd)
-
-                              All Rights Reserved
-
-
-
-
 

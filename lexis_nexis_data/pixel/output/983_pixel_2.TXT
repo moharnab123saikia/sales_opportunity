@@ -1,174 +1,58 @@
-                              983 of 997 DOCUMENTS
-
-
-
-
-
-                    The Orange County Register (California)
-
-
-
-                            August 24, 2006 Thursday
-
-                                   1 Edition
-
-
-
-PIXEL-PACKING MAN;
-
-New 111-million pixel chip will map the night sky.
-
-
-
-BYLINE: By TAMARA CHUANG; DANA POINT NEWS
-
-
-
-SECTION: DANAPOINT; Pg. Cover
-
-
-
-LENGTH: 497 words
-
-
 
 ABSTRACT
 
-
-
 Richard Bredthauer's new 111-million pixel will map the night sky.
-
-
 
 FULL TEXT
 
-
-
 If you want the world's highest-resolution digital camera, you'd better get to
-
 know Richard "Dr. Dick" Bredthauer.
 
-
-
 The Dana Point resident put 111 million pixels on a 4-by-4-inch chip, the most
-
 ever on a single chip. That's like stitching together 20 photos taken with a 5.5
-
 megapixel camera to create a huge image -- sans the grid lines.
 
-
-
 While the chips won't find their way into a consumer camera anytime soon, such
-
 high-resolution chips will let astronomers photograph wider swaths of the night
-
 sky, allow scientists to take detailed shots of protein structures and encourage
-
 Google to improve its map services.
 
-
-
 "This is one of a progression of projects that really push the limits of
-
 technology," said Patrick Myles, director of communications for  Dalsa
-
 Semiconductor, the Canadian firm that built Bredthauer's chip. "When it comes to
-
 this type of high performance, there's a really short list of who can actually
-
 do it."
 
-
-
 Most consumer cameras are in the 5-to-8 MP range. Professional cameras are up to
-
 39 MP. Other high-resolution cameras, such as the 340-MP Megacam in Hawaii, are
-
 made of several smaller chips stitched together. Stitching chips or images
-
 together, however, is less accurate if the target is moving.
 
-
-
 "The one place that can really use big images is astronomy," said Bredthauer,
-
 59, whose resume includes making chips for a list of big-name cameras that snap
-
 pictures in space -- the Hubble telescope, the Cassini Mission, the Mars
-
 Pathfinder. "Astronomers know what they can do with it."
 
-
-
 The new chip, which uses charge couple devices, is headed to the U.S. Naval
-
 Observatory in Flagstaff, Ariz., and should be installed by year's end. It will
-
 be used to take pictures of the night sky for an astrometry project to measure
-
 the position and movement of stars, planets and other celestial bodies. Knowing
-
 the position of celestial objects is an alternative to GPS navigation.
 
-
-
 Charge couple devices (CCD) have long been Bredthauer's passion. He's worked in
-
 the field since the 1970s when he was in graduate school and studied with the
-
 man who set up Kodak's CCD lab. CCDs are a type of image sensor that converts
-
 light into electrons. Compared to other camera chips, CCDs use more power but
-
 have better light sensitivity. CCDs tend to be used in higher-quality cameras
-
 and telescopes.
 
-
-
 After 25 years of working for other people and watching his varied aerospace
-
 employers move out of Orange County, Bredthauer started  Semiconductor
-
 Technology Associates seven years ago in San Juan. He works with 7 employees,
-
 including wife, Ginny, the chief executive, and two sons and a daughter.
 
-
-
 BIG CHIP: Dr. Richard Bredthauer, Dana Point resident and president of the San
-
 Juan Capistrano company Semiconductor Technology Associates, Inc. has designed
-
 the world's highest resolution, 111 megapixal, CCD imaging chip. The 4-inch
-
 square chip sells for $80,000, and was developed for the U.S. Navy.
-
-
-
-LOAD-DATE: September 9, 2006
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-DOCUMENT-TYPE: Story
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-             Copyright 2006 The Orange County Register (California)
-
-                              All Rights Reserved
-
-
-
-
 

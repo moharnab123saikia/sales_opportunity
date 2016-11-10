@@ -1,0 +1,148 @@
+
+
+Now that we are on the date for Apple's major launch event, we can round up
+everything we've heard about the latest products. You probably know that the big
+showcase will be the next iPhone, but there's likely to be a refresh to the
+Apple Watch as well.
+
+iPhone 7 & 7 Plus
+
+Design
+
+At the outset, both iPhone 7 and iPhone 7 plus are expected to appear largely
+the same as their predecessors with a few subtle changes. The biggest one being
+the placement of antenna bands: aligned along the top and bottom instead of the
+bands going across the back of the phone. This will give the phone a cleaner
+look and make it easier for case design.
+
+The Biggest Improvement - Cameras
+
+This is where the biggest change will be - even the invite for the event seems
+to suggest enhanced capabilities with low depth of field, like an SLR camera.
+The iPhone 7 is rumored to get optical image stabilization and a larger sensor
+with f1.9 aperture (this would make the camera protrude more) but worth it for
+improved imaging capabilities. The iPhone 7 Plus is rumored to get a dual 12MP
+camera setup along with optical image stabilization and f1.9 aperture. The dual
+lenses might enable a 2 or 3x optical zoom and various effects like shallow
+depth of field.
+
+No more 3.5mm Jack
+
+The analog 3.5mm jack has probably lived its life. We've seen many drop it
+already so there won't be too many raised eyebrows when Apple does it too. You
+will have to use the Lightning port for wired headphones - a couple of Lightning
+earphones have already been launched in India ahead of the iPhone launch. There
+could also be a Lightning to 3.5mm adapter in the box or available as an
+accessory.
+
+Hardware Upgrades
+
+The iPhone 7 and 7 plus are expected to be powered by the more powerful Apple
+A10 processor and paired with either 2GB or 3GB RAM (depending on version). Even
+the GPU should get a major upgrade on the phones to be able to meet the demand
+of games, 4K video and image/video editing apps. Considering that the year-old
+iPhone 6S still manages to beat many current flagships when it comes to outright
+performance, the A10 should be a real cracker, widening the performance lead
+even further.
+
+Finally - More Storage
+
+It's almost a given that the 16GB iPhone will be a thing of the past. We've
+heard that Apple will ditch the 16GB storage option on both iPhone variants
+after years of complaints from users. The 16GB storage did tend to get filled up
+rather quickly. In fact, Apple could double the storage across the board, which
+means that the storage options this year could be be 32GB, 128GB and 256GB.
+Sadly, the possibility of expandable storage will continue to remain a dream.
+
+Display
+
+We don't expect any changes in the display sizes and resolutions for the iPhone
+7 (4.7-inch) and iPhone 7 plus(5.5-inch). This is logical and ties in with
+Apple's philosophy of keeping fragmentation down. Keeping the screen/resolution
+the same means that apps will continue to work as seamlessly as before. Some
+rumours suggest amoled panels for the iPhone 7 (and a 2K resolution for the
+iPhone 7 Plus) but we think it's more likely that the amoled (or mLED) panel
+will only appear in the iPhone 8 next year.
+
+A New Kind of Home Button?
+
+A common complaint about iPhone is the dead home button - and it does tend to
+fail, considering the number of times it gets clicked in a day. To get around
+this issue, Apple could do away with the hardware home button, replacing it for
+a pressure sensitive, capacitive touch based home button and fingerprint sensor
+(it will wake up and unlock the phone as well as double up as home button).
+
+Possibly WaterProof?
+
+The rumors of removal of 3.5mm jack and home button point to the possibility of
+the new devices having enhanced water resistance. While they are not expected to
+be IP68 certified for 'proper' waterproofing, it is rumored that both variants
+will have IPX7 rating for water resistance (this means they would be capable of
+handling accidental water exposure, up to a depth of 1 meter).
+
+A New Smart Connector
+
+According to some leaks, Apple could integrate a smart connector (seen on the
+iPad Pro) on the iPhone 7 Plus or a separate higher-end phone called iPhone 7
+Pro. A smart connector doesn't add bulk or compromise water proofing but it can
+supply power and enable data transfer for various accessories. One of the first
+accessories you could see would be the smart keyboard (an official accessory for
+the iPad Pro at present).
+
+Price & Availability
+
+The Apple event is fixed for today. The phone is expected to go on sale in the
+United States as early as the second week of September. We expect that it will
+arrive in India soon - possibly the first wave of launches, placing the launch
+in early October, to cash-in on Diwali festivities. We think that prices could
+start from `50,000 for the iPhone 7 32GB version while the iPhone 7 Plus 32GB
+could start at Rs 60,000.
+
+Apple Watch 2
+
+Two Versions?
+
+The Apple Watch is distinctive but it doesn't appeal much to purists who love
+the classic round design. There is a possibility that Apple may launch two
+versions of the Apple
+
+The OLED display on Apple Watch is already pretty good, but any mobile device
+could do with some improvements. In 2014, Apple purchased a company called
+Lux-Vue Technology - they specialize in micro LED (mLED) display technology -
+think of it like the next evolution of OLED. Like OLED, mLED does not need a
+backlight (which means the display has infinite contrast) but it's also thinner,
+way more power efficient and can get much brighter.
+
+Enhanced Waterproofing
+
+The existing Apple Watch is water resistant of course, but you couldn't wear one
+while swimming. This is an obvious area of improvement and something that would
+open up the Watch to fitness and adventure sports enthusiasts as well.
+
+Larger Battery
+
+The easiest way to get better battery life is to include a larger battery at the
+expense of added bulk. However, if the other components could be shrunk, the
+battery could be made larger. This, combined with a more efficient screen could
+mean a 2 to 3 day battery. Bands with More Functionality Safe to assume we'll
+see some new designs and there's a possibility of 'authorised' third party
+bands. One of the interesting possibilities is an extended battery band. There
+is a lot of wasted space on a band which can be used for batteries.
+
+Lesser Reliance on iPhone
+
+The new Watch might have more independence & be able to access internet using
+WiFi on its own. Some rumours have also hinted at the possibility of the Watch
+having its own cellular radio and its own SIM card slot - though we consider
+this unlikely.
+
+Compatibility with Android
+
+This is least likely and that's a shame. Android & iOS make up most of the
+smartphone market globally (majority Android). And after all, Android Wear
+watches work on both iOS and Android. The potential market opens up considerably
+- which is important because IDC recently reported that the global smartwatch
+market saw a year-on-year decline of 32%.
+
+For Reprint Rights: timescontent.com
+

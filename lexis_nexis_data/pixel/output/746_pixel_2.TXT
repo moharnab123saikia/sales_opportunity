@@ -1,110 +1,32 @@
-                              746 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                             June 13, 2015 Saturday
-
-
-
-Google Inc. (California) applies for US Patent titled as "Method and Apparatus
-
-for Centering Swivel Views"
-
-
-
-LENGTH: 245  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has received an application no.
-
 20150163402 for US Patent, published on June 11, 2015, by Google Inc.
-
 (California), titled as "Method and Apparatus for Centering Swivel Views" for
-
 the registration of patent.
 
-
-
 Inventors:  Frueh; Christian; (Mountain View, CA) ; Conley; Ken; (Mountain View,
-
 CA) ; Jain; Sumit; (Santa Clara, CA)
-
 Assignee:  Google Inc.
-
 Mountain View
-
 CA
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Methods and an apparatus for centering swivel views are disclosed. An example
-
 method involves a computing device identifying movement of a pixel location of a
-
 3D object within a sequence of images. Each image of the sequence of images may
-
 correspond to a view of the 3D object from a different angular orientation.
-
 Based on the identified movement of the pixel location of the 3D object, the
-
 computing device may estimate movement parameters of at least one function that
-
 describes a location of the 3D object in an individual image. The computing
-
 device may also determine for one or more images of the sequence of images a
-
 respective modification to the image using the estimated parameters of the at
-
 least one function. And the computing device may adjust the pixel location of
-
 the 3D object within the one or more images based on the respective modification
-
 for the image."
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: June 17, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2015 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

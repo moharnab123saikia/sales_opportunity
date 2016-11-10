@@ -1,230 +1,88 @@
-                              967 of 997 DOCUMENTS
-
-
-
-
-
-                          The Tampa Tribune (Florida)
-
-
-
-                             March 22, 2004 Monday
-
-                                 FINAL EDITION
-
-
-
-Online Art Searches? Tools Make The Engine
-
-
-
-BYLINE: DOUG STANLEY, dstanley@tampatrib.com
-
-
-
-SECTION: MONEYSENSE; Pg. 3
-
-
-
-LENGTH: 610 words
-
-
-
 
 
 By DOUG STANLEY
 
-
-
 dstanley@tampatrib.com
 
-
-
 Specialty search engines can be especially useful when you're looking for photos
-
 or graphics to spruce up a multimedia project or if you merely want to take an
-
 eclectic visual journey across the Web.
 
-
-
 There are a number of search tools for finding photos, drawings, animations and
-
 other images. Some are adjuncts of the major search engines and others are
-
 independent.
 
-
-
 Type in anything - say, the name of a city - to find matching images. Searching
-
 for "Tampa," for example, returned shots of tourists, landmarks, aerial photos,
-
 pictures of ships and what looked like the inside of a hotel room.
 
-
-
 Before using an image downloaded from the Web, be sure to ask permission from
-
 the owner, particularly for copyrighted material.
 
-
-
 Most sites have offensive-content filters that you can turn on or off, but
-
 filters aren't perfect, and there always is the chance you'll see something you
-
 would rather not. Let's take a look at some useful sites:
 
-
-
 * Google Images - images.google.com - Claiming an index of more than 425 million
-
 images, Google says its image search is the most comprehensive on the Web.
 
-
-
 Advanced features allow you to specify image size, file format, Web site and
-
 color, black-and-white or gray scale.
 
-
-
 * Picsearch - www.picsearch.com - Among the advanced features is the ability to
-
 search for images by six categories of size, from very small (1 to 50 pixels) to
-
 very large (800 pixels or more).
 
-
-
 Picsearch touts itself as family friendly and doesn't provide an option for
-
 turning off offensive-content filters. The site doesn't seem to do a
-
 significantly better job than its competitors at screening potentially offensive
-
 shots.
 
-
-
 * AlltheWeb - www.alltheweb.com - Claiming it searches more than 3 billion Web
-
 pages, AlltheWeb features many of the same types of custom search options as its
-
 peers.
 
-
-
 One nice feature for people who have Web sites is the ability to search only for
-
 images with transparent backgrounds.
 
-
-
 * DevilFinder Image Browser - images.devilfinder.com - Though the others in this
-
 roundup display thumbnail images that double as links to Web sites where those
-
 images appear, DevilFinder takes a decidedly different approach.
 
-
-
 This experimental search engine displays 12 to 72 photos in full size on a
-
 single page. Search results can be slow to load, but the mishmash of images
-
 displayed together makes for some interesting viewing.
-
-
 
 The Lowdown On Gas Prices
 
-
-
 If the price at the pump is siphoning off more money than you can bear, you
-
 might be able to save a few bucks by looking at GasBuddy.com for the cheapest
-
 gas prices.
 
-
-
 GasBuddy is a portal to more than 170 sites providing recent prices at stations
-
 from coast to coast and Canada. The information is gathered by volunteers and
-
 posted on the Web.
 
-
-
 Anyone can look up or submit gas prices. The site also offers a free membership
-
 that includes access to an online fuel log for calculating and graphing personal
-
 gas expenses.
-
-
 
 E-mail Connection Errors
 
-
-
 Having trouble accessing your e-mail after installing a firewall? Usually,
-
 tweaking a setting does the trick.
 
-
-
 Software firewalls sometimes need to be told which programs can have full access
-
 to the Internet.
 
-
-
 Finding the setting to tweak will vary with the firewall you use. For McAfee
-
 Personal Firewall Plus, right-click on the McAfee icon by your system clock,
-
 then click Personal Firewall. Click Internet Applications and verify that your
-
 e-mail program has full access to the Net. If it doesn't, right-click on the
-
 program's name and click "Allow Full Access."
-
-
 
 For past columns by Doug Stanley, go to tech.tbo.com
 
-
-
 Copyright © 2004, The Tampa Tribune and may not be republished without
-
 permission. E-mail library@tampatrib.com
-
-
-
-LOAD-DATE: March 24, 2004
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-NOTES: PLUGGED IN BUSINESS & TECHNOLOGY
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-           Copyright 2004 The Tribune Co. Publishes The Tampa Tribune
-
-
-
-
 

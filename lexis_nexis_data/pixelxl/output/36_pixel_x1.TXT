@@ -1,212 +1,80 @@
-                               36 of 64 DOCUMENTS
-
-
-
-
-
-                          Australian Financial Review
-
-
-
-                            February 4, 2014 Tuesday
-
-                                 First Edition
-
-
-
-Improving on perfection can be a game of Whac-A-Mole
-
-
-
-BYLINE: This digital life John Davidson
-
-
-
-SECTION: Pg. 26
-
-
-
-LENGTH: 696 words
-
-
-
 
 
 ow do you improve on a macine tat is so close to perfect, it's ard to imagine
-
 that any improvements are even possible, let alone necessary?
 
-
-
 Te answer may be that you can't, or at least that you can't improve it very muc.
-
 The answer may be tat you just wind up playing Whac-A-Mole with whatever small
-
 flaws the macine had, fixing some of them only to have new, slightly different
-
 ones pop up elsewhere.
 
-
-
 Take, for instance, Lenovo's 2014 ThinkPad X1 Carbon notebook computer, a new
-
 and updated version of a notebook so close to perfect it surely ranks as one of
-
 our very favourite computers of all time.
-
-
 
 The keyboard on the X1 is a thing of grace and beauty ... but.
 
-
-
 It's the new X1 Carbon I'm using to write this column, and as you may have
-
 noticed, a slight imperfection has crept into the unit I am reviewing: the
-
 keyboard's "h" key is apparently sticking to the ThinkPad's iconic (and awesome)
-
 track pointer, and doesn't always register when you press it. Though, now that
-
 I'm further into this column, the problem does seem to have cleared up.
-
 Yesterday the "h" was barely working at all, despite the numerous whacks I gave
-
 the underside of the device.
 
-
-
 Maybe this morning's whack was all it took to clear up the issue. Let's see,
-
 shall we?
 
-
-
 I mention the keyboard because it's one of the major changes in the 2014 model,
-
 aside from the usual faster chip/sharper screen enhancements - though the new,
-
 very-high resolution screen on the X1 Carbon is a whole other game of
-
 Whac-A-Mole I'll get to in a moment.
 
-
-
 With the new X1, Lenovo has taken a leaf out of the Optimus Popularis playbook,
-
 adding a row of keys at the top of the keyboard, that changes depending on the
-
 app you're using.
 
-
-
 The row, located where the F1 to F12 function keys used to be, is made of LEDs
-
 rather than physical buttons, and shows up as the regular function keys at
-
 times, or as a set of web browser controls if you're in a browser, It will take
-
 on the functions of web conference controls, if that's what you're doing. The
-
 advantage of this new layout is that it gives you far more function buttons at
-
 the top of your keyboard - something like 45 where once there were 26, though
-
 only 11 or so are visible at once.
 
-
-
 It's a really good idea, but it could have been better implemented. For
-
 starters, there is no way to assign a set of controls to a given app - you can
-
 only nominate the default set, which makes it far less customisable than it
-
 should be - and there's no way for users or software developers to create their
-
 own sets of controls.
-
-
 
 That would have been brilliant for things like video editing or gaming.
 
-
-
 The real problem, though, is the Whac-A-Mole effect it's had on the rest of the
-
 keyboard. To accommodate the nifty LED strip, Lenovo had to move the delete,
-
 insert, home and end buttons. The relocated delete button, now right next to the
-
 (shrunken) backspace button, is killing me. I keep hitting delete when I want
-
 backspace. Caps lock has been replaced by a home/end couplet, which is plain old
-
 weird, though it's yet to actually bother me.
 
-
-
 The screen on the new X1 has been both perfected and imperfected, too. It's now
-
 available in an incredibly sharp 2560 x 1440 pixel resolution, up from 1600 x
-
 900, making for a viewing experience that alternates between sublime and
-
 ridiculous, depending on the application.
 
-
-
 Windows 8.1 now has the ability to handle very high-resolution displays, and in
-
 Windows and a lot of apps, text on the X1 is now so sharp it looks painted on.
-
 Unfortunately, Windows doesn't pass that ability onto all the applications it
-
 runs.
 
-
-
 In certain apps, most notably Google Chrome, the new screen causes all sorts of
-
 problems. Depending on which imperfection you can stand the least, you either
-
 end up with fuzzy text but beautiful images, or sharp text but images and
-
 buttons that are so small as to be absurd. Other apps suffer related problems.
-
 The word processor I am writing on now, for instance, either has crappy fonts or
-
 has on-screen menus that are so out of alignment, you can't tell which button
-
 applies to which function. Solve one problem, the other one pops back.
 
-
-
 On the plus side, the "h" key is well and truly working now. Consider that mole
-
 whacked once and for all.
-
-
-
-LOAD-DATE: February 3, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-             Copyright 2014 Fairfax Media Publications Pty. Limited
-
-                              All Rights Reserved
-
-
-
-
 

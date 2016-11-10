@@ -1,286 +1,118 @@
-                              555 of 999 DOCUMENTS
-
-
-
-
-
-                        Contra Costa Times (California)
-
-
-
-                           September 9, 2014 Tuesday
-
-
-
-Biz Break: Apple Watch gets the buzz, but iPhone is still king
-
-
-
-BYLINE: By Jeremy C. Owens jowens@mercurynews.com
-
-
-
-SECTION: NEWS; Business
-
-
-
-LENGTH: 1038 words
-
-
-
 
 
 Today: Apple shows off a new product, but the refreshed iPhone line will mean
-
 more to the company's bottom line. Also: Intel shows off its next advances.
-
-
 
 The Lead: iPhones are key to Apple revenue growth, Apple Watch adoption
 
-
-
 Apple's debut event sparked a lot of talk about its smartwatch, the first new
-
 device launched by the company since the iPad four years ago, but the company's
-
 immediate future and the Apple Watch's success depend on the other gadgets
-
 introduced Tuesday -- new iPhones.
 
-
-
 In a highly anticipated event Tuesday, Apple CEO Tim Cook debuted the Apple
-
 Watch and a mobile-payments attempt called Apple Pay, two new offerings the
-
 Cupertino company hopes will grow revenues that have already exploded in the
-
 past decade. The main cause of that growth has been the iPhone, Apple's
-
 smartphone that was refreshed with two new offerings, the iPhone 6 and iPhone 6
-
 Plus.
 
-
-
 The main focus was Apple Watch, a smartwatch that will work in concert with the
-
 iPhone as long as the device is an iPhone 5 or newer. The device has a starting
-
 price of $350 and offers an array of customizable features, with early reviews
-
 proclaiming it the best smartwatch to arrive so far.
 
-
-
 However, Apple will have to sell a lot of smartwatches to recognize a
-
 substantial amount of revenues, and it won't be helped by the holiday shopping
-
 season since the watch will not hit shelves until 2015.
 
-
-
 The most optimistic forecast for watch sales that arrived ahead of the debut --
-
 Morgan Stanley analyst Katy Huberty's prediction that Apple would sell up to 60
-
 million smartwatches in the first year -- would add more than 10 percent to
-
 Apple's revenue total, but that's a very tall order. Bloomberg News points out
-
 that only 2.8 million smartwatches were sold in 2013, along with 13.6 million
-
 fitness-tracking devices.
 
-
-
 "If you believe in having a screen on your wrist, then this is the way to do it,
-
 but the question is whether this is something people want," Andreessen Horowitz
-
 partner Benedict Evans told Bloomberg.
 
-
-
 However, the Apple Watch as well as Apple Pay could be helped by Apple's big
-
 moneymaker, the iPhone, which makes up the majority of Apple sales and profits.
-
 Apple introduced two larger iPhones on Tuesday, the iPhone 6 and iPhone 6 Plus,
-
 with the latter phone of the "phablet" variety, offering a 5.5-inch screen
-
 between the typical dimensions of smartphones and tablets.
 
-
-
 The larger screen is an important feature for Apple's growth in Asia, where the
-
 phablet form factor has been extremely popular. Research firm IDC reported last
-
 week that phablets will surpass laptops in 2014 and tablets in 2015 in terms of
-
 shipment volume, underscoring the battle Apple is set to enter.
 
-
-
 "That's a slam dunk," TECHnalysis Research analyst Bob O'Donnell told Mercury
-
 News reporter Julia Love. "Most of the people things are doing with their phones
-
 today really cry out for a larger screen."
 
-
-
 Along with the iPhone 6 and iPhone 6 Plus, Apple will continue to sell the
-
 iPhone 5S and 5C at reduced prices, giving it a wider range of sizes and price
-
 points that will be crucial as the company seeks further sales growth.
 
-
-
 In return, iPhone adoption could lead to greater adoption of the new offerings
-
 Apple introduced Tuesday.
 
-
-
 "The iPhone acts as a critical bridgehead to acquire new customers, and as a
-
 foundation for new ventures such as Apple Watch and Apple Pay," IHS analyst Ian
-
 Fogg noted in an email Tuesday. "The more new customers Apple can win with the
-
 iPhone 6, the greater the chance of success the company will have with Apple
-
 Watch and Apple Pay."
 
-
-
 Apple's stock fluctuated wildly during the event, though the general pattern
-
 told the story: prices went higher while the iPhone was being discussed, then
-
 fell when the Apple Watch made its debut. In the end, Apple topped $103 in
-
 intraday trading but ended with a 0.4 percent decline at $97.99.
-
-
 
 SV150 market report: Wall Street falls as Intel pitches its future
 
-
-
 Apple's struggles contributed to a tough day on Wall Street, especially for
-
 Silicon Valley tech stocks, which were also brought down by Intel and Google.
 
-
-
 Intel couldn't find a boost despite showing off it next round of advances in a
-
 Tuesday event at its Santa Clara headquarters. The chipmaker's annual event for
-
 software developers focused mostly on Intel's attempts to break into wearables
-
 and the so-called Internet of Things, while also including an ultrathin tablet
-
 and wireless-charging technology. "My biggest take-away (was) just how serious
-
 Intel is about mobility and the Internet of Things," analyst Patrick Moorhead
-
 told the Mercury News. Intel shares fell 1.2 percent to $34.91 on the day.
 
-
-
 Google continued to deal with issues in Europe, as the Mountain View search
-
 giant's antitrust deal seemingly fell apart and former CEO Eric Schmidt looked
-
 for clarification on the "Right to be Forgotten"; Google declined 1.6 percent to
-
 $591.97 on the day. Twitter fell 2.7 percent to $50.61 while facing threats from
-
 a terrorist organization, and rival Facebook dropped 1.6 percent from all-time
-
 highs to close at $76.67. As Apple broke into PayPal's payments territory,
-
 parent company eBay sank 2.8 percent to $52.73. The Bay Area's merger market
-
 stayed hot, with eBates getting $1 billion from Rakuten a day after Berkeley
-
 organic foods company Annie's agreed to be purchased for $820 million. After the
-
 bell, Palo Alto Networks released its earnings, showing a quarterly loss of
-
 $32.1 million or 41 cents a share, on sales of $178.2 million, exhibiting
-
 year-over-year revenue growth of 59 percent; shares gained to nearly $93 in late
-
 trading after closing with a 0.8 percent decline at $89.28.
-
-
 
 Up: GoPro, VMware, Symantec, SanDisk, Oracle
 
-
-
 Down: SunPower, Workday, eBay, Twitter, Yahoo, Zynga, Pandora, SolarCity, Yelp,
-
 Google, Facebook, EA
 
-
-
 The SV150 index of Silicon Valley's largest tech companies: Down 13.7, or 0.84
-
 percent, to 1609.6
-
-
 
 The tech-heavy Nasdaq composite index: Down 40, or 0.87 percent, to 4,552.29
 
-
-
 The blue chip Dow Jones industrial average: Down 97.55, or 0.57 percent, to
-
 17,013.87
 
-
-
 And the widely watched Standard & Poor's 500 index: Down 13.1, or 0.65 percent,
-
 to 1,988.44
 
-
-
 Sign up for the 60-Second Business Break newsletter at www.siliconvalley.com .
-
 Contact Jeremy C. Owens at 408-920-5876; follow him at Twitter.com/jowens510 .
-
-
-
-LOAD-DATE: September 10, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                     Copyright 2014 Contra Costa Newspapers
-
-                              All Rights Reserved
-
-
-
-
 

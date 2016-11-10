@@ -1,210 +1,84 @@
-                              759 of 997 DOCUMENTS
-
-
-
-
-
-                                Sramanamitra.com
-
-
-
-                     November 2, 2016 Wednesday 6:30 AM EST
-
-
-
-Alphabet Gears Up to Give Amazon's AWS a Tough Fight
-
-
-
-LENGTH: 791  words
-
-
-
 
 
 After capturing the search market, Alphabet (Nasdaq: GOOG) now appears to have
-
 set its eyes on the cloud services market. While rival Amazon may be the market
-
 leader, Alphabet appears to be focused on eating into its market share.
-
-
 
 Alphabet's Financials
 
-
-
 Alphabet's third quarter adjusted revenues grew 20% over the year to $22.45
-
 billion, ahead of the Street's forecast of $22 billion. On a constant currency
-
 basis, revenues would have recorded a 23% growth over the year. EPS of $9.06 was
-
 also better than analyst estimate of $8.60 for the quarter.
 
-
-
 By segment, revenues from advertising grew 18% to $19.82 billion driven by a 23%
-
 growth in revenues from Google's websites. Google's websites revenues came in at
-
 $16.09 billion and revenues from its Member's websites grew 1% to $3.73 billion.
-
 Other revenues grew 39% over the year to $2.43 billion. Google's moonshot
-
 segment, referred to as Other Bets, saw revenues grow 40% over the quarter to
-
 $197 million. The losses in the segment appear to be slowing down. A quarter
-
 ago, Google had reported losses of $980 million in the segment compared with net
-
 losses of $865 million in the reported quarter.
 
-
-
 Among operating metrics, aggregate paid clicks grew 33% over the year and 9%
-
 sequentially. Paid clicks grew 42% over the year on Google websites and 1% over
-
 the year on member's websites. Aggregate cost per click fell 11%. It recorded a
-
 13% drop on Google's own sites and a 14% drop on member's websites.
-
-
 
 Last month, Alphabet announced plans to buy back more than $7 billion of shares.
 
-
-
 Alphabet Improves Cloud Focus
 
-
-
 During the last quarter, other revenues for Alphabet grew by 39% over the year
-
 primarily due to the increased adoption of its Cloud business. According to
-
 Gartner, the global cloud services market is estimated to be worth $208.6
-
 billion this year. Amazon is the market leader in the space with 31% share.
-
 Alphabet came in a distant fourth with 4% market share. But Alphabet is working
-
 hard to change that. Earlier this year, Alphabet earned a major victory when
-
 Apple became its customer for the cloud offering.
 
-
-
 To improve its cloud services, Alphabet began first through a reorganization to
-
 set up a separate cloud division to support its entire gamut of cloud offerings,
-
 including products for both consumers and enterprise customers. As one of its
-
 first steps, the group is rebranding its cloud-based productivity toolkit to "G
-
 Suite" and also adding machine learning features that will simplify navigation.
-
 It is also investing in infrastructure. Besides spending on undersea cables,
-
 Alphabet is opening eight new data centers around the world to make its services
-
 more accessible.
 
-
-
 Some of the recently added features introduced in Google's Cloud capabilities
-
 include an enhanced media conference experience in Google Hangouts that has a
-
 better user interface, instant screen sharing, and support for as many as 50
-
 participants. Google has also integrated it seamlessly with the Calendar.
-
 Alphabet also upgraded Google BigQuery, its fully managed data analytics
-
 warehouse, and made Google Cloud Machine Learning available in beta to help
-
 businesses train quality machine learning models.
 
-
-
 Machine learning is proving to be a big advantage for Google Cloud, as it is
-
 able to drive improvements within the enterprise customers. Recently, the
-
 service was leveraged by Ocado, a leading online-only grocery retailer which is
-
 deploying machine learning in its support center organization to categorize and
-
 prioritize customer emails to improve the speed of response.
 
-
-
 It will still be a long battle for Alphabet to overtake Amazon's massive lead.
-
 For now though, it appears to be taking the right steps.
-
-
 
 Alphabet's Assistant
 
-
-
 Additionally, Alphabet continues to enhance and build new offerings focused on
-
 consumer products. Recently it released Google Assistant integrated in its
-
 products like the Pixel, Google Home, and Allo. Google Assistant is a voice
-
 enabled service that allows a user to type or talk with Google in a natural
-
 conversational way to help get things done regardless of the device they are
-
 using. It was first introduced in its smart messaging app Allo. Alphabet allows
-
 you to add Assistant to a group conversation to help users and their friends
-
 decide where to go for dinner. Assistant is also core to the Pixel phone and
-
 Google Home. Within Google Home, Assistant allows users to do basic stuff like
-
 casting a song on a device or turning on lights. Within its Pixel users can use
-
 the Assistant to send a text to a contact or pull up pictures of a subject in
-
 Google Photos.
 
-
-
 Alphabet's stock is currently trading at $775.50 with a market capitalization of
-
 $540 billion. It touched a record high of $816.68 last month. It had fallen to a
-
 52-week low of $663.06 in February this year.
-
-
-
-LOAD-DATE: November 3, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-          Copyright 2016 Sramanamitra.com, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

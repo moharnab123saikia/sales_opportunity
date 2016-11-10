@@ -1,110 +1,32 @@
-                              359 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           October 18, 2014 Saturday
-
-
-
-US Patent granted to Google Inc. (California) on October 14 titled as "Methods
-
-and systems for removal of rolling shutter effects"
-
-
-
-LENGTH: 258  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,860,825, on
-
 October 14, 2014, to Google Inc. (California), titled as "Methods and systems
-
 for removal of rolling shutter effects"
 
-
-
 Inventors: Grundmann; Matthias (Atlanta, GA), Kwatra; Vivek (Santa Clara, CA),
-
 Essa; Irfan (Atlanta, GA)
-
 Assignee: Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Methods and systems for rolling shutter removal are described. A computing
-
 device may be configured to determine, in a frame of a video, distinguishable
-
 features. The frame may include sets of pixels captured asynchronously. The
-
 computing device may be configured to determine for a pixel representing a
-
 feature in the frame, a corresponding pixel representing the feature in a
-
 consecutive frame; and determine, for a set of pixels including the pixel in the
-
 frame, a projective transform that may represent motion of the camera. The
-
 computing device may be configured to determine, for the set of pixels in the
-
 frame, a mixture transform based on a combination of the projective transform
-
 and respective projective transforms determined for other sets of pixels.
-
 Accordingly, the computing device may be configured to estimate a motion path of
-
 the camera to account for distortion associated with the asynchronous capturing
-
 of the sets of pixels."
-
-
 
 The patent was filed on September 12, 2012 Application no. 13/611,023
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: October 18, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

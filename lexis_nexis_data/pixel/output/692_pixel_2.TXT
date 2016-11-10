@@ -1,252 +1,101 @@
-                              692 of 997 DOCUMENTS
-
-
-
-
-
-                            The Times of India (TOI)
-
-
-
-                             July 28, 2015 Tuesday
-
-
-
-Lava pixel V1 first impressions
-
-
-
-BYLINE: Komal Mohan
-
-
-
-SECTION: MOBILES
-
-
-
-LENGTH: 738 words
-
-
-
 
 
 NEW DELHI: When Google announced its Android One initiative last year, it was
-
 expected to be a game-changer that would democratize the smartphone market.
-
 However, the programme failed to take off as the likes of Motorola, Xiaomi and
-
 Micromax offered handsets with similar or better features at approximately the
-
 same price.
 
-
-
 Now, Google is giving Android One a reboot in the country, with Lava launching
-
 the first of these smartphones. We go hands-on with the new Lava pixel V1
-
 Android One phone, which is priced at Rs 11,349 and exclusively available on
-
 Flipkart, to see where it stands in the ultra-competitive segment...
-
-
 
 Design
 
-
-
 The first thing you will notice about Lava's first Android One smartphone is the
-
 increase in screen size: while the first-generation Android One models have
-
 4.5-inch displays, the new model sports a much-bigger 5.5-inch screen. The
-
 display of Lava pixel V1 sports HD (720p) resolution, is protected by Asahi
-
 Dragon Trail Glass, and is surrounded by thin bezels.
 
-
-
 The build of Lava pixel V1 is predominantly plastic, with only the frame around
-
 the sides, the Volume and Power buttons and the ring around the camera made of
-
 metal. The back panel sports metallic finish, but is actually made of plastic.
 
-
-
 Lava pixel V1 features rounded edges that make it easy to handle, while its
-
 metallic frame give it a solid feel. The smartphone comes without any hardware
-
 capacitive keys for navigation. The front panel also features an 8MP camera
-
 along with the usual sensor array and speaker grille.
 
-
-
 The metallic keys for volume control and power are located at the right edge and
-
 offer good tactile feedback. The 3.5mm headset and micro-USB port jack sit at
-
 the top.
 
-
-
 The metallic-finish plastic back cover sports the Lava logo in the middle and
-
 Android One branding at the bottom. The back also has the protruding 13MP rear
-
 camera on the left corner and the and loudspeaker grille just below the Android
-
 One logo.
 
-
-
 The back cover hides two micro-sim slots (one mini-sim and the other micro-sim),
-
 a microSD card and a removable 2,560Ah battery.
-
-
 
 Display
 
-
-
 The display offers good viewing angles and the colours tend to be on the warmer
-
 side and the white balance is very much off the mark and has a pinkinsh tinge to
-
 it. Though the display panel is quite reflective, Lava pixel V1 manages to
-
 deliver decent sunlight legibility at full brightness. However, we found the
-
 screen to be a little prone to smudges.
-
-
 
 Hardware and software
 
-
-
 In terms of hardware, Lava pixel V1 smartphone packs a 1.3GHz quad-core Mediatek
-
 MT6582 processor, which was launched in 2013. This is a pretty old chipset
-
 compared to the 2014- and 2015-processors offered by Lenovo, Xiaomi and other
-
 main rivals.
 
-
-
 The chipset is backed by 2GB RAM and 32GB of internal storage, of which over
-
 25GB is available to users. For additional storage, users can slip in microSD
-
 cards of up to 32GB capacity.
 
-
-
 The new Android One smartphone is powered by a 2,600mAh battery that should last
-
 about one day, though we have not had sufficient time to use the handset in
-
 order to verify this expectation.
 
-
-
 At a time when India is at the cusp of 4G proliferation, Lava pixel V1 is
-
 limited to 3G networks. This may be a deal-breaker for many, considering most of
-
 its rivals support India's 4G bands.
-
-
 
 Software
 
-
-
 Like the Android One phones before it, the new Lava pixel V1 runs on stock
-
 Android 5.1 (Lollipop) software. However, it comes with two pre-loaded apps --
-
 Flipkart and Myntra -- that cannot be uninstalled.
 
-
-
 While we did not experience any lag, stutter or heating issues in our brief use,
-
 we'll have a detailed review of the phone's performance very soon.
-
-
 
 Camera
 
-
-
 Lava pixel V1 comes with a 13MP rear camera and (f2.0 aperture, capable of 1080p
-
 video capture) with LED flash and a 8MP front camera (f2.4 aperture and 4P lens)
 
-
-
 In our short time with the phone, we did not observe any shutter lag and found
-
 that the camera takes decent pictures even in low light. We'll have a detailed
-
 look at the camera in our full review.
-
-
 
 The competition
 
-
-
 At Rs 11,349, Lava pixel V1 rivals Lenovo K3 Note, Asus Zenfone 2 and Xiaomi Mi
-
 4i; the upcoming Moto G (Gen 3) is also expected to cost approximately the same.
-
 We'll have a detailed review of the latest Android One phone soon to find out if
-
 it has the potential to become the undisputed leader of the budget segment and a
-
 better buy than the competition.
-
-
 
 Follow TOI Tech on Twitter >>>
 
-
-
 Like TOI Tech on Facebook >>>
 
-
-
 For Reprint Rights: timescontent.com
-
-
-
-LOAD-DATE: July 27, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2015 Bennett Coleman & Co. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

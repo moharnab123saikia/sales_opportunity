@@ -1,582 +1,267 @@
-                              759 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                              May 24, 2013, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending May 24;
-
-iPhone delays derail 4G rollouts, flexible Gorillas, rainbow phone
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 2412 words
-
-
-
 
 
 One of the iOSphere's enduring myths is that one or another component or
-
 production screwup has repeatedly delayed mostiPhones, including the iPhone 5S
-
 or 6 or whatever.
 
-
-
 The latest iteration of this myth is that some screwup with the alleged Next
-
 iPhone's fingerprint sensor, itself another unconfirmed feature, delayed the
-
 phone's release, causing British mobile carrier Vodafone to upend its 4G network
-
 rollout and postpone it until the end of summer. As is often the case, there is
-
 less to this than meets the eye.
 
-
-
 [ MORE SCUTTLEBUTT: iPad 5 rumor rollup for the week ending May 23 ] Also this
-
 week: expect flexible Gorilla Glass screens on the next iPhones; you'll know
-
 it's a cheap iPhone by its colors; and new fan art reveals what impressive new
-
 specs for the Next iPhone might look like if the Next iPhone looked like what a
-
 guy with Adobe Photoshop thinks it will look like.
-
-
 
 You read it here second.
 
-
-
 __________ ___________ Britain's Vodafone has decided to delay the introduction
-
 of its 4G/LTE network -- originally planned for June -- because Apple has run
-
 into manufacturing delays and postponed the release of the iPhone 5S.
 
-
-
 That's the theory anyway of a post at The Telegraph headlined "Vodafone delays
-
 4G network until late summer for iPhone 5S" by Christopher Williams.
-
-
 
 As is often the case with The Telegraph, the details are sketchy.
 
-
-
 "The operator had originally planned to switch on superfast mobile broadband in
-
 cities in June, but said on Tuesday it would wait until August or September,"
-
 Williams writes, in a posting whose confusing randomness seems to be the result
-
 of copying-and-pasting under deadline pressure to get something online in 15
-
 minutes.
 
-
-
 According to Williams, "The Silicon Valley giant [meaning Apple] had been
-
 expected to introduce an updated version, the iPhone 5S, that will work at the
-
 new frequencies in June, but it was reported last month it had been pushed back
-
 because of manufacturing delays." Yet he offers not a shred of evidence, not
-
 even a link to rumor sites, to support this assertion.
 
-
-
 (Pocket-lint, another U.K. tech website, gives a more specific but no less
-
 confusing explanation for the iPhone 5S "delay": "a Vodafone-compatible iPhone
-
 was expected for this summer until rumours of fingerprint sensor issues
-
 allegedly stalled Apple's release." On its face, Pocket-lint is saying that the
-
 rumors stalled the release, but apparently intended to say that Apple delayed
-
 announcing the phone because it ran into some kind of problem with the phone's
-
 fingerprint sensor, yet another long-rumored feature.) "Sources confirmed the
-
 delay to the iPhone 5S had been a factor in Vodafone's decision to delay 4G,"
-
 Williams continues, again without any indication as to who or what the sources
-
 are.
 
-
-
 A bit later, he adds this: "'End of the summer means when there's going to be a
-
 good commercial moment for launching 4G,' said Mr Colao."
 
-
-
 The uninitiated may wonder who the mysterious "Mr Colao" is and why he's talking
-
 about Vodafone. You won't learn that from Williams' story.
 
-
-
 Mr. Colao is Vittorio Colao, the Italian who is CEO of Vodafone Group Plc, the
-
 British multinational telecommunications company.
 
-
-
 Vodafone holds a 45% stake in Verizon Wireless, the subsidiary it created with
-
 Verizon Communications, which is currently enticing or pressuring Colao to sell
-
 back its stake in the wireless carrier.
 
-
-
 As this Reuters story makes clear, Tuesday was the day Colao announced the
-
 company's full-year financial results, and then talked with reporters about a
-
 wide range of issues. Reuters focused on financial and business questions in its
-
 story.
 
-
-
 Other news organizations focused on Colao's comments about Vodafone's 4G/LTE
-
 network plans, such as The Guardian's Juliette Garside, whose posting gives the
-
 details and context missing from Williams' post.
 
-
-
 "Having spent £790m on 4G spectrum at a government auction in February, Vodafone
-
 had been expected to launch this month or next," Garside writes. "But it would
-
 have done so without the world's best-selling smartphone."
 
-
-
 Currently, only the mobile operator EE offers a British 4G cellular network, and
-
 is the only operator to carry the iPhone 5. Rivals Vodafone and O2 plan to run
-
 4G on different frequencies, currently not yet supported by Apple.
 
-
-
 She quotes Colao at length, revealing more clearly the context and the meaning
-
 of his comments. "'We are convinced our own 4G will be better performing,' said
-
 Vodafone's chief executive, Vittorio Colao. 'We want to be able to launch it
-
 when it's really ready. End of the summer means when there is going to be a good
-
 commercial window for launching it.'" Colao pretty obviously, and reasonably, is
-
 saying that Vodafone wants to make sure the 4G network is solid; that "end of
-
 summer" gives them the time to ensure that; and that end of summer coincides
-
 with a "good commercial window" which certainly could be a reference to the
-
 expected time frame of Apple's Next iPhone announcement. Perhaps because Colao
-
 was paying attention last month when Apple CEO Tim Cook clearly stated, at his
-
 company's quarterly earnings call, that "Our teams are hard at work on some
-
 amazing new hardware, software, and services that we can't wait to introduce
-
 this fall and throughout 2014 [emphasis added]."
 
-
-
 [ DETAILS: Apple's Cook resets 3 popular, and wrong, Apple rumors ]
-
 International Business Times' Erik Pineda seems to have made this rumor up on
-
 his own. At bottom, the idea that the Next iPhone probably will use a cover
-
 glass from the same manufacturer that's been supplying glass for previous
-
 iPhones can hardly be considered a revelation.
 
-
-
 It's the word "flexible" that suggests something new. But IBT is simply
-
 deceptive. The headline to the post is "iPhone 6, iPhone 5S Will Have Flexible
-
 Screens Made of Corning Gorilla Glass on Release Date?"
 
-
-
 But Pineda's opening sentence to his post casts a different meaning on the word:
-
 "Tough as the robust gorilla but flexible enough to suit any screen size and
-
 designs, that is the next screen material geared for the upcoming iPhone 6 and
-
 iPhone 5S, courtesy of device screen maker Corning."
 
-
-
 So what Pineda means to say is that Corning's Gorilla Glass is adaptable to
-
 different form factors and screen designs, not that you can bend it or fold it.
 
-
-
 Pineda bases his post on what he says is an "interview" by a Corning executive,
-
 Jeffrey Evenson, with MacRumors. Pineda doesn't bother to link to the MacRumors
-
 report but here it is, by Eric Slivka.
 
-
-
 But there is no interview. Slivka is simply summarizing a "feature" published by
-
 Corning on its website. The feature, which Corning actually classifies as a
-
 "news feature," is nothing more than a press release, a Q&A, and four videos
-
 that show Corning's latest offering, Gorilla Glass 3, being subjected to
-
 different tests.
-
-
 
 Neither Slivka, nor Corning, mention iPhone 5S or iPhone 6.
 
-
-
 Corning's point is that "sapphire glass," which the Q&A explains is not actually
-
 a glass but a "crystalline material that can be manufactured by applying high
-
 heat and other demanding conditions to purified aluminum oxide," is harder and
-
 therefore more resistant to scratching than Gorilla Glass. Apple uses sapphire
-
 as the cover to its iPhone 5 and fifth-generation iPad touch rear camera lens;
-
 some watchmakers have used it as the cover glass for wrist watches.
 
-
-
 But sapphire suffers from a range of process requirements and other
-
 characteristics that, in Corning's view, make it both costly and unsuitable for
-
 use as the cover material for a smartphone screen.
 
-
-
 Not surprisingly, the company touts the virtues of the newest Gorilla Glass,
-
 which offers "significantly improved scratch resistance and greater toughness.
-
 We achieved these benefits by re-engineering the atomic structure of the glass
-
 so if the glass does scratch, it retains its strength." And, of course, it's
-
 lighter, less brittle, allows more light through, and is much cheaper to
-
 manufacture than sapphire.
 
-
-
 It was less food for thought than fuel for flaming, judging from the comments to
-
 Slivka's post.
 
-
-
 "OMG those cheaters/imposters/fools!" ranted randfee2. "Applying pressure is NOT
-
 A VIABLE TEST OF WEAR ENDURANCE!!!"
 
-
-
 "This is ridiculous and surely done on purpose," he continued. "Any engineer or
-
 scientist knows, that the hardest materials are more brittle! If you put a 1mm
-
 steel plate against their gorilla glass it'll surely withstand WAY more pressure
-
 than 200 pounds, yet it scratches rather easily. The purpose of using sapphire
-
 is to keep the surface scratch free. There is no way their glass can be as good
-
 as sapphire. So especially for a camera cover glass sapphire is the best you can
-
 get (besides diamond coating). I hate companies that think I'm stupid.... screw
-
 them!"
 
-
-
 Yet if one actually reads Corning's information, the company never says Gorilla
-
 Glass 3 is as good as sapphire for resisting scratches, only that Corning has
-
 "significantly" improved the material's scratch resistance.
 
-
-
 The Japanese Apple fan site Macotakara announced in a blog post based on
-
 information from "several sources," otherwise not identified: "I have 2
-
 information about color variation of cheaper iPhone from several sources. The
-
 first set is Navy, Gold Orange, White and Gray, and 2nd is White, Pink, Green,
-
 Blue and Yellow-orange. I can say one thing from these information, namely both
-
 sets do not contain Black model."
 
-
-
 If the word "black" isn't in either list, then that probably almost certainly
-
 means that it's highly likely that "black" is not one of the colors.
 
-
-
 The website's post sustains the long-running rumor that Apple is preparing to
-
 create a less expensive phone. And we'll know that it's the cheap phone, because
-
 it will be colorful. Nothing says "Look at me, I'm cheap" quite like
-
 yellow-orange plastic.
 
-
-
 And the colorful iPhone is slated for production. "The source told me that
-
 cheaper iPhone will be produced 1,000 units for field test from June, and will
-
 be produced during July September for shipping."
 
-
-
 There's even a tidbit about the iPhone 5S. "And I got another information about
-
 iPhone 5S, which will be placed as flag-ship model when cheaper iPhone was
-
 shipped, will have dual-LED flash, and will be changed shape of mic-hole to be
-
 shaped as circle which is placed between iSight camera and flash."
 
-
-
 At AppleInsider, the staff made a connection that would be beyond the ken of
-
 mere mortals. "The latest rumors could be supported by images that surfaced
-
 online last week showing multi-colored SIM trays alleged to be for a
-
 next-generation iPhone," the story announced. Multi-colored in this case means
-
 ... two colors: "one with a greyish hue, and another that appeared to be either
-
 golden or beige." Or maybe yellow-orange. Maybe Apple is reaching for an
-
 understated color contrast fashion statement, pairing the greyish hue with the
-
 white, pink and gold-orange/yellow-orange, with the golden or beige SIM tray
-
 with the blue and green and possibly grey phones.
 
-
-
 AppleInsider reminded us that "Earlier this year, analyst Brian White of Topeka
-
 Capital Markets claimed he was told by supply chain sources that Apple planned
-
 to release an 'iPhone 5S' in a total of eight colors later this year." Which
-
 raises more questions than it answers. Are the cheap iPhone and iPhone 5S one
-
 and the same? Or if separate, just colors will they have?
 
-
-
 Will they be different enough to preserve the cheap-expensive distinction or
-
 will the colors blur the differences between the phone?
 
-
-
 At MacRumors, Juli Clover interpreted the somewhat ambiguous Macotakara
-
 schedule. "According to Makotakara [sic], the low cost iPhone will begin a field
-
 test production in June, which will be followed up by wide ranging production in
-
 July to accommodate a September launch," she writes. "This launch date is a bit
-
 confusing, as Macotakara previously said that the low cost iPhone would ship in
-
 2014."
-
-
 
 A great deal regarding the Next iPhone is a bit confusing.
 
-
-
 A year ago, Tim Cook told interviewers, "We're going to double down on secrecy
-
 on products." Four months after that, on the day Apple announced iPhone 5,
-
 Business Insider's Jay Yarrow crowed that "Apple Delivered No Surprises Today
-
 Whatsoever."  "It's time for people to stop calling Apple one of the most
-
 secretive companies in the world," Yarrow declared. "It seems to have no product
-
 secrets anymore."
 
-
-
 Eight months later, Yarrow's confidence may have been premature. Very little
-
 credible information has emerged about the Next iPhone, even what it will be
-
 called, though now the Consensus Rumor is that Apple will announced "iPhone 5S"
-
 in fall 2013, and "iPhone 6" in 2014. There's widespread belief but no real
-
 evidence beyond anonymous sources in the supply chain that Apple also will
-
 deliver a "cheap iPhone" aimed at emerging markets overseas.
 
-
-
 So some in the iOSphere are left "reporting" on fan art. Exhibit A, chosen more
-
 or less at random, is a GottaBeMobile blog post this week by its editor Josh
-
 Smith. The website is about "mobile news and reviews."
 
-
-
 The definition of both terms apparently is pretty elastic. Smith's post is about
-
 a newly posted "concept video" -- otherwise known as fan art -- that reveals, he
-
 assures us, "impressive new specs and possible iPhone 6 features."
 
-
-
 And there's more. "While we don't expect an iPhone 6 until next year, this
-
 concept ties together some of the latest iPhone 6 rumors into a two-minute video
-
 overview," Smith says. Isn't that convenient? Everything in one place: specs,
-
 features and rumors.
 
-
-
 Or as CultOfMac's Buster Heine put it in his promotional post, "With WWDC less
-
 than a month away, we've seen a ton of designers come out with their visions for
-
 what iOS 7 might look like, but the next iPhone has been ignored." Alas, no
-
 longer.
 
-
-
 And what do we find? "This iPhone 6 concept includes a Full HD display, a new
-
 look, water and dust resistant coatings, a notification LED, improved camera,
-
 wireless charging and a touch sensitive volume button," Smith deftly summarizes,
-
 as if he was describing a real product at an exclusive one-on-one meeting with
-
 Apple's marketing guru Phil Schiller.
 
-
-
 "In the video we get a look at an iPhone 6 concept that is not very much like
-
 the iPhone 5 or earlier iPhone models," Smith says. We are totally there, man:
-
 It's Radical.
 
-
-
 But Smith ends on a down note. "While we do expect Apple will roll out a new
-
 design in the iPhone 6, the way the black part of the bezel remains raised over
-
 the metal iPhone 6 body doesn't look very much like something we would see come
-
 out of the labs at Apple."
 
-
-
 John Cox covers wireless networking and mobile computing for Network World.
-
 Twitter: @johnwcoxnww Email: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: May 27, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

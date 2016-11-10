@@ -1,210 +1,83 @@
-                              144 of 820 DOCUMENTS
-
-
-
-
-
-
-
-                                 Business Line
-
-
-
-                             June 2, 2016 Thursday
-
-
-
-The modular smartphone is here
-
-
-
-LENGTH: 891  words
-
-
 
 DATELINE: New Delhi
 
 
-
-
-
 New Delhi, June 2 -- You probably wouldn't be able to tell at first glance, but
-
 LG's new flagship smartphone, the G5 represents the most significant advancement
-
 in smartphone design in almost a decade. During this period, processors have
-
 gotten faster and more efficient, interfaces have gotten slicker and the app
-
 ecosystem on the two major platforms has exploded in a way few would have
-
 foreseen. But the sealed rectangular slab form factor that the original iPhone
-
 turned into a gold standard has seen little improvement since 2007. LG has taken
-
 that slab and hollowed it out to enable the addition of external modules that
-
 could add extra functionality to the device. Whether this is the beginning of
-
 the modular smartphone revolution we've been promised or just another false
-
 dawn, remains to be seen.
 
 
-
-
-
  The G5 looks pretty much like every other smartphone in the market these days.
-
 There's a 5.3-inch Quad HD LCD that occupies most of the front surface. The rear
-
 features the unlock button integrated in classic LG style, now with an
-
 integrated fingerprint sensor.
-
  The volume buttons are back on the left edge and the right side features a
-
 hybrid dual SIM / microSD tray. The all-metal construction does elevate its
-
 premium quotient and the dual camera setup at the back will definitely draw
-
 attention, but beyond that it is hard to differentiate it from any other
-
 Android-powered rectangular slab. Until you find an unobtrusive little button at
-
 the bottom of its left edge.
-
  Pressing it ejects the chin of the handset, along with the battery. You can
-
 then opt to fill the hole in the device with a module of your choice. For
-
 instance, the Cam Plus module made by LG, which adds a hand-grip like you'd see
-
 on a DSLR with integrated shutter and record buttons, a zoom wheel and 1200 mAh
-
 of extra battery capacity. LG has a couple of other modules on offer and is
-
 opening up the specifications for third-party developers to build their own, but
-
 unfortunately we haven't been able to get our hands on any of them.
-
  The flagship phone demands a flagship processor and with the thermal throttling
-
 issues of the Qualcomm's previous generation headliner relegated to the stuff of
-
 bad dreams, the Snapdragon 820 will be the default pick for all manufacturers in
-
 the premium space. The G5 is no exception, pairing four Kryo processor cores
-
 with Adreno 530 graphics, 4 GB of RAM and 32 GB of internal storage.
-
  The only real competition for any phone equipped with an 820 chipset is another
-
 phone with the same chipset and for those that couldn't care less about the
-
 benchmarks, suffice it to know that in any configuration, it passes the tests
-
 that matter with flying colours - multitasking fluidly, never stuttering or
-
 hanging and running any app or game you can throw at it with consummate ease.
-
  The LCD display is extremely bright, pixel-dense and offers fantastic viewing
-
 angles. There is only a single speaker at the bottom but it does get pretty
-
 loud. The fingerprint sensor on the G5 is quite accurate and extremely quick.
-
 However, getting used to the unlock button being on the rear takes a bit of time
-
 and practise.
-
  The G5's achilles heel is its battery. 2800 mAh is toeing the extreme low-end
-
 of acceptable battery capacity, but once you throw in the fact that this handset
-
 has an always-on display, you basically have a phone that's going to be
-
 constantly crying out for a plugpoint. In our testing, which constitutes fairly
-
 heavy usage involving constant push notifications, streaming music, gaming and
-
 browsing with brightness set to auto, we did not make it through a single day
-
 without requiring a top up.
-
  The dual camera setup on the rear is one of the highlights of the G5. Unlike
-
 previous implementations we've seen, the two lenses don't work together to
-
 produce a better image but offer different capabilities instead. The primary 16
-
 MP sensor is unaltered from the previous-generation G4 - which offered excellent
-
 detail, fast-focusing and good low-light performance. It continues to deliver
-
 similar performance, which is great, but unfortunately short of the new
-
 benchmark set by Samsung's excellent Galaxy S7. The new 8 MP sensor is paired
-
 with a fisheye lens with a much wider field of view. Obviously, the quality of
-
 the photos produced by this lens is significantly lower, but it is very useful
-
 when trying to frame landscapes or large groups of people.
-
  LG's camera software is top-notch, offering all the features you'd expect
-
 without cluttering the screen with unnecessary visual elements. It also offers a
-
 few interesting options to combine the results of the two lenses.
-
  The G5's modular design is inevitably going to be compared with Google's
-
 Project Ara platform. While the latter is much more ambitious, LG can claim
-
 credit for getting out the door with a device first.
-
  However, the point of a modular design is defeated without an ecosystem of
-
 modules and it is hard to see third party developers being interested in
-
 building such addons for a single device. Until then, the G5 has to be judged on
-
 the merits of what is in the tin and that is a well built, capable smartphone
-
 with a unique camera setup and a weak battery. And that package is not good
-
 enough to challenge Samsung's Galaxy S7.
-
  However, if the modules do start to materialise, all bets are off.
-
  Price: [#x20b9]52,990
-
  Love: Performance, Camera, Design
-
  Hate: Battery
-
-
-
-LOAD-DATE: June 2, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                    Copyright 2016 FFC Information Solution
-
-                              All Rights Reserved
-
-
-
-
 

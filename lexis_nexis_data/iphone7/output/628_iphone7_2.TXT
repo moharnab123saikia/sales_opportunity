@@ -1,0 +1,27 @@
+
+
+In a recent report, Bloomberg has revealed how the orders for LTE and Wi-Fi
+modems for Apple's iPhone 7 smartphones will be divided between Intel and
+Qualcomm.
+
+
+
+The Bloomberg report comes against the backdrop of multiple rumors that, while
+Qualcomm is the existing supplier of LTE and Wi-Fi modems for iPhones, a
+fraction of LTE and Wi-Fi modems for iPhone 7 will be supplied by Intel as well.
+
+
+According to the Bloomberg report, LTE and Wi-Fi modems for iPhone 7 models for
+AT&T will be supplied by Intel. In addition, Intel modems will also be used in
+some other iPhone 7 versions sold in other countries.
+
+On the other hand, the iPhone 7 models for Verizon will be equipped with LTE and
+Wi-Fi modems supplied by Qualcomm. Furthermore, Qualcomm modems will also be
+reserved for all the iPhone 7 models aimed at the Chinese market.
+
+Meanwhile, going by the rumors, the Intel modem which Apple will use in iPhone 7
+series will be the XMM 7360 LTE modem, with theoretical download and upload
+speeds of up to 450 Mbps and 100 Mbps respectively. The Qualcomm modem for
+iPhone 7 series will likely be the X12 modem, which will boast theoretical
+download and upload speeds of up to 600 Mbps and 150 Mbps respectively.
+

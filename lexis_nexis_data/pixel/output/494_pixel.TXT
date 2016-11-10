@@ -1,165 +1,57 @@
-                              494 of 997 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                           February 7, 2013, Thursday
-
-
-
-Leaked Chromebook video raises questions beginning with: Is it real?;
-
-A concept video of a high-end, touchscreen-equipped Chromebook prototype raises
-
-questions about Google's long-term plans -- and its own provenance
-
-
-
-BYLINE: Jon Gold
-
-
-
-LENGTH: 455 words
-
-
-
 
 
 The leak of what looks like an impressive, high-concept version of a Chromebook
-
 to the Internet at large has generateda lot of buzz, but there's plenty of
-
 debate over almost every aspect of it, including whether it's real or not.
 
-
-
 The video, which was leaked Wednesday in a Google Plus post -- by hackers,
-
 according to its producer -- showcases the Chromebook Pixel and claims it is a
-
 product of Google's own in-house design. The Pixel, ostensibly, features a
-
 touch-sensitive screen with a resolution of 2560x1700.
 
-
-
 The possibilities are interesting, to be sure -- but Computerworld blogger JR
-
 Raphael points out that there's a great deal about the leak that casts doubt on
-
 its veracity.
 
-
-
 For one thing, Raphael says, it seems unlikely that marketing firm Slinky.me --
-
 the ostensible source of the video -- would be hired by Google, given that its
-
 website is full of broken English.
 
-
-
 Additionally, he notes, CEO Victor Koch appears to have behaved rather strangely
-
 in the wake of the incident -- seemingly going out of his way to publicize it.
 
-
-
 If the video is real, though, this would be a technical coup for Google, and one
-
 that would be certain to make a big splash in the laptop market. However, there
-
 are a number of reasons the concept could easily stay on the drawing board.
 
-
-
 [ MORE GOOGLE: Another new release date for Galaxy S 4, but is Samsung battening
-
 down the hatches? ] IDC analyst Bob O'Donnell tells Network World that very few
-
 consumers have bought a Chromebook at all, and that making a high-end variant
-
 could prove counterproductive.
 
-
-
 "The people who bought it, bought it as a cheap notebook. High-resolution touch
-
 is not going to be cheap," says O'Donnell.
 
-
-
 "While [the Pixel] is interesting technologically, from a real market-acceptance
-
 perspective ... I think it would be a very tough sell."
 
-
-
 Forrester analyst Frank Gillett says that Google attempting to take the
-
 Chromebook concept up-market isn't the most far-fetched idea out there.
-
 Essentially, what a hypothetical Pixel would do -- and what Microsoft's Surface
-
 tablet has already done -- is test the waters on a more Apple-like business
-
 model, where the company is more closely involved in the hardware end of the
-
 product.
 
-
-
 "These rumors -- if they're true, we don't know -- they're a sign that Google is
-
 ... thinking about the role they want to play in PCs and not just mobile devices
-
 -- whether Chrome OS stays as sort of an interesting little aberration, or
-
 whether it turns into something pretty interesting," he says.
 
-
-
 Despite its questionable provenance, the video has nonetheless provoked
-
 widespread speculation about Google's future hardware plans, and what role the
-
 Chromebook is to play in them.
 
-
-
 Email Jon Gold at jgold@nww.com and follow him on Twitter at @NWWJonGold.
-
-
-
-
-
-
-
-
-
-LOAD-DATE: February 11, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
 
 
 

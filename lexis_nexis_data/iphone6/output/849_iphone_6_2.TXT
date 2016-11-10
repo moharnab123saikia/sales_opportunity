@@ -1,348 +1,150 @@
-                              849 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                            August 16, 2013, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending August 16;
-
-September 10, A7, Jimmy Lin, the meaning of flex cables
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1313 words
-
-
-
 
 
 As the days shorten, so does the iOSphere's patience. But we may only have to
-
 wait 25 days before our agony is over andthe Next iPhone(s) is revealed.
 
-
-
 Also this week: speculation about Apple's A7 processor powering the iPhone 5S or
-
 6, whatever. In brief: it's better; Jimmy Lin's revelation; and how to
-
 understand flex cables when you don't really understand them.
-
-
 
 You read it here second.
 
-
-
 ___________"This [photo of an iPhone home button flex cable] features a much
-
 longer [flex] connector to the motherboard than before that could mean that the
-
 button is being used to transmit data. With that in mind, it's not a massive
-
 stretch to imagine that the home button could indeed house the fingerprint
-
 scanner that tech-site rumours suggest will be on board the handset."
 
-
-
 ~ Jonathan Leggett, USwitch, demonstrating that in the absence of any real
-
 technical knowledge about smartphone components, all you need is a stretchable
-
 imagination to know what's happening.__________ iPhone 5S, 5C, or 6 or some
-
 combination, to be announced September 10 Tuesday, September 10 is the latest,
-
 and most specific, date embraced by the iOSphere for Apple's announcement of the
-
 Next iPhone, or iPhones. Depending on...well, your overall mental condition, you
-
 might be expecting the iPhone 5S, the lower-priced 5C, or both, or even the
-
 iPhone 6.
 
-
-
 The September 10 date was first revealed by Ina Fried, in a blog post at
-
 AllThingsD.
 
-
-
 It could have been a one-sentence post: "Apple is expected to unveil its next
-
 iPhone at a special event on Sept. 10, sources told AllThingsD." The rest is
-
 basically filler. Fried didn't say how many sources or identify them in any way.
 
-
-
 Veteran Apple watcher Jim Dalrymple, at his blog, The Loop, had a typically
-
 laconic response to Fried's claim: "Yep."
 
-
-
 In the past, the iPhone has been released one to two weeks after its
-
 announcement.
 
-
-
 Henceforth, the New iPhone will probably overshadow other historical events that
-
 took place on September 10, including: 422 - St Celestine I begins his reign as
-
 Catholic Pope; 1608 - John Smith elected president of Jamestown Virginia colony
-
 council; 1776 - George Washington asks for a spy volunteer, Nathan Hale
-
 volunteers; 1924 - Leopold & Loeb found guilty of murder; 2008 - the Large
-
 Hadron Collider at CERN, described as the biggest scientific experiment in
-
 history, is powered up in Geneva, Switzerland.
 
-
-
 Researching the iOSphere reveals a range of analyses that shed light on how and
-
 why Apple might price a lower-cost iPhone "5C." See "Pricing a low-cost iPhone:
-
 How 'cheap' is cheap?"  iPhone 5S will have an improved processor, the A7 This
-
 rumor has been kicking around since Apple announced the iPhone 5 last year with
-
 the A6 chip. This time, a stock analyst is adding expectations and speculation
-
 about what an "A7" chip will actually be like.
 
-
-
 The analyst is Ming-Chi Kuo, of KGI, who predicts that the upcoming iPhone 5S
-
 will have a new system-on-chip that will use ARM Ltd.'s latest instruction set,
-
 faster memory, and be 20% more "efficient" than the A6.
 
-
-
 Kuo's note to investors this week was picked by a range of tech sites, including
-
 AppleInsider.The A6 was the first Apple SOC to have Apple-designed custom cores,
-
 an architecture dubbed Swift, rather than using cores designed by ARM. From
-
 AppleInsider: "Kuo believes Apple's upcoming A-series silicon to be based on the
-
 latest ARMv8 architecture. In comparison, the A6 was built on a custom ARMv7
-
 setup that doubled number crunching and graphics speeds, while shrinking die
-
 size by 22 percent."
 
-
-
 He expects that the new SOC will include faster memory, LPDDR3 RAM, compared to
-
 the LPDDR2 in the A6. "The increased bandwidth will allow Apple to maintain a
-
 relatively small amount of dedicated memory" though "Kuo expects the A7 to carry
-
 the same 1GB of on-die RAM" as the A6.
 
-
-
 Currently Apple's chips are 32-bit. "Kuo notes that there is no clear evidence
-
 indicating whether the A7 will support 32-bit or 64-bit processes, but says he
-
 'would not be surprised' to see 64-bit support this year."
-
-
 
 Which is what stock analysts say instead of "I have no clue."
 
-
-
 iPhone 5S revealed by Jimmy Lin Unless you're a fan of '90's Taiwanese pop music
-
 or international car racing, or have a short memory, your reaction is probably
-
 the same as The Rollup's: who the heck is Jimmy Lin?
 
-
-
 He is, according to both CNET and the rather gushing Wikipedia entry, a
-
 Taiwanese singer, actor, professional race crr driver, and entrepreneur. But his
-
 real claim to fame for the iOSphere is that he gets his hands on Apple products
-
 before they're announced.
 
-
-
 Last September, shortly before the iPhone 5 announcement, he posted pictures of
-
 himself using the phone, and listed a range of its features.
 
-
-
 This week, CNET Asia found Lin's Weibo post that shows two photos of what appear
-
 to be a plastic "iPhone 5C."
 
-
-
 "If you have any doubts about the veracity of the iPhone 5C, well, put those
-
 doubts to rest," CNET's Aloysius Low confidently assured readers. "Former teen
-
 Mandopop idol and current race car driver Jimmy Lin has leaked it on the Chinese
-
 version of Twitter, Weibo.
 
-
-
 One photo has Lin holding up the phone, showing the back. Another compares the
-
 white plastic 5C with a white iPhone 5.
 
-
-
 The latter picture shows the plastic phone having, overall, the same size as the
-
 iPhone 5, possibly a bit thicker. The body has rounded edges rather than the
-
 flat metal banded sides of the most recent high-end phone models.
 
-
-
 There you have it: straight from a Taiwanese singer, actor, professional race
-
 car driver, and entrepreneur. And you can check one of his music videos.
 
-
-
 iPhone 5S/6 flex cables "hint at fingerprint scanner" As is often the case in
-
 the iOSphere, the headline promises more than the blogpost actually delivers.
 
-
-
 The headline at USwitch: "Exclusive: iPhone 5S / iPhone 6 flex cables leak, hint
-
 at fingerprint scanner."  According to USwitch's Jonathan Leggett, the UK-based
-
 device repair service meandmyi.com sent a set of low-resolutions images of parts
-
 purportedly from the iPhone 5S or 6.
 
-
-
 There's no significant or at least noticeable changes in most of the parts
-
 compared to their corresponding parts in the iPhone 5, according to Leggett,
-
 though there's no indication that he has the technical background to actually
-
 understand what he's looking at.
-
-
 
 The one that does show a difference is the "flex cable for the home button."
 
-
-
 "This features a much longer connector to the motherboard than before that could
-
 mean that the button is being used to transmit data," Leggett says. Here's the
-
 picture of the "new" flex cable for the iPhone home button. Sure enough, there's
-
 a long cable.
-
-
 
 And that could indeed mean Something.
 
-
-
 "With that in mind, it's not a massive stretch to imagine that the home button
-
 could indeed house the fingerprint scanner that tech-site rumours suggest will
-
 be on board the handset," Leggett concludes. "And that's also tipped to feature
-
 on future iPads and Apple's debut smartwatch. " This reminds the rollup of the
-
 year-ago iOSphere thrill that "leaked" components showed that Apple was adding
-
 an NFC chip to the upcoming iPhone 5, until someone who actually knew something
-
 about components, and smartphones, pointed out that the component in question
-
 could in no way be a NFC chip and was probably the "new touch and display
-
 controller combination" to support the iPhone 5's expected new in-cell display
-
 technology. [See "iPhone 5 will not have an NFC chip after all" in the August 31
-
 Rollup.] The Rollup isn't a component expert either. But if you're expecting to
-
 see a fingerprint sensor integrated with the home button, then any change to any
-
 related component becomes "proof" of your expectation. Leggett would be on
-
 stronger ground if he could actually explain why the longer cable is needed to
-
 "carry data" and why it has to be longer to do so.
 
-
-
 John Cox covers wireless networking and mobile computing for "Network
-
 World."Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: August 19, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

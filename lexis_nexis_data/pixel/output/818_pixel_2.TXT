@@ -1,198 +1,75 @@
-                              818 of 997 DOCUMENTS
-
-
-
-
-
-                                      DNA
-
-
-
-                            October 10, 2016 Monday
-
-
-
-Artificial intelligence
-
-
-
-BYLINE: Marco Dalt146souza
-
-
-
-LENGTH: 695  words
-
-
-
 
 
 The lifeblood driving Google's new wave of devices
 
-
-
 Search: it's the one thing that has pretty much defined Google. Which explains
-
 why the product launches at their event on 4 October was clearly a concerted
-
 move to extend 'search' further into people's pockets, kitchens, living rooms
-
 and pretty much everywhere they live, seems like a natural progression for the
-
 company.
 
-
-
 Google's search is powered by a globally-distributed infrastructure of server
-
 farms, terabit-speed network connections, and bleeding-edge software driven by
-
 the advanced science of deep neural networks and natural language processing to
-
 interpret raw data in ways that are startlingly human (that notification on your
-
 Android phone which gently suggests leaving earlier for a flight owing to
-
 unexpected traffic en route, for example.)
 
-
-
 While their new Pixel phones, Google Home, the Chromecast Ultra, the Google WiFi
-
 router and Daydream View will undoubtedly stoke fans for months to come, it
-
 isn't really about the hardware. It's about the intelligence that's driving it
-
 all--their cloud-based Google Assistant.
 
-
-
 When it debuted at their I/O event in May this year, this service seemed like an
-
 evolution of their ubiquitous 'Ok Google' voice recognition functionality that's
-
 already available on millions of Android phones. But this piece of smart
-
 software appears to be built to do more, to be the vanguard of Google's charge
-
 in to imparting more human-like responses, context and conversation into their
-
 new generation of smart devices.
 
-
-
 Google Assistant is going to be baked right into the two new Pixel phones. This
-
 smart AI service also serves as the foundation of their new Allo messaging app,
-
 designed to leverage their Artificial Intelligence and search capabilities to
-
 offer real-time suggestions and answers right within a chat environment.
 
-
-
 With the new Google Home--a device that resembles a Bluetooth speaker--the aim
-
 is to put voice up front and center of the daily experience. The only way to
-
 communicate with it is by 'waking' it up with an "Ok Google", then asking it
-
 pretty much any type of question. From the innocuous "What's the weather like
-
 today", to being able to follow through with several related queries around the
-
 topic, the device leverages Google Assistant to interpret questions, ferret
-
 information from trusted sources on the Web, and respond to the user using
-
 concise, natural speech.
 
-
-
 Consider for a moment the AI at work here: a question like "Play me that song
-
 from Dirty Dancing" would result in an elegant one-line acknowledgement followed
-
 by just one song--the title track--being played. That's almost human-level
-
 intelligence at work: deciphering that Dirty Dancing is a movie without being
-
 explicitly told so, locating all the online sources that host its songs,
-
 determining which of these songs is the most popular, and finally playing just
-
 that one. And all of this happening in under a second.
 
-
-
 Also announced was a new WiFi router that aims to add a few smarts into the home
-
 wireless setup. With robust WiFi being the foundation of all this connected home
-
 of the near future, this router was shown to communicate with other multiple
-
 Google WiFi routers to automatically modulate strength of the wireless mesh
-
 network to provide the best overall coverage--and bandwidth--to connected
-
 devices.
 
-
-
 It is intriguing to consider the possibilities of this new wave of devices,
-
 backed by an ever-learning, always available and continuously evolving AI
-
 engine. Assuming of course that all of this works as advertised. When breaking
-
 through technology frontiers, it's always a question of whether a hArtificial
-
 intelligence
 
-
-
 Speech recognition uses advanced deep learning systems to understand the manner
-
 in which each of us speak.
 
-
-
 Vision systems, like the face detection box in your camera viewfinder, are
-
 getting better that recognizing real objects.
 
-
-
 Using the wealth of online data we generate, AI can now infer 'context' on its
-
 own.ot new capability eventually turns out to be just a gimmick, or something
-
 that would rock a user's world. Either way, connected AI systems are here to
-
 stay--this is but the first of an impending wave.
-
-
-
-LOAD-DATE: October 10, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-  Copyright 2016 Diligent Media Corporation Ltd., DNA (Daily News & Analysis),
-
-                           distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,442 +1,196 @@
-                              603 of 820 DOCUMENTS
-
-
-
-
-
-                               The Economic Times
-
-
-
-                           October 19, 2016 Wednesday
-
-
-
-Motorola Moto Z review: An impressive design and power-packed spec sheet
-
-
-
-BYLINE: Heena Gupta
-
-
-
-SECTION: PANACHE
-
-
-
-LENGTH: 1762 words
-
-
-
 
 
 Lenovo-owned Motorola recently launched its Moto Z and Moto Z Play smartphones
-
 in the country. Having been launched as part of the flagship 'Z' line-up (along
-
 side the existing X series), the Moto Z duo isn't just about raw hardware
-
 specifications. Their claim to fame is their 'modularity'. Both Moto Z and Moto
-
 Z Play are compatible with hot-swappable 'Moto Mods' (sold separately) that can
-
 be snapped to them, thus transforming them into something more than just
-
 smartphones.
 
-
-
 Of these two, the Moto Z is more powerful and hence, pricier. The Moto Z's
-
 'modular' approach can be definitely considered to be a gamble, especially
-
 considering the less-than-stellar market response towards the LG G5 and the
-
 now-shelved Project Ara from Google.
 
-
-
 Now, Moto Z definitely appears to be a pretty solid smartphone. But even with a
-
 competent spec-sheet and the whole buzz around modularity, is this a smartphone
-
 that can justify its price tag of Rs 39,999? We spent a couple of days, both
-
 with the Moto Z and its much-touted companion Mods, and here are our findings.
-
-
 
 Design and display
 
-
-
 With the Moto Z, Motorola seems to have taken the word 'thin' a bit too
-
 seriously. A mere 5.2mm thick, the smartphone has a really impressive design and
-
 a stainless steel frame that looks equally good. Compared to the competition,
-
 the Moto Z is also quite lightweight. The design is a bit 'boxy,' and despite
-
 the large display, the smartphone is comfortable to use with one hand.
 
-
-
 The right edge is home to the power button and volume keys, while the SIM tray
-
 is located up top. Don't try to find that 3.5mm jack, as it's not there.
-
 Instead, you'll have to either use USB Type-C headphones or use the adapter that
-
 comes in the box to use your existing earphones. Obviously, this means you won't
-
 be able to charge the Moto Z and listen to music at the same time (Unless, a
-
 'port-splitter' accessory or something like that comes to the market to solve
-
 the problem).
 
-
-
 Flip to the back, and you'll see the protruding 13MP rear camera module with
-
 dual LED flash. There's also a 'moto' branding right in the centre. But what's
-
 truly interesting about the Moto Z's rear panel are the magnetic pins at the
-
 bottom. These are used for interfacing the device with the 'Moto Mods,' which
-
 we'll talk about a bit later.
 
-
-
 The stainless steel frame can be a bit rough from the back, but turns smooth as
-
 soon as you snap on the style shell. The company is offering one for free with
-
 the Moto Z. It's made of a faux-wood material and feels amazing in the hand. The
-
 'wooden' finish of the shell not only imparts the phone a good grip, but also
-
 adds to the look. However, if you go for a full shell case, chances are quite
-
 high you won't be able to stick the mods and shells to the device.
-
-
 
 The recently launched Moto Z is priced at Rs 39,999. (Image: www.motorola.in)
 
-
-
 Removing the 3.5mm audio jack has helped Motorola make the Moto Z reportedly the
-
 thinnest smartphone in the world, with the phone being just 5.2mm thick. In our
-
 opinion, it does give the Moto Z a really good in-hand feel.
 
-
-
 Let's get to the display side of things. Moto Z has a 5.5-inch Quad HD display
-
 of 1440x2560 pixel resolution. Thanks to Amoled panel, Blacks are darker,
-
 colours are more vivid and sunlight legibility is really nice. The Black pixels
-
 are powered off when not being used, such as when notifications are being
-
 displayed via the 'Moto Display' feature. This is quite helpful in saving
-
 battery life.
 
-
-
 The display also has a brightness override mode. Available only with 'Adaptive
-
 brightness' setting enabled, it brings the brightness from 370nits to 506nits.
-
 During our testing, we found the display to be really good in direct sunlight.
-
 Viewing angles and colour reproduction are quite solid.
 
-
-
 In a nutshell, Moto Z's 5.5-inch panel is perfect for everything from
-
 high-performance gaming to binging on HD movies.
-
-
 
 Performance and camera
 
-
-
 Powered by a 2.2GHz quad-core Qualcomm Snapdragon 820 processor, the Moto Z
-
 comes with 4GB RAM and 64GB internal storage. The phone also accepts microSD
-
 cards of up to 2TB in size.
 
-
-
 With a (fairly) latest chipset and ample amount of RAM, the Moto Z doesn't
-
 disappoint when it comes to general performance. During our testing, we used the
-
 smartphone to play everything from Temple Run to Asphalt 8: Airborne and it
-
 handled everything without any hiccups. Also, we didn't come across any (major)
-
 heating issues. The smartphone handles multi-tasking and fast app-switching
-
 quite easily.
 
-
-
 Moto Z runs Android 6.0 Marshmallow operating system, made even better with
-
 Motorola's software additions like Moto Voice, Moto Actions and Moto Display.
-
 Like other Moto smartphones, the Z also has features like Attentive Display
-
 (keeps the screen on as long as you are looking at it), Flip for Do Not Disturb
-
 (turning the phone on its face activates Do Not Disturb Mode, Pick up to stop
-
 ringing (pretty self-explanatory) and Swipe to shrink screen (shrinks the screen
-
 content for easier one-handed usage). We found all of these to be really good
-
 for enhancing the overall usage experience.
 
-
-
 Having a 5.5-inch display, the Moto Z is a bit big. This can make unlocking the
-
 device using the power button quite cumbersome. But why use the power button
-
 when you can unlock it using just your fingerprint?
 
-
-
 That's right. Moto Z comes with a fingerprint sensor which is located below the
-
 display. Interestingly, the sensor can be used to both lock and unlock the
-
 device. In the course of our usage, the fingerprint sensor worked flawlessly.
-
 It's fast and accurate.
 
-
-
 A modern smartphone can't quite possibly be considered complete without a
-
 capable camera. For this reason, the Moto Z sports a 13MP rear camera with laser
-
 autofocus, optical image stabilization (OIS) and dual LED flash. There's also a
-
 5MP front-facing unit for selfie lovers.
 
-
-
 In our testing, we found the imaging experience on the Moto Z to be quite good.
-
 The camera focuses really quickly and shutter speeds are quite fast. Captured
-
 photos have ample amount of resolved details and are quite sharp. As for the
-
 camera app itself, it's quite clean and easy to use. The app has features like
-
 Auto HDR, the ability to switch between front and rear cameras via a flick of
-
 the wrist, 4K video recording and slow-motion recording. There's also a
-
 Professional mode which, as the name suggests, lets you tweak everything from
-
 ISO levels to white balance as per your liking.
 
-
-
 The front camera, too, performed admirably well in our testing. Even low light
-
 selfies turned out to be good, thanks to the front-facing flash.
 
-
-
 All this fancy goodness needs a reliable battery backup, right? Motorola Moto Z
-
 comes with a 2,600mAh battery, which we think is a bit underwhelming, especially
-
 on a top-end device. During our testing, the battery lasted about 14 hours on a
-
 single charge. This is definitely not the best backup out there. But Turbo
-
 Charging support does help in making things a little better. It can bring the
-
 battery level from nothing to about 50% in just 30 minutes. Nevertheless, you'll
-
 need to charge the Moto Z more than once a day to keep it going.
-
-
 
 Moto Mods
 
-
-
 'Moto Mods' are the true differentiating factor which give Moto Z edge over its
-
 competition. These snap on to the back of the smartphone magnetically. The
-
 company has introduced four mods - JBL SoundBoost speaker, Moto Insta-Share
-
 projector, Moto Mod battery pack and Hasselblad True Zoom camera. Of course, the
-
 style shells are also there.
-
-
 
 JBL SoundBoost
 
-
-
 Lenovo partnered with audio-accessory maker JBL to create the SoundBoost Mod.
-
 Priced at Rs 6,999, it is essentially a stereo loudspeaker with two three-watt
-
 drivers. It amplifies the phone's sound and is designed to work as a Bluetooth
-
 speaker. The SoundBoost has a 1,000mAh battery of its own and comes with a
-
 kickstand as well. This helps in propping the phone in a way that audio is fired
-
 upwards, making the sound output better. During our testing, the SoundBoost mod
-
 performed extremely well. Its sound quality is great and the audio output is
-
 loud enough. If you are a party person, this is one mod you should definitely
-
 get.
-
-
 
 Moto Insta-Share Projector
 
-
-
 Moto Insta-Share projector is one of the most interesting mods offered for the
-
 Moto Z. Bearing a price tag of Rs 19,999, it's basically a pico-projector that,
-
 when attached to the Moto Z, can beam images and videos up to 70-inch in size on
-
 any surface. The downside is that its resolution is a lowly 480p, which looks
-
 really bad when projected. However, there is a built in loudspeaker in the mod
-
 to make things better.
-
-
 
 Moto Mod battery pack
 
-
-
 The Moto Mod battery pack adds an extra 2,200mAh of juice to the Moto Z. The
-
 powerbank mod has been made by accessory manufacturer Incipio and is priced at
-
 Rs 6,999. Though we couldn't test it out in detail, Motorola claims it can keep
-
 the smartphone going for long hours.
-
-
 
 Hasselblad True Zoom camera
 
-
-
 The Hasselblad True Zoom camera is a must-have mod for photography enthusiasts.
-
 Developed in collaboration with Swedish camera manufacturer Hasselblad (known
-
 for making insanely expensive and quality cameras), the True Zoom comes with a
-
 10x optical zoom lens. This means you can zoom on images really close without
-
 losing the quality. The camera's sensor has 12 million pixels and its ISO count
-
 goes up to 3200. There's also built in OIS for better photography. Everything
-
 from shutter speed to F-stop values can be adjusted, so you can get the perfect
-
 shot. What's more, the mod even lets you shoot images in RAW format. The
-
 accompanying Xenon flash ensures bright images even in low-light conditions.
 
-
-
 There are numerous shooting modes available, such as panorama, night landscape,
-
 night portrait and sports. There's also a professional mode which lets you
-
 manually adjust all the settings. During our usage, we found the Hasselblad True
-
 Zoom camera mod to be extremely good. The image and video quality is definitely
-
 very impressive. If you want to buy this one, you're going to have to shell out
-
 Rs 19,999.
-
-
 
 Verdict
 
-
-
 Overall, Motorola Moto Z is a pretty good smartphone. It comes with an
-
 impressive design, a power-packed spec sheet, and the 'Mods' that lend it a
-
 unique appeal. However, it's these mods only that make the Moto Z worth it. And
-
 since you have to buy them separately, we'd say that the Moto Z is certainly not
-
 a smartphone for everyone.
 
-
-
 If you want that 'modular' edge and don't mind shelling out extra money, the
-
 Moto Z is definitely a really good smartphone. But if don't care about
-
 modularity and just want a well rounded device, you can go for alternatives such
-
 as the Samsung Galaxy S7 and HTC 10, which are just as good.
 
-
-
 For Reprint Rights: timescontent.com
-
-
-
-LOAD-DATE: October 18, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2016 Bennett Coleman & Co. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

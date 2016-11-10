@@ -1,128 +1,39 @@
-                             307 of 1000 DOCUMENTS
-
-
-
-
-
-
-
-                                  t-break Tech
-
-
-
-                              June 26, 2016 Sunday
-
-
-
-Galaxy S7 edge vs an Intel i7-6700K processor: The results are pretty darn close
-
-
-
-LENGTH: 337  words
-
-
-
 
 
 In what looks to be a very dubious benchmarking result, Galaxy S7 edge takes on
-
 the powerful Skylake Intel Core i7-6700K
 
-
-
 Samsung's Galaxy S7 edge is outfitted with next-gen hardware such as an Exynos
-
 8890 or Snapdragon 820 chipset (depending on which model you purchase), 4GB of
-
 RAM, and possibly one of the best smartphone displays on the planet. No doubt
-
 the device would tear through benchmarking tests such a Geekbench but to believe
-
 that it could match an Intel Core i7-6700K in a raw processor computing test is
-
 just plain ridiculous. However, leaked Geekbench results show the unthinkable
-
 has just been achieved, but our side of the story still exists, which you might
-
 to hear out.
 
-
-
 Shown below in the images, there are two Geekbench results, and Galaxy S7 edge
-
 manages to match the single-core of the desktop processor, which is quite
-
 unbelievable, might we add. Though the quad-core processor is able to beat a
-
 Galaxy S7 edge in a multi-core test result, it is still hard to believe that a
-
 smartphone would possess such firepower as to overtake a desktop processor,
-
 unless of course these results were manipulated.
 
-
-
 Time and time again, we have seen Geekbench results changed in order to portray
-
 results that mobile devices might never be able to achieve in order to deliver a
-
 false impression of their overall performance.
 
-
-
 However, another side of the story is that Samsung might be testing out a new
-
 smartphone with a new chipset. With Galaxy S8 all set to arrive during 2017, the
-
 handset is going to possess a Snapdragon 830 and an advanced Exynos SoC. The
-
 firepower exhibited by both of these chipsets is currently unknown, but they
-
 will easily surpass Snapdragon 820 and Exynos 8890 in both efficiency and raw
-
 computing.
 
-
-
 In fact, we might be obliged to say that they might boast sufficient firepower
-
 to deliver the above mentioned results, but for now, we'll assume that these
-
 scores were manipulated in order to provide false information to the user that a
-
 smartphone can actually outperform a desktop processor.
 
-
-
 Source
-
-
-
-LOAD-DATE: June 26, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-JOURNAL-CODE: 814
-
-
-
-
-
-                          Copyright 2016 TBREAK MEDIA
-
-                        Provided by Syndigate Media Inc.
-
-                              All Rights Reserved
-
-
-
-
 

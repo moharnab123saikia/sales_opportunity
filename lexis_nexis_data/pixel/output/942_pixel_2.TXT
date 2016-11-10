@@ -1,224 +1,84 @@
-                              942 of 997 DOCUMENTS
-
-
-
-
-
-                         The Christian Science Monitor
-
-
-
-                            February 21, 2014 Friday
-
-
-
-Google-backed crowdsourced website aims to track forest destruction, but can
-
-it?;
-
-An online tool promises 'near-real time' monitoring of deforestation, but
-
-critics argue that it doesn't distinguish between forests and plantations.
-
-
-
-BYLINE: Fabien Tepper
-
-
-
-SECTION: Science
-
-
-
-LENGTH: 761 words
-
-
-
 
 
 An ambitious international effort to track the rapid disappearance of the
-
 world's forests has provoked a mix of hope and skepticism among those most
-
 invested in their conservation.
 
-
-
 Powered by a $25-million budget and Google-donated cloud services, Global Forest
-
 Watch (GFW) is an online tool that algorithmically analyzes NASA satellite
-
 photos of the world's forested areas, to detect changes indicating deforestation
-
 or fires, both of which have been identified as contributors to global warming.
-
 The results are presented on a free interactive website where users can watch
-
 how industry activities, forests, fires, and conservation areas overlap across
-
 the globe.
 
-
-
 "Global Forest Watch is a near-real time monitoring platform that will
-
 fundamentally change the way people and businesses manage forests," said Andrew
-
 Steer, CEO of the World Resources Institute (WRI), in the organization's press
-
 release. WRI launched the project in partnership with Google and the University
-
 of Maryland. "From now on," said Dr. Steer, "the bad guys cannot hide and the
-
 good guys will be recognized for their stewardship."
 
-
-
 The program will provide daily visual updates on fires burning across the world
-
 and monthly updates on forest cover in the world's humid tropical belt - in
-
 which each pixel covers roughly the area of four football fields. Once per year,
-
 the program will create higher-resolution updates on forest cover worldwide,
-
 whose pixels will describe an area roughly the size of two NBA basketball
-
 courts.
 
-
-
 That may sound a bit slower and more pixellated than "near-real time" would
-
 suggest, but it may be properly scaled to global deforestation; a 2013
-
 University of Maryland study published in the journal Science found that
-
 worldwide, about 50 football fields-worth of forest disappear per minute. And
-
 Nigel Sizer, a former climate change advisor to President Bill Clinton who leads
-
 GFW, says the program can detect smaller changes. "If there's a significant
-
 change within that area, then it will light up the whole pixel," he says.
 
-
-
 Amy Moas, a Senior Forest Campaigner with Greenpeace, says the project could
-
 improve both public and corporate understandings of deforestation.
 
-
-
 "I think that any time you take what's happening on the ground and you put it
-
 into a useful tool that everyday people can use, it can make a huge difference
-
 in people's understanding of what's happening," she says. "In principle, it
-
 could be a part of the solution."
 
-
-
 But a sticking point of the project may be the difficulty of distinguishing
-
 forest cover from agricultural plantations, which are often in direct
-
 competition. Managed plantations rarely allow the species diversity that arises
-
 in a forest, and most use harmful pesticides. A 2013 version of GFW, presented
-
 by University of Maryland geographers without the backing of WRI, received
-
 criticism for its failure to identify oil palm plantations in Indonesia.
 
-
-
 "The Global Forest Cover Change map has mapped out oil palm plantations owned by
-
 Sinarmas Group in Papua as forest cover gains," Elfian Effendi, director of
-
 environmental group Greenomics Indonesia, told the Jakarta Post in November.
 
-
-
 Dr. Moas of Greenpeace says this problem was a serious drawback to last year's
-
 version. "Rows and rows and rows of the exact same tree for as far as you can
-
 see... doesn't provide the same ecosystem services that a forest would provide,"
-
 she says.
 
-
-
 The project's failure to distinguish between natural forests and industrial
-
 agriculture has not yet been resolved, according to Dr, Sizer. "The current
-
 University of Maryland and Google analysis does not differentiate between
-
 plantations and forests, and we're working on that," he says, adding that "one
-
 of the cool ways that we can potentially accelerate that is using the power of
-
 the crowds."
 
-
-
 Anyone can drop comments, reports, or corrections onto specific map locations at
-
 globalforestwatch.org. And the project is working on a mobile phone app that
-
 will allow the discerning eyes of human volunteers to distinguish between crops
-
 and forests, in areas which may flummox the computer algorithm.
 
-
-
 "Citizen scientists can help improve the accuracy of the whole system," says
-
 Sizer.
 
-
-
 During the first 24 hours of the project's launch, Sizer says 25,000 people in
-
 170 countries had browsed the site. "We're very happy with that from day one,"
-
 he says.
 
-
-
 Global Forest Watch charges ahead with a staff of 20, on the strength of a $10
-
 million donation from the Norwegian government, and $5 million each from the
-
 governments of the US and UK, and the international public-private Global
-
 Environment Facility.
-
-
-
-LOAD-DATE: February 22, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-              Copyright 2014 Christian Science Publishing Society
-
-                              All Rights Reserved
-
-
-
-
 

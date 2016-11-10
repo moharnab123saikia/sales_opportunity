@@ -1,276 +1,107 @@
-                              838 of 997 DOCUMENTS
-
-
-
-
-
-                         The Straits Times (Singapore)
-
-
-
-                          November 11, 2015 Wednesday
-
-
-
-Nexus 6P boasts creative design;
-
-Huawei-made phone makes up for some missing smartphone aspects with innovative
-
-ones of its own
-
-
-
-BYLINE: Sherwin Loh
-
-
-
-SECTION: DIGITAL
-
-
-
-LENGTH: 676 words
-
-
-
 
 
 Let's get this out of the way first: The latest Nexus smartphone from Google is
-
 made by Huawei, a company seen by many as inferior to some other phone brands.
 
-
-
 But it is about time the Chinese company, which has been making phones for a
-
 very long time, gets some well-deserved recognition.
 
-
-
 The latest partner of Google for its Nexus devices has already turned heads with
-
 the 6P, yet many might not know that Huawei has been making well-designed
-
 unibody Android phones since the beginning of the year.
 
-
-
 The Huawei Ascend Mate 7, which came out in February, is a 6-inch phablet that
-
 offers a responsive fingerprint sensor, while the Huawei P8 refines that build
-
 in a smaller, 5.2-inch frame.
 
-
-
 The Nexus 6P is a natural evolution of those devices, and it adds a QHD display,
-
 12MP rear camera and the latest Android 6 operating system.
 
-
-
 It comes in a thin chassis, with a small bump at the top rear, where the camera
-
 and flash module are housed.
 
-
-
 The QHD screen has become a standard with flagship smartphones from LG and
-
 Samsung, so it is great to have a Nexus device offering it as well.
 
-
-
 <ul class="background-story">  PRICE: 64GB $949
-
   128GB $1,049
 
-
-
 PROCESSOR: Qualcomm Snapdragon 810 octa-core (Quad-core 1.55 GHz + Quad-core 2.0
-
 GHz)
 
-
-
 DISPLAY: 5.7-inch AMOLED Corning Gorilla Glass 4, 1,440 x 2,560 pixels (518 ppi
-
 pixel density)
-
-
 
 OPERATING SYSTEM: Android 6 (Marshmallow)
 
-
-
 MEMORY: 64/128 GB, (No expandable memory) 3 GB RAM
 
-
-
 CAMERA: (Rear) 12 MP, 4,608 x 2,592 pixels, laser autofocus, dual-LED flash.
-
 (Front) 8MP
-
-
 
 BATTERY: 3450 mAh (non removable)
 
-
-
 FEATURES: 4/5
-
-
 
 PERFORMANCE: 5/5
 
-
-
 DESIGN: 4/5
-
-
 
 BATTERY LIFE: 5/5
 
-
-
 VALUE FOR MONEY: 4/5
-
-
 
 OVERALL: 4/5
 
-
-
 The screen delivered very well-defined graphics details and a colour
-
 presentation that looks richer than real life, even with the brightness dialled
-
 down.
 
-
-
 The camera itself is also remarkable and comparable with the LG G4 and Samsung
-
 Galaxy Note 5. While one might scowl at the 12MP offered here, compared with the
-
 16MP on the Note 5, Huawei has used a larger 1.55-micron sensor which captures
-
 more light.
 
-
-
 This produces better low-light shots and brighter colours when used indoors. The
-
 camera is also capable of recording 4K video, up to an astonishing 240 frames
-
 per second.
 
-
-
 There is no optical image stabilising, though I have yet to encounter any issues
-
 with shooting while moving. That said, I still prefer the softer colours
-
 produced by the Note 5, and I miss having the Lock Exposure settings of the Note
-
 5 and iPhone 6S Plus. Also, for pro users out there, there is no option to shoot
-
 in RAW format.
 
-
-
 The High Dynamic Range (HDR) mode felt slightly laggy, which could mean that the
-
 6P has a hardware-based HDR feature.
 
-
-
 While I have grown accustomed to fingerprint sensors on phones, I have never
-
 liked their positioning at the bottom of the screen. Activating biometrics with
-
 one hand, especially when holding on to a phablet, is often a precarious
-
 endeavour. The 6P's sensor is positioned at the rear where your forefinger
-
 normally sits, which makes plenty of sense.
 
-
-
 Sensor response is also very fast, so there is almost no delay in waking up the
-
 Nexus 6P.
 
-
-
 The phone is also one of the first to make use of a Type-C connector. Two cables
-
 are provided. The USB to Type-C one connects your phone to your laptop and
-
 current USB chargers. The Type-C to Type-C cable works with the provided Nexus
-
 6P charger that supports fast charging.
 
-
-
 While it is a hassle to start buying more Type-C cables, I like the stability
-
 and sturdiness of the new larger connectors.
 
-
-
 There is no wireless charging option. However, Android 6 has a powerful Doze
-
 mode that runs in the background. If the phone is stationary and not connected
-
 to a charger, the device will go into a lower-power idle mode that limits
-
 notifications, aside from calls and SMS messages.
 
-
-
 This means that at night, the phone on your dresser will not start ringing due
-
 to game app notifications, which increases the stand-by battery life of your
-
 phone.
 
 
-
-
-
 o VERDICT: The Huawei Nexus 6P is a remarkable phone that makes up for some
-
 missing smartphone features with new ones of its own.
-
-
-
-LOAD-DATE: November 10, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-GRAPHIC: The Nexus 6P comes with a QHD screen, which delivers well-defined
-
-graphics details and a colour presentation that looks richer than real life,
-
-even with the brightness dialled down.
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                Copyright 2015 Singapore Press Holdings Limited
-
-                              All Rights Reserved
-
-
-
-
 

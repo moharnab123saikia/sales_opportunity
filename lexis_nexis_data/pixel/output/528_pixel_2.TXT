@@ -1,216 +1,83 @@
-                              528 of 997 DOCUMENTS
-
-
-
-
-
-                               The New York Times
-
-
-
-                             July 13, 2006 Thursday
-
-                              Late Edition - Final
-
-
-
-BYLINE: By J.D. Biersdorfer
-
-
-
-SECTION: Section C; Column 5; Business/Financial Desk; Q & A; Pg. 8
-
-
-
-LENGTH: 695 words
-
-
-
-
 
 
 
 Shrinking Photos For E-Mail
 
-
-
 Q. When I drag digital pictures into an e-mail message, they come in huge and
-
 fill up the screen, making it impossible to see the entire image at once. Can I
-
 adjust the size of photos so they fit in the message window?
 
-
-
 A. Giant photo syndrome can occur when the resolution of the digital picture
-
 exceeds that of the computer monitor. Although the computer's graphics software
-
 can sometimes correct the situation and reduce the image's display to fit
-
 properly on the screen, this is not always the case.
 
-
-
 Digital photographs are made up of pixels -- the word is short for ''picture
-
 elements'' -- and a pixel is a single point in an image. The total image
-
 resolution of a photo taken with a three-megapixel camera, for example, is about
-
 2,048 by 1,536 pixels -- which, when multiplied together, is more than three
-
 million pixels working together to make up the picture.
 
-
-
 Monitor resolution is also measured in pixels, and most monitors these days use
-
 screen resolutions of 800 by 600 pixels; 1,024 by 768 pixels; or 1,152 by 864
-
 pixels. All of these resolutions are smaller than a three-megapixel photo, so
-
 when the photo is displayed at its full size, it exceeds the monitor's screen
-
 size. But both Windows XP and Mac OS X give you the opportunity to shrink photos
-
 to resolutions that fit better on a computer screen, like 640 by 480 pixels.
 
-
-
 In Windows XP, click to select the photos you want to send from My Pictures or
-
 another location on your computer. After you have selected the pictures, click
-
 in the ''E-mail selected items'' option in the task pane. You can also
-
 right-click with the mouse and select ''Send to Mail Recipient'' from the pop-up
-
 menu.
 
-
-
 In the resulting box, click the button next to ''Make all my pictures smaller''
-
 and then on the link for ''Show more options'' to see a selection of resolutions
-
 to use for the picture attachments. Choose one and click O.K. Google's Picasa
-
 photo-management program for Windows and Linux (free to download at
-
 http://picasa.google.com) can also shrink photo attachments.
 
-
-
 Mac OS X users have an option in the iPhoto program to reduce image sizes for
-
 e-mail. After you select pictures from your iPhoto library that you want to
-
 share, click the e-mail icon at the bottom of the window; a box will pop up
-
 asking if you'd like to shrink the image for e-mailing.
-
-
 
 Keeping Bookmarks In a Safe Place
 
-
-
 Q. I use various browsers in my work. Is there a way to have a central bookmarks
-
 repository instead of trying to keep a master on one browser and exporting, then
-
 importing, into the other browsers?
 
-
-
 A. An online bookmark manager program that lets you store your favorite Web
-
 addresses on the Web itself may help you keep your links current among all your
-
 browsers -- and keep your bookmarks safe if your hard drive dies. Because the
-
 bookmarks are online, you can also get to them from any Internet-connected
-
 computer, in the office, at home or at a Parisian cybercafe.
 
-
-
 Most Web-based bookmark manager programs work like this: You sign up for an
-
 account (often free) and import your existing bookmarks. You usually get a
-
 browser toolbar button or menu command from your chosen service to use for
-
 adding new bookmarks to your collection. Once you have populated your bookmarks
-
 within the online service, you can get to your collection from any computer when
-
 you log back into the site.
 
-
-
 LinkaGoGo (www.linkagogo.com) and BlinkList (www.blinklist.com) are among the
-
 many bookmark manager programs available online, and there's a long list of
-
 other options at
-
 http://dmoz.org/Computers/Internet/On--the--Web/Web--Applications/Bookmark--Mana
-
 gers/.
-
-
 
 Organizing On Windows
 
-
-
 Q. I have so many programs installed on my PC, I can never find anything in the
-
 All Programs list in my Windows Start menu. Is there a way to organize it to my
-
 own liking?
 
-
-
 A. You can rearrange the way all your computer's applications are listed by
-
 clicking and dragging the icons around to different places on the All Programs
-
 menu when you have it open. You can also reshuffle all the items in the All
-
 Programs menu into alphabetical order. Select any program icon in the menu and
-
 right-click it. Choose ''Sort By Name'' to reorder the list.
 
-
-
 URL: http://www.nytimes.com
-
-
-
-LOAD-DATE: July 13, 2006
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-DOCUMENT-TYPE: Question
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2006 The New York Times Company
-
-
-
-
 

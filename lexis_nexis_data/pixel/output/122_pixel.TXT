@@ -1,276 +1,109 @@
-                              122 of 997 DOCUMENTS
-
-
-
-
-
-                                   USA TODAY
-
-
-
-                          February 27, 2013 Wednesday
-
-                                 FINAL EDITION
-
-
-
-Chromebook Pixel has head in the cloud;
-
-But lovely laptop is a pleasure to use
-
-
-
-BYLINE: Edward C. Baig, ebaig@usatoday.com, USA TODAY
-
-
-
-SECTION: MONEY; Pg. 5B
-
-
-
-LENGTH: 864 words
-
-
-
 
 
 Here's what you thought you knew about Google's Chromebook laptops: They're
-
 designed for  Internet computing and  are known for plain designs and
-
 bargain-basement prices.
 
-
-
 The former is still true. You're supposed to be connected to the Internet when
-
 using a Chromebook, at least a good chunk of the time. But the latter two are
-
 now only partially the case. You can still purchase an Acer Chromebook in the
-
 Google Play store for  $199, or a Samsung for $249.
 
-
-
 However, the  Chromebook Pixel laptop that began shipping this week is not only
-
 beautiful, it fetches $1,299 for a Wi-Fi-only model.  The Pixel that I tested is
-
 even pricier, a $1,449 model that complements Wi-Fi with fast LTE cellular
-
 service from Verizon Wireless. It ships in April.
 
-
-
 With Pixel, Google is now competing in the high-rent computing district against
-
 Apple's MacBook Air and entry-level MacBook Pros, as well as some of the more
-
 expensive Windows 8 Ultrabooks.
 
-
-
 My test unit was an immense pleasure to use, but I'm still hesitant to recommend
-
 the machine to everybody. Aside from its high price, Pixel has puny onboard
-
 storage, so-so battery life, and perhaps most important, is diminished when
-
 you're offline, since the Web-based Chrome operating system at its core mostly
-
 depends on a pipeline to the cloud. Sadly, you cannot watch a movie you buy or
-
 rent from the Google Play store when you lack an Internet connection.
 
-
-
 There's certainly no mistaking Pixel's premium pedigree. The premium hardware is
-
 crafted from anodized aluminum. Pixel is a handsome, solidly built gray
-
 3.35-pound machine with a high-resolution 12.85-inch Gorilla Glass touch-screen
-
 that is something to behold.
 
-
-
 The computer is so named because of the stunning screen, which rivals the Retina
-
 displays on some MacBook Pros. It packs 4.3 million pixels -- more than twice as
-
 many, Google emphasizes, as a standard HDTV. In techie terms, it has a pixel
-
 density of 239 pixels per inch, a measure of sharpness that tops its laptop
-
 rivals.
 
-
-
 An LED on the back cover lights up in different colors to add a nice aesthetic.
-
 A sturdy piano hinge lets you open and close it  with a thumb. Google says the
-
 hinge dissipates heat and augments Wi-Fi antennas.
 
-
-
 The back-lit Chrome keyboard is first rate, and so are  hidden and surprisingly
-
 powerful stereo speakers. Vents and screws are also concealed.
 
-
-
 The etched-glass  trackpad is smooth and responsive. There's an HD webcam,  a
-
 pair of USB 2.0 ports and a memory card reader. Inside, Pixel has a 1.8-GHz Dual
-
 Core Intel Core i5 processor. The combination of hardware and software led to a
-
 zippy experience.
 
-
-
 While the onboard storage is quite modest -- just 32 gigabytes on the
-
 solid-state drive that is on the Wi-Fi-only model or 64GB on the step-up model,
-
 Google provides a complimentary 1 terabyte of storage on Google Cloud Drive for
-
 three years -- another recruiting effort for cloud computing.  You also get a
-
 dozen free sessions of GoGo Inflight Internet.
 
-
-
 Google says there are now hundreds of  apps in the Chrome Web Store that work
-
 without an Internet connection. The current list includes Angry Birds, Kindle
-
 Cloud Reader and offline Gmail. You can use Google Docs offline, too.  But while
-
 you can listen to songs you download when you're off line, purchased movies and
-
 TV shows from Google Play require that cyberconnection, a serious drawback.
 
-
-
 By embracing a touch-screen, Google is following a path similar to the one
-
 Microsoft is taking with Windows 8.  For the most part, you'll stick with the
-
 mouse and keyboard.
 
-
-
 But touch made it simpler to navigate Google Maps and to travel through an
-
 interactive 3-D visualization of the solar system known as 100,000 Stars.
 
-
-
 One snag: I couldn't play a few ".mov" video files that were on an inserted
-
 memory card, even though Google says ".mov" is a supported video format.
 
-
-
 As with other Chromebooks, the  computer boots up quickly, and Google can serve
-
 up regular updates to keep the operating system fresh and free of viruses.
 
-
-
 One future update:  integration with QuickOffice, an  app that will let you open
-
 and edit Microsoft Office files within their native format, without  having to
-
 rely on Google Docs. The computer also boots up quickly.
 
-
-
 Google says you'll get about five hours of battery under "normal" use. In my own
-
 harsh  test, in which I cranked up the brightness all the way and streamed a
-
 movie over Wi-Fi, the battery pooped out after  3 hours.
 
-
-
 Is Pixel worth buying? I suspect those  who buy it will be perfectly happy, at
-
 least when they have an online connection and  a power source. Touch is a nice
-
 benefit, too, even if you don't use it much.  The computer is fast, attractive
-
 and secure,  with a display that's tough to match.
 
-
-
 Pixel isn't for the mainstream, yet. But it is the kind of showpiece Google can
-
 use to make the case that it, too, can deliver pretty impressive hardware.
-
-
 
 E-mail: ebaig@usatoday.com Follow @edbaig on Twitter.
 
-
-
 ---
-
-
 
 The bottom line
 
-
-
 Google Chromebook Pixel
-
-
 
 play.google.com
 
-
-
 Price: $1,299 to $1,449
 
-
-
 Pro. Beautiful touch-screen. First-rate keyboard, trackpad, speakers. Cloud
-
 storage. Computer is fast, automatically upgraded and secure.
 
-
-
 Con. Expensive. So-so battery life. Cloud computer is diminished offline.
-
 Limited onboard storage.
-
-
-
-LOAD-DATE: February 27, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-GRAPHIC: photo Google
-
-
-
-PUBLICATION-TYPE: NEWSPAPER
-
-
-
-
-
-                      Copyright 2013 Gannett Company, Inc.
-
-                              All Rights Reserved
-
-
-
-
 

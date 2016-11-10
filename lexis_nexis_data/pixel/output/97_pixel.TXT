@@ -1,198 +1,72 @@
-                              97 of 997 DOCUMENTS
-
-
-
-
-
-                          Australian Financial Review
-
-
-
-                            October 6, 2016 Thursday
-
-                             Print & First Editions
-
-
-
-Google's Pixel phone has plenty of answers;
-
-Review
-
-
-
-BYLINE: John Davidson
-
-
-
-SECTION: NEWS; Pg. 3
-
-
-
-LENGTH: 618 words
-
-
-
 
 
 Ask Google's new phone, the Pixel, how old Nick Cave is, and it will come back
-
 to you with the answer: he's 59.
 
-
-
 That much, any Android phone can do. But make the next question "What are his
-
 best songs", and that's when it starts to get interesting. That's when the
-
 Pixel's most interesting new feature, the artificial intelligence engine known
-
 as Google Assistant, starts to show you how it's different from the voice
-
 queries in other phones.
 
-
-
 Google Assistant figures out you're still talking about Nick Cave, so it comes
-
 back to you with a list of the first few songs from his "Best of" album. OK, so
-
 that wasn't exactly the question, but at least it means you can string multiple
-
 queries together, the way humans do all the time when they're conversing with
-
 other humans.
 
-
-
 The next question works too: "When did his son die?" brings up an article about
-
 the tragic death of his son, Arthur. But it's not a properly internalised
-
 response from Google Assistant: it's just a web clipping, undigested by the
-
 artificial intelligence engine, which means the conversation has gone down a
-
 blind alley.
 
-
-
 Make your next question "And how old was he?", and the answer comes back as if
-
 you were still talking about Nick: he's 59.
 
-
-
 Google might have 70 billion facts at it fingertips courtesy of its search
-
 engine, powering the artificial intelligence behind the Pixel phone, but it
-
 doesn't use all of them with the same level of intelligence. You don't have to
-
 use Google Assistant very long before you fall out of the AI and into something
-
 more akin to traditional voice search.
 
-
-
 But, still, it's impressive, and it will be very handy. You can ask the Pixel
-
 "What is the best cafe near me?", look at the answer that comes up on the
-
 screen, and then ask the Pixel "How do I get there?" to bring up directions.
 
-
-
 Or you can tell it (as I did) "My name is John", it will tell you that it has
-
 noted that fact, and then later you can ask it "Who am I?" and it will tell you
-
 that you are John. Or whatever your name is.
 
-
-
 Which means, the Pixel can learn, which means it will get better at doing things
-
 for you over time.
 
-
-
 Though, it doesn't learn everything. After asking four or five questions about
-
 Nick Cave, I asked the Pixel "What musicians am I interested in?" and it didn't
-
 make the connection back to Mr Cave. I told it "I live at the Sydney Opera
-
 House" and then later I asked it "Where do I live?" and it came back to me with
-
 the address that was listed in Google Maps as the owner's home location.
 
-
-
 In the 20 or so minutes I had previewing the Pixel at its launch event in
-
 Sydney, I also got the chance to briefly test the camera, which Google claims is
-
 the best camera ever to appear in a smartphone. To support that claim it's using
-
 a rating system that isn't always a reliable indicator of camera greatness
-
 (other cameras that have topped the ratings have turned out to be far from the
-
 best cameras on the market) so it very much remains to be seen just how good the
-
 camera on the Pixel actually is.
 
-
-
 But I did manage to take a handful of shots of foliage with the Pixel, as well
-
 as four similar shots with an iPhone 7 (which I rate as having the second best
-
 camera on the market, behind the camera Samsung uses in its Galaxy Note7 and
-
 Galaxy S7). And I have to say that the Pixel might yet live up to Google's
-
 claim.
 
-
-
 Getting Google Assistant to converse just like a human is not going to be easy,
-
 and it's not something Google will pull off in the life of the Pixel, its first
-
 phone. As Google itself admits, perfecting artificial intelligence on a phone is
-
 going to be a long, long journey.
-
-
 
 Much farther than my trip home to the Opera House. Or wherever I live.
 
-
-
 The Pixel can learn - it will get better at doing things for you over time.
-
-
-
-LOAD-DATE: October 5, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-             Copyright 2016 Fairfax Media Publications Pty. Limited
-
-                              All Rights Reserved
-
-
-
-
 

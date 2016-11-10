@@ -1,136 +1,45 @@
-                              597 of 820 DOCUMENTS
-
-
-
-
-
-                                    Trak.in
-
-
-
-                     September 26, 2016 Monday 6:30 AM EST
-
-
-
-MediaTek Announces Next-Gen Helio P20, P25 Octa-Core & X30 Deca-Core Processors
-
-
-
-BYLINE: Abhishek Joshi
-
-
-
-LENGTH: 359  words
-
-
-
 
 
 Only second to Qualcomm, Mediatek has a variety of processors for the mid-range
-
 and high-range smartphones and a lot of Chinese makers like Gionee, Xiaomi and
-
 Oppo use MediaTek processors for their smartphones.
 
-
-
 MediaTek has announced three new processors - P20 and P25 octa-core processors
-
 for the mid-range smartphones and X30 deca-core processor for the high-end
-
 smartphones. P20 and P25 chipsets will be replacing the P10 and X30 chipset will
-
 be replacing the X25 chipset.
-
-
 
 Mediatek P20 and P25
 
-
-
 The two chipsets from MediaTek are both octa-cores built on 16nm process and
-
 support for LPDDR4x RAM, and offer 20% faster clock speeds for the CPU as well
-
 as the GPU, and 25% higher power efficiency. P25 has an additional ability to
-
 support dual camera setup, like the ones in LG G5 and iPhones 7, with optical
-
 zoom.
-
-
 
 Mediatek X30
 
-
-
 This chipset comes for the flagship smartphones or the high-end ones as it is a
-
 deca-core chipset, with two powerful Cortex A73 cores clocked at 2.8Ghz and four
-
 low power Cortex-A53 cores clocked at 2.2 Ghz and two 2.0 GHz Cortex-A53 cores.
-
 They are built on 10nm process which makes it extremely power efficient.
 
-
-
 The new chipset will also support up to 8GB DDR4 RAM, 4K video capture @ 30fps
-
 and dual cameras up to 26 megapixels in resolution, although such phones do not
-
 exist right now. None of the smartphones at the moment come with 8GB but can be
-
 expected to be launched by 2017.
 
-
-
 The X30 is touted to be comparable to Qualcomm 820/821 processors and Exynos
-
 chipsets from Samsung. While MediaTek chipsets are usually limited to budget
-
 smartphones, the X30 should be able to topple the likes of other large companies
-
 and come in flagships from Chinese smartphones makers.
 
-
-
 The bigger question is - will handset makers look at Helio X30 over Snapdragon
-
 821? We do know that any new flagships to be launched this year will sport the
-
 821 but the companies should be able to test their phones on Mediatek,
-
 considering the build looks pretty solid.
 
-
-
 The budget chipsets P20 and P25 are touted to be more efficient and the next
-
 generations of Gionee S series, Oppo series and Xiaomi Redmi Note series will
-
 most probably sport these processors.
-
-
-
-LOAD-DATE: September 26, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-               Copyright 2016 Trak.in, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

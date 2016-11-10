@@ -1,108 +1,31 @@
-                              100 of 997 DOCUMENTS
-
-
-
-
-
-                                 Indian Express
-
-
-
-                          September 30, 2015 Wednesday
-
-
-
-Pixel C is Google's Chromebook-design tablet that runs Android M
-
-
-
-BYLINE: Karthekayan Iyer
-
-
-
-LENGTH: 233  words
-
-
-
 
 
 Google also showed a preview of Pixel C tablet that has same design like
-
 Chromebook Pixel but runs Android Marshmallow
 
-
-
 At the Nexus event, Google also announced a new kind of offering called Pixel C.
-
 Pixel C is an Android Marshmallow tablet aimed to enhance productivity. While
-
 Google didn't really use the word 'productivity' but it has added a keyboard,
-
 presumably with this in mind to the large-screen tablet.
 
-
-
 Google Pixel C features a 10.2-inch display and like Nexus 6P
-
 (http://indianexpress.com/article/technology/mobile-tabs/google
-
 -nexus-6p-launched/) and Nexus 5X
-
 (http://indianexpress.com/article/technology/mobile-tabs/google
-
 -nexus-5x-launched/) features a USB Type-C connector. Powering the tablet is an
-
 Nvidia Tegra X1 chipset with 3GB RAM. The design eschews the design of
-
 Chromebook Pixel and comes with magnetic keyboard.
 
-
-
 Google said the keyboard has an 18.8mm pitch and attaches to the tablet via
-
 magnetic latch and has bluetooth. The keyboard has its own battery and charges
-
 when the tablet is folded with keyboard on top of the display via inductive
-
 charging.
 
-
-
 Google Pixel C doesn't come with a kickstand like Microsoft
-
 (http://indianexpress.com/tag/microsoft/) Surface Pro 3 but when connected to
-
 keyboard, the tablet can be adjusted from 100 to 135 degrees. Notable omission
-
 here is the stylus.
 
-
-
 Google says the both Pixel C and the keyboard will be available in time for the
-
 holidays.
-
-
-
-LOAD-DATE: October 1, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-           Copyright 2015 Indian Express, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,6828 +1,3391 @@
-                              803 of 820 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                            October 8, 2015 Thursday
-
-
-
-Regulatory update: Public Service Commission of the District of Columbia; Sol
-
-Systems , has submitted ( RPS2015-543 ) Application of Nextility 1, LLC
-
-residence for certification as an eligible District of Columbia Renewable Energy
-
-Standard Generating Facility
-
-
-
-LENGTH: 6671 words
-
-
 
 DATELINE: Lahore
 
 
 
-
-
-
-
  Washington: Public Service Commission of the District of Columbia has issued
-
 the following document:
-
-
-
-
 
 
 
  l .
 
-
-
  APPLICATION FOR CERTIFICATION AS AN ELIGIBLE DISTRICT OF COLUMBIA
-
-
 
  RENEWABLE ENERGY STANDARDS GENERATING FACILITY
 
-
-
  Nameo f RenewableE nergyF acility: GCP- Nextility
-
-
 
  Facility Address:
 
-
-
  2100 F St NW
 
-
-
  WashingtonD, C 20052
-
-
 
  ORISPL Plant Code:
 
 
 
-
-
-
-
  Name of Owner: GCP -Nextility l, LLC
-
-
 
  Owner'sa ddressa ndc ontacti nformation:
 
-
-
  1606 20th st Nw
-
-
 
  WashingtonD, C 20009
 
-
-
  Phone: 202-719-5297
 
-
-
  Fax:
-
-
 
  Email : srecs@nextility.com
 
-
-
  Nameo f OperatorZ: acharyA xelrod
-
-
 
  Operator'sa ddressa ndc ontacti nformation:
 
-
-
  1606 20th st Nw
 
-
-
  WashingtonD, C 20009
-
-
 
  Phone: 202-719-5297
 
-
-
  Fax:
-
-
 
  Email: srecs@nextilityc.o m
 
-
-
  Nameo f ContactP erson:B ridgetC allahan
-
-
 
  ContactP ersonT itle, addressa ndc ontacti nformation:
 
-
-
  SRECO perationsA nalyst
-
-
 
  1718C onnecticuAt ve,N W, Suite3 00
 
-
-
  WashingtonD, C 20009
-
-
 
  Phone(: 202)448-7643
 
-
-
  For:
-
-
 
  Email: bridget@solsystemscompany.com
 
-
-
  l, LLC -DC-ST-l.62lkwF acility
-
-
 
  2.
 
-
-
  FJ
 
-
-
  a
-
-
 
  (2 -1'11
 
-
-
  f l " , n r
-
-
 
  --t -1
 
-
-
  ' . l
-
-
 
  :.--
 
-
-
  r'*)
-
-
 
  J*
 
-
-
  3.
-
-
 
  4.
 
-
-
  5 . Location of Resource:
-
-
 
  EWithin GeographicA rea of PJM lnterconnectionL,. L.C.
 
-
-
  n Other (specifu):
 
-
-
  Fuel Types (Check all that are Applicable; see Notes for Additional
-
 Definitions)
-
-
 
  Tier I
 
-
-
  XSolar Energy
-
-
 
  Descriptiono f system- includingt ype of application( e.g.p hotovoltaico r
 
-
-
  thermal),m anufacturer/suppliemr,o deln ame/numbers,y stemo rientation( tilt
-
 and
-
-
 
  azimuth) and type of meter (including model name/number):
 
-
-
  Type: ST
-
-
 
  ModuleM anufacturear ndM odel: SchucoU SA & CTE 200 CH 2 / CH 5
 
-
-
  Number of Modules: 17
-
-
 
  Module Power Rating (watts): N/A
 
-
-
  Tilt and Azimuth: 45 &,155
-
-
 
  Type of Meter: OIML Certified Meter
 
-
-
  MeterM anufacturear ndM odel Number: iSTEC& 5202
-
-
 
  SRCCO G 100M oduleNumbe2r 0090174
 
-
-
  trWind
-
-
 
  nQualifying Biomass
 
-
-
  EMethanef rom the anaerobicd ecompositiono f organicm aterialsin a landfill or
-
-
 
  wastewatert reatmentp lant
 
-
-
  DGeothermal
-
-
 
  ilOcean, includinge nergyf rom waves,t idesoc urrents& thennald ifferences
 
-
-
  EFuel Cellsp roducinge lectricityf rom qualiffing biomasso r methanea s
-
 described
-
-
 
  above
 
-
-
  Tier II
-
-
 
  EHydroelectric Power other than Pumped Storage
 
-
-
  lWaste-to-Energy
-
-
 
  RatedC apacity: 35.16k W Estimateda nnuals avingso f 42,194k Wh
 
-
-
  Other (speciff): (6.8 kwh per panel per day * 17 panels i 365 days = 42,194
-
 kWh)
 
-
-
  If muttiple fuel sources are utilized, attach the forrnula for computing the
-
 proportion of
-
-
 
  output per fuel type by MWh (or kWh) generated.
 
-
-
  7.
-
-
 
  9.
 
-
-
  10.
 
-
-
  8. OperationaSl tartD ate: 9llll20l5 (or dateo f approvedin terconnectionw ith
-
 PEPCO,i f
 
-
-
  appropriate)P. leasen otet his datei s aftert he inspectiond ated uet o a lag
-
 between
-
-
 
  completion and sale of project.
 
-
-
  If co-firing with fossil fuels, co-fire start date:
 
-
-
  If co-firing with fossil fuels,s ubmitt he allocationf ormulat hat indicatesth
-
 e
-
-
 
  facility'sa nnualp ercentageo f elechicityp roductionf rom fossil fuels.
 
-
-
  Is the facility a behind-the-mete(Br TM) generator?
-
-
 
  XYes (answer (a) below)
 
-
-
  []No
-
-
 
  (a) Is net metering used? XYes trNo
 
-
-
  As of the date of this Application, is the facility currently certified by
-
 another state as an
 
-
-
  eligible generationre sourceto meett he renewablep ortfolio standardos f that
-
 state?
-
-
 
  nYes XNo
 
-
-
  Name of State:
-
-
 
  StateC ertificationA gency:
 
-
-
  State Certifi cation Number:
-
-
 
  Date Issued:
 
-
-
  RequiredD ocumentationto be Attached:
 
-
-
  XCurrent Certificateo f GoodS tandingi,f applicablei,s suedb y the statei n
-
 which the
-
-
 
  businessw asf ormed
 
-
-
  nOne copy of U.S. Deparbnenot f Energy,E nergyI nformationA dministrationF orm
-
 EIA-
-
-
 
  860,i f ratedc apacityis &gt; 1.0M W
 
-
-
  XCertificateo f Authorizationt o ConductB usinessin the District of Columbia.i
-
 f
 
-
-
  applicable
-
-
 
  XAffrdavit of General Compliance
 
-
-
  XAffidavit of EnvironmentaCl ompliancei,f the ratedc apacityi s greatert han
-
 l0kw
-
-
 
  SDocumentationo f authorityt o signo n behalfo f Applicant
 
-
-
  Xlnterconnectiona pproval etterf rom PEPCO,i f applicable
 
-
-
  f,Documentationt hat the energyo utputo f the nonresidentiasl olarh eating,c
-
 ooling,o r process
 
-
-
  heatp ropertys ystemsp roducingo r displacingg reatert han 10,000k ilowatt
-
 hoursp er year
 
-
-
  is determinedb y an on-sitee nergym etert hat meetsp erformances tandardse
-
 stablishebdy
 
-
-
  the IntemationaOl rganizationofL egalM etrology( OIML) andt he solarc
-
 ollectorsu sed
 
-
-
  havea OG-100c ertificationf rom the SolarR atinga ndC ertificationC orporation(
-
 SRCC),
-
-
 
  if applicable
 
-
-
  nDocumentationt hat the energyo utputo f the nonresidentiasl olarh eating,c
-
 ooling,o r process
 
-
-
  heatp ropertys ystemsp roducingo r displacing1 0,000,o r less,k ilowatt-howsp
-
 er yeari s
 
-
-
  determinedb y the SRCCO G-300a nnuals ystemp erformancera tingp rotocola
-
 pplicable
 
-
-
  to the propertyo r by an onsitee nergym etert hat meetsp erformances tandardes
-
 stablished
-
-
 
  by OIML andt he solarc ollectorsu sedh avea OG-100c ertificationf rom SRCC,i f
 
-
-
  applicable
 
-
-
  ilDocumentationt hat the residentiasl olart hermals ysteme nergyo utputi s
-
 determinedb y the
 
-
-
  SRCCO G-300a nnuals ystemp erformancera tingp rotocolo r by an onsitee nergym
-
 eter
 
-
-
  that meetsp erformances tandardes stablishebdy OIML andt he solarc ollectorsu
-
 sedh ave
-
-
 
  a OG-100c ertificationfr om SRCC,if applicable
 
-
-
  Underp enaltyo f perjury,t he undersignedh etebya ffirmst hat he/sheis
-
 authorizedto andh ereby
 
-
-
  doesm aket his Applicationf or the Applicanta ndt hat basedu ponp ersonakl
-
 nowledgea nd
-
-
 
  informationt he contentso f this Applicationa ret rue.
 
-
-
  l0l7l20I5 BridgetC allahanS, RECO perations
-
-
 
  Date Printed Name and Title
 
-
-
  Notes:
 
-
-
  l) "Solare nergy"m eaRsra diante nergy,d irect,d iffuse,o r reflected,r
-
 eceivedf rom the suna t
 
-
-
  wavelengths uitablef or conversionin to thermal,c hemical,o r electricale
-
 nergy,t hat is collected,
-
-
 
  generatedo,r storedf or usea t a latert ime.
 
-
-
  2) "Qualiffing biomass"m eansa solid,n onhazardousc,e llulosicw astem aterialt
-
 hat is
 
-
-
  segregatefdro m otherw astem aterialsa, ndi s derivedf rom any of the following
-
 forestr elated
 
-
-
  resourcesw, ith the exceptiono f old growtht imber,u nsegregatesdo lid waste,o
-
 r postc onsumer
-
-
 
  wastepaper:
 
-
-
  (A) Mill residue;
-
-
 
  (B) Precommerciaslo ft woodt hinning;
 
-
-
  (C) Slash;
-
-
 
  (D) Brush;
 
-
-
  (E) Yard waste;
-
-
 
  (F) A waste pallet, crate, or dunnage;
 
-
-
  (G) Agriculturals ourcesin cludingt reec rops,v ineyardm aterialsg, rain,
-
-
 
  legumess, ugar,a ndo therc rop by-productso r residueso; r
 
-
-
  (H) Co-fired biomass.
-
-
 
  AF'F'IDAVIT OF GENERAL COMPLIANCE
 
-
-
  State of DC
-
-
 
  : ss.
 
-
-
  County of Washineton :
 
-
-
  BridgetC allatranA, ffiant, beingd uly sworn/affrrmeda ccordingto law, deposesa
-
 nds ayst hat:
 
-
-
  He/shei s the Associate( Officer/Affiant)o f GCP- Nextility l. LLC (Nameo f
-
 Applicant);
-
-
 
  Thath e/sheis authorizedto andd oesm aket his affidavit for saidA pplicant.
 
-
-
  Thatt he Applicanth ereinc ertifiest o the Commissionu nderp enaltyo f perjuryt
-
 hat:
 
-
-
  TheA pplicanta cknowledgetsh at any changein compliances tatusc onstitutesa
-
 changeo f
 
-
-
  information, notice of which by Applicant is required to be filed with the
-
 Public Service
-
-
 
  Commissionim mediately.
 
-
-
  The Applicantf urtherc ertifiest hat he/sheh asp ersonallye xamineda ndi s
-
 familiar with all
 
-
-
  informationc ontainedin the foregoinga pplicationi,n cludinga ny attachmentasn
-
 da ppendices,
-
-
 
  and further certifies that information to be true, correct, and complete.
 
-
-
  Before Me this 7 dav of October 2015.
-
-
 
  of Official Administering Oath
 
-
-
  Expires:
-
-
 
  MyoonrrHon odres SeQlQfirt
 
-
-
  ' ' '"
-
-
 
  AFFIDAVIT OF ENVIRONMENTAL COMPLIANCE
 
-
-
  Nameo f RenewablEe nergyF acility( "Facility"):G CP- Nextility I,LLC -DC-ST-l.
-
 62lkw
-
-
 
  Facility
 
-
-
  Facility address:
-
-
 
  2100F stN w
 
-
-
  Washington, DC 20052
-
-
 
  Renewablere sourceu sed:S olart hermal
 
-
-
  Contact person for the facility ("Contacf) - include name, address (if
-
 different from above),
-
-
 
  phone number, and e-mail address:
 
-
-
  Zachary Axelrod
-
-
 
  1606 20th st Nw
 
-
-
  WashingtonD, C 20009
 
-
-
  202-719-5297
-
-
 
  srecs@nextility.com
 
-
-
  Confirmationo f Complianceo r Non-Compliancew ith EnvironmentaRl equirements
-
-
 
  (Check either (a) or (b)):
 
-
-
  X(a) The Facility complies with all applicable state and federal environmental
-
 requirements,
 
-
-
  includingo btainingo r renewinga ll applicables tatea ndf ederale nvironmentapl
-
 ermits. ln
 
-
-
  addition,t his Facility hasn ot experienceda ny major environmentavl iolationsd
-
 uringt he
-
-
 
  precedingy ear.
 
-
-
  n@) The Facility doesn ot complyw ith all applicables tatea ndf ederale
-
 nvironmental
-
-
 
  requirements.
 
-
-
  Major environmentavl iolations( Checke ither( a) or (b)):
 
-
-
  X(a) The Facility hasn ot experienceda ny major environmentavl iolationsd
-
 uringt he preceding
-
-
 
  year.
 
-
-
  n(b) The Facility hase xperienceda major environmentavl iolation duringt he
-
 precedingy ear.
 
-
-
  Pleaseli st all Federala nd StateE nvironmentaPl ermitsf orthe facility,
-
 includingp ermit number,
-
-
 
  datea uthorizede, xpirationd ate,a nd agencyc ontact.
 
-
-
  Permit Type PermitNumber Date Authorized Expiration Date Agency Contact
 
-
-
  Bridget Callahan, (Narne of Officer/Affiant), being duly sworn/affirmed
-
 according to law,
-
-
 
  deposesa nds ayst hat:
 
-
-
  He/sheis theA ssociateo f GCP- Nextility l, LLC -DC-ST-1.621kwFa cility
-
-
 
  Thath e/sheis authorizedto andd oesm aket his affidavit for saidF acility.
 
-
-
  ThatB ridgetC allahanh ereinc ertifiest o the Public ServiceC ommissiono f the
-
 District of
-
-
 
  Columbia under penalty of perjury that:
 
-
-
  The Officer/Affiant acknowledges that any change in compliance status
-
 constitutes a
 
-
-
  change of information, notice of which by Officer/Affiant is required to be
-
 filed with the Public
-
-
 
  ServiceC ommissionim mediately.
 
-
-
  The Officer/Affiant further certifies that he/she has personally examined and
-
 is familiar
 
-
-
  with all foregoing information, including any attachmentsa nd appendicesa, nd
-
 further certifies
-
-
 
  that information to be true, correct, and complete.
 
-
-
  Sworna nd SubscribedB eforeM e this 7th dav
-
-
 
  Signattre of Official Administering Oath
 
-
-
  Myc ommissEio,.np i."r'Sc?k**l,.lr1O / hI-C
-
-
 
  Dbffictccf otmlaa:s s
 
-
-
  *@usr{shws
-
-
 
  SCHEDULEA
 
-
-
  G.ncrrtor Owncr't ConrGnt
 
-
-
  The undersignedo, n behalf of the GcneratorO wnerG CP - N.xtlllW 1, LLC1 ,
-
 representst o PJME nvironmentaIln formationS ervlces,I nc.
-
-
 
  ("E15"t)h at:
 
-
-
  1. l/we am/aret he GeneratgrO wnerw ho holdsl egalt itle to the GeneratingU
-
 nit(s)d esignatedb elow,
-
-
 
  2. lAilet he GeneratorO wner,( checko ne)
 
-
-
  InereOy grant authoritya nd permissionto AccountH older,S ols ystems,L Lc2 to
-
 creatc and trade all Certificatesa ssociatedw ith the
 
-
-
  followlngG eneratingU nit(s),w hichC ertificate9s halla lsob e registeredtc the
-
 GATSa ccount(s)g fthe AccguntH older.
 
-
-
  lXereUy electt o createa nd trade all Certlflcatea ssoclatedw ith the
-
 followingG eneratlngU nlt(s)w lthln my own GATSa ccount.
 
-
-
  3. t/we the GeneratorO wnerf urther representst hat Uwe have nat granted
-
 simllar authority or permissiont o any other subscribero r
-
-
 
  account holder for use In the GATS or any similar system.
 
-
-
  4. Uwe,t he GeneratorO wner,u n{erstandt hat this Consents upersedesa ny and
-
 all Consentsth at have been submittedp rior to the date
 
-
-
  specifledh erein.A ny and all priorC onsentsw ill be considcredn ull and vold
-
 and the a$lgnment of rightst ermlnated.
 
-
-
  5, The asslgnment of rights that occurs withln this Consent does not absolve
-
 the Generator Qwner from upholdlng any contractual
-
-
 
  obligatlons that exlst outside of GATS.
 
-
-
  6. By executingt his Consent,t he GeneratlonO wner representsi t dqes not have
-
 any contractualo bligatlonst hat would precludet he
-
-
 
  executiono f this Consent,
 
-
-
  Gon.r.tlng Unlt l{amc end Addrrrr
-
-
 
  Optlonal: lGcncntlng Unlt Sirc/Syctcn Slrrl
 
-
-
  PrM iISET lDgI EIA Plrnt Codc rnd &euro;rnrretor ldutlflrr (er
-
-
 
  eppllcablc)
 
-
-
  GCP- Nextility1 , LLC.D C-ST-1.62lkFwac ility
 
-
-
  2100F S t NW,W ashingtonD, C2 0052
-
-
 
  1.621k W( ore qulvalent)
 
-
-
  Zachary Axelrod
-
-
 
  President
 
-
-
  2015-09-14
-
-
 
  Dlrcctlons for Gcnerator OwnGr's Conscnt
 
-
-
  All Informatlon on thls GGnerator Owncr's Conscnt must bc typcd or ncatly
-
 prlntcd In bluo or blrck Ink ar follows:
 
-
-
  1. Filli n the GeneratorO wner'sf ull legaln ame,i ,e,A BCD omesticE nergyC
-
 ompany,I nc,
 
-
-
  2. Filli n the AccountH oldedsf ull legaln ame,L e, ABCD omestlcE nergyC
-
 ompany,I nc.
 
-
-
  3, lf GeneratorO wneri s a corperationp, artnershipo r other legale ntity,t his
-
 Consentm ust be executedb y a companyo fficero f the
 
-
-
  GeneratorO wner.l f GeneratorO wneri s an Indlvidualt,h is Consentm ugtb e
-
 execut&euro;db y the individual.
-
-
 
  4. Returnt he original,c ompletedC onsent g:
 
-
-
  GATS Admlnlstrdor
-
-
 
  c/o Plil EnvlrcnmGntal Informatlon Scrvlccs r
 
-
-
  Incr, 955 fcffcrron Av.nua
-
-
 
  J{orrfstown,PAf94o3-2407
 
-
-
  ' { t'
-
-
 
  Name:
 
-
-
  Title:
 
-
-
  Date:
-
-
 
  5ol Systems, LLC
 
-
-
  Page 7 of 7 ilt|i lililililil|ililf lililtiilliillI til ililililiilli l
-
 ||ililfifli l t ilil1
-
-
 
  GE]IERATOR OW]{ER3
 
-
-
  Shdn@
-
-
 
  W GOVERNMSNT
 
-
-
  ffi$ oFil-tE
-
-
 
  DlsTRlcor f coLUMEIA
 
-
-
  Muriel Bowser, MaYor
-
-
 
  Oepartmenot f Csngumear nd
 
-
-
  EusinessL icenseD ivision
-
-
 
  1100 4th Street s.w.
 
-
-
  Washington SC 20044
-
-
 
  RegulatorAy ffairs
 
-
-
  gatetssued; 9911212015
-
-
 
  CategorY: 4003
 
-
-
  Lirense$: 400315901845
-
-
 
  l-itenseP erind:0 3J01/2015-0l22U 2O17
 
-
-
  BillingN amea nd Address: Prenlise/Applicatisn'Ns arnea nd Addrers:
-
-
 
  GCP:NEXTILIT1Y, L LC
 
-
-
  BROOI&euro; $HEPPARD
-
-
 
  1OOzSO THS TN W,
 
-
-
  WASHINGTON,
-
-
 
  DC ?0009
 
-
-
  GCP-NEXTILI1T,YL L C
-
-
 
  1606 2OTH STREET NW,
 
-
-
  WASHINGTON,
-
-
 
  DC 20009
 
-
-
  RegisteredA gent'sN amea nd Address:
-
-
 
  GCP-NEXIILITY1 . LLC
 
-
-
  ZACHARYAXEI.ROD
-
-
 
  1749 T ST NW,
 
-
-
  #APT 1
-
-
 
  WASHINGTOND, C 2OOO9
 
-
-
  0rninerN'sa me
-
-
 
  "rdnrpN. ame GCP-Nextifity1 , LLC
 
-
-
  Trade Name
-
-
 
  l a;iolHpPC;'O13024'Jl i ssr:0093qlg{-*lry,
 
-
-
  i CLA55: i unitrsi
-
-
 
  GeneraBl usines-s G eneraBl usinesLs icenses
 
-
-
  IHE tAW RCQUIRITSr -llSL ICINsIT S {]EF OSTI$lN A CofdSFlCUOFUL5A CEfiN THEF
-
 REMISES*
-
-
 
  Inter imD i rectorM: el indaB ol l ing
 
-
-
  *ticenseE ffectivefi romt he later* f lsslledc r Starto f License-PerioDda te
-
-
 
  ffiOovernmento f theD istricot f Columbia
 
-
-
  CERTIFICATOEF C LEANH ANDS
-
-
 
  GCP.NEXTILIT1Y, LLC
 
-
-
  NOA DDRESSO N FILE
-
-
 
  NA, NA OOOOO
 
-
-
  EIN : *****3733
-
-
 
  As reported in the Gitywide Clean Hands systern, the above referenced
 
-
-
  Individual or entity has no outstandingrlia$tlfty with the District of
-
-
 
  Columbia. Ae of the date herein, yoy hafh- eomplied with the following
 
-
-
  official DC code and therefore al I this Certificate of Clean
-
-
 
  Hands. :j
 
-
-
  ,t),
-
-
 
  TITL E 47,T AXATION-.I -ICEI.IS.II'IPCE, RMIT S,A SSESSME NTSA ND FEES
 
-
-
  CHAFif,ER2 8. GENERALL ICENSEL AW
-
-
 
  SUBCHAPTEIRI. C EFANI {ANDSB EFORER ECEIVINGA LICENSEO R PERMIT
 
-
-
  ,,,, . '.." D.C. Code 947-2862 (2006)
-
-
 
  $ 43-4,,ts#P, rohibitiona gainsti $suanceo f licenseo r permit.
 
-
-
  trttJ
-
-
 
  Authorized By Bobby Tucker
 
-
-
  Chief Collection Division
-
-
 
  f racking#:337281
 
-
-
  Date: Tuesdav this 12th dav of Mav 2015 01:46 PM
-
-
 
  This document ts a ceftifled, complete and true copy
 
-
-
  SUPPLIER:
-
-
 
  Scfiuco USA LLLP
 
-
-
  240 Pane Road
-
-
 
  NewingtonC, T 0611 1 USA
 
-
-
  www.schuco-usa.com
-
-
 
  CERTIFIEDS OI.A,RC OLLECTOR
 
-
-
  BRAND: PerformancCe ollector
 
-
-
  cTE220 CH 2 / CH 5
-
-
 
  Glazod Flat Plate
 
-
-
  2009017A
-
-
 
  February0 7,2011
 
-
-
  Decembe1r 0,2022
 
-
-
  MODEL:
-
-
 
  COLLECTORT YPE:
 
-
-
  CERTIFICATIO#N:
-
-
 
  OriginaCl ertifci ation:
 
-
-
  ExpirationD ate:
 
-
-
  The solarc oll&euro;ctorli stedb elowh as beene valuatedb y the SolarR ating&
-
 CertificationC orporationil( SRCCil) in accordancew ith SRCCO G-100,O
-
 p&euro;rating
 
-
-
  Guidelinesa nd MinimumS tandardsfo r CertifyingS olarC ollectorsa, nd has beenc
-
 ertifiedb y the SRCC.T his awardo f certificationis subjectt o all termsa nd
 
-
-
  conditionso f the ProgramA greemsnta nd ths documentsin corporat&euro;dth
-
 ereinb y reference.
-
-
 
  REIIIARKS:
 
-
-
  $**p,qa,*
-
-
 
  PrintD ate:J anuary2, 013
 
-
-
  @S olarR ating& CertificatioCn orporationil
-
-
 
  Point Drive, Suite 400 O Cocoa, Florida 32926 a
 
-
-
  COLLECTORT HERII L PERFORMANCER ATING
-
-
 
  l(|orat{pua (thcmal) Per Panol Por Day Thousands of Bt Pcr Penol Per Day
 
-
-
  Climate -&gt; High Radiation
-
-
 
  (6.3 kwh/m'..day)
 
-
-
  M&euro;dium Radiation
-
-
 
  (4.7 kwh/mz.day)
 
-
-
  Low Radiation
-
-
 
  (3.1 kwh/m'.day)
 
-
-
  Climate -&gt; High Radiation
-
-
 
  (2000 Btu/fr'z.day)
 
-
-
  M6dium Radiation
-
-
 
  (1500 Btu/fl3.day)
 
-
-
  Low Radiation
-
-
 
  Cat&euro;gory (1000B tu/fl3.day)
 
-
-
  Oi-Ta)
-
-
 
  Category
 
-
-
  ffi-Tal
-
-
 
  A G5'C) 12.4 9.4 6.4 A (-9'F) 42.3 32.0 21.8
 
-
-
  B (5'C) 11.4 8.4 5.4 B (e'F) 38.9 28.6 18.4
-
-
 
  c (20'c) 9.8 6.8 3.9 c (36 "F) 33.4 23.2 13.3
 
-
-
  D (50'C) 6.8 3.9 1.4 D (e0'F) 23.1 13.4 4.6
-
-
 
  E (80'C) 3.9 1.5 0.0 E (144'F) 13.3 5.2 0.0
 
-
-
  A- PoolH eating( WarmC limate)& ' PoolH eating( CoolC limate)G WaterH eating(
-
 WarmC limate)
-
-
 
  D Space& WaterH eating( CoolC limate)E - CommerciaHl otW Ater& Cooling
 
-
-
  coll-EcToR sPEclFtcATroNs
-
-
 
  GrsArea: 2.690m 'z 28.95f l3 DryWelght 48 ko 106r b
 
-
-
  NctApcrtrteAne: 2.500 m' 26.91 tl: Fluld Cagadty 2.2lilel 0.6 qal
 
-
-
  Ab&euro;o6&euro;rAr&euro;a: 2.5Mm' 26.95 fr' T&euro;st Pr&euro;s6ure: 1500 kPa
-
 21E psi
-
-
 
  TECHNICALIN FORMATION Teetedi n accordancau ,lh:
 
-
-
  ISOE llldencyE quatlon[N OTE:B asedo n grossa reaa nd (P)=Ti-Ta]
 
-
-
  S1U NITS: n= 0.736- 3.3951O(P/-G 0). 00940(P7G) Y Intercept: 0.741 Sbpe: 4.021W
-
 m2."C
 
-
-
  IP UNITS: n= 0.736- 0.59836(P/G-) 0 .00092(FEIG) Ylnbrept 0.741 Slope: -0.709B
-
 tu/hr.ff.'F
-
-
 
  lndd&euro;ot Anglo Modlfr&euro;r Test Fluld: Water
 
-
-
  e 10 20 30 40 50 60 70 Teet MasE Flolv Rate: 0.0193 kg/(s m') | 1a.20 tbl(hr
-
 ft)
-
-
 
  KIu 1.00 0.99 0.99 0.98 0.96 0.92 0.85 lm@SaffiyRdng:
 
-
-
  TechnicaDl irector
-
-
 
  o 400 21$6037 t Fax 1) 821-0910
 
-
-
  L/OD F Sb.
-
-
 
  Paoe I ofl
 
-
-
  CER1IFIED SOIIR, COITECTOR
-
-
 
  SUPPLIER;
 
-
-
  Sdruco USAltlP
-
-
 
  240 Pane Road
 
-
-
  NewingtonC,T 06'll1 USA
-
-
 
  www.echuco-uga.com
 
-
-
  BRAND:
-
-
 
  MODEL:
 
-
-
  COLLECTOTRY PE:
-
-
 
  CERTIFICATIO#N:
 
-
-
  OriginaCl erticfia tion:
-
-
 
  ExpiratioDn ate:
 
-
-
  PerformancCe ollector
-
-
 
  cTE220 CH 2 / CH 5
 
-
-
  Glazed Flat Plate
-
-
 
  20090174
 
-
-
  Februar0y7 ,2011
-
-
 
  Decembe1r0 ,2022
 
-
-
  The eolarc olloctorli etedb olowh as boene veluetedb y th6 SolarR ating&
-
 CertiflcatioCn orporationil( SRCCI"1in accordancew lth SRCCO G.
 
-
-
  100,O peratlngG uldellnee nd MlnimumS tanderdsfo r CertlfylngB olarC
-
 olloctorse, nd has beenc ertifiedb y the SRCC.T his awardo f
 
-
-
  certlficationls subjectt o all terms antl conditionso f the ProgramA greonrente
-
 nd the documentsi ncorporatedth &euro;reinb y reference.
-
-
 
  ADDmOMI INFORMATIO(Nc lickh eret o r&euro;tumt o the ratlngp ase)
 
-
-
  TostL ab: Forschungsu-n dT estzentrumfll r
-
-
 
  Solaranlage(nT ZS)a m h$iut f0r
 
-
-
  Thermodynamuikn d
-
-
 
  Wdrmetechnl(klT W)d er
 
-
-
  UniveraltdSt tuttoert
-
-
 
  TestR eportD ate: Decemb1e0r ,2 010
 
-
-
  Test Report Number: 10co1872 Test conducted:
-
-
 
  souR cor.LEcroRco t{SfRuemoDNE TAI.s
 
-
-
  cou-EcroRirATERArs
-
-
 
  OubrCffi: I Glsssaheet lEndourubec|c Auminum I Bd( lnetrh0fi: I Fiber, None
 
-
-
  lnftcrCdrr: Glaes sheet Endomrltb: Aluminum l 8['h lneuffim: , None
-
-
 
  Abuter Dsrcdndon: Flowffim:
 
-
-
  RhcrTube: Copper Fln:
-
-
 
  AboorDcrGoeilm: Selective tUbc b lln connocdon
 
-
-
  Ohlm q.|brcovu lnn*Corcr
-
-
 
  lrkblhl: Glasse heet Glasss heet
 
-
-
  &rff&euro;chorcbda0fl:
-
-
 
  Thrlclarce: 4.0 mm 0.0 mm
 
-
-
  TnmrnbdvM
-
-
 
  lrngth: 2.120m
 
-
-
  Wldtt 1.220m
-
-
 
  Tubo GEm b Hc.dcr Endcuro gal: EPDM oaeket
 
-
-
  AESORBER AboodrrGoatm: lselective
-
-
 
  l{edcrlftbdrl: HeedrOD: lledHWill:
 
-
-
  RlrcrTutn Mebdal: Copper RlccrTubOe D: RFrrTubcWsll
-
-
 
  Thhlocc:
 
-
-
  Flnlhubl: FlnT hlolnce: 0,80m m
-
-
 
  Pase ). of 1
 
-
-
  Fbrr Pdern:
-
-
 
  Numbeor f Rlser
 
-
-
  Tubc:
-
-
 
  1 Tuba Spadng: Numbeorf tmee
 
-
-
  each dsercmorg
-
-
 
  the abeoftst:
 
-
-
  1
-
-
 
  tengilh dFlow Pdt: 17.53m RIE&euro;rbFln/Fm
 
-
-
  Bond:
-
-
 
  I}.ISUIATION:
 
-
-
  Locdon TIDo Thlclspos Locaton Type Thlclatecc
-
-
 
  Bad&lt;-Too l-awn Fiber Sl&s- Innerl- ayon
 
-
-
  Badr-Botbm l-aytt: None Sklee- OftrLayer: None
-
-
 
  Endcum FastenlnMo efto&:
 
-
-
  PRESSURE DROP
-
-
 
  Flow AP Flow AP
 
-
-
  mUs Pa spm ln Hd)
-
-
 
  20 0.32
 
-
-
  50 0.79
-
-
 
  80 1.27
 
-
-
  Pege i of?
-
-
 
  fs f&euro;gn | $p 811A6 rtinstoBntv #d1 4eI F attcsh urchv,A 22042
 
-
-
  CO n 5t f U Ct I O n Tel:(20726) 04373lFax:(575023-)7
-
 500lEmail:INFO@Greentopconstruc{ion.com
-
-
 
  CLIENTI NVOICE lnvoice# 158{8
 
-
-
  Address
-
-
 
  CitY
 
-
-
  Phone
-
-
 
  16062 0th StreeNt W 2nd Floor OrdeNr o.
 
-
-
  Rep
-
-
 
  ProposaNlo .
 
-
-
  Washington state DC 4129999_
-
-
 
  202-719-5297
 
-
-
  rrqje9l t\ame: uaK(,ta natl
-
-
 
  SubjecAt ddress:2 100F ST NW
 
-
-
  Unit Total
-
-
 
  I
 
-
-
  2
 
-
-
  J
-
-
 
  System Filling 10%
 
-
-
  Govt InspectionCs omplete1 0olo
-
-
 
  SystemG eneratingE nergy1 0%
 
-
-
  4,4160 0
-
-
 
  4,41600
 
-
-
  4,4t5.00
 
-
-
  4,416.00
-
-
 
  ,{,4'16.00
 
-
-
  4,416.00
-
-
 
  Subtotal $13.248.0(
 
-
-
  Taxes tnc
-
-
 
  Total $13.248.0(
 
-
-
  Payments/Credits
-
-
 
  BalanceD ue $r3.248.0(
 
-
-
  All materiails guaranteedto be as specifiedA. ll workt o be completeda
-
 ccordingto specificationssu bmiftedp, er
-
-
 
  standardp racticesO. ur companyi s licenseda nd insured.
 
-
-
  I lFallsG hurchV, A 220d2
-
-
 
  x (703)5 52-7506| E mailI:N FO@GreentopConstruclion.com
 
-
-
  CLIENT INVOICE Invoice # 15909
-
-
 
  Address 16052 0thS treeNt W 2ndF loor
 
-
-
  SubjectAddress2: 100F ST NW
-
-
 
  & SubcontracloFr inal LienW aiver(s)
 
-
-
  ChangeO rder Eledricelr e-wiring,a pprovedb y ReganS .
 
-
-
  Allmatedsll * guarantocdto bc rc spccificd.A ll uott b bo eomplrHt accgdineb
-
 rpocificetou eubmtttcdp, or
-
-
 
  rterdard pracffqccO. urc orpary lr lbcnrsd and inrurucl.
 
-
-
  Exhiblt A n*-ii$y" P'toFri Dlrcrtpdon fiar tl OO F fit tltfY
 
-
-
  ThlbP rojec*Descrlptionis enbred into by ergafrog Ccffe&tqr[ ltr'Ge nd
-
 llrutttllry' hq pursuantto'the
-
-
 
  In*tallationA greementh at th&euro;y enteredi nto on Orilob* fin, tolg.
 
-
-
  LscpEsfxnnK
-
-
 
  Owners hallp rovldea fl requiredd esigna nd enginaeringd rawings-
 
-
-
  Contrectorlh all applyf or and ohaln all reguiredb ullding permits.
 
-
-
  Owners haflo brainc ustornesr ign off on the Noticao f FinalD eelgnb eforep
-
 roeeading.withln smllaticn,
 
-
-
  eontractor shaff install a functlonal sofar domestic water lieating syttern Er
-
 per the prsvidEd $tructulal and
-
-
 
  Mechanicaflll ans"
 
-
-
  Contrafiors hallr ubmha ll ttemel istedo n the "SWH* SubmittaRl eview[i sf for
-
 approvalb y Owner.
 
-
-
  Contractor* halfp rovidea ll *andard materialsre guiredf or a completei
-
 nstallationi;n cludingb qt oot liinftedt o
 
-
-
  plpe,v alves,f ittings,l nsulationr, nountingh arduare;c onsumablesa,n d all
-
 rnaiorc ompor*antsl howni n the
-
-
 
  ContrastorM aterialsL ist
 
-
-
  Contractors hallb e responsiblels r documentinga ll pre-existings ite
-
 conditionsa nd all sbges of csnstruction,
 
-
-
  includingd eUitadd ocur$entationo f any,a nd all. manlpulatlontse exlstingc
-
 onditlons.C ontractors hallb e
 
-
-
  responoiblefo r anyd amagesin curredd uringt he in:tallationp roces*t o
-
 +xlstingc onditions.
 
-
-
  Upon complntion.C ontffictrrrs hall Frevidb As4ui{t Orawingna nd
-
 fns,tallat'onO, peraton & Maintanance
 
-
-
  Manuatsfc r all majsriystemc ornpbnentsa nd cornpsn&euro;nEr equiringr
-
 nalntenanct
-
-
 
  Owner 'shallp rovidgt he OwnerF urnishedM aterialsin the MaterialsL ist
 
-
-
  ContracnorshaIlnl apecat nd reurn damagedO wnerF urnishEdM aterials.
 
-
-
  Contractors hallfilf out requiredi ncentiw compliancep apenrork as raquestedb y
-
 Ownar;n otto excsodf our
-
-
 
  (4) hours of work.
 
-
-
  Contractor ,shall install and cpnnect the Orrrnels ryctem monitoring
-
 equiprnent, Installation $hall include
 
-
-
  connectiont o the backhauln, ertv*od+al l requircd wiring, lnstallationo f
-
 vglve tagr and of temperature
 
-
-
  sensort- applied usihgi hermal pnstoa nd alumin$mt ape to the exterioro f plpe
-
 wells* as indlcatedl n tha
 
-
-
  Owner-provided 9a/rc habaling and Temperaturp Sensar l"ocadorr Diagram, All
-
 sAndard consumables
 
-
-
  and srnaltl ools"s ucha sw ire sr alurninurnta pe.s hallb e providedb y
-
 Contractor,
-
-
 
  Contractors halla rrange:fora, tten4 andp ax all reguiredi ntpections,
 
-
-
  Contracor shall prwide all systema nd systemc omponenti nstallationo,
-
 pgratisn.s nd rnaintenancem anusls
-
-
 
  to Owner,
 
-
-
  Contraetsr shaH retum to the coritract site one tirne within fto (t) rnsnths
-
 following $e completion of all
 
-
-
  Negility lnrpectien Punch Lls* ltern* at Owney'g requ&euro;st to rnake up to
-
 {our man.hourc of syltem
 
-
-
  optirnilationc hangesto the syst&euro;rnre questedb y Owner.A ddition*l hoursw
-
 illba paid by Owner.
 
-
-
  'TheP roiacts hallb e.designedf ur an axpeffed ll{,etlrneo f 15 yea* and in
-
 conformancew lth the Strsctsrala nd
 
-
-
  MechanicalP lans,A ll Projactc ornFon&euro;ntsrh all have iFpropdat&euro;
-
 frrrhh te limh the d$estsO f ccrro;ion
 
-
-
  con$ist&euro;nwt ith this expectedl ifetime.T his expectedl ifetimeo f the
-
 Froj&euro;cta $gurn*tr egularr neintenance
-
-
 
  and repairs nd/pr replacernentos{ omec ompanentso f the Prolect.
 
-
-
  The Froject shall be designed to withstsnd the rrind lsadi. snow loads, soiemic
-
 loads, temp&euro;ratrrE, humidity
-
-
 
  Contrattor/or4,noht r.lL t
 
-
-
  exrremcs which would normal! he expeced te occur at the specified sites during
-
 the Project's design
-
-
 
  lifetlme.T he projea shallb e installeda s designed.
 
-
-
  The Project'sin stallations hallc omplyw lth the r&euro;quirementso f the
-
 applicablel pcalb uilding sqdes asd efined
-
-
 
  by the autharityh avingju risdictiono verthe Site.
 
-
-
  The Project'si nsrallations hall comply with the manufacturetrp eciftcationsf
-
 or all Materialsi ncluded in the
-
-
 
  Project,
 
-
-
  All Matarials and Orrner Furnlahed Materials ghall be in$alled in a manhar that
-
 l$ conslstent wlth
-
-
 
  man ufacture /s i nstallation instruEtionsre, qui remontsa nd war rantiee,
 
-
-
  Contractors hallp erforma ll roof work in acgordancew ith industryb est
-
 pradce6, EUchth at the usefull ifedma
 
-
-
  of modifiqationsm aded uring the sslar installatione xceedt he remainingu
-
 sefulf ifetirneo f the incumbqnl
-
-
 
  roofing sptcm.
 
-
-
  gontractor shall comply with stipulationso f roof installera nd mansfacturer'sw
-
 arrantyr egulationeto enruto
-
-
 
  customer'sre of warrantyi s maintained.{ lf apeliceble.)
 
-
-
  Conractor$ hallc onducta ll work in accordancew ith Universityc ontractorp
-
 roce$sea* nd procedures.
-
-
 
  ?.sr.rE*Pur
 
-
-
  S"UORKiGHEDt'TG
-
-
 
  lfitesbac
 
-
-
  Notice of Final Design Signed by Customer
-
-
 
  PermittingC omplete
 
-
-
  lnstEllationC omplete
-
-
 
  Nexility lnspectionP assed- SystemC ommiesioned
 
-
-
  LocalM unicipalityIn spectionC omplete
-
-
 
  4t1An5
 
-
-
  4t17t15
-
-
 
  5/20/15
 
-
-
  3t2U15
-
-
 
  5rz6t't5
 
-
-
  contractor/owni*jr| rll
-
-
 
  {.,mATEE_blg&lgJ
 
-
-
  8, s!/sTEtrp Eqc RlFflE il
 
-
-
  The solar ensrgy s)'stemE t DakotaR esidencell all ia camprlsedo f one
-
 clo.se&loops olar dome.stlcw ater heating
 
-
-
  system' The systemr arilcl onsi* of seventeen{ 17) SchucoC TE-220s olar
-
 collectorsb allast-mountedo n *re roof, Hot
 
-
-
  u,aters toragew ill be in a non-preesurized8 0O-gaflonta nk In the secondf loor
-
 rnechanicarl oorn of the roof level
 
-
-
  penthouse. There will be a pan under the rank with a pipe muted to ths rsaf in
-
 the event of a rank leak. Thera will be
 
-
-
  three bankgo f eollectorsw hh twelvec oltectorsfa cingd ue southa nd fiw
-
 collector5f acingd ue east Domestic$ ratgr
 
-
-
  will be preheatedu singa flat plata heate xchanger nountedi n Sreh ott*raterh
-
 eaterr oorn-T hiss ysternw ill atsoi nclude
-
-
 
  a fluid coolerfor added overheat protectiorl"
 
-
-
  5ge-e.dssn*idsff"i isns;
 
-
-
  colJectorin terconnectionse,n d caps,a nd pipe adapterst o bebbricated by
-
 Installer
-
-
 
  Drain pan required for llydroflar tank with pVC dnin liRe routed to roof.
 
-
-
  Ffouvrn&euro;letor be relocatedt o the hot watprh aaters ideo f boller ruom on
-
 cold litre.
 
-
-
  a
 
-
-
  a
-
-
 
  qrmrFwnHpClg44 tirnuftqtum: .itsC*l-t gsrrdtv Itt"dmafi
 
-
-
  Sky8ox & SkyMon
-
-
 
  2'Flow Meter
 
-
-
  STUC alculafinUg nit
-
-
 
  4. TemperatureP robeSat
 
-
-
  BrassT hermowello
-
-
 
  Label Package
 
-
-
  Schuco solar collectors
-
-
 
  |\|extillty
 
-
-
  Carlon
-
-
 
  ISTECC orporation
 
-
-
  i9TEC Corporation
-
-
 
  MeMaster-Carr
 
-
-
  N&euro;xtility
-
-
 
  Nextllity
 
-
-
  SKYBO)(,'.0
-
-
 
  eOoulrlms
 
-
-
  5202
-
-
 
  s602M
 
-
-
  4uS temY. r"h lPT
-
-
 
  cTE-2?0
 
-
-
  1
-
-
 
  I
 
-
-
  1
-
-
 
  2t
 
-
-
  17
 
-
-
  NONE
-
-
 
  ? Year
 
-
+ I Year
 
  I Year
 
-
-
- I Year
-
-
-
  NONE
 
-
-
  NONE
-
-
 
  M llrnqf|efit|r iln ld* Qt4pdty Ufrtrnrry
 
-
-
  HotWstdrS torageta nk
-
-
 
  HeatExchanger
 
-
-
  Solar Controller
-
-
 
  HeatE xchangeC ontroller
 
-
-
  CircslationF urnps
-
-
 
  ExpansionT ank
 
-
-
  Air Eliminator
-
-
 
  PropyleneG lycol
 
-
-
  Fluid Cooler
-
-
 
  Ccllector connections
 
-
-
  Hydroflex
-
-
 
  BrentI ndustrieosr Egual
 
-
-
  Resol
-
-
 
  Reml
 
-
-
  Grundfios
-
-
 
  Amtrol
 
-
-
  Taco
 
-
-
  Varies
-
-
 
  Luvata
 
-
-
  T800-5
-
-
 
  10x20.30
 
-
-
  DElraSoBi s/rt
-
-
 
  Delta5alAL
 
-
-
  Various
-
-
 
  Extrof 5&901/
 
-
-
  4?-075-C{
-
-
 
  Varies
 
-
-
  LFSsS1l -4t5-?C
 
-
-
  'l
-
-
 
  a
 
-
-
  I
-
-
 
  'l
 
-
-
  3
-
-
 
  1
 
-
-
  I
 
-
-
  I
-
-
 
  As required
 
-
-
  I
-
-
 
  10 Years
 
-
-
  1 Year
-
-
 
  2 Years
 
-
-
  2 Years
 
-
-
  1 Year
-
-
 
  I Year
 
-
-
  'trY ear
-
-
 
  NONE
 
-
-
  Contracror/Own*&r 1 f 0
-
-
 
  PevnrailGrilr
 
-
-
  Goatnct
-
-
 
  !$
 
-
-
  Foyfirsilrt
-
-
 
  Ameuilt Erqutmmrtrr
 
-
-
  Contracted 1096 $4,416
-
-
 
  Executed" ExhibitA"& "Suppller& SubcontractcrL ist"
 
-
-
  executed and returned to Nextility" *5l4rH *Submitbal
-
-
 
  ReviewC heeklisfa nd requireds rrbnifralsf orwarded
 
-
-
  to Nedllitv
-
-
 
  Permitted 30% $13,?49
 
-
-
  Copi*s of BulldingP entrit,F fumbtngP er,mi&t
-
-
 
  EleetricaFl ermitf orwardedt o Nextilltv
 
-
-
  NexillityI nspectionF riort o
-
-
 
  $lstenr Filling
 
-
-
  'tffi
-
-
 
  $4.416
 
-
-
  Proi&euro;ctM anagere nruresa ll B)r:Ftscrno mpsnshtsa re
-
-
 
  ln*ralled per plans and submittalr before *ystem ioopr
 
-
-
  are charsed orfilled.
-
-
 
  Go v't lnxpectionsC omplote 10% $4,416
 
-
-
  fopies of Flumbinga nd Finalfn spectionC ards
-
-
 
  fcrnffardetd0 Nextility
 
-
-
  $sten GeneratingE nergy 1s* $4,416
-
-
 
  Photo ef functioning Fump &euro;onrolleitel, and photo of
 
-
-
  BTIJC hannEAl tereen on EmeraldE TUC a{cutator
-
-
 
  rhowing temperatureS ncreasg
 
-
-
  NsxtilityI nspectionP assed&
-
-
 
  Supplier & Subcontrtctor
 
-
-
  Final Lien Waiver{sl
-
-
 
  Cornoleted
 
-
-
  ?5% $11.040
-
-
 
  Nenility Finall nspectionP assed{S eeF inalI nspe&euro;ilotr
 
-
-
  ChEcktirfto r Cnft*rta]e, xecuted" Suppliar&
-
-
 
  SubcontractoFr inalf -ienW aiver{s)a" nd As-Buiits&
 
-
-
  fO&M Manuals forwarded to Nardjlity
-
-
 
  Slstem Optirniaatlon &
 
-
-
  Exhibit B Comoleted
-
-
 
  5% $2,?09
 
-
-
  OptimhationV .rsict ompletea nd 'ExhibitB 'sxocuted
-
-
 
  and returned to Nextiliw
 
-
-
  Forn on fixed-prico,contrac!d$t,a nge* to tha estim*tedp apnenta rnountse
-
 ntareda bovee hallb e adJustedo n the final
-
-
 
  invoice.
 
-
-
  f4t*,160 ($a5?7.6p5e rpanell
-
-
 
  Codreet'or Productivify Incentive:
 
-
-
  Thisp rojCets halloounttowardsa prodpctivririyn centived ascribeda sf ollowsl
 
-
-
  . Fote achc slendarrnon*ri n whkh 100c olarc ollectonrh avep agad
-
 relwamgovernmentb uildingi nrpettiom, - will be
-
-
 
  rwardedflO,O00.
 
-
-
  . For Fctr ctlEndar momh in wfrlch 1 25 solar collsgmru hava pacrsd relavant
-
 governmentbuilding iorpccdon& -$lll b&euro;
-
-
 
  awerded fft Offi.
 
-
-
  r Thr n{fifbg o{ collgttors paidng golrlrnrnent lnspccgons dwing a caloadrr
-
 month wtll be cslculrttd lg a thrac monlh rolllng rvaraga.t
 
-
-
  . This produqtivhy incendw wlll become dqa tp the Cqfllrpctor ona mqn$ afier
-
 the end pd tlre calondlr lhofith in rrhich Sre Contnctor
 
-
-
  'firsgb ths r$Cdired eroductivt$ lqvst of psnsbfstting rrlerram buildkrg
-
 ifiipcction, fnd ir t$bjcctto dFrurrion nr goof falttr.tatffigfi
-
-
 
  gwntr and Corxrattor Orrmet wtll be dre final arbtter ol lnson{ve awird.
 
-
-
  t A "So1pCr ollectoll is deflrred as 40 squaref eet of collectora rea.
 
-
-
  ?T hreen ronthr ulllng averagoi s ealcqlstedb y aummlngt ha numbero f rolar
-
 collector,pEa ssingi nspectionsd uringt he
 
-
-
  monthi n questionw lthr ha numberq f golarc ollEetorsp a$$ingin spectiordr
-
 uringt he precedingm ontha nd tfren umber
 
-
-
  qf colarc ollectomp assingi rispectlond uringt he followingm onthlt hen
-
 dirtidingb y three.monthsA, s an exatnplea,
-
-
 
  calculationfo r tfie month of Junei s shownb elow:
 
-
-
  June Panels *
-
-
 
  contractor/own"r!LlO
 
-
-
  ?. sofrlrf.cf ll{Fo tlrtr- EEtf,EtFtl[lil,firEs
 
-
-
  All communicationasn d noticesr egardingo perationaml atterslo rthis Frojects
-
 hallb e addresgedth e each
-
-
 
  Pa rty's respective r&euro;presa ntrtiv&euro;:
 
-
-
  Coeilmstor
-
-
 
  MirkoO rsllana,P roiec,Mt anager Diractsro f SolarO perations
 
-
-
  811 6A rlingtonB hd,A pt. I 49
-
-
 
  ArlingrtonV A22O42
 
-
-
  703.395&euro;431
-
-
 
  1606e Ott'Streelq{W
 
-
-
  Warhington DC20009
-
-
 
  717-676-1565
 
-
-
  B.HES
 
-
-
  Bye xecutingt his ProioctD escriptionb elow,e achP artya greert o be bound
-
 bytha termsa nd conditionso f the
 
-
-
  InstallationA greementw ith respectt o the Projecqa ss etforth ln this Pr.ojeaD
-
 escription.
-
-
 
  COHTRACfOf,: 6t.r*rtop Canrhrtron' IIC OWII|ER: llrffi, nc.
 
-
-
  By:
-
-
 
  Name:
 
-
-
  Title;
-
-
 
  Date:
 
-
-
  By;
-
-
 
  Narne:
 
-
-
  Title:
-
-
 
  Date: 2015-04-10
 
-
-
  Director of Solar Operations
-
-
 
  Contractor/own*rlf r[
 
-
-
  I
 
-
-
  I
-
-
 
  Supplei r &,S ubcontroctorL ist
 
-
-
  FrrtaMng to dn lutrlhdon F$lHt A fur llOO F St lW
-
-
 
  To: trganfatdftn
 
-
-
  rsandlni Onextility.cmn
-
-
 
  rr"r, Hl,alA . Qrn\ tr,^-
 
-
-
  rn&*$ rn{ttATs$ t4fiEffuaf ' s/1" (arYr
 
-
-
  fnstaffemr ustr et$rnt his comptetedS uppiier& Subcontracfrrlrstwithth e signed
-
 ExhtbitAi n order to receivet he first
 
-
-
  FaymenGt ate.l nsuller is requiredt o list all ruppliersa nd/ors ubcsntradorsfr
-
 orn whon'lt heyw ill purchase$ 5,000"00
-
-
 
  or more in rnaterielsl,a borro r seruicesfo r the abovei istedp roject,
 
-
-
  Company:
-
-
 
  Contact:
 
-
-
  Phone:
-
-
 
  Emaik
 
-
-
  List Materials or Services Purchased:
-
-
 
  Company:
 
-
-
  Contact:
-
-
 
  Phone:
 
-
-
  Emaih
-
-
 
  ListM eterialso r ServicesP urchesed;
 
-
-
  Company:
-
-
 
  Contact:
 
-
-
  Phone:
-
-
 
  Emaih
 
-
-
  ListM aterialso r ServicesP urchasedr
 
-
-
  Installerc onfirins th6t the above form and the attached form, if
-
 nece&euro;sary,i nclude all companies frorn which they will
 
-
-
  purchase$ 5,000.00o r more in labor,m aterialsa nd/orservicesI,n stallerm ustn
-
 otifoO wnerw 'itha nyu pdaes or
-
-
 
  additions to this list as
 
-
-
  Signed:
-
-
 
  Title:
 
-
-
  Eate:
-
-
 
  -?$r\
 
-
-
  List Materials or Services Purchased;
-
-
 
  Contast; : ouqf ?n\*\\ i
 
-
-
  Conuactor/Ownle r0 /-9-
 
-
-
  I
-
-
 
  i !
 
-
-
  ft
-
-
 
  {
 
-
-
  I
-
-
 
  { t i l $ till{
 
-
-
  i:'E
-
-
 
  i l l f l i
 
-
-
  i l l !
-
-
 
  firiiN
 
-
-
  i n t i i
-
-
 
  ! f
 
-
-
  ! E
-
-
 
  !
 
-
-
  I
 
-
-
  D
-
-
 
  *. t
 
-
-
  a
-
-
 
  1)
 
-
-
  D
-
-
 
  tn
 
-
-
  t
-
-
 
  )
 
-
-
  et
 
-
-
  t
-
-
 
  i i ti t i
 
-
-
  E i
-
-
 
  r l g i
 
-
-
  F i
-
-
 
  Ti ti
 
-
-
  il ti
-
-
 
  il *r I
 
-
-
  $
-
-
 
  Id{
 
-
-
  3a
 
-
-
  I
-
-
 
  ttI
 
-
-
  t
 
-
-
  t
-
-
 
  l t
 
-
-
  1 t i{
-
-
 
  i i
 
-
-
  Et
-
-
 
  lI
 
-
-
  l
 
-
-
  I
-
-
 
  r
 
-
-
  {
 
-
-
  t
-
-
 
  tt
 
-
-
  I
-
-
 
  il
 
-
-
  l
 
-
-
  t
-
-
 
  ttt3i
 
-
-
  I
-
-
 
  qiI
 
-
-
  IIF
-
-
 
  r
 
-
-
  I
 
-
-
  li
-
-
 
  !I
 
-
-
  II+I
-
-
 
  ttII
 
-
-
  I
-
-
 
  I!
 
-
-
  s
-
-
 
  {tI
 
-
-
  *
-
-
 
  *q
 
-
-
  $F
 
-
-
  I
-
-
 
  d
 
-
-
  II
 
-
-
  I
-
-
 
  *c
 
-
-
  I
 
-
-
  q.
-
-
 
  aIt$
 
-
-
  *
-
-
 
  fI
 
-
-
  tI
-
-
 
  rittt
 
-
-
  aIc
-
-
 
  rI
 
-
-
  c
-
-
 
  aII
 
-
-
  t
-
-
 
  II
 
-
-
  t
-
-
 
  l l + r l
 
-
-
  r t C t i
-
-
 
  ar
 
-
-
  I
-
-
 
  Ia
 
-
-
  {xIt
-
-
 
  tII
 
-
-
  r
-
-
 
  III
 
-
-
  a
-
-
 
  E
 
-
-
  $
-
-
 
  st
 
-
-
  EI r $sE
-
-
 
  at
 
-
-
  ,"
-
-
 
  t
 
-
-
  tI
-
-
 
  +5
 
-
-
  5t
 
-
-
  f
-
-
 
  $s
 
-
-
  i art
-
-
 
  *
 
-
-
  It
-
-
 
  u
 
-
-
  tt
-
-
 
  Ir
 
-
-
  t
-
-
 
  tIt
 
-
-
  t
-
-
 
  l.
 
-
-
  It
 
-
-
  tt
-
-
 
  EI
 
-
-
  Ba t!
 
-
-
  ?
-
-
 
  D3
 
-
-
  ID
-
-
 
  a
 
-
-
  I
-
-
 
  rrI
 
-
-
  tI
 
-
-
  r
-
-
 
  t-
 
-
-
  A
 
-
-
  II
-
-
 
  a
 
-
-
  II
-
-
 
  tIF
 
-
-
  IIl
-
-
 
  rt
 
-
-
  t
 
-
-
  I
-
-
 
  Itt
 
-
-
  {t!
-
-
 
  E
 
-
-
  It
 
-
-
  I
-
-
 
  -tt
 
-
-
  i
-
-
 
  9I
 
-
-
  t
-
-
 
  *tf
 
-
-
  Ir
-
-
 
  ettI
 
-
-
  F
-
-
 
  Et
 
-
-
  !
-
-
 
  il
 
-
-
  F
-
-
 
  eI
 
-
-
  I
-
-
 
  q
 
-
-
  f,
 
-
-
  f,
-
-
 
  tI
 
-
-
  a
-
-
 
  t*
 
-
-
  si
 
-
-
  It
-
-
 
  5ri
 
-
-
  *I
 
-
-
  t
-
-
 
  IL
 
-
-
  I
-
-
 
  Et
 
-
-
  r
 
-
-
  a
-
-
 
  III
 
-
-
  I
 
-
-
  B
-
-
 
  9tr
 
-
-
  3t3
-
-
 
  ri
 
-
-
  li
-
-
 
  1t
 
-
-
  *$
-
-
 
  i l !
 
-
-
  13
-
-
 
  {r*I r
 
-
-
  I
 
-
-
  I
-
-
 
  ItI
 
-
-
  fgI
 
-
-
  I
-
-
 
  T
 
-
-
  I
 
-
-
  I
-
-
 
  t
-
-
 
  aII
 
-
-
  I
-
-
 
  t
 
-
-
  I
 
-
-
  I
-
-
 
  $
 
-
-
  t
 
-
-
  I
 
-
-
  I
-
-
 
  3
-
-
 
  iltI
 
-
-
  t
-
-
 
  It
 
-
-
  f
-
-
 
  Et
 
-
-
  q
-
-
 
  arF
 
-
-
  I
 
-
-
  E
-
-
 
  d
 
-
-
  Fa
-
-
 
  {
 
-
-
  f
-
-
 
  I
 
-
-
  3I
-
-
 
  Ft
 
-
-
  $
-
-
 
  *I
 
-
-
  ?
-
-
 
  r
 
-
-
  5
-
-
 
  f
 
-
-
  !
 
-
-
  5
 
-
-
  5
-
-
 
  IT
 
-
-
  g
-
-
 
  iL
 
-
-
  I
-
-
 
  F
 
-
-
  I
-
-
 
  If,
 
-
-
  tI
 
-
-
  f
-
-
 
  F*$
 
-
-
  IIt
-
-
 
  q.
 
-
-
  fr
 
-
-
  I
-
-
 
  IB
 
-
-
  l
-
-
 
  ?I
 
-
-
  E.
-
-
 
  5
 
-
-
  $r
-
-
 
  I
 
-
-
  i
 
-
-
  t
-
-
 
  ttr
 
-
-
  IaI
 
-
-
  t
-
-
 
  il
 
-
-
  g
-
-
 
  tr
 
-
-
  ,rt
-
-
 
  g
 
-
-
  !
-
-
 
  9r
 
-
-
  $r
-
-
 
  3
 
-
-
  T
-
-
 
  lnstrllctlofl of Sdlrr DomG*lG W.t6r liftilng SlEtam
 
-
-
  2100F 5 t NW,W ashingtonD, C2 0052 xF
-
-
 
  !
 
-
-
  t
 
-
-
  1
-
-
 
  o5
 
-
-
  i6
 
-
-
  a
-
-
 
  !l
 
-
-
  P
-
-
 
  l
 
-
-
  J
-
-
 
  GWU - The Dakota
 
-
-
  Instrllrtlono f SolarD omestlWc aterH catlngS wtcm
 
-
-
  !
-
-
 
  = 2100F S t NW,W ashingtonD, C2 0052
 
-
-
  P
-
-
 
  J_
 
-
-
  s*l
-
-
 
  l.rr*
 
-
-
  | ::. ' , ' t r
-
-
 
  rt
 
-
-
  $
 
-
-
  t
-
-
 
  6I
 
-
-
  n
 
-
-
  5
-
-
 
  36" offset)
 
-
-
  o
-
-
 
  r
 
-
-
  o
-
-
 
  E o |!
 
-
-
  - d &lt;
-
-
 
  6 c l . F+ vr 6:
 
-
-
  x
 
-
-
  I
-
-
 
  F
 
-
-
  I
-
-
 
  l,
 
-
-
  s l
 
-
-
  l
-
-
 
  t";/:l -a"1
 
-
-
  p : l
-
-
 
  i 1 i
 
-
-
  l i l
-
-
 
  {t i
 
-
-
  F - '
 
-
-
  I
-
-
 
  68
 
-
-
  Fa 5 q
-
-
 
  8 ;
 
-
-
  B ;
-
-
 
  I E
 
-
-
  ; i J q f
-
-
 
  n a
 
-
-
  o
-
-
 
  l !
 
-
-
  F '
-
-
 
  c t
 
-
-
  t
 
-
-
  $
-
-
 
  \9
 
-
-
  J
 
-
-
  r
-
-
 
  vo
 
-
-
  a
-
-
 
  Fo
 
-
-
  ;
 
-
-
  a
-
-
 
  6WU - The Dakota
 
-
-
  Installstlon of Solar Domestlc Wat&euro;r H&euro;atlng System
-
-
 
  2100F S t NW,W ashingtonD, C2 0052
 
-
-
  PN
 
-
-
  I
-
-
 
  t
 
-
-
  E
 
-
-
  I
-
-
 
  J Z * g
 
-
-
  1 8
-
-
 
  :t
 
-
-
  f
-
-
 
  T
 
-
-
  a
 
-
-
  t
-
-
 
  &
 
-
-
  5
 
-
-
  3
-
-
 
  I
 
-
-
  3
-
-
 
  f|'
 
-
-
  I4
 
-
-
  I
-
-
 
  !*
 
-
-
  1
-
-
 
  I
 
-
-
  q
-
-
 
  -
 
-
-
  t
-
-
 
  8_
 
-
-
  I
-
-
 
  t
 
-
-
  I
-
-
 
  E
 
-
-
  a
-
-
 
  s
 
-
-
  I
-
-
 
  t
 
-
-
  P
-
-
 
  3I
 
-
-
  f,
-
-
 
  {
 
-
-
  c
-
-
 
  E
 
-
-
  t
 
-
-
  a
-
-
 
  E,
 
-
-
  rg=
-
-
 
  ; t
 
-
-
  *$ lr &lt;P
-
-
 
  t i
 
-
-
  9 -
-
-
 
  ! E
 
-
-
  a s
-
-
 
  ; i
 
-
-
  i i
-
-
 
  E ;
 
-
-
  i B
-
-
 
  9 !
 
-
-
  \
 
-
-
  1
-
-
 
  GWU : The Dakota
 
-
-
  Installatlono f SolarD omesthW eterH catlngS ysttm
-
-
 
  2100 F St NW, Washington,DC2O0S2
 
-
-
  E
-
-
 
  9
 
-
-
  I
-
-
 
  !.
 
-
-
  q6
 
-
-
  E
-
-
 
  !x
 
-
-
  1i
-
-
 
  5
 
-
-
  i
-
-
 
  E
 
-
-
  t
 
-
-
  o
-
-
 
  HF
 
-
-
  3E
-
-
 
  , : 5
 
-
-
  o t r
-
-
 
  T F
 
-
-
  E p
-
-
 
  1
 
-
-
  I
-
-
 
  *
 
-
-
  I
-
-
 
  *
 
-
-
  I
-
-
 
  q - t 8
 
-
-
  ! E i E
-
-
 
  iEr { '
 
-
-
  I
 
-
-
  I
-
-
 
  z
-
-
 
  T
 
-
-
  e
-
-
 
  t
 
-
-
  I
-
-
 
  &euro;I
 
-
-
  E
 
-
-
  x
-
-
 
  + c
 
-
-
  t
 
-
-
  I
-
-
 
  9 a * 5; n g - " -
 
-
-
  : F t r
-
-
 
  &gt; l
 
-
-
  &lt; 6
-
-
 
  o r o
 
-
-
  a A 6
-
-
 
  1 * t .
 
-
-
  aq+sg {
-
-
 
  f55
 
-
-
  { { q
-
-
 
  $$E
 
-
-
  8 8
-
-
 
  E$
 
-
-
  d o
-
-
 
  gF
 
-
-
  q
 
-
-
  C
-
-
 
  3o
 
-
-
  !1
-
-
 
  cE$
 
-
-
  BrB8 Fr
-
-
 
  i o
 
-
-
  II
-
-
 
  I
 
-
-
  TE
 
-
-
  E
-
-
 
  i f
 
-
-
  TE
-
-
 
  f t
 
-
-
  s f B r
-
-
 
  e t E* E e
 
-
-
  i$
-
-
 
  Erl I
 
-
-
  i;i i
-
-
 
  ; i !
 
-
-
  t i : :
-
-
 
  II l
 
-
-
  c !
 
-
-
  ! t
 
-
-
  ! t
-
-
 
  I i .
 
-
-
  9 r
-
-
 
  'a
 
-
-
  t ]
-
-
 
  l f :
 
-
-
  I t
-
-
 
  !
 
-
-
  o
-
-
 
  C
 
-
-
  o
-
-
 
  I
 
-
-
  !
 
-
-
  o
 
-
-
  o
-
-
 
  E r s
 
-
-
  r ! B 5Ei
-
-
 
  l l l q
 
-
-
  r r :
-
-
 
  l F i
 
-
-
  s 5
-
-
 
  Io
 
-
-
  so
-
-
 
  $$;
 
-
-
  F i I il f
-
-
 
  5I
 
-
-
  n
 
-
-
  t
-
-
 
  !{=t
 
-
-
  II
-
-
 
  $
 
-
-
  i
 
-
-
  i
-
-
 
  II
-
-
 
  3i
 
-
-
  I
-
-
 
  P
 
-
-
  g
-
-
 
  &euro;
 
-
-
  Fr
-
-
 
  e
 
-
-
  f
-
-
 
  !
 
-
-
  F
 
-
-
  E
-
-
 
  q
 
-
-
  E
 
-
-
  6
-
-
 
  9gI
 
-
-
  l
-
-
 
  !
 
-
-
  s
 
-
-
  I
 
-
-
  I
-
-
 
  q
-
-
 
  -
 
-
-
  I]
-
-
 
  Bt
 
-
-
  6t
-
-
 
  B
 
-
-
  t
-
-
 
  c
 
-
-
  q
 
-
-
  3
-
-
 
  !
 
-
-
  3
-
-
 
  2I
 
-
-
  I
-
-
 
  I,
 
-
-
  I
-
-
 
  LI
 
-
-
  t
 
-
-
  F
-
-
 
  Y
 
-
-
  s
 
-
-
  I
-
-
 
  ?q
 
-
-
  g
-
-
 
  &i
 
-
-
  g
 
-
-
  I
-
-
 
  !
 
-
-
  I
-
-
 
  E.
 
-
-
  F
-
-
 
  *
 
-
-
  e
-
-
 
  f
 
-
-
  I
-
-
 
  q
 
-
-
  L
 
-
-
  a
-
-
 
  (.
 
-
-
  c
-
-
 
  t
 
-
-
  I
-
-
 
  It
 
-
-
  I
-
-
 
  DtI
 
-
-
  $
-
-
 
  l + c ;:e _1 g6
 
-
-
  E f 9 t r q
-
-
 
  953- { s ;
 
-
-
  1
 
-
-
  o
 
-
-
  o
-
-
 
  5
 
-
-
  o
 
-
-
  a
-
-
 
  U
 
-
-
  g
-
-
 
  q i
 
-
-
  - l
-
-
 
  J
 
-
-
  r
-
-
 
  L
 
-
-
  \ / \ /
-
-
 
  GWtl: The Dakota
 
-
-
  **,oTffiffi,k wsterH eantig s ptem
-
-
 
  !A
 
-
-
  z 2100F 5 t NW,W ashingtonD,C 2 0052
-
-
 
  i
 
-
-
  Q r P ^ 3
-
-
 
  =r i g 9
 
-
-
  R E J I E i
-
-
 
  a c ro* 3 f
 
-
-
  t
 
-
-
  I
-
-
 
  Taa
 
-
-
  ttl
-
-
 
  oo
 
-
-
  =r
-
-
 
  |D39r
 
-
-
  3ot
 
-
-
  o
-
-
 
  2
 
-
-
  a
-
-
 
  tt
 
-
-
  ox
-
-
 
  ;E
 
-
-
  x
-
-
 
  c
 
-
-
  EG
-
-
 
  h:
 
-
-
  I
-
-
 
  6
 
-
-
  33
-
-
 
  d'
 
-
-
  t
-
-
 
  o
 
-
-
  @o
-
-
 
  E - (tif3) if 3F"E gH *E
 
-
-
  E F Z , B&euro; F !
-
-
 
  P5 = p tq &gt; T F g
 
-
-
  0
-
-
 
  o o
 
-
-
  r r
-
-
 
  t l L
 
-
-
  a d
-
-
 
  4 d
 
-
-
  ! " 9
-
-
 
  { t
 
-
-
  5 - t l
-
-
 
  9 9
 
-
-
  r E
-
-
 
  r t {
 
-
-
  IE
-
-
 
  s
 
-
-
  a
 
-
-
  I
 
-
-
  I
-
-
 
  z
 
-
-
  3
 
-
-
  I
-
-
 
  F
 
-
-
  I
 
-
-
  F
-
-
 
  g
 
-
-
  I
 
-
-
  I
-
-
 
  :l
 
-
-
  +
-
-
 
  lnstallatlono f Solart lom&euro;stlcW aterH ratlngS ystem
 
-
-
  3
-
-
 
  I9
 
-
-
  *:# : #
-
-
 
  * f f i * q&
 
-
-
  2100F S t NW,W ashingtonD, C2 0052 %d
-
-
 
  9 a
 
-
-
  GOVERNTI,EOI{TF T HED ISTRICOT FC OLUIIBIA
-
-
 
  T}EFARTIIIEiOTTF C OHSUMEARi lD REGULATORAYF FAIRS
 
-
-
  THI RD.PARTY INSPEGTIONC OMPLETIO N CE RTIFICATOI N
-
-
 
  Drte: Ellfil0rt6
 
-
-
  PrufotsionNl ln Ghrrgs
-
-
 
  Thlnl Frrty Anoncy:CAilJAF hapccffon* Aserjcy
 
-
-
  Ghristophrrltt,Gomsltgcen,P.E. lrupsctor LanylF{smrc*
-
-
 
  DCRA Apprcvrl # m{3t0g
 
-
-
  Flrmft t{umber Bl50t?t? fmpoctor BtgnrtrrG ,b*rt, U)el*r"*
-
-
 
  ftofactAd&or 2lO0 F$llW
 
-
-
  Inepmilon Dlrclpltn*: E gtcstaerl fl HumHng flHcctrrnlcrl El Bun{il.ng fl nm
-
 Esprtnkt*r
-
-
 
  lrupcc,$onTyno; ilCrounoWodr EFodng nFourdNton EEm ElRougrr Eerr fgn*r*enon
 
-
-
  E!ftr* ilxycro Exwc tuFFrn$on
-
-
 
  8.qf,r.i6,F grrE[g E+h Flrclqltnq
 
-
-
  fFlrce rul$ ptnft|err uquiibt elaefilceol r plumtilngp .nnit, ltoorl
-
 guFprress&RDenq uhoru echmlcrl parmlg
-
-
 
  (TFFon Sepxre Fonn!
 
-
-
  E&euro;RilFreANOf{
-
-
 
  l, cirhtoplmr W"C qmtht*n, p,,8.p, rofBssional-in-charogfe t he
 
-
-
  thirdp atiy inryertion activitieep erformedb ryt rrry Fnenry*ian
-
-
 
  the pmjd identfigd above, hereby cerfifu and atasfi under
 
-
-
  oafttt hatfie ftrul conditiono f frre@ ngtrucfioratn dinstailatbn
-
-
 
  of tle specifieds copes f saidp mled werei nspecEdu nderm y
 
-
-
  dired zupeMsioni,o ronformAncew itht he cgnstrucfion
-
-
 
  docurnentas pprovsdb y OGRA.
 
-
-
  Thisw tlfic&euro;lion indudsst he dtEciptinet8is teda bove"T he
-
-
 
  inspecnesdy $emea ndlore oneiruciioinE aturesw ere&euro; fiecked
 
-
-
  for @mpliEnowe ithf re aonstruCtiodno srmsntse pprovadb y
-
-
 
  DCRAa nd,i nrny pfdessirrnatWinioanr, p deemedto ba
 
-
-
  ccmpfianat nds ubstantial{cyo mpt&euro;tsd.
-
-
 
  ln ralienc&euro;lh ered, *|e installation/csn$trucfisof. nth s spscited
 
-
-
  smpe at thesep r&euro;misoeiE r eeornnnendetod b BA PPROVED
-
-
 
  for fr|e hgpBrtedd ieo:ptirpsa n{,t hs conBspondinfgin el
 
-
-
  deanancefu CsrlificaG cf Ocerpancyp ul"poaeies
-
-
 
  recrynmeneled,
 
-
-
  Cgrtificdu rdermye eala nds ignafuroen Auguft fi, A0{E
-
-
 
  of Certifcation
 
-
-
  Flml lmpccfon
-
-
 
  Dicc{Elmer
 
-
-
  Tha scopao f this cartificelionia resffictedt o U.las ode
-
-
 
  qnd/or regdaiory cornpiance inspston performed by
 
-
-
  th* lfispoctiona gsrny on behalfo f DCBAa nOp urar*r1
-
-
 
  to provisionss f &e HornegtarRt egulatorylN nFrsvamstlt
 
-
-
  AmendmenAt d af 200e, aodm&euro;da s DG OfficiatC ode.
-
-
 
  20ol EdSlog.rt-
 
-
-
  Tha system andlor csnsirudion feat$rc* $,grB tngpoe*qd
-
-
 
  only for considaneil wiih the appmred pl{dr e{rd tcr
 
-
-
  compHancwai tfi thg minimumr equlrementogf the eodas
-
-
 
  Bnd $gulatlons enbrqed by DCRA. Thh Bdincafion is
 
-
-
  Maile xes$edo riginalc sdificationto :
-
-
 
  Aclministnab- r Tnifttp arty lnspec{ionp rograrn
 
-
-
  Departpento f Consumear nd RagutatarAy ffairs
-
-
 
  11004 n'stsw
 
-
-
  WashingtonD, C2W24
-
-
 
  Signatura Email:W aropsrts"dcre@dgcro. v
 
-
-
  stmH-r*ficl|rrffir*cc|'|Hr
-
-
 
  ffiTffiHfcGffiNIFffi
 
-
-
  TIffiI}PARTY FISPEtrIIOIEI TFTCTF|| C=NilHXT'NOil
-
-
 
  S t,4t266* ffiffitreFmHfiffi Umfrrrrr
 
-
-
  ffirtrstllJF.n,rl - .w*-llilSt|=!!
-
-
 
  5h Erlooosof rprrrFr
 
-
-
  fi{rrf*r- Froofttllu {f
-
-
 
  ttn-r IIHF Efrfr ffi F fffi tr15. ftmr
 
-
-
  Un EIIn: ltrrrhr:*
-
-
 
  ;ffiffi,lHfficElllFFfrn
 
-
-
  Fffi rFil.r,fr rrq;rrl:lrtila Rt
-
-
 
  r!f*fin{qq@*ffi
 
-
-
  rB-lartrnilli-
-
-
 
  -----
 
-
-
  -crqEEEE3Eqr
-
-
 
  I-.lqJIB--EDE
 
-
-
  ffifir-.,m'.rnnrqnh# !r|Ji!Of6
-
-
 
  ffrJr;rdln
 
-
-
  ffiE
-
-
 
  !n!!!?:l!Fffi!r#!r** llF tr|lht e tuD
 
-
-
  dFEt
-
-
 
  q ' i l q r r - b
 
-
-
  -GE-=rE--
-
-
 
  dqlktE!l'4El
 
-
-
  IEEIlCl--ft
-
-
 
  - . a E | - E r I
 
-
-
  rI--rEErrr
-
-
 
  I - 3 8 t s 8 rrr#"
 
-
-
  t ffiHErn
-
-
 
  rbed&.
 
-
-
  nf sfldt.
-
-
 
  GOVERIITIIENOTF THED ISTRICTO F COLUINBIA
 
-
-
  BEPARTf,IEIIIOTF COiISUIIERA ND REGUI-ATORAYF FAIR$
-
-
 
  THIRD-PARTY INSPECTION COMPLETION CERTIFIGATION
 
-
-
  Ilrte: t&llI0l5 TMrd Farty Agpncy: tsAlfJAF Incpccttene Agancy
-
-
 
  Frcllrllonrf ln Gh:rge Ghri*lopherW. Cornaffsaenp, .E. lnapector Ln*ylrVhrnyrr
 
-
-
  Pa.rmltl{umbor F!507828.. Incfetor$gnrtufr
-
-
 
  Prolcst Addrurs
 
-
-
  OSRA Appmnl * A0{$tgS
-
-
 
  lmpec{onDdi:clpltnc[:E nc$tcrl Enlumning f,Jnecn**srt flButHing flR,u flsp*nmar
 
 
-
-
-
  lnepartlotType: Elorsryngwot* ElFoomngf frouno*ion Eflao .BRou,ghfl ere
-
 filnsuhdon
-
-
 
  Erinrt Elttycro Ettqoo $upprsrisr
 
-
-
  Qpoarrte Form gg Each Dieciotine
 
-
-
  {Flre end Sprlnthr roquln* electricel orplummng permlt, t{Oo{t Suppe$slon
-
 Raqutc* ilashentcrf p66rdtl
-
-
 
  ITPF onS6p|rrlo Forml
 
-
-
  CEHNHCA1IOTI
-
-
 
  dscumentsry prcwd hy DCRA.
 
-
-
  Thisc artificaUoinn dudesthed [sciginesll steda bwe; The
-
-
 
  irupec'ted&euro; y$tsfrlsa nd/orc ongtrucfiofne aturesu ere cfleckad
 
-
-
  fqcomplfancew itr|t hscanstrudiond ocumenha pprovedb y
-
-
 
  DCRAf id, in my profesa{onaolp iniona, re deemedf tob e
 
-
-
  complienet nd subsfftia[y comptded_
-
-
 
  ln mliancet hereof,t he in$tallationlconstructioofn lt re spacifiad
 
-
-
  scopea t thesep remiseais rB@mmpndstdo be AppROVgD
-
-
 
  ry tha inspeetBrds 8ciplinoas rd the correepondinfgin al
 
-
-
  dearancof or Csrtificateo f Occupancyp urposesir
-
-
 
  &mmrnerded"
 
-
-
  Certifi&euro;du nderrnys eala nd signaturco n *ugqEt 6, i0f$
-
-
 
  Ftnrl lrepocton
 
-
-
  Disddmar
-
-
 
  Maile xeqllsd originals srtiftceiionb :
 
-
-
  AdrninisttEtb*r Thirdp arty Inspe{*ionp rogram
-
-
 
  Departmenot f Consumear nd Rsguleiofy,4ffa{ns
 
-
-
  1100 4'h $ SW
-
-
 
  ll\tashinEtonO, C? 0044
 
-
-
  Signature Email:S iareportsc. tcr?r@dgoq.u
-
-
 
  1$ CI$M d&'hnd Sfte Slff trf H tP'l
 
-
-
  ;$d*rhin$fieFr
-
-
 
  : }/lt|1r,$0q4rn${sq{rf, sgr$il
 
-
-
  fl-{.:0 t5
-
-
 
  Pt 507h2tl
 
-
-
  t*$t?33
-
-
 
  ffifiro$3fil
 
-
-
  Solar PIV *y*tcm
-
-
 
  ilurXrrotip'Ess oorf
 
-
-
  sffil,lJI-*",s"
-
-
 
  Octobe7r .2015
 
-
-
  CommissionS ecretary
-
-
 
  PublicS erviceC ommissiono f the District of Columbia
 
-
-
  1325 G St NW #800
-
-
 
  WashingtonD, C 20005
 
-
-
  DearC ommissionS ecretary,
-
-
 
  Enclosed please find 8 applications on behalf of our customers to
 
-
-
  register their systems as qualified solar renewable energy facilities in
 
-
-
  the District of Columbiap ursuant o Chapter2 9 of Title 15 of the District of
-
 ColumbiaM unicipal Regulations(t he "RPS
-
-
 
  Rules").
 
-
-
  Enclosed please find 8 applications on behalf of our customers. These include
-
 the following facilities ("Sol Systems
-
-
 
  Customers"):
 
-
-
  I Lovera- Patricia- DC-PV-4.83kWR esidence
-
-
 
  2. Kapur-Anil-DC-PV-8I .7 5kW Residence
 
-
-
  Westenberse-Rr obert- DC-PV-9I. 56kw Residence
-
-
 
  4. Zviniene-Asta-Dc-Pv-4.25kwR esidence
 
-
-
  5 . Frank-Jame-sD C-PV-3.924kwR esidence
-
-
 
  6. GCP - Next ity l, LLc -Dc-sT-l.62lkw Facility*
 
-
-
  7. GCP - Next itv l. LLC -DC-STr7.849kFwa ciliW*
-
-
 
  8. Waxman-Aaron-DC-PV-2.5kRwe sidence
 
-
-
  :r ncludesA ffrdavit of EnvironmentaCl omnlianceb ecauseth e ratedc apaciwi s
-
 erreatethr an l0kW
-
-
 
  We thank you for your time and we look forward to hearing from you.
 
-
-
  Sincerely,
-
-
 
  Bridget Callahan
 
-
-
  SRECO perationsA nalyst
-
-
 
  Sol SystemsL, LC
 
-
-
  (202) 448-7643
-
-
 
  bridgetc. allahan@solsystemscompcaonmy.
 
-
-
  DC PSCI nter-OfficeU se
 
-
-
  Name:
-
-
 
  RPS #:
 
 
 
-
-
-
-
  In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: October 9, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-
-
-              Copyright 2015 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

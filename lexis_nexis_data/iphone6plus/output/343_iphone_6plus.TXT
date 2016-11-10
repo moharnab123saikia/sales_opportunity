@@ -1,426 +1,182 @@
-                              343 of 998 DOCUMENTS
-
-
-
-
-
-                         The Straits Times (Singapore)
-
-
-
-                          September 23, 2015 Wednesday
-
-
-
-Look like older iPhones but with nifty new traits;
-
-Apple's penchant for updating the iPhone with an 'S' suffix and incremental
-
-upgrades continues with its latest iPhones. Trevor Tan tests the iPhone 6s and
-
-6s Plus to see if they are worth the upgrade.
-
-
-
-BYLINE: Trevor Tan
-
-
-
-SECTION: DIGITAL
-
-
-
-LENGTH: 1087 words
-
-
-
 
 
 DESIGN
 
-
-
 The two new iPhones look almost exactly like their predecessors. But they are
-
 built with structurally stronger 7000 Series aluminium.
 
-
-
 A new rose gold model joins the existing grey, silver and gold models (gold is
-
 now not available for existing iPhone 6 and 6 Plus). It is a finish that is more
-
 pink than gold.
 
-
-
 Both iPhones are 0.2mm thicker than their predecessors. They are heavier, with
-
 the iPhone 6s putting on 14g, and the iPhone 6s Plus gaining 20g. But they can
-
 still be used with iPhone 6 and 6 Plus cases.
 
-
-
 But when you hold them in your hands, you will not really feel or sense the
-
 increase in thickness or weight. Both new iPhones are still great to hold and
-
 handle, with the smaller model more suited to one-hand use.
-
-
 
 TECH SPECS   APPLE IPHONE 6S PLUS
 
-
-
 PRICE: $1,218 (16GB), $1,388 (64GB) $1,558 (128GB)
-
-
 
 PROCESSOR: A9 chip with
 
-
-
 64-bit architecture with embedded M9 motion co-processor
-
-
 
 SCREEN: 5.5-inch Retina HD display with 3D Touch; 1,920 x 1,080 pixels
 
-
-
 CAMERAS: 12-megapixel rear camera, 5-megapixel front camera
-
-
 
 WEIGHT: 192g
 
-
-
 RATING
-
-
 
 FEATURES: 4/5
 
-
-
 DESIGN: 5/5
 
-
-
 PERFORMANCE: 5/5
-
-
 
 BATTERY LIFE: 4/5
 
-
-
 VALUE FOR MONEY: 4/5
 
-
-
 OVERALL: 4/5
-
-
 
 SPEED
 
-
-
 With an upgraded 64-bit A9 chip, the iPhones run faster than their predecessors.
 
-
-
 In the Geekbench 3 benchmark tests, the iPhone 6s scored 2,535 (single-core) and
-
 4,410 (multi-core), while the iPhone 6s Plus scored 2,526 (single-core) and
-
 4,410 (multi-core). These results are around 50 per cent faster than the
-
 previous models.
 
-
-
 Where it took 9sec to load Infinity Blade III on the previous iPhones, both new
-
 iPhones loaded the game in around 7.7sec. Graphics-intensive games such as
-
 Implosion played smoothly without lag.
 
-
-
 The iPhones use the second-generation Touch ID that is supposed to be better and
-
 faster. It works even with moist fingers and logs into the Home Screen a split
-
 second faster than in previous versions.
-
-
 
 TECH SPECS   APPLE IPHONE 6S
 
-
-
 PRICE: $1,048 (16GB), $1,218 (64GB), $1,388 (128GB)
-
-
 
 PROCESSOR: A9 chip with
 
-
-
 64-bit architecture with embedded M9 motion co-processor
-
-
 
 SCREEN: 4.7-inch Retina HD display with 3D Touch; 1,334 x 750 pixels
 
-
-
 CAMERAS: 12-megapixel rear camera, 5-megapixel front camera
-
-
 
 WEIGHT: 143g
 
-
-
 RATING
-
-
 
 FEATURES: 4/5
 
-
-
 DESIGN: 5/5
-
-
 
 PERFORMANCE: 5/5
 
-
-
 BATTERY LIFE: 3/5
-
-
 
 VALUE FOR MONEY: 4/5
 
-
-
 OVERALL: 4/5
-
-
 
 SIRI
 
-
-
 The voice command "Hey, Siri" is now recognised without requiring the iPhones to
-
 be plugged to a power source. When you set up the phone initially, you will be
-
 asked to say a few sentences, such as "Hey Siri, how's the weather today'". This
-
 is so the phone will recognise only your voice. Siri seems to have become more
-
 accurate as a result.
-
-
 
 DISPLAY WITH 3D TOUCH
 
-
-
 Apple did not increase the new iPhones' display size and screen resolution. A
-
 higher-resolution display is probably more suited for viewing the 4K videos that
-
 the new iPhones are capable of shooting.
 
-
-
 What has changed with the display is the addition of the 3D Touch feature, where
-
 the screen senses how hard you are pressing on it.
 
-
-
 This feature allows for primarily two functions, which Apple calls Peek and Pop,
-
 and Quick Actions.
 
-
-
 Peek and Pop lets you preview content without opening a message or e-mail. For
-
 example, press lightly on an e-mail to see the content and let go if the content
-
 does not interest you. It also lets you preview photos by lightly pressing the
-
 thumbnail image while still in camera mode. You can swipe left to review the
-
 photos. Just lift your finger to return to taking photos.
 
-
-
 Quick Actions works like the regular right mouse click. With supported apps in
-
 the Home Screen, it will call up a shortcut with different options. For example,
-
 press hard on the Camera app icon and you will feel a haptic feedback, followed
-
 by the appearance of a window showing options like Take Selfie or Record Video.
 
-
-
 It all feels intuitive and I got the hang of how much force to apply with just a
-
 few tries. The feature worked like a charm even after I installed screen
-
 protectors.
-
-
 
 CAMERA AND LIVE PHOTOS
 
-
-
 Both iPhones feature an improved 12-megapixel rear camera (up from 8-megapixel
-
 previously) that shoots 4K (3,840 x 2,160 pixels) videos.
 
-
-
 Selfie lovers will like that the front-facing camera has been upgraded to 5
-
 megapixels (from 1.2 megapixels previously). This camera uses the phone's
-
 display as a flash, a feature which Apple calls Retina flash.
 
-
-
 The main difference between the cameras of the new iPhones remains the presence
-
 of an optical image stabiliser (OIS) in the iPhone 6s Plus. OIS compensates for
-
 camera shake and yields sharper images, especially under dim conditions when
-
 exposure times would be longer.
 
-
-
 It also makes videos appear less jerky. Comparing 4K videos I shot while
-
 walking, the ones taken with the iPhone 6s Plus were less shaky.
 
-
-
 There is a new camera function called Live Photos in both iPhones. It is enabled
-
 by default in the camera but you can disable it if you prefer so. When you take
-
 a photo, you get one still image, as well as animated footage - or "moments" -
-
 spanning 1.5 seconds before and after the picture is taken. During preview on
-
 the phone, just press a little harder on the screen to see those moments.
 
-
-
 You might find your initial tries at this function to be quite hilarious though,
-
 as final moments tend to be when you put down the phone. The trick is to wait
-
 for the word "Live" on the camera app to disappear before you put down the
-
 phone.
 
-
-
 Pictures and videos shot with the iPhones are excellent, with crisp details and
-
 minimal noise. And unlike some smartphones, images are not marred by overzealous
-
 sharpening.
 
-
-
 To compare their cameras, I used the phones to take a series of the same scenes.
-
 Images taken with the iPhone 6s Plus showed marginally more accurate colours and
-
 exposure levels.
 
-
-
 Selfie lovers will love the sharper details of the new front camera. The Retina
-
 flash worked well. Unlike the unnatural spot-lit effect with most phone camera
-
 flashes, skin tones were natural with these phones.
-
-
 
 BATTERY LIFE
 
-
-
 To stress-test the battery, I looped a 720p video at full brightness and full
-
 volume, and with Wi-Fi on.
 
-
-
 The iPhone 6s lasted 6hr 50min, while the iPhone 6s Plus lasted 7hr 10min. The
-
 iPhone 6s lasted around the same time as the iPhone 6, while the iPhone 6s Plus
-
 lasted 25min less than its predecessor.
-
-
 
 Under normal use, both phones should be able to last a working day.
 
-
-
 ·Verdict: If you are still using the iPhone 5s, you definitely have to upgrade
-
 to the Apple iPhone 6s or iPhone 6s Plus. Even if you are using the previous
-
 models, the 3D Touch feature and better cameras are well worth the upgrade.
-
-
-
-LOAD-DATE: September 22, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-GRAPHIC: The Apple iPhone 6s, in four colours, has put on 14g but is still great
-
-to hold and handle.
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                Copyright 2015 Singapore Press Holdings Limited
-
-                              All Rights Reserved
-
-
-
-
 

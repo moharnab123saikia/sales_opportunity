@@ -1,292 +1,119 @@
-                              253 of 997 DOCUMENTS
-
-
-
-
-
-                          Australian Financial Review
-
-
-
-                            February 19, 2016 Friday
-
-                                 First Edition
-
-
-
-The laptop on leave;
-
-DIGITAL LIFE - TABLET
-
-
-
-BYLINE: John Davidson
-
-
-
-SECTION: LIFE & LEISURE; Pg. 13
-
-
-
-LENGTH: 889 words
-
-
-
 
 
 They say that when men make plans, god laughs. If that's so, then the gods must
-
 have buttered some popcorn, took a front-row seat and settled in for some
-
 side-splitting entertainment when we drew up our plan for this week's review.
 
-
-
 The plan seemed modest enough. The entire review process, from research and
-
 benchmarking to writing up and publishing, was meant to be done on Google's
-
 Pixel C, a powerful Android tablet which Google says "can give your laptop the
-
 day off whenever you want".
 
-
-
 What better test of that claim than to actually try to give our laptop the day
-
 off? And what better laptop to pit the Pixel C against than our own Microsoft
-
 SurfaceBook, the exact opposite number of the Pixel C? Where the Pixel C is an
-
 Android tablet that can double as a notebook, made by the author of Android as
-
 an exemplar of how Android tablets should be made, the SurfaceBook is a Windows
-
 notebook that can double as a tablet, made by the author of Windows as an
-
 exemplar of how Windows notebooks should be made.
 
-
-
 And the parallel goes further than that, all the way to the conclusion our
-
 review process arrived at. Where the Microsoft SurfaceBook is a brilliant
-
 notebook that does not double very well as a tablet, the Pixel C is a brilliant
-
 tablet that does not double very well as a notebook.
 
-
-
 Can it give your laptop the day off? Well that depends on what your laptop's day
-
 job is. But we thought it would certainly be able to give our SurfaceBook the
-
 day off, and we made all our plans around that idea.
 
-
-
 But what am I writing this review on? The SurfaceBook. It turns out that we've
-
 been forced to give the Pixel C if not the whole day off, then at least the
-
 afternoon off.
-
-
 
 The day started well enough.
 
-
-
 The Pixel C is one of the most appealing tablets ever made, in our top three
-
 alongside the Apple iPad Air 2 and the Samsung Galaxy Tab S2. It can't be a
-
 coincidence that all three of those tablets have a fairly square aspect ratio
-
 compared to most other tablets (in the Pixel C's case it's an unusual 1:2
-
 ratio), making them excellent for reading and for productivity apps and less
-
 excellent for widescreen video.
 
-
-
 Even better, the Pixel C has one of the most ingenious keyboard/cover attachment
-
 mechanisms ever devised, based around a whopping great magnet that locks the
-
 optional keyboard cover firmly but effortlessly into place.
 
-
-
 Everything about the Pixel is high end. It runs the latest version of Android,
-
 and, being a Google-made device, is likely to keep up with the latest version
-
 for some time. Its performance is top notch, bettered only by the iPad Air 2 and
-
 Galaxy Tab S2 in our tests.
 
-
-
 And, when it comes to the claim that it can replace a laptop, the Pixel C does
-
 have history on its side.
 
-
-
 Take the workplace here at the Digital Life Labs as an example. As recently as
-
 two months ago there would have been no way we could contemplate giving our
-
 Windows laptop the day off with an Android tablet. Too many crucial application
-
 were Windows only.
 
-
-
 But now, our Windows-only VPN has been replaced by a browser-based portal that
-
 uses an Andoid-base two-factor authentication app for security. Our email and
-
 chat systems are all Google products where once they were Microsoft products.
-
 Our Windows-only publishing app is now a web app that runs in Chrome. Could
-
 there be a better time to switch to Android? Well, yes. History might be on the
-
 side of the Pixel C, but it hasn't quite arrived yet.
 
-
-
 Using the Chrome browser on the Pixel C instead of Chrome on Windows, MacOS or
-
 Linux, we have noticed a few little differences when it comes to productivity.
-
 Google Image search won't let you filter by image size on an Android tablet the
-
 way you can in Windows, Chrome extensions don't work on the Android version of
-
 Chrome, yet the extensions we happen to use the most, chiefly Xmarks, LastPass
-
 and the Evernote web clipper, all now have Android apps that interact well
-
 enough with Chrome. It's not quite as good as built-in extensions, but almost.
 
-
-
 Where we came completely unstuck, though, was right at the end of the review
-
 process, trying to do exactly what I am doing now: typing up the review into the
-
 publishing system. The system, written by Adobe, works in Chrome meaning it
-
 ought to work perfectly on the Pixel C, but when I went to give my laptop the
-
 afternoon off just now, I got this error on the Pixel C:
-
-
 
 Error 404: Please do not use a mobile device.
 
-
-
 So much for that.
 
-
-
 And so my laptop is back in service, and I must say that I'm relieved. Even if I
-
 had been able to finish the day on the Pixel C as Google promised, I would still
-
 have been tempted to use the SurfaceBook. The keyboard on the SurfaceBook has a
-
 vastly better typing action, and moreover it doesn't suffer from the bizarre
-
 choice that Google made with the Pixel C's keyboard, which has the "enter" key
-
 where the "delete" key normally is.
 
-
-
 It's hard to think of many key substitutions that could have a more disastrous
-
 effect than replacing what amounts to the "don't send" button with the "send"
-
 button. Whoever made that decision probably thought better of it, went to hit
-
 delete and ... oh bugger!L&L
-
-
 
 Twitter: @DLLabs
 
-
-
 Google Pixel C
-
-
 
 Likes
 
-
-
 Stylish, well-built Android tablet with nice screen dimensions
-
-
 
 Novel keyboard attachment mechanism
 
-
-
 Uses USB-C
-
-
 
 Dislikes
 
-
-
 Hard to tell keyboard battery level
-
-
 
 Keyboard layout can lead to slip-ups
 
-
-
 Price
-
-
 
 $699 for 32GB version
 
-
-
 $199 for the keyboard
-
-
-
-LOAD-DATE: February 18, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-             Copyright 2016 Fairfax Media Publications Pty. Limited
-
-                              All Rights Reserved
-
-
-
-
 

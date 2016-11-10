@@ -1,108 +1,33 @@
-                             353 of 1000 DOCUMENTS
-
-
-
-
-
-                         Daily National Herald Tribune
-
-
-
-                            October 8, 2015 Thursday
-
-
-
-iPhone 6 battery life hugely depends on chip
-
-
-
-LENGTH: 318 words
-
-
 
 DATELINE: Karachi
 
 
-
-
-
 Karachi, Oct. 8 -- The battery life between iPhone 6s and 6s Plus models can
-
 vary significantly depending on which of two companies manufactured its
-
 processor, according to reports. The recently-released new generation of iPhones
-
 each contain a chip made by one of two manufacturers, Samsung and TSMC,
-
 teardowns have confirmed.
 
-
-
 It has since been reported that the TSMC processor is 10 per cent larger than
-
 Samsung's, resulting in significant difference in battery life, according to
-
 Anandtech. There is no way of telling which chip your iPhone 6s sports when you
-
 first buy the handset, but America-based owners can check by using apps like
-
 Lirum Device Info. Samsung chips are marked as N71AP in the 6s and N66AP in the
-
 6s Plus, and TSMC's processers run under the name N71MAP in the 6s and N66MAP in
-
 the 6s Plus. YouTuber Jonathan Morrison tested two iPhone 6s models, one with
-
 each chip, by shooting 4K video, exporting the footage to iMovie and running
-
 benchmark tests. The TSMC chip handset used 38 per cent of its battery, while
-
 the Samsung model used 45 per cent - a 7 per cent difference. Austin Evans ran
-
 the Geekbench 3 battery test on two iPhone 6s models, again with different
-
 chips, and left the phones running to see how long it would take them to run
-
 down to 50 per cent battery. He found the TSMC handset lasted around 50 minutes
-
 longer, taking 2 hours, 34 minutes and 44 seconds to reach the half way point,
-
 compared with 1 hour, 44 minutes and 18 seconds for the Samsung chip unit.
-
 However, when playing an hour long video on each phone free from analytics,
-
 Evans found only 1 per cent different between the pair, suggesting that while
-
 the TSMC chip is likely to offer better.
 
-
-
 Published by HT Syndication with permission from Daily National Herald Tribune .
-
 For any query with respect to this article or any other content requirement,
-
 please contact Editor at htsyndication@hindustantimes.com
-
-
-
-LOAD-DATE: October 10, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                     Copyright 2015 National Herald Tribune
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,308 +1,126 @@
-                              513 of 997 DOCUMENTS
-
-
-
-
-
-                             Herald Sun (Australia)
-
-
-
-                          February 21, 2007 Wednesday
-
-                                 FIRST Edition
-
-
-
-World vision
-
-
-
-BYLINE: Dave Bullard and Danny Gorog
-
-
-
-SECTION: CONNECT; Pg. C04
-
-
-
-LENGTH: 848  words
-
-
-
 
 
 The Earth can groove for you too. All you need is a computer and Google, as Dave
-
 Bullard and Danny Gorog discover
 
-
-
 TO SEE the Earth from the air is a wonderful thing -- a privilege we've only had
-
 in the past three or four generations.
 
-
-
 But these days anyone with a computer and internet access can see every
-
 kilometre of the world through Google Earth.
-
-
 
 And see it in breathtaking detail.
 
-
-
 For instance, if you zoom in on Melbourne, you can see the rides at Luna Park.
-
 Or -- and this is probably the first thing any user does -- check out your home.
-
 Chances are, you'll be able to see the pile of dirt in the driveway your wife's
-
 been nagging you to get rid of.
-
-
 
 Google Earth (GE) is an application that you download to your PC or Mac.
 
-
-
 When you launch it, it connects to Google's data servers and gives you access to
-
 a view of the globe made up of composite images from several aerial and
-
 satellite photography sources, plus Geographic Information Systems (GIS).
 
-
-
 On January 8, Google launched version 4.0 of the program, taking it even
-
 further.
 
-
-
 It's all a long way from the first aerial photograph, taken in 1858 by Felix
-
 Tournachon from a balloon flying over France's Bievre Valley.
 
-
-
 Or the first picture of Earth from space, which was taken in 1960 by the TIROS-1
-
 weather satellite.
-
-
 
 Both media have been developed over the years to a point that beggars belief.
 
-
-
 For example, DigitalGlobe's QuickBird satellite allows commercial users to see
-
 objects on the ground as small as 60cm.
-
-
 
 And we don't know how much more advanced military satellites are.
 
-
-
 Google Earth isn't as precise, but still has a base resolution of 15m per pixel,
-
 and thousands of cities have high-resolution imagery greater than 1m per pixel
-
 which provides an aerial view of about 460m.
 
-
-
 In fact, it's still so sensitive and so handy to anyone's enemies that Google is
-
 now under pressure to blur some areas of strategic importance.
 
-
-
 A recent Times of India report said the Indian government was asking for
-
 sensitive areas to have an image resolution no greater than 25 to 50 metres per
-
 pixel.
 
-
-
 Apparently Australia, Russia, South Korea and Thailand are also demanding that
-
 Google blur sensitive images.
-
-
 
 There are several ways of finding what you're looking for in Google Earth.
 
-
-
 You can search for map co-ordinates, place names (such as St Kilda, Australia)
-
 or just browse by spinning the globe and zooming in and out. We did the latter
-
 to find the images on these pages -- and it's amazing what you can find.
 
-
-
 In Australia Google has partnered with TrueLocal to make finding local
-
 businesses easy.
 
-
-
 You can click on the ''Find Businesses'' tab in the search box and type
-
 ''pizza'' and ''St Kilda, Australia'' to get a listing of pizza restaurants in
-
 St Kilda.
-
-
 
 When GE finds the location you'll also get all the contact info.
 
-
-
 Your browsing can be made easier by activating information layers such as
-
 country borders, populated areas, topographical information, and social and
-
 population data.
 
-
-
 The Geographic Web overlay, for example, will show certain icons that, when
-
 clicked, can take you to a description of a place or even a series of
-
 photographs.
 
-
-
 Placemarks let you ''bookmark'' locations that you want to return to. These
-
 marks, which you can give your own names to, also contain co-ordinates and will
-
 show up in your ''Places'' window.
 
-
-
 When you've found what you're looking for, you'll need to rotate the view to get
-
 it upright. If you keep the images rotated to the default North, some will look
-
 upside down and, in extreme cases, hills will look like depressions and vice
-
 versa.
 
-
-
 You can export and print the images you find at 1000-pixel resolution, which
-
 gives roughly a 20x14cm (8x6 inch) image at 150dpi, or a 2.8MB file size.
-
-
 
 One of the great new features in GE 4 is support of 3D models.
 
-
-
 To see how this works type in ''New York'' and make sure you have the ''3D''
-
 layer turned on.
-
-
 
 New York should appear in 3D with realistic-looking buildings.
 
-
-
 You can then use the tilt features in GE to change your viewing angle. To adjust
-
 your tilt use the new navigation console that will appear when you move your
-
 mouse over the top right-hand corner of the image.
-
-
 
 The slider at the top of the navigation lets you adjust your tilt.
 
-
-
 Lots of people are discovering secret archaeological treasures from around the
-
 world.
 
-
-
 Recently somebody found what looks to be the remains of a Roman city underwater
-
 (www.20minutos.es/noticia/199121/1/pueblo/romano/Google).
 
-
-
 It's an amazing program with endless possibilities -- so what are you waiting
-
 for?
-
-
-
 
 
 AND IT WON'T COST YOU THE EARTH
 
-
-
 THE basic version of Google Earth is free, but you can get enhanced and
-
 professional versions for an annual fee.
 
-
-
 For $26, Google Earth Plus gives you higher performance, 1400-pixel printing,
-
 real-time GPS tracking and data import from Magellan and Garmin devices,
-
 100-point spreadsheet data import and email support. The Pro version, which will
-
 set you back $512 a year, adds even faster performance, 4800-pixel saving and
-
 printing, 2500-point data import, chat support, a movie-maker and the ability to
-
 import Geographic Information System (GIS) data.
 
-
-
 Download Google Earth from www.google.com/earth
-
-
-
-LOAD-DATE: February 20, 2007
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: DHS
-
-
-
-
-
-                   Copyright 2007 Nationwide News Pty Limited
-
-                              All Rights Reserved
-
-
-
-
 

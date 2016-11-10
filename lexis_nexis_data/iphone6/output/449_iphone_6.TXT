@@ -1,556 +1,254 @@
-                              449 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                            October 26, 2012, Friday
-
-
-
-iPhone 6 rumor rollup for week ending Oct. 26;
-
-Already with The Date, magic morphing, dire warnings
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 2198 words
-
-
-
 
 
 With iPhone 5 finally unveiled, it's already become old hat for the iOSphere.
-
 After all, what's really new? Yes, it has a bigger screen, the CPU is more
-
 powerful, it has LTE, and that cool diamond-cut chamfer.
 
-
-
 But honestly, it looks so much like the iPhone 4S, which looks so much like the
-
 iPhone 4. For some, it's evidence if not proof of the "death of innovation" at
-
 Apple, the already-baneful legacy of bean-counter Tim Cook vs. visionary Steve
-
 Jobs.
 
-
-
 So to get a really delicious technical frisson, you need to look to the future,
-
 and the iOSphere has already begun doing just that. Some of the rumor and
-
 speculation from earlier this month.
 
-
-
 __________ "Start planning to dazzle us, please. Nothing corporate. Something
-
 freaking amazing."
 
 
-
-
-
 ~Chris Maxcer, at MacNewsWorld, advising Apple on the how to succeed in the
-
 smartphone market.
 
-
-
 __________ iPhone 6: The date It's "absurd" to think Apple will release iPhone 6
-
 in early or mid-2013, a mere six to nine months after releasing iPhone 5. But
-
 they might do it anyway.
 
-
-
 The "both-and" formulation is typical of the iOSsphere, and evident in a post at
-
 The iPhone6NewsBlog, which points out that past rumors predicting earlier
-
 releases for Apple mobile products have proven groundless, not to mention
-
 absurd. But when Apple unveiled a fourth-generation full-size iPad this month,
-
 replacing the third-generation iPad announced in March, everyone felt cheated or
-
 confused or dizzy with the potentialities.
 
-
-
 "But for as much as rumors of Apple releasing new devices less than a year from
-
 the most recent iteration's release might seem like pipe dreams, Apple's move to
-
 release a fourth generation iPad along with its iPad mini this week should at
-
 least give us some pause: Cupertino has now proven it is capable of doing it."
-
-
 
 Cupertino is capable of doing anything.
 
-
-
 "Why then would it be impossible to imagine that the next iPhone -- maybe not
-
 the 6, but a refreshed iPhone 5S -- couldn't be released at the WWDC in June of
-
 2013?"
-
-
 
 The iOSphere has proven it's capable of imagining anything.
 
-
-
 iPhone 6 will have a "magic morphing chassis" to hide "hideous blemishes"
-
 TechRadar doubtless speaks for many in its outrage over how the iPhone 5's
-
 "luxurious aluminum and glass chassis" is "interrupted" on the back by the
-
 camera and flash and on the front with that "unsightly light sensor and
-
 front-facing camera."
 
-
-
 What idiot suggested giving the Apple design team a prestigious award?  But, as
-
 TechRadar says, "[l]uckily it looks like the Cupertino-based firm may be about
-
 to hide those hideous blemishes, if a new set of patents are to be understood
-
 correctly."
 
-
-
 Most of the accounts of Apple patents don't delve too deeply into either the
-
 scientific details of Apple patents or the practical difficulties involved in
-
 implementing them in mass market manufacturing processes. And many of the
-
 accounts continue to assume, despite years of evidence to the contrary, that
-
 Apple smartphone and tablet patents will show up in the next product release,
-
 just months away. This is the Fantasy & Science Fiction section of Internet
-
 rumoring.
 
-
-
 The main patent in question involves technologies that create a "smart glass"
-
 panel (or "magic morphing chassis" as TechRadar translates it) - an electric
-
 current can make it change from opaque to transparent. Smartphone components,
-
 such as a camera and flash, can be hidden by an opaque window and then made
-
 visible by making the window transparent.
 
-
-
 Although TechRadar implies that Apple will do this using a "polymer-dispersed
-
 liquid crystal (PDLC) window," the text of the patent's abstract actually
-
 mentions PDLC as one possible technology. The website doesn't explain what
-
 polymer-dispersal liquid crystal actually is.
 
-
-
 Wikipedia's explanation is that "liquid crystals are dissolved or dispersed into
-
 a liquid polymer followed by solidification or curing of the polymer," causing
-
 the crystals to form droplets randomly suspended in the solid polymer, which is
-
 one of several layers in a smart window. The material is naturally translucent
-
 until an electric current is applied, causing the liquid crystals to align, and
-
 allowing light to pass through the glass.
 
-
-
 Most applications so far have been for large glass panels in windows or
-
 skylights. Display vendors, like Samsung in this demo at Consumer Electronics
-
 Show 2011, are using it in windows that also double as large display screens. In
-
 2005, Nissan unveiled its Micra CC car in London, encasing it in a glass box
-
 made of 150 smartglass panels, which were programmed to change their
-
 transparency. A YouTube video shows the display in action.
 
-
-
 With the magic morphing stuff your iPhone 6 "will look like one continuous slab
-
 of uninterrupted beauty," TechRadar assures us. You can see a preview of such a
-
 slab, and the reaction by iPhone lovers, in this video clip.  TechRadar is
-
 dazzled, but resignedly realistic. "This is some pretty serious, and awesome
-
 sounding, technology right here, and while we'd love to see in on the iPhone 6
-
 in 2013, the reality is that it's probably a few years off being commercially
-
 viable."
 
-
-
 iPhone 6: whatever it is, it better be "freaking amazing" And, oh yes:
-
 "revolutionary."
 
-
-
 "Hey Apple, Better Get Cracking on an Amazing iPhone 6," warns Chris Maxcer, at
-
 MacNewsWorld.
 
-
-
 Don't get him wrong. He loves the iPhone 5. Well, sort of. That's because the
-
 iPhone 5 failed in one critical area: It didn't engender lust. "I want the
-
 iPhone 5 and I'll appreciate the iPhone 5, but lust? No way. That's the critical
-
 piece. Can Apple still create products that incite gadget lust?"
 
-
-
 Maxcer doesn't have a list of features he wants in the Next iPhone so we don't
-
 have to listen, yet again, to yet another ecstatic account of the 8th Wonder of
-
 the Smartphone World, near field communications.
 
-
-
 But he does have "long-term nagging doubts," he admits. And the doubts give
-
 voice to questions, Big Questions. And lots of them: + "Can Apple re-imagine a
-
 new smartphone?"
 
-
-
 + "Are we looking at a bleak future of incremental upgrades? Will the next
-
 iPhone 6 come in 6 snazzy new colors? Will Apple try to offer new paint and
-
 tires with the next version of the iPhone?"
 
-
-
 + "Apple created a world where people care about design, but can Apple continue
-
 to be insanely great with the overall design of the iPhone?"
 
-
-
 We feel for the guy, laboring under this immense burden of technoangst. He cries
-
 out to Apple in his anguish.
 
-
-
 "Just please don't confuse massive sales and happy customers for success because
-
 you're treading close to the edge," he warns the world's most profitable, and
-
 apparently, most unsuccessful company. "I get the impression that Steve Jobs
-
 never confused massive commercial sales with success. Sales is not the end goal.
-
 Sales is not success."
 
-
-
 What is success? "Being the leader means creating products that delight, amaze,
-
 and compel the world to pay attention," Maxcer counsels Apple. "Commercial sales
-
 success is a byproduct of a great product. It's just one proof point, but that's
-
 it, a proof point. Being the leader, no matter what the market numbers say,
-
 means inciting desire, pure and simple."
 
-
-
 The most wanted features for iPhone 6 Whatever it is, iPhone 6 can't come soon
-
 enough to spare us six or nine or 12 months more of lists.
 
-
-
 Far-rumoring bloggers like CNET's David Carnoy are already posting their lists
-
 of the must-have, most wanted, most desirable, most cool features for iPhone 6.
 
-
-
 And the lists look a lot like the lists before the iPhone 5 was released. And
-
 before the iPhone 4S was released.
 
-
-
 Like "biometric security," even though Carnoy undermines his own claim that this
-
 is a "most wanted" feature by saying this is "hardly a must-have upgrade." But.
-
 "[B]ut it would be cool to swipe with your finger -- instead of entering a
-
 password -- to unlock your phone," he writes.
 
-
-
 No list would be complete without near field communications, NFC, and it's on
-
 Carnoy's list. "Apple Senior Vice President Phil Schiller said that it isn't
-
 clear that NFC is a solution to any current problem," Carnoy notes. "That
-
 doesn't mean that Apple won't go ahead later on and use it as a selling point
-
 for a future iPhone." And that's true. Because in the future, there might be a
-
 current problem to which NFC actually is a solution.
 
-
-
 Storage. Can you ever have enough, really? "Most people think 64GB is enough,"
-
 Carnoy admits grudgingly. "Still, some folks are itching for a 128GB version,
-
 even if it would carry a price tag of over $500 (and maybe $600) with a
-
 contract."
 
-
-
 The other stuff on the must-have list include built-in inductive charging,
-
 customizable widgets, "better performance" (which is something Apple has offered
-
 on just about every iPhone, a wider screen ("a lot of people wanted Apple to go
-
 wider and taller -- not just taller," Carnoy points out), and better battery
-
 life ("Plenty of people would trade a slightly thicker phone for better battery
-
 life," he declares).
 
-
-
 Yet even with all these must-haves, we doubt Carnoy's iPhone 6 would meet
-
 Maxcer's Freaking Amazing Standard (see previous).
 
-
-
 iPhone 6 needs bigger screen sizes "Apple may need an iPhone 6 sooner rather
-
 than later," CNET's Dan Farber argued earlier this month, just before the
-
 announcement of the iPad mini.
 
-
-
 That's because, he argues, competing device makers using Android or Windows 8 or
-
 Windows Phone 8 will offer more choices, including smartphones with screen sizes
-
 larger than the nearly-four-inch display of the iPhone 5.
 
-
-
 For example, he notes, Samsung says it sold 20 million Galaxy S III smartphones,
-
 with a 4.8-inch high-def display, in just over three months. The implication is
-
 that if there was a 4.8-inch iPhone, some number of the Galaxy buyers would have
-
 bought the iPhone instead.
 
-
-
 "There is a payoff in offering a broader selection of mobile devices for Apple's
-
 competitors" Farber says. "Google's Android platform dominates the market, with
-
 more than 60 percent share, compared to less than 20 for Apple."
 
-
-
 It's not clear how that fact actually translates into a "payoff" for the
-
 specific Android-based phone manufacturers. As Farber notes, it's Apple alone
-
 that's been reaping the vast majority of profits for the entire global
-
 smartphone industry.
 
-
-
 Farber, and many others, take the smaller-screened iPad mini as evidence that
-
 Apple is changing its mind on offering mobile device options, and will do so for
-
 the iPhone. And it certainly has done that for its long-running iPod line of
-
 media players, creating a variety of sub-brands over the years.
 
-
-
 The iPad mini is aimed at people who want an iPad with a smaller screen. Yet
-
 Apple didn't enter the "7-inch tablet market," if there is such a thing. It's
-
 offering a 7.9-inch tablet, a size apparently chosen with as much deliberation
-
 and experimentation as the decision to offer the full-sized iPad at 9.7 inches.
 
-
-
 Farber argues that "the popularity of larger screens has to be a factor that
-
 impacts how long Apple can ride the iPhone 5."
 
-
-
 "If the majority of smartphones sold in 2013 have larger than 4-inch screens,
-
 Apple isn't going to miss the market opportunity by sticking too long with its
-
 one-handed phone design," he says.
 
-
-
 But it's not clear that Apple sees "market opportunity" the way Farber does. For
-
 one thing, Apple isn't offering "smartphone choice." It's offering "the iPhone,"
-
 a specific brand that to date, still seems to be the most popular single brand
-
 (though the Samsung Galaxy S III, released in June, is at least closing in, in
-
 terms of unit sales).
 
-
-
 It's not entirely clear how, or even whether, Samsung and Apple "compete" in
-
 smartphones. "The basis of competition is the aspect of an offering for which a
-
 customer is willing to pay a premium price," according to independent analyst
-
 Horace Dediu, in an August 2012 post at his Asymco blog. "It's hard to know (or
-
 to put your finger on) what the basis actually is, but we can test whether it's
-
 the same by measuring whether two products capture prices the same way. If one
-
 product that seems to resemble another can obtain price advantage consistently,
-
 then perhaps it's being bought for a different reason."
 
-
-
 Didiu's numbers show the earlier Galaxy S models having some success in the
-
 U.S., but not matching iPhone sales, or growing in overall sales volume. These
-
 numbers were taken before the July 2012 introduction of the S III on U.S. mobile
-
 networks.
 
-
-
 Two other charts show the difference between iPhone prices and Android
-
 smartphone prices. One shows that the unsubsidized prices for iPhone models have
-
 been considerably higher than for the Galaxy S I and II models, and have
-
 decreased at a much slower rate over time. The second chart compares "price
-
 erosion" for the iPhone models and for a wide range of Android smartphones over
-
 their first four quarters of sales: the Galaxy S models have much less erosion
-
 than many other models, but all the Android phones show significantly greater
-
 price erosion than the iPhones.
 
-
-
 "Samsung's pattern is not unusual...," Dediu concludes. "Prices drop. It's a
-
 standard industry phenomenon. Therefore the question is not perhaps what is
-
 Samsung's basis of competition: it's the same as the overall phone industry. The
-
 question is, what is the basis of competition for the iPhone."
-
-
 
 John Cox covers wireless networking and mobile computing for Network World.
 
-
-
 Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: October 29, 2012
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2012 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

@@ -1,0 +1,136 @@
+
+
+Finally, the new iPhone 7 and 7 Plus arrived for an under the hood look at the
+new hardware and features.
+
+Like last year, Apple concentrated on photos and video. Engineers and management
+at former mobile giant Nokia must be fuming: they saw that smartphone
+photography was the future, and put together some pretty out-there devices like
+the 808 Pureview with its crazy 41-megapixel camera.
+
+There"s more to smartphone photography (and videography) than just excellent
+cameras though. Nokia got just about everything else wrong, and Apple and
+Android makers ate the Finnish company"s lunch long ago by providing more
+complete and usable products.
+
+Apple has continued to chip away at smartphone photography and that was the key
+feature at the iPhone 7 launch recently.
+
+Camera resolution for the iPhone 7 and 7 Plus is the same, 12 megapixel or four
+megapixel more than the iPhone 6s and 6s Plus. Using Camera+, I was able to see
+that the exposure time can be varied between 30 seconds and 1/8000 of a second,
+and the ISO sensitivity of the camera range between 25 to 1600.
+
+The big news this time is that the iPhone 7 Plus comes with two cameras.
+
+Naturally enough, with dual cameras and a large screen, the iPhone 7 Plus seems
+like the iOS photographer"s choice. Why two cameras? You get great images with
+with large sensors (and photo diodes) that capture lots of light, and the big
+lenses that go with them.
+
+Not even Apple"s mighty hardware and software engineering can change the laws of
+physics though, and there are some head-hurting complications but suffice to
+say, getting good pictures out of small cameras is really, really hard.
+
+There are hard limits to how big anything on a smartphone can be however. Camera
+lenses can stick out a little, but not be huge bumps at the back for instance.
+This is why Apple (and other vendors like Huawei and LG) try to work around size
+limitations with two lenses.
+
+This approach solves some problems, like how to have multiple focal lengths
+without bulky lenses. Not even Apple"s mighty hardware and software engineering
+can change the laws of physics though, and there are some head-hurting
+complications but suffice to say, getting good pictures out of small cameras is
+really, really hard.
+
+For camera geeks, the moderately wide-angle 28mm (35mm equivalent, the actual
+focal length is 3.9mm) imaging unit that"s on both the 7 and 7 Plus uses a
+six-element lens with a bright f/1.8 aperture to gather more light for the
+1/3-inch sensor.
+
+There is also optical image stabilisation to prevent shake that gives blurry
+pictures on both the iPhone 7 and 7s, on the 28mm camera.
+
+In comparison, the 56mm lens (the image data recorded by the camera says 57mm)
+has five elements and an f/2.8 aperture. It"s a little bit longer than a normal
+50mm lens, and only just qualifies as telephoto. The actual focal length is
+6.6mm, and the sensor is 1/3.6-inches.
+
+Now, the general idea is to let iPhone photographers switch between the 28mm and
+the 56mm lens, for a two-times optical zoom. Optical zooming provides better
+image quality than the digital equivalent. It requires large lenses though, but
+Apple switches between the two in the iPhone 7 Plus when you press the 2X button
+in the Camera app.
+
+Except the Camera app doesn"t always switch between the two lenses. In good
+light, yes, it"ll use the 56mm lens and optical zoom.
+
+It seems the 28mm camera will be the workhorse on the iPhone 7 Plus, with the
+56mm unit coming into play only in good light.
+
+In less good light, the camera picks the 28mm lens, which has a brighter f/1.8
+aperture and a bigger sensor (for less noise or graininess) and automatically
+swaps to a digital 2X zoom.
+
+The 56mm camera doesn"t have optical image stabilisation like the 28mm one does,
+making it less good for low-light shots.
+
+To force the iPhone 7 Plus to use the 56mm lens when you say so, a third party
+app is required. It seems the 28mm camera will be the workhorse on the iPhone 7
+Plus, with the 56mm unit coming into play only in good light.
+
+That said, the digital zoom on the iPhone 7 and iPhone 7 Plus is very good, and
+now goes up to ten times enlargement. There"s a new image signal processor in
+the cameras that no doubt helps make the zoom fast with good quality pictures.
+
+Another feature that requires third-party apps is taking pictures in Adobe"s
+Digital Negative (DNG) format that preserves lots of detail that gets lost when
+images are compressed and processed as smaller JPEGs.
+
+The new photography features that the iPhone 7s bring are curiously unfinished
+and that includes the second camera on the iPhone 7 Plus.
+
+Only true photography geeks will have the patience to work with raw formats like
+DNG which produce large files and requires digital editing before images are
+usable; but, it"s nice to have option on the iPhone 7.
+
+Unfortunately, the built-in camera app doesn"t let you shoot in DNG - I used
+Adobe"s Lightroom Mobile for that. Lightroom also lets you export images to the
+desktop version of the software for easier editing on a big screen.
+
+In other words, the new photography features that the iPhone 7s bring are
+curiously unfinished and that includes the second camera on the iPhone 7 Plus.
+
+For instance, you can"t do the blurred background (bokeh) effect that Apple
+showed off at the iPhone 7 launch yet; this is due to appear in an update to iOS
+10.
+
+Third-party apps will need updating too: neither Lightroom nor Camera+ know
+about the 56mm camera on the iPhone 7 Plus, meaning they can"t use the 2x
+optical zoom.
+
+Video is unchanged at 1080p/60 frames per second, and 4K/30fps; the iPhone 7
+Plus uses both the 28mm and 56mm lenses for video, again swapping when you press
+the 2X in good light. You can also lock the lenses to stop the camera from
+swapping them automatically when shooting.
+
+On the iPhone 7 and 7 Plus, photos look fantastic.
+
+The new multi-coloured four LED flash is excellent with long reach and doesn"t
+wash out pictures. I was hoping it could be used in conjunction with the 56mm
+camera as as well as the 28mm imager, but haven"t found a way to trick the
+iPhone 7 Plus into doing so yet.
+
+Finally, while the screen is the same resolution as before - max 1080p on the
+iPhone 7 Plus - you now have wide colour gamut. In fact, both the camera and the
+iPhone 7 display support the bigger colour space, for rich images with hues
+closer to what the human eye ses than more limited systems.
+
+On the iPhone 7 and 7 Plus, photos look fantastic, ditto the iPad Pro 9.7-inch
+that also has a wide colour gamut screen. On other devices that support more
+limited colour spaces however, results will vary. I suspect printing out images
+especially will drive colour-obsessed photographers nuts.
+
+Apple shouldn"t change here, instead the rest of the world needs to catch up
+with the new tech.
+

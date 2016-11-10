@@ -1,200 +1,76 @@
-                              781 of 997 DOCUMENTS
-
-
-
-
-
-                          Australian Financial Review
-
-
-
-                              July 1, 2014 Tuesday
-
-                                 First Edition
-
-
-
-Best of the blog - afr.com/blogs/digitallife
-
-
-
-SECTION: INFORMATION; Pg. 26
-
-
-
-LENGTH: 615 words
-
-
-
 
 
 Samsung and LG have joined the Google smartwatch brigade.
 
-
-
 At its annual developer conference in San Francisco last week, Google showed off
-
 a Samsung smartwatch, known as the Gear Live, and an LG smartwatch, known as the
-
 G Watch, both of which are already available to buy on Google's online store in
-
 the US.
 
-
-
 LG said its watch will be available in 12 countries starting from June 25, and
-
 then an additional 27 countries including Australia, "soon after".
 
-
-
 Just how soon is soon, we will have to wait to see, although the signs are that
-
 it actually will be very soon indeed. On Google's Australian store, the LG G
-
 Watch (pictured) is listed as costing $249, with a "leave warehouse" date of
-
 July 4.
 
-
-
 Samsung's Gear Live, meanwhile, is listed with a price of $250, with no shipment
-
 date other than "coming soon".
 
-
-
 The smartwatches run Google's recently announced Android Wear operating system,
-
 which works hand in glove with its just-announced Android L operating system,
-
 the biggest upgrade that Google has ever given to Android, redesigning its look
-
 and feel so that it will be possible to design apps that work consistently
-
 across Android phones and tablets, across PCs, TVs and, yes, even smartwatches.
 
-
-
 Both the Samsung and the LG watches will have a rectangular screen, similar to
-
 the screen Samsung already uses on its Gear 2 line of smartwatches. Motorola's
-
 previously announced Moto 360, the first Android Wear smartwatch to sport a
-
 round screen, will be available later this year, Google said.
 
-
-
 Google demonstrated the LG and Motorola watches using voice commands and showing
-
 notifications coming from Android phones.
 
-
-
 Users will be able to install apps on the new smartwatches simply by installing
-
 apps on their Android phone. If a Wear-enabled app detects that the phone is
-
 paired to a Wear watch, it will automatically install itself on the watch, too.
 
-
-
 Google execs showed off Google Maps running on an Android phone, but sending its
-
 turn-by-turn navigation messages to a Wear watch.
 
-
-
 LG said its G Watch will have a 1.65-inch (4.2-centimetre), 280x280 pixel
-
 display, and will weigh 63 grams. By comparison, Samsung's existing Gear 2 watch
-
 has a 1.63-inch, 320x320 pixel display and weighs 68 grams.
 
-
-
 A teardown of the new iPod touch Apple announced last week has revealed what
-
 many suspected: Apple appears to be losing interest in the venerable media
-
 player, the same way the market as a whole is.
 
-
-
 Apple announced the new, low-cost version of the iPod touch last week. It's got
-
 16Gb of storage and sports a 5-megapixel iSight camera, and costs only $249.
 
-
-
 The higher-capacity versions of the iPod touch came down in price too, such that
-
 the 32Gb model is now just $299, down from $329, and the 64Gb is now just $349,
-
 down from $439.
 
-
-
 The price cut is in response to a long decline in iPod sales, as the world moves
-
 onto smartphones. iPod sales have dropped by roughly 50 per cent since 2008.
 
-
-
 The folks at iFixit purchased one of the new iPod touch players, pulled it
-
 apart, and found that Apple had made no changes to the already very old
-
 technology, other than reducing its memory capacity.
 
-
-
 Here's what iFixit concluded about the new device, after peeking inside: "We
-
 delved inside Apple's 'refreshed' device and found the same components we'd seen
-
 in Touches of yesteryear ..."
 
-
-
 I don't know what they were expecting to find. The same chips as in a current
-
 generation iPhone?
 
-
-
 The thing about the iPod touch is that it's devolved into a device you buy for
-
 kids, so they get to use apps and do some WiFi-based messaging without racking
-
 up a huge phone bill. It's a cheap and cheerful device, and in a sense, the less
-
 power it's got, the better. Kids, just like the rest of us, need something to
-
 look forward to.
-
-
-
-LOAD-DATE: June 30, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-             Copyright 2014 Fairfax Media Publications Pty. Limited
-
-                              All Rights Reserved
-
-
-
-
 

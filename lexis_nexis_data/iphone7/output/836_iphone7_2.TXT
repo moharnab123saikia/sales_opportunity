@@ -1,0 +1,51 @@
+
+
+It is that time of the year when Apple unveils its latest products to everyone
+in San Francisco. Apple has sent out invitations for this year's Keynote event
+which everyone is excited for because the new line of iPhones, iPads and Macs is
+expected to be unveiled at the event.
+
+The Apple Keynote event will be held on 7th September, a Wednesday, at 10AM
+Pacific Time or 10:30PM Indian Standard Time. While many of you won't be able to
+attend it, you can watch it live too!
+
+Requirements:
+
+Live streaming uses Apple's HTTP Live Streaming (HLS) technology. HLS requires
+
+     ·    iPhone, iPad, or iPod touch with Safari on iOS 7.0 or later
+     ·    Mac with Safari 6.0.5 or later on OS X v10.8.5 or later
+     ·    PC with Microsoft Edge on Windows 10
+     ·    Streaming via Apple TV requires an Apple TV (2nd or 3rd generation)
+          with software 6.2 or later or an Apple TV (4th generation)
+
+
+The retail release date has been pegged at September 16 when the iPhones will be
+officially available to customers for purchase.
+
+What can you expect at the event?
+
+It is quite apparent that the next generation iPhone 7 and iPhone 7 Plus will be
+unveiled at the event. However, what one doesn't know is that the next gen
+iPhones will be sacrificing a few features and making way for some new exciting
+ones.
+
+First and foremost, it is rumoured that the new iPhones will abolish the 3.5mm
+headphone jack and instead integrate it with the lightning port on the phones.
+There have been mixed reactions and we're quite sure this will affect iPhone
+sales in some way.
+
+There have been a few design changes as well, more prominently at the back with
+just bordered antenna lines and cleaner finish. There might also be two downward
+facing speakers in the smartphones for crisper and louder sound.
+
+Some rumours also suggest that iPhone could be dropping the iconic home button
+and replacing it with a touch capacitive button, which might not go down well
+with iPhone users. However these are just leaks and we're only about a week away
+from the actual smartphone.
+
+Other than iPhone, new generation iPads will also be unveiled, with a small
+possibility of upgraded iMacs. The Macbooks are also due for an upgrade this
+year and we shall see more powerful MacBook at this year's event, if not
+earlier. TagsApple iPhone 7 iPhone sales launch
+

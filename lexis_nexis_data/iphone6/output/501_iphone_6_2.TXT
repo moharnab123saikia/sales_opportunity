@@ -1,396 +1,171 @@
-                              501 of 999 DOCUMENTS
-
-
-
-
-
-
-
-                                  Guardian.com
-
-
-
-                          September 24, 2014 Wednesday
-
-
-
-Boot up: Samsung's European PC exit, Stanford's Google pledge, bending iPhone 6
-
-Plus
-
-
-
-BYLINE: Charles Arthurtheguardian.com
-
-
-
-LENGTH: 1238 words
-
-
 
 ABSTRACT
 
-
-
 Charles Arthur: Plus what focus groups can't tell you, Indian grey market iPhone
-
 pricing, weather forecasting phones, and more
-
-
 
 FULL TEXT
 
-
-
 A feast of 9 links for you to chew over, as picked by the Technology team
-
-
 
 Focus groups are worthless && Medium
 
-
-
 Erika Hall:
 
-
-
 Everything focus groups purport to give you, you can get through interviews and
-
 contextual interviews, without the unpleasant side effects. Here is what you get
-
 from a focus group:
 
-
-
 Opinions that participants are willing to speak in the presence of a group of
-
 strangers.One-on-one interviews can be challenging to get right, but they always
-
 have the following advantages:
 
-
-
 · Fast to set up and run.· If one bad participant makes it through the
-
 screening, you can cut your losses and stop the conversation without affecting
-
 other recruits.· You can have the conversation with participants in their
-
 natural environment.
-
-
 
 Also worth reading for:
 
-
-
 People are lazy, forgetful, creatures of habit. We all are. This is why the mega
-
 bestselling book is called The 7 Habits of Highly Effective People, instead of
-
 An Infinite Number of Novel Tasks Performed by Highly Effective People.
 
-
-
 Some iPhone 6 Plus owners accidentally bending their iPhones in pockets && Mac
-
 Rumors
 
-
-
 "Yesterday, I left at 10am with the iPhone in my left FRONT pocket of my suit
-
 pants. I drove 4 hours to a wedding, which also involved a lot of sitting during
-
 dinner etc but also 2-3 hours of dancing. I left at 2am and went to bed, driving
-
 home 4 hours back.
-
-
 
 So in total, the 6 Plus was about 18 hours in my pocket while sitting mostly.
 
-
-
 As I lay it on the coffee table and sat down on the couch to relax from the
-
 drive (yes, sitting again ), I saw the reflection of the window in the iPhones
-
 slightly distorted."
-
-
 
 Er, yes.
 
-
-
 Exclusive: Samsung exits laptop market including Chromebooks && PC Advisor
 
-
-
 Following in the path of Sony and its Vaio PCs, Samsung has decided to exit the
-
 laptop market stopping sales of Ativ Windows and Chromebook devices in Europe,
-
 PC Advisor can confirm.
 
-
-
 It's common knowledge that the PC market is in decline with Sony pulling out and
-
 selling its Vaio business back in February of this year. Despite being a giant
-
 of the tech world, Samsung has now followed suit.
 
-
-
 Things have been quiet from Samsung this year on the laptop side of things with
-
 no new devices at IFA 2014 in Berlin. The firm's main recent releases have
-
 included the Ativ Book 9 Plus and Ativ Book 9 Lite.
 
-
-
 "We quickly adapt to market needs and demands. In Europe, we will be
-
 discontinuing sales of laptops including Chromebooks for now. This is specific
-
 to the region - and is not necessarily reflective of conditions in other
-
 markets," said a Samsung spokesperson.
-
-
 
 Sony, Toshiba, Samsung - who's next to retrench?
 
-
-
 How the new iPhones could help scientists predict the weather && CITEworld
-
-
 
 Somewhat like the way old Androids are:
 
-
-
 Researchers are already using data collected from an Android app that measures
-
 barometric pressure. Jacob Sheehy and Phil Jones built the app, called
-
 PressureNet, and have been sharing data collected from it with scientists. They
-
 also let other developers build their technology into third party apps as a way
-
 to further distribute the technology and collect more data.
 
-
-
 They launched PressureNet in 2012 and have had 95,000 downloads but only about
-
 22,000 people actively use it, Sheehy said. However, including third party apps,
-
 like Beautiful Widgets, around 300,000 phones are capable of feeding pressure
-
 data to PressureNet.
 
-
-
 So far around 300 people have signed up to use the data from the app, 100 of
-
 whom are researchers. But only around 10 or so are active, Sheehy said.
-
-
 
 That's the real problem - getting scale.
 
-
-
 Now you can quickly share the best parts of your GoPro videos, with BrightSky
-
 Labs' App '10' && TechCrunch
 
-
-
 The 10 app was created to reduce the friction GoPro users currently have when
-
 finding and editing videos to share. Currently, anyone who attaches a GoPro to
-
 their snowboard, surfboard or any other device usually ends up waiting until
-
 they get home and upload videos to their computers before being able to access
-
 them. Then they have to go through the trouble of sorting through all the
-
 content they recorded for just the choice bits and cut them down before
-
 uploading them to YouTube or other networks.
 
-
-
 BrightSky Labs hopes to simplify that process, which they believe will make for
-
 a lot more shareable and shared GoPro content making its way online. The 10 app
-
 makes it simple for extreme sports enthusiasts to finish recording, check out
-
 the videos they've recorded, and get right back to the slopes or the surf, or
-
 whatever it is they're being extreme on.
-
-
 
 Stanford promises not to use Google money for privacy research && ProPublica
 
-
-
 Stanford University recently declared that it will not use money from Google to
-
 fund privacy research at its Center for Internet and Society, according to a
-
 legal filing made by the school.
 
-
-
 "Since 2013, Google funding is specifically designated not [to] be used for
-
 CIS's privacy work," the university said in the court filing, found by
-
 ProPublica in documents filed in an unrelated lawsuit.
 
-
-
 Stanford's Center for Internet and Society has long been generously funded by
-
 Google, but the center's privacy research has proved damaging to the search
-
 giant in the past two years. Two years ago a researcher at the center helped
-
 uncover Google privacy violations that led to the company paying a record $22.5m
-
 fine.
-
-
 
 Academics not happy, and prepared to say so publicly.
 
-
-
 Watch this madman fix the iPhone 6's biggest design flaw with a grinder &&
-
 Gizmodo UK
 
-
-
 The industrial design of the iPhone 6 is close to flawless... except for one
-
 flaw so weird, so major, that it's maddening: the fact that the camera protrudes
-
 from the body of the phone, meaning it never lies completely flat and gets
-
 caught on all kinds of stuff.
 
-
-
 The perfectionists at PeripateticPandas have a solution, and it involves
-
 industrial machinery.
-
-
 
 Maybe iron out the lumps on the Samsung Galaxy Alpha next?
 
-
-
 iPhone 6, iPhone 6 Plus hit India's grey markets, prices touch Rs 140,000 for
-
 the 64GB iPhone 6 Plus && BGR India
 
-
-
 Apple will be launching the new iPhone 6 and iPhone 6 Plus in India on October
-
 17. With less than a month to go for the official launch, the smartphones have
-
 hit India's grey markets, with prices touching a ridiculous Rs 140,000 for the
-
 iPhone 6 Plus 64GB variant.
 
-
-
 In Delhi's grey markets, the 16GB variant of the iPhone 6 is priced as much as
-
 Rs 80,000. The bigger iPhone 6 Plus, on the other hand, is retailing at Rs
-
 120,000 for the 16GB variant, and Rs 140,000 for the 64GB variant.
 
-
-
 Last year, before the iPhone 5S was officially launched, it too hit the grey
-
 markets in India. It retailed for around Rs 75,000 for the 16GB variant, and the
-
 rare gold colored variant was available for as much as Rs 115,000.
-
-
 
 Rs 140,000 is about £1,400; the iPhone 6 Plus 64GB retails for £699 in the UK.
 
-
-
 iPhone 6 and 6 Plus battery life: how long they last && Tom's Guide
 
-
-
 We saw how the iPhone 6 and iPhone 6 Plus compared to the Samsung Galaxy S5 in
-
 terms of performance, but how well do Apple's new smartphones stack up to the
-
 competition when it comes to battery life? We ran our battery test over the
-
 weekend to find out.
 
-
-
 Answer seems to be: battery life follows a basic law of physics, so endurance is
-
 almost exactly proportional to capacity.
-
-
 
 You can follow Guardian Technology's linkbucket on Pinboard
 
-
-
 To suggest a link, either add it below or tag it with @gdntech on the free
-
 Delicious service.
-
-
-
-LOAD-DATE: September 24, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-   Copyright 2014 Guardian News and Media Limited or its affiliated companies
-
-                              All Rights Reserved
-
-                  Registered in England and Wales. No. 908396
-
-   Registered office: PO Box 68164, Kings Place, 90 York Way, London N1P 2AP
-
-
-
-
 

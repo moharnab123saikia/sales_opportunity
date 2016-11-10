@@ -1,384 +1,168 @@
-                              45 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                            October 18, 2013, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending Oct. 18;
-
-Facts, warnings, gut feelings, and solid reasons
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1390 words
-
-
-
 
 
 Nine million new iPhone buyers can't be right. They should have waited until
-
 January or June or September 2014 for thebig-screened iPhone 6.
 
-
-
 The Big Screen has achieved Facthood, according to some in the iOSphere. It's
-
 just a question of when iPhone 6 will introduce it. Rumors, rather unhelpfully,
-
 suggest anywhere from January to September 2014.
 
-
-
 It can't come too soon, according to everyone from rumormongering bloggers to
-
 Donald Trump, all of them warning of Doom, if Apple delays. Pay no attention to
-
 those 9 million new iPhone owners.
-
-
 
 You read it here second.
 
-
-
 iPhone 6 will have a larger display and that's a fact Much of the rumoring this
-
 week was simply rehashing last week's rumors about the screen size for iPhone 6.
 
-
-
 Claire Hopping at KnowYourMobile created a grab bag of rumors by linking to
-
 weeks-old speculative blog posts.
 
-
-
 "Much of what we're hearing at the moment is conjecture," she begins, modestly
-
 enough. Alas, the modesty doesn't endure. "But the next iPhone update is likely
-
 to be a very significant one - it's a solid number update, and that means big
-
 changes...."
-
-
 
 How big? Well ... big.
 
-
-
 "The iPhone 6 will be the handset that sees Apple implement larger displays and
-
 that isn't conjecture - it's fact," she declares.
 
-
-
 This fact is based, apparently, on speculation by stock analyst Brian White, of
-
 Cantor Fitzgerald, who has been cranking out Notes To Investors since returning
-
 from a tour of component manufacturers in Asia.
 
-
-
 "Our meeting with a tech supply chain vendor during our China/Taiwan Tech Tour
-
 today highlighted a bigger iPhone is in the works, and our contact expects a
-
 launch in the 2Q:14/3Q:14 time frame," White claims, according to Teresa Rivas'
-
 account in Barrons' TechTradeDaily blog.  "We are confident a larger iPhone will
-
 be launched in 2014," White says.
 
-
-
 Hopping also links to the oft-linked Sept. 5 Wall Street Journal story that
-
 repeated what most people already knew: that Apple does a lot of prototype
-
 product testing.
 
-
-
 "The electronics giant has begun evaluating a plan to offer iPhones with screens
-
 ranging from 4.8 inches to as high as 6 inches, people familiar with the matter
-
 say...," according to the Journal. "Component suppliers say Apple already began
-
 testing larger screens for iPhones in recent months. Apple has been particularly
-
 interested in recent tests for a 4.8-inch screen, these people say."
 
-
-
 Arguments will be raging until whenever in 2014 the Next iPhone or the next
-
 iPhone model is released about how big the screen will be, or should be, or must
-
 be. This week, Donald Trump added his two cents, by tweeting "As an addition,
-
 Apple must go to a larger screen now--asap! They're losing their standing in the
-
 market!"
 
-
-
 They are so losing their standing in the market that Verizon's just-announced Q3
-
 results revealed that only 51 percent of all phone activations were for iPhones
-
 (up from 43 percent in Q2); that unit iPhone sales were about the same as for
-
 Q2; and that year over year, iPhone unit sales were up 26 percent.
-
-
 
 Please release a bigger iPhone, Tim Cook, before it's too late!
 
-
-
 iPhone 6 will create problems for IT groups because of its big screen This rumor
-
 arrives courtesy of IBM, specifically it's "Midsize Insider," a website intended
-
 to be a "valuable repository of expert content tailored for small-to-midsized
-
 business owners and IT decision makers. Expert insights and perspectives in the
-
 Midsize Insider are gleaned from actionable business experiences and will assist
-
 readers in creating efficiencies, cutting costs and delivering results."
 
-
-
 This particular expert content, "Apple's iPhone 6 Screen May Be Challenging for
-
 IT Managers" was written by Melissa Busch, who begins by linking to CNET's
-
 coverage of the Big!Screen! predictions by the aforementioned Brian White.
-
-
 
 Then she gets to the real issue.
 
-
-
 "The real issue for IT managers, which may become more of an issue as
-
 smartphones such as the iPhone and other devices change and evolve, is that
-
 employees have begun to move from working in an arena of company-controlled
-
 equipment to an area of unknown operating systems, applications and device
-
 hardware," according to Busch. "In addition, IT professionals will deal with a
-
 special host of problems with mobile devices because they lack many of the trust
-
 features that are often found on laptops and other systems."
 
-
-
 In other words, the real issue is that iPhone 6 may be challenging for IT
-
 managers because it's a ... smartphone with an unknown operating system lacking
-
 trust features.
 
-
-
 iPhone 6 will be released earlier than September/October 2014...or maybe not
-
 "What we're trying to say here - other than blatantly boasting - is that our
-
 release date and rumour round-up articles tend to get a lot of things right,"
-
 blatantly boasts David Court, writing at PCAdvisor.
 
-
-
 The headline gets right to the question: "iPhone 6 release date: When will the
-
 iPhone 6 be launched?"
-
-
 
 It turns out that history provides clues to the answer.
 
-
-
 "History repeats itself people, so guess what? That's exactly where we are going
-
 to look for a first clue as to when we might see the iPhone 6," Court announces.
 
-
-
 He offers a table of iPhone release dates. The first four phones were released
-
 in June (one in July); the last three, in September or October. What clue does
-
 that suggest to Court's keen mind?
 
-
-
 "While the history books suggest that there will be a new iPhone 6 release date
-
 around September/October 2014, we have a gut feeling that Apple might - just
-
 might - shake things up a little bit and launch an iPhone 6 earlier than
-
 expected, just like it did with the iPad 4, which was launched just eight months
-
 after the iPad 3 (previous iPads were release 11-12 months apart)," he declares.
 
-
-
 In other words, "We're ignoring the clues of history of going with our gut
-
 feeling." And the gut feeling feels like earlier in 2014.
 
-
-
 But. "But for the record, the smart money goes on an iPhone 6 release date of
-
 September/October 2014," Court concludes. In other words, "If you're smart,
-
 you'll ignore our gut feeling."
 
-
-
 So the answer to the question "When will the iPhone 6 be launched?" is: "I have
-
 no idea."
 
-
-
 iPhone 6 will be released in January 2014 Apple is rushing, stampeding even, to
-
 release the iPhone 6 in January because the iPhone 5S and 5C are such failures.
 
-
-
 That's the reasoning in Erik Pineda's post at International Business Times,
-
 where it reveals "iPhone 6 Release Date is Q1 2014: 3 Solid Reasons Why Apple is
-
 Rushing the Debut of 1st iOS Phablet."  Things are bad, he says. "To offset what
-
 seems to be shaping up as an Apple financial nosedive, reports alluded to a move
-
 that would lead to earlier than expected coming out of the large-screen iPhone,"
-
 he reveals.
-
-
 
 So what are the Solid Reasons for the rush?
 
-
-
 First, "Replenishing the 5S stocks remains a huge challenge for Apple." The idea
-
 here seems to be that Apple is having so much problem getting enough inventory
-
 to meet demand for the two newest iPhones that it will therefore rush to release
-
 a third new iPhone. Which, of course, would only shift the alleged inventory
-
 problem to the iPhone 6; and doesn't address the fact that the inventory
-
 "problem" shows how popular the new phones are.
 
-
-
 Second, the "64-bit A7 chip is giving the iPhone 5S a bad name." We'll skip even
-
 the few details Pineda offers on this and jump to his conclusion: "To correct
-
 the issue, it's quite possible that the tech giant will simply expedite the
-
 iPhone 6 rollout, aside from dispatching firmware updates that should make the
-
 already circulating 5S and 5C more stable."
 
-
-
 Apparently, Apple will solve the 64-bit A7 chip problem by ignoring it - except
-
 for dispatching firmware updates to, you know, fix it - and bringing out a
-
 different 64-bit chip in a new iPhone.
 
-
-
 Finally, "The price is not right, that is of the 5S and 5C." Zillions of people
-
 with unsubsidizing mobile carriers can't buy them. So, Apple will release the
-
 iPhone 6 in January. "While it may not touchdown with a lower price mark, at
-
 least consumers will be convinced that they are getting the better deal as
-
 analysts have been insisting for the longest time that the 5S is a mere
-
 incremental jump," Pineda writes.
 
-
-
 So, the solution to the problem of the high-priced iPhone 5S and 5C is to
-
 release the high-priced iPhone 6.
-
-
 
 You can't get more "solid" than that.
 
-
-
 John Cox covers wireless networking and mobile computing for Network
-
 World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: October 21, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

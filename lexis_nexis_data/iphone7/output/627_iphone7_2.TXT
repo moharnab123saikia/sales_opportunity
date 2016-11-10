@@ -1,0 +1,98 @@
+
+
+An extra camera adds vast dimensions.
+
+JOHN DAVIDSON|They say you should be careful what you wish for, because you just
+might get it.
+
+For the past two years, we've been writing that Apple should add features to its
+big-screened phone, the iPhone Plus, that aren't in the regular iPhone, the same
+way Samsung added a stylus and a whole handwriting and note-taking system to its
+big-screened Galaxy Note.
+
+The way we see it, you need to give customers some incentive for lugging around
+a much bigger device over and above the inherent advantage of just having a
+bigger screen.
+
+And now Apple has gone and done just that with the iPhone 7 Plus, and we don't
+know what to think of it. I mean, it's kind of good, right? But what about the
+poor, long-suffering users of the regular iPhone? What about us?
+
+What Apple has gone and done is added an extra camera. The Plus, which has a
+5.5-inch display compared with the 4.7-inch display on the regular model, now
+has two cameras on the back: one with an equivalent focal length of 28mm, just
+like the camera on the regular iPhone 7, and one with an equivalent focal length
+of 56mm.
+
+I wouldn't exactly call the extra camera "telephoto" - a 56mm lens is a general
+purpose lens, somewhere between wide-angle and telephoto - but its addition does
+mean you can zoom in on scenes and expect results significantly better than if
+you zoomed in digitally on an ordinary iPhone using the "pinch zoom", which
+simply crops the photo and enlarges the bejesus out of it.
+
+And I mean significantly better.
+
+In our tests, there was a huge difference between an image shot while zoomed in
+using the iPhone 7 Plus, and the same image taken using the iPhone's digital
+zoom. Detail is vastly better on the Plus, as you would expect, and
+image-processing artefacts such as JPEG mosquito noise are either invisible or
+vastly less visible compared with the way they assault the eye on the regular
+iPhone 7.
+
+If you're someone who likes to zoom in using their phone camera (which we think
+is a terrible idea, but whatever), the upgrade to an iPhone 7 Plus is possibly
+even bigger than the upgrade from an iPhone 6s to an iPhone 7, which is itself a
+huge step. The extra camera, which you can think of as an extra lens that
+automatically appears whenever you need it, makes a vast difference.
+
+And that would be fine if Apple had left it at that. Regular iPhone users could
+always just walk closer to their subjects, the way nature and lens optics
+intended, and not feel like they're missing out on too much.
+
+But did Apple stop just there with the iPhone 7 Plus? Of course it did not.
+
+Not only is that longer lens used when you are zoomed in, but Apple also says
+it's put to use even when you're shooting zoomed out, at the 28mm focal length.
+Remember, it's not just an extra lens: it's actually a second camera, one that
+fires every time the wide-angle one fires.
+
+One way it's put to use, according to Apple, is in the processing of images.
+Apparently, detail that's captured using the longer lens is added into images
+shot using the wider lens, meaning that, in theory, all photos shot with the
+iPhone 7 Plus should be a little sharper in the centre than the same images shot
+using the regular iPhone.
+
+I'm saying "in theory" here because, in our tests shooting the same image with
+both phones, that didn't really show up: the centre of the Plus images looked
+the same as the centre of the non-Plus images.
+
+It may be a feature that Apple is still working on, the way it's definitely
+still working on another feature that the Plus will have: fake shallow focus.
+
+When you have two cameras rather than one, you can start to calculate the 3D
+depth of an image, and when you can do that, you can start to change the focus
+of things in a photo, depending on how far away they are from the lens. What
+that means is that Apple will soon be adding a feature to the iPhone 7 Plus that
+lets you defocus the background of photos while maintaining the focus of
+subjects in the foreground.
+
+The lack of control over the "depth of field", as it's known, is one of the
+biggest drawbacks of using the tiny image sensors in phone cameras. Everything
+is in focus, sometimes making it hard for the viewer to know what they're
+supposed to be looking at. Selectively altering the focus - faking a shallow
+depth of field, as it were - is something a few phone makers have tried, and
+Apple has promised to add to the iPhone 7 Plus in an upcoming update.
+
+We haven't reviewed the technology properly, but we have seen photos that Apple
+says were created using a beta version of the feature, and we have to say
+they're very good. They're much better than all the other efforts we've seen
+over the years; much better, even, than we were hoping.
+
+Shallow-focused portraits are more or less the holy grail of phone photography.
+If Apple pulls it off properly, it will be huge.
+
+Indeed, it will be too big to belong to just one phone. Why give the Plus an
+awesome feature like that and not give it to the regular iPhone 7? It doesn't
+seem fair. What are we non-Plus users supposed to call our phones now? The
+iPhone Minus? L&L
+

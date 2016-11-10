@@ -1,0 +1,89 @@
+
+
+Sept. 7 -- Apple today announced that iPhone 7, iPhone 7 Plus and Apple Watch
+Series 2 will bring customers in Japan the ability to use Apple Pay, an easy,
+fast and secure way to pay for everything in their daily routines, beginning in
+October. Users can commute and pay for everyday items with Suica from JR East,
+and make convenient and private credit and prepaid card purchases in stores,
+apps and on the web with a single touch. Apple is also introducing support for
+transit in Japan with Maps in iOS 10, so commuters can easily find ride details,
+including fare breakdowns that automatically show Suica pricing right on their
+device, making their commute more seamless and simpler than ever.
+
+Apple Pay is accepted anywhere Suica is available, so users can make quick
+everyday purchases and buy or reload a Suica card or commuter pass, all with
+their iPhone. Japan's major financial brands will also support Apple Pay, so
+shoppers can make purchases in many of the country's largest stores, at
+neighborhood shops and restaurants, and from their favorite online merchants.
+
+"We are incredibly excited to bring iPhone 7 to customers in Japan so they can
+experience the magic of Apple Pay," said Tim Cook, Apple's CEO. "Apple Pay will
+transform your daily routine, from making your commute easier and more
+convenient than ever with Suica right on your iPhone 7 and Apple Watch Series 2,
+to using your favorite cards to make secure and private purchases with a single
+touch."
+
+"As the world's largest transit operator, JR East is committed to innovating so
+we can provide our customers across Japan the best service possible," said
+Tetsuro Tomita, president and CEO of East Japan Railway. "For iPhone 7, we
+redesigned an entirely new experience from the ground up so our customers can
+enjoy the ease and security of using Apple Pay while commuting, in our app and
+in stores with Suica."
+
+iPhone 7, iPhone 7 Plus and Apple Watch Series 2 sold in Japan will support
+FeliCa Type-F NFC contactless technology, which is used every day for more than
+160 million transactions across Japan.
+
+When Maps launches support for transit in Japan with iOS 10 in October, Apple
+Pay users can map out and pay for their entire commute, including major train,
+subway, ferry and national bus lines, on their iPhone 7, iPhone 7 Plus and Apple
+Watch Series 2, based on updated fare and schedule information. If you have a
+Suica card added to Apple Pay and are planning a route that exceeds its balance,
+an alert will show it's time to reload, and you can do so instantly, right on
+your device. Commuters can also follow carefully curated navigation instructions
+so it's easy to get around Japan's extensive underground tunnel networks.
+
+Apple Pay will support many of the most popular Japanese credit and prepaid
+cards issued by AEON, Credit Saison, JCB, Mitsubishi UFJ Nicos, Orient
+Corporation, Sumitomo Mitsui Card, Toyota Finance, UC Cards and View Card, and
+carriers KDDI, NTT Docomo and Softbank, representing more than three-quarters of
+all credit card spending in Japan, with major global and domestic networks like
+American Express, Mastercard, JCB, iD and QUICPay. Users will continue to
+receive all of the rewards and benets offered by their cards.
+
+Beginning in October, iPhone 7, iPhone 7 Plus and Apple Watch Series 2 users
+will be able to make purchases in stores anywhere Suica, iD or QUICPay is
+accepted, encompassing nearly two-thirds of all transactions at Japan's largest
+merchants. In addition to Apple Stores in Japan, leading retailers that will
+accept Apple Pay include convenience stores like 7-Eleven, Circle K, Family
+Mart, Lawson, Ministop and Sunkus, supermarkets such as AEON, APITA and PIAGO,
+gas stations including ENEOS and Esso Mobil General, retailers like BicCamera,
+Matsumoto Kiyoshi and Uniqlo, and favorite local brands such as JapanTaxi and
+Sukiya.
+
+Online shopping in apps and on websites accepting Apple Pay is as simple as the
+touch of a finger with Touch ID, so there's no need to manually fill out lengthy
+account forms or repeatedly type in shipping and billing information. Your card
+number is kept private and not shared with the merchant. Online brands that will
+accept Apple Pay in Japan include BASE, Demae-Can, giftee, Jalan.net, JapanTaxi,
+minne and Toho Cinema.
+
+When paying for goods and services on the go within apps or Safari, Apple Pay
+works with iPhone 6 and later, iPad Pro, iPad Air 2, and iPad mini 3 and later.
+You can also use Apple Pay in Safari on any Mac introduced in or after 2012
+running macOS Sierra, and confirm the payment with iPhone 6 or later or Apple
+Watch.
+
+Security and privacy are at the core of Apple Pay. If your iPhone, iPad or Apple
+Watch is ever lost, you can use Find My iPhone to put your device in Lost Mode
+to suspend Apple Pay, or you can wipe your device clean completely. You can also
+stop the ability to make payments with Apple Pay on iCloud.com. If you lose your
+device, your Suica balance is recoverable.
+
+When you use a credit or prepaid card with Apple Pay, the actual card numbers
+are not stored on the device, nor on Apple servers. Instead, a unique Device
+Account Number is assigned, encrypted and securely stored in the Secure Element
+on your device.
+
+Source: Apple
+

@@ -1,0 +1,137 @@
+
+
+The tech giant has unveiled its latest iPhone and given a peek at its second
+generation Apple Watch.
+
+bull The iPhone 7 will cost $1,199 and the 7 Plus will cost $1,429. That"s for
+the 32GB version. You can pre-order online from 7pm September 9.
+
+bull Its new "Jet Black" finish is only available in the 128GB and 256GB
+capacity, so you"re looking at paying at least NZ$1399 for the iPhone 7 in Jet
+Black and $1629 for the iPhone 7 Plus in Jet Black.
+
+See here for NZ Herald"s Sophie Ryan"s live blog from this morning"s event:
+
+(function(d, s, id) {var
+js,ijs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createEl
+ement(s);js.id=id;js.src="https://embed.scribblelive.com/widgets/embed.js";ijs.p
+arentNode.insertBefore(js, ijs);}(document, "script", "scrbbl-js"));
+
+Apple"s latest iPhone may be more notable for what"s missing from previous
+models than what"s being added. The iPhone 7 and 7 Plus unveiled this morning
+won"t have an analogue headphone jack - a longtime staple in just about every
+consumer electronics device that can play audio.
+
+Watch: Carpool Karaoke with Tim Cook
+
+In doing so, Apple is betting that its legions of loyal fans will embrace the
+shift to wireless headphones - or, if they insist on sticking with their old
+ways, that they won"t mind using earbuds that plug into the iPhone"s power port,
+or older headsets in conjunction with a new adapter.
+
+READ MORE:
+
+bull Apple accidentally leaks its own iPhone news on Twitter
+
+The redesigned earbuds - with cord - will be included with the new iPhones. Also
+in the box: an adapter consisting of two plugs connected by a short length of
+cable, which will connect older headphones to the charging port.
+
+See the latest images from Apple"s San Francisco event:
+
+THE WIRELESS FUTURE LOOMS
+
+But Apple is trying to push consumers to cut the cord with their headphones and
+make the leap into what it envisions as a "wireless future."
+
+"The reason to move on is courage," said Philip Schiller, Apple"s senior vice
+president of worldwide marketing. "The courage to move on and do something new
+that will benefit all of us."
+
+As part of the transition, Apple also is introducing wireless "AirPods" that
+will sell for $160.
+
+Getting rid of the 3.5 millimetre headphone jack helped Apple make its new
+iPhone slimmer, boost its battery lifetime and add other improvements, including
+stereo speakers and a sharper camera. The iPhone 7 is also water resistant, a
+popular feature that rivals such as Samsung Electronics already have been
+offering.
+
+Apple is trying to reverse its first decline in iPhone sales since the company"s
+late founder, Steve Jobs, unveiled the trendsetting device in 2007.
+
+Apple sold nearly 92 million iPhones during the first six months of this year,
+or about 15 percent fewer than the same period last year. Industry analysts
+blame the downturn on last fall"s uninspiring rollout of the iPhone 6S and 6S
+Plus, neither of which included enough compelling feature to persuade consumers
+to replace the phones that they already owned.
+
+BEEN THERE, DONE THAT
+
+Now the iPhone 7 and 7 Plus may be plagued by the same syndrome.
+
+Phone advances from Apple, Samsung and other smartphone makers in recent years
+are becoming so run-of-the-mill that BGC analyst Colin Gillis says the industry
+is gradually losing its ability to dazzle consumers. That"s something Jobs was
+famous for whenever he showed off new products.
+
+In a research note, Gillis predicted that shopping for a new smartphones is
+becoming "like buying a microwave - something people do, but not a major event."
+He believes Apple"s iPhone sales could decline by 5 percent during the next
+year.
+
+If that happens, it will be bad news for Apple, the world"s most valuable
+company. It relies on the iPhone for two-thirds of its revenue, partly because
+the company hasn"t been able to come up with another breakthrough innovation
+under the leadership of CEO Tim Cook, Jobs" hand-picked successor.
+
+Investors weren"t very enthused about what they saw Wednesday. Apple"s stock
+shed 29 cents to US$107.41 in late afternoon trading. The shares are stuck
+slightly below their value a year ago when the last iPhone came out.
+
+Watch: iPhone 7 product video:
+
+BETTER CAMERA, FASTER PROCESSOR
+
+Piper Jaffray"s Gene Munster is among the industry analysts predicting more
+dramatic changes to the iPhone next fall to herald the 10-year anniversary of
+the first model.
+
+The most significant upgrades to this year"s models include a faster processor
+and a better camera, upgrades that Apple typically makes every year. The more
+expensive and larger iPhone 7 Plus boasts the biggest change, with two digital
+camera lenses.
+
+One will be for wide-angle views and the other will have telephoto capabilities,
+which Apple says will zoom in by up to 10 times while still providing the same
+clarity as a shot on the standard distance setting.
+
+The phones will offer more storage than earlier models. As people store more
+photos and video on their phones, Apple is taking a cue from rival phone makers
+and offering its starter model with 32 gigabytes of storage.
+
+OTHER UPDATES
+
+Those who aren"t getting a new iPhone will still see improvements with a new
+mobile operating system called iOS 10. It will be available as free download
+beginning Sept. 13. Among other things, the software will add more intelligence
+to Apple services like Maps, Photos, the iPhone keyboard and Siri, the
+voice-activated digital assistant.
+
+The company also used Wednesday"s showcase to introduce a new generation of its
+smartwatches, which will include GPS tracking and enough water resistance to
+swim with, part of its effort to boost sales in its newest product line.
+
+The Apple Watch has been the only major new product released during Cook"s
+reign, and sales of the device so far have been lukewarm. The company hasn"t
+disclosed sales figures for the Internet-connected watch, but research firm IDC
+estimates that Apple shipped 1.6 million watches in the April-June quarter, less
+half the 3.6 million a year earlier.
+
+The Apple Watch will get a popular new app later this year too. Niantic Labs,
+the maker of the cultural sensation Pokemon Go, announced that the game will be
+released for the watch, building upon the apps that it already has designed for
+the iPhone and Android devices.
+
+-AP.
+

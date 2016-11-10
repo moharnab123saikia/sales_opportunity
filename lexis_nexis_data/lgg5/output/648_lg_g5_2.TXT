@@ -1,112 +1,31 @@
-                              648 of 820 DOCUMENTS
-
-
-
-
-
-                                      DNA
-
-
-
-                            August 11, 2016 Thursday
-
-
-
-Google's "Verify Apps" may protect 90% of Android phones vulnerable to
-
-QuadRooter
-
-
-
-BYLINE: dna Web Team
-
-
-
-LENGTH: 292  words
-
-
-
 
 
 The security feature blocks any app with malicious code from installing on the
-
 device.
 
-
-
 QuadRooter, a malware that targets four specific vulnerabilities in Android
-
 smartphones, has been the latest and greatest threat to the platform. Thanks to
-
 Qualcomm hardware exploits, with approximately 900 million devices at risk, the
-
 malware is capable of gaining root access to a person's smartphone. However, it
-
 looks like there might be some reprieve after all.
 
-
-
 Google has announced that Google Play's "Verify Apps" feature automatically
-
 blocks all apps with a possible QuadRooter exploit from installing. Verify Apps
-
 is avilable on Android devices running version 4.2 Jelly Bean or above, which
-
 Google says is about 90.6 percent of devices that visit its Play Store. What the
-
 security feature does is that scans an app for a malware exploit, and blocks it
-
 from installing if detected. The feature is enabled by default and, the company
-
 claims, is likely to be enough to safeguard your phone for now.
 
-
-
 In a statement to Android Central, a Google spokesperson said, "We appreciate
-
 Check Point's research as it helps improve the safety of the broader mobile
-
 ecosystem. Android devices with our most recent security patch level are already
-
 protected against three of these four vulnerabilities. The fourth vulnerability,
-
 CVE-2016-5340, will be addressed in an upcoming Android security bulletin,
-
 though Android partners can take action sooner by referencing the public patch
-
 Qualcomm has provided."
 
-
-
 Some devices that might be vulnerable to QuadRooter include the Google Nexus 5X
-
 and Nexus 6P, HTC 10, LG G5, OnePlus 3, Moto X, Galaxy S7, and the BlackBerry
-
 Priv. Even the supposedly secure Blackphone is at risk, experts say.
-
-
-
-LOAD-DATE: August 11, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-  Copyright 2016 Diligent Media Corporation Ltd., DNA (Daily News & Analysis),
-
-                           distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,108 +1,31 @@
-                              479 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                            April 23, 2014 Wednesday
-
-
-
-US Patent granted to Google Inc (California) on April 22 titled as "Video
-
-compression and encoding method"
-
-
-
-LENGTH: 242  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,705,625 on
-
 April 22, 2014, to Google Inc (California), titled as "Video compression and
-
 encoding method"
 
-
-
 Inventors:  Ameres; Eric (Cohoes, NY), Bankoski; James (Wynantskill, NY),
-
 Grange; Adrian W (Cambridgeshire, GB), Murphy; Tim (New York, NY), Wilkins; Paul
-
 G (Cambridge, GB), Xu; Yaowu (San Diego, CA)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Disclosed herein is a method for decoding a video signal having at least one
-
 frame with a plurality of blocks including a current block, including
-
 generating, for at least a selected pixel in the current block, a predicted
-
 value for at least one pixel located in a row i and a column j of the current
-
 block using a processor and according to the following equation:
-
 X.sub.ij=L.sub.i+A.sub.j-C; wherein X.sub.ij is the predicted value, L.sub.i is
-
 the value of a pixel to the left of the current block, A.sub.j is the value of a
-
 pixel in a row above the current block and C is the value of a pixel in the row
-
 above and the column to the left of the current block and decoding the current
-
 block using the predicted value."
-
-
 
 The patent was filed on September 14, 2012 Application no. 13/617,805
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: April 24, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

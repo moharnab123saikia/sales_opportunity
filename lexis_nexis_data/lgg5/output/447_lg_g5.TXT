@@ -1,226 +1,90 @@
-                              447 of 820 DOCUMENTS
-
-
-
-
-
-                                 therecord.com
-
-
-
-                            February 26, 2016 Friday
-
-
-
-Firms experiment with build-your-own phones
-
-
-
-SECTION: NEWS
-
-
-
-LENGTH: 768 words
-
-
-
 
 
 NEW YORK - If you could build your dream smartphone, what would it look like?
-
 Now suppose you could put it together yourself.
 
-
-
 That's the promise of modular design, a new concept in smartphones that would
-
 basically let you snap together different components like Lego blocks. Say you
-
 want a great camera. Snap! A vivid screen and good sound because you watch a lot
-
 of video? Snap! But maybe you could live with a smaller battery because you
-
 spend most of your day at home or work. Snap!
 
-
-
 Sure, phones now offer choices in colour and storage. Motorola goes a bit
-
 further in letting you choose custom backs made of wood or leather. But the rest
-
 of the phone is pretty standard. You're stuck with the processor, battery and
-
 other hardware chosen by Motorola, Apple, Samsung and other tech companies.
 
-
-
 With modular design, you could just pay for the components you need instead of
-
 settling for whatever manufacturers put in their designs. And instead of buying
-
 a new phone every year or two, you could just upgrade individual parts as they
-
 wear out or become obsolete.
 
-
-
 LG is dipping its toes in the modular-design concept with its upcoming G5
-
 smartphone, announced this week at a wireless conference. The bottom of the
-
 phone pops out to let you swap in new hardware. For starters, you'll be able to
-
 attach a camera grip with physical shutter buttons or insert a high-fidelity
-
 audio system if regular MP3-quality sound isn't good enough for you.
 
-
-
 Google's Project Ara, which isn't making products yet, is also outlining a
-
 modular-design approach that starts with a structural frame and lets you add
-
 cameras, sensors and batteries. Google figures a phone could cost as little as
-
 $50 using the most basic parts.
 
-
-
 A Dutch startup called Fairphone is selling the $580 Fairphone 2 online. Though
-
 it comes assembled, you can replace the screen for less than $100, or the camera
-
 for $40. An expansion port will let people add components - perhaps for wireless
-
 charging or mobile payments - that Fairphone or outside parties make in the
-
 future.
 
-
-
 Chinese phone maker ZTE has circulated concept designs. Other startups exploring
-
 modular phones include Finland's PuzzlePhone (as in the components fit together
-
 like a puzzle).
 
-
-
 Modular phone design is similar to how hobbyists build their own personal
-
 computers or soup up their cars. But there's no guarantee the idea will take
-
 off.
 
-
-
 For one thing, modular design is itself a trade-off. Many consumers want phones
-
 to be thin, light and power efficient, and that means all the parts have to be
-
 tightly integrated. You give that up when you go modular.
 
-
-
 Samsung, for instance, rejects modular design, preferring to offer "the best
-
 combination of features and functionality" in a compact and elegant design, says
-
 Justin Denison, Samsung's senior vice-president for U.S. product strategy and
-
 marketing.
 
-
-
 Modular design also isn't easy. Project Ara missed its 2015 target for a pilot
-
 project in Puerto Rico and suggested in cryptic tweets that designing modules
-
 has proven more complicated than expected. Google had no further comment.
 
-
-
 Ronan de Renesse, lead analyst for consumer technology with the research firm
-
 Ovum, says many parts in current smartphones are designed specifically to work
-
 together. Swap in a new camera or screen, and the older processors might not
-
 know what to do with it. The camera might stutter, the screen might blink, and
-
 both might drain the battery faster than expected.
 
-
-
 Lego-like parts also could allow dust or water to intrude into the phone's
-
 innards. Their connections might also give way over time.
 
-
-
 "I don't think those phones are going to be reliable enough for the mass
-
 market," de Renesse says.
 
-
-
 There's already some buzz around the phones. Fairphone has sold about 35,000
-
 units and is targeting 150,000 this year. The company says many of its customers
-
 are environmentally conscious about e-waste and don't need up-to-the-minute
-
 advances in phone technology.
 
-
-
 Many big phone makers introduce features just to have something to brag about in
-
 ads, says Miquel Ballester, Fairphone's co-founder. "I don't really think it's
-
 always what the customer is looking for."
-
-
 
 Even if the appeal is limited, the concept could have broader influence.
 
-
-
 LG's G5 isn't fully modular, as users couldn't replace processors, cameras and
-
 screens themselves. LG's Frank Lee says the modular design for now is mostly
-
 about enhancing the phone's capabilities with optional features. But perhaps one
-
 day, he says, people will be able to swap in a slower, but more power-efficient
-
 processor on days they'll be away from chargers.
 
-
-
 In the future, he says, "we won't be referring to them as phones anymore."
-
-
-
-LOAD-DATE: February 26, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2016 Metroland Media Group Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

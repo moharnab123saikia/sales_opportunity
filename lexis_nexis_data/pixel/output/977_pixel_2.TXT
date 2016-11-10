@@ -1,284 +1,114 @@
-                              977 of 997 DOCUMENTS
-
-
-
-
-
-                                 The Australian
-
-
-
-                            October 1, 2015 Thursday
-
-                               Australian Edition
-
-
-
-GOOGLE THE UNSTOPPABLE
-
-
-
-BYLINE: CHRIS GRIFFITH
-
-
-
-SECTION: LIFE; Pg. 16
-
-
-
-LENGTH: 1023  words
-
-
-
 
 
 TECH Despite security concerns about Android, the company that became a verb has
-
 just showcased a bevy of new products
 
-
-
 Google Android has been under attack. Concern about security, malware and a lack
-
 of privacy for users of the operating system has sullied its regard. But that
-
 hasn't stopped the Mountain View, California, giant. It has carried on. There
-
 are now 1.4 billion Android devices around the world, Sundar -Pichai, Google's
-
 surprise choice as chief executive, boasted this week at a launch event in San
-
 Francisco.
 
-
-
 And by year's end there will be more Chromebooks in US schools than all other
-
 types of devices combined, Pichai says. More than 10,000 US companies use
-
 -Android, as does the US Army, he adds, and Google Play Music has more than one
-
 billion users.
 
-
-
 This week Google had much to share. Two months ago founders Larry Page and
-
 Sergey Brin reorganised the tech giant, creating a new parent company called
-
 -Alphabet and appointing Pichai, born in India in 1972, to the top job at Google
-
 , throwing in a redesigned logo for good measure.
 
-
-
 This week Google showcased a bevy of new products, including two Nexus phones,
-
 two Chromecast streaming devices and a Pixel C tablet with a magnetically
-
 -attached keyboard.
 
-
-
 And that was before we got to Marshmallow, and Google's plans to reach further
-
 into our homes via its Chromecast device.
 
-
-
 Google contracts other firms to make Nexus-branded phones on its behalf. Thus LG
-
 produced a 5.2-inch Nexus 5x device while China's Huawei produced a
-
 phablet-sized 5.7-inch phone. Both Nexus phones use the pure form of Google's
-
 new Marshmallow operating system, unadulterated by manufacturers' own apps and
-
 tailoring of code.
 
-
-
 Many people like the pure form of Android. It is always the latest version of
-
 the operating system, with Google regularly pumping out updates. Both phones
-
 feature the new USB Type-C ports we saw early this year on Apple's 12-inch
-
 MacBook. These ports allow for fast data transfers and fast-charging devices.
-
 You can buy adaptors to connect other devices such as external hard drives.
 
-
-
 Both Nexus phones have fingerprint readers that Google calls Nexus Imprint.
-
 They're installed on the back of the phones and, from experience, I can attest
-
 to the speed at which they can grant access to a locked smartphone. Google says
-
 the software can recognise a fingerprint in less than 600 milliseconds. However,
-
 you'll have to get used to picking up your phone holding it on its sides and
-
 supporting it with your index finger.
 
-
-
 Also this week, Motorola, Huawei and Asus launched watches with Google's
-
 watch-oriented operating system, Android Wear.
 
-
-
 Much attention was given to Google's new tablet, the Pixel C, with its 10.2-inch
-
 display. Its keyboard magnetically attaches to the tablet and charges
-
 inductively from it, but can achieve two months of use without charging.
 
-
-
 The Pixel C runs the new operating system Marshmallow and Google's biggest
-
 announcements were software-related. While Google Marshmallow, also known as
-
 Android 6.0, is an incremental update, in addition to fingerprint recognition it
-
 adds a different way of granting apps permission to access data. Typically we
-
 give apps carte blanche permission to access our data when we install them. Now
-
 you have a choice about whether you really want a particular app to access all
-
 your contacts. Hopefully users will make a more deliberative choice.
 
-
-
 Among the new announcements was a power-saving feature called Doze that can put
-
 your device into a sleep state when not in use. A motion detector decides this.
-
 And App Standby helps -conserve battery life.
 
-
-
 Now Tags, an extension of Google Now, automatically offers context-specific
-
 prompts to assist your search for products. So if you find a restaurant using
-
 the Yelp app, Now Tags prompts you to make a restaurant booking using the
-
 OpenTable app or asks if you want to use your -favourite taxi app.
 
-
-
 The Android app drawer remembers when and where you use apps, placing them at
-
 the top of the app drawer when you return to the same time and same place. So if
-
 you regularly use a transport app in the morning, it reappears at the top of
-
 your app drawer when you are nearby.
 
-
-
 Marshmallow comes installed on the new Nexus phones and rolls out on other Nexus
-
 devices next week. Users of other phones have to wait until manufacturers
-
 incorporate Marshmallow in their operating systems, probably next year.
 
-
-
 Then there is Chromecast, the dongle some describe as Google's "Trojan Horse",
-
 designed to allow the tech giant to penetrate deeper into your home. Chromecast
-
 -allows you to attach entertainment devices and run programs on them, such as
-
 Spotify on your TV.
 
-
-
 Google aims to disrupt the connected audio speaker industry with a new device
-
 called Chromecast Audio. It announced a family music plan that lets six people
-
 use Google Music in the US for $US14.99 ($21.30) a month. That's due to be
-
 available later this year.
 
-
-
 You can get out an old speaker and attach it to Chromecast Audio's 3.5mm stereo
-
 plug, and Chromecast can stream music to it from apps such as Spotify and Google
-
 Music. If you have a series of speakers you can pump synchronised music through
-
 each speaker in your home.
 
-
-
 Chromecast Audio and a new version of Chromecast for TV are disk-shaped. They
-
 work basically the same way. There's a port for a microUSB connection that
-
 powers the device and, in the case of Chromecast, an HDMI connection out or for
-
 Chromecast Audio, a stereo plug connection.
 
-
-
 Google says the new shape will make it easy for Chromecast to dangle at the back
-
 of a TV set and fit snugly behind a mounted TV. The new Chromecast devices
-
 support dual Wi-Fi for faster streaming. But you won't see this in Australia any
-
 time soon. We're not even among the top 17 countries listed by Google to receive
-
 them. Maybe later this year. Given the US cost is $US35, we can expect
-
 Chromecast to stay at about $50.
 
-
-
 Marshmallow may be a soft -upgrade, but you get the impression Android is
-
 getting much more sophisticated as we head towards the second half of this
-
 -decade. But privacy and malware are still issues about which Google needs to
-
 allay public concern.Chris Griffith travelled to San Francisco courtesy of
-
 Huawei.
-
-
-
-LOAD-DATE: September 30, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: The Australian
-
-
-
-
-
-                   Copyright 2015 Nationwide News Pty Limited
-
-                              All Rights Reserved
-
-
-
-
 

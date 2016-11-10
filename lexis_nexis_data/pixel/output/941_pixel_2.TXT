@@ -1,184 +1,64 @@
-                              941 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                AFP - RELAXNEWS (English International Version)
-
-
-
-                             March 19, 2013 Tuesday
-
-                                  HOUSE & HOME
-
-
-
-Latest Chromebooks coming to more countries, Android and Chrome OS merge
-
-anticipated
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 634 words
-
-
-
 
 
 Google has announced that it is rolling out its Chrome OS notebooks to
-
 Australia, Canada, Germany, Ireland, France, and the Netherlands as of Tuesday.
 
-
-
 The latest Chromebooks manufactured by Acer, HP and Samsung are coming to more
-
 markets in a push that many see as confirmation that Google is planning to merge
-
 the Android smartphone and tablet operating system with its Chrome desktop OS.
 
-
-
 Chromebooks differ from 'traditional' notebooks in that they use a suite of
-
 web-based applications rather than software installed directly on the computer's
-
 hard drive. By eliminating pre-installed (or any) software and by using a very
-
 basic operating system, installed on the processor, Chromebooks are quicker to
-
 load and boot up than a typical desktop or notebook computer and their
-
 processing and performance speed is dependent on the strength of the device's
-
 internet connection. And, as the applications are stored online, they are always
-
 the most up-to-date versions of those applications available. Chromebook users
-
 don't have to worry about downloading patches or application updates. The use of
-
 the Chrome internet browser to access the applications plus the fact that the
-
 applications are constantly updated also means that the Chromebook is the
-
 closest a typical consumer can currently get to virus-free computing.
 
-
-
 However, since the first Samsung-built Chromebooks rolled out in 2011, they have
-
 failed to gain any meaningful traction in their initial markets, the US and UK.
-
 Google points to the fact that its Chromebooks dominate Amazon's best-seller
-
 lists in the US, but according to research carried out by Digitimes, combined
-
 sales to date are around the 500,000 mark. This gives the device's operating
-
 system a less than 1 percent share of the global notebook market. To put this
-
 into context, Apple sold 4.1 million Macs in the first quarter of 2013 alone
-
 (unfortunately, Apple doesn't differentiate between desktop and notebook
-
 computers in its earnings reports).
 
-
-
 Still, Chromebooks are well-made, affordable computers and, with the recent
-
 launch of the Chromebook Pixel, a notebook with a high-definition touch screen
-
 and aluminium construction, Google is demonstrating that it can do premium as
-
 well as entry-level design. And, if the Chrome OS and Android are merged, then
-
 the Chromebook is expected to rocket in popularity as a device that seamlessly
-
 integrates with the user's existing smartphone, tablet and smart TV that offers
-
 the same services and apps on all computing platforms.
 
-
-
 As Ben Bajarin explains in a Time tech piece: "Google has a large global
-
 developer base for Android but not yet for Chrome web apps. Chrome is designed
-
 to run only apps developed for the web, where Android is designed to run apps
-
 that are installed. Once these two development environments merge, developers
-
 will be able to design both Android and Chrome web apps with the same set of
-
 tools, consistency and unified application stores. Google, with its expertise in
-
 cloud services, could bring a cloud-based virtual Android environment to Chrome,
-
 perhaps giving us the ability to run Android in the browser, seamlessly, on all
-
 Chrome hardware."
 
-
-
 The merger would also explain why the Chromebook Pixel features a touch screen
-
 as Android apps are all optimized for touch rather than keyboard or mouse input.
 
-
-
 At the moment, Microsoft and Apple both offer very good levels of device
-
 interoperability. The iPhone and iPad dock and synch seamlessly with Apple
-
 computers and a number of mobile apps are also available as desktop widgets.
-
 However, Apple desktops and notebooks can't run actual iPhone apps.
 
-
-
 As well as expanding sales to other countries, Google has also announced that in
-
 the US, where the Chromebook is slowly starting to establish itself, the devices
-
 will now be stocked by over 1000 Best Buy outlets.
 
-
-
 ch/cm
-
-
-
-LOAD-DATE: March 19, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: relaxnews.en.
-
-
-
-
-
-                            Copyright 2013 Relaxnews
-
-                              All Rights Reserved
-
-
-
-
 

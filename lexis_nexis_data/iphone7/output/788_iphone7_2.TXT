@@ -1,0 +1,36 @@
+
+
+If you're looking for better performance from an iPhone 7, then it's better that
+you do not invest money in the 32GB version of the phone
+
+The last time tests were carried out using the 32GB version of Apple's iPhone 7,
+it showed that the smartphone was actually slower than the 64GB version of last
+year's iPhone 6s, which goes to show that Apple could be using slower flash
+memory chips inside the base model of its iPhone 7. Now, popular YouTuber Lou
+from Unbox Therapy has decided to take the iPhone 7 32GB model for another test
+and while the results may appear different, they still do not change their
+stance on the fact that the 32GB model is indeed a slower version.
+
+In the video-based test, the free PerformanceTest Mobile app is used to test the
+devices, and both the 32GB iPhone 7 and a 128GB iPhone 7 are used. While both
+devices have near similar read speeds, with the 32GB model reading at 656MB per
+second and the 128GB model reading at 856MB per second, the biggest difference
+arises when the different models' write speeds pop up.
+
+In these tests, 128GB model easily swoops past its 32GB counterpart as it is
+able to write data at a speed of 341MB per second. Unfortunately, the base model
+of iPhone 7 doesn't even come close to that speed, as the 32GB flash memory is
+only able to write data at 42MB per second, confirming that the smartphone
+writes data nearly 8 times slower than the higher capacity model.
+
+Flash memory has an issue that it slows down the entire device if there is
+limited storage available to the user. You will obviously need more storage for
+future software updates, so we highly recommend that if you are on the lookout
+for an iPhone 7, then do not purchase the 32GB storage model. Instead, do
+yourself a favor, and purchase the 128GB model, since that is the best possible
+model that you can purchase right now. If you like to carry your entire
+collection of music and movies, then you'll naturally upgrade to the 256GB
+storage model.
+
+Source
+

@@ -1,322 +1,137 @@
-                              608 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                           February 19, 2013, Tuesday
-
-
-
-iPhone 6 rumor rollup for the week ending Feb. 15;
-
-The 'delay' of the iHumungous phone, and other credulities
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1130 words
-
-
-
 
 
 The depth of winter seemed to have a chilling effect on iOSphere rumoring. Most
-
 of the mongering activity focused onthe shocking "news" that the 4.8-inch
-
 iHumongous phone has been "delayed" until mid-2014.
 
-
-
 Both the news and its shock value raced through the iOSphere even though the
-
 stock analyst's Note to Investors, which triggered them, merely analyzed
-
 possible manufacturing challenges that might affect the unannounced and perhaps
-
 nonexistent phone's price or schedule.
 
-
-
 And photos that claimed to give us a detailed look at "sweet, sweet innards" of
-
 the "iPhone 5S" turned out to be much less than met the eye. Kind of like a
-
 metaphor for iPhone rumors.
-
-
 
 You read it here second.
 
-
-
 __________ __________ Stock analyst Peter Misek, who just weeks ago helped fuel
-
 speculation about a roughly 5-inch screen iPhone 6, poured icy water on the
-
 iOSphere's fervid hopes in a new Note to Investors. The NTI has been widely and
-
 wildly interpreted as saying that the iPhone-that-Apple-hasn't-announced has
-
 been "delayed."
 
-
-
 [ QUICK REVIEW: Xentris Wireless iPhone 5 case ] MacRumors picked up on Misek's
-
 new speculation in a post headlined "Apple's 4.8-Inch iPhone 6 Reportedly Not
-
 Launching Until Mid-2014."  MacRumors' Eric Slivka quoted from Misek's most
-
 recent NTI, wherein the analyst says that he sees "three possible bottlenecks
-
 for the iPhone that could contribute to lower yields (and hence higher costs)
-
 and/or a delayed launch."
 
-
-
 But this introductory statement is already different from the MacRumors
-
 headline. Based on that quote, Misek is simply saying that there are "possible"
-
 problems that could affect iPhone 6 costs, the phone's release schedule, or
-
 both.
 
-
-
 First, there is a potential shift from a 32-nanometer process to a 20-nanometer
-
 for Apple's A series CPU. From what we can understand about silicon, this is a
-
 pretty big jump, essentially skipping the 28 nm process. Misek thinks Apple is
-
 "likely" to make the jump "to facilitate adding more cores (4 or even 8)."
 
-
-
 Second is Apple's possible decision to switch from in-cell LCD displays for
-
 iPhone 5 to on-cell OLED or IGZO for future iPhones, which has been a rumor for
-
 months. "We think in-cell is having difficulty ramping to 4.8", which is making
-
 Apple look at switching to on-cell (a different integrated touchscreen
-
 technology) and OLED (despite Apple's suppliers being well behind Samsung in
-
 their OLED capabilities) or IGZO," according to Misek, without apparently
-
 explaining what the manufacturing problems actually are.
 
-
-
 Thirdly, again without explanation, Misek says, "We think Apple plans to
-
 re-architect iOS to utilize more cores and better compete with Samsung." He also
-
 "believes" there will be substantial changes in the way iOS "interoperates with
-
 iCloud, gestures controls, and advertising ..."
 
-
-
 According to MacRumors, Misek expects the iPhone 5S and a lower-cost iPhone to
-
 be released in mid-2013.
 
-
-
 Slivka adds almost nothing to the Misek excerpts, letting them stand in effect
-
 on their own.
 
-
-
 Others, such as Ubergizmo's Tyler Lee, weren't so reticent. Lee interprets the
-
 MacRumors account of Misek's speculation as meaning that "the iPhone 6 with a
-
 4.8" display will only see a release in 2014, suggesting that it would miss its
-
 supposed 2013 schedule due to possible production problems with regards to its
-
 display."
 
-
-
 The interpretation by Business Insider's Jay Yarow was even more original.
-
 "Apple wanted to release a 4.8-inch iPhone 6 this year, but it ran into
-
 manufacturing problems, says Jefferies analyst Peter Misek," Yarow declared.
 
-
-
 But as quoted by MacRumors, Misek didn't say anything like what Tyler and Yarow
-
 claim he says. Misek in December 2012 claimed there were 4.8-inch iPhone
-
 prototypes being evaluated. Yet even if that's true, the existence of the
-
 prototypes doesn't translate into a "schedule" or even a "wanting" to release
-
 such a phone in 2013.
 
-
-
 There's not a lot of substantive reporting in terms of understanding Apple's
-
 display options, with many of the rumors based on anonymous industry, or Asian
-
 supply chain, sources, and on each other. The Rollup attempted a brief summary
-
 of some display issues in the "iPad 5 rumor rollup for the week ending Feb. 6,"
-
 specifically the section "iPad 5 will have GF2 DITO OMG IMHO screen structure."
 
-
-
 The "low yields" refrain is now so widespread and reflexive that it's difficult
-
 to tell whether it's a real problem for any Apple displays or it has achieved
-
 the status of Internet Urban Legend.
 
-
-
 On July 31, 2012, AppleInsider was one of many websites that warned, based on a
-
 story in DigiTimes, that "Low yield rates for in-cell touchscreens may affect
-
 Apple's next iPhone," that is, the iPhone 5. Yet barely 60 days later,
-
 AppleInsider was more upbeat, based on a Note to Investors by Sterne Agee's Shaw
-
 Wu, claiming that "yield rates for Apple's iPhone 5 in-cell touch panels [are]
-
 improving."
 
-
-
 Photos that purport to show the Next iPhone, which could be iPhone 5S or iPhone
-
 6 depending on your preference, were posted at this Chinese website two weeks
-
 ago, and last week began appearing on some blogs and tech sites.
 
-
-
 "Leaked iPhone 5S Images Show Off Identical Look To iPhone 5," was the bold
-
 headline over an Ubergizmo post by Daniel Perez.
 
-
-
 "[W]e're seeing another photo possibly leaking the iPhone 5S' sweet, sweet
-
 innards coming from Chinese website Zol.com.cn," he gushed.
 
-
-
 Now, he did admit in a masterful understatement that "it's hard to confirm the
-
 legitimacy of each rumor." And then fell back on that tried and true iOSphere
-
 confirmation criterion: Why would anyone lie?
 
-
-
 "But at this point, we'd have to wonder why anyone would leak images of anything
-
 that wasn't the next iPhone ..."
-
-
 
 We couldn't have said it better.
 
-
-
 Unfortunately for the credulous Mr. Perez, MacRumors' Slivka actually studied
-
 the photos and concluded they show that "the device is clearly an iPhone 5
-
 clone," in other words, a ripoff, a counterfeit.
 
-
-
 "The photos show a device with an outward appearance very similar to the iPhone
-
 5, but the internals show essentially no resemblance to an Apple-designed
-
 device," Slivka wrote.
-
-
 
 Here are "examples of just a few of the inconsistencies," Slivka wrote:
 
-
-
 * A battery capacity of just 1130 mAh compared to 1440 mAh for the iPhone 5; *
-
 An apparent SD card slot; * Loose red and black wires connecting components; * A
-
 green PCB for the connector bearing no resemblance to Apple's Lightning
-
 connector.But wait. There's Another Possibility.
 
-
-
 What if Slivka is too quick in his dismissal? What if instead of a clone, this
-
 is actually a prototype? What if it's a prototype of the iCheapo phone? Using,
-
 you know, cheaper stuff, smaller battery, and all that?
-
-
 
 You need to rumor creatively. Maybe this rumor will have legs after all.
 
-
-
 John Cox covers wireless networking and mobile computing for Network World.
-
 Twitter: @johnwcoxnww Email: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: February 25, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

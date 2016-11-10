@@ -1,200 +1,77 @@
-                              454 of 997 DOCUMENTS
-
-
-
-
-
-                                  Korea Times
-
-
-
-                           November 25, 2008 Tuesday
-
-
-
-Google Maps Make Korean Debut
-
-
-
-BYLINE: By Kim Tong-hyung
-
-
-
-LENGTH: 556 words
-
-
-
 
 
 Staff Reporter
 
-
-
 Google is becoming serious in approaching the Korean market and expects mapping
-
 services to be an integral part of its local business plans, company executives
-
 said.
-
-
 
 In a news conference in Seoul, Google Korea (www.google.co.kr) announced the
-
 release of the local version of "Google Maps," a free location service based on
-
 interactive Web maps and photographic imagery, which company officials hope will
-
 help drive more traffic to its search engine.
 
-
-
 The debut of the mapping service had been delayed due to Korean export
-
 restrictions on mapping data. The problem was solved after Google eventually
-
 agreed to operate the services on a Korean server.
 
-
-
 Cho Won-gyu, the engineering site director at Google Korea, said the
-
 location-based information used by consumers and corporate clients through
-
 Google Maps will be very diverse.
 
-
-
 The company has created an open API (application programming interface) for the
-
 mapping service to allow third-party developers and corporate clients to create
-
 and share applications.
 
-
-
 Companies like Samsung Everland, which plans to use Google Maps to strengthen
-
 its "BeMeal" restaurant search services; REVU (www.revu.com), a consumer review
-
 site; and Korea Railroad are already developing future services by using the
-
 API.
 
-
-
 Google is also planning to introduce "Street View," a related product that
-
 allows viewers a panoramic, ground-level view of the search area, soon, Lee
-
 said.
-
-
 
 "We believe Google Maps will play an integral part in strengthening our market
-
 position here," Cho said, adding that it is the search engine's only service to
-
 be operated on a local server.
 
-
-
 "We will continue to upgrade the quality of services through user feedback," he
-
 said.
-
-
 
 Google Maps is likely to face tough competition in Korea, with local Internet
-
 companies rushing to roll out similar services with better quality.
 
-
-
 Daum (www.daum.net) and Paran (www.paran.com) are the most ambitious, as they
-
 are preparing mapping services with image resolutions of 50 centimeters per
-
 pixel, better than the Korean version of Google Maps that range between 50
-
 centimeters to 1 meter per pixel.
 
-
-
 The Korean portals say they are ready to enhance picture qualities up to 25
-
 centimeters per pixel, once the government eases its regulations on the
-
 resolution of aerial photography that is current limited to 50 centimeters per
-
 pixel.
 
-
-
 NHN, the operator of top portal and search engine, Naver (www.naver.com), is
-
 also planning to launch mapping services and has recently agreed to purchase
-
 satellite imagery from a company in Taiwan.
 
-
-
 "We believe Google Maps has a competitive advantage in that the usage of its API
-
 will not be limited to the Korean market, unlike the rival services of local
-
 portals," said Cho.
 
-
-
 "We will continue to customize Google Maps to the needs of local users," he
-
 said.
 
-
-
 Google has been struggling to cope with Naver's dominance in the past years, but
-
 its localization efforts are slowing starting to be manifested in traffic,
-
 company officials said.
 
-
-
 Lee Won-jin, the director of business and operations at Google Korea, said
-
 Google Korea's search traffic has increased by more than 40 percent compared to
-
 last year.
 
-
-
 Google Korea had been focusing on customizing the Internet giant's global
-
 services for Korean customers, but Lee said the company will introduce more
-
 products that have been developed for Korean users in 2009.
-
-
-
-LOAD-DATE: November 26, 2008
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                         Copyright 2008 The Korea Times
-
-                              All Rights Reserved
-
-
-
-
 

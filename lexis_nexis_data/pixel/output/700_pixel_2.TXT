@@ -1,208 +1,74 @@
-                              700 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                  The Guardian
-
-
-
-                   September 30, 2015 Wednesday 10:59 AM GMT
-
-
-
-Google launches its new Nexus 5X and Nexus 6P flagship smartphones;
-
-Next generation Nexus phones lead the roll out of company's Android 6
-
-'Marshmallow', bringing fingerprint scanners and claiming better battery life
-
-
-
-BYLINE: Samuel Gibbs
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 635 words
-
-
-
 
 
 Google has launched two new flagship smartphones, the Nexus 5X and Nexus 6P, to
-
 demonstrate what its new version of Android "Marshmallow" can do.
 
-
-
 The two new handsets are made by Google's long-term partner LG and smartphone
-
 newcomer Huawei, and push the new features of Marshmallow, including fingerprint
-
 scanners, the new Nexus camera and Google's improved personal assistant Now on
-
 Tap.
 
-
-
 Andrei Popescu, an engineering director within Google's Android team, said: "The
-
 Nexus devices are our idea of embodiment of the perfect Android device - a
-
 platform for application developers to show off the new features of Marshmallow
-
 and show what Android can do."
 
-
-
 The LG Nexus 5X features a 5.2in 1080p screen with a density of 423 pixels per
-
 inch (ppi), which is protected by last year's Corning's Gorilla Glass 3. The
-
 smartphone features the same Qualcomm Snapdragon 808 hexa-core processor as the
-
 LG G4, 2GB of RAM and the choice of either 16 or 32GB of storage within a
-
 relatively compact frame.
 
-
-
 The 16GB Nexus 5X will cost £339 - £379 for 32GB of storage - and replaces the
-
 now two-year-old Nexus 5. It will be available on 16 October in the UK.
 
-
-
 The Huawei Nexus 6P is the Chinese manufacturer's first Google Nexus device,
-
 having made Android smartphones for several years under both the Huawei and
-
 Honor brands.
 
-
-
 The Nexus 6P features a 5.7in 2K AMOLED screen with a pixel density of 518ppi,
-
 rivalling that of Samsung's Note 5, which is protected by the latest Gorilla
-
 Glass 4, as featured on Samsung's Galaxy S6 range of smartphones. The Huawei
-
 smartphone features the Qualcomm Snapdragon 810 octo-core processor, 3GB of RAM
-
 and a choice of 32, 64 or 128GB of storage in an aluminium unibody shell
-
 available in silver, black and white.
 
-
-
 The Nexus 6P will be available from 26 October costing £449 for 32GB of storage,
-
 £499 for 64GB, and £579 for 128GB in the UK.
 
-
-
 Both new smartphones share common Google features beyond the software. Both
-
 smartphones feature quick charging and the new USB type-C connector, also used
-
 in Google's Chromebook Pixel, the OnePlus 2 and Apple's new MacBook. They also
-
 both feature Nexus Imprint fingerprint scanners on the back showing off
-
 Marshmallow's now built-in support for fingerprint sensors.
 
-
-
 Popescu said: "With baked in fingerprint support in Marshmallow it will allow
-
 application developers to use the fingerprint sensor and not have to try and
-
 support each individual manufacturer's implementation."
 
-
-
 Google has also been able to make sure that something as important as a
-
 fingerprint is stored on the trusted zone - a secure area of the system that
-
 cannot simply be accessed by any app, as was the case for some implementations
-
 such as HTC's One Max.
 
-
-
 Google's new Sensor Hub motion co-processor and new Nexus Camera are also
-
 available on both smartphones, with an 12.3-megapixel image sensor that promises
-
 to capture more light and take photos faster with laser autofocus.
 
-
-
 The new Nexus smartphones will mark the start of the rollout of Google's next
-
 version of Android, which promises to extend battery life, provide more
-
 intelligent assistance features and support more advanced hardware features such
-
 as motion and voice-recognition co-processors.
 
-
-
 Marshmallow will also continue Google's "Material Design" aesthetic - a
-
 significant upgrade in design and uniformity across the operating system and
-
 applications that better rivals Apple's iOS running on the company's iPhones.
 
-
-
 Popescu said: "Marshmallow is our most polished version of Android to date.
-
 We've really worked hard on making things like the animations super smooth."
 
-
-
 Marshmallow will come to some of Google's previous Nexus devices, and to other
-
 Android devices made by other manufacturers in the next year.
 
-
-
 · Google Android 5 Lollipop review - faster, prettier and better battery life
-
-
-
-LOAD-DATE: September 30, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: WEBGNS
-
-
-
-
-
-  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
-
-                              All Rights Reserved
-
-
-
-
 

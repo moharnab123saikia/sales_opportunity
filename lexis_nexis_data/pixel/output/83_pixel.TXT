@@ -1,254 +1,96 @@
-                              83 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                  The Guardian
-
-
-
-                      March 12, 2015 Thursday 4:40 PM GMT
-
-
-
-Google Chromebook Pixel 2 review round up: gorgeous, powerful, but still just
-
-Chrome;
-
-Google's vision of a cloud-computing future has another champion, the £800
-
-Chromebook Pixel 2, with a high resolution screen and solid aluminium body
-
-
-
-BYLINE: Samuel Gibbs
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 812 words
-
-
-
 
 
 Google has launched a new premium Chromebook - the Pixel 2. It is faster than
-
 its predecessor and has a high resolution screen but it raises the question:
-
 does anyone really want to pay £800 for a glorified web browser.
 
-
-
 Google's Chromebooks are designed to be a fast, cheap, portal to the internet
-
 costing under £250 and providing a browsing experience far better than similarly
-
 priced PCs. They are essentially a computer that's just a web browser, capable
-
 of doing anything you can through the browser but not much more.
 
-
-
 Google's original Chromebook Pixel was launched in 2013 and was an oddity. It
-
 had a high resolution display rivalling Apple's "retina" displays and cost
-
 £1,000, but was only as capable as any other Chromebook costing a quarter of the
-
 price.
 
-
-
 The new Pixel is cheaper, faster and comes with the new USB type-C port, but
-
 essentially offers the same conundrum: who should you buy a £800 Chromebook?
 
-
-
 Reviews have started pouring in from the US to attempt to answer that very
-
 question. Here's what they said.
-
-
 
 Chromebook Pixel review (2015): less expensive, still impractical
 
-
-
                      Engadget's Dana Wollman found the design fantastic, the
-
 build great and the screen better than almost any other.
 
-
-
 In addition to being sharp, the Pixel's display boasts rich colours and wide
-
 viewing angles, even despite the touchscreen's glossy finish. The visibility is
-
 so good, in fact, that when my seatmate on a recent flight asked me to open the
-
 window shade, I could make out the contents of the screen, even with sunlight
-
 streaming in next to me.
-
-
 
 Chromebook Pixel (2015) review
 
-
-
 The Pixel 2 adopts the reversible USB type-C for charging and connecting
-
 screens, despite having regular USB ports too. According to Dieter Bohn on the
-
 Verge users won't have to charge it very often, though.
 
-
-
 About the battery life: it's out-of-this-world good. The last Pixel was a
-
 disappointment in that regard, and most other Chromebooks are serviceable, but
-
 not stupendous. Google rates this Pixel as good for 12 hours, and in our own
-
 battery test, it clocked in at 14.
-
-
 
 Google Chromebook Pixel (2015) review
 
-
-
 David Pierce writing for Wired explained that the Pixel 2 makes compromises on
-
 software not on hardware, but that is the point of Google's Chrome OS.
 
-
-
 The limitations are the opposite of the new MacBook: there's plenty of
-
 processing power inside the Pixel, but there are some software limitations.
-
 Forget video editing or anything resembling heavy-duty gaming, for instance;
-
 there just aren't apps for those things on Chrome OS. For the basic tasks and
-
 mundanities we all slog through each day, though, Chrome OS is now more than
-
 enough. The biggest downside at this point is the local storage. Google really,
-
 really wants you to use Drive, so it gives you 1TB of online storage but only
-
 32GB of hard drive space. You'll fill that with photos and torrented copies of
-
 The Hobbit movies way too quickly.
-
-
 
 Google's Chromebook Pixel 2 is ready to be your work laptop
 
-
-
                      Mashable's Pete Pachal said that the Pixel 2 is the best
-
 Chrome browser experience money can buy, but £800 is a lot of money and that
-
 doesn't even buy the most powerful version.
 
-
-
 The standard Pixel 2 has lots of muscle, but there's an even stronger kid on the
-
 block. If you really want to be the biggest Chromebook on the block, Google
-
 actually makes a Chromebook Pixel 2 LS version. Google says the "LS" stands for
-
 "ludicrous speed," and that version packs an Intel Core i7 processor, 16GB of
-
 RAM and 64GB of storage. Why would you ever need that kind of power on a
-
 Chromebook, which runs and stores most everything in the cloud? I'm sure a
-
 developer somewhere will figure it out.
-
-
 
 New Chromebook Pixel is lovely hardware with limited appeal
 
-
-
 Andrew Cunningham from Ars Technica comes to the conclusion that despite being a
-
 very nice machine it's niche is small.
 
-
-
 The new Chromebook Pixel is an improvement over its predecessor in every
-
 important way-it's the best kind of upgrade, the kind that keeps what worked
-
 about the previous model and upgrades everything else. It's still the same kind
-
 of computer the first Pixel was, though. Its quality is excellent, but its
-
 operating system combined with its price makes it a nonsensical purchase for
-
 most people. The big question is still "who is this for" and the answer is still
-
 "die-hard Chrome developers, people who get them for free at Google I/O or
-
 whatever, and tinkerers who like the design and buy Chromebooks to put Linux on
-
 them."
 
-
-
 In the end the new Chromebook Pixel is a weird juxtaposition - a premium machine
-
 running a system designed to be cheap but do one thing well. It stands as
-
 Google's idea of what the next step in cloud-powered computing should be and
-
 Chrome OS developers are going to love it. The rest of us should probably just
-
 stick with the £200 machines or buy a PC or Mac for £800.
 
-
-
 · Five best laptops to suite any budget
-
-
-
-LOAD-DATE: March 12, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: WEBGNS
-
-
-
-
-
-  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
-
-                              All Rights Reserved
-
-
-
-
 

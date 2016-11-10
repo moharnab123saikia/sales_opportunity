@@ -1,192 +1,69 @@
-                              71 of 999 DOCUMENTS
-
-
-
-
-
-                         The Christian Science Monitor
-
-
-
-                          September 24, 2014 Wednesday
-
-
-
-iPhone 6 bending? Why the iPhone 6 Plus warps so easily.;
-
-Apple's new iPhone 6 and 6 Plus are bending in people's pockets according to
-
-reports. What's causing the phones to bend?
-
-
-
-BYLINE: Bryan Cronan Staff Writer
-
-
-
-SECTION: Innovation
-
-
-
-LENGTH: 588 words
-
-
-
 
 
 When Apple CEO Tim Cook reveled the iPhone 6 Plus, he probably didn't think that
-
 its most talked about feature is its ability to bend.
 
-
-
 Since the new iPhone 6 and 6 Plus began selling Friday, customers have
-
 complained that the phone bends and warps while in their pockets. The new
-
 generation of iPhones is much larger than previous generations - iPhone 6 is 4.7
-
 diagonal inches and the iPhone 6 Plus is 5.5 inches - and many are wondering if
-
 the new size has anything to do with the bending problem.
 
-
-
 "Previous iPhones were thicker and not as long. In material bending, larger
-
 cross sectional areas (thickness x width) and shorter lengths make things
-
 stronger (You can't easily bend a cube), while the opposite makes things very
-
 easy to bend (paper is easily folded)," Jeremy Irons, a design engineer at
-
 Creative Engineering, tells Gizmodo. "The increased length and decreased
-
 thickness contribute to the weakness of the new iPhone. Strength is
-
 proportionally related to length, but strength is affected much more by changes
-
 in thickness."
 
-
-
 The new iPhones are also 0.02 inches thinner than pervious iPhones. And,
-
 according to Mr. Irons, that makes a big difference. "While the iPhone 5S was
-
 only 7% thicker than the iPhone 6 Plus, it was actually 22% stronger in bending.
-
 When you make something longer, it gets proportionally more bendable, when you
-
 make it thinner, it gets a lot more bendable," he says.
 
-
-
 Adding to the bending problem is the aluminum case surrounding the phone.
-
 Aluminum is a light-weight and flexible metal. Apple uses anodized aluminum in
-
 its new phones, which is supposed to make them stronger, but that doesn't seem
-
 to be working.
 
-
-
 "From an engineering standpoint, the iPhone is an amazingly small and delicately
-
 constructed device," Irons says. "The only thing really contributing to the
-
 structural integrity of the iPhone 6 Plus is the thin aluminum frame that covers
-
 the back and reaches around the sides. There is also another very thin piece of
-
 steel behind the glass, but we are not working with much as far as bending
-
 strength."
 
-
-
 This isn't the first time customers have complained about bending Apple phones.
-
 In Apple discussion forums, customers complained about the iPhone 4 in 2010 and
-
 the iPhone 5S in 2013.
 
-
-
 The number of people who have experienced the bending in the iPhone 6 and 6 Plus
-
 isn't clear, but it was enough for #BendGate to became a big topic on Twitter.
 
-
-
 iPhones bending? Sounds funny at first, but could do down as the biggest cell
-
 phone blunder in history. #BendGate #someonesgettingfired- Jenson Vaughan
-
 (@JensonVaughan) September 23, 2014
 
-
-
 #Apple #BendGate Apple, I'm disappointed in you. Years of making good phones and
-
 now this? :'(- Dries Taeymans (@DriesTaeymans1) September 24, 2014
 
-
-
 Apple's phones aren't the only phones that supposedly bend. Owners of the
-
 Samsung Galaxy S4 and BlackBerry Q10 complained about similar problems in online
-
 forums.
 
-
-
 YouTube channel Unbox Therapy, which posted a video of the bending iPhone 6
-
 Plus, tried to bend the Samsung Galaxy Note 3. After several attempts to bend
-
 the phone, the Samsung Galaxy Note 3 showed only slight signs of warping, but no
-
 damage was done.
 
-
-
 News of bending phones came days after Apple announced that its iPhone 6 and 6
-
 Plus sales were a record 10 million in the first weekend. That number doesn't
-
 include sales in China, one of the world's largest smart phone markets, because
-
 the phone is still waiting to be approved by regulators.
 
-
-
 Apple has yet to comment on what, if anything, it will do about the bending of
-
 the new iPhones.
-
-
-
-LOAD-DATE: September 24, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-              Copyright 2014 Christian Science Publishing Society
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,0 +1,81 @@
+
+
+Apple iPhone 7 Plus finally has the Portrait mode for the general public and
+here's what we think of it.
+
+Apple finally pushed the iOS update bringing in the much-awaited Portrait Mode
+to the iPhone 7 Plus. This new Portrait mode was shown off at the Apple event as
+part of the iPhone 7 announcement in early September, however the company left
+the feature for release "later this year". The feature leverages the dual
+cameras of the iPhone 7 Plus to generate images which have visibly shallower
+depth of field, excellent for Portraits. We have been testing the feature on our
+iPhone 7 Plus and here is the rundown on how effective the mode is so far.
+
+Minimum Requirements, Maximum Output
+
+The Portrait Mode on the iPhone 7 Plus works when the subject is within a
+limited range of the camera. If you get too close, the phone will ask you to
+step back and if your subject is too far, it will ask you to place the subject
+within 2.5 meters. What this means is that unless you are photographing a
+midget, it is unlikely you would be able to shoot a full-length portrait shot of
+your subject with shallow depth. Our model, who is about roughly four feet tall
+when seated barely managed to fit in the frame for Portrait mode to work.
+
+Additionally, Portrait Mode requires more light to shoot the same scene in
+comparison to the 2x mode on the iPhone 7 Plus. When shooting indoors, our
+subject was lit by a standard LED tube light and while the normal camera (in 2x
+mode) was able to take the shot, the Portrait mode occasionally said there
+wasn't enough light.
+
+The Depth Map
+
+Right off the bat, it is evident that the iPhone is using heavy algorithmic
+adjustments to generate the depth map in the image. When Portrait mode is
+enabled, you can see the out-of-focus areas move around as you move the phone to
+frame and re-frame your shot. In our test photos, we often found that the
+shallow depth even showed up around the edges of our main subject. There was
+even an instant where an object in the background wasn't blurred out while
+everything around it was, creating a visually confusing image.
+
+The over-process process
+
+Shallow depth of field is a product of three things working in conjunction -
+focal length of the lens, size of the sensor and the aperture at which you shoot
+the image. Given a particular sensor size and aperture, the depth of field
+becomes shallower as the focal length increases.
+
+Also read: Apple iPhone 7 Plus review: Buy it just for the camera, but that's
+not the only great feature
+
+The iPhone 7 Plus has a tiny sensor that automatically generates great depth of
+field. So, a long lens and a wide aperture are the only 'true' ways to get soft
+out of focus background. However, the iPhone's sensor is too small for its 56mm
+lens and the f/1.8 aperture to give you the bokeh you need. This is where
+software comes in.
+
+Apple's algorithms are using the two cameras to generate a simulated shallow
+depth of field, but doesn't manage to do so very effectively in most cases.
+Additionally, the images have significant amount of JPG compression, with
+details often getting too smudged. The Portrait mode also has a hard time
+resolving the colour white and there seems to be a consistent white balance
+shift as well.
+
+Saved by the Beta
+
+The Portrait mode on the iPhone 7 Plus is frankly a hit-or-miss feature,
+something that does not work with the efficiency that Apple products are known
+for. It could be that the feature will be tweaked further as Apple says it is
+currently in beta. The feature is decently implemented and matched by that found
+in the Honor 8.
+
+The notion that "Apple products just work" does not apply to the Portrait mode
+on the iPhone 7 Plus as there are way too many hiccups to the mode as of now.
+But then this is a feature that has been a significant departure from Apple
+traditions as it was not part of a larger update and there was no particular
+release date in the first place.
+
+Given that this is still in beta (good save Apple) we are hoping that Apple will
+continue to work on this. It would be nice to see the algorithm be able to tell
+the difference between foreground and background bokeh for one, which it fails
+to do at this point.
+

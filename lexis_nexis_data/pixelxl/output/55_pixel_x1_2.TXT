@@ -1,340 +1,147 @@
-                               55 of 64 DOCUMENTS
-
-
-
-
-
-
-
-                              Daily The Pak Banker
-
-
-
-                           February 12, 2015 Thursday
-
-
-
-CableLabs CEO McKinney discusses the DOCSIS 3.1 rollout, carrier-grade Wi-Fi and
-
-4K
-
-
-
-LENGTH: 1365  words
-
-
 
 DATELINE: Washington, DC
 
 
-
-
-
 Fierce Markets Inc has issued the following news release:
 
-
-
 Former Hewlett-Packard CTO Phil McKinney was hired as president and CEO of the
-
 research consortium CableLabs 28 months ago to pick up the pace of innovation in
-
 the cable industry.
 
-
-
 A self-described "innovation guy," McKinney came in with a mandate from cable
-
 CEOs to accelerate product cycles across DOCSIS, Wi-Fi, set-tops, 4K and other
-
 industry initiatives. And McKinney seems to be accomplishing the mission of
-
 turning the cable industry into something at least vaguely familiar with the
-
 torrid evolutionary pace of Silicon Valley
 
-
-
 On the occasion of his third CES as CableLabs chief, FierceCable caught up with
-
 McKinney in Las Vegas and discussed the broad topic of cable industry
-
 innovation.
-
-
 
 FierceCable: So did you join the cable industry during a period of abject panic?
 
-
-
 Phil McKinney: What they recognized was that the pace of innovation,
-
 particularly in the customers' minds with things like the iPhone and how fast
-
 devices were cycling, the cable industry got itself pinned into this perspective
-
 of being old and stodgy and not cool. Cable has been around for a long time, and
-
 people have a long history with it. This isn't a thing we're you're going to
-
 come in, click your heels and change the whole perception of the industry. When
-
 I came in June 2012, you had things like Google Fiber ramping up. I looked at
-
 the innovation rate in the industry and it was incredibly slow. Take DOCSIS, for
-
 instance. Every generation--1.0, 1.1, 2.0, 3.--averaged four and a half years
-
 between new generations. That's three Moore's Law cycles. I come from Silicon
-
 Valley, and you're dead if you miss one Moore's Law cycle. So that's when we
-
 kicked off DOCSIS 3.1. You could call it brilliance or stupidity, but I stood up
-
 and made the proclamation that we'd do DOCSIS 3.1 in two and a half years. And
-
 the industry just crucified me. They were like, 'Ah, he's the new guy ... he
-
 doesn't quite understand.'
 
-
-
 FC: It seems like the cable industry has become a little more innovative, too.
-
 Comcast seems to view itself as a technology company now, for example.
 
-
-
 McKinney: You do have the multiyear investment in X1. You look at the
-
 aggressiveness of Cox, Suddenlink, GCI and others are showing for gigabit
-
 services today. And you look at some of our European members--some of them have
-
 overbuilt with fiber already. It isn't like fiber is coming--fiber is here. You
-
 look at what's happening in other parts of the world, whether it be in
-
 developing countries or in very, very large nations. We now have members in
-
 China, Taiwan and Japan, for example, all with different issues and challenges,
-
 but all focusing on how do I pick up my pace at which I can identify, adopt and
-
 deploy to my customers the latest and greatest. And part of doing that isn't
-
 popping a flag up and saying I'm going to be more innovative and faster, you
-
 have to have a certain set of structures in place. You have to have leadership
-
 that understands innovation. You have to have the law of patience--it takes
-
 longer than you think, and you've got to be willing to stick it out. You've got
-
 to have resources to invest.
-
-
 
 FC: The latter seems to be the thing that breaks a lot of will.
 
-
-
 McKinney: Well, yeah, it does. The innovation game has what we call "The Rule of
-
 18." I can get any executive interested in some new shiny object, they get all
-
 pumped up, and they go, 'Oh yeah, we'll find money,' and they fund it. You get
-
 to the first budget cycle for the next year and they'll continue to fund it.
-
 That next budget cycle, if that thing isn't shipping and generating a billion
-
 dollars, they kill it. They don't have the patience to stick it out.
-
-
 
 FC: How does this apply to the cable industry?
 
-
-
 McKinney: Well, the cable industry doesn't shy away from writing big checks.
-
 Over the last 10 years, the cable industry has spent $200 billion just on the
-
 network in the U.S. It's the largest privately funded real estate project in the
-
 history of the United States. You can't just say I ran out of capacity on
-
 Friday, so I'm going to put more capacity in and make it available on Monday.
-
 The planning cycles are different. You have to dig ditches, you have to lay
-
 fiber, you have to string fiber on the pole, you have to deploy new services.
-
 That's why the cable industry is on a three-year planning cycle.
 
-
-
 FC: So now that it looks like DOCSIS 3.1 is getting close to deployment, what's
-
 the next big heavy lift for CableLabs?
 
-
-
 McKinney: DOCSIS today isn't even our largest R&D spend. The specification is
-
 done. Now we get into interops and device certification. We have the second
-
 interop for DOCSIS coming in a couple of weeks. All the vendors come to
-
 CableLabs, we'll plug them in together and ask, 'Will this device work with this
-
 other vendor's device?' and all those other kinds of things. All the members are
-
 anxious for their trials to begin. The key for CableLabs is interoperability, so
-
 we can get that universal scale and overall reliability of the services that are
-
 built upon that platform.
-
-
 
 FC: So what else are you focused on besides DOCSIS?
 
-
-
 McKinney: Wi-Fi in particular is becoming critical. If you look at what's going
-
 on inside customers' homes. In the cable industry, we have over 6 million public
-
 access points available across the U.S. Cable is the largest provider of public
-
 Wi-Fi in the United States. If you look at the total amount of wireless data
-
 that's transported--more goes over cable-enabled Wi-Fi than even over cellular
-
 networks.
-
-
 
 FC: Why is Wi-Fi such a focus right now for MSOs?
 
-
-
 McKinney: Consumers want to take their broadband with them. They don't want
-
 their broadband services to stop at the front door. And when you look at
-
 customer satisfaction levels, you look at churn rates, you see repeatedly that
-
 if customers are users of Wi-Fi outside the home, their satisfaction is higher
-
 overall.
-
-
 
 FC: Could this be a game-changer for TV Everywhere?
 
-
-
 McKinney: Wi-Fi is what we call periodic service. It's not ubiquitous coverage.
-
 If I'm in my car, and I'm driving down the street, and I'm expecting my kids to
-
 stream video or music, whether it's YouTube or anything else, you're not going
-
 to have that because of the handoff between access points.
-
-
 
 FC: When will that technical limitation be overcome?
 
-
-
 McKinney: Next-generation wireless, which is what we call carrier-grade Wi-Fi,
-
 does these handoffs, which is one option. The other option is LTE unlicensed.
-
 Take the LTE technology that is used in cell phones today for offering 4G
-
 services, then run it in the unlicensed spectrum. LTE is designed for ubiquitous
-
 coverage--good system speeds over wide areas, so I can do hand-offs. But there's
-
 lots of complications to make that happen--that's three, four, five years out.
-
 Today, what we're focusing on, is when you connect to Wi-Fi, you get the speed
-
 that you really want. And to also have the Wi-Fi be where you really want
-
 it--work, parks, shopping malls. It's not about doing a replacement of cellular,
-
 where I'm offering coverage everywhere. It's strategic placements.
-
-
 
 FC: Can you talk about the R&D CableLabs is undertaking in regard to 4K?
 
-
-
 McKinney: We do a lot of what we call user quality perception testing. There's
-
 all kinds of science on what makes a good image. But the human eye and the human
-
 brain is not easily quantifiable in that context. So we do full isolation
-
 compliance testing where we bring in random consumers. We also deal with
-
 compression technologies cable operators use when they're delivering 4K content.
-
 We're trying to find what is it that is going to be the trigger point where
-
 consumers say, 'I gotta have 4K.' And the work today is also on high dynamic
-
 range, not just number of pixels. We're color mastering video now to high
-
 dynamic range for human perception testing.
-
-
 
 FC: Where do you get 4K content for testing?
 
-
-
 McKinney: We shoot our own 4K. We bring in cinematographers, film students. We
-
 have our own Red cameras. We shoot things like the balloon festival in Colorado.
-
 Then we make that video available for free as part of test content. But we also
-
 make it available to consumers who have new TVs and nothing to watch on them.
 
-
-
 For any query about this article or other content requirements please email:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: May 4, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-              Copyright 2015 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

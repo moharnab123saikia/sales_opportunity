@@ -1,100 +1,27 @@
-                              555 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                             June 26, 2014 Thursday
-
-
-
-US Patent granted to Google Inc (California) on June 24 titled as "Bilateral
-
-filter optimization"
-
-
-
-LENGTH: 190  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,761,507 on
-
 June 24, 2014, to Google Inc (California), titled as "Bilateral filter
-
 optimization"
 
-
-
 Inventors:  Steger; Eron Samuel (Mountain View, CA)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Systems and methods for optimizing bilateral filtering operation, by segmenting
-
 an image based on predetermined ranges of colors, and reiteratively blurring the
-
 image based on each color. In one aspect, colors associated with pixels that are
-
 located in such compartment are substantially similar. A blurring procedure(s)
-
 can subsequently be applied to each compartment, wherein pixels on the image
-
 that have more color similarity to a color of the compartment are weighted more,
-
 as compared to pixels that have less color similarity to the color of such
-
 compartment."
-
-
 
 The patent was filed on August 2, 2012 Application no. 13/564,852
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: June 26, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

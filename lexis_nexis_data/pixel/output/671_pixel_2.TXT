@@ -1,212 +1,83 @@
-                              671 of 997 DOCUMENTS
-
-
-
-
-
-                             The Financial Express
-
-
-
-                            October 10, 2016 Monday
-
-
-
-With Andromeda, Google looking beyond Pixel
-
-
-
-BYLINE: Ishaan Gera
-
-
-
-LENGTH: 880  words
-
-
-
 
 
 The I/O conference earlier this year was enough to establish the strategic shift
-
 Google would make towards the development of smarter devices. Though the
-
 company's absolute focus was on its new services that would incorporate a
-
 personal artificial intelligent assistant on the lines of Siri called Assistant,
-
 on Tuesday the Mountain View based giant turned towards conceptualising of not
-
 just services but hardware. In making a shift from its traditional approach of
-
 enroping a mobile producer like HTC, Motorola or LG to create a new line of
-
 Nexus phones, Google, much like its competitor Apple, conceptualised, designed
-
 and created a new brand of smartphones called Pixel. It also announced the
-
 launch of home speaker, named Home, powered by Google Assistant to compete with
-
 Amazon's home speaker Echo.
 
-
-
 Though it is still recognised as a search engine provider, Google made a shift
-
 towards services beyond search and advertising way back in 2007, when it had
-
 launched its first Android operating system. The company has since then entered
-
 into everything from home automation to virtual and augmented reality systems.
-
 While Android is still the market leader-it has 1.4 billion devices and captures
-
 87.6% of the market as compared to Apple's iOS share 11.9%-the Nexus line of
-
 phones hasn't taken off as expected. But Google expects that to change with
-
 Pixel. The company is offering a better optimised system and higher performance
-
 specs with Pixel, along with features like unlimited storage. Whether the new
-
 gamble from the 'everything company' will bring windfall gains is anybody's
-
 guess, given that Apple has a good hold on the market and Samsung despite, its
-
 recent exploding Note 7 debacle, is expected to come back strong, but the
-
 company will certainly bring a difference once its future plans materialise.
 
-
-
 To look at Google's hardware foray without a peek into its future plans for
-
 softwares and services would be a fallacy. Though the company stopped short of
-
 launching its new OS for Google run laptops and desktops, this is what is
-
 expected to define the future of its parent company Alphabet. The much hyped
-
 Andromeda OS, which is expected to take over from Chrome OS is believed to be an
-
 amalgamation of Android and Chrome operating systems. Unlike, Apple which runs
-
 iOS both on tablets and phones, Google had created two different systems Android
-
 for mobile phones and Chrome for Google run-laptops and desktops. But, now the
-
 internet giant is thinking of marrying the two.
-
-
 
 So, what is Andromeda?
 
-
-
 Google launched Chrome OS for laptops and tablets back in 2011 with a hope to
-
 target users who wanted fast operating systems with as little clutter as
-
 possible. In order to make that happen the company had integrated everything
-
 online. While Chrome had a certain array of apps, one could not download and
-
 install apps like in Android systems. Moreover, a developer had to create
-
 separate systems for both android and chrome in case they wanted to feature on
-
 both. The company at its I/O conference, did try to address this by allowing
-
 Chrome users to download Android apps, but the whole interface is expected to
-
 see a change when Andromeda comes about. In simple terms, Andromeda would bring
-
 Chrome's online functionality to Android so one can rely on apps as well as web
-
 functionality for running the device.
-
-
 
 How is it revolutionary?
 
-
-
 What Google is trying to pull is a Microsoft. The company is banking on
-
 integration of all devices much like Windows with a one-stop operating system.
-
 Although most reports suggest that Google would run Andromeda on laptops,
-
 personal computers and some tablets, the platform may soon evolve into a single
-
 system for all its devices, including smartphones. The convergence of systems
-
 and their integration would not only benefit the users but also the developers
-
 as now they would have to create device agnostic apps which would be optimised
-
 for all the versions, saving users much hassle on battery and performance. Also,
-
 with the company now producing its own devices like Google Home, OnHub router
-
 and smart IoT systems, one can expect a single OS to control everything from
-
 laptops, tablets to mobile phones. Moreover, with the single OS, Google may
-
 decide to junk all the other devices as now the smartphone can become a desktop
-
 with help of a computer screen, mouse and keyboard or can power a laptop.
 
-
-
 Google was rumoured to have been working on an OS called Fuchsia which could run
-
 on a multitude of devices, though it is not clear whether Andromeda is Fuchsia,
-
 but the company has certainly moved closer to that dream. While this may all
-
 sound complex, one thing is for sure that Google would try and make things as
-
 simple as possible, as is evident from its latest array of apps-Allo and Duo.
-
 The company has achieved a convergence in terms of apps as one can now access
-
 most features like setting the alarm, searching over the net and booking a cab
-
 with use of Maps from Allo, what this hardware and software shift indicates is
-
 that it may try to do the same convergence for devices. While this may be a
-
 far-off dream where one can control everything with their glasses or smartwatch
-
 and a smartphone, initiatives from Microsoft and Google towards convergence
-
 suggest that future may not be too far away.
 
-
-
 ishaan.gera@expressindia.com
-
-
-
-LOAD-DATE: October 9, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-        Copyright 2016 The Financial Express, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

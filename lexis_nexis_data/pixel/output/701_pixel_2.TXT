@@ -1,234 +1,94 @@
-                              701 of 997 DOCUMENTS
-
-
-
-
-
-                                  Korea Times
-
-
-
-                            November 16, 2008 Sunday
-
-
-
-Daum Plans Eye-Catching Map Service
-
-
-
-BYLINE: By Kim Tong-hyung
-
-
-
-LENGTH: 766 words
-
-
-
 
 
 Staff Reporter
 
-
-
 JEJU - Daum has decided to plug the real world into the Web, but it remains to
-
 be seen whether the ambitious project will allow the company to mount a
-
 meaningful challenge to NHN, the Korean Internet industry's undisputed kingpin.
 
-
-
 Daum, the operator of No. 2 Internet portal, Daum (www.daum.net), is about to
-
 release a new service built around a detailed photographic map of Korea,
-
 offering crystal-sharp views of the mountains and seashores, buildings and
-
 roads, and the sushi restaurant you reserved for dinner.
 
-
-
 "Look at the view in front of this place," said Kim Min-oh, who heads Daum's
-
 local service team, pointing to a bird's eye view of a seafront restaurant
-
 located in a leisure district in Jeju City.
 
-
-
 Kim simply typed in the name of the restaurant into Daum's search box and an
-
 interactive Web map of the surrounding area appeared on the screen.
 
-
-
 With a double click, the graphic image is converted into high-resolution aerial
-
 photography, with the restaurant's roof, driveway and the sea becoming
-
 impressively recognizable.
 
-
-
 A click on the "street view" tab provides a panoramic, ground-level view of the
-
 neighboring area, taking the user on a virtual walk where it's possible to
-
 rotate 360 degrees for a look around.
 
-
-
 "This is clearly the best map of Korea - paper or electronic - ever made," Kim
-
 said, saying that the new map service could be launched as early as late
-
 November.
 
-
-
 "Google has been successful with Google Earth and Google Maps and is providing a
-
 street view for Japan and Australia, but in terms of resolution and user
-
 convenience, I think we are offering a better product than them," he said.
 
-
-
 Although company officials are reluctant to comment on costs, Daum is believed
-
 to be spending over 20 billion won to develop the new service, collaborating
-
 with SamAh Aerial Survey for the aerial photos and Pix Korea for the
-
 street-level images.
 
-
-
 It took a year for Daum to build the database, which covers virtually the entire
-
 country including Seoul and the neighboring Gyeonggi Province areas, the six
-
 metropolitan cities and Jeju Island.
 
-
-
 Daum's map will provide a resolution of 50 centimeters per pixel, which is
-
 comparable to the latest version of Google Maps. However, Kim said the company
-
 is already capable of enhancing the quality to 25 centimeters per pixel,
-
 although the Korean law, which sets the limit at 50 centimeters per pixel,
-
 prevents them from doing so.
 
-
-
 Daum hopes that its new map service will be enough to revolutionize the entire
-
 platform of its Internet services and win some traffic back from NHN, the
-
 operator of top portal, Naver (www.naver.com).
 
-
-
 The competition between the country's two biggest Internet companies has become
-
 as lopsided as a Pyongyang election, with Naver hogging nearly 80 percent of all
-
 search queries, leaving Daum and others to live off table scraps.
 
-
-
 Son Kyung-wan, Daum's chief product officer, said there was pressure to deliver
-
 a mind-blowing product that would be hard for Naver to emulate, and thus restore
-
 the company's reputation for innovation.
 
-
-
 Son said the map services will be integrated into virtual all of Daum's product
-
 lineup, including e-mail, "Cafe" Web communities, "Tistory" blogs and
-
 real-estate search services.
 
-
-
 The availability of the high-resolution images in e-mails and user-generated
-
 content like blogs will bring changes to the daily Web experience and expand
-
 opportunities for new business models, Son said, although Daum now is more
-
 focused on fine-tuning the service than monetizing it.
 
-
-
 The map services will also allow the company to find a larger market in mobile
-
 communications, with the use of smart phones and other data-enabled devices
-
 expanding.
 
-
-
 Kim Jee-hyun, who heads Daum's mobile task force team, said the company has
-
 already optimized its map services for iPhone, Apple's iconic handset that could
-
 be released through KTF as early as December.
 
-
-
 "It was certainly a difficult and expensive service to launch, and sustaining
-
 the quality of the maps through upgrades will certainly require a lot of effort
-
 and money, but this is why it's so crucial to get a head start," said Son, who
-
 says the map service will generate revenue from next year.
 
-
-
 "There is no doubt that location-based services will be a key part of the core
-
 competitiveness of Internet companies in the future, especially with the Web now
-
 moving quicker toward mobility," he said.
 
-
-
 According to Son, Daum plans to generate about 100 billion won from location
-
 information services by 2012, providing enterprise versions of its virtual maps
-
 to companies in geographical information systems (GIS), location-based services
-
 (LBS) and telematics.
-
-
-
-LOAD-DATE: November 18, 2008
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                         Copyright 2008 The Korea Times
-
-                              All Rights Reserved
-
-
-
-
 

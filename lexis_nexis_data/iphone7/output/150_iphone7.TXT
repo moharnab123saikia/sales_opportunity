@@ -1,0 +1,249 @@
+
+
+1. The battery life is better than previous iPhones The battery life on the
+iPhone 7 is slightly better (between one to two hours) than the iPhone 6S and
+significantly better than the iPhone 5 or the (woefully short) iPhone 4S.
+
+This is largely down to the reduced energy consumption of the phone's new A10
+processor.
+
+I used both the iPhone 7 (and the iPhone 7 Plus) fairly constantly throughout
+the day for Facebook, Twitter, Instagram, email and Spotify. I also used the
+camera reasonably frequently, as well as a couple of photoediting apps to play
+with pictures. In that context, I found that the iPhone made it to around 5pm
+(from a 7.30am start) before it needed a recharge. For me, that's pretty good -
+I'm a heavy user and I find that many phones run out in the early afternoon.
+
+The battery on the iPhone 7 Plus model unquestionably lasted a bit longer, with
+one caveat: the big screen on it and the added camera invited me use it more,
+especially for photos and videos. So while I technically got more juice out of
+it than the smaller iPhone 7, I still didn't make it past teatime due to the
+heavier application rotation I threw at it.
+
+It should be said that this isn't the market-leading phone for battery life. Of
+the big sellers, that title probably rests with Samsung's Note 7 (yes, the
+overheating one that has been recalled).
+
+2. The extra storage memory is great It's hard not to welcome the (long overdue)
+bump in storage that the iPhone 7 brings. The basic model now has twice the
+storage (32GB) of previous entry-level iPhones. And the other storage levels are
+doubled, too, to 128GB and a new top-end storage capacity of 256GB. This will be
+a welcome development among those of us who quickly run out of space due to
+files, documents and photos clogging up the system.
+
+3. The screen is better, but only a little bit The screen on both the iPhone 7
+and the iPhone 7 Plus is bright and vivid, even it's very close to the same
+screen you got on the last iPhone 6S and the iPhone 6 before that. The pixel
+resolution is actually identical - 401 pixels per inch (ppi) for the iPhone 7
+Plus model and 326ppi for the iPhone 7. But it's about 25pc brighter than last
+year's iPhones. And Apple has also added a colour-enhancing 'wide colour'
+feature first introduced on the iPad Pro and 5K iMac.
+
+In terms of pure pixels, the iPhone 7's screen is a semi-notch down on what
+you'll get from one or two other top-end phones which boast ppi figures of 500
+and over.
+
+But in reality, the difference is pretty very hard to make out on a 4.7-inch or
+5.5-inch screen.
+
+Unless you're an absolute pixel nerd, I can't see any reason why 'only' getting
+a HD screen would put one off getting this handset.
+
+4. It looks the same as the iPhone 6 and 6S The new iPhone 7 is almost identical
+in design as older iPhone 6 and 6S models, with the exception of the Home button
+and the removal of the 3.5mm earphone port. (The iPhone 7 also has a second
+camera, which changes the rear of the handset slightly. There are two ways of
+looking at this. On one hand, the lack of a totally new design - which might
+have made it more ergonomic in the hand - might suggest that those using an
+existing iPhone 6S may not miss out on much. This is especially so given that
+Apple is reportedly working on a new shape for the iPhone in 2017.
+
+On the other hand, the lack of a new body design means that the iPhone 7 works
+pretty well with many (though not all) of your existing accessories, from cases
+to stands and wallets. This means that you're getting the big power upgrade in a
+shell you're already familiar with.
+
+5. You won't miss the headphone port unless you have specialist accessories This
+is one of the biggest changes in the iPhone 7. Apple has ditched the traditional
+3.5mm jack headphone port completely. So the earphones you get in the box plug
+into the Lightning charging port. And there's a small wireless adaptor in the
+box that connects your old headphones to the same Lightning port.
+
+For punters, this may not be a big deal. Many of us now use our own wireless
+headphones or whatever comes in the box with the phone. However, it could be an
+issue for a niche of business or professional users.
+
+Some may have invested in specialist accessories that use the 3.5mm port for
+other purposes. These could range from mobile payment terminals to professional
+audiovisual equipment. If this is you, you might want to think carefully about
+upgrading.
+
+Bear in mind, however, that this is a permanent change from Apple: the 3.5mm
+headphone port is not coming back in any future iPhone. So if you stick with
+this brand of phone, you're going to have to ditch the 3.5mm connection
+eventually.
+
+6. The changed home button feels odd for a few minutes The new home button is a
+'button' in name only: it's actually a fixed solidstate panel that gives the
+impression of being pressed without much actual mechanical movement. (So when
+the phone is off, nothing happens when you go to press it.) In this 'haptic'
+environment, you can choose the virtual 'depth' of the home button's pressing
+technique in settings, although there isn't much of a difference between them.
+
+Apple has introduced this change partially to make it more "durable". It
+probably helps a lot with the phone's new official water-resistant
+qualifications (and boy, does this work - see our video test on
+www.independent.ie). It also gels with the general progression of the phone's 3D
+Touch screen, which offers already offers haptic-powered virtual pressing on
+apps.
+
+At first, it feels a little strange. Whether it's nostalgia or musclememory,
+there is something satisfying about pressing down on an actual button. But the
+new system is not hard to get used to at all. And the new mechanism hasn't
+interfered with my operation of the phone.
+
+7. The iPhone 7 is properly water-resistant This iPhone is really, really
+waterresistant Technically, the new iPhone 7 has an officially-recognised IP67
+certification, which means that it can remain operational for up to 30 minutes
+at a water depth of one metre (covering almost all toilets). This doesn't
+actually mean that the phone is "water proof", or even that Apple will replace
+your phone if it succumbs to water damage (its terms and conditions rule this
+out).
+
+But we can testify as to its credentials in keeping out water and other liquids.
+We gave this phone a pretty good 'water' test (see video on www.Independent.ie).
+Specifically, we dropped it in a pint of stout. The iPhone 7 came out with
+flying colours. Not only was there zero sign of any ill after-effects, but the
+phone kept on working perfectly even as it remained sopping wet with the black
+stuff. Two days later, it was still operating flawlessly.
+
+Obviously this isn't something anyone would plan to do on a regular basis. But
+it's nice to know that if you're out and about, your new iPhone is more than
+capable of putting up with splashes or even the occasional fall into some
+liquid-filled vessel.
+
+8. There is a serious power upgrade under the hood The iPhone 7's new A10 chip
+makes the iPhone 7 as fast as many laptops and PCs. It also positions it at the
+top of the current smartphone heap. This is ultimately of note because it's
+going to let developers push the boat out more when it comes to more powerful,
+more useful apps. And it means that if you're really pushing it with the apps
+you currently have, it won't freeze or suddenly crash from being overloaded.
+
+9. iOS 10 performs really well here Anyone with an iPhone under four years old
+(from the model 5 up) gets to upgrade to iOS 10. But it shines with the newer
+iPhone 7 and iPhone 6S.
+
+There's too much in iOS 10 to fully cover here. But the things I enjoyed most
+were the new messaging features and the iPhone 7's 3D Touch for 'quick actions'
+and 'peek and pop' moves within apps.
+
+For those who haven't used a 3D Touch screen before, it feels like you're
+double-pressing the screen when you apply a little more pressure to it. If you
+do so on an app, a little menu pops up inviting you to perform some action
+within the app.
+
+For Mail, it's a choice of a new message, a search or to go to the inbox. For
+Messages, it's an option to write a new message or go directly to one of the
+last three numbers you messaged. (I'm using this one a lot.) And so on.
+
+But iOS 10 piles on more functionality. So within Mail, for example, I can now
+add a 'widget' (of frequent or VIP email correspondents, perhaps) onto my quick
+action menu. In Messages, if I 3D Touch any of the messages I see, I get a view
+of the last couple of messages sent as well as the ability to swipe up for a
+list of possible responses.
+
+Speaking of Messages, there's now a bunch of new animated effects you can use,
+ranging from emoticons to 'invisible ink' messages which only reveal themselves
+when the message is opened.
+
+In Photos, the 3D Touch in the iPhone 7 let me select individual photos (or
+videos) for a quick peek without opening them and then a quick menu on what to
+do with them.
+
+And while we're Photos, iOS 10 now has a new movie-stitching engine that
+automatically pulls together some of your photos and videos to make related
+collages. Being a bit fussy about my photos, I didn't really jump into this. But
+I can see its appeal in an era where many have thousands of photos on their
+phone without any apparent archiving order in place.
+
+10. Finally, the camera is pretty special Whether or not this is regarded as a
+business feature, the iPhone 7 Plus camera is insanely good and, on the iPhone 7
+Plus, is the biggest driver to upgrade phones. On the 7 Plus, it's actually two
+cameras (with two sensors, according to Apple) on one device. There's a
+wide-angle 28mm lens and a telephoto 56mm lens.
+
+This allows the phone to 'zoom' from one angle (or view) to the other without
+compromising much quality in the photo. Typically, a single-lens phone's 'zoom'
+is only the process of artificially stretching the photo to give the impression
+of a closer view. It generally results in poorer quality.
+
+On this phone, to switch between the two optical lengths, there's a small
+on-screen button that tells you whether you're at '1x' (28mm equivalent) or '2x'
+(56mm). You can either toggle or slide between them. You can also extend the
+zoom to a 10x setting, although this is mainly a case of digitally stretching
+(hence diluting) the image.
+
+I found myself using the 2x zoom (56mm lens) an awful lot. Going back to a
+single-lens camera would now feel like a step backwards.
+
+Of critical importance to this is the iPhone 7's optical stabilisation (also now
+available on the smaller iPhone 7). We first saw this in the iPhone 6S Plus but
+it's worth restating here. When used with video, even a zoomedin, apparently
+shaky filming process results in a nice, smooth video result.
+
+You have to see this to believe it: it's a huge advance.
+
+The amount of light that the camera lets in is much improved, too. The 28mm lens
+has an f1.8 aperture while the 56mm is at f2.8. From some of the shots I took
+this week, these give pretty impressive detail on photos, even in fairly shabby
+light.
+
+What all of this really means is no more blurry, shaky photos or videos. This is
+going to have a big effect on photos at events where the ones we currently take
+are pretty awful.
+
+There's one other feature of the iPhone 7 Plus's camera system that has yet to
+arrive (via a software update, we're told). That is its ability to create
+DSLR-style depth of field.
+
+This sounds technical but it really does provide a beautiful effect: when you
+take a photo of someone, their features are sharp while the background is mildly
+blurred. (Photographers also call this 'bokeh'.) When this lands, it's going to
+significantly impact the casual portrait shots we take of friends and family.
+
+Lastly, the selfie-camera on the iPhone 7 Plus (and the iPhone 7) has been
+upgraded to 7 megapixels. And there's a better selfie-flash system that measures
+the light in your background to come up with what it things is the optimal
+lighting for your skin tone.
+
+As for DSLR comparisons, they are limited. Neither the iPhone 7 nor the iPhone 7
+Plus are, optically, at a DSLR level. Indeed, much of the detail and quality in
+the photos coming out of the new camera system are digitally sewn together by
+clever processors and engines (performing 100bn operations per photo, according
+to Apple).
+
+This is a key difference to DSLRs, which still mostly rely on the optical
+quality of the (huge) lenses to provide the real quality. But DSLRs are still
+clunky, large and complicated to master. This iPhone 7 Plus is easy to use.
+
+So while an expert handling a DSLR will shoot a (far) more technically
+accomplished photo than that from an iPhone, hardly any of us will get to that
+level. Neither will we have a DSLR in our pocket, ready to shoot a photo or
+video whenever the occasion arises. So the DSLR comparison is a bit of a false
+one. The real competition is with other phones. And in that context, the iPhone
+7 Plus (in particular) is now ahead.
+
+VERDICT AND PRICING If you buy one of these, you're getting a proper upgrade.
+The iPhone 7 may look and feel the same to pick up, but there's a lot more going
+under the hood. And in the iPhone 7 Plus's camera, the range has a genuine
+killer application. Personally, I'd opt for a Plus is you can afford the
+stretch: the extra functionality of the double-camera is just too enticing to
+pass up.
+
+As for price and availability, the iPhone 7 and iPhone 7 Plus are currently
+available to pre-order and go on general sale tomorrow.
+
+The 4.7-inch iPhone 7 costs from (EURO)779 for the 32GB model. The 5.5-inch
+iPhone 7 Plus costs from (EURO)919 for the 32GB model. Irish mobile operators
+have 24-month contract subsidy deals ranging from (EURO)99 upwards.
+

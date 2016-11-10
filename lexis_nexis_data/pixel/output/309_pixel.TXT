@@ -1,116 +1,35 @@
-                              309 of 997 DOCUMENTS
-
-
-
-
-
-                                  Techtree.com
-
-
-
-                     October 13, 2016 Thursday 6:30 AM EST
-
-
-
-These Two Lines Of Code Can Bring Google Assistant To Your Phone
-
-
-
-BYLINE: Phalgunn Maharishi
-
-
-
-LENGTH: 229  words
-
-
-
 
 
 No need to invest thousands of rupees now to purchase a Pixel smartphone for the
-
 sake of Google Assistant!
 
-
-
 Google Assistant has become quite popular ever since it was unveiled recently
-
 along with a Pixel smartphone by the search engine giant. But, laying hands on
-
 the Pixel smartphone is still a dream for many, all thanks to its price tag.
 
-
-
 However, you can definitely get Google Assistant to almost any smartphone that
-
 runs on Nougat. If not Nougat, then you may have to install it. And, the second
-
 important point is that you will need root access.
 
-
-
 Having said this, we still do not know if this might actually work with your
-
 specific smartphone or not, and also we would like to warn you about the rooting
-
 procedure, as if you are not confident enough, you might actually brick your
-
 smartphone.
 
-
-
 Once Nougat is installed, you will have to use a file explorer to find
-
 build.prop under Root/System. Inside th file, you will have add or adjust these
-
 two lines as given here.
-
-
 
 ro.product.model=Pixel XL
 
-
-
 ro.opa.eligible_device=true
 
-
-
 After you have done the necessary changes, you will have to reboot your
-
 smartphone and go to Settings and then Apps, and select Google and clear the
-
 data and cache information.
 
-
-
 Having done this, Google should reload with Assistant built in, in most of the
-
 cases, and you can call up by long-pressing the home button.
 
-
-
 Tags : Google Assistant, Pixel Smartphone
-
-
-
-LOAD-DATE: October 13, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-            Copyright 2016 Techtree.com, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

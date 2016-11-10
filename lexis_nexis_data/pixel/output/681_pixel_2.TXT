@@ -1,536 +1,242 @@
-                              681 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                 Guardian.com.
-
-
-
-                             October 7, 2013 Monday
-
-
-
-Nokia Lumia 1020 review: it's a phone, it's a camera - what a camera
-
-
-
-BYLINE: Kate Bevantheguardian.com
-
-
-
-LENGTH: 2106 words
-
-
 
 ABSTRACT
 
-
-
 Nokia's claims of a 41-megapixel camera are true: they're all in there, in this
-
 unusual-looking phone. But what about the apps to use those pictures? By Kate
-
 Bevan
-
-
 
 FULL TEXT
 
-
-
 [Editor's note: some of the pictures in this article are large - around 2MB each
-
 - and may take some time to load, depending on the speed of your connection.]
 
-
-
 My first cameraphone was a Sony Ericsson T68i, which added the camera in the
-
 form of a bolt-on attachment to the handset itself . I used that almost exactly
-
 11 years ago, taking it on a birthday-present-to-myself trip to India. I still
-
 have the handset somewhere; sadly, none of the photos has survived.
 
-
-
 At the time the camera element seemed both miraculous and pointless. I couldn't
-
 see why anyone would want to take pictures with a phone, given how poor they
-
 were, but I remember applauding the sheer demented genius of joining two
-
 apparently very different bits of hardware to create a Frankenstein's monster of
-
 consumer technology.
 
-
-
 Fast forward 11 years, to what is now the state-of-the art cameraphone - the
-
 Nokia Lumia 1020. In the age of instant, always-on social media, adding a camera
-
 to a phone now makes perfect sense: people take and share photographs every
-
 minute of every day thanks to the vast improvement in the camera technology and
-
 much better mobile connectivity.
 
-
-
 Nokia first unveiled the technology that now graces the 1020 in its 808 Pureview
-
 in July last year. At the time it was hailed as spectacular, but a dead end, as
-
 it was part of the Finnish company's final Symbian phone.
 
-
-
 The good news is that it's still spectacular, even more so now as it's on the
-
 latest handset in the Windows Phone Lumia range. It's not perfect, but it's a
-
 cameraphone that, while it doesn't make my trusty Nikon D80 redundant, does make
-
 me think twice about lugging it along to events.
-
-
 
 Apps and all
 
-
-
 The subject of apps, or lack thereof, comes up every time the Windows Phone
-
 platform is reviewed, and some big names are indeed still missing: there's no
-
 Instagram (although there are a number of good third-party alternatives and
-
 Hipstamatic's Oggl Pro recently launched). Urban taxi-users will miss Hailo and
-
 Kabbee. However, Dropbox is now on the platform, while Vine, Flipboard and Path
-
 are "coming soon".
 
-
-
 I add a small handful of apps - Google Search, Adobe Reader, Kindle, PrimeTube
-
 and Addison Lee - to a Windows Phone handset, but then I'm not a big user of
-
 apps, not least because so much functionality is baked in to the OS. WP comes
-
 with Office, plus 7GB of Skydrive space; and the People hub integrates Facebook,
-
 Twitter and LinkedIn: all three also provide official apps, but there's little
-
 need to fire them up. The most problematic absences are Google's apps: the
-
 ongoing spat between Google and Microsoft over YouTube continues to rumble,
-
 while Gmail users will shortly have to use three protocols (IMAP, CalDAV and
-
 CardDAV) to connect a WP device to their stuff as Google is withdrawing access
-
 via Exchange Active Sync. If you're a big Google user, while you can connect,
-
 it's trickier than on other platforms - and some might well find that a reason
-
 to choose another platform.
-
-
 
 Camera: the technology bit
 
-
-
 First, here's the technology bit (and here's a PDF from Nokia to explain it).
-
 The heart of the camera is a 41-megapixel (MP) sensor which uses 1.1-micron
-
 back-side-illuminated pixels. What that means is a bigger area to capture light:
-
 it's the same idea as a medium-format camera, which seeks to improve the quality
-
 of images by having a bigger light-collecting device than its smaller
-
 counterpart, the SLR (single lens reflex) camera.
 
-
-
 The comparison ends there, though. More and bigger pixels do usually equate to
-
 coarser grain and "noisier" (less precise) images, the processing software means
-
 that this camera oversamples - in other words, it takes information from all the
-
 pixels to produce one 5MP image that is really good.
 
-
-
 That 5MP image is the one that's available for sharing, and you can post it from
-
 the app direct to Facebook, Twitter, LinkedIn or SkyDrive, or add it to an email
-
 or picture message. You can also send your picture to OneNote, which is part of
-
 the Office suite all Windows Phones bundle.
 
-
-
 However, the benefit of those bigger pixels and bigger sensor really become
-
 clear when you look at the 38MP image captured at the same time as the smaller
-
 image. Blow it up, and the detail captured even at full magnification is really
-
 impressive. I was half a mile away from Tower Bridge (according to Google Maps),
-
 when this shot was taken.
 
-
-
 Detail at close range on a 38MP image is almost uncomfortably good: blown right
-
 up, you can see my reflection in Rory Cellan-Jones's eye as I take the picture.
 
-
-
 While the sensor and the software are very important, nothing is more important
-
 when it comes to good pictures than the lens. Nokia has done its very best here,
-
 using a six-part assembly by Carl Zeiss, which has been a byword for
-
 high-quality lenses since the 19th century. Inevitably, this is an area where
-
 the image quality suffers: it's very difficult to get the best optics out of
-
 such a small assembly. Looked at in detail, images can suffer from purple
-
 fringing and I think the edges are rather soft.
 
-
-
 That could reasonably be described as nitpicking: while these images wouldn't
-
 bear too much comparison with an image taken with a full-frame DSLR, or even a
-
 dedicated, good-quality point and shoot, for a cameraphone, they're stunning.
-
-
 
 Gyro heaven
 
-
-
 The camera is, like its predecessors in the Lumia range, housed in a gyroscope,
-
 which means that the shutter can be open for longer - so you can take good
-
 images in low light. I prefer not to use a flash if possible, and most of the
-
 time you won't need one. Images such as this
 
-
-
 shot in auto mode, indoors with tungsten light, are good. The camera struggles a
-
 bit with white balance on auto mode in low light with mixed light sources, as
-
 you might expect
-
-
 
 But it does well at duskand in party lighting.
 
-
-
 The 1020 has won praise elsewhere for its Xenon flash; I am less convinced by it
-
 - any flash can swamp and flatten a scene, and this is no exception. (Example
-
 without and with flash.)
-
-
 
 Camera in use
 
-
-
 So much for what the images are like; what's the camera like to use? The 1020
-
 comes with the latest iteration of Nokia's camera software, Nokia Camera Pro -
-
 and that's also now available for other Lumias including the 920 and 925. It's
-
 the default software, and launches when you press the camera button on the
-
 phone.
 
-
-
 You can shoot in auto mode, or you can adjust the white balance, ISO, focus,
-
 shutter speed and exposure value, as well as turn the flash on and off, and kill
-
 the focus light - which I always do, as a focus light firing will make your
-
 subjects think the flash has gone off and the photo is taken, so they move and
-
 the shot is ruined.
 
-
-
 In auto mode the display tells you that all the settings are in auto. In the top
-
 left corner is the edit icon - tap that when the image is saved and it will be
-
 opened in editing mode.
 
-
-
 Next to that, a tiny circular thumbnail of the image is seen: tap that, and
-
 you'll be taken to a screen where you can crop the 38MP image - you can also
-
 change the aspect ratio of your shot here. The framing grid is off by default;
-
 I've turned it on.
 
-
-
 In the bottom right corner are two arrows in a circle: tap that, and you'll be
-
 offered a choice of other "lenses", or imaging software, with which to take your
-
 shot. The phone ships with Bing Vision (which scans barcodes and QR codes);
-
 Nokia Cinemagraph (with which you can create animated gifs); Panorama
-
 (self-explanatory); Camera (the point-and-shoot predecessor to the Pro Cam app)
-
 or Nokia Smart Cam.
 
-
-
 That gives you another series of options: Motion Focus, which adds blur to
-
 suggest motion; Action Shot, which adds a strobe effect; Remove Moving Objects,
-
 which allows you to get rid of unwanted objects (your ex, perhaps); and Change
-
 Faces, where you can do what it says on the tin. There are other lenses apps in
-
 the Windows Phone store; doubtless more will follow (though no Instagram yet,
-
 filter fans).
 
-
-
 If you want to play with the camera settings in Pro Cam, sweep the camera icon
-
 right and the settings screen appears.Sweep one of the settings up and the
-
 preview will show you what the effect will be (like this, or this, or this, for
-
 example).
 
-
-
 It's worth experimenting with these settings as you can get some nice effects,
-
 such as motion blur by choosing a slower shutter speed.
 
-
-
 Once you're happy with how the shot looks, you can either tap the screen or
-
 press the camera button (which is under your right index finger when holding the
-
 phone in landscape orientation) to fire the shutter. As the camera focuses,
-
 you'll feel the mechanism moving inside the phone, which is a little
-
 disconcerting at first.
 
-
-
 One irritation with this device is that the shutter is slow to fire (and indeed,
-
 the camera app is slow to start up). Although setting a fast shutter speed can
-
 freeze action, it won't capture your scene any faster, which means that if you
-
 like to grab moments with quick, spontaneous shots, this probably isn't the
-
 device for you. It's also rather slow to process the image and show you the
-
 result and then take you to the Pro Cam app for editing.
-
-
 
 Moving pictures
 
-
-
 Video is good, offering a choice of resolutions and frame rates, from 720p/24fps
-
 right up to 1080p/30fps, though of course the higher the quality, the more disk
-
 space you'll eat on the device - and as with previous Lumias, there's no SD
-
 slot. The phone comes in 32GB and 64GB flavours, but for now at least the 64GB
-
 model is an O2 special in the UK. However, it does come with 7GB of space on
-
 SkyDrive, Microsoft's equivalent to Dropbox, which integrates tightly with all
-
 Windows Phone handsets.
 
-
-
 Video settings are, as with stills, accessed via the video app rather than the
-
 primary Settings app, and, as with the stills camera, you can adjust settings
-
 manually, though with video you only have access to the focus and white balance
-
 - playing with that particularly can produce some quite startling effects.
-
-
 
 Here's one: and another:
 
-
-
 Video editing
 
-
-
 One piece of good news for Lumia users frustrated by the inability to edit video
-
 on the device itself is that Nokia has now released an app - Nokia Video Trimmer
-
 - which is straightforward to use, though limited in function: all you can do is
-
 trim the beginning and the end. Sharing to Facebook or Skydrive is done via the
-
 video app, but if you want to post your masterpiece to YouTube, you'll need the
-
 Nokia Video Upload app. (Both of these apps are available for earlier Lumias
-
 that have had the Amber OS update.)
-
-
 
 It's a phone too
 
-
-
 However, as well as being a very good pocket camera, the Lumia 1020 is also a
-
 phone. It is in many ways the same as the Lumia 920, which we reviewed in depth
-
 just under a year ago. The software updates have added some functionality,
-
 including FM radio and the Glance function for when the phone is asleep.
 
-
-
 The hardware isn't much different, either: the heart of the 1020 is the same
-
 Qualcomm Snapdragon 1.5GHz processor, though the 1020 gets a boost to 2GB of
-
 RAM.
 
-
-
 The specifications for the 1020 show that it is slightly lighter than the 920
-
 (158g against the 920's 185g). Its 1020 camera stands proud of the back, so it
-
 can't lie flat, but it still feels less of a slab than its predecessor (although
-
 the 925 is a much slimmer and lighter phone, weighing in at 139g. For
-
 comparison, the iPhone 5S weighs 112g; HTC One, 130g; Samsung Galaxy S4 130g;
-
 BlackBerry Z10, 137.5g.). The 1020 is made of a matte polycarbonate, which is a
-
 little more subtle than the glossy polycarbonate of the 920 - though the best
-
 looker of the Lumia handsets remains the brushed aluminium of the 925.
-
 Colourwise, you get a choice of radioactive custard-yellow, or a more sober
-
 black or white.
 
-
-
 For those planning to use the camera more than casually, consider getting the
-
 camera grip, which makes it feel, well, more like a camera. It adds weight and
-
 bulk, but crucially it also adds an extra battery: snapping away will drain the
-
 battery surprisingly quickly.
 
-
-
 If you want to see what the camera is capable of in the hands of professionals,
-
 it's worth looking at the images shot by the legendary photographers David
-
 Bailey and Bruce Weber, who both took a 1020 on to the streets of Harlem, New
-
 York, earlier in the summer; their high-res images can be downloaded and blown
-
 up and are far more impressive than any of my shots.
-
-
 
 Pros: stunning high-res images, build quality, additional camera grip
 
-
-
 Cons: apps slow to boot, shutter slow to fire, rather long processing time.
 
-
-
 More reading: "the question of whether ordinary people will really pay top whack
-
 for a fantastic camera is already answered by the compact camera market"
-
-
-
-LOAD-DATE: October 7, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-   Copyright 2013 Guardian News and Media Limited or its affiliated companies
-
-                              All Rights Reserved
-
-                  Registered in England and Wales. No. 908396
-
-   Registered office: PO Box 68164, Kings Place, 90 York Way, London N1P 2AP
-
-
-
-
 

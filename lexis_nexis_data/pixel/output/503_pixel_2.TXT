@@ -1,192 +1,74 @@
-                              503 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                   The Hindu
-
-
-
-                          September 30, 2015 Wednesday
-
-
-
-The Google Nexus: tech, specs and pricing
-
-
-
-LENGTH: 658  words
-
-
 
 DATELINE: San Francisco
 
 
-
-
-
 San Francisco, Sept. 30 -- Google is countering the release of Apple's latest
-
 iPhones with two devices running on a new version of Android software.
-
  The Nexus 6P and Nexus 5X unveiled Tuesday are the first smartphones sold with
-
 the Marshmallow upgrade.
 
 
-
-
-
  The Marshmallow version of Android enables users to summon Google Now to scan
-
 whatever content might be on a mobile device's screen so it can present
-
 pertinent information about the topic of a text, a song, a video clip or an
-
 article.
-
  The new Android feature, called 'Now on Tap', can be activated by holding down
-
 the device's home button or speaking, "OK Google," into the microphone. It will
-
 prompt 'Now on Tap' to scan the screen in an attempt to figure out how to be the
-
 most helpful.
-
  "In a multiscreen world, it is even more important for Google to do the hard
-
 work so the experience is simple and delightful for the users," Google CEO
-
 Sundar Pichai said.
-
  Apple's new operating system also has programmed the iPhone's Siri assistant to
-
 be more intuitive so it can anticipate what the user might want or need before
-
 being explicitly asked.
-
  Google began taking pre-orders for the Nexus phones in the U.S., United
-
 Kingdom, Ireland and Japan on Tuesday with prices for the 6P starting at $499
-
 and $379 for the 5X with no commitment to a wireless contract required. They are
-
 expected to start shipping by mid-October.
-
  The Nexus phones are undercutting Apple, which sells the iPhone 6s for $649 and
-
 the 6S Plus for $749 without a subsidy from a wireless carrier.
-
  Google uses its Nexus line of phones to showcase how the company would like
-
 Android to be set up. Most phone makers, though, still take advantage of the
-
 freedom that Google gives them to alter Android, although the free software
-
 usually is still set up to drive traffic to Google's search engine, YouTube
-
 video site and other digital services.
-
  The Nexus phones also feature better cameras than previous models, matching
-
 similar upgrades that Apple just made to its iPhone 6s and iPhone 6s Plus.
-
  The Nexus 6P has a 5.7-inch screen, slightly larger than the iPhone 6s Plus.
-
 The Nexus 5X has a 5.2-inch screen.
-
  But it won't be necessary to have a Nexus phone to get Marshmallow. People will
-
 receive the option to install a free upgrade beginning next week.
-
  The debut of the latest Nexus phones underscores the steadily intensifying
-
 rivalry between Google and Apple as they duel for consumers' loyalty in the
-
 increasingly important mobile device market.
-
  Besides its Nexus phones, Google also began selling upgrades to its Chromecast
-
 video-streaming device and a new Chromecast model that can be plugged into
-
 speakers to play music from a phone or an Internet service. The devices will
-
 sell for $35 apiece, the same price that Google has been charging for the
-
 original Chromecast, which has won over a lot of households.
-
  Google disclosed on Tuesday that more than 20 million of the Chromecast video
-
 devices have been sold since the gadget's debut two years ago.
-
  Google also provided a peek at a tablet called the Pixel C that is aimed at
-
 consumers and workers who want a device that can accommodate a lot of typing.
-
 The $499 tablet comes with a 10-inch display screen an attachable $149 keyboard
-
 that transforms the device into the equivalent of a laptop, when needed. Apple
-
 will begin selling a similar model of its pioneering iPad with a 13-inch screen
-
 later this fall. Prices start at $799 for that iPad and $169 for the keyboard.
-
  Nexus 5X Nexus 6P
-
  Dimensions 72.6 x 147.0 x 7.9 mm
-
  77.8 x 159.3 x 7.3mm
-
  136g 178g
-
  Processor Qualcomm® Snapdragon(TM) 808 processor, 1.8 GHz
-
  Hexa-core 64-bit
-
  Adreno 418 GPU Qualcomm® Snapdragon(TM) 810 v2.1, 2.0 GHz
-
  Octa-core 64-bit
-
  Adreno 430 GPU
-
  Screen 5.2" FHD LCD 5.7" AMOLED
-
  Corning® Gorilla® Glass 3 Corning® Gorilla® Glass 4
-
  Resolution 1920 x 1080 pixels 2560 x 1440 pixels
-
  Camera Rear: 12.3 MP; 1.55[#x3bc]m pixels; f/2.0
-
  Rear: 12.3 MP; 1.55[#x3bc]m pixels; f/2.0
-
  Front: 5 MP Front: 8 MP
-
  Battery 2700 mAh 3450 mAh
-
-
-
-LOAD-DATE: September 30, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-            Copyright 2015 Tangerine Digital Entertainment Pvt. Ltd.
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,370 +1,155 @@
-                              342 of 998 DOCUMENTS
-
-
-
-
-
-
-
-                                  The Guardian
-
-
-
-                     September 22, 2015 Tuesday 3:54 PM GMT
-
-
-
-Apple iPhone 6S and 6S Plus review roundup: stronger, faster, heavier;
-
-They can shoot Live Photos, have pressure-sensitive screens, an always-listening
-
-Siri, and faster fingerprint sensors, but look identical to last year's models
-
-
-
-BYLINE: Samuel Gibbs
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 1279 words
-
-
-
 
 
 Apple's new iPhone 6S and 6S Plus smartphones land in customers hands on Friday,
-
 but a select bunch of reviewers have been given early access.
 
-
-
 The Guardian is not one of those picked by Apple to receive a sample of the
-
 iPhone 6S and 6S Plus ahead of its release, and will publish a review after
-
 buying one at the same time as consumers.
 
-
-
 In the meantime, here is a quick roundup of the general opinion on Apple's
-
 latest.
-
-
 
 Review: Apple's iPhone 6s And 6s Plus Go 'Tick' - Tech Crunch
 
-
-
                      Matthew Panzarino sees quite an uptick in performance of
-
 this year's iPhone over the iPhone 6, in its "tick-tock" upgrade cycle :
 
-
-
 In our tests, there was a 56.5% increase in Geekbench benchmark scores from the
-
 iPhone 6 Plus to the iPhone 6s Plus. That follows a 97% increase from the iPhone
-
 5 to the iPhone 5s. In comparison, there was only a 24.9% increase from the
-
 iPhone 5s to the iPhone 6. In terms of performance, the 'tock' years are really
-
 kicking the 'tick' years in the butt.
 
-
-
 iPhone 6S review: Apple's 3D Touch screen and camera improvements make the best
-
 better - Digital Spy
 
-
-
 Despite the iPhone 6S being thicker and heavier than its predecessor, Matt Hill
-
 found it wasn't noticeable.
 
-
-
 No need to grumble, this is still slim by any standard, with the phone's
-
 increased portliness barely noticeable and the added 14g giving the phone a more
-
 reassuring heft. Easily the most well constructed handset on the market -
-
 despite increased competition from the likes of the Samsung Galaxy S6 and HTC
-
 One M9 - the iPhone 6S's cool-to-the-touch metal body and softly curved edges
-
 make the phone look and feel great.
-
-
 
 iPhone 6S review: Apple presses forward - The Verge
 
-
-
 Nilay Patel loves the new pressure-sensitive "3D Touch" screen but admits that
-
 it's not exactly a novel concept, even if it's a new implementation:
 
-
-
 On the home screen, app icons can show quick actions when you push them. Pushing
-
 on a calendar entry shows you more information about it, and pushing on a map
-
 pin lets you jump straight to directions. Pushing on a message in Mail opens a
-
 preview that you can slide to either side to delete or archive, and pushing
-
 harder opens the message. It's the same in Safari: pushing lightly on a link
-
 opens a preview, and pushing slightly harder actually opens the page. It's not
-
 some insane lightning bolt of inspiration; Google is doing something very
-
 similar with Material Design and Microsoft has been sliding things all over the
-
 screen since someone was drunk enough to approve the name 'Windows Phone 7
-
 Series'. But 3D Touch [is] by far the most aggressive and interesting step in
-
 this direction anyone has ever taken.
-
-
 
 iPhone 6s Review: A Slightly Better iPhone 6 - The Wall Street Journal
 
-
-
 The camera's better, the processor is faster and it has a new screen, but the
-
 battery life of the iPhone is still poor, according to Joanna Stern:
 
-
-
 Let's get this out of the way first. The No. 1 thing people want in a smartphone
-
 is better battery life. And the iPhone 6s doesn't deliver that. The 4.7-inch 6s
-
 will get you through the day, but you'll struggle to make it til bedtime with
-
 moderate to heavy use. And it seemed to drain even faster than my 6 when I used
-
 the new processor-intensive camera features like Live Photos. The bigger
-
 5.5-inch 6s Plus lasted longer and is the best choice if you're a heavy user and
-
 want some juice left over at the end of the day.
 
-
-
 I Used The Crap Out Of The New iPhone 6S And This Is What Happened - BuzzFeed
-
 Life
 
-
-
 Writing for BuzzFeed Life (not BuzzFeed News, that's below) Nicole Nguyen found
-
 Apple's marketing a little distasteful :
 
-
-
 The marketing slogan for the 6S is "The only thing that's changed is
-
 everything," which is funny because that's, well, not true. Take a look at the
-
 hardware. It's impossible to tell the difference between the 6S and 6 iPhones,
-
 save for a tinyyy [sic] ant-sized "S" on the rear and slightly more heft (the 6S
-
 phones are one ounce heavier). They're fraternal twins that basically look like
-
 identical twins. What is different are the few, significant internal
-
 improvements, one of which is what I think will entice people (namely, me) to
-
 upgrade. 3D Touch is the 6S's killer feature. But it depends on what apps decide
-
 to support it.
-
-
 
 Yet Another iPhone 6s Review - BuzzFeed News
 
-
-
 John Paczkowski found images shot by the 12-megapixel camera were generally
-
 better, as you would expect.
 
-
-
 The photos I've taken with the new 12 megapixel rear camera on the iPhone 6s
-
 look a little bit better than the ones I've taken with the 8 megapixel one on
-
 the iPhone 6 - and even my not-at-all-a-photographer's eye can see that. Apple
-
 says this is because of "improved local tone mapping" and an "advanced pixel
-
 technology" called Focus Pixels. It probably is. I don't care. What matters is
-
 that pictures of my daughters look warmer, sharper, more detailed, whatever. And
-
 they look equally good when I blow them up.
-
-
 
 iPhone 6S Plus review: Is bigger better? - Pocket-Lint
 
-
-
 Stuart Miles says the optical stabilisation and phase detection autofocus make
-
 the new 12-megapixel upgrade to the iPhone's camera a winner, but Live Photos
-
 are a mixed bag for now.
 
-
-
 A lot of Live Photos we've shot have footage of us hastily dropping the camera
-
 after taking the shot. Another frustration is that audio is automatically
-
 recorded, which at times is lovely - a child's giggle for example - but not so
-
 great when you've got the same child screaming in the background. All that extra
-
 video adds to their size too, meaning a Live Photo is worth around two still
-
 photos in terms of space. While you can offload some of that to Apple's iCloud
-
 Drive service (at a yearly subscription) a 16GB iPhone 6S Plus isn't going to
-
 stretch as far as it used to (compounding the argument for a 32GB minimum
-
 model).
 
-
-
 iPhone 6S Review: Come for the New Features, Stay for the Screaming Speed -
-
 Bloomberg
 
-
-
 Speed is at the heart of the new iPhones for Sam Grobart, including the new and
-
 improved fingerprint scanner:
 
-
-
 The Touch ID sensor is instantaneous: By the time you've pressed the home button
-
 to wake up the phone, you've already authenticated yourself and are on the home
-
 screen.
-
-
 
 iPhone 6s review: built for success - The Telegraph
 
-
-
 According to Rhiannon Williams, the always-listening "Hey Siri" feature needs a
-
 bit of work learning to ignore everyone but you :
 
-
-
 Thanks to the integrated A9, Siri is now always on, waiting to be activated by
-
 the command "Hey Siri". This is attuned to your voice when you first set Siri up
-
 during the iPhone activation process, which means Siri is supposed to be able to
-
 pick out your voice alone from within a crowded room. I did find that a woman of
-
 a similar age and voice range to myself was able to activate Siri from a
-
 distance by speaking a command, so maybe this is a feature which needs a bit of
-
 refining.
 
-
-
 iPhone 6s Plus review: more battery, better camera and a bigger screen mean new
-
 phone could win you round to huge phones - The Independent
 
-
-
 And of that Rose Gold colour, apparently it's difficult to photograph and looks
-
 better in real life, says David Phelan.
 
-
-
 The rose gold, by the way, looks better in the flesh than in photos, thanks to a
-
 colour that is understated and warm rather than out-and-out pink.
-
-
 
 iPhone 6S review - Tech Radar
 
-
-
 Gareth Beavis sees the upgrade as a no-brainer if money is no object, but it's a
-
 much more difficult call for most people.
 
-
-
 It's still one of, if not the, most expensive flagship phones on the market, and
-
 as such needs to impress in every way, which the iPhone 6S doesn't quite do. The
-
 iPhone 6 remains on sale at a lower price, and the difference between it and
-
 Apple's latest phone is negligible.
 
-
-
 · iOS 9 review: an upgrade to jump for, or skip?
-
-
-
-LOAD-DATE: September 22, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: WEBGNS
-
-
-
-
-
-  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
-
-                              All Rights Reserved
-
-
-
-
 

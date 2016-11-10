@@ -1,500 +1,225 @@
-                              482 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                             March 8, 2013, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending March 8;
-
-iPhone 5S and iPhone 6 scuttlebutt: kinetic energy charging, decimal dementia,
-
-silicon madness
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1936 words
-
-
-
 
 
 The iOSphere's collective unconscious seethed with mandates and rumors for
-
 iPhone 6 or 5S or iPhone [Fill-in-the-Blank].There didn't seem to be enough Web
-
 bandwidth to contain them all.
 
-
-
 There were demands for kinetic energy charging. There were form factor
-
 imaginings distinguished mainly by 0.2 inches. There were claims that Apple was
-
 turning to Qualcomm for processors and counterclaims it was turning to Intel.
-
 And hopes for at least one Next iPhone sometime to be released between June 1
-
 and Aug. 31.
-
-
 
 You read it here second.
 
-
-
 ___________ __________ Technically, this isn't a rumor. It's one of those
-
 iOSphere Mandates that regularly loom out of the collective unconscious.
 
-
-
 The mandates are always about what Apple "should" do or include in the Next
-
 iDevice. In this case, Apple should include a kinetic energy charging mechanism
-
 in its next high-end digital device.
 
-
-
 [ RELATED: iPad 5 rumor rollup for the week ending March 6 ] The mandate was
-
 issued, apparently, by Mark Chubb at PhonesReview, a U.K. tech website.
 
-
-
 "iPhone 5 battery life in most cases is fairly poor, and even though it comes
-
 with a lightning charging connector that does rapidly charge it also drains very
-
 quickly indeed when playing games or watching videos, and then when it is time
-
 to make that important call the iPhone dies on you," Chubb begins.
 
-
-
 That's a mouthful, but we get it: "fairly poor" battery life. It still seems to
-
 surprise mobile device users that if you continuously watch videos and play
-
 games. Then. The. Battery. Dies.
-
-
 
 It just does.
 
-
-
 "So Apple should do something completely different for the iPhone 6 and use the
-
 Ulysse Nardin kinetic battery tech," Chubb announces triumphantly. Thank heavens
-
 someone is using the brains God gave him.
 
-
-
 For those of us who are not counted among the Idle Rich, The Chairman, by the
-
 Swiss luxury watchmaker Ulysse Nardin and Scientific Cellular Innovations, is a
-
 $130,000 or thereabouts gold-and-jewel-encrusted Android smartphone, complete
-
 with such "advanced" features as a 3.2-inch display, 32GB of memory, 8-megapixel
-
 camera and fingerprint sensor, not to mention an elaborately hand-crafted
-
 storage-and-dock box. And it has the astonishing, the wondrous, dare we say
-
 "magical" Ulysse Nardin Rotor, a mechanical watch rotor which creates kinetic
-
 energy to supply supplemental power to the phone.
 
-
-
 "There is surely a way that Apple can incorporate this into the iPhone 6, not
-
 only will it give you vital charges for a few minutes it also looks stunning as
-
 well and adds that class of engineering on show," Chubb enthuses.
 
-
-
 Personally, The Rollup believes if you're going to take a step backward, take a
-
 Big Step backward to something even more retro.
 
-
-
 "The iPhone 6 can have style, class, engineering beauty in working motion, just
-
 imagine having the iPhone 6 on your ear and all others seeing the kinetic rotor
-
 moving whilst you are walking etc., eye candy at its best if you ask us."
-
-
 
 We're not asking.
 
-
-
 To sum up, the iOSphere Consensus Rumor at present is that Apple will announce
-
 in 2013 at least one, or two, or three iPhones, some of which will have screens
-
 that are larger, or smaller, than the 4-inch iPhone 5.
 
-
-
 Since things like details are missing, let alone credible sources for the
-
 details, "concept artists" have leaped into the breach. This past week alone,
-
 there have been three (3!) breach-leapings.
 
-
-
 One, from AppleInsider.ru, helpfully Englishified by Google Translate, predicts
-
 a 4.2-inch iPhone.
 
-
-
 In other words, an iPhone with a screen that is 0.2 inches larger than that of
-
 the iPhone 5.
 
-
-
 The French tech site NoWhereElse did the Russians 0.4 inches better. They
-
 created the iPhone 6 with a 4.6-inch diagonal, edge-to-edge display.
 
-
-
 In a masterpiece of understatement, Cult of Mac's Buster Heine remarked, "There
-
 are a lot of crazy rumors floating around out there about the iPhone 6."
 
-
-
 But the folks at ConceptPhones.com, searching high and low, discovered a bit of
-
 fan art with 0.2 inches more of ambition, or perhaps of craziness. This one
-
 imagines the iPhone 6 with a 4.8-inch display.
 
-
-
 "The device seems to have a curved design, but it's very elegant, sort of like a
-
 modern muscle car, if you want a comparison," according to ConceptPhones.
 
-
-
 There are plenty of other decimal points remaining between now and whenever the
-
 Next iPhone is finally released.
 
-
-
 One of the Next iPhones -- the cheap one -- will scrap Apple's own ARM-based A
-
 Series chip designs (which are then built by Samsung) in favor of Qualcomm's
-
 existing Snapdragon SoC, according to a Chinese-language story by China Times,
-
 picked up by the Japanese tech blog Macotakara, and thence by sites such as
-
 AppleInsider.
 
-
-
 China Times cited "an unnamed industry watcher as saying that Apple plans to use
-
 Taiwanese chipmaker TSMC's 28nm process to build the cheap iPhone's Snapdragon
-
 SoC. If true, the switch away from Samsung's foundries would be a first for the
-
 Cupertino company, which has pushed increasingly further into chip design with
-
 its latest A6 and A6X processors," according to AppleInsider.
 
-
-
 But a foundry shift would be much less important than a decision to switch to a
-
 third-party application processor, in this case the Snapdragon. Currently,
-
 iPhone models pair Apple's A Series processor with a Qualcomm cellular modem.
 
-
-
 As AppleInsider notes, Qualcomm markets the Snapdragon as a stand-alone
-
 processor or as a system with integrated communications components. Using the
-
 most advanced 28-nanometer process, the Qualcomm package offers high
-
 performance, smaller size, lower power demand, and fewer discrete components.
-
 "If Apple is indeed planning to launch a cheap handset in developing markets,
-
 the use of an all-in-one platform could save on component costs," AppleInsider
-
 comments. "Some Snapdragon iterations also come with 4G LTE compatibility,
-
 though the publication claims that Apple will stick to 3G for its initial
-
 low-cost iPhone."
 
-
-
 Both Qualcomm and Apple have two types of ARM licenses: one license for using
-
 ARM's CPU cores, running the latest ARM instruction set, and a second license
-
 that lets the companies custom design the cores to run that instruction set.
-
 Apple's A6X chip was the first to offer this custom design.
 
-
-
 Presumably, if Apple is planning to create a lower-cost iPhone, the Qualcomm
-
 integrated SoC would have to offer significant savings compared to Apple's
-
 current solution.
 
-
-
 Faithful to the spirit of rumor, we're exaggerating a bit here. The Reuters
-
 story that ignited this speculation actually only claims that Apple and Intel
-
 are talking about a deal in which Intel would replace Samsung as the
-
 manufacturer Apple's ARM-based A Series processors, which are used in the iPhone
-
 and iPad.
 
-
-
 In other words, future iPhones would use an Intel-manufactured chip, not an
-
 Intel-designed chip.
 
-
-
 Apple contracts with Samsung's foundries to manufacture the A Series processors,
-
 even as it competes with other Samsung units in the smartphone and tablet
-
 markets.
 
-
-
 "Manufacturing chips on behalf of other companies is a major departure for
-
 Intel, which for decades has based its business on using its manufacturing
-
 prowess to offer its own PC chips superior to rival products," according to
-
 Reuters. "As PC sales contract and Intel's fabrication plants operate at less
-
 than full capacity, the chipmaker sees an opportunity to fill idle production
-
 lines while earning new revenue."
 
-
-
 MacNewsWorld's John Mello found a stock analyst who thinks shifting production
-
 to Intel is a great idea.
 
-
-
 "A move to Intel would speed up the time it takes to manufacture chips for its
-
 iPhones and iPads, said Doug Freedman, an analyst with RBC Capital Markets in
-
 New York City," Mello reported. "'When you move to Intel's manufacturing
-
 process, it is, at a minimum, nine months ahead of anything available in the
-
 general purpose foundry market,' Freedman told MacNewsWorld." That would include
-
 access to Intel's advanced 14-nanometer chip process, according to Freedman.
 
-
-
 Mello also notes that "Freedman stirred the rumors about an Apple-Intel pact two
-
 months ago. In a research note, he said the deal would involve Intel making
-
 Apple's iPhone chips in exchange for Apple using Intel processors in the next
-
 generation of iPads."
 
-
-
 It's not clear if Mello, or Freedman, here mean "Intel-manufactured ARM chips"
-
 or "Intel-manufactured Intel chips," presumably based on Intel's x86
-
 architecture used in the chipmaker's Atom mobile processor. The former would be
-
 an extension of the manufacturing deal. The latter would mean Apple adopting a
-
 different microprocessor architecture for its tablets, which doesn't seem
-
 likely.
 
-
-
 In the same post that forecast an "April-ish" release of the Next iPad [see
-
 "iPad 5 rumor rollup for the week ending March 6"], iMore's Rene Ritchie says
-
 that "sources familiar with the plans" tell him that "Apple is planning the
-
 release of the iPhone 5S for this summer, currently for August."
 
-
-
 According to those sources, the Next iPhone will be the iPhone 5S, which "does
-
 indeed have the same basic design as the iPhone 5, with a more advanced
-
 processor and an improved camera. ... With the iPhone 5S, the aim is to once
-
 again raise the bar in terms of iPhone optics, including a much better camera in
-
 essentially the same casing."
-
-
 
 And his words were like ashes in the mouths of the iOSphere.
 
-
-
 But the good news is that you may not have to wait that long to be disappointed.
 
-
-
 KGI Securities analyst Ming-Chi Kuo issued a new speculation that Apple "is
-
 expected to unveil its iPhone 5S and lower-cost iPhone alongside iOS 7 this
-
 June, with the devices coming available in July," as reported by MacRumors' Eric
-
 Slivka and a host of other bloggers and tech sites.
 
-
-
 That would almost four months earlier than the iPhone 5 unveiling in 2012. Kuo
-
 thinks that will happen for two reasons. First, "to avoid repeating the fatal
-
 mistake of last year of the delayed iPhone 5 launch, which gave competitors room
-
 to grab market share." The word "fatal" means "causing or capable of causing
-
 death; mortal; deadly" and "causing destruction, misfortune, ruin, or failure."
 
-
-
 To the best of The Rollup's knowledge there is no sign of impending death,
-
 destruction, misfortune, ruin or failure of the iPhone. ComScore's just-released
-
 smartphone market share report for January shows that of the 129 million U.S.
-
 smartphone owners, for the three months ending Jan. 30, 38% of them had an
-
 iPhone, an increase of 3.5 points from October. In distant second place was
-
 Samsung: 21% were using a Samsung phone, which was up just 1.9 percentage points
-
 from October.
 
-
-
 Kuo's second reason for the earlier release date is that "the new iPhones this
-
 year are mainly designed on the basis of the current iPhone 5, which suggests
-
 development time could be reduced."
 
-
-
 This statement, too, seems to hold a lot of unspoken assumptions. One might
-
 think from this that Apple ships one iPhone and only then starts designing the
-
 next one. Clearly that's not the case. If Apple is bringing out a cheaper iPhone
-
 in addition to an "iPhone 5S," these have been in development already for at
-
 least 12 months if not longer. And creating a low-cost iPhone, for Apple, at
-
 least, is more complicated than simply taking the iPhone 5 innards and packaging
-
 them into a plastic case instead of a machined aluminum case.
 
-
-
 Kuo predicts the iPhone 5S will have a new chip, the A7, which most commentators
-
 think will be a quad-core processor; improved camera and flash; and a
-
 fingerprint chip under the home button. The low-cost iPhone in addition will
-
 have a fiberglass-plastic outer case available in a range of colors, but it will
-
 also be heavier than the upcoming 5S model.
 
-
-
 John Cox covers wireless networking and mobile computing for Network World.
-
 Twitter: @johnwcoxnww Email: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: March 11, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

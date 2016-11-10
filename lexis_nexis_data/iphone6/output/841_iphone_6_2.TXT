@@ -1,342 +1,142 @@
-                              841 of 999 DOCUMENTS
-
-
-
-
-
-                               The New York Times
-
-
-
-                          September 10, 2014 Wednesday
-
-                              Late Edition - Final
-
-
-
-Apple Goes Big With iPhone 6, and Small With a Smartwatch
-
-
-
-BYLINE: By BRIAN X. CHEN
-
-
-
-SECTION: Section B; Column 0; Business/Financial Desk; Pg. 6
-
-
-
-LENGTH: 1130 words
-
-
-
 
 
 CUPERTINO, Calif. -- After three years as chief executive of Apple, Timothy D.
-
 Cook is starting to crystallize his vision for the company.
 
-
-
 Apple on Tuesday introduced a highly anticipated smartwatch, which combines
-
 health and fitness monitoring with mobile computer capabilities like maps. The
-
 company also introduced two iPhones with larger screens.
 
-
-
 The smartwatch, named the Apple Watch, is a miniature computer strapped around
-
 the wrist and is the first product made under Mr. Cook's leadership that
-
 branches Apple into a new type of product: a device in the growing field of
-
 fitness-tracking computers that can be worn on or around the body.
 
-
-
 Although the Apple Watch is the company's first wearable computer, it enters a
-
 crowded field. Samsung, Pebble and Sony lead the pack of companies producing
-
 these new devices, and sales are growing quickly. But the devices are nowhere
-
 near as popular as smartphones. IDC, the research company, estimates that 19
-
 million smartwatches will ship in 2014, much lower than the 1.2 billion
-
 smartphones that it expects will ship this year.
 
-
-
 And despite the fanfare with which the news media has greeted Apple's first
-
 wearable device, analysts have expressed mixed views about its potential to
-
 become mainstream. Can the smartwatch be a late entrant to a market but
-
 eventually dominate as Apple did several times before under its former chief,
-
 Steven P. Jobs?
 
-
-
 ''Jobs made that work with the iPod,'' said Carl Howe, an analyst at the Yankee
-
 Group. ''He certainly made it work with the iPhone. Question is, Are they going
-
 to be able to do the same thing with a watch? I wouldn't bet against them at
-
 this point.''
 
-
-
 Mr. Cook said in an interview that the new watch indicated that the company was
-
 still innovative.
 
-
-
 ''For us, it's never been about being first. It's been about being the best,''
-
 he said. ''And I think we just launched the Apple watch that is sort of in a
-
 category by itself that will redefine what people expect of products in the
-
 category.''
 
-
-
 The new iPhones are significant upgrades for Apple's smartphone lineup, still by
-
 far the company's largest source of profit. They cater to a growing appetite
-
 among consumers for bigger screens, similar to what happened with televisions.
 
-
-
 And they are a rare instance of Apple's following market trends instead of
-
 creating them; Samsung, Apple's chief rival, has captured a major share of the
-
 smartphone market with large phones.
 
-
-
 Apple displayed the products in front of a packed auditorium here at the Flint
-
 Center for the Performing Arts, the same spot where the company introduced the
-
 Macintosh in 1984.
 
-
-
 Apple said that to use the Apple Watch, someone must also use one of its more
-
 recent iPhones.
 
-
-
 The watch will have a strong focus on health. An app called Fitness tracks
-
 statistics for different exercises, like bicycling or running, an accelerometer
-
 tracks movements and a heart rate sensor helps measure the intensity of
-
 workouts.
 
-
-
 The watch has a rectangular screen for a face with a flexible display and comes
-
 in two sizes. A crown on the side acts as a digital dial, which can be turned to
-
 zoom in; tapping the crown returns to the main menu. The watch can be attached
-
 to six strap styles, like stainless steel and leather.
 
-
-
 The smartwatch can run various apps, like a calendar, map navigation and a music
-
 player.
 
-
-
 The smartwatch will rely on so-called inductive charging to replenish the
-
 battery. Some consider it a form of wireless charging, but technically, it still
-
 requires a magnet that attaches to the back of the watch from another device.
 
-
-
 The watch will take advantage of Siri, Apple's tool for controlling the device
-
 with voice commands. Pushing on the crown activates Siri, and a command like
-
 ''What movies are playing nearby?'' will prompt the watch to load show times for
-
 nearby theaters.
 
-
-
 Apple also said it would release a tool kit for software developers to build
-
 apps for the watch. It said many companies had already made such apps, including
-
 W hotels, Pinterest and BMW.
 
-
-
 James McQuivey, a consumer technology analyst at Forrester Research, said the
-
 Apple Watch had already accomplished one thing, even though the device will not
-
 be in stores until 2015.
 
-
-
 ''It has firmly established the smartwatch as a category, one with unique
-
 properties requiring a unique solution, as opposed to a miniature smartphone
-
 pushed down onto your wrist,'' he said.
 
-
-
 Apple said that there would be three versions of the watch -- Apple Watch, Apple
-
 Watch Sport and Apple Watch Edition -- and that pricing would start at $350.
 
-
-
 Employees working on the project, who spoke on the condition of anonymity, have
-
 said that Apple wanted to introduce the product last year, but had to wait until
-
 this year to finish developing the hardware and software and to give developers
-
 time to make apps for the device.
 
-
-
 Mr. Cook said Apple took its time to figure out how to devise a software
-
 interface that made sense on a small screen, among other challenges.
 
-
-
 ''You don't want a phone strapped to your wrist. That's not what the consumer
-
 wants,'' he said.
 
-
-
 The two new iPhones, the iPhone 6 and the iPhone 6 Plus, measure 4.7 inches and
-
 5.5 inches diagonally; the most recent iPhones measure 4 inches.
 
-
-
 Both iPhones have an aluminum back. Despite larger screen sizes, the bodies are
-
 thinner than those of past iPhones.
 
-
-
 To deal with concerns that a bigger phone will make using the phone with one
-
 hand difficult, Apple created the feature Reachability. Double tapping the
-
 physical button makes the picture slide down so that a user can reach over with
-
 one hand to tap something.
 
-
-
 The processor inside the new iPhones is about 25 percent faster than the
-
 previous version, Phil Schiller, Apple's head of marketing, said. The iPhones
-
 have slightly better battery life than the previous iPhone, and they include new
-
 wireless capabilities to get faster Internet speeds from cellular networks.
 
-
-
 In addition, they support making phone calls over a Wi-Fi network and have an
-
 improved camera with a sensor that reads light and does quicker autofocus.
 
-
-
 The starting price of an iPhone 6 with a contract is $200, while that for an
-
 iPhone 6 Plus is $300. They go on sale Sept. 19.
 
-
-
 With the new iPhones and watch, Apple is moving deeper into the world of mobile
-
 payments. Apple demonstrated Apple Pay, a feature that allows users to pay for
-
 things in retail stores with the devices. The feature relies on near-field
-
 communication, or N.F.C., a technology that lets devices exchange information
-
 wirelessly over very short distances.
-
-
 
 After rising initially, Apple shares ended the day down slightly.
 
-
-
 The set of products should be the first of more to come this year. In May, Eddy
-
 Cue, Apple's head of Internet services, said the products that the company
-
 planned to introduce this year made up the ''best product pipeline that I've
-
 seen in my 25 years at Apple.''
 
-
-
 URL:
-
 http://www.nytimes.com/2014/09/10/technology/apple-aims-for-the-wrist-with-a-sma
-
 rtwatch-while-making-the-iphone-6-larger.html
-
-
-
-LOAD-DATE: September 10, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-GRAPHIC: PHOTO: Phil Schiller, Apple's head of marketing, with the iPhone 6,
-
-left, and iPhone 6 Plus at an event in Cupertino, Calif., on Tuesday.
-
-(PHOTOGRAPH BY JIM WILSON/THE NEW YORK TIMES)
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                   Copyright 2014 The New York Times Company
-
-
-
-
 

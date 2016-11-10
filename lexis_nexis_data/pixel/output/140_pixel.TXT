@@ -1,122 +1,40 @@
-                              140 of 997 DOCUMENTS
-
-
-
-
-
-                              Open Source FOR You
-
-
-
-                                November 1, 2016
-
-
-
-Foss Bytes: Google Reshapes into Hardware Company with Pixel Phone
-
-
-
-LENGTH: 324  words
-
-
-
 
 
 Google has unveiled its first ever 'made by Google' smartphone, called the Pixel
-
 . The new handset has brought the search giant into the booming smartphone
-
 hardware market, which already has Apple and Samsung as the leaders.
 
 
 
-
-
-
-
 The Google Pixel is the world's first smartphone with the Android 7.1 Nougat OS.
-
 It includes Google Assistant, which lets users have natural conversations with
-
 Google and find answers to their real-life questions. Additionally, Google is
-
 offering pre-installed Google Duo and Allo apps to give an advanced
-
 communication experience.
 
-
-
 Developers would get a chance to integrate their apps with Google Assistant
-
 sometime in the future. However, the experience is so far limited to Google's
-
 core apps and services.
 
-
-
 While the software side of Pixel is novel and innovative, its hardware is just
-
 another high-end offering. The smartphone comes in two different variants, with
-
 12.7cm (5-inch) and 13.9cm (5.5-inch) AMOLED display options. Additionally,
-
 there is the latest Qualcomm Snapdragon 821 chipset and up to 128GB of storage.
 
-
-
 The phone also comes with a 12.3-megapixel primary camera sensor with PDAF and
-
 LDAF technologies and an f/2.0 aperture. Google claims that these inputs enable
-
 the smartphone to offer the 'best rear camera' experience.
 
-
-
 The Pixel starts at US$ 649 in the US (Rs 57,000 in India) to rival Apple iPhone
-
 7 and Samsung Galaxy S7.
 
-
-
 Although the Pixel is a fresh offering in the smartphone market, it is not the
-
 first attempt by Google. The company had earlier launched several Android based
-
 mobile devices under its Nexus brand. Likewise, it had even acquired Motorola in
-
 2011 (which it later sold to Lenovo in 2014) to manufacture smartphones with a
-
 vanilla Android experience.
 
-
-
 That being said, the Pixel is a major step to help Google reach new levels. It
-
 might not attract the masses but could enable the company to make a dent in the
-
 smartphone market, which is predicted to hit US$ 2 billion in sales in 2020.
-
-
-
-LOAD-DATE: November 1, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Magazine
-
-
-
-
-
-      Copyright 2016 EFY Enterprises Pvt Ltd., distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

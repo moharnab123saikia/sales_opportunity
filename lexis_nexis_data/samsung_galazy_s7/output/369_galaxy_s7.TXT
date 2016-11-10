@@ -1,102 +1,40 @@
-                             369 of 1000 DOCUMENTS
-
-
-
-
-
-
-
-                                  t-break Tech
-
-
-
-                           January 21, 2016 Thursday
-
-
-
-Galaxy S7 benchmarking leak ends up being slightly disappointing
-
-
-
-LENGTH: 366  words
-
-
-
 
 
 By tbreak Staff -
 
-
-
 Galaxy S7 is expected to be one terrific smartphone, being armed to the teeth
-
 with chipsets like Snapdragon 820 and Exynos 8890 (remember, the smartphone is
-
 going to be available to purchase in both chipset models) and we expect the
-
 device to make its way towards the 2016 Mobile World Congress show, which is all
-
 set to take place during February. Only now, were we able to come across the
-
 leaked benchmarking scores of the smartphone through a popular performance
-
 testing app called Geekbench.
 
-
-
 The scores spotted on Geekbench give us the impression that the device is not
-
 all that is cracked up to be, despite the fact that it features two of the
-
 fastest mobile chipsets found in Android powered smartphones of 2016.
-
 Regardless, given below are the scores so you be the judge if there has been a
-
 huge leap in performance if you compare Galaxy S7 and its predecessors.
 
-
-
 The details on the benchmarking sheet state that the eight cores running in the
-
 chipset feature a frequency of 1.59GHz. However, in our previous announcement;
-
 the one where Samsung was proud to announce its Exynos 8890, four cores will be
-
 custom developed by Samsung, while the remaining cores will belong to ARM's
-
 Cortex-A53, so it is not possible for the chipset to feature all eight of its
-
 cores running at the same speed, particularly when these cores are a part of
-
 ARM's big.LITTLE architecture. It is possible that these cores are just for
-
 testing purposes, but we will keep you informed on that front in the near
-
 future. As for the remaining specifications go, it appears that Galaxy S7 will
-
 be running Android Marshmallow 6.0.1 and the company's custom TouchWiz interface
-
 will be running on top of that.
 
-
-
 Since Galaxy S7 is also going to sport a ton of new technologies, you should
-
 rest assure that the unlocked model of the smartphone is definitely going to be
-
 quite an expensive mobile computing device. We will obviously keep you informed
-
 about this, and when MWC 2016 kicks off, we will be able to come across these
-
 minute details as well.
 
-
-
 http://imgs.syndigate.info/232/814/55/145338267324.png
-
-
-
-
 
 
 
@@ -104,43 +42,7 @@ http://imgs.syndigate.info/232/814/43/145338267391.png
 
 
 
-
-
-
-
 http://imgs.syndigate.info/232/814/18/145338267452.png
-
-
-
-
-
-
-
-LOAD-DATE: January 21, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-JOURNAL-CODE: 814
-
-
-
-
-
-                          Copyright 2016 TBREAK MEDIA
-
-                        Provided by Syndigate Media Inc.
-
-                              All Rights Reserved
-
-
 
 
 

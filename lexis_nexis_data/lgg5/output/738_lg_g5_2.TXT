@@ -1,12802 +1,6390 @@
-                              738 of 820 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           August 31, 2016 Wednesday
-
-
-
-Regulatory update: FCC has submitted Device Manufacturers List of all Handsets
-
-Offered by Manufacturers
-
-
-
-LENGTH: 15191  words
-
-
 
 DATELINE: New York
 
 
 
-
-
-
-
  Washington: Federal Communications Commission, The Government of USA has
-
 published the following documents:
-
-
-
-
 
 
 
  NHandset Maker Model Name (s) FCC ID (s)
 
-
-
  Apple iPhone 5c                     BCG-E2644A
-
-
 
  Apple iPhone 5s                     BCG-E2642A
 
-
-
  Apple iPhone 6                      BCG-E2816A
-
-
 
  Apple iPhone 6 Plus                 BCG-E2817A
 
-
-
  Device Manufacturers List of all Handsets Offered by Manufacturers
-
-
 
  Reporting Period:July 1, 2015 - June 30, 2016
 
-
-
  Apple IPHONE 6S                     BCG-E2946A
-
-
 
  Apple IPHONE 6S PLUS                BCG-E2944A
 
-
-
  Apple iPhone SE (A1662)             BCG-E2945A
-
-
 
  Apple iPhone SE (A1723)             BCG-E3042A
 
-
-
  Blackberry Classic SQC100-2              L6ARHE150LW
-
-
 
  Blackberry Classic SQC100-3              L6ARHF140LW
 
-
-
  Blackberry Classic SQC100-4              L6ARHG160LW
-
-
 
  Blackberry Classic SQC100-5              L6ARHF140LW
 
-
-
  Blackberry Leap STR100-2                 L6ARHC160LW
-
-
 
  Blackberry P'9983 SQK100-2               L6ARHA110LW
 
-
-
  Blackberry Passport SQW100-1             L6ARGY180LW
-
-
 
  Blackberry Passport SQW100-3             L6ARGV160LW
 
-
-
  Blackberry Q5 SQR100-1                   L6ARFR100LW
 
-
-
  Blackberry Z30 STA100-3                  L6ARFX100LW
-
-
 
  Blackberry Z30 STA100-5                  L6ARFY110LW
 
 
 
-
-
-
-
  Bullitt Group B100                          ZL5B100
-
-
 
  Bullitt Group B25                           ZL5B25
 
-
-
  Bullitt Group Cat B30                       ZL5B30
-
-
 
  Bullitt Group Cat S30                       ZL5S30
 
-
-
  Bullitt Group CAT S40                       ZL5S40
-
-
 
  Bullitt Group CAT S50                       ZL5S50
 
-
-
  Bullitt Group Kodak IM5                     ZL5IM5
-
-
 
  Bullitt Group Kodak SP4                     ZL5SP4
 
-
-
  Bullitt Group S50c                          ZL5S50c
-
-
 
  Doro 618                           WS5DORO618
 
-
-
  Doro 626                           WS5DORO626
-
-
 
  Doro 824                           WS5DORO824U
 
-
-
  Honeywell 60SLU                         HD560SLU
-
-
 
  Honeywell 70ELG0                        HD570ELG0
 
-
-
  Honeywell 70ELGN                        HD570ELGN
-
-
 
  Honeywell 7800LW  HD57800LW
 
-
-
  Honeywell 99EXLW  HD599EXLW
-
-
 
  Honeywell CT50LFN                       HD5-CT50LFN
 
-
-
  HTC 0PGQ100                       NM80PGQ100
-
-
 
  HTC 0PJA100                       NM80PJA100
 
-
-
  HTC 0PJA120                       NM80PJA120
-
-
 
  HTC 0PJA200                       NM80PJA200
 
-
-
  HTC 0PJA300                       NM80PJA300
-
-
 
  HTC 0PM3100                       NM80PM3100
 
-
-
  HTC 0PM9110                       NM80PM9110
-
-
 
  HTC 0PM9120                       NM80PM9120
 
-
-
  HTC 0PM9200                       NM80PM9200
-
-
 
  HTC 0PM9300                       NM80PM9300
 
-
-
  HTC 2PQ9120                       NM82PQ9120
-
-
 
  HTC 2PQ9300                       NM82PQ9300
 
-
-
  HTC 2PS6400                       NM82PS6400
-
-
 
  HTC 2PS6500                       NM82PS6500
 
-
-
  Huawei ALE-L04, P8 lite              QISALE-L04, QISALE-L04
-
-
 
  Huawei G8X, RIO-L03                  QISRIO-L03, QISRIO-L03
 
-
-
  Huawei H891L, G620-A2                QISH891L, QISH891L
-
-
 
  Huawei KIW-L24, Honor 5X             QISKIW-L24, QISKIW-L24
 
-
-
  Huawei MT2-L03, Mate 2               QISMT2-L03, QISMT2-L03
-
-
 
  Huawei Nexus 6P, Nin-A1              QISH1511, QISH1511
 
-
-
  Huawei U3900                         QISU3900
-
-
 
  Huawei Union, Y538-A1                QISY538, QISY538
 
-
-
  Huawei Y336-A1, H871G                QISY336-A1, QISY336-A1
-
-
 
  Intermec 1000CP01C-H1, CN70 CDMA H1
 
-
-
  EHA-1000CP01CX2, EHA-
 
-
-
  1000CP01CX2
-
-
 
  Intermec 1000CP01U-H1, CN70 UMTS H1
 
-
-
  EHA-1000CP01UX1, EHA-
 
-
-
  1000CP01UX1
-
-
 
  Intermec 1000CP02C-H1, CN70e CDMA H1
 
-
-
  EHA-1000CP01CX2, EHA-
 
-
-
  1000CP01CX2
-
-
 
  Intermec 1000CP02U-H1, CN70e UMTS H1
 
-
-
  EHA-1000CP01UX1, EHA-
 
-
-
  1000CP01UX1
-
-
 
  Intermec 1001CP01C-H1, CK70 CDMA H1
 
-
-
  EHA-1000CP01CX2, EHA-
-
-
 
  1000CP01CX2
 
-
-
  Intermec 1001CP01U-H1, CK70 UMTS H1
-
-
 
  EHA-1000CP01UX1, EHA-
 
-
-
  1000CP01UX1
-
-
 
  Intermec CN51, 1015CP01S
 
-
-
  EHA-1015CP01SX1, EHA-
-
-
 
  1015CP01SX1
 
-
-
  LG LG108C, LG109C                ZNF109C, ZNF109C
-
-
 
  LG LG305C                        ZNFLG305C
 
-
-
  LG LG306G                        ZNF306G
-
-
 
  LG LG328BG, LG329G               ZNF329G, ZNF329G
 
-
-
  LG LG-A380                       ZNFA380
-
-
 
  LG LG-B460, LG441G, LG-B470, LG-B
 
-
-
  ZNFB460, ZNFB460, ZNFB460,
-
-
 
  ZNFB460
 
-
-
  LG LG-C410                       ZNFC410
-
-
 
  LG LG-D321                       ZNFD321
 
-
-
  LG LG-D415RD                     ZNFD415
-
-
 
  LG LG-D631                       ZNFD631
 
-
-
  LG LG-D725                       ZNFD725
-
-
 
  LG LG-D850                       ZNFD850
 
-
-
  LG LG-D851                       ZNFD851
-
-
 
  LG LG-H345, LG-MS345             ZNFH345, ZNFH345
 
-
-
  LG LG-H443, LG-H445              ZNFH443, ZNFH443
-
-
 
  LG LG-H631, LG-MS631             ZNFH631, ZNFH631
 
-
-
  LG LG-H634                       ZNFH634
-
-
 
  LG LG-H740                       ZNFH740
 
-
-
  LG LG-H790                       ZNFH790
-
-
 
  LG LG-H810                       ZNFH810
 
-
-
  LG LG-H811, LG-AS811             ZNFH811, ZNFH811
-
-
 
  LG LG-H820                       ZNFH820
 
-
-
  LG LG-H830                       ZNFH830
-
-
 
  LG LG-H900                       ZNFH900
 
-
-
  LG LG-H901                       ZNFH901
-
-
 
  LG LG-H950                       ZNFH950
 
-
-
  LG LG-K330, LG-AS330, LG-MS330, L
-
-
 
  ZNFK330, ZNFK330, ZNFK330,
 
-
-
  ZNFK330
-
-
 
  LG LG-K371                       ZNFK371
 
-
-
  LG LG-K373                       ZNFK373
-
-
 
  LG LG-K425                       ZNFK425
 
-
-
  LG LG-K428, LG-MS428             ZNFK428, ZNFK428
-
-
 
  LG LG-K550, LG-MS550             ZNFK550BN, ZNFK550BN
 
-
-
  LG LGL15G                        ZNFL15G
-
-
 
  LG LGL16C                        ZNFL16C
 
-
-
  LG LGL21G                        ZNFL21G
-
-
 
  LG LGL22C                        ZNFL22C
 
-
-
  LG LGL33L, LG-H343               ZNFL33L, ZNFL33L
-
-
 
  LG LGL34C, LG-VS415PP            ZNFL34C, ZNFL34C
 
-
-
  LG LGL43AL, LG-K120              ZNFL43AL, ZNFL43AL
-
-
 
  LG LGL52VL                       ZNFL52VL
 
-
-
  LG LGL61AL                       ZNFL61AL
-
-
 
  LG LGL62VL                       ZNFL62VL
 
-
-
  LG LGL81AL, LG-K540              ZNFL81AL, ZNFL81AL
-
-
 
  LG LGL82VL                       ZNFL82VL
 
-
-
  LG LGLS450                       ZNFLS450
-
-
 
  LG LGLS660                       ZNFLS660
 
-
-
  LG LGLS665                       ZNFLS665
-
-
 
  LG LGLS675                       ZNFLS675
 
-
-
  LG LG-LS740                      ZNFLS740
-
-
 
  LG LGLS751                       ZNFLS751
 
-
-
  LG LGLS770                       ZNFLS770
-
-
 
  LG LGLS775                       ZNFLS775
 
-
-
  LG LGLS990                       ZNFLS990
-
-
 
  LG LGLS991                       ZNFLS991
 
-
-
  LG LGLS992, LG-AS992             ZNFLS992, ZNFLS992
-
-
 
  LG LGLS996                       ZNFLS996
 
-
-
  LG LG-US375, LG-AS375            ZNFUS375, ZNFUS375
-
-
 
  LG LG-US550                      ZNFUS550
 
-
-
  LG LG-US990, LG-AS990            ZNFUS990, ZNFUS990
-
-
 
  LG LG-US991                      ZNFUS991
 
-
-
  LG LG-US995, LG-AS995            ZNFUS995, ZNFUS995
 
-
-
  LG
-
-
 
  LG-VN170, LG-AN170, LG237C,
 
-
-
  LG
 
-
-
  ZNFVN170, ZNFVN170,
 
-
-
  ZNFVN170, ZNFVN170,
-
-
 
  ZNFVN170
 
-
-
  LG LG-VN210                      ZNFVN210
-
-
 
  LG LG-VN251S, LG-VN251SNPP       BEJVN251, BEJVN251
 
-
-
  LG
-
-
 
  LG-VN280, LG-UN280, LG-
 
-
-
  UN280PP
-
-
 
  ZNFVN280, ZNFVN280,
 
-
-
  ZNFVN280
-
-
 
  LG LG-VN360, LG-UN530            ZNFVN360, ZNFVN360
 
-
-
  LG LG-VN370, LG-UN540            ZNFVN370, ZNFVN370
-
-
 
  LG LG-VS425                      ZNFVS425
 
-
-
  LG LG-VS425PP                    ZNFVS425PP
-
-
 
  LG LG-VS450PP                    ZNFVS450PP
 
-
-
  LG LG-VS500                      ZNFVS500
-
-
 
  LG LG-VS810PP, LG-VS810KPP       ZNFVS810PP, ZNFVS810PP
 
-
-
  LG LG-VS880, LG-VS880PP          ZNFVS880, ZNFVS880
 
-
-
  LG
-
-
 
  LG-VS985, LG-VS985K, LG-
 
-
-
  VS985W
 
-
-
  ZNFVS985, ZNFVS985,
 
-
-
  ZNFVS985, ZNFVS985,
-
-
 
  ZNFVS985
 
-
-
  LG
-
-
 
  LG-VS986, LG-VS986B, LG-
 
-
-
  VS986L
 
-
-
  ZNFVS986, ZNFVS986,
 
-
-
  ZNFVS986, ZNFVS986,
-
-
 
  ZNFVS986
 
-
-
  LG
-
-
 
  LG-VS987, LG-VS987T, LG-
 
-
-
  RS988,
-
-
 
  ZNFVS987, ZNFVS987,
 
-
-
  ZNFVS987, ZNFVS987
-
-
 
  LG
 
-
-
  LG-VS990, LG-VS990W, LG-
-
-
 
  RS987
 
-
-
  ZNFVS990, ZNFVS990,
-
-
 
  ZNFVS990
 
-
-
  LG LG-VW820, LG-VS820            ZNFVW820, ZNFVW820
-
-
 
  Microsoft Lumia 435                     PYA-LVQB
 
-
-
  Microsoft Lumia 550                     PYARM-1128
-
-
 
  Microsoft Lumia 640                     PYARM-1073
 
-
-
  Microsoft Lumia 640XL(a)                PYAAAA
-
-
 
  Microsoft Lumia 640XL(b)                PYARM-1063
 
-
-
  Microsoft Lumia 650(a)                  PYARM-1150
-
-
 
  Microsoft Lumia 650(b)                  PYARM-1154
 
-
-
  Microsoft Lumia 735                     QTLRM-1041
-
-
 
  Microsoft Lumia 950(a)                  PYARM-1105
 
-
-
  Microsoft Lumia 950(b)                  PYASTT
-
-
 
  Microsoft Lumia 950XL(a)                PYARM-1116
 
-
-
  Microsoft Lumia 950XL(b)                PYARM-1085
-
-
 
  Motorola Droid MAXX 2, XT1564, XT1565
 
-
-
  IHDT56UB1, IHDT56UB1,
-
-
 
  IHDT56UB1
 
-
-
  Motorola Droid MAXX XT1080             IHDT56PE2
-
-
 
  Motorola Droid Turbo XT1254            IHDT56PK1
 
-
-
  Motorola Droid Turbo XT1255            IHDT56PK2
-
-
 
  Motorola Moto E (2nd) XT1505           IHDT56QF1
 
-
-
  Motorola Moto E (2nd) XT1511           IHDT56QF2
-
-
 
  Motorola Moto E (2nd) XT1526           IHDT56QC7
 
-
-
  Motorola Moto E (2nd) XT1527           IHDT56QC1
-
-
 
  Motorola Moto E (2nd) XT1528           IHDT56QC8
 
-
-
  Motorola Moto E XT1021                 IHDT56PJ1
-
-
 
  Motorola MOTO E XT1023                 IHDT56PJ3
 
-
-
  Motorola Moto G Plus (4th Gen, XT1644,
-
-
 
  IHDT56VA5, IHDT56VA5,
 
-
-
  IHDT56VA5
-
-
 
  Motorola Moto G XT1033, Moto G XT1032  IHDT56PF1, IHDT56PF1
 
-
-
  Motorola Moto G XT1045                 IHDT56PG1
-
-
 
  Motorola Moto G XT1063                 IHDT56QB1
 
-
-
  Motorola Moto G XT1064                 IHDT56QB2
-
-
 
  Motorola Moto G (XT1540), Moto G (XT947 IHDT56QG1, IHDT56QG1
 
-
-
  Motorola Moto G (XT1548)               IHDT56QG6
-
-
 
  Motorola Moto X (2nd) XT1093           IHDT56QA3
 
-
-
  Motorola Moto X (2nd) XT1096           IHDT56QA2
-
-
 
  Motorola Moto X (2nd) XT1097           IHDT56QA1
 
-
-
  Motorola Moto X Style (XT1572          IHDT56UC2
-
-
 
  Motorola Moto X Style (XT1575          IHDT56UC1
 
-
-
  Motorola Moto X XT1058                 IHDT56PA1
-
-
 
  Motorola Moto Z Droid, XT1650-01       IHDT56VB1, IHDT56VB1
 
-
-
  Motorola Nexus 6 XT1100                IHDT56QD2
-
-
 
  Motorola Nexus 6 XT1103                IHDT56QD1
 
-
-
  Motorola XT1585                        IHDT56UA1
-
-
 
  Nokia Lumia 1020                    PDNB
 
-
-
  Nokia Lumia 1520                    PYAB
-
-
 
  Nokia Lumia 520                     QTLRM-915
 
-
-
  Nokia Lumia 521                     QTLRM-917
-
-
 
  Nokia Lumia 530                     PDNRM-1018
 
-
-
  Nokia Lumia 535                     PYARM-1092
-
-
 
  Nokia Lumia 635(a)                  PDNRM-975
 
-
-
  Nokia Lumia 635(b)                  QTLRM-1078
-
-
 
  Nokia Lumia 830                     QMNRM-983, QMNRM-985
 
-
-
  Nokia Lumia 920                     PYAA
-
-
 
  Nokia Lumia 925                     PYAA1
 
-
-
  Nokia Lumia Icon                    QMND
-
-
 
  Panasonic DMC-CM1                       UCE314062A
 
-
-
  Panasonic FZ-E1BBxxxxx (x:any)          ACJFZE1A
-
-
 
  Panasonic FZ-N1ABxxxxx (x:any)          ACJFZN1B
 
-
-
  Panasonic FZ-X1ABxxxxx (x:any)          ACJEB3910A
-
-
 
  Panasonic FZ-X1CBxxxxx (x: any          ACJEB3910A
 
-
-
  Psion Inc Omnii XT15/RT15               GM37545MBW, GM37545MBWP
-
-
 
  RIM\Blackberry Passport SQW100-4             L6ARHR190LW
 
-
-
  RIM\Blackberry PRIV STV100-1                 L6ARHK210LW
-
-
 
  RIM\Blackberry PRIV STV100-2                 L6ARHT180LW
 
-
-
  Samsung rugby 4                       A3LSMB780A
-
-
 
  Samsung SCH-I435, SCH-I435L           A3LSCHI435, A3LSCHI435
 
-
-
  Samsung SCH-I545, SCH-I545L           A3LSCHI545, A3LSCHI545
-
-
 
  Samsung SCH-R220G                     A3LSCHR220
 
-
-
  Samsung SCH-R970                      A3LSCHR970
-
-
 
  Samsung SCH-R970X                     A3LSCHR970C
 
-
-
  Samsung SCH-S336C                     A3LSCHU365
-
-
 
  Samsung SCH-S968C                     A3LSCHI535
 
-
-
  Samsung SCH-U680, SCH-U680N           A3LSCHU680, A3LSCHU680
-
-
 
  Samsung SGH-I337Z                     A3LSGHI337
 
-
-
  Samsung SGH-M919                      A3LSGHM919
-
-
 
  Samsung SGH-T199                      A3LSGHT199
 
-
-
  Samsung SGH-T399N                     A3LSGHT399
-
-
 
  Samsung SM-B311V                      A3LSMB311V
 
-
-
  Samsung SM-B690V                      A3LSMB690V
-
-
 
  Samsung SM-G310R5                     A3LSMS765C
 
-
-
  Samsung SM-G360AZ                     A3LSMG360AZ
-
-
 
  Samsung SM-G360P                      A3LSMG360P
 
-
-
  Samsung SM-G360T, SM-G360T1           A3LSMG360T, A3LSMG360T
 
-
-
  Samsung
-
-
 
  SM-G360V, SM-S820L, SM-
 
-
-
  G360R6
-
-
 
  A3LSMG360V, A3LSMG360V,
 
-
-
  A3LSMG360V
-
-
 
  Samsung SM-G386T, SM-G386T1           A3LSMG386T, A3LSMG386T
 
-
-
  Samsung SM-G530AZ, SM-G530A           A3LSMG530AZ, A3LSMG530AZ
-
-
 
  Samsung SM-G530P, SM-G530R7           A3LSMG530P, A3LSMG530P
 
-
-
  Samsung SM-G530R4                     A3LSMG530R4
-
-
 
  Samsung SM-G530T, SM-G530T1           A3LSMG530T, A3LSMG530T
 
-
-
  Samsung SM-G550T, SM-G550T1           A3LSMG550T, A3LSMG550T
-
-
 
  Samsung SM-G750A                      A3LSMG750A
 
-
-
  Samsung SM-G800A                      A3LSMG800A
-
-
 
  Samsung SM-G800R4                     A3LSMG800R4
 
-
-
  Samsung SM-G870A                      A3LSMG870A
-
-
 
  Samsung SM-G890A                      A3LSMG890A
 
-
-
  Samsung SM-G891A                      A3LSMG891A
-
-
 
  Samsung SM-G900A, SM-G900AZ           A3LSMG900A, A3LSMG900A
 
-
-
  Samsung SM-G900P                      A3LSMG900P
-
-
 
  Samsung SM-G900R4                     A3LSMG900R4
 
-
-
  Samsung
-
-
 
  SM-G900R6, SM-G900V, SM-
 
-
-
  S902L
-
-
 
  A3LSMG900V, A3LSMG900V,
 
-
-
  A3LSMG900V
-
-
 
  Samsung SM-G900R7                     A3LSMG900R7
 
-
-
  Samsung
-
-
 
  SM-G900T1, SM-G900T, SM-
 
-
-
  G900T3
-
-
 
  A3LSMG900T, A3LSMG900T,
 
-
-
  A3LSMG900T
-
-
 
  Samsung SM-G920A, SM-G920AZ           A3LSMG920A, A3LSMG920A
 
-
-
  Samsung SM-G920P                      A3LSMG920P
-
-
 
  Samsung SM-G920R4                     A3LSMG920R4
 
-
-
  Samsung SM-G920R7                     A3LSMG920R7
-
-
 
  Samsung SM-G920T, SM-G920T1           A3LSMG920T, A3LSMG920T
 
-
-
  Samsung SM-G920V, SM-G920R6, S906L
-
-
 
  A3LSMG920V, A3LSMG920V,
 
-
-
  A3LSMG920V
-
-
 
  Samsung SM-G925A                      A3LSMG925A
 
-
-
  Samsung SM-G925P                      A3LSMG925P
-
-
 
  Samsung SM-G925R4                     A3LSMG925R4
 
-
-
  Samsung SM-G925R7                     A3LSMG925R7
-
-
 
  Samsung SM-G925T                      A3LSMG925T
 
-
-
  Samsung SM-G925V, SM-G925R6           A3LSMG925V, A3LSMG925V
-
-
 
  Samsung SM-G928A                      A3LSMG928A
 
-
-
  Samsung SM-G928P                      A3LSMG928P
-
-
 
  Samsung SM-G928R4                     A3LSMG928R4
 
-
-
  Samsung SM-G928T                      A3LSMG928T
-
-
 
  Samsung SM-G928V                      A3LSMG928V
 
-
-
  Samsung
-
-
 
  SM-G930A, SM-G930AZ, SM-
 
-
-
  G930P,
 
-
+ A3LSMG930US, A3LSMG930US,
 
  A3LSMG930US, A3LSMG930US,
 
-
+ A3LSMG930US, A3LSMG930US,
 
  A3LSMG930US, A3LSMG930US,
 
-
-
  A3LSMG930US, A3LSMG930US,
-
-
-
- A3LSMG930US, A3LSMG930US,
-
-
-
- A3LSMG930US, A3LSMG930US,
-
-
 
  A3LSMG930US
 
-
-
  Samsung
-
-
 
  SM-G935A, SM-G935P, SM-
 
-
-
  G935R4,
 
-
-
  A3LSMG935US, A3LSMG935US,
 
-
-
  A3LSMG935US, A3LSMG935US,
-
-
 
  A3LSMG935US, A3LSMG935US
 
-
-
  Samsung SM-J100VPP                    A3LSMJ100VPP
-
-
 
  Samsung SM-J120A, SM-J120AZ           A3LSMJ120A, A3LSMJ120A
 
-
-
  Samsung
-
-
 
  SM-J320A, SM-J320AZ, SM-
 
-
-
  J321AZ
-
-
 
  A3LSMJ320A, A3LSMJ320A,
 
-
-
  A3LSMJ320A
-
-
 
  Samsung SM-J320P                      A3LSMJ320P
 
-
-
  Samsung SM-J320R4                     A3LSMJ320R4
-
-
 
  Samsung SM-J320VPP                    A3LSMJ320VPP
 
-
-
  Samsung SM-J700P                      A3LSMJ700P
-
-
 
  Samsung SM-J700T, SM-J700T1           A3LSMJ700T, A3LSMJ700T
 
-
-
  Samsung SM-N910A                      A3LSMN910A
-
-
 
  Samsung SM-N910P                      A3LSMN910P
 
-
-
  Samsung SM-N910R4                     A3LSMN910R4
-
-
 
  Samsung
 
-
-
  SM-N910T, SM-N910T2, SM-
-
-
 
  N910T3
 
-
-
  A3LSMN910T, A3LSMN910T,
-
-
 
  A3LSMN910T
 
-
-
  Samsung SM-N910V                      A3LSMN910V
-
-
 
  Samsung SM-N915A                      A3LSMN915A
 
-
-
  Samsung SM-N915P                      A3LSMN915P
-
-
 
  Samsung SM-N915T                      A3LSMN915T
 
-
-
  Samsung SM-N915V                      A3LSMN915V
-
-
 
  Samsung SM-N920A                      A3LSMN920A
 
-
-
  Samsung SM-N920P                      A3LSMN920P
-
-
 
  Samsung SM-N920R4, SM-N920R7          A3LSMN920R4, A3LSMN920R4
 
-
-
  Samsung SM-N920T                      A3LSMN920T
-
-
 
  Samsung SM-N920V, SM-N920R6           A3LSMN920V, A3LSMN920V
 
-
-
  Samsung SM-S777C                      A3LSMS777C
-
-
 
  Samsung SM-S920L                      A3LSMS920L
 
-
-
  Samsung SM-S978L                      A3LSMS978L
-
-
 
  Samsung SPH-L710T                     A3LSPHL710T
 
-
-
  Samsung SPH-L720T                     A3LSPHL720T
-
-
 
  Senior Tech ezTWO B-1                     ZXL-EZTWOB1
 
-
-
  Senior Tech ezTWO C                       ZXL-EZTWOB1
-
-
 
  Sharp AQUOS Crystal 306SH           APYHRO00204
 
-
-
  Sony Mobile Communications Xperia D5803                  PY7PM-0810
-
-
 
  Sony Mobile Communications Xperia D6503                  PY7PM-0740
 
-
-
  Sony Mobile Communications Xperia D6603                  PY7PM-0800
-
-
 
  Sony Mobile Communications Xperia D6708                  PY7PM-0742
 
-
-
  Sony Mobile Communications Xperia E2306                  PY7-PM0785
-
-
 
  Sony Mobile Communications Xperia E5306                  PY7-PM0860
 
-
-
  Sony Mobile Communications Xperia E5506                  PY7-PM0890
-
-
 
  Sony Mobile Communications Xperia E5803                  PY7-PM0881
 
-
-
  Sony Mobile Communications Xperia E6553                  PY7-PM0791
-
-
 
  Sony Mobile Communications Xperia E6603                  PY7-PM0901
 
-
-
  Sony Mobile Communications Xperia F3113                  PY7-PM0922
-
-
 
  Sony Mobile Communications Xperia F3213                  PY7-PM0954
 
-
-
  Sony Mobile Communications Xperia F5121                  PY7-PM0930
-
-
 
  Sony Mobile Communications Xperia F5122                  PY7-PM0931
 
-
-
  Sony Mobile Communications Xperia F8131                  PY7-PM0940
-
-
 
  Symbol Technologies TC75AH                        H9PTC75AH
 
-
-
  TCL Communication Ltd. 4028S                         2ACCJH027
-
-
 
  TCL Communication Ltd. 4043S                         2ACCJA007
 
-
-
  TCL Communication Ltd. 5017B                         2ACCJB011
-
-
 
  TCL Communication Ltd. 5017O                         2ACCJH031
 
-
-
  TCL Communication Ltd. 5027B                         2ACCJB053
-
-
 
  TCL Communication Ltd. 5042T                         2ACCJA002
 
-
-
  TCL Communication Ltd. 5054N                         2ACCJA008
-
-
 
  TCL Communication Ltd. 5054S                         2ACCJA010
 
-
-
  TCL Communication Ltd. 5056O                         2ACCJB043
-
-
 
  TCL Communication Ltd. 5065W  2ACCJA006
 
-
-
  TCL Communication Ltd. 6045I                         2ACCJN002
-
-
 
  TCL Communication Ltd. 6045O                         2ACCJN005
 
-
-
  TCL Communication Ltd. 7046T                         2ACCJN003
-
-
 
  TCL Communication Ltd. 9002W  2ACCJB040
 
-
-
  TCL Communication Ltd. A462C                         2ACCJB013
-
-
 
  TCL Communication Ltd. A570BL, 4060A                 2ACCJB039, 2ACCJB039
 
-
-
  TCT Mobile Limited 1018B                         RAD556
-
-
 
  TCT Mobile Limited 2017B, 2017P, A394C           RAD506, RAD506, RAD506
 
-
-
  TCT Mobile Limited 4037T, 4037N, 4037R           RAD483, RAD483, RAD483
-
-
 
  TCT Mobile Limited 6039S                         RAD547
 
-
-
  TCT Mobile Limited 6043A                         RAD493
-
-
 
  TCT Mobile Limited 7040T, 7040R, 7040N           RAD475, RAD475, RAD475
 
-
-
  TCT Mobile Limited 7047A                         RAD465
-
-
 
  TCT Mobile Limited A205G                         RAD291
 
-
-
  TCT Mobile Limited A205G-B, A207BG               RAD527, RAD527
-
-
 
  TCT Mobile Limited A206G                         RAD477
 
-
-
  TCT Mobile Limited A392G, A392A                  RAD348, RAD348
-
-
 
  TCT Mobile Limited A460G, A460T                  RAD540, RAD540
 
-
-
  TCT Mobile Limited A463BG                        RAD549
-
-
 
  TCT Mobile Limited A520L, A520R                  RAD535, RAD535
 
-
-
  TCT Mobile Limited A521L                         RAD534
-
-
 
  TCT Mobile Limited A564C, A564R                  RAD476, RAD476
 
-
-
  TCT Mobile Limited A846L                         RAD528
-
-
 
  TCT Mobile Limited ONE TOUCH 6012A               RAD390
 
-
-
  Zebra Technologies Corporation ES405B                        UZ7ES405B
-
-
 
  Zebra Technologies Corporation MC40N0                        UZ7MC40N0
 
-
-
  Zebra Technologies Corporation MC4597                        UZ7MC4597
-
-
 
  Zebra Technologies Corporation MC659B                        UZ7MC659B
 
-
-
  Zebra Technologies Corporation MC67NA                        UZ7MC67NA
-
-
 
  Zebra Technologies Corporation MC67ND                        UZ7MC67ND
 
-
-
  Zebra Technologies Corporation MC9596                        UZ7MC9596
-
-
 
  Zebra Technologies Corporation MC9598                        UZ7MC9598
 
-
-
  Zebra Technologies Corporation TC55AH                        UZ7TC55AH
-
-
 
  Zebra Technologies Corporation TC55CH                        UZ7TC55CH
 
-
-
  Zebra Technologies Corporation TC700H                        UZ7TC700H
-
-
 
  ZTE A1                            SRQ-ZTEA1
 
-
-
  ZTE A1P                           SRQ-ZTEA1P
-
-
 
  ZTE A1R                           SRQ-ZTEA1R
 
-
-
  ZTE N817                          SRQ-ZTEN817
-
-
 
  ZTE N9131                         SRQ-ZTEN9131
 
-
-
  ZTE N9312                         SRQ-ZTEN9132
-
-
 
  ZTE N9519                         SRQ-ZTEN9519
 
-
-
  ZTE N9521 (Max Plus)              SRQ-ZTEN9521
-
-
 
  ZTE Z223                          Q78-Z222
 
-
-
  ZTE Z716BL                        SRQ-Z716BL
-
-
 
  ZTE Z717VL                        SRQ-Z717VL
 
-
-
  ZTE Z815                          SRQ-Z815
-
-
 
  ZTE Z818L                         SRQ-Z818L
 
-
-
  ZTE Z819L                         SRQ-Z819L
-
-
 
  ZTE Z820                          SRQ-Z820
 
-
-
  ZTE Z828                          SRQ-Z828
-
-
 
  ZTE Z831                          SRQ-Z831
 
-
-
  ZTE Z850                          SRQ-Z850
-
-
 
  ZTE Z916BL                        SRQ-Z916BL
 
-
-
  ZTE Z933                          SRQ-Z933
-
-
 
  ZTE Z955A                         SRQ-Z955A
 
-
-
  ZTE Z955L                         SRQ-Z955L
-
-
 
  ZTE Z959                          SRQ-Z959
 
-
-
  ZTE Z962BL                        SRQ-Z962BL
-
-
 
  ZTE Z963VL                        SRQ-Z963VL
 
-
-
  ZTE Z968                          SRQ-Z968
-
-
 
  ZTE Z981                          SRQ-Z981
 
-
-
  ZTE Z988                          SRQ-Z988
-
-
 
  ZTE ZTE A2017U                    SRQ-ZTEA2017U
 
-
-
  ZTE ZTEN9518                      SRQ-ZTEN9518
-
-
 
  Starting Date Ending  Date Air Interface Technology(ies)
 
-
-
  07/ 15 09/ 15
-
-
 
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 03/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, CDMA, LTE, GSM, CDMA,
-
-
 
  WCDMA, LTE, CDMA, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, LTE, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, CDMA, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi, Wi-Fi
 
-
-
  09/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, CDMA, WCDMA,
-
-
 
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  Wi-Fi, LTE, Wi-Fi, LTE
-
-
 
  09/ 15 06/ 16
 
-
-
  LTE, CDMA, LTE, GSM, CDMA,
-
-
 
  WCDMA, LTE, CDMA, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  Wi-Fi, LTE, Wi-Fi, LTE
-
-
 
  03/ 16 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  CDMA, WCDMA, LTE, GSM,
-
-
 
  CDMA, WCDMA, LTE, Wi-Fi, Wi-Fi
 
-
-
  03/ 16 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  CDMA, WCDMA, LTE, GSM,
 
-
-
  CDMA, WCDMA, LTE, Wi-Fi, LTE,
-
-
 
  Wi-Fi
 
-
-
  02/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi, Wi-Fi
 
-
-
  02/ 15 06/ 16 CDMA, CDMA, Wi-Fi, Wi-Fi
-
-
 
  12/ 14 06/ 16
 
-
-
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi, Wi-Fi
-
-
 
  02/ 15 06/ 16 CDMA, CDMA, Wi-Fi, Wi-Fi
 
-
-
  04/ 15 06/ 16
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi
-
-
 
  09/ 14 11/ 15
 
-
-
  GSM, WCDMA, GSM, WCDMA,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  09/ 14 06/ 16
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi, Wi-Fi
-
-
 
  02/ 15 06/ 16
 
-
-
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi, Wi-Fi
-
-
 
  03/ 14 02/ 16
 
-
-
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi
-
-
 
  10/ 13 09/ 15 CDMA, CDMA, Wi-Fi, Wi-Fi
 
-
-
  03/ 14 09/ 15
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi, Wi-Fi
-
-
 
  01/ 14 10/ 15
 
-
-
  GSM, WCDMA, GSM, WCDMA,
-
-
 
  GSM, GSM, WCDMA
 
-
-
  02/ 13 06/ 16 GSM, GSM, GSM, GSM
-
-
 
  06/ 15 06/ 16
 
-
-
  GSM, WCDMA, GSM, GSM,
-
-
 
  WCDMA
 
-
-
  08/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, GSM,
 
-
-
  WCDMA, LTE, GSM, GSM,
 
-
-
  WCDMA, LTE, Wi-Fi, LTE
-
-
 
  08/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  WCDMA, LTE, GSM, GSM,
 
-
-
  WCDMA, LTE, Wi-Fi, LTE
-
-
 
  01/ 14 10/ 15
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
 
-
-
  WCDMA, LTE, GSM, LTE, GSM,
-
-
 
  WCDMA, LTE, LTE, Wi-Fi, LTE
 
-
-
  03/ 15 06/ 16
 
-
-
  GSM, WCDMA, GSM, GSM, GSM,
-
-
 
  WCDMA, WCDMA, Wi-Fi
 
-
-
  08/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi
-
-
 
  12/ 15 06/ 16
 
-
-
  LTE, CDMA, LTE, CDMA, Wi-Fi,
 
-
-
  Wi-Fi
-
-
 
  11/ 12 06/ 16
 
-
-
  GSM, WCDMA, GSM, GSM,
 
-
-
  WCDMA
-
-
 
  09/ 14 06/ 16
 
-
-
  GSM, WCDMA, GSM, GSM,
-
-
 
  WCDMA
 
-
-
  02/ 16 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, GSM,
 
-
-
  WCDMA, LTE, GSM, GSM,
-
-
 
  WCDMA, LTE, WCDMA, Wi-Fi
 
-
-
  09/ 13 06/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  06/ 13 06/ 16
-
-
 
  GSM, CDMA, WCDMA, GSM,
 
-
-
  CDMA, WCDMA, Wi-Fi, Wi-Fi
-
-
 
  06/ 13 06/ 16
 
-
-
  GSM, CDMA, WCDMA, GSM,
 
-
-
  CDMA, WCDMA, Wi-Fi, Wi-Fi
-
-
 
  01/ 12 06/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  07/ 11 06/ 16
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, CDMA,
-
-
 
  WCDMA, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, GSM, GSM,
 
-
-
  WCDMA
-
-
 
  04/ 15 01/ 16
 
-
-
  GSM, WCDMA, GSM, GSM, GSM,
 
-
-
  WCDMA, WCDMA
-
-
 
  04/ 15 09/ 15 GSM, WCDMA, GSM, WCDMA
 
-
-
  04/ 15 06/ 16 CDMA, CDMA, WCDMA, WCDMA
-
-
 
  04/ 15 01/ 16 CDMA, CDMA, WCDMA, WCDMA
 
-
-
  08/ 15 06/ 16
-
-
 
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  GSM, CDMA, WCDMA, LTE, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, GSM, GSM,
 
-
-
  WCDMA, WCDMA
-
-
 
  07/ 15 06/ 16
 
-
-
  GSM, WCDMA, GSM, GSM, GSM,
 
-
-
  WCDMA, WCDMA
-
-
 
  06/ 15 06/ 16 CDMA, CDMA, WCDMA, WCDMA
 
-
-
  08/ 15 06/ 16 CDMA, CDMA, WCDMA, WCDMA
-
-
 
  11/ 15 06/ 16
 
-
-
  GSM, WCDMA, GSM, GSM, GSM,
 
-
-
  WCDMA, WCDMA
-
-
 
  11/ 15 06/ 16 CDMA, CDMA, WCDMA, WCDMA
 
-
-
  05/ 16 06/ 16 CDMA, CDMA
-
-
 
  04/ 16 06/ 16 CDMA, CDMA, WCDMA, WCDMA
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi
 
-
-
  01/ 16 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, GSM,
 
-
-
  WCDMA, LTE, GSM, GSM,
-
-
 
  WCDMA, LTE, Wi-Fi, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, LTE
-
-
 
  01/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  WCDMA, LTE, GSM, GSM,
 
-
-
  WCDMA, LTE, WCDMA, Wi-Fi,
-
-
 
  LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Wi-Fi
 
-
-
  09/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  WCDMA, LTE, GSM, GSM, CDMA,
 
-
-
  WCDMA, LTE, WCDMA, Wi-Fi,
-
-
 
  LTE, Wi-Fi, LTE
 
-
-
  07/ 15 02/ 16
-
-
 
  GSM, WCDMA, GSM, GSM, GSM,
 
-
-
  WCDMA
-
-
 
  07/ 15 06/ 16
 
-
-
  CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, GSM, GSM, GSM,
-
-
 
  CDMA, WCDMA, Wi-Fi, LTE
 
-
-
  07/ 15 08/ 15
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi
 
-
-
  06/ 15 06/ 16 CDMA, CDMA
-
-
 
  06/ 15 06/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  06/ 15 06/ 16 CDMA, CDMA
-
-
 
  06/ 15 06/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  06/ 15 06/ 16 CDMA, CDMA
 
-
-
  06/ 15 06/ 16 GSM, WCDMA, GSM, WCDMA
-
-
 
  09/ 13 06/ 16
 
-
-
  GSM, CDMA, WCDMA, WCDMA,
 
-
-
  GSM, CDMA, WCDMA
-
-
 
  08/ 15 06/ 16 CDMA, CDMA
 
-
-
  08/ 15 05/ 16 CDMA, CDMA, Wi-Fi, Bluetooth
-
-
 
  07/ 15 06/ 16
 
-
-
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi, Bluetooth
-
-
 
  11/ 15 06/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  07/ 15 02/ 16
 
-
-
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Bluetooth
-
-
 
  07/ 15 06/ 16
 
-
-
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Bluetooth
-
-
 
  07/ 15 06/ 16
 
-
-
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Bluetooth
-
-
 
  07/ 15 07/ 15
 
-
-
  GSM, WCDMA, GSM, WCDMA,
-
-
 
  Wi-Fi, Bluetooth
 
-
-
  07/ 15 08/ 15
 
-
-
  GSM, WCDMA, WCDMA, GSM,
-
-
 
  WCDMA, Wi-Fi, Bluetooth
 
-
-
  07/ 15 10/ 15
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, Wi-Fi
 
-
-
  07/ 15 08/ 15
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, Wi-Fi, LTE
 
-
-
  07/ 15 08/ 15
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, Wi-Fi, LTE
 
-
-
  07/ 15 08/ 15
-
-
 
  LTE, GSM, WCDMA, WCDMA,
 
-
-
  LTE, GSM, WCDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, LTE, Wi-Fi
 
-
-
  07/ 15 12/ 15
-
-
 
  LTE, GSM, WCDMA, WCDMA,
 
-
-
  LTE, GSM, WCDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi,
 
-
-
  Bluetooth, Wi-Fi
-
-
 
  07/ 15 05/ 16
 
-
-
  LTE, GSM, WCDMA, WCDMA,
-
-
 
  LTE, GSM, WCDMA, LTE, Wi-Fi,
 
-
-
  Bluetooth, Wi-Fi
-
-
 
  07/ 15 04/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, Wi-Fi
 
-
-
  10/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, Wi-Fi, LTE
 
-
-
  10/ 15 06/ 16
-
-
 
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, Wi-Fi, Bluetooth,
-
-
 
  LTE, Wi-Fi, LTE, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth, Wi-Fi, LTE
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth, Wi-Fi, LTE
-
-
 
  03/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Bluetooth, Wi-Fi, LTE,
 
-
-
  LTE
-
-
 
  03/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth, Wi-Fi
 
-
-
  10/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, Wi-Fi, LTE
 
-
-
  10/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth, Wi-Fi
-
-
 
  07/ 15 09/ 15
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi,
 
-
-
  Bluetooth, Wi-Fi, LTE
-
-
 
  01/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth
-
-
 
  04/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth
-
-
 
  04/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth
-
-
 
  05/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, WCDMA,
-
-
 
  LTE, GSM, WCDMA, LTE, Wi-Fi,
 
-
-
  Bluetooth
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth, Wi-Fi
-
-
 
  08/ 15 04/ 16
 
-
-
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi, Bluetooth
-
-
 
  07/ 15 05/ 16 CDMA, CDMA, Wi-Fi, Bluetooth
 
-
-
  07/ 15 05/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi, Bluetooth
-
-
 
  07/ 15 04/ 16 CDMA, CDMA, Wi-Fi, Bluetooth
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi,
 
-
-
  Bluetooth
-
-
 
  07/ 15 03/ 16 CDMA, CDMA, Wi-Fi, Bluetooth
 
-
-
  02/ 16 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Bluetooth
 
-
-
  03/ 16 06/ 16
-
-
 
  LTE, CDMA, LTE, CDMA, LTE, Wi-
 
-
-
  Fi, Bluetooth
-
-
 
  03/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi,
 
-
-
  Bluetooth
 
-
-
  03/ 16 06/ 16
-
-
 
  LTE, CDMA, LTE, CDMA, LTE, Wi-
 
-
-
  Fi, Bluetooth
 
-
-
  03/ 16 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Bluetooth
 
-
-
  03/ 16 06/ 16
-
-
 
  LTE, CDMA, LTE, CDMA, LTE, Wi-
 
-
-
  Fi, Bluetooth
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, Wi-Fi, Bluetooth,
 
-
-
  LTE
-
-
 
  07/ 15 08/ 15
 
-
-
  CDMA, LTE, CDMA, LTE, Wi-Fi,
 
-
-
  Bluetooth, LTE
-
-
 
  07/ 15 04/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  Wi-Fi, Bluetooth, LTE
-
-
 
  01/ 16 06/ 16
 
-
-
  CDMA, GSM, WCDMA, LTE, GSM,
-
-
 
  CDMA, WCDMA, LTE, Wi-Fi,
 
-
-
  Bluetooth, LTE
-
-
 
  07/ 15 07/ 15
 
-
-
  CDMA, LTE, CDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, LTE
 
-
-
  07/ 15 12/ 15
-
-
 
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Bluetooth, LTE
 
-
-
  07/ 15 03/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  Wi-Fi, Bluetooth, LTE, Wi-Fi
-
-
 
  04/ 16 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, Wi-Fi, Bluetooth,
-
-
 
  LTE
 
-
-
  07/ 15 10/ 15
-
-
 
  CDMA, GSM, WCDMA, LTE, GSM,
 
-
-
  CDMA, WCDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, LTE, Wi-Fi
 
-
-
  07/ 15 05/ 16
-
-
 
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  Wi-Fi, Bluetooth, LTE, Wi-Fi
-
-
 
  03/ 16 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, Wi-Fi, Bluetooth,
-
-
 
  LTE, Wi-Fi
 
-
-
  07/ 15 10/ 15
-
-
 
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Bluetooth, LTE, Wi-Fi
 
-
-
  04/ 16 06/ 16
-
-
 
  LTE, CDMA, LTE, LTE, CDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth
-
-
 
  07/ 15 03/ 16
 
-
-
  LTE, CDMA, LTE, LTE, CDMA,
-
-
 
  LTE, Wi-Fi, Bluetooth
 
-
-
  07/ 15 08/ 15
-
-
 
  LTE, CDMA, LTE, LTE, CDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth, Wi-Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Bluetooth, Wi-Fi
 
-
-
  07/ 15 01/ 16
 
-
-
  LTE, CDMA, LTE, LTE, CDMA,
-
-
 
  LTE, Wi-Fi, Bluetooth, Wi-Fi
 
-
-
  07/ 15 06/ 16 CDMA, CDMA, Bluetooth
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, GSM, GSM, CDMA,
 
-
-
  Bluetooth
 
-
-
  07/ 15 06/ 16 CDMA, CDMA, Bluetooth
 
-
-
  07/ 15 06/ 16 CDMA, CDMA, Bluetooth
-
-
 
  07/ 15 03/ 16 CDMA, CDMA, Bluetooth
 
-
-
  08/ 15 06/ 16 CDMA, CDMA, Bluetooth
-
-
 
  03/ 16 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  Wi-Fi, Bluetooth
-
-
 
  01/ 16 06/ 16
 
-
-
  LTE, CDMA, LTE, LTE, CDMA,
 
-
-
  LTE, Wi-Fi, Bluetooth
-
-
 
  07/ 15 12/ 15 CDMA, CDMA, Wi-Fi, Bluetooth
 
-
-
  06/ 16 06/ 16
-
-
 
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Bluetooth
 
-
-
  07/ 15 06/ 16
 
-
-
  LTE, CDMA, LTE, CDMA, Wi-Fi,
-
-
 
  Bluetooth
 
-
-
  09/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, CDMA, Wi-Fi,
 
-
-
  Bluetooth, Wi-Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  GSM, CDMA, WCDMA, Wi-Fi,
 
-
-
  Bluetooth, Wi-Fi, LTE
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  Wi-Fi, Bluetooth, Wi-Fi, LTE
-
-
 
  03/ 16 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, CDMA,
-
-
 
  WCDMA, LTE, Wi-Fi, Bluetooth,
 
-
-
  Wi-Fi, LTE
-
-
 
  10/ 15 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Bluetooth, Wi-Fi, LTE
 
-
-
  07/ 15 04/ 16
 
-
-
  LTE, CDMA, LTE, LTE, CDMA,
-
-
 
  LTE, Wi-Fi, Bluetooth
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi
-
-
 
  12/ 15 06/ 16
 
-
-
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  LTE, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi, LTE
 
-
-
  04/ 16 06/ 16
-
-
 
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  LTE, Wi-Fi
 
-
-
  03/ 16 06/ 16
-
-
 
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, GSM, WCDMA, LTE, LTE, Wi-
-
-
 
  Fi, LTE
 
-
-
  07/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  GSM, CDMA, WCDMA, LTE, Wi-Fi
 
-
-
  11/ 15 06/ 16
-
-
 
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, GSM, WCDMA, LTE, LTE, Wi-
-
-
 
  Fi, LTE, LTE, Wi-Fi
 
-
-
  11/ 15 06/ 16
-
-
 
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, GSM, WCDMA, LTE, LTE, Wi-
 
-
-
  Fi, LTE, Wi-Fi
-
-
 
  11/ 15 06/ 16
 
-
-
  GSM, WCDMA, LTE, WCDMA,
-
-
 
  LTE, GSM, WCDMA, LTE, LTE, Wi-
 
-
-
  Fi, LTE, Wi-Fi
-
-
 
  06/ 16 06/ 16
 
-
-
  GSM, WCDMA, LTE, WCDMA,
-
-
 
  LTE, GSM, WCDMA, LTE, LTE, Wi-
 
-
-
  Fi, LTE, Wi-Fi
-
-
 
  10/ 15 06/ 16
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 10/ 15
-
-
 
  GSM, CDMA, WCDMA, GSM,
 
-
-
  CDMA, WCDMA
-
-
 
  07/ 15 03/ 16
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  GSM, CDMA, WCDMA, LTE
 
-
-
  07/ 15 04/ 16
-
-
 
  GSM, WCDMA, LTE, LTE, GSM,
 
-
-
  WCDMA, LTE
-
-
 
  07/ 15 03/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  07/ 15 04/ 16
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA
-
-
 
  07/ 15 06/ 16
 
-
-
  CDMA, GSM, CDMA, WCDMA,
-
-
 
  WCDMA, GSM, CDMA, WCDMA
 
-
-
  07/ 15 05/ 16
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, CDMA, WCDMA, WCDMA,
 
-
-
  GSM, CDMA, WCDMA
-
-
 
  07/ 15 06/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  07/ 15 07/ 15 GSM, CDMA, CDMA, GSM, CDMA
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, CDMA, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, LTE
 
-
-
  07/ 15 07/ 15 GSM, WCDMA, GSM, WCDMA
-
-
 
  07/ 15 10/ 15
 
-
-
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA
-
-
 
  07/ 15 04/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, LTE
-
-
 
  08/ 15 06/ 16
 
-
-
  LTE, CDMA, GSM, CDMA,
 
-
-
  WCDMA, LTE, WCDMA, LTE,
-
-
 
  GSM, CDMA, WCDMA, LTE, Wi-
 
-
-
  Fi, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, GSM, CDMA, WCDMA,
 
-
-
  WCDMA, GSM, CDMA, WCDMA,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 03/ 16
-
-
 
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  GSM, CDMA, WCDMA, LTE, LTE
-
-
 
  07/ 15 06/ 16
 
-
-
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA
-
-
 
  09/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, LTE, Wi-Fi
-
-
 
  08/ 15 06/ 16
 
-
-
  LTE, CDMA, GSM, CDMA,
 
-
-
  WCDMA, LTE, WCDMA, LTE,
-
-
 
  GSM, CDMA, WCDMA, LTE, LTE
 
-
-
  07/ 15 07/ 15 GSM, WCDMA, GSM, WCDMA
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  LTE
 
-
-
  07/ 15 03/ 16
-
-
 
  GSM, WCDMA, LTE, GSM,
 
-
-
  WCDMA, LTE
-
-
 
  07/ 15 02/ 16
 
-
-
  LTE, CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, WCDMA, LTE,
-
-
 
  LTE, GSM, CDMA, WCDMA, LTE
 
-
-
  10/ 15 06/ 16
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, LTE, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, CDMA, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi
 
-
-
  03/ 16 06/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi
 
-
-
  03/ 16 06/ 16
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, CDMA, WCDMA, LTE, GSM,
 
-
-
  LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi,
-
-
 
  LTE
 
-
-
  03/ 16 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi
-
-
 
  03/ 16 06/ 16
 
-
-
  LTE, GSM, CDMA, WCDMA,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 05/ 16
 
-
-
  LTE, GSM, CDMA, WCDMA,
-
-
 
  WCDMA, GSM, CDMA, WCDMA,
 
-
-
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, GSM,
 
-
-
  WCDMA, WCDMA, LTE, GSM,
-
-
 
  GSM, WCDMA, LTE, WCDMA, Wi-
 
-
-
  Fi, Wi-Fi, LTE
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, GSM, CDMA, WCDMA, GSM,
-
-
 
  WCDMA, LTE, GSM, GSM, CDMA,
 
-
-
  WCDMA, WCDMA, Wi-Fi, Wi-Fi
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  GSM, WCDMA, LTE, GSM, GSM,
 
-
-
  CDMA, WCDMA, LTE, WCDMA,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, CDMA, WCDMA, GSM,
 
-
-
  WCDMA, LTE, GSM, GSM, CDMA,
 
-
-
  WCDMA, WCDMA, Wi-Fi, Wi-Fi
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, GSM, CDMA, WCDMA, GSM,
-
-
 
  WCDMA, LTE, GSM, GSM, CDMA,
 
-
-
  WCDMA, WCDMA, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  GSM, WCDMA, GSM, WCDMA,
-
-
 
  GSM, GSM, WCDMA, WCDMA,
 
-
-
  Wi-Fi, Wi-Fi
-
-
 
  08/ 15 06/ 16
 
-
-
  GSM, WCDMA, WCDMA, GSM,
-
-
 
  WCDMA, Wi-Fi, Wi-Fi
 
-
-
  11/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Wi-Fi, LTE
 
-
-
  03/ 16 06/ 16
-
-
 
  LTE, CDMA, LTE, LTE, CDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 12/ 15
 
-
-
  GSM, WCDMA, GSM, WCDMA,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, CDMA, WCDMA, Wi-Fi, Wi-
 
-
-
  Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  CDMA, LTE, GSM, WCDMA, LTE,
-
-
 
  GSM, CDMA, WCDMA, Wi-Fi, Wi-
 
-
-
  Fi
-
-
 
  07/ 15 06/ 16 CDMA, CDMA
-
-
 
  07/ 15 05/ 16
 
-
-
  LTE, CDMA, LTE, CDMA, LTE,
-
-
 
  CDMA, LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, CDMA, LTE, CDMA, LTE,
 
-
-
  Wi-Fi, Wi-Fi
-
-
 
  07/ 15 02/ 16 CDMA, CDMA
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, LTE, GSM, GSM, CDMA,
 
-
-
  Wi-Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16 CDMA, CDMA
 
-
-
  07/ 15 08/ 15
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 08/ 15
 
-
-
  LTE, LTE, GSM, WCDMA,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 04/ 16
 
-
-
  GSM, WCDMA, WCDMA, GSM,
-
-
 
  WCDMA
 
-
-
  07/ 15 07/ 15
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, GSM, WCDMA, Wi-Fi,
 
-
-
  Wi-Fi
-
-
 
  07/ 15 06/ 16 CDMA, CDMA
 
-
-
  03/ 16 06/ 16 GSM, CDMA, GSM, CDMA
-
-
 
  07/ 15 02/ 16 CDMA, CDMA, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, LTE, CDMA, CDMA, LTE,
 
-
-
  Wi-Fi, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, LTE, LTE, CDMA, LTE, Wi-
 
-
-
  Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, CDMA, LTE,
 
-
-
  CDMA, LTE, Wi-Fi, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, CDMA, LTE, CDMA,
 
-
-
  LTE, Wi-Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, LTE, GSM, WCDMA,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi
 
-
-
  07/ 15 07/ 15
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 08/ 15
 
-
-
  LTE, LTE, GSM, WCDMA, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, LTE, CDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 07/ 15
 
-
-
  LTE, LTE, GSM, WCDMA, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi,
-
-
 
  LTE
 
-
-
  05/ 16 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, LTE, Wi-Fi, LTE
 
-
-
  07/ 15 02/ 16
 
-
-
  LTE, CDMA, LTE, GSM, CDMA,
-
-
 
  WCDMA, LTE, GSM, WCDMA, Wi-
 
-
-
  Fi, Wi-Fi
-
-
 
  07/ 15 12/ 15
 
-
-
  CDMA, LTE, GSM, WCDMA, GSM,
-
-
 
  CDMA, WCDMA, LTE, Wi-Fi, LTE,
 
-
-
  Wi-Fi, CDMA
-
-
 
  07/ 15 01/ 16
 
-
-
  LTE, CDMA, LTE, LTE, CDMA,
-
-
 
  LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, CDMA, WCDMA, Wi-Fi, Wi-
-
-
 
  Fi
 
-
-
  07/ 15 03/ 16
-
-
 
  LTE, CDMA, LTE, CDMA, LTE, Wi-
 
-
-
  Fi, Wi-Fi
-
-
 
  07/ 15 02/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  WCDMA, GSM, WCDMA, LTE, Wi-
 
-
-
  Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, LTE, GSM, WCDMA, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi,
 
-
-
  LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, GSM, CDMA,
-
-
 
  WCDMA, LTE, Wi-Fi, LTE, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
 
-
-
  LTE, LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 02/ 16
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi,
-
-
 
  LTE
 
-
-
  07/ 15 02/ 16
 
-
-
  LTE, CDMA, LTE, GSM, CDMA,
-
-
 
  WCDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, LTE, Wi-Fi, LTE, Wi-Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, CDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi, LTE
 
-
-
  07/ 15 04/ 16
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 02/ 16
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi,
-
-
 
  LTE
 
-
-
  07/ 15 02/ 16
 
-
-
  LTE, CDMA, LTE, GSM, CDMA,
-
-
 
  LTE, GSM, CDMA, LTE, Wi-Fi,
 
-
-
  LTE, Wi-Fi
-
-
 
  07/ 15 02/ 16
 
-
-
  LTE, LTE, GSM, CDMA, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 02/ 16
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi
 
-
-
  07/ 15 02/ 16
-
-
 
  LTE, LTE, GSM, CDMA, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi
 
-
-
  02/ 16 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, WCDMA, LTE, GSM,
-
-
 
  CDMA, WCDMA, LTE, Wi-Fi, Wi-
 
-
-
  Fi, LTE, LTE
-
-
 
  02/ 16 06/ 16
 
-
-
  LTE, CDMA, LTE, GSM, CDMA,
-
-
 
  WCDMA, WCDMA, LTE, GSM,
 
-
-
  CDMA, WCDMA, LTE, Wi-Fi, LTE,
-
-
 
  Wi-Fi, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, CDMA, LTE, Wi-
 
-
-
  Fi, Wi-Fi
 
-
-
  03/ 16 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi
-
-
 
  03/ 16 06/ 16
 
-
-
  LTE, LTE, GSM, WCDMA,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi
-
-
 
  12/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, WCDMA, LTE, GSM,
-
-
 
  WCDMA, LTE, Wi-Fi, LTE
 
-
-
  04/ 16 06/ 16
-
-
 
  LTE, LTE, CDMA, LTE, CDMA,
 
-
-
  LTE, Wi-Fi
 
-
-
  03/ 16 06/ 16
-
-
 
  LTE, LTE, GSM, CDMA, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  03/ 16 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi
-
-
 
  04/ 16 06/ 16
 
-
-
  LTE, LTE, GSM, WCDMA,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi
-
-
 
  07/ 15 11/ 15
 
-
-
  LTE, LTE, GSM, WCDMA, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 03/ 16
-
-
 
  CDMA, LTE, GSM, WCDMA, GSM,
 
-
-
  CDMA, WCDMA, LTE, Wi-Fi, LTE,
-
-
 
  Wi-Fi, CDMA
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, LTE, LTE, CDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 03/ 16
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 03/ 16
-
-
 
  LTE, CDMA, GSM, WCDMA, LTE,
 
-
-
  GSM, CDMA, WCDMA, Wi-Fi, Wi-
-
-
 
  Fi
 
-
-
  07/ 15 08/ 15
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 07/ 15
-
-
 
  CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, GSM, CDMA, WCDMA,
-
-
 
  LTE, Wi-Fi, LTE, Wi-Fi
 
-
-
  07/ 15 07/ 15
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 08/ 15
-
-
 
  CDMA, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, CDMA, WCDMA, Wi-Fi, Wi-
-
-
 
  Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, CDMA, WCDMA, LTE, GSM,
 
-
-
  CDMA, LTE, GSM, CDMA,
-
-
 
  WCDMA, LTE, Wi-Fi, LTE, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi,
-
-
 
  LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, CDMA, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
-
-
 
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi, Wi-Fi
 
-
-
  08/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, CDMA, WCDMA,
 
-
-
  LTE, GSM, CDMA, WCDMA, LTE,
 
-
-
  Wi-Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16 CDMA, CDMA, Wi-Fi
 
-
-
  07/ 15 06/ 16 LTE, CDMA, LTE, CDMA, Wi-Fi
-
-
 
  10/ 15 02/ 16 LTE, CDMA, LTE, CDMA, Wi-Fi
 
-
-
  07/ 15 12/ 15
-
-
 
  CDMA, LTE, CDMA, CDMA, LTE,
 
-
-
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 12/ 15
-
-
 
  CDMA, LTE, GSM, CDMA,
 
-
-
  WCDMA, GSM, CDMA, WCDMA,
-
-
 
  LTE, Wi-Fi, LTE, Wi-Fi
 
-
-
  01/ 14 12/ 15
-
-
 
  GSM, WCDMA, GSM, GSM, GSM,
 
-
-
  WCDMA
-
-
 
  01/ 15 12/ 15
 
-
-
  GSM, WCDMA, GSM, GSM, GSM,
-
-
 
  WCDMA, WCDMA
 
-
-
  10/ 14 06/ 16
 
-
-
  CDMA, LTE, CDMA, LTE, Wi-Fi,
-
-
 
  Bluetooth, LTE
 
-
-
  07/ 15 12/ 15
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, GSM, LTE, GSM, WCDMA,
-
-
 
  LTE, WCDMA, LTE, Wi-Fi, Wi-Fi,
 
-
-
  LTE
-
-
 
  07/ 15 12/ 15
 
-
-
  LTE, LTE, GSM, WCDMA, LTE,
-
-
 
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, GSM, LTE, GSM, WCDMA,
-
-
 
  LTE, WCDMA, LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, LTE, GSM, WCDMA, LTE,
 
-
-
  GSM, WCDMA, LTE, WCDMA,
-
-
 
  LTE, GSM, LTE, GSM, WCDMA,
 
-
-
  LTE, WCDMA, LTE, Wi-Fi, Wi-Fi,
-
-
 
  LTE
 
-
-
  07/ 15 07/ 15
-
-
 
  LTE, CDMA, GSM, WCDMA, GSM,
 
-
-
  WCDMA, LTE, GSM, LTE, GSM,
 
-
-
  CDMA, WCDMA, LTE, WCDMA,
-
-
 
  Wi-Fi, Wi-Fi, LTE
 
-
-
  07/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  WCDMA, WCDMA, LTE, GSM,
 
-
-
  GSM, WCDMA, LTE, WCDMA, Wi-
 
-
-
  Fi, Wi-Fi, LTE
-
-
 
  10/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  WCDMA, WCDMA, LTE, GSM,
 
-
-
  GSM, WCDMA, LTE, WCDMA, Wi-
 
-
-
  Fi, Wi-Fi, LTE
-
-
 
  10/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  WCDMA, WCDMA, LTE, GSM,
 
-
-
  GSM, WCDMA, LTE, WCDMA, Wi-
 
-
-
  Fi, Wi-Fi, LTE
-
-
 
  02/ 16 06/ 16
 
-
-
  LTE, LTE, GSM, WCDMA, LTE,
-
-
 
  GSM, WCDMA, LTE, LTE, GSM,
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, Wi-Fi, Wi-Fi, LTE,
 
-
-
  LTE
-
-
 
  10/ 15 03/ 16
 
-
-
  LTE, LTE, GSM, WCDMA, LTE,
-
-
 
  GSM, WCDMA, LTE, LTE, GSM,
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, Wi-Fi, Wi-Fi, LTE,
 
-
-
  LTE
-
-
 
  02/ 16 06/ 16
 
-
-
  LTE, LTE, GSM, WCDMA, LTE,
-
-
 
  GSM, WCDMA, LTE, LTE, GSM,
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, Wi-Fi, Wi-Fi, LTE,
 
-
-
  LTE
 
-
-
  06/ 16 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, GSM,
 
-
-
  WCDMA, WCDMA, LTE, GSM,
-
-
 
  GSM, WCDMA, LTE, WCDMA, Wi-
 
-
-
  Fi, Wi-Fi, LTE
 
-
-
  06/ 16 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, GSM,
 
-
-
  WCDMA, WCDMA, LTE, GSM,
-
-
 
  GSM, WCDMA, LTE, WCDMA, Wi-
 
-
-
  Fi, Wi-Fi, LTE
 
-
-
  06/ 16 06/ 16
-
-
 
  LTE, WCDMA, LTE, GSM,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, WCDMA, LTE, GSM, LTE,
 
-
-
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi, LTE, LTE, LTE
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, WCDMA, LTE, GSM,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, WCDMA, LTE, GSM, LTE,
-
-
 
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi, LTE, LTE, LTE
-
-
 
  06/ 16 06/ 16
 
-
-
  LTE, WCDMA, LTE, GSM,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, WCDMA, LTE, GSM, LTE,
-
-
 
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE, Wi-Fi, Wi-Fi, LTE, LTE, LTE
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, WCDMA,
-
-
 
  LTE, LTE, GSM, WCDMA, Wi-Fi,
 
-
-
  Wi-Fi, LTE, LTE, LTE
-
-
 
  07/ 15 12/ 15
 
-
-
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi
-
-
 
  07/ 15 04/ 16 LTE, CDMA, LTE, CDMA
 
-
-
  07/ 15 08/ 15
-
-
 
  LTE, CDMA, LTE, LTE, CDMA,
 
-
-
  LTE, Wi-Fi, LTE
-
-
 
  07/ 15 11/ 15
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, GSM, WCDMA, LTE,
 
-
-
  WCDMA, GSM, CDMA, WCDMA,
 
-
-
  LTE, Wi-Fi, LTE
-
-
 
  07/ 15 07/ 15
 
-
-
  LTE, GSM, WCDMA, WCDMA,
-
-
 
  LTE, GSM, WCDMA, LTE, Wi-Fi
 
-
-
  07/ 15 12/ 15
-
-
 
  LTE, GSM, WCDMA, WCDMA,
 
-
-
  LTE, GSM, WCDMA, LTE, Wi-Fi
 
-
-
  07/ 15 12/ 15
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, LTE
-
-
 
  07/ 15 04/ 16
 
-
-
  LTE, GSM, WCDMA, LTE,
-
-
 
  WCDMA, LTE, GSM, WCDMA,
 
-
-
  LTE, Wi-Fi, LTE
-
-
 
  07/ 15 12/ 15
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi, LTE
 
-
-
  07/ 15 07/ 15
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi,
 
-
-
  LTE
-
-
 
  07/ 15 11/ 15
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 07/ 15
-
-
 
  CDMA, LTE, CDMA, LTE, Wi-Fi,
 
-
-
  LTE
-
-
 
  07/ 15 04/ 16
 
-
-
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi
-
-
 
  07/ 15 12/ 15 CDMA, CDMA, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, GSM, WCDMA,
-
-
 
  LTE, Wi-Fi
 
-
-
  07/ 15 12/ 15 CDMA, CDMA
-
-
 
  07/ 15 07/ 15 CDMA, CDMA
 
-
-
  07/ 15 07/ 15
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA
-
-
 
  07/ 15 08/ 15
 
-
-
  LTE, GSM, WCDMA, LTE, LTE,
-
-
 
  GSM, WCDMA, LTE, Wi-Fi, LTE
 
-
-
  07/ 15 08/ 15 GSM, WCDMA, GSM, WCDMA
 
-
+ 07/ 15 07/ 15 GSM, WCDMA, GSM, WCDMA
 
  07/ 15 07/ 15 GSM, WCDMA, GSM, WCDMA
 
-
-
  07/ 15 07/ 15 GSM, WCDMA, GSM, WCDMA
-
-
-
- 07/ 15 07/ 15 GSM, WCDMA, GSM, WCDMA
-
-
 
  07/ 15 02/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  07/ 15 07/ 15
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA
-
-
 
  07/ 15 07/ 15 GSM, WCDMA, GSM, WCDMA
 
-
-
  07/ 15 12/ 15
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi
-
-
 
  07/ 15 08/ 15
 
-
-
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi
-
-
 
  07/ 15 07/ 15 LTE, CDMA, LTE, CDMA, Wi-Fi
 
-
-
  07/ 15 08/ 15
-
-
 
  LTE, GSM, WCDMA, LTE, LTE,
 
-
-
  GSM, WCDMA, LTE, Wi-Fi
-
-
 
  07/ 15 11/ 15 CDMA, WCDMA, CDMA, WCDMA
 
-
-
  07/ 15 07/ 15 LTE, CDMA, CDMA, Wi-Fi
-
-
 
  07/ 15 07/ 15
 
-
-
  GSM, WCDMA, GSM, WCDMA,
-
-
 
  Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, GSM, WCDMA, GSM,
 
-
-
  CDMA, WCDMA, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16 Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16
 
-
-
  CDMA, GSM, WCDMA, GSM,
-
-
 
  WCDMA, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  CDMA, GSM, WCDMA, GSM,
 
-
-
  CDMA, WCDMA, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  Wi-Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16 CDMA, CDMA, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16
-
-
 
  GSM, WCDMA, WCDMA, GSM,
 
-
-
  WCDMA, Wi-Fi, Wi-Fi
-
-
 
  07/ 15 06/ 16 CDMA, CDMA, Wi-Fi, Wi-Fi
 
-
-
  07/ 15 06/ 16 Wi-Fi, Wi-Fi
-
-
 
  10/ 15 06/ 16
 
-
-
  LTE, GSM, CDMA, LTE, GSM,
-
-
 
  CDMA, CDMA, LTE, LTE, LTE
 
-
-
  07/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  WCDMA, LTE, WCDMA, LTE,
 
-
-
  LTE, LTE
-
-
 
  11/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  WCDMA, LTE, WCDMA, LTE, LTE
 
-
-
  10/ 15 06/ 16 CDMA, CDMA, CDMA
 
-
-
  06/ 16 06/ 16
-
-
 
  LTE, CDMA, GSM, CDMA,
 
-
-
  WCDMA, LTE, GSM, GSM, GSM,
-
-
 
  CDMA, WCDMA, LTE, WCDMA,
 
-
-
  LTE, LTE
-
-
 
  11/ 15 06/ 16
 
-
-
  CDMA, CDMA, WCDMA, CDMA,
-
-
 
  WCDMA
 
-
-
  06/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  GSM, GSM, WCDMA, LTE,
 
-
-
  WCDMA, LTE, LTE
-
-
 
  09/ 15 06/ 16 CDMA, CDMA, CDMA
 
-
-
  02/ 15 06/ 16 GSM, WCDMA, GSM, WCDMA
-
-
 
  02/ 16 06/ 16
 
-
-
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  WCDMA
-
-
 
  03/ 16 06/ 16 CDMA, CDMA
 
-
-
  05/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  WCDMA, LTE, WCDMA, LTE
 
-
-
  07/ 15 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  GSM, WCDMA, LTE, WCDMA,
 
-
-
  LTE
-
-
 
  07/ 15 06/ 16 CDMA, CDMA, LTE, LTE
 
-
-
  07/ 15 06/ 16
-
-
 
  LTE, GSM, WCDMA, GSM, GSM,
 
-
-
  WCDMA, LTE, WCDMA, LTE
-
-
 
  02/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, GSM,
-
-
 
  WCDMA, LTE, WCDMA, LTE
 
-
-
  06/ 16 06/ 16
 
-
-
  LTE, GSM, WCDMA, LTE, GSM,
-
-
 
  WCDMA, LTE, LTE
 
-
-
  09/ 15 06/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  06/ 16 06/ 16
-
-
 
  LTE, GSM, WCDMA, LTE, GSM,
 
-
-
  WCDMA, LTE, WCDMA, LTE
-
-
 
  07/ 15 06/ 16
 
-
-
  GSM, WCDMA, GSM, WCDMA,
 
-
-
  WCDMA
-
-
 
  12/ 15 06/ 16
 
-
-
  LTE, WCDMA, LTE, GSM, GSM,
 
-
-
  GSM, WCDMA, LTE, LTE
-
-
 
  07/ 15 06/ 16
 
-
-
  LTE, WCDMA, LTE, GSM, GSM,
-
-
 
  GSM, WCDMA, LTE, LTE
 
-
-
  02/ 16 06/ 16 GSM, WCDMA, GSM, WCDMA
-
-
 
  02/ 16 06/ 16
 
-
-
  GSM, WCDMA, GSM, WCDMA,
-
-
 
  WCDMA
 
-
-
  02/ 16 06/ 16 CDMA, CDMA
-
-
 
  06/ 16 06/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  06/ 16 06/ 16
-
-
 
  LTE, GSM, WCDMA, GSM,
 
-
-
  WCDMA, LTE, WCDMA, LTE
-
-
 
  05/ 16 06/ 16 GSM, WCDMA, GSM, WCDMA
 
-
-
  06/ 16 06/ 16
-
-
 
  LTE, CDMA, WCDMA, LTE,
 
-
-
  CDMA, WCDMA, LTE, CDMA,
-
-
 
  WCDMA, LTE
 
-
-
  08/ 15 06/ 16
-
-
 
  CDMA, CDMA, LTE, CDMA, LTE,
 
-
-
  LTE
-
-
 
  Operating Frequency Bands M-Rating M-Rating Cert Date
 
-
-
  M-Rating ANSI Version
-
-
 
  Number T-Rating
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1700, 1900, 1900, 1900, 1900, 2.4,
 
-
-
  5.0 M3 09/10/13 2011 T4
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1700, 1900, 1900, 1900, 1900, 2.4,
 
-
-
  5.0 M3 09/10/13 2011 T4
 
-
-
  700, 800, 800, 850, 850, 850, 850,
 
-
-
  1700, 1700, 1700, 1900, 1900,
-
-
 
  1900, 1900, 2.4, 2.5, 5.0 M3 09/09/14 2011 T4
 
-
-
  700, 800, 800, 850, 850, 850, 850,
 
-
-
  1700, 1700, 1700, 1900, 1900,
-
-
 
  1900, 1900, 2.4, 2.5, 5.0 M3 09/09/14 2011 T4
 
-
-
  700, 800, 800, 850, 850, 850, 850,
-
-
 
  1700, 1700, 1700, 1900, 1900,
 
-
-
  1900, 1900, 2.4, 2.5, 5.0, 2300 M3 09/09/15 2011 T4
-
-
 
  700, 800, 800, 850, 850, 850, 850,
 
-
-
  1700, 1700, 1700, 1900, 1900,
 
-
-
  1900, 1900, 2.4, 2.5, 5.0, 2300 M3 09/09/15 2011 T4
-
-
 
  700, 800, 850, 850, 850, 1700,
-
-
 
  1700, 1700, 1900, 1900, 1900,
-
-
 
  1900, 2.4, 5.0 M3 03/21/16 2011 T4
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1700, 1700, 1900, 1900, 1900,
-
-
 
  1900, 2.4, 2.5, 5.0 M3 03/21/16 2011 T4
 
-
-
  850, 850, 1900, 1900, 2.4, 5.0 M3 11/17/14 2011 T4
-
-
 
  850, 1900, 2.4, 5.0 M3 12/31/14 2011 T4
 
-
-
  850, 850, 1700, 1900, 1900, 2.4,
-
-
 
  5.0 M3 11/18/14 2011 T4
 
-
-
  850, 1900, 2.4, 5.0 M3 12/31/14 2011 T4
-
-
 
  850, 850, 1700, 1900, 1900, 2.4 M3 03/20/15 2011 T4
 
-
-
  850, 850, 1900, 1900, 2.4, 5.0 M4 09/11/14 2011 T4
 
-
-
  850, 850, 1700, 1900, 1900, 2.4,
-
-
 
  5.0 M4 07/30/14 2011 N/A
 
-
-
  850, 850, 1700, 1900, 1900, 2.4,
-
-
 
  5.0 M3 01/22/15 2011 T4
 
-
-
  850, 850, 1700, 1900, 1900, 2.4 M3 07/09/13 2007 T4
-
-
 
  800, 1900, 2.4, 5.0 M3 09/28/13 2011 T4
 
-
-
  850, 850, 1700, 1900, 1900, 2.4,
-
-
 
  5.0 M3 09/28/13 2011 T4
 
-
-
  850, 850, 900, 1700, 1800, 1900,
-
-
 
  1900 M3 01/25/14 2011 T3
 
-
-
  850, 900, 1800, 1900 N/A N/A N/A N/A
-
-
 
  850, 850, 900, 1800, 1900 N/A N/A N/A N/A
 
-
-
  700, 850, 850, 900, 1700, 1700,
-
-
 
  1800, 1900, 1900, 1900, 2.4, 2600 M3 08/14/15 2011 T4
 
-
-
  700, 850, 850, 850, 900, 1700,
-
-
 
  1700, 1800, 1900, 1900, 2100, 2.4,
 
-
-
  2600 M3 07/20/15 2011 T3
-
-
 
  700, 850, 850, 850, 900, 1700,
 
-
-
  1700, 1800, 1800, 1900, 1900,
-
-
 
  1900, 2100, 2.4, 2600 M4 08/25/14 2011 T4
 
-
-
  850, 850, 900, 1800, 1900, 1900,
-
-
 
  2100, 2.4 N/A N/A N/A N/A
 
-
-
  850, 850, 1900, 1900, 2.4 N/A N/A N/A N/A
-
-
 
  700, 800, 1700, 1900, 2.4, 5.0 M4 04/29/15 2011 T3
 
-
-
  850, 850, 1800, 1900, 1900 M3 06/29/12 2007 T4
-
-
 
  850, 850, 1800, 1900, 1900 M3 04/03/14 2007 T4
 
-
-
  700, 850, 850, 850, 900, 1700,
 
-
-
  1700, 1800, 1900, 1900, 1900,
-
-
 
  2100, 2.4 M3 03/10/16 2011 T4
 
-
-
  850, 850, 1900, 1900 M3 06/21/13 2007 T3
 
-
-
  850, 850, 850, 1900, 1900, 1900,
-
-
 
  2.4, 5.0 M4 06/03/13 2011 T4
 
-
-
  850, 850, 850, 1900, 1900, 1900,
 
-
-
  2.4, 5.0 M4 06/03/13 2011 T4
-
-
 
  850, 850, 1900, 1900 M3 11/18/11 2007 T3
 
-
-
  850, 850, 1700, 1900, 1900 M3 09/06/11 2007 T3
 
-
-
  700, 850, 850, 850, 850, 1700,
-
-
 
  1700, 1900, 1900, 1900, 1900 M3 07/16/15 2011 T4
 
-
-
  850, 850, 900, 1800, 1900, 1900 M4 07/27/15 2011 T3
-
-
 
  800, 850, 900, 1800, 1900, 1900,
 
-
-
  2100 M3 03/03/15 2011 T3
-
-
 
  850, 1700, 1900, 2100 M3 03/03/15 2011 T4
 
-
-
  800, 1900, 1900, 2100 M3 03/03/15 2011 T4
 
-
-
  800, 1900, 1900, 2100 M3 03/03/15 2011 T4
-
-
 
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 1900, 2100 M4 06/22/15 2011 T4
 
-
-
  850, 850, 900, 1800, 1900, 1900,
-
-
 
  2100 M4 06/27/15 2011 T4
 
-
-
  850, 850, 900, 1800, 1900, 1900,
-
-
 
  2100 M4 07/13/15 2011 T4
 
-
-
  800, 1900, 1900, 2100 M4 06/18/15 2011 T4
-
-
 
  800, 1900, 1900, 2100 M4 07/20/15 2011 T4
 
-
-
  850, 850, 900, 1800, 1900, 1900,
-
-
 
  2100 M3 10/02/15 2011 T4
 
-
-
  800, 1900, 1900, 2100 M4 10/02/15 2011 T3
-
-
 
  800, 1900 M4 04/22/16 2011 T4
 
-
-
  800, 1900, 1900, 2100 M4 03/31/16 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4 N/A N/A N/A N/A
 
-
-
  700, 850, 850, 850, 900, 1700,
-
-
 
  1700, 1800, 1900, 1900, 1900, 2.4,
 
-
-
  2.5 N/A N/A N/A N/A
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.5 M3 12/16/14 2011 T3
 
-
-
  700, 850, 850, 850, 900, 1700,
 
-
-
  1700, 1800, 1900, 1900, 1900,
-
-
 
  2100, 2.4, 2.5 N/A N/A N/A N/A
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M4 04/25/14 2011 T4
 
-
-
  700, 800, 800, 850, 850, 850, 850,
-
-
 
  900, 900, 1700, 1700, 1800, 1900,
 
-
-
  1900, 1900, 1900, 2100, 2.4, 2.5,
-
-
 
  5.0, 2300 M3 09/28/15 2011 T4
 
-
-
  850, 850, 900, 1800, 1900, 1900 M3 04/22/13 2007 T4
-
-
 
  800, 800, 850, 850, 850, 850, 900,
 
-
-
  1800, 1900, 1900, 1900, 2.4, 2.5 M3 06/09/15 2011 T3
-
-
 
  850, 850, 1700, 1900, 1900, 2.4 M3 05/13/14 2011 T3
 
-
-
  800, 1900 M4 06/04/15 2011 T4
 
-
-
  850, 850, 1900, 1900 M4 06/05/15 2011 T3
-
-
 
  850, 1900 M4 06/04/15 2011 T4
 
-
-
  850, 850, 1900, 1900 M4 06/05/15 2011 T3
 
-
-
  850, 1900 M4 06/04/15 2011 T4
-
-
 
  800, 800, 1900, 1900 M4 06/05/15 2011 T3
 
-
-
  850, 850, 850, 1700, 1900, 1900,
-
-
 
  1900 M3 04/21/14 2011 N/A
 
-
-
  800, 1900 M4 05/29/15 2011 T3
-
-
 
  800, 1900, 2.4, 2.4 M4 01/21/14 2011 N/A
 
-
-
  850, 850, 1900, 1900, 2.4, 2.4 N/A N/A N/A N/A
-
-
 
  850, 850, 1900, 1900 M3 06/02/15 2011 T3
 
-
-
  850, 850, 1900, 1900, 2.4 M3 10/17/13 2011 T4
-
-
 
  850, 850, 1900, 1900, 2.4 M3 06/20/14 2011 T4
 
-
-
  850, 850, 1900, 1900, 2.4 M3 10/18/13 2011 T4
-
-
 
  850, 850, 1900, 1900, 2.4, 2.4 M3 04/11/14 2011 T3
 
-
-
  850, 850, 1700, 1900, 1900, 2.4,
-
-
 
  2.4 M3 03/10/14 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 5.0 M4 07/15/14 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 5.0, 2600 M3 08/05/14 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 5.0, 2600 M3 05/19/14 2011 T3
 
-
-
  700, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 2.5, 5.0 M3 05/19/14 2011 T3
 
-
-
  700, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4 M3 04/15/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
 
-
-
  1900, 1900, 2.4, 2.4, 5.0 M3 03/04/15 2011 T3
-
-
 
  700, 850, 850, 1700, 1700, 1900,
 
-
-
  1900, 1900, 2.4, 2.4, 5.0 M3 03/04/15 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 5.0 M3 05/18/15 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 5.0, 2300 M3 08/31/15 2011 T4
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1700, 1900, 1900, 1900, 1900, 2.4,
-
-
 
  2.4, 2.5, 5.0, 2300, 2600 M3 10/02/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
 
-
-
  1900, 1900, 1900, 2.4, 2.4, 5.0,
-
-
 
  2600 M3 04/30/15 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
 
-
-
  1900, 1900, 1900, 2.4, 2.4, 5.0,
-
-
 
  2600 M3 05/01/15 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4, 5.0,
 
-
-
  2300, 2600 M3 03/15/16 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4, 5.0 M3 03/15/16 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 5.0, 2300 M4 10/09/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4, 5.0 M4 10/09/15 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 5.0, 2600 M3 03/06/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4 M3 12/16/15 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4 M3 02/27/16 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4 M3 01/29/16 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4 M3 05/02/16 2011 T3
 
-
-
  700, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4 M3 04/18/16 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4, 5.0 M3 05/31/16 2011 T4
 
-
-
  850, 850, 1900, 1900, 2.4, 2.4 M3 01/07/15 2011 T3
-
-
 
  800, 1900, 2.4, 2.4 M4 01/07/15 2011 T3
 
-
-
  850, 850, 1900, 1900, 2.4, 2.4 M3 01/30/15 2011 T3
-
-
 
  800, 1900, 2.4, 2.4 M4 01/22/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4 M3 03/22/15 2011 T4
 
-
-
  800, 1900, 2.4, 2.4 M4 12/18/13 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4 M3 12/28/15 2011 T3
 
-
-
  700, 800, 1700, 1900, 1900, 2.4,
-
-
 
  2.4 M4 01/05/16 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4 M3 02/16/16 2011 T3
 
-
-
  700, 800, 1700, 1900, 1900, 2.4,
-
-
 
  2.4 M4 01/07/16 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.4 M3 01/21/16 2011 T3
 
-
-
  700, 800, 1700, 1900, 1900, 2.4,
-
-
 
  2.4 M4 01/27/16 2011 T4
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1700, 1900, 1900, 1900, 1900, 2.4,
-
-
 
  2.4, 2.5 M3 05/09/16 2011 T3
 
-
-
  800, 850, 1900, 1900, 2.4, 2.4, 2.5 M4 07/28/14 2011 T4
-
-
 
  700, 800, 850, 850, 850, 1700,
 
-
-
  1900, 1900, 1900, 1900, 2.4, 2.4,
-
-
 
  2.5 M4 05/07/15 2011 T4
 
-
-
  800, 850, 850, 850, 1900, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 2.5 M3 12/08/15 2011 T3
 
-
-
  800, 850, 1900, 1900, 2.4, 2.4, 2.5 M4 01/28/14 2011 T4
-
-
 
  700, 800, 850, 850, 850, 1700,
 
-
-
  1900, 1900, 1900, 1900, 2.4, 2.4,
-
-
 
  2.5 M4 04/26/15 2011 T4
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1900, 1900, 1900, 1900, 2.4, 2.4,
-
-
 
  2.5, 5.0 M4 03/10/15 2011 T4
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1700, 1900, 1900, 1900, 1900, 2.4,
-
-
 
  2.4, 2.5 M3 02/25/16 2011 T3
 
-
-
  800, 850, 850, 850, 1900, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 2.5, 5.0 M4 06/05/14 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1900, 1900, 1900, 1900, 2.4, 2.4,
-
-
 
  2.5, 5.0 M3 05/07/15 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1700, 1900, 1900, 1900, 1900, 2.4,
-
-
 
  2.4, 2.5, 5.0 M3 03/15/16 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1900, 1900, 1900, 1900, 2.4, 2.4,
-
-
 
  2.5, 5.0 M3 11/26/14 2011 T4
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4, 2.4 M4 02/04/16 2011 T4
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4, 2.4 M4 03/25/15 2011 T4
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4, 2.4, 5.0 M4 08/18/14 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1900, 1900, 1900, 1900, 2.4, 2.4,
-
-
 
  5.0 M3 05/06/15 2011 T3
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4, 2.4, 5.0 M4 01/08/15 2011 T4
 
-
-
  800, 1900, 2.4 M4 04/18/14 2011 T4
-
-
 
  800, 850, 1900, 1900, 2.4 M4 05/18/15 2011 T4
 
-
-
  800, 1900, 2.4 M4 06/03/11 2007 T4
-
-
 
  800, 1900, 2.4 M4 01/16/14 2011 T4
 
-
-
  800, 1900, 2.4 M4 05/16/13 2011 T4
-
-
 
  800, 1900, 2.4 M4 05/28/15 2011 T4
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 2.4 M3 02/23/16 2011 T3
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4, 2.4 M4 12/10/15 2011 T3
 
-
-
  800, 1900, 2.4, 2.4 M4 02/21/14 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 2.4 M3 04/12/16 2011 T3
 
-
-
  700, 800, 1700, 1900, 2.4, 2.4 M4 09/22/14 2011 T4
-
-
 
  700, 800, 1700, 1900, 2.4, 2.4, 5.0 M4 05/21/14 2011 T4
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2.4, 5.0, 2600 M4 06/03/14 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1900, 1900, 1900, 1900, 2.4, 2.4,
-
-
 
  5.0, 2600 M3 05/06/15 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
 
-
-
  1700, 1900, 1900, 1900, 1900, 2.4,
-
-
 
  2.4, 5.0, 2600 M3 03/15/16 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 2.4,
 
-
-
  5.0, 2600 M4 10/05/15 2011 T4
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4, 2.4 M3 04/04/15 2011 T4
 
-
-
  850, 850, 1900, 1900, 2.4 N/A N/A N/A N/A
 
-
-
  850, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.5, 750, 2450 M3 10/22/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2600 M3 02/24/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2600 M3 02/11/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2600 M3 02/12/15 2011 T4
 
-
-
  850, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.5, 750, 2450 M4 01/08/16 2011 T4
 
-
-
  850, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.5, 2450, 2600 M4 02/04/16 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 1900, 2.4 M4 11/04/14 2011 T3
 
-
-
  850, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.5, 5.0, 750, 2300,
 
-
-
  2450 M4 11/04/15 2011 T4
 
-
-
  850, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.5, 5.0, 750, 2450 M4 11/11/15 2011 T4
 
-
-
  850, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.5, 5.0, 750, 2450 M4 10/27/15 2011 T4
 
-
-
  850, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.5, 5.0, 750, 2450 M3 10/05/15 2011 T4
 
-
-
  700, 850, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.5, 2.5,
 
-
-
  5.0 M3 07/10/15 2011 T3
-
-
 
  850, 850, 850, 1900, 1900, 1900 M3 07/03/13 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 1900 M4 09/11/14 2011 T3
 
-
-
  850, 850, 850, 1700, 1900, 1900,
-
-
 
  1900 M4 10/07/14 2011 T3
 
-
-
  850, 850, 1900, 1900 M3 01/12/15 2011 T3
-
-
 
  850, 850, 1700, 1900, 1900 M3 01/28/15 2011 T3
 
-
-
  800, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900 M3 01/22/15 2011 T3
 
-
-
  850, 850, 1700, 1900, 1900 M3 01/14/15 2011 T3
-
-
 
  850, 850, 850, 1700, 1900, 1900,
 
-
-
  1900 M3 01/27/15 2011 T3
-
-
 
  850, 850, 1900, 1900 M3 04/10/14 2011 T3
 
-
-
  850, 850, 1700, 1900, 1900 M3 04/17/14 2011 T4
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1700, 1900, 1900, 1900, 1900, 2.5 M3 05/20/16 2011 T4
 
-
-
  850, 850, 1900, 1900 M3 09/17/13 2011 T4
-
-
 
  850, 850, 1700, 1900, 1900 M3 02/13/14 2011 T3
 
-
-
  850, 850, 1900, 1900 M3 06/26/14 2011 T4
-
-
 
  850, 850, 1700, 1900, 1900 M3 07/16/14 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.5 M4 05/29/15 2011 T3
 
-
-
  700, 800, 850, 850, 850, 850,
 
-
-
  1700, 1700, 1900, 1900, 1900,
-
-
 
  1900, 2.4, 2.5 M3 07/09/15 2011 T3
 
-
-
  800, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M4 09/09/14 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 1900, 2500 M4 09/02/14 2011 T4
 
-
-
  850, 850, 1700, 1900, 1900 M4 08/24/14 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.5, 5.0 M4 07/02/15 2011 T4
 
-
-
  700, 800, 850, 850, 850, 850,
 
-
-
  1700, 1700, 1900, 1900, 1900,
-
-
 
  1900, 2.5 M4 07/07/15 2011 T4
 
-
-
  850, 850, 1900, 1900 M3 05/10/13 2007 T3
 
-
-
  700, 850, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.5 M3 06/15/16 2011 T3
 
-
-
  850, 850, 850, 1900, 1900, 2.5 M4 10/24/14 2011 T4
-
-
 
  700, 800, 800, 850, 850, 850, 850,
 
-
-
  1700, 1700, 1800, 1900, 1900,
-
-
 
  1900, 2.5 M4 10/24/14 2011 T4
 
-
-
  700, 850, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 2.5,
 
-
-
  5.0 M4 08/12/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M3 06/17/13 2007 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M4 09/30/13 2007 T3
 
-
-
  850, 850, 1900, 1900, 2.4 N/A N/A N/A N/A
-
-
 
  850, 850, 1700, 1900, 1900, 2.4 M3 03/25/13 2007 T4
 
-
-
  850, 850, 1900, 1900, 2.4 N/A N/A N/A N/A
 
-
-
  850, 850, 1900, 1900, 2.4 N/A N/A N/A N/A
-
-
 
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2600 M3 05/28/14 2011 T3
 
-
-
  850, 850, 850, 850, 1900, 1900,
-
-
 
  2.4, 2.5 M3 09/25/14 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0, 2600 M4 09/18/14 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M3 10/15/12 2007 T3
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M3 07/03/13 2007 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M4 09/14/13 2011 T4
 
-
-
  700, 850, 850, 850, 900, 900,
 
-
-
  1700, 1700, 1800, 1900, 1900,
-
-
 
  1900, 2100, 2.4, 5.0, 2600 M4 03/20/15 2011 T3
 
-
-
  700, 850, 850, 850, 900, 900,
 
-
-
  1700, 1800, 1900, 1900, 1900,
-
-
 
  2100, 2.4, 5.0 M3 10/27/14 2011 T4
 
-
-
  700, 850, 850, 850, 850, 900, 900,
 
-
-
  1700, 1800, 1900, 1900, 1900,
-
-
 
  1900, 2100, 2.4, 5.0 M3 05/17/16 2011 T3
 
-
-
  700, 850, 850, 850, 900, 900,
-
-
 
  1700, 1800, 1900, 1900, 1900,
 
-
-
  2100, 2.4, 5.0 M3 03/06/15 2011 T3
-
-
 
  700, 850, 850, 850, 900, 900,
 
-
-
  1700, 1800, 1900, 1900, 1900,
 
-
-
  2100, 2.4, 5.0 M3 03/06/15 2011 T3
-
-
 
  850, 850, 900, 900, 1800, 1900,
 
-
-
  1900, 2100, 2.4, 5.0 M3 04/20/12 2007 T3
 
-
-
  850, 850, 1700, 1900, 1900, 2.4,
-
-
 
  5.0 M4 07/24/15 2011 N/A
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0, 2300 M3 10/22/15 2011 T4
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4, 5.0 M3 12/23/15 2011 T4
 
-
-
  850, 850, 1900, 1900, 2.4, 5.0 M3 06/02/14 2011 T3
 
-
-
  800, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M3 10/17/13 2011 T3
 
-
-
  800, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M3 03/29/13 2007 N/A
 
-
-
  800, 1900 M4 01/31/12 2007 T4
-
-
 
  700, 800, 800, 1700, 1700, 1900,
 
-
-
  1900, 2.4, 5.0 M4 03/27/13 2007 N/A
-
-
 
  800, 1700, 1700, 1900, 1900, 2.4,
 
-
-
  5.0 M4 05/03/13 2007 N/A
-
-
 
  800, 1900 M4 01/30/12 2007 T4
 
-
-
  800, 800, 850, 1900, 1900, 2.4, 5.0 M4 06/01/12 2007 N/A
-
-
 
  800, 1900 M4 03/15/13 2007 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M3 04/01/13 2007 N/A
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M3 04/05/13 2007 N/A
 
-
-
  850, 850, 1700, 1900, 1900 M3 01/29/14 2011 N/A
-
-
 
  700, 850, 850, 1700, 1800, 1900,
 
-
-
  1900, 2.4, 5.0 M3 09/13/13 2011 T3
-
-
 
  800, 1900 M4 01/21/14 2011 T4
 
-
-
  850, 850, 1900, 1900 M3 01/28/16 2011 T4
-
-
 
  800, 1900, 2.4 M4 03/10/14 2011 T4
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4 M3 02/05/15 2011 T3
 
-
-
  800, 800, 850, 1900, 1900, 2.4, 2.5 M3 11/24/14 2011 T4
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4 M3 05/11/15 2011 T3
 
-
-
  800, 800, 1700, 1900, 1900, 2.4 M3 12/30/14 2011 T4
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M3 06/11/14 2011 T3
 
-
-
  700, 800, 900, 900, 1700, 1900,
-
-
 
  1900, 1900, 2.4 M3 02/04/15 2011 T3
 
-
-
  700, 800, 800, 850, 1700, 1900,
-
-
 
  1900, 2.4, 2.5 M4 06/05/15 2011 T4
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4 M4 05/18/15 2011 T4
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4 M3 05/19/15 2011 T4
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4 M3 05/04/16 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M3 07/24/14 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M3 08/15/14 2011 T3
 
-
-
  700, 800, 800, 1700, 1900, 1900,
-
-
 
  2.4, 5.0 M4 09/15/14 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 5.0 M3 05/08/14 2011 T4
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0, 2300 M3 05/12/15 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.5, 5.0,
 
-
-
  2300 M3 04/22/16 2011 T3
 
-
-
  700, 800, 800, 850, 850, 850,
-
-
 
  1700, 1900, 1900, 2.4, 5.0 M3 03/07/14 2011 T3
 
-
-
  800, 800, 850, 850, 1900, 1900,
-
-
 
  1900, 1900, 2.4, 2.5, 5.0, 820 M3 03/07/14 2011 T3
 
-
-
  700, 800, 800, 1700, 1900, 1900,
-
-
 
  2.4, 5.0 M4 03/10/14 2011 T4
 
-
-
  800, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M3 03/07/14 2011 T3
 
-
-
  700, 800, 1700, 1900, 1900, 2.4,
-
-
 
  5.0 M4 04/21/14 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1800,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M3 03/07/14 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0, 2300 M3 03/02/15 2011 T3
 
-
-
  700, 800, 800, 850, 850, 850,
-
-
 
  1700, 1900, 1900, 1900, 1900, 2.4,
 
-
-
  2.5, 5.0 M4 03/02/15 2011 T3
-
-
 
  700, 800, 850, 850, 850, 1700,
 
-
-
  1900, 1900, 1900, 1900, 2.4, 5.0 M4 03/03/15 2011 T3
 
-
-
  700, 800, 800, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 5.0 M4 04/14/15 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 2.4, 5.0 M3 03/02/15 2011 T3
 
-
-
  700, 800, 800, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 5.0 M4 03/19/15 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0, 2300 M4 03/19/15 2011 T3
 
-
-
  700, 800, 800, 850, 850, 850,
 
-
-
  1700, 1900, 1900, 1900, 1900, 2.4,
-
-
 
  2.5, 5.0 M4 03/02/15 2011 T3
 
-
-
  700, 800, 800, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 5.0 M4 03/03/15 2011 T3
 
-
-
  700, 800, 800, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 5.0,
 
-
-
  782 M4 04/14/15 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M4 03/01/15 2011 T3
 
-
-
  700, 800, 800, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 5.0 M4 03/19/15 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0, 2300 M4 07/15/15 2011 T3
 
-
-
  700, 800, 800, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2.5, 5.0 M4 07/21/15 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 5.0 M4 07/16/15 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 5.0 M4 07/16/15 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 5.0 M4 07/15/15 2011 T3
 
-
-
  700, 800, 800, 850, 850, 850,
 
-
-
  1700, 1700, 1900, 1900, 1900,
-
-
 
  1900, 2.4, 5.0, 2300, 2500 M4 02/03/16 2011 T3
 
-
-
  700, 800, 800, 850, 850, 850,
-
-
 
  1700, 1700, 1900, 1900, 1900,
 
-
-
  1900, 2.4, 2.5, 5.0, 2300 M4 02/03/16 2011 T3
-
-
 
  700, 800, 1700, 1900, 1900, 2.4,
 
-
-
  5.0 M4 04/15/15 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4 M3 01/28/16 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4 M3 02/19/16 2011 T4
 
-
-
  700, 800, 800, 850, 850, 850,
-
-
 
  1700, 1700, 1900, 1900, 1900, 2.4,
 
-
-
  2.5 M3 11/17/15 2011 T4
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4 M4 03/11/16 2011 T4
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 5.0 M3 03/03/16 2011 T4
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4 M3 01/18/16 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4 M3 04/01/16 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M4 09/25/14 2011 T3
 
-
-
  800, 800, 850, 850, 1900, 1900,
-
-
 
  1900, 1900, 2.4, 2.5, 5.0, 820 M4 09/11/14 2011 T3
 
-
-
  700, 800, 800, 1700, 1900, 1900,
-
-
 
  2.4, 5.0 M4 09/16/14 2011 T4
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M4 11/18/14 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M4 09/12/14 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M4 10/07/14 2011 T3
 
-
-
  800, 800, 850, 850, 850, 1900,
-
-
 
  1900, 1900, 1900, 2.4, 2.5, 5.0 M4 10/16/14 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M3 10/08/14 2011 T3
 
-
-
  800, 800, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M4 11/19/14 2011 T3
 
-
-
  700, 800, 800, 800, 850, 850,
-
-
 
  1700, 1900, 1900, 1900, 1900, 2.4,
 
-
-
  2.5, 5.0 M4 07/15/15 2011 T3
-
-
 
  700, 800, 850, 850, 1700, 1900,
 
-
-
  1900, 1900, 2.4, 5.0, 2300 M4 07/21/15 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 5.0 M4 07/16/15 2011 T3
 
-
-
  700, 800, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 5.0 M4 07/16/15 2011 T3
 
-
-
  700, 800, 850, 850, 850, 1700,
-
-
 
  1900, 1900, 1900, 1900, 2.4, 5.0 M4 07/15/15 2011 T3
 
-
-
  800, 1900, 2.4 M4 03/20/15 2011 T3
-
-
 
  700, 850, 1700, 1900, 2.4 M4 03/26/15 2011 T4
 
-
-
  700, 850, 1700, 1900, 2.4 M4 04/13/15 2011 T3
-
-
 
  800, 800, 850, 1900, 1900, 2.4, 5.0 M4 04/25/14 2011 N/A
 
-
-
  800, 800, 850, 850, 850, 1900,
-
-
 
  1900, 1900, 1900, 2.4, 2.5, 5.0 M3 10/21/13 2011 N/A
 
-
-
  850, 850, 900, 1800, 1900, 1900 M3 09/10/14 2007 T3
-
-
 
  850, 850, 900, 1800, 1900, 1900,
 
-
-
  2100 M3 09/10/14 2007 T3
-
-
 
  800, 800, 1900, 1900, 2.4, 2.4, 2.5 M4 07/22/14 2011 T4
 
-
-
  700, 800, 850, 850, 850, 900, 900,
-
-
 
  900, 1700, 1700, 1800, 1800,
 
-
-
  1900, 1900, 1900, 2100, 2100, 2.4,
-
-
 
  5.0, 2600 M3 08/11/14 2011 T4
 
-
-
  700, 800, 850, 850, 850, 900, 900,
-
-
 
  900, 1700, 1700, 1800, 1800,
 
-
-
  1900, 1900, 1900, 2100, 2100, 2.4,
-
-
 
  5.0 M4 03/28/14 2011 T3
 
-
-
  700, 800, 850, 850, 850, 900, 900,
-
-
 
  900, 1700, 1700, 1800, 1800,
 
-
-
  1900, 1900, 1900, 2100, 2100, 2.4,
-
-
 
  5.0, 2600 M3 07/15/14 2011 T3
 
-
-
  700, 800, 850, 850, 900, 900,
-
-
 
  1700, 1800, 1800, 1900, 1900,
 
-
-
  1900, 1900, 2100, 2.4, 5.0, 2600 M4 08/08/14 2011 T3
-
-
 
  700, 850, 850, 850, 900, 900,
 
-
-
  1700, 1700, 1800, 1900, 1900,
-
-
 
  1900, 2100, 2.4, 2.5, 2600 M3 03/31/15 2011 T4
 
-
-
  700, 850, 850, 850, 900, 900,
 
-
-
  1700, 1700, 1800, 1900, 1900,
-
-
 
  1900, 2100, 2.4, 5.0, 2600 M4 04/20/15 2011 T3
 
-
-
  700, 850, 850, 850, 900, 900,
 
-
-
  1700, 1700, 1800, 1900, 1900,
-
-
 
  1900, 2100, 2.4, 5.0, 2600 N/A N/A N/A N/A
 
-
-
  700, 800, 850, 850, 850, 900, 900,
-
-
 
  900, 1700, 1800, 1800, 1900,
 
-
-
  1900, 1900, 2100, 2100, 2.4, 5.0,
-
-
 
  2600, 2300 M3 09/15/15 2011 T4
 
-
-
  700, 800, 850, 850, 850, 900, 900,
-
-
 
  900, 1700, 1800, 1800, 1900,
 
-
-
  1900, 1900, 2100, 2100, 2.4, 5.0,
-
-
 
  2600, 2300 M4 05/11/15 2011 T3
 
-
-
  700, 800, 850, 850, 850, 900, 900,
-
-
 
  900, 1700, 1800, 1800, 1900,
 
-
-
  1900, 1900, 2100, 2100, 2.4, 5.0,
-
-
 
  2600, 2300 M4 09/13/15 2011 T4
 
-
-
  700, 850, 850, 850, 900, 900,
 
-
-
  1700, 1700, 1800, 1900, 1900,
-
-
 
  1900, 2100, 2.4, 5.0, 2600 M4 02/02/16 2011 T4
 
-
-
  700, 850, 850, 850, 900, 900,
-
-
 
  1700, 1700, 1800, 1900, 1900,
 
-
-
  1900, 2100, 2.4, 5.0, 2600 M4 06/04/16 2011 T4
 
-
-
  700, 800, 800, 850, 850, 850, 900,
-
-
 
  900, 900, 1700, 1700, 1800, 1800,
 
-
-
  1900, 1900, 1900, 2100, 2100, 2.4,
-
-
 
  5.0, 2600, 2300, 2500 M4 04/14/16 2011 T3
 
-
-
  700, 800, 800, 850, 850, 850, 900,
-
-
 
  900, 900, 1700, 1700, 1800, 1800,
 
-
-
  1900, 1900, 1900, 2100, 2100, 2.4,
-
-
 
  5.0, 2600, 2300, 2500 M4 04/14/16 2011 T3
 
-
-
  700, 800, 800, 850, 850, 850, 900,
-
-
 
  900, 900, 1700, 1700, 1800, 1800,
 
-
-
  1900, 1900, 1900, 2100, 2100, 2.4,
-
-
 
  5.0, 2600, 2300, 2500 M4 04/30/16 2011 T4
 
-
-
  800, 850, 850, 1700, 1700, 1800,
-
-
 
  1900, 1900, 2.4, 5.0, 777, 788, 704 M3 03/27/15 2011 T3
 
-
-
  850, 850, 1700, 1900, 1900, 2.4 M3 08/12/15 2011 T3
-
-
 
  700, 800, 1700, 1900 M4 03/10/16 2011 T4
 
-
-
  700, 800, 850, 1700, 1900, 1900,
-
-
 
  2.4, 2500 M4 06/12/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2600 M3 08/21/15 2011 N/A
 
-
-
  800, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 1900, 2.4, 2500 N/A N/A N/A N/A
 
-
-
  700, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.4 M4 02/16/15 2011 T3
 
-
-
  700, 850, 850, 1700, 1700, 1900,
-
-
 
  1900, 1900, 2.4 M4 09/17/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 2.4, 2600 M4 09/01/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1700,
-
-
 
  1900, 1900, 1900, 5.0, 2300 M4 02/01/16 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2600 M3 09/13/15 2011 T3
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0, 2600 M3 04/21/15 2011 N/A
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 5.0 M4 09/01/15 2011 T4
 
-
-
  800, 850, 1900, 1900, 2.4, 2500 M4 06/10/15 2011 T4
-
-
 
  850, 850, 1700, 1900, 1900, 2.4 M3 12/23/15 2011 N/A
 
-
-
  800, 1900, 2.4 M4 07/08/15 2011 T4
-
-
 
  700, 850, 850, 850, 1700, 1700,
 
-
-
  1900, 1900, 1900, 2.4 M3 02/24/16 2011 T3
-
-
 
  800, 1900 M3 09/09/15 2011 T4
 
-
-
  800, 1900 M4 06/26/14 2011 T4
-
-
 
  850, 850, 1700, 1900, 1900 M3 06/11/14 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4, 2600 M3 06/17/15 2011 N/A
 
-
-
  850, 850, 1900, 1900 M4 07/03/14 2007 T3
-
-
 
  850, 850, 1900, 1900 M4 06/20/14 2011 T4
 
-
-
  850, 850, 1900, 1900 M3 03/07/14 2007 N/A
-
-
 
  850, 850, 1900, 1900 M3 10/18/12 2007 T3
 
-
-
  850, 850, 1900, 1900 M4 12/09/14 2011 T3
-
-
 
  850, 850, 1700, 1900, 1900 M3 08/19/14 2011 T4
 
-
-
  850, 850, 1900, 1900 M3 05/29/13 2007 T4
-
-
 
  850, 850, 1700, 1900, 1900, 2.4 M3 04/03/15 2011 T4
 
-
-
  850, 850, 1700, 1900, 1900, 2.4 M3 05/14/15 2011 N/A
-
-
 
  700, 800, 1700, 1900, 2.4 M4 02/12/15 2011 T4
 
-
-
  700, 850, 850, 850, 1700, 1900,
-
-
 
  1900, 1900, 2.4 M4 01/21/15 2011 T4
 
-
-
  800, 800, 1900, 1900 M4 06/27/14 2011 T4
-
-
 
  700, 800, 1900, 2.4 M4 02/05/15 2007 T4
 
-
-
  850, 850, 1900, 1900, 2.4 M3 09/03/13 2007 N/A
 
-
-
  800, 850, 850, 1900, 1900, 1900,
-
-
 
  2.4, 5.0 M3 05/07/10 2007 T3
 
-
-
  2.4, 5.0 N/A N/A N/A N/A
-
-
 
  850, 850, 1900, 1900, 2.4, 5.0 M3 12/12/12 2007 T3
 
-
-
  800, 850, 850, 1900, 1900, 2.4, 5.0 N/A N/A N/A N/A
-
-
 
  850, 850, 1900, 1900, 2.4, 5.0 N/A N/A N/A N/A
 
-
-
  800, 850, 850, 1900, 1900, 1900,
 
-
-
  2.4, 5.0 N/A N/A N/A N/A
-
-
 
  850, 850, 1900, 1900, 2.4, 5.0 M4 08/07/09 2007 T3
 
-
-
  800, 1900, 2.4, 5.0 M4 08/07/09 2007 T3
-
-
 
  850, 850, 1700, 1900, 1900, 2.4,
 
-
-
  5.0 M4 09/09/13 2011 T4
-
-
 
  1800, 1900, 2.4, 5.0 M4 02/19/14 2011 T3
 
-
-
  2.4, 5.0 N/A N/A N/A N/A
 
-
-
  700, 850, 850, 850, 1900, 1900,
-
-
 
  2100, 2100, 2300, 2600 M4 08/28/15 2011 T4
 
-
-
  700, 850, 850, 850, 1900, 1900,
-
-
 
  1900, 2100, 2100, 2300, 2600 M4 06/30/15 2011 T4
 
-
-
  700, 850, 850, 850, 1900, 1900,
-
-
 
  1900, 2100, 2100, 2600 M4 09/25/15 2011 T4
 
-
-
  800, 850, 1900 M4 08/18/15 2011 T3
-
-
 
  700, 800, 850, 850, 850, 850, 900,
 
-
-
  1800, 1900, 1900, 1900, 1900,
-
-
 
  2100, 2100, 2.5 M4 05/10/16 2011 T4
 
-
-
  800, 850, 850, 1900, 1900 M3 09/28/15 2011 T3
 
-
-
  700, 850, 850, 850, 900, 1800,
-
-
 
  1900, 1900, 1900, 2100, 2100, 2.5 M4 03/31/16 2011 T4
 
-
-
  800, 850, 1900 M4 07/16/15 2011 T3
-
-
 
  850, 850, 1900, 1900 M3 12/02/15 2011 T4
 
-
-
  850, 850, 1900, 1900, 2100 M4 12/21/15 2011 T3
-
-
 
  800, 1900 M4 01/04/16 2011 T3
 
-
-
  700, 850, 850, 850, 1900, 1900,
-
-
 
  1900, 2100, 2100 M4 03/31/16 2011 T4
 
-
-
  700, 850, 850, 850, 900, 1800,
-
-
 
  1900, 1900, 2100, 2100 M3 05/12/15 2011 T3
 
-
-
  800, 1900, 2100, 750 M4 05/18/15 2011 T4
 
-
-
  700, 850, 850, 900, 1800, 1900,
-
-
 
  1900, 2100, 2100 M4 05/13/15 2011 T3
 
-
-
  700, 850, 850, 1900, 1900, 1900,
-
-
 
  2100, 2100 M3 12/08/15 2011 T3
 
-
-
  700, 850, 850, 850, 1900, 1900,
-
-
 
  1900, 2100 M4 04/13/16 2011 T3
 
-
-
  850, 850, 1900, 1900 M4 07/10/15 2011 T3
-
-
 
  700, 850, 850, 850, 1900, 1900,
 
-
-
  1900, 2100, 2100 M4 05/17/16 2011 T4
-
-
 
  850, 850, 1900, 1900, 2100 M4 07/17/14 2011 T4
 
-
-
  700, 850, 850, 900, 1800, 1900,
-
-
 
  1900, 1900, 2100 M3 10/08/15 2011 T3
 
-
-
  700, 850, 850, 900, 1800, 1900,
-
-
 
  1900, 1900, 2100 M3 05/12/15 2011 T3
 
-
-
  850, 850, 1900, 1900 M4 12/16/15 2011 T3
-
-
 
  850, 850, 1900, 1900, 2100 M4 12/17/15 2011 T3
 
-
-
  800, 1900 M4 12/22/15 2011 T4
-
-
 
  850, 850, 1900, 1900 M4 05/25/16 2011 T3
 
-
-
  700, 850, 850, 1900, 1900, 1900,
-
-
 
  2100, 2100 M4 06/01/16 2011 T3
 
-
-
  850, 850, 1900, 1900 M4 03/09/16 2011 T3
-
-
 
  700, 800, 850, 850, 1900, 1900,
 
-
-
  1900, 2100, 2100, 2100 M3 05/27/16 2011 T3
-
-
 
  800, 850, 850, 1900, 1900, 2.5 M4 06/29/15 2011 T4
 
-
-
  T-Rating Cert Date
-
-
 
  T-Rating ANSI Version
 
-
-
  Number Remarks
-
-
 
  09/10/13 2011
 
-
-
  modifies the handset's acoustic settings to improve
-
-
 
  compatibility with hearing aids set in "T" or telecoil
 
-
-
  mode.
-
-
 
  (2) iPhone 5c is compatible with Made for iPhone
 
-
-
  hearing aids.
-
-
 
  (3) Support for iPhone 5c frequency bands and air
 
-
-
  interfaces varies based on the carrier to which the
 
-
-
  handset is assigned.
-
-
 
  (4) iPhone 5c supports additional frequency bands that
 
-
-
  do not operate in U.S. territories and that were not
 
-
-
  certified under U.S. HAC rules.
-
-
 
  09/10/13 2011
 
-
-
  modifies the handset's acoustic settings to improve
-
-
 
  compatibility with hearing aids set in "T" or telecoil
 
-
-
  mode.
-
-
 
  (2) iPhone 5s is compatible with Made for iPhone
 
-
-
  hearing aids.
-
-
 
  (3) Support for iPhone 5s frequency bands and air
 
-
-
  interfaces varies based on the carrier to which the
 
-
-
  handset is assigned.
-
-
 
  (4) iPhone 5s supports additional frequency bands that
 
-
-
  do not operate in U.S. territories and that were not
-
-
 
  certified under U.S. HAC rules.
 
-
-
  09/09/14 2011
-
-
 
  (1) iPhone 6 includes a Hearing Aid Mode that modifies
 
-
-
  the handset's acoustic settings to improve compatibility
-
-
 
  with hearing aids set in "T" or telecoil mode.
 
-
-
  (2) iPhone 6 is compatible with Made for iPhone
 
-
-
  hearing aids.
-
-
 
  (3) Support for iPhone 6 frequency bands and air
 
-
-
  interfaces varies based on the carrier to which the
 
-
-
  handset is assigned.
-
-
 
  (4) iPhone 6 supports additional frequency bands that
 
-
-
  do not operate in U.S. territories and that were not
 
-
-
  certified under U.S. HAC rules.
-
-
 
  09/09/14 2011
 
-
-
  modifies the handset's acoustic settings to improve
-
-
 
  compatibility with hearing aids set in "T" or telecoil
 
-
-
  mode.
-
-
 
  (2) iPhone 6 Plus is compatible with Made for iPhone
 
-
-
  hearing aids.
-
-
 
  (3) Support for iPhone 6 Plus frequency bands and air
 
-
-
  interfaces varies based on the carrier to which the
 
-
-
  handset is assigned.
-
-
 
  (4) iPhone 6 Plus supports additional frequency bands
 
-
-
  that do not operate in U.S. territories and that were not
-
-
 
  certified under U.S. HAC rules.
 
-
-
  09/09/15 2011
-
-
 
  modifies the handset's acoustic settings to improve
 
-
-
  compatibility with hearing aids set in "T" or telecoil
 
-
-
  mode.
-
-
 
  (2) iPhone 6s is compatible with Made for iPhone
 
-
-
  hearing aids.
-
-
 
  (3) Support for iPhone 6s frequency bands and air
 
-
-
  interfaces varies based on the carrier to which the
 
-
-
  handset is assigned.
-
-
 
  (4) iPhone 6s supports additional frequency bands that
 
-
-
  do not operate in U.S. territories and that were not
 
-
-
  certified under U.S. HAC rules.
-
-
 
  09/09/15 2011
 
-
-
  modifies the handset's acoustic settings to improve
-
-
 
  compatibility with hearing aids set in "T" or telecoil
 
-
-
  mode.
-
-
 
  (2) iPhone 6s Plus is compatible with Made for iPhone
 
-
-
  hearing aids.
-
-
 
  (3) Support for iPhone 6s Plus frequency bands and air
 
-
-
  interfaces varies based on the carrier to which the
 
-
-
  handset is assigned.
-
-
 
  (4) iPhone 6s Plus supports additional frequency bands
 
-
-
  that do not operate in U.S. territories and that were not
 
-
-
  certified under U.S. HAC rules.
-
-
 
  03/21/16 2011
 
-
-
  modifies the handset's acoustic settings to improve
-
-
 
  compatibility with hearing aids set in "T" or telecoil
 
-
-
  mode.
-
-
 
  (2) iPhone SE is compatible with Made for iPhone
 
-
-
  hearing aids.
-
-
 
  (3) Support for iPhone SE frequency bands and air
 
-
-
  interfaces varies based on the carrier to which the
-
-
 
  handset is assigned.
 
-
-
  (4) iPhone SE supports additional frequency bands that
-
-
 
  do not operate in U.S. territories and that were not
 
-
-
  certified under U.S. HAC rules.
-
-
 
  03/21/16 2011
 
-
-
  modifies the handset's acoustic settings to improve
-
-
 
  compatibility with hearing aids set in "T" or telecoil
 
-
-
  mode.
-
-
 
  (2) iPhone SE is compatible with Made for iPhone
 
-
-
  hearing aids.
-
-
 
  (3) Support for iPhone SE frequency bands and air
 
-
-
  interfaces varies based on the carrier to which the
-
-
 
  handset is assigned.
 
-
-
  (4) iPhone SE supports additional frequency bands that
-
-
 
  do not operate in U.S. territories and that were not
 
-
-
  certified under U.S. HAC rules.
-
-
 
  11/17/14 2011
 
-
-
  Wi-Fi frequency band of 5000 MHz comprised of three
-
-
 
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  12/31/14 2011
 
-
-
  Only CDMA bands are available for use in standard out-
-
-
 
  of-box configuration.  GSM/UMTS bands are not
 
-
-
  available for use in standard out-of-box configuration.
-
-
 
  Wi-Fi frequency band of 5000 MHz comprised of three
 
-
-
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  11/18/14 2011
 
-
-
  Wi-Fi frequency band of 5000 MHz comprised of three
-
-
 
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  12/31/14 2011
 
-
-
  Only CDMA bands are available for use in standard out-
-
-
 
  of-box configuration.  GSM/UMTS bands are not
 
-
-
  available for use in standard out-of-box configuration.
-
-
 
  Wi-Fi frequency band of 5000 MHz comprised of three
 
-
-
  sub-bands with transmitting frequency range:  5200
-
-
 
  MHz, 5500 MHz and 5800 MHz.
 
-
-
  03/20/15 2011 N/A
-
-
 
  09/11/14 2011
 
-
-
  Wi-Fi frequency band of 5000 MHz comprised of three
-
-
 
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  N/A N/A
 
-
-
  Wi-Fi frequency band of 5000 MHz comprised of three
-
-
 
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  01/22/15 2011
 
-
-
  Wi-Fi frequency band of 5000 MHz comprised of three
-
-
 
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  07/09/13 2007 N/A
 
-
-
  09/28/13 2011
-
-
 
  Only CDMA bands are available for use in standard out-
 
-
-
  of-box configuration.  GSM/UMTS bands are not
-
-
 
  available for use in standard out-of-box configuration.
 
-
-
  Wi-Fi frequency band of 5000 MHz comprised of three
-
-
 
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  09/28/13 2011
 
-
-
  Wi-Fi frequency band of 5000 MHz comprised of three
-
-
 
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  01/25/14 2011 N/A
 
-
-
  N/A N/A N/A
 
-
-
  N/A N/A N/A
-
-
 
  08/14/15 2011 N/A
 
-
-
  07/20/15 2011 N/A
-
-
 
  08/25/14 2011 N/A
 
-
-
  N/A N/A N/A
 
-
-
  N/A N/A N/A
-
-
 
  04/29/15 2011 N/A
 
-
-
  06/29/12 2007 N/A
-
-
 
  04/03/14 2007 N/A
 
-
-
  03/10/16 2011 N/A
-
-
 
  06/21/13 2007 N/A
 
-
-
  06/03/13 2011 N/A
 
-
-
  06/03/13 2011 N/A
-
-
 
  11/18/11 2007 N/A
 
-
-
  09/06/11 2007 N/A
 
-
-
  07/16/15 2011 N/A
-
-
 
  07/27/15 2011 N/A
 
-
+ 03/03/15 2011 N/A
 
  03/03/15 2011 N/A
 
-
-
  03/03/15 2011 N/A
 
-
-
  03/03/15 2011 N/A
-
-
-
- 03/03/15 2011 N/A
-
-
 
  06/22/15 2011 N/A
 
-
-
  06/26/15 2011 N/A
-
-
 
  07/13/15 2011 N/A
 
-
-
  06/18/15 2011 N/A
-
-
 
  07/20/15 2011 N/A
 
-
-
  10/02/15 2011 N/A
 
-
-
  10/02/15 2011 N/A
-
-
 
  04/22/16 2011 N/A
 
-
-
  03/31/16 2011 N/A
 
-
-
  N/A N/A N/A
 
-
-
  N/A N/A N/A
-
-
 
  12/16/14 2011 N/A
 
-
-
  N/A N/A N/A
-
-
 
  04/25/14 2011 N/A
 
-
-
  09/28/15 2011 N/A
-
-
 
  04/22/13 2007 N/A
 
-
-
  06/09/15 2011 N/A
-
-
 
  05/13/14 2011 N/A
 
-
-
  06/04/15 2011 N/A
-
-
 
  06/05/15 2011 N/A
 
-
-
  06/04/15 2011 N/A
-
-
 
  06/05/15 2011 N/A
 
-
-
  06/04/15 2011 N/A
 
-
-
  06/05/15 2011 N/A
-
-
 
  N/A N/A N/A
-
-
 
  05/29/15 2011
 
-
-
  Marketing name
-
-
 
  - LG108C
 
-
-
  - LG109C
-
-
 
  N/A N/A
 
-
-
  Marketing name
-
-
 
  - LG305C
 
-
-
  N/A N/A
 
-
-
  Marketing name
-
-
 
  - LG306G
 
-
-
  06/02/15 2011
 
-
-
  Marketing name
-
-
 
  - LG328BG
 
-
-
  - LG329G
-
-
 
  10/17/13 2011 Marketing name: F4R
 
-
-
  06/20/14 2011
 
-
-
  Marketing name
-
-
 
  - LG-B460, LG-B470, LG-B471: F4NR
 
-
-
  - LG441G: LG441G
-
-
 
  10/18/13 2011
 
-
-
  Marketing name
-
-
 
  - Xpression 2
 
-
-
  04/11/14 2011
 
-
-
  Marketing name
-
-
 
  - Optimus L70
 
-
-
  03/10/14 2011
 
-
-
  Marketing name
-
-
 
  - Optimus L90
 
-
-
  07/15/14 2011
 
-
-
  Marketing name
-
-
 
  - G Vista
 
-
-
  08/05/14 2011
 
-
-
  Marketing name
-
-
 
  - G Vigor
 
-
-
  05/19/14 2011
-
-
 
  Marketing name
 
-
-
  - G3
-
-
 
  05/19/14 2011
 
-
-
  Marketing name
 
-
-
  - G3
-
-
 
  04/15/15 2011
 
-
-
  Marketing name
-
-
 
  - LG Leon
 
-
-
  03/04/15 2011
 
-
-
  Marketing name
-
-
 
  - Escape 2
 
-
-
  03/04/15 2011
 
-
-
  Marketing name
-
-
 
  - LG G Stylo
 
-
-
  05/18/15 2011
-
-
 
  Marketing name
 
-
-
  - G Stylo
-
-
 
  08/31/15 2011
 
-
-
  Marketing name
-
-
 
  - G Vista2
 
-
-
  10/02/15 2011
 
-
-
  Marketing name
-
-
 
  - N3
 
-
-
  04/30/15 2011
-
-
 
  Marketing name
 
-
-
  - G4
-
-
 
  05/01/15 2011
 
-
-
  Marketing name
-
-
 
  - G4
 
-
-
  03/15/16 2011
 
-
-
  Marketing name
-
-
 
  - G5
 
-
-
  03/15/16 2011
 
-
-
  Marketing name
-
-
 
  - LG G5
 
-
-
  10/09/15 2011
 
-
-
  Marketing name
-
-
 
  - V10
 
-
-
  10/09/15 2011
 
-
-
  Marketing name
-
-
 
  - LG V10
 
-
-
  03/06/15 2011
 
-
-
  Marketing name
-
-
 
  - G Flex 2
 
-
-
  12/16/15 2011
 
-
-
  Marketing name
-
-
 
  - LG-AS330: M1
 
-
-
  - LG-K330/LG-MS330: LG K7
-
-
 
  - LGL51AL: Treasure
 
-
-
  02/27/16 2011
 
-
-
  Marketing name
-
-
 
  - Phoenix 2
 
-
-
  01/29/16 2011
 
-
-
  Marketing name
-
-
 
  - Escape 3
 
-
-
  05/02/16 2011
 
-
-
  Marketing name
-
-
 
  - M2
 
-
-
  04/18/16 2011
 
-
-
  Marketing name
-
-
 
  - LG K10
 
-
-
  05/31/16 2011
 
-
-
  Marketing name
-
-
 
  - LG Stylus 2 Plus
 
-
-
  01/07/15 2011
 
-
-
  Marketing name
-
-
 
  - Sunrise
 
-
-
  01/07/15 2011
 
-
-
  Marketing name
-
-
 
  - Lucky
 
-
-
  01/30/15 2011
 
-
-
  Marketing name
-
-
 
  - Destiny
 
-
-
  01/22/15 2011
 
-
-
  Marketing name
-
-
 
  - Power
 
-
-
  03/22/15 2011
 
-
-
  Marketing name
-
-
 
  - LGL33L: Sunset
 
-
-
  - LG-H343: Risio
-
-
 
  12/18/13 2011
 
-
-
  Marketing name
-
-
 
  - LGL34C: Optimus Fuel
 
-
-
  - LG-VS415PP: LG Optimus Zone 2
-
-
 
  12/28/15 2011
 
-
-
  Marketing name
-
-
 
  - LGL43AL: Rebel
 
-
-
  - LG-K120: Spree
-
-
 
  01/05/16 2011
 
-
-
  Marketing name
-
-
 
  - Treasure
 
-
-
  02/16/16 2011
-
-
 
  Marketing name
 
-
-
  - Premier
-
-
 
  01/07/16 2011
 
-
-
  Marketing name
-
-
 
  - Premier
 
-
-
  01/21/16 2011
-
-
 
  Marketing name
 
-
-
  - Stylo 2
-
-
 
  01/27/16 2011
 
-
-
  Marketing name
-
-
 
  - Stylo 2
 
-
-
  05/09/16 2011
 
-
-
  Marketing name
-
-
 
  - K3
 
-
-
  07/28/14 2011
 
-
-
  Marketing name
-
-
 
  - Tribute
 
-
-
  05/07/15 2011
 
-
-
  Marketing name
-
-
 
  - Tribute2
 
-
-
  12/08/15 2011
 
-
-
  Marketing name
-
-
 
  - Tribute5
 
-
-
  01/28/14 2011
 
-
-
  Marketing name
-
-
 
  - Volt
 
-
-
  04/26/15 2011
 
-
-
  Marketing name
-
-
 
  - Volt 2
 
-
-
  03/10/15 2011
 
-
-
  Marketing name
-
-
 
  - G Stylo
 
-
-
  02/25/16 2011
 
-
-
  Marketing name
-
-
 
  - G Stylo 2
 
-
-
  06/05/14 2011
-
-
 
  Marketing name
 
-
-
  - G3
-
-
 
  05/07/15 2011
 
-
-
  Marketing name
-
-
 
  - G4
 
-
-
  03/15/16 2011
 
-
-
  Marketing name
-
-
 
  - LGLS992: G5
 
-
-
  - LG-AS992: Alice
-
-
 
  11/26/14 2011
 
-
-
  Marketing name
-
-
 
  - G Flex2
 
-
-
  02/04/16 2011
 
-
-
  Marketing name
-
-
 
  - K8
 
-
-
  03/25/15 2011
 
-
-
  Marketing name
-
-
 
  - LOGOS
 
-
-
  08/18/14 2011
 
-
-
  Marketing name
-
-
 
  - G3
 
-
-
  05/06/15 2011
-
-
 
  Marketing name
 
-
-
  - G4
-
-
 
  01/08/15 2011
 
-
-
  Marketing name
-
-
 
  - G Flex2
 
-
-
  04/18/14 2011
 
-
-
  Marketing name
-
-
 
  - LG237C: LG237C
 
-
-
  - LG-AN170/LG-UN170/LG-UN170PP: F200c
-
-
 
  - LG-VN170: LG Revere 3
 
-
-
  05/18/15 2011
 
-
-
  Marketing name
-
-
 
  - LG Terra
 
-
-
  06/03/11 2007
 
-
-
  Marketing name
-
-
 
  - LG Cosmos 3
 
-
-
  01/16/14 2011
 
-
-
  Marketing name
-
-
 
  - LG-VN280: Extravert 2
 
-
-
  - LG-UN280/LG-UN280PP: Q400c
-
-
 
  05/16/13 2011
 
-
-
  Marketing name
-
-
 
  - LG-VN360: Exalt
 
-
-
  - LG-UN530: WINE III
-
-
 
  05/28/15 2011
 
-
-
  Marketing name
-
-
 
  - LG-VN370: LG Exalt 2
 
-
-
  - LG-UN540: WINE 5
-
-
 
  02/23/16 2011
 
-
-
  Marketing name
-
-
 
  - LG K4 LTE
 
-
-
  12/10/15 2011
 
-
-
  Marketing name
-
-
 
  - LG-VS425PP: LG Zone 3
 
-
-
  - LGL44VL: Rebel
-
-
 
  02/21/14 2011
 
-
-
  Marketing name
-
-
 
  - LG Optimus Exceed 2
 
-
-
  04/12/16 2011
 
-
-
  Marketing name
-
-
 
  - LG K8 V
 
-
-
  09/22/14 2011
 
-
-
  Marketing name
-
-
 
  - LG Transpyre
 
-
-
  05/21/14 2011
 
-
-
  Marketing name
-
-
 
  - LG G Vista
 
-
-
  06/03/14 2011
 
-
-
  Marketing name
-
-
 
  - G3
 
-
-
  05/06/15 2011
 
-
-
  Marketing name
-
-
 
  - G4
 
-
-
  03/15/16 2011
 
-
-
  Marketing name
-
-
 
  - LG-VS987/LG-VS987T: G5
 
-
-
  - LG-US992/LG-RS988: Alice
-
-
 
  10/05/15 2011
 
-
-
  Marketing name
-
-
 
  - V10
 
-
-
  04/04/15 2011
-
-
 
  Marketing name
 
-
-
  - LG Lancet
 
-
-
  N/A N/A N/A
-
-
 
  10/22/15 2011 N/A
 
-
-
  02/24/15 2011 N/A
-
-
 
  02/11/15 2011
 
-
-
  This device was marketed as the "Microsoft Lumia
-
-
 
  640XL". The (a) designation is included solely for the
 
-
-
  purpose of filing this report, as per instructions from
-
-
 
  FCC staff, to distinguish this device from another
 
-
-
  device also marketed as the Microsoft Lumia 640XL,
 
-
-
  which is listed in this report as the Microsoft Lumia
-
-
 
  640XL(b).
 
-
-
  02/12/15 2011
 
-
-
  This device was marketed as the "Microsoft Lumia
-
-
 
  640XL". The (b) designation is included solely for the
 
-
-
  purpose of filing this report, as per instructions from
 
-
-
  FCC staff, to distinguish this device from another
-
-
 
  device also marketed as the Microsoft Lumia 640XL,
 
-
-
  which is listed in this report as the Microsoft Lumia
-
-
 
  640XL(a).
 
-
-
  01/08/16 2011
 
-
-
  This device was marketed as the "Microsoft Lumia
-
-
 
  650". The (a) designation is included solely for the
 
-
-
  purpose of filing this report, as per instructions from
-
-
 
  FCC staff, to distinguish this device from another
 
-
-
  device also marketed as the Microsoft Lumia 650,
 
-
-
  which is listed in this report as the Microsoft Lumia
-
-
 
  650(b).
 
-
-
  02/04/16 2011
 
-
-
  This device was marketed as the "Microsoft Lumia
-
-
 
  650". The (b) designation is included solely for the
 
-
-
  purpose of filing this report, as per instructions from
 
-
-
  FCC staff, to distinguish this device from another
-
-
 
  device also marketed as the Microsoft Lumia 650,
 
-
-
  which is listed in this report as the Microsoft Lumia
-
-
 
  650(a).
 
-
-
  11/04/14 2011 N/A
-
-
 
  11/04/15 2011
 
-
-
  This device was marketed as the "Microsoft Lumia
-
-
 
  950". The (a) designation is included solely for the
 
-
-
  purpose of filing this report, as per instructions from
-
-
 
  FCC staff, to distinguish this device from another
 
-
-
  device also marketed as the Microsoft Lumia 950,
 
-
-
  which is listed in this report as the Microsoft Lumia
-
-
 
  950(b).
 
-
-
  11/11/15 2011
 
-
-
  This device was marketed as the "Microsoft Lumia
-
-
 
  950". The (b) designation is included solely for the
 
-
-
  purpose of filing this report, as per instructions from
 
-
-
  FCC staff, to distinguish this device from another
-
-
 
  device also marketed as the Microsoft Lumia 950,
 
-
-
  which is listed in this report as the Microsoft Lumia
-
-
 
  950(a).
 
-
-
  10/27/15 2011
 
-
-
  This device was marketed as the "Microsoft Lumia
-
-
 
  950XL". The (a) designation is included solely for the
 
-
-
  purpose of filing this report, as per instructions from
-
-
 
  FCC staff, to distinguish this device from another
 
-
-
  device also marketed as the Microsoft Lumia 950XL,
 
-
-
  which is listed in this report as the Microsoft Lumia
-
-
 
  950XL(b).
 
-
-
  10/05/15 2011
-
-
 
  This device was marketed as the "Microsoft Lumia
 
-
-
  950XL". The (b) designation is included solely for the
-
-
 
  purpose of filing this report, as per instructions from
 
-
-
  FCC staff, to distinguish this device from another
-
-
 
  device also marketed as the Microsoft Lumia 950XL,
 
-
-
  which is listed in this report as the Microsoft Lumia
-
-
 
  950XL(a).
 
-
-
  07/10/15 2011 N/A
-
-
 
  07/03/13 2011 N/A
 
-
-
  09/11/14 2011 N/A
 
-
-
  10/07/14 2011 N/A
-
-
 
  01/12/15 2011 N/A
 
-
-
  01/28/15 2011 N/A
-
-
 
  01/22/15 2011 N/A
 
-
-
  01/14/15 2011 N/A
-
-
 
  01/27/15 2011 N/A
 
-
-
  04/10/14 2011 N/A
-
-
 
  04/17/14 2011 N/A
 
-
-
  05/20/16 2011 N/A
-
-
 
  09/17/13 2011 N/A
 
-
-
  02/13/14 2011 N/A
 
-
-
  06/26/14 2011 N/A
-
-
 
  07/16/14 2011 N/A
 
-
-
  05/29/15 2011 N/A
-
-
 
  07/09/15 2011 N/A
 
-
-
  09/09/14 2011 N/A
-
-
 
  09/02/14 2011 N/A
 
-
-
  08/24/14 2011 N/A
-
-
 
  07/02/15 2011 N/A
 
-
-
  07/07/15 2011 N/A
-
-
 
  05/10/13 2007 N/A
 
-
-
  06/15/16 2011 N/A
 
-
-
  10/24/14 2011 N/A
 
-
-
  10/24/14 2011 N/A
-
-
 
  08/12/15 2011 N/A
-
-
 
  06/17/13 2007 N/A
 
-
-
  09/30/13 2007 N/A
 
-
-
  N/A N/A N/A
-
-
 
  03/25/13 2007 N/A
 
-
-
  N/A N/A N/A
 
-
-
  N/A N/A N/A
-
-
 
  05/28/14 2011
 
-
-
  This device was marketed as the "Nokia Lumia 635".
-
-
 
  The (a) designation is included solely for the purpose
 
-
-
  of filing this report, as per instructions from FCC staff,
 
-
-
  to distinguish this device from another device also
-
-
 
  marketed as Nokia Lumia 635, which is listed in this
 
-
-
  report as the Nokia Lumia 635(b).
-
-
 
  09/25/14 2011
 
-
-
  This device was marketed as the "Nokia Lumia 635".
-
-
 
  The (b) designation is included solely for the purpose
 
-
-
  of filing this report, as per instructions from FCC staff,
-
-
 
  to distinguish this device from another device also
 
-
-
  marketed as the Nokia Lumia 635, which is listed in
-
-
 
  this report as the Nokia Lumia 635(a).
 
-
-
  09/18/14 2011 N/A
-
-
 
  10/15/12 2007 N/A
 
-
-
  07/03/13 2007 N/A
-
-
 
  09/14/13 2011 N/A
 
-
-
  03/20/15 2011
-
-
 
  1.  Digital Camera is the primary function of DMC-CM1
 
-
-
  2.  DMC-CM1:  Additional Voluntary testing for OTT-
-
-
 
  VOIP (Wi-Fi) HAC testing was performed per ANSI
 
-
-
  C63.19-2011
-
-
 
  10/27/14 2011
 
-
-
  1.  FZ-E1 Series is a Business Rugged 5-inch tablet
 
-
-
  and is not intended to be marketed as a consumer
-
-
 
  product
 
-
-
  2.  FZ-E1 Series:  Additional Voluntary testing for OTT-
-
-
 
  VOIP (Wi-Fi) HAC testing was performed per ANSI
 
-
-
  C63.19-2011
-
-
 
  05/17/16 2011
 
-
-
  FZ-N1 series is not intended to be marketed as a
-
-
 
  consumer product.
 
-
-
  FZ-N1 Series: Additional Voluntary testing for OTT-
-
-
 
  VOIP (Wi-Fi) HAC testing was performed per ANSI
 
-
-
  C63.19-2011
 
-
-
  03/06/15 2011
-
-
 
  1. FZ-X1 Series is a  Business Rugged 5-inch tablet
 
-
-
  and is not intended to be marketed as a consumer
-
-
 
  product.
 
-
-
  2.  FZ-X1 Series:  Additional Voluntary testing for OTT-
-
-
 
  VOIP (Wi-Fi & Cellular data modes) HAC testing was
 
-
-
  performed per ANSI C63.19-2011
-
-
 
  03/06/15 2011
 
-
-
  This FZ-X1CB series is not intended to be marketed as
-
-
 
  a consumer product.
 
-
-
  This handset has not yet been offered for sale
-
-
 
  04/20/12 2007 2.4GHz and 5GHz bands were not tested for HAC
 
-
-
  N/A N/A
-
-
 
  Wi-Fi frequency band of 5000 MHz comprised of three
 
-
-
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  10/22/15 2011
 
-
-
  Wi-Fi frequency band of 5000 MHz comprised of three
-
-
 
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  12/23/15 2011
 
-
-
  CDMA and LTE bands are available for use in
-
-
 
  standard out-of-box configuration.  GSM/WCDMA
 
-
-
  bands are not available for use in standard out-of-box
-
-
 
  configuration.
 
-
-
  Wi-Fi frequency band of 5000 MHz comprised of three
-
-
 
  sub-bands with transmitting frequency range:  5200
 
-
-
  MHz, 5500 MHz and 5800 MHz.
-
-
 
  06/02/14 2011 N/A
 
-
-
  10/17/13 2011 N/A
 
-
-
  N/A N/A N/A
-
-
 
  01/31/12 2007 N/A
 
-
-
  N/A N/A N/A
 
-
-
  N/A N/A N/A
-
-
 
  01/30/12 2007 N/A
 
-
-
  N/A N/A N/A
-
-
 
  03/15/13 2007 N/A
 
-
+ N/A N/A N/A
 
  N/A N/A N/A
 
-
-
  N/A N/A N/A
-
-
-
- N/A N/A N/A
-
-
 
  09/13/13 2011 N/A
 
-
-
  01/21/14 2011 N/A
-
-
 
  01/28/16 2011 N/A
 
-
-
  03/10/14 2011 N/A
-
-
 
  02/05/15 2011 N/A
 
-
-
  11/24/14 2011 N/A
 
-
-
  05/11/15 2011 N/A
-
-
 
  12/30/14 2011 N/A
 
-
-
  06/11/14 2011 N/A
-
-
 
  02/04/15 2011 N/A
 
-
-
  06/05/15 2011 N/A
 
-
-
  05/18/15 2011 N/A
-
-
 
  05/19/15 2011 N/A
 
-
-
  05/04/16 2011 N/A
-
-
 
  07/24/14 2011 N/A
 
-
-
  08/15/14 2011 N/A
-
-
 
  09/15/14 2011 N/A
 
-
-
  05/08/14 2011 N/A
 
-
-
  05/12/15 2011 N/A
-
-
 
  04/22/16 2011 N/A
 
-
-
  03/07/14 2011 N/A
 
-
-
  03/07/14 2011 N/A
-
-
 
  03/10/14 2011 N/A
 
-
-
  03/07/14 2011 N/A
-
-
 
  04/21/14 2011 N/A
 
-
-
  03/07/14 2011 N/A
 
-
-
  03/02/15 2011 N/A
 
-
-
  03/02/15 2011 N/A
-
-
 
  03/03/15 2011 N/A
 
-
-
  04/14/15 2011 N/A
 
-
-
  03/02/15 2011 N/A
-
-
 
  03/19/15 2011 N/A
 
-
-
  03/19/15 2011 N/A
 
-
-
  03/02/15 2011 N/A
-
-
 
  03/03/15 2011 N/A
 
-
-
  04/14/15 2011 N/A
-
-
 
  03/01/15 2011 N/A
 
-
-
  03/19/15 2011 N/A
 
-
-
  07/15/15 2011 N/A
-
-
 
  07/21/15 2011 N/A
 
-
-
  07/16/15 2011 N/A
 
-
-
  07/16/15 2011 N/A
-
-
 
  07/15/15 2011 N/A
 
-
-
  02/03/16 2011 N/A
 
-
-
  02/03/16 2011 N/A
-
-
 
  04/15/15 2011 N/A
 
-
-
  01/28/16 2011 N/A
-
-
 
  02/19/16 2011 N/A
 
-
-
  11/17/15 2011 N/A
-
-
 
  03/11/16 2011 N/A
 
-
-
  03/03/16 2011 N/A
-
-
 
  01/18/16 2011 N/A
 
-
-
  04/01/16 2011 N/A
-
-
 
  09/25/14 2011 N/A
 
-
-
  09/11/14 2011 N/A
-
-
 
  09/16/14 2011 N/A
 
-
-
  11/18/14 2011 N/A
-
-
 
  09/12/14 2011 N/A
 
-
-
  10/07/14 2011 N/A
-
-
 
  10/16/14 2011 N/A
 
-
-
  10/08/14 2011 N/A
-
-
 
  11/19/14 2011 N/A
 
-
-
  07/15/15 2011 N/A
-
-
 
  07/21/15 2011 N/A
 
-
-
  07/16/15 2011 N/A
 
-
-
  07/16/15 2011 N/A
-
-
 
  07/15/15 2011 N/A
 
-
-
  03/20/15 2011 N/A
-
-
 
  03/26/15 2011 N/A
 
-
-
  04/13/15 2011 N/A
 
-
+ N/A N/A N/A
 
  N/A N/A N/A
 
-
-
- N/A N/A N/A
-
-
-
  09/10/14 2007 None
 
-
-
  09/10/14 2007 None
-
-
 
  07/22/14 2011 N/A
 
-
-
  08/11/14 2011 N/A
-
-
 
  03/28/14 2011 N/A
 
-
-
  07/15/14 2011 N/A
-
-
 
  08/08/14 2011 N/A
 
-
-
  03/31/15 2011 N/A
-
-
 
  04/20/15 2011 N/A
 
-
-
  N/A N/A N/A
-
-
 
  09/15/15 2011 N/A
 
-
-
  05/11/15 2011 N/A
 
-
-
  09/13/15 2011 N/A
-
-
 
  02/02/16 2011 N/A
 
-
-
  06/04/16 2011 N/A
 
-
-
  04/14/16 2011 N/A
 
-
-
  04/14/16 2011 N/A
-
-
 
  04/30/16 2011 N/A
 
-
-
  03/27/15 2011 LTE Bands 2,4,5,13,14,17
-
-
 
  08/12/15 2011 N/A
 
-
-
  03/10/16 2011 N/A
-
-
 
  06/12/15 2011 N/A
 
-
-
  N/A N/A N/A
 
-
-
  N/A N/A N/A
-
-
 
  02/16/15 2011 N/A
 
-
-
  09/17/15 2011 N/A
 
-
-
  09/01/15 2011 N/A
-
-
 
  02/01/16 2011 N/A
 
-
-
  09/13/15 2011 N/A
 
-
-
  N/A N/A N/A
-
-
 
  09/01/15 2011 N/A
 
-
-
  06/10/15 2011 N/A
 
-
-
  N/A N/A N/A
-
-
 
  07/08/15 2011 N/A
 
-
-
  02/24/16 2011 N/A
-
-
 
  09/09/15 2011 N/A
 
-
-
  06/26/14 2011 N/A
-
-
 
  06/11/14 2011 N/A
 
-
-
  N/A N/A N/A
-
-
 
  07/03/14 2007 N/A
 
-
-
  06/20/14 2011 N/A
 
-
-
  N/A N/A N/A
-
-
 
  10/18/12 2007 N/A
 
-
-
  12/09/14 2011 N/A
-
-
 
  08/19/14 2011 N/A
 
-
-
  05/29/13 2007 N/A
-
-
 
  04/03/15 2011 N/A
 
-
-
  N/A N/A N/A
-
-
 
  02/12/15 2011 N/A
 
-
-
  01/21/15 2011 N/A
-
-
 
  06/27/14 2011 N/A
 
-
-
  02/05/15 2007 N/A
 
-
-
  N/A N/A N/A
-
-
 
  05/07/10 2007 N/A
 
-
-
  N/A N/A N/A
-
-
 
  12/12/12 2007 N/A
 
-
+ N/A N/A N/A
 
  N/A N/A N/A
 
-
-
  N/A N/A N/A
-
-
-
- N/A N/A N/A
-
-
 
  08/07/09 2007 N/A
 
-
-
  08/07/09 2007 N/A
-
-
 
  09/09/13 2011 N/A
 
-
-
  02/19/14 2011 N/A
-
-
 
  N/A N/A N/A
 
-
-
  08/28/15 2011 N/A
-
-
 
  06/30/15 2011 N/A
 
-
-
  09/25/15 2011 N/A
-
-
 
  08/18/15 2011 N/A
 
-
-
  05/10/16 2011 N/A
-
-
 
  09/28/15 2011 N/A
 
-
-
  03/31/16 2011 N/A
-
-
 
  07/16/15 2011 N/A
 
-
-
  12/02/15 2011 N/A
-
-
 
  12/21/15 2011 N/A
 
-
-
  01/04/16 2011 N/A
-
-
 
  03/31/16 2011 N/A
 
-
-
  05/12/15 2011 N/A
-
-
 
  05/18/15 2011 N/A
 
-
-
  05/13/15 2011 N/A
-
-
 
  12/08/15 2011 N/A
 
-
-
  04/13/16 2011 N/A
-
-
 
  07/10/15 2011 N/A
 
-
-
  05/17/16 2011 N/A
-
-
 
  07/17/14 2011 N/A
 
-
-
  10/08/15 2011 N/A
-
-
 
  05/12/15 2011 N/A
 
-
-
  12/16/15 2011 N/A
-
-
 
  12/17/15 2011 N/A
 
-
-
  12/22/15 2011 N/A
-
-
 
  05/25/16 2011 N/A
 
-
-
  06/01/16 2011 N/A
-
-
 
  03/09/16 2011 N/A
 
-
-
  05/27/16 2011 N/A
-
-
 
  06/29/15 2011 N/A
 
@@ -12806,39 +6394,6 @@ published the following documents:
 
 
 
-
-
-
-
-
-
-
-
  In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: August 31, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2016 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

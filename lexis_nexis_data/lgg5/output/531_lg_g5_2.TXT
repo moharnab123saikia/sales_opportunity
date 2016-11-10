@@ -1,214 +1,85 @@
-                              531 of 820 DOCUMENTS
-
-
-
-
-
-
-
-                                   The Hindu
-
-
-
-                              June 24, 2016 Friday
-
-
-
-OnePlus 3 review: Finding its feet
-
-
-
-LENGTH: 956  words
-
-
 
 DATELINE: New Delhi
 
 
-
-
-
 New Delhi, June 24 -- The story of OnePlus is a bit like that of the bright
-
 child who displays great potential early in life. The OnePlus One came out of
-
 the blue and showed the world great hardware need not cost a bomb. The Two was a
-
 representation of the rebellious teenage years, a device that thought it knew
-
 best and made unconventional decisions. Some of these decisions, like the new
-
 charging standard, paid off, others like the omission of NFC, didn't help its
-
 cause.
 
 
-
-
-
  But OnePlus is grown up now. It has ditched the snazzy sandstone threads for a
-
 sharp silver suit, and gained from experience. It has learnt to stand on its own
-
 feet and attend the smartphone party without needing an invite. This is the
-
 OnePlus 3, better learned and still brimming with energy.
-
  The 3 has more in common with the One than the 2 in terms of design, though it
-
 looks a little HTC-like. Compared to the beefy second generation, this phone
-
 looks like it has been on a diet, and the svelte profile has left a camera bump
-
 on the rear. The right-side houses the power button and the dual nano-SIM tray
-
 (microSD support is a no-go, and the phone comes only with 64GB memory), while
-
 the left features volume control and the alert slider. The textured alert slider
-
 lets users switch between silent, all notifications or priority notifications
-
 without unlocking the device. The fingerprint sensor, which is also a capacitive
-
 button, resides below the display, and can unlock the device in one go without
-
 needing to turn on the display first. It is among the most responsive sensors we
-
 have tested, though the button-like design can mislead users into thinking it is
-
 supposed to depress. The back is sleek metal broken only by the OnePlus logo and
-
 the 16MP camera and single LED flash.
-
  The specsheet of the 3 is a mixed bag. The processor is a flagship grade
-
 Snapdragon 820 and the RAM is a ludicrous 6GB, but the display remains a 5.5
-
 inch 1080P panel for the third time in a row. OnePlus has switched to an AMOLED
-
 panel, a variety it calls OpticAMOLED, and cites battery as one of the reasons
-
 for the display not getting a bigger upgrade. And that is precisely one of the
-
 most confusing choices OnePlus has made. The 3,000mAh battery is a downgrade
-
 from both the previous phones, and most likely a side-effect of the super-slim
-
 body. While this aesthetic sacrifice would have been normal for some
-
 manufacturers, such a choice from OnePlus is unexpected.
-
  So the story so far has had some twists and turns, but what is it like to use?
-
 This is an area where OnePlus has stuck to its strengths. The Snapdragon 820
-
 flies through everything from multitasking to gaming, with transitions and frame
-
 rates remaining steady throughout. The RAM figure seems a little unnecessary at
-
 the moment, and does not have any significant impact upon real-world
-
 performance, but with software getting more demanding, a little extra room helps
-
 with futureproofing, so we won't complain.
-
  The company's home-baked Oxygen OS, now on version 3.1.2 on top Android 6.0.1
-
 Marshmallow, is a pretty clean yet refined affair. The system-wide dark mode
-
 with customisable accent colours looks marvellous on the AMOLED display, and the
-
 Shelf feature, which dedicates a homescreen pane to display weather, take quick
-
 memos, add frequent contacts, apps and even widgets, is handy. Like most other
-
 such tweaks, it can be disabled. The 3 also comes with the SwiftKey keyboard
-
 bundled in, which provides a lot more extra options on the text input front.
-
  Popular features that make a return are the gestures to turn on flash or
-
 display, open the camera, play music, and the option to use hardware or software
-
 buttons or swap their order as desired. OnePlus has also baked in options to
-
 adjust colour balance and a night mode that makes the display colours warmer to
-
 reduce eye strain during night-time use. The alert slider also gets
-
 customisation, allowing users granular control over what alerts or calls will be
-
 allowed when the device is in priority or silent mode.
-
  Cameras have never been OnePlus' strongest feature, but the 3 has made
-
 improvements here as well. The 16MP shooter resolves a great amount of detail
-
 and keeps noise to a minimum. Low light situations see a little faltering, but
-
 the camera manages to salvage decent shots even there. The software has also got
-
 enough to tinker with, including a manual mode (which packs the nifty option of
-
 setting different points for focus and exposure) and RAW support. The front
-
 camera also captured some truly impressive shots, getting close to LG G5 level
-
 of detail, though LG's fist recognition for selfie capture is more sensible than
-
 OnePlus' trigger happy smile shutter option. It's not going to scare the Samsung
-
 Galaxies or the G5, but for a device that costs half as much, OnePlus has made
-
 huge leaps on the camera front.
-
  With all this positivity, there has to be a catch somewhere, and the Achilles
-
 Heel of the 3 is its battery. For a phone that follows the OnePlus One, which
-
 had legendary battery backup, the 3 does not quite match up. It can get through
-
 a day more often than not, but might need a topup now and then. The Dash
-
 Charging technology allows the phone to juice up quite rapidly, but it only
-
 works with the included charger (find out more in OnePlus 3: Ten things to know
-
 before you buy).
-
  When all is done and dusted, the OnePlus 3 comes across as an impressive, if
-
 flawed phone. It has its moments of greatness peppered with some sigh-inducing
-
 frustrations. But when you consider that it does the good almost as well as the
-
 best in the business, and the bad a lot better than many others, at a price tag
-
 of Rs.28,000, the blemishes become just that, blemishes. This is no flagship
-
 killer, but it is a pretty great phone.
-
-
-
-LOAD-DATE: June 24, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                    Copyright 2016 FFC Information Solution
-
-                              All Rights Reserved
-
-
-
-
 

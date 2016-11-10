@@ -1,106 +1,30 @@
-                              380 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                            July 16, 2014 Wednesday
-
-
-
-US Patent granted to Google, Inc (California) on July 15 titled as "System and
-
-method of encoding using selectable loop filters"
-
-
-
-LENGTH: 226  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,780,971 on
-
 July 15, 2014, to Google, Inc (California), titled as "System and method of
-
 encoding using selectable loop filters"
 
-
-
 Inventors:  Bankoski; James (Wynantskill, NY), Wilkins; Paul (Cambridge, GB),
-
 Xu; Yaowu (San Diego, CA)
-
 Assignee:  Google, Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Disclosed herein is a method for selectively filtering and encoding a video
-
 signal having at least one frame including a matrix of pixels. The method
-
 includes selecting a set of pixels within the frame, determining an initial
-
 performance measurement for the selected set of pixels, provisionally applying
-
 each filter to the set of pixels, determining a second performance measurement
-
 for each filter provisionally applied to the selected set of pixels, and
-
 applying the at least one filter to the selected set of pixels to generate a
-
 reconstruction of the frame if the at least one filter is determined to have a
-
 second performance measurement that is better than the initial performance
-
 measurement."
-
-
 
 The patent was filed on April 7, 2011 Application no. 13/081,535
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: July 16, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

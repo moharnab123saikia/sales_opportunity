@@ -1,0 +1,103 @@
+
+
+Click for image
+
+A reminder not to put Barclays analyst Mark Moskowitz on your A List if you plan
+to have an iPhone 7 party - though you might want to put him at the top of the
+list for the iPhone 8 in 2017.
+
+The market watcher has issued a note to investors this week, according to
+Fortune, in which he says the iPhone 7 smartphone that Apple will reportedly
+launch later this year will be devoid of "any must-have form factor changes"
+compared to the iPhone 6s.
+
+MORE: Best iPhone 7 Design Concepts of 2016
+
+However, iPhone 8 in 2017 could be another matter. "The [iPhone 8] could
+showcase major form factor changes, including OLED, no home button, and wireless
+charging. In our view, these potential changes could drive a mega cycle."
+
+Meanwhile, if you are looking for another person to invite to your iPhone 7
+party, perhaps Goldman Sachs' Simona Jankowski would fit nicely. She has
+conducted an online survey of more than 1,000 U.S. consumers, Barron's reports,
+and found that about 44% said they plan to get an iPhone 7, with a quarter of
+those people not being iPhone customers at all currently.
+
+All Glass
+
+Never the most transparent of companies, Apple's iPhone at least might become
+more so if the latest from KGI analyst Ming-Chi Kuo is on the mark (while we're
+still dealing with speculation here, many take his word as being iPhone facts).
+Kuo says that Apple next year is expected to replace its iPhone's aluminum
+casing with an all-glass one featuring an AMOLED screen. 9to5Mac has picked up
+on the KGI note from Kuo, and says that Apple's move could help set it apart
+from competitors, who have embraced aluminum bodies for their phones.
+
+9to5Mac notes that even though the glass body would weigh more than the aluminum
+ones, the thinner and lighter AMOLED screen would help to offset that.
+
+Meanwhile, no matter how drop-defying Apple tells us the glass casing will be,
+we'd be keeping ours covered up anyway.
+
+Not all bad for Intel
+
+It's been a horrible week for Intel, which said it is cutting 12,000 jobs (11%
+of its workforce) as it rejiggers itself to compete in IoT and server markets to
+offset a big drop-off in the PC market.
+
+But one bit of possible good news at Intel - at the expense of rival Qualcomm -
+is that the former might be in line to supply Apple with LTE modems for its
+iPhone 7 smartphones. The latest speculation about this possible Intel win were
+sparked by comments made by Qualcomm's CEO this past week during an earnings
+call in which he warned that a major customer is expected to split off some of
+its business to a second source, presumably Intel.
+
+Slashgear writes that the addition of Intel to the iPhone mix could be
+significant for customers:
+
+So what kind of changes could we expect from this switch? Well, the reports have
+indicated that Apple would be using Intel's 7360 LTE modem. This particular chip
+has theoretical downlink speeds of up to 450 Mbps and uplink speeds of up to 100
+Mbps. Now compare that to the Qualcomm MDM96 (used in the iPhone 6s and 6s Plus)
+which only has theoretical downlink and uplink speeds of 300 Mbps and 50 Mbps
+respectively.
+
+Those Intel chips better be really great though, because the word is that Apple
+has a team hunkering down to build its own LTE modem chips for future iPhones...
+
+Beating Apple to the punch
+
+The much discussed elimination by Apple of a traditional 3.5mm headphone jack in
+its next iPhone has given competitors plenty of time to mull doing the same.
+
+Whether or not Apple's plans were a factor here is unknown publicly, but BGR
+reports
+
+that Chinese Android phone maker LeEco has unveiled three new phones that boast
+microUSB wired headset support. Hey, it's not like they're using Apple Lightning
+as the port, so Apple won't be too upset, and maybe the change will even make
+Apple's move more palatable. Then again, maybe most people who don't live in
+China will even notice, since LeEco's products are mainly sold in Asia.
+
+Camera supply shaken
+
+Recent deadly earthquakes in Japan are said to have thrown Apple's supply of
+CMOS image sensors for its iPhone 7 cameras into question. Supplier Sony's
+factories in the south of Japan went offline following the quakes, reports Cult
+of Mac.
+
+"We are still checking for potential damage to the plants, which usually operate
+on a 24-hour basis," a Sony spokesman told Reuters last weekend. "We do not yet
+know how the closures will impact supply to customers like Apple."
+
+Apple has attempted to not put all its image sensors eggs in one basket, but
+when it comes to these particular components, Sony has been the only choice.
+
+Concept design video of the week: iOS 10
+
+Apple is expected to reveal iOS 10 at its Worldwide Developers' Conference in
+June, and that's likely to be the software powering the iPhone 7. Federico
+Viticci and Sam Beckett share their iOS Wishlist in this cool video, highlighted
+by improvements to the Control Center and 3D Touch, and new features such as
+Dark Mode, Rich Message Previews and wait for it...faster Emoji input!
+

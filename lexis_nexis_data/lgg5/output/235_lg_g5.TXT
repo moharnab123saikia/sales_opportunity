@@ -1,138 +1,48 @@
-                              235 of 820 DOCUMENTS
-
-
-
-
-
-                                THE KOREA HERALD
-
-
-
-                            January 25, 2016 Monday
-
-
-
-Samsung Galaxy S7, LG G5 to be fitted with faster mobile technology
-
-
-
-LENGTH: 354 words
-
-
-
 
 
 While expectations are high for the Galaxy S7 and G5, the new flagship
-
 smartphones of Samsung Electronics and LG Electronics, respectively, an
-
 announcement by mobile carrier SK Telecom on Monday offers hints to a new
-
 feature on the handsets.
 
-
-
 SK Telecom employees work at a laboratory of the firm in Seoul. (SKT)Korea's
-
 leading mobile carrier said that it would deploy an advanced uplink carrier
-
 aggregation technology, which will increase the upload speed of the long-term
-
 evolution network, up to fourfold, in the first half of this year in Korea.
 
-
-
 With the current LTE network, mobile users can upload a file at a speed of
-
 25Mbps on the 10 MHz band.
 
-
-
 "When the new mobile network technology is up and running, the maximum upload
-
 speed, in theory, can reach 100 Mbps," an SKT public relations representative
-
 said.
 
-
-
 Since the faster upload technology is incompatible with the existing
-
 smartphones, it is anticipated that the Galaxy S7 and the G5 will become the
-
 first handsets sporting the faster network technology.
 
-
-
 Both handsets will be unveiled during the Mobile World Congress trade show to be
-
 held in Barcelona in February.
 
-
-
 The deployment of the advanced uplink CA technology is inevitable in order to
-
 cope with explosive data traffic growth due to streaming services, multichannel
-
 networks, and social media, SKT explained.
 
-
-
 SKT's network division head Lee Jong-bong said in a statement, "SKT will
-
 continue to take the technology lead in the looming 5G era."
 
-
-
 At the core of the upload technology is the UL 64QAM, which improves efficiency
-
 in transitioning data into LTE signals, and the MC-PUSCH, which combines
-
 disparate frequencies in the same spectrum into one frequency, according to the
-
 mobile carrier.
 
-
-
 The recent completion of the standardization works of the UL 64QAM and MC-PUSCH
-
 by global mobile carriers and network equipment developers sped up the
-
 commercialization of the uplink CA, according to the Korean network operator.
 
-
-
 The new mobile network technology will be first commercialized in Seoul and its
-
 adjacent regions and metropolitan cities by February, and expanded to other
-
 regions down the road.
 
-
-
 By Kim Young-won (
-
-
-
-LOAD-DATE: January 25, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                        Copyright 2016 The Korea Herald
-
-                              All Rights Reserved
-
-
-
-
 

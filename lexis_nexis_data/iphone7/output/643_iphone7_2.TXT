@@ -1,0 +1,29 @@
+
+
+According to a technical report released recently by analyst firm Cellular
+Insights, iPhone 7 Plus handsets equipped with Intel modems are providing
+drastically poorer Internet connections on the handsets as compared to the units
+equipped with Qualcomm modems.
+
+The report comes against the backdrop of complaints from some users of Apple's
+latest iPhone 7 and iPhone 7 Plus handsets in the UK -- where the handsets went
+on sale in September -- that they were witnessing performance drops,
+specifically in terms of signal quality and strength while making calls.
+
+With Apple having signed up both Intel and Qualcomm to supply modems for the
+iPhone 7 and iPhone 7 Plus handsets, Cellular Insights has revealed in its
+report that Qualcomm modems in the new iPhones apparently offer a 30 percent
+better performance than Intel modems.
+
+Incidentally, as per the report, the performance drop issue in the new iPhones
+largely affects the users of the iPhone 7 Plus handset in the UK, because those
+units are equipped with Intel modems.
+
+In the new iPhone units for the US, China and Japan markets, Apple has used the
+more tried and trusted modems manufactured by Qualcomm.
+
+About Apple's move to use Intel and Qualcomm modems for its new iPhones,
+Cellular Insights said in its report: "We are not sure what was the main reason
+behind Apple's decision to source two different modem suppliers for the newest
+iPhone."
+

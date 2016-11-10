@@ -1,392 +1,169 @@
-                              915 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                 Guardian.com.
-
-
-
-                          February 27, 2013 Wednesday
-
-
-
-Boot up: iOS 6.1 bypassed no.2, Yahoos on Mayer, Pentagon looks at iOS and
-
-Google, and more
-
-
-
-BYLINE: Charles Arthurguardian.co.uk
-
-
-
-LENGTH: 1372 words
-
-
 
 ABSTRACT
 
-
-
 Charles Arthur and Josh Halliday: Plus FRAND patents rows, the puzzle of
-
 Android, the lousy state of data on guns crime in the US, Pixel reviewed, and
-
 more
-
-
 
 FULL TEXT
 
-
-
 A burst of 9 links for you to chew over, as picked by the Technology team
 
-
-
 Why Google Glass is fascinating; Chromebook Pixel just puzzling && Chicago
-
 Sun-Times
-
-
 
 Andy Ihnatko:
 
-
-
 This was a good week for the Glass project. I still don't know that Google has a
-
 viable product on their hands. But it's certainly no longer a pie-in-the-sky
-
 concept. The mockery that Glass received from some commentators during its first
-
 announcement in April of last year might have been understandable...but now it
-
 seems embarrassingly premature.
 
-
-
 Google had something else to talk about last week, though. I can't remember a
-
 product that's baffled me harder or more roughly than Google's new Chromebook
-
 Pixel...
 
-
-
 I talked to Google about the Pixel on launch day, asking some of the dumbest and
-
 most basic questions I've ever dared ask, but I'm still profoundly confused.
-
 Today, the Pixel seems to be serving a customer who doesn't exist. Even a power
-
 Chromebook user, I reckon, would be more likely to buy a $1300 Windows notebook
-
 and simply run webapps in the Chrome browser, right?
 
-
-
 No, the new iOS 6.1 lock screen bypass bug does not allow access to your
-
 iPhone's file system && The Next Web
-
-
 
 Matt Panzarino:
 
-
-
 Earlier today, word began getting around that there was a new way to bypass the
-
 iOS 6.1 lock screen and that this one was even worse, allowing full access to
-
 the user portion of the file system. Well, that's not exactly true, as we've
-
 uncovered with some simple tests.
 
-
-
 The lock screen bug does in fact exist, and it works as advertised, bypassing
-
 the lock and bringing you to a blank black screen with just the status bar. But
-
 it allows you no access to anything, not pictures, not contacts and certainly
-
 not the file system.
-
-
 
 Two ways to bypass the lock screen?
 
-
-
 The iTunes Value Structure && asymco
 
-
-
 Note 2: My estimate for the iTunes Music payments to publishers is equivalent to
-
 about 60% of total [recorded] industry revenues.
-
-
 
 BlackBerry threat? Pentagon to open networks to Apple, Google && Financial Post
 
-
-
 The Pentagon said it wants employees to have the flexibility to use commercial
-
 products on classified and unclassified networks. It plans to create a military
-
 mobile applications store and hire a contractor to build a system that may
-
 eventually handle as many as 8m devices.
 
-
-
 "This is not simply about embracing the newest technology -- it is about keeping
-
 the department's workforce relevant in an era when information accessibility and
-
 cybersecurity play a critical role in mission success," Teri Takai, the
-
 department's chief information officer, said in a statement.
-
-
 
 BlackBerry shares fell. (Thanks @modelportfolio2003 for the link.)
 
-
-
 Science and gun violence: why is the research so weak? && Boing Boing
-
-
 
 Meanwhile, outside the filter bubble...
 
-
-
 Gun violence research suffers from a lack of consistently recorded data and, for
-
 that matter, a lack of data, in general. As John Pepper, associate economics
-
 professor at The University of Virginia and the study director on the 2004
-
 report, put it, "The data are just terrible."
 
-
-
 Worse, critics say the methods used to analyze that data are also deeply flawed
-
 in many cases. What you end up with, researchers told me, is a field where key
-
 pieces of the puzzle are missing entirely and where multiple scientists are
-
 reaching wildly different conclusions from the exact same data sets. For
-
 instance, because of those differences in the definition of "defensive gun use"
-
 some researchers will tell you that Americans use a gun to defend themselves
-
 something like 1.5 million times every year. Others say it happens maybe 200,000
-
 times annually.
-
-
 
 Part one of a series. Read.
 
-
-
 What has been the internal reaction at Yahoo to Marissa Mayer's no work from
-
 home policy? && Quora
 
-
-
 Based on this titanic list of three, possibly four, Yahoos, the answer is:
-
 positive.
 
-
-
 The CCIA and RIM tell the FTC banning injunctions for FRAND patents can make
-
 smartphone wars worse && Groklaw
 
-
-
 The FTC is now suggesting that companies that own standards-essential patents
-
 and offer them under FRAND terms, like Motorola, should not be allowed to seek
-
 injunctions regarding those kinds of patents except in the most extreme of
-
 circumstances. But for decades, they had those property rights, the right to
-
 seek injunctive relief. How can a government agency just show up and take those
-
 traditional rights away by fiat, without reasonable compensation? That's not
-
 America, to me. I don't even like software patents, but as long as the patent
-
 system exists, you want it to be fair. And this just feels wrong.
 
-
-
 This seems to be a case of Groklaw deciding which side it likes, and tailoring
-
 its thinking to go along with it. The reason to oppose injunctions on
-
 standards-essential patents (SEPs) - which Google (via Motorola) and Samsung own
-
 lots of - is that it would allow the owners of those SEPs to shut rivals who
-
 need to meet standards out of the marketplace, simply by withdrawing the rival's
-
 permission to use those patents. Being part of a standard requires licensing to
-
 all comers. (The idea that stopping injunctions over SEPs would make things
-
 worse is obvious nonsense. Nor is the FTC saying that SEP injunctions aren't
-
 ever allowed. )
 
-
-
 Apple to FTC: Samsung and Google lose most of their cases over
-
 declared-essential patents && FOSS Patents
 
-
-
 Apple's letter raises the very important point (starting on page 6) that most
-
 patents that are declared essential to a standard (by their holders, typically
-
 without any independent verification of essentiality) actually aren't - and if
-
 someone wants to get paid for an allegedly standard-essential patent, a
-
 defendant must have the right to challenge the validity of the patent and its
-
 essentiality in court without having to pay for a portfolio license based on an
-
 arbitrated or court-determined value of an unverified portfolio. While the
-
 proposed consent decree generally mentions that challenges to validity,
-
 essentiality and infringement allegations don't make a company an unwilling
-
 licensee, a very recent InterDigital filing in lawsuits targeting Huawei and ZTE
-
 shows that some SEP owners nevertheless argue that they should receive royalties
-
 even without having to prove that their asserted patents are valid and actually
-
 used by an implementer of the standard in question.
 
-
-
 Something of a new wrinkle that many of these claimed "standards-essential"
-
 patents actually aren't. Shouldn't there be a clear register of such things? And
-
 if not, why not?
-
-
 
 On bias && Benedict Evans
 
-
-
 Apple Maps is a fiasco, but it is fundamentally a secondary issue and there is
-
 no evidence it affects sales. The same is true of skeumorphism, or 'openness' or
-
 a dozen other issues that people talk about. What matters is the addressable
-
 market. Criticisms of Apple product, by and large, do not matter so long as they
-
 do not affect sales, and there is no evidence that they do, to any material
-
 degree. Hence, they do not really interest me, regardless of whether I
-
 personally agree with them, as a user of the product.
 
-
-
 Android is different. Android does not really face an addressable market
-
 question. 1.7bn phones will be sold this year, perhaps a little more, and half
-
 will be smartphones, and almost all of those that are sold for less than $400
-
 will run Android. In a couple of years, if nothing changes, Android will be
-
 selling a billion units a year or more.
 
-
-
 The important questions, therefore, are within Android: they are product
-
 questions. Something like a third of unit sales are in China and have little
-
 access to Google services. What does that mean? Another third to a half of units
-
 are sold by Samsung, and all the other branded Android OEMs are struggling.
-
 Android is fragmented, Android is very weak in apps for tablets, and so on, and
-
 so on. What do all these variations mean? Android is many different things in a
-
 way that the iPhone is not, and understanding those variations makes up the
-
 analytical challenge.
-
-
 
 The bias is a cognitive one, so most people aren't aware they suffer from it.
 
-
-
 You can follow Guardian Technology's linkbucket on Pinboard
 
-
-
 To suggest a link, either add it below or tag it with @gdntech on the free
-
 Delicious service.
-
-
-
-LOAD-DATE: February 27, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-   Copyright 2013 Guardian News and Media Limited or its affiliated companies
-
-                              All Rights Reserved
-
-                  Registered in England and Wales. No. 908396
-
-   Registered office: PO Box 68164, Kings Place, 90 York Way, London N1P 2AP
-
-
-
-
 

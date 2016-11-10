@@ -1,104 +1,30 @@
-                              696 of 997 DOCUMENTS
-
-
-
-
-
-                               Electronics Bazaar
-
-
-
-                                 August 1, 2016
-
-
-
-New Products - Miscellaneous: Smallest 3D Camera in the World Brings Augmented
-
-Reality to Smartphones
-
-
-
-LENGTH: 256  words
-
-
-
 
 
 Lenovo is supposedly the first manufacturer worldwide to bring Tango technology
-
 to a consumer product. Google's technology that allows devices to understand
-
 spatial information is an exclusive feature in the PHAB2 Pro smartphone. Based
-
 on the Time-of-Flight principle, the REAL3 image sensor chip from Infineon
-
 Technologies AG equips the smartphone with a three-dimensional perception of the
-
 surroundings in real-time. Infineon provides the only image sensor chip
-
 worldwide that meets Google's specifications.
 
 
 
-
-
-
-
 The sensor chip was developed in Graz, Austria, a global Infineon competence
-
 centre for advanced semiconductor solutions combining analogue and digital
-
 signal processing with high data rates. It integrates the pixel array, the
-
 control circuitry, ADCs and the digital high-speed interface on a single chip.
-
 The development was made in cooperation with pmdtechnologies, a leading global
-
 provider of the Time-of-Flight (ToF) technology.
 
-
-
 This measuring principle involves infrared light. For each of its pixels, the 3D
-
 image sensor chip measures the time the light takes to travel from the camera to
-
 the object and back again. Each pixel detects the brightness value of the
-
 objects. Compared to other technologies, the ToF technology from pmdtechnologies
-
 offers the best spatial resolution and highest robustness, both mechanically and
-
 in relation to background light. Yet, it has the lowest current consumption and
-
 size. Thus, the camera is currently the smallest 3D camera worldwide, company
-
 sources claim.
 
-
-
 Contact: www.infineon.com
-
-
-
-LOAD-DATE: August 1, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Magazine
-
-
-
-
-
-      Copyright 2016 EFY Enterprises Pvt Ltd., distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

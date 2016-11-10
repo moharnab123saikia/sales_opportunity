@@ -1,106 +1,30 @@
-                              747 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                              March 8, 2013 Friday
-
-
-
-US Patent granted to Google Inc on March 05 titled as "Visualizing oblique
-
-images"
-
-
-
-LENGTH: 242  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,390,617, on
-
 March 05, 2013, to Google Inc, titled as "Visualizing oblique images"
 
-
-
 Inventors:  Reinhardt; Tilman (Woodside, CA)
-
 Assignee:  Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "A
-
 method of visualizing images of a target in a 3D modeling system is provided,
-
 according to an embodiment. The method may include mapping and displaying one or
-
 more images, generated from respective viewpoints of the target, on a
-
 visualization frame that encompasses a representation of the target based upon
-
 respective viewpoints of the images. In another embodiment, the method may
-
 include determining relevant pixels in the images and cropping the images based
-
 upon the determination of relevant pixels. According to a further embodiment,
-
 the method may include enabling a user to control the orientation of the
-
 visualization frame to display the images of the target corresponding with a
-
 specific viewpoint. A system for visualizing images of a target in a 3D modeling
-
 system may include a mapping module, a frame controller, a cropping module and
-
 interface storage, according to another embodiment."
-
-
 
 The patent was filed on June 4, 2009 Application no. 12/478,545
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: March 8, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2013 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

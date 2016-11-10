@@ -1,418 +1,185 @@
-                              113 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                           December 20, 2013, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending Dec. 20;
-
-Dueling dates, big-screen yawn, the Walmart Clue
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1653 words
-
-
-
 
 
 The iOSphere was riven by controversy as "experts" dueled on iPhone 6
-
 announcement dates. The fact that it was a phonycontroversy only made it more
-
 intolerable.
 
-
-
 And could it be that a bigger-than-4-inch display would not set the world on
-
 fire? What villainy is this?
 
-
-
 And those holiday iPhone 5s and 5C discounts? There's a Far Deeper Significance
-
 to them.
-
-
 
 You read it here second.
 
-
-
 iPhone 6 will be announced in June or July 2014 Or as the headline for Tyler
-
 Lee's post at Ubergizmo puts it, "iPhone 6 Predicted To Launch Mid 2014,
-
 According To Analyst."
 
-
-
 The actual source for Lee's post, and for many other Internet posts, was a new
-
 "research note" from Susquehanna Financial Group analyst Mehdi Hosseini, a note
-
 that was actually about flash memory maker SanDisk. Kevin Shalvey at Investor's
-
 Business Daily may have been among the first to pick up on the note.  Hosseini
-
 thinks that SanDisk will benefit from various smartphone trends, including the
-
 rising smartphone market in China and the Next iPhone. SandDisk apparently
-
 became an Apple supplier for the 2012 iPhone 5.  According to the IBD post,
-
 Hosseini's research note includes several rather vague generalities about what
-
 Apple "is expected" to do. The use of "is expected" or "is likely" is an
-
 iOSphere convention that is used to deflect attention from a severe paucity of
-
 facts. The conventions create the impression that there is an expert, or at
-
 least an informed, consensus based on some kind analysis. In almost every case,
-
 that's not the case.
 
-
-
 Here's how Shalvey puts it: "Apple is expected to introduce its next iPhone,
-
 possibly named the iPhone 6, in June or July 2014. It's 'actually expected to be
-
 a more meaningful product refresh' than the two iPhone versions launched in
-
 2013, according to Hosseini. 'Although there is no color yet on the iPhone 6
-
 specs, our recent checks in Taiwan and Korea suggest Apple has already begun
-
 negotiating with its memory suppliers to secure capacities.'" As a basis for,
-
 you know, knowledge, these sentences are useless. A "more meaningful product
-
 refresh" apparently means "more visible changes that even an idiot could see
-
 compared to what was in the last phone." It sidesteps the question of whether
-
 Apple intends the Next iPhone to be a refresh of the product line or a distinct
-
 separate product, for example, adding a bigger-than-four-inch-display iPhone
-
 while still offering the four-inch-display iPhone.
 
-
-
 The closest Hosseini comes to evidence is the "suggestion" that Apple has
-
 "already begun negotiating" with memory suppliers.
 
-
-
 But negotiating about what? And about which Apple products? And for what
-
 product-release timeframe? He doesn't say; he may not know.
 
-
-
 Back to Tyler Lee at Ubergizmo. Having drawn our attention to Hosseini's
-
 speculation, Lee tells us to ignore it. "Like we said, based on previous iPhone
-
 releases for the past three years, it would be highly suspect that Apple would
-
 suddenly revert to its mid-year schedule again," Lee declares authoritatively.
-
 While it is not completely out of the question, it does not make much sense for
-
 now. However we wouldn't be surprised if Apple had already planned its next
-
 iPhone, although we doubt a mid-year release is in the cards. Take it with a
-
 grain of salt for now, but if you have been following the tech scene, this is
-
 one rumor you're better off discounting."
 
-
-
 Highly suspect, but not out of the question, we wouldn't be surprised, we doubt,
-
 discount. By the time you reach the end, you realize that Lee is simply guessing
-
 based on what Apple has done for the past three years. Overlooking that Apple
-
 did something different during the three years before that.
 
-
-
 iPhone 6 release date a "controversy," with "experts split" on date If you can't
-
 find a good rumor, make one up.
 
-
-
 And the one that Michael Briggs at the clickbait website DesignNTrend made up is
-
 "iPhone 6 Release Date Controversy: Experts Disagree."  Briggs' post is the
-
 iOSphere equivalent of Rocky Road ice cream: He seems to have scoured the
-
 Internet and thrown in every single recent and not so recent rumor, referencing
-
 but not linking to the original sources, or at least the sources where he read
-
 about the rumor.
 
-
-
 He picked up the IBD post on Hosseini's research note and structured his opening
-
 around that, so that he could then "balance" the mid-year prediction with
-
 later-year predictions, thus creating the illusion of a "controversy."
 
-
-
 "A Spring-Summer release has been mentioned in previous reports, but there have
-
 also been an abundance of reports that claim Apple will stick to its past
-
 tendencies with the 6, including recent articles by Bloomberg, which states two
-
 curved iPhone models will be unveiled in the fall, and Chinese tech site Epoch
-
 Times, which claims the new iPhones won't be released until October 2014."
 
-
-
 Briggs even drags in Gene "BlockBuster" Munster -- based on a research note
-
 Munster released last October, nearly three months ago - in which the Piper
-
 Jaffray analyst gave his expert opinion that iPhone 6 will be a "blockbuster" in
-
 mid-2014.
 
-
-
 Bryan Wolfe at AppAdvice had the same idea as Briggs, or borrowed it. His post's
-
 headline warns, rather ominously, "Experts Are Split On When Apple Will Release
-
 The 'iPhone 6.'"  "So what does the crystal ball say about the 2014 iPhone
-
 release date? It's murky, at best," he declares. Murky as crystal.
-
-
 
 Or clear as murk.
 
-
-
 Wolfe thinks there was a consensus about the iPhone 6 release because the
-
 Chinese site Epoch Times and Bloomberg News both "report" that it will occur in
-
 the fall of 2014. But then along comes Hosseini.
 
-
-
 "Throwing a wrench in all this is a new report from Inventors Business Daily. In
-
 it, Susquehanna Financial Group analyst Mehdi Hosseini says that the iPhone 6
-
 will likely come out in June or July 2014."
 
-
-
 An expert is a person who has "special skill or knowledge in some particular
-
 field; specialist; authority." It derives from the Latin "experiri" meaning to
-
 try, to test. As a result, the original "expert" was a "person wise through
-
 experience," according to Dictionary.com.
-
-
 
 But in all of these posts, there is little experience, and even less wisdom.
 
-
-
 If iPhone 6 has a big screen, no one will care Waxing philosophical, a post at
-
 ValueWalk wonders "iPhone 6 Is A Bestselling Idea, But Will It Be A Good Phone?"
 
-
-
 The author, ValueWalk Staff, never gets around to answering that and the bulk of
-
 the post rehashes a new "outlook" on Apple's stock by two stock analysts with
-
 J.P. Morgan Equity Research, Mark Moskowitz and Mike Kim. They're bullish in the
-
 long-term apparently.
 
-
-
 Though why they are isn't very clear. As ValueWalk Staff puts it, with
-
 unexpected realism, "Analysts think investors will look beyond near-term
-
 quarterly beats and start asking '[what's next?', and analysts at JPM do not
-
 know what is next."
-
-
 
 Talk about an epitaph for the iOSphere.
 
-
-
 Moskowitz and Kim do not set great hope that the intensively rumored
-
 Bigger-Than-4-Inch-Display iPhone will be, to quote Gene Munster, a
-
 "blockbuster."
 
-
-
 "Given most of the smartphone market is already there, it is unlikely that a
-
 larger screen size iPhone 6 alone will drive a significant shift in market
-
 share, in analysts view," according to ValueWalk. "They think that consumers who
-
 wanted a larger screen already own a smartphone from Samsung Electronics Co.,
-
 Ltd. or another vendor. Apple Inc. may potentially grab some of those users with
-
 a large-screen iPhone (iPhone 6), but land grabs can be more difficult than
-
 penetration of new adopters."
-
-
 
 The Rollup isn't going to comment on the penetration difficulties.
 
-
-
 But the argument that a large-screen iPhone 6 will not necessarily result in a
-
 massive increase in iPhone sales, or be regarded as a breakthrough in
-
 innovation, is at least interesting. We lack specific sales data at this point
-
 for the 4-inch iPhone 5S (or the 5C), but it seems to be at least as popular as
-
 the iPhone 5, which was extremely popular indeed. While ValueWalk seems to think
-
 that some kind of breakthrough, or as they put it "impactful catalyst," is
-
 needed, Apple's strategy of continuous improvements that preserve, refine, and
-
 facilitate the total "user experience," is driving iPhone sales just fine.
 
-
-
 iPhone 6 will be released soon because Walmart is discounting iPhone 5S, 5C "As
-
 part of a holiday sale starting Friday [December 20], Wal-Mart plans to offer
-
 the iPhone 5c for $27 with a two-year contract from AT&T or Verizon," reports
-
 Salvador Rodriguez, in a story for the LA Times.  The list price with contract
-
 is $99, so a discount of roughly 60 percent is enticing. Which is the idea of
-
 holiday promotions.
 
-
-
 The iPhone 5S is also being discounted at Walmart for a while, offered at $127
-
 with a two-year contract, down from its regular $199.
 
-
-
 Everybody is getting into the act, as Macrumors' Juli Clover noted in her own
-
 Walmart-related post. "Best Buy is offering a $75 discount on the iPhone 5s with
-
 the purchase of a two-year contract and MacMall is offering the 16GB iPhone 5s
-
 for $120 and the 16GB iPhone 5c for $20," she writes. "Sam's Club will be
-
 selling the iPhone 5s for $119 with a two-year contract through January. From
-
 Dec. 13-15, the deal will be available to non-members as well."
 
-
-
 But there is more to this than meets the eye bedazzled by Christmas, or
-
 "holiday," tinsel and lights, according to Kristin Dian Mariano. In her post at
-
 International Business Times, she reveals to readers that "This sudden decrease
-
 in iPhone prices hint the coming iPhone 6 release date, which is speculated to
-
 happen early next year."
 
-
-
 Early. Next. Year. Is that a Christmas present or what, even if it is
-
 technically after Christmas. Of  course, that would mean that you should not, no
-
 matter how tempting the low price, buy the iPhone 5S or 5C because they are
-
 about to replaced, perhaps in a matter of weeks, by the Awesome Blockbuster
-
 iPhone 6. Or you could just wait for the iPhone 7.
 
-
-
 John Cox covers wireless networking and mobile computing for Network
-
 World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: December 23, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

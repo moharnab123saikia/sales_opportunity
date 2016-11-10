@@ -1,364 +1,155 @@
-                              545 of 820 DOCUMENTS
-
-
-
-
-
-                                The Irish Times
-
-
-
-                           February 25, 2016 Thursday
-
-
-
-Internet of Things centre stage at Mobile World Congress;
-
-You could barely move without tripping over a stand that promised some form of
-
-IoT breakthrough
-
-
-
-BYLINE: Ciara O'Brien
-
-
-
-SECTION: FINANCE; Pg. 5
-
-
-
-LENGTH: 1402 words
-
-
-
 
 
 Every conference needs a buzzword or phrase. In recent years, smart, connected
-
 and social all got their turn in the spotlight, as executive after executive
-
 trotted out the phrases on stage in an attempt to convince attendees that their
-
 fingers really were on the pulse of the mobile industry.
 
-
-
 This year, it was the turn of the Internet of Things. You could barely move
-
 without tripping over a stand that promised some form of IoT breakthrough. The
-
 phrase was used almost carelessly at times, applied to almost any old thing with
-
 which it could have a vague connection.
 
-
-
 The idea that everything is connected, communicating to help make life easier
-
 and more efficient is certainly not new. It has been a feature of tech
-
 conferences for some time now, offering a new take on how we will all live in
-
 the coming years.
 
-
-
 But at Mobile World Congress this year, the shift was definitely from simply a
-
 consumer thing, with smart homes and connected cars taking the centre stage, to
-
 how industry could benefit from the Internet of Things. That was an area where
-
 Irish companies saw their opportunity. The show was the launchpad for Eir
-
 Business's Internet of Things platform, which is powered by Irish company
-
 Asavie.
 
-
-
 The company sees the platform as a huge opportunity for its business, one that
-
 could be worth millions in years to come.
 
-
-
 The truth is that while mobile is still the key focus of the show, mobile phones
-
 are not the main draw for either attendees or exhibitors.
 
-
-
 Huawei, for example, did not debut its P9 phone as expected at the event.
-
 Instead, it showed off a new Windows 10 tablet, the MateBook. An update to its
-
 flagship phone is likely to come later in the year, at a separate event.
 
-
-
 Sony may have debuted the X series phones, but the Xperia Z range was left as it
-
 was. Of the major phone manufacturers, it was left to Samsung, LG to provide the
-
 bit handset announcements of the show: Samsung with the S7 and S7 Edge, and LG
-
 with the modular G5.
 
-
-
 Chinese firm Xiaomi, in its first time at Mobile World Congress, also unveiled a
-
 new flagship smartphone, while Alcatel debuted the Idol 4.
 
-
-
 The Barcelona event may have been the platform for a number of key launches in
-
 recent years, but you get the impression that the annual Consumer Electronics
-
 Show in Las Vegas may have stolen its thunder a little in terms of big launches
-
 this year.
 
-
-
 Although more than 100,000 people are expected to walk through the doors of the
-
 Fira Gran Via, that number is still eclipsed by the attendance at CES.
 
-
-
 Michael O'Hara of GSMA (Groupe Speciale Mobile Association) said the show was
-
 primarily about businesses and, with more than 5,000 chief executives attending,
-
 the GSMA was happy Mobile World Congress was fulfilling its mandate.
 
-
-
 Among those chief executives was Mark Zuckerberg. The Facebook founder was on
-
 stage on Sunday to help Samsung launch its new products in virtual reality, with
-
 Samsung's Gear VR - powered by Oculus technology - playing a starring role at
-
 the event.
 
-
-
 In addition to the S7 Edge, Samsung was unveiling its Gear 360 camera, which is
-
 designed to capture and share footage from two 180-degree lenses.
 
-
-
 Zuckerberg outlined why he was backing the Gear VR as solution for consumers who
-
 wanted a less expensive way to get into VR, describing it as the best mobile
-
 virtual reality headset. The key to that, he said, Samsung's OLED screens for
-
 its phones, the display for the headset.
 
-
-
 He told the audience that VR was the future of sharing, outlining how things had
-
 developed from the time he took his first steps; his daughter's will be captured
-
 not on film, but with a 360-degree camera that will capture the entire scene.
 
-
-
 Facebook is also experimenting with new ways to bring VR to consumers, with
-
 dynamic streaming for its 360 videos that will quadruple the video resolution
-
 while cutting the bandwidth needed to stream the immersive content.
 
-
-
 LG was also jumping into virtual reality, announcing a headset ahead of the
-
 start of Mobile World Congress. Even Alcatel got in on the act with its Idol 4
-
 phone packaging that turns into a VR headset.
 
-
-
 The discussion on 5G was not only dominated by the Internet of Things and how it
-
 would facilitate the next generation of connected devices, but also how it would
-
 help with sharing content from cameras such as Samsung's device.
 
-
-
 But could virtual reality be a similar fad - and suffer a similar fate - as 3D?
-
 It's not unthinkable. A few years ago at CES and games exhibition E3, everyone
-
 was pushing 3D as the next great frontier for the entertainment industry,
-
 offering TVs and smartphones that took advantage of the new technology.
-
 Attendees at press conferences were presented with 3D glasses and urged to wear
-
 them for special presentations, leaving a good chunk of the audience nauseated.
-
 Fast forward a few years and there are only a few stragglers trying to push
-
 "glass-less" 3D to a disinterested audience.
 
-
-
 It is difficult to gauge exactly what will grab the most attention in the wake
-
 of Mobile World Congress, but one topic that wasn't going away was adblocking.
-
 Operators are about to break new ground. Three is to start blocking ads on its
-
 UK and Italy networks, allowing customers to choose what is relevant to them, a
-
 move that is sure to spark controversy among advertising networks and publishers
-
 alike.
 
-
-
 The company is partnering with Israeli start-up Shine to carry out its strategy,
-
 forcing a rethink in the industry. The move is ostensibly to stop consumers
-
 having to suffer through irrelevant advertising and paying for the privilege in
-
 the form of their data allowances, but the whispers around the show floor
-
 indicate that adblocking technology is being seen as having less altruistic
-
 motives for network operators who are tired of investing money in their
-
 infrastructure, only to have other companies make money of the back of it.
 
-
-
 With 5G networks set to begin their rollout in the coming years, you can see why
-
 operators are starting to get a little jittery about getting the most out of
-
 their investment. One firm that was eager to make the most of the opportunity
-
 was Unlockd, a platform that claimed to be the antidote to adblocking. It offers
-
 a discount to customers on their mobile bills in return for allowing
-
 geo-targeted display ads every third time the user unlocks their mobile phone
-
 screen.
 
-
-
 If the show was all about the evolution of mobile, the payments industry
-
 certainly needs to get a look in. Several months after separating from Ebay,
-
 Paypal announced somewhat of a turnaround when it revealed a new app that uses
-
 near-field communications to turn phones into digital wallets, interacting with
-
 existing contactless payment terminals.
-
-
 
 The new function is set to roll out in the US and Australia first.
 
-
-
 It is a it of a turnaround from Ebay president - then chief executive - John
-
 Donahoe and his assessment of "Not For Commerce" some years ago.
 
-
-
 "We didn't dismiss it," said Paypal's head of communications Rob Skinner. "We
-
 had some experiments with NFC in our app four or five years ago. Ultimately
-
 consumers didn't care, there were very few places you could use it." That has
-
 changed in recent years, with contactless payments on public transport in London
-
 kickstarting a surge towards NFC payments that Paypal has followed.
 
-
-
 There are other plans to put the mobile phone at the heart of payments. "NFC
-
 works in some situations but it doesn't work in all," said Paypal's consumer
-
 produce and engineering vice president Joanna Lambert. "That's where in-app
-
 payments will come in. There's so many different opportunities to improve the
-
 experience."
 
-
-
 MasterCard, meanwhile, said it would begin to use "selfies" to verify online
-
 payments, with the additional security check of being asked to blink to prove
-
 they are a real person and not a photograph. Anyone who has been burned by the
-
 verified Visa system in the past may welcome this development, which also offers
-
 the opportunity to use biometric authenticators such as fingerprints.
 
-
-
 Research from Ovum found there will be more than 2 billion users of mobile
-
 commerce by 2019, up from almost 453 million in 2014.
 
-
-
 "Smartphones have become a platform that can support the whole shopping journey,
-
 from product search and discovery, through comparisons and recommendations, to
-
 payments," said Eden Zoller, Ovum's principle analyst in consumer services and
-
 payments.
 
-
-
 Although Mobile World Congress is winding down for this year, it's clear the
-
 hard work is just getting started.
-
-
-
-LOAD-DATE: February 24, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-                         Copyright 2016 The Irish Times
-
-                              All Rights Reserved
-
-
-
-
 

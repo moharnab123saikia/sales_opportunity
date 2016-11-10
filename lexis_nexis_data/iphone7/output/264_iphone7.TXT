@@ -1,0 +1,126 @@
+
+
+iFixit and their friends Chipworks have as always done a great job of totally
+taking apart the new waterproof iPhones, down to the chip level.
+
+A surprising amount of chips from Intel, the electronics giant usually seen as
+having missed the mobility train, are assembled into the new iPhones, Chipworks
+found. There"s 256GB storage now for the top end models, and 3GB of RAM in the
+iPhone 7 Plus, and 2GB in the smaller iPhone 7 for storing and processing large
+files.
+
+Extra memory notwithstanding, the new three-billion transistor A10 Fusion Apple
+designed chip with two low-power and two performance cores, performs just as
+well in in the iPhone 7 as it does in the iPhone 7 Plus.
+
+As long as the iPhone 7 doesn"t get too hot, that is.
+
+Its smaller case dissipates less heat than the iPhone 7 Plus"s large enclosure,
+and as a result, the 7 tends to throttle down earlier.
+
+Long story short, if you like mobile gaming, the iPhone 7 Plus is the device for
+you - the larger screen also makes for a nicer gaming experience.
+
+Geekbench 4.0 scored the A10 Fusion at 3,473 for single-core, and 5,603 for
+multi-core on iOS 10.0.1.
+
+My guess is that the 12.9-inch iPad Pro will be upgraded first, and get a
+wide-colour gamut screen as well.
+
+That"s faster than the iPad Pro 12.9-inch and 9.7-inch, not to mention the
+iPhone 6s and 6s Plus; none of the devices that are built with Apple"s previous
+A9 silicon ever feel slow though, and should keep you happy for two more years
+at least.
+
+It is also faster than the 2,745/5,219 Geekbench 4 score a 2016 MacBook with 8GB
+RAM manages, which tells you the A10 Fusion is no slouch.
+
+That said, the GFXBench Metal games benchmark saw the iPhone 7 and 7 Plus race
+ahead with quite some margin, with over 50 per cent better frames rates in some
+tests. So yes, demanding games might warrant an iPhone upgrade (if you have deep
+pockets).
+
+Added to the hardware mix, there"s also an nearfield communications (NFC) chip
+which will become more useful when Apple Pay lands in New Zealand with ANZ next
+month.
+
+It"s a reasonably safe bet that the A10 Fusion chip will make it into an updated
+iPad Pro fairly soon, running at a faster clock frequency to wring out
+additional performance. My guess is that the 12.9-inch iPad Pro will be upgraded
+first, and get a wide-colour gamut screen as well.
+
+Revealing rip it up
+
+The iFixit teardown revealed what Apple replaced the 3.5mm phono jack with: a
+new, large Taptic Engine for the Home button which isn"t an actual button. The
+Taptic Engine buzzes the Home button area, simulating the feeling of when you
+depress a real mechanical and it"s very realistic.
+
+Making it even more of an engineering tour de force, the Home "button" features
+the Touch ID fingerprint scanner. This is able to read recorded fingerprints
+fast and accurately, despite the Taptic Engine buzzing the Home button at the
+same time.
+
+The non-mechanical, immovable Home button means there"s one thing less to wear
+out on the iPhone 7, and it helps with the waterproofing of the device as well.
+
+Apple has a bit more work to do with the iPhone 7 Home button though: with iOS
+10, you press the Home button and don"t swipe the screen to unlock an iPhone.
+
+This works, but it"s too easy to invoke Siri currently, instead of unlocking
+iPhone. There is a way to return to the old behaviour, when you rest your finger
+on the Home button to wake up the iPhone: it"s hidden under
+General/Accessibility part of Settings.
+
+The non-mechanical, immovable Home button means there"s one thing less to wear
+out on the iPhone 7, and it helps with the waterproofing of the device as well.
+But, the Home button is capacitive, which means only your naked finger can
+trigger it. Poking at it with pens or gloved fingers won"t work on the iPhone 7
+as it did on iPhone 6.
+
+What about the second "speaker grille" though at the bottom of the device where
+the 3.5mm jack uses to be? Well, that grille had lots of people fooled into
+thinking it hid a second speaker, because the iPhone 7 is now stereo sound
+capable.
+
+That grille hides a barometric sensor that works out the air pressure around
+you, to determine the height you"re at. Yes, it"s waterproof too.
+
+The stereo sound is achieved with the top earpiece speaker instead. This works
+pretty well, with decent channel separation and loudness. You"re not ever going
+to use the iPhone 7 as a party boombox, but the sound is heaps better than the
+iPhone 6s, with the 7 Plus being the best thanks to its larger size.
+
+If the goal is to simplify the iPhone 7 design, make it more robust and sealed
+against dust and moisture, doing away with the SIM card would be a natural thing
+to do.
+
+Apple has apparently fixed those notorious wireless Bluetooth device pairing
+problems, with the W1 chip that goes into headsets. That"s great news, but
+there"s very little detail yet as to how the W1 chip works, how it speaks to
+iPhones, and if it"ll make things sound better.
+
+What"s next for the iPhone?
+
+What"s left for Apple then, to add in the iPhone 8 or 9? One thing that I
+expected to appear for the iPhone 7 was wireless charging. This seemed like a
+natural feature to add if you remove the 3.5mm phono jack, making it impossible
+to charge and listen to music via the Lightning port at the same time, unless
+you buy another adapter.
+
+Wireless charging is available for the Watch, but maybe Apple thought using pads
+that have to be in contact with devices isn"t right for iPhones? I"m sure we"ll
+find out soon.
+
+The built-in Apple SIM (subscriber identity module) that"s available for iPads
+and which lets you buy plans and switch providers in the Settings app didn"t
+make it to the iPhone 7 either.
+
+Again, if the goal is to simplify the iPhone 7 design, make it more robust and
+sealed against dust and moisture, doing away with the SIM card would be a
+natural thing to do, but no, not this time. Maybe the telcos put their
+collective foot down on this?
+
+Dumping the SIM tray and rearranging stuff inside the case might create enough
+space to have three cameras on the next iPhone too, with a further lens.
+

@@ -1,492 +1,222 @@
-                              846 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                            January 24, 2014, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending Jan. 24;
-
-Dual iPhone 6's, another vote for 4.8-inch screen, no sale
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1910 words
-
-
-
 
 
 Picture a cow chewing its cud. Then picture it chewing its cud while on
-
 amphetamines, and you get an idea of the iOSphereduring the past week.
 
-
-
 Yet again, there was a frenzy of rumor rehashing. For example, new rumors of two
-
 iPhone 6s, both with much bigger screens than today's 4-inch display, still
-
 based on anonymous sources. In this case, anonyms "familiar with the situation."
 
-
-
 One Wall Street analyst got specific, predicting a 4.8-inch screen. Previously,
-
 and still, there are predictions of 4.7 inches and 4.9 inches. Perhaps he
-
 decided to split the difference, which is a good a basis for a prediction as the
-
 familiars.
 
-
-
 There was a momentary thrill when bloggers drooled over an anonymous YouTube
-
 video showing parts from an iPhone 6 "taken at an Apple factory!" The metal body
-
 was clearly made of the wondrous Liquidmetal and it was clearly larger than the
-
 current iPhone 5S. Until someone pointed out it was from the iPhone 4S. Which is
-
 just pedestrian aluminum and...smaller.
 
-
-
 Finally, early release sirens went off when someone woke up and realized that
-
 all these incredible iPhone 5S and 5C discounts Meant Something Big, namely that
-
 Apple was clearing out inventory to pave the way for iPhone 6, whose
-
 announcement could therefore happen at any moment for the next six months at
-
 least.
-
-
 
 You read it here second.
 
-
-
 "It's been widely expected that Apple will launch an iPhone with a larger
-
 screen, but this is the first solid indication that Apple could be launching
-
 phones in multiple screen sizes...," Jordan Golson assures his readers at
-
 MacRumors.  His faith in the Mainstream Media is touching. This "first solid
-
 indication" is a story this week in the Wall Street Journal that Apple has in
-
 varying stages of development two future iPhones with larger-than-4-inch
-
 screens. The story is behind a paywall but MarketWatch has what appears to be
-
 the opening few paragraphs.  +More on Network World: Mac 30 | 30 years of
-
 Apple's Mac computer | The Mac at 30: Tales from the Berkeley Mac Users Group |
-
 Apple's Mac: the Post-PC PC? + Golson's faith in the Mainstream Media is
-
 touching. He and others are "reporting" that the Journal is reporting that Apple
-
 will have larger-screen iPhones. In fact, the Journal is only reporting that
-
 unnamed "people familiar with the situation" say that Apple "plans larger
-
 displays on a pair of iPhones due for release this year." There's no indication
-
 who these people are, how they are familiar with the plans or even what
-
 "familiar" means here. Since the same rumor, including the time frame, has been
-
 "reported" for most of the past 12 months, this doesn't add much.
 
-
-
 Unless, like Golson, you make a leap of faith that the Journal's sources are
-
 better than those of other news sites and bloggers.
 
-
-
 Like BGR's Brad Reed, whose conclusion from the story is "It looks like Apple is
-
 taking a page from Samsung in more ways than one" - not just a bigger screen but
-
 two bigger screens, you know, like the Samsung Galaxy S 4 and Galaxy Note 3. If
-
 you can't innovate, imitate.
 
-
-
 The Journal's unnamed sources say that Apple is developing one phone with a
-
 screen "larger than 4½ inches measured diagonally, and a second version with a
-
 display bigger than 5 inches." The phones are "expected in the second half" of
-
 2014.
 
-
-
 Then there's this: "The smaller of the two models is further along in
-
 development, and is being prepared for mass production, the people said. The
-
 larger-screen version is still in preliminary development, they said."
 
-
-
 Apple is a model of supply chain efficiency but, to The Rollup, it seems a big
-
 of a stretch to infer that a smartphone model that is currently "still in
-
 preliminary development" is going to be ready for mass production by late summer
-
 or fall 2014.
 
-
-
 Time's Harry McCracken, commenting on the Journal story, raised the issue of how
-
 Apple will address OS and application sizing with possibly three different
-
 screen sizes. "What's tricky is rejiggering iOS to accommodate a new screen
-
 size," he writes.
 
-
-
 "(Unlike Android, iOS isn't designed to fluidly reconfigure itself for whatever
-
 screen size it finds itself on.)" If Apple goes with larger screens, he thinks
-
 that "Apple will make significant adjustments to iOS to deal with new
-
 resolutions" and those adjustments are likely to be revealed at the June 2013
-
 Apple Worldwide Developers Conference.
 
-
-
 It's not clear to The Rollup that Apple would have to make "significant
-
 adjustments" in iOS, if the term refers to rewriting a lot of code. Assuming iOS
-
 uses a modular architecture, it may be possible for Apple to "unplug" the chunk
-
 of code dealing with resolution and replace it with one that can dynamically
-
 adjust to different size iPhone screens, though that is undoubtedly
-
 oversimplifying the decisions Apple has to make in increasing the screen's size
-
 and presumably resolution and pixel density.
 
-
-
 Presumably, app developers then get a tweaked interface to use, though at least
-
 some apps may have to be at least partly rewritten to make proper use of
-
 different screen sizes.
 
-
-
 There was a tremor in the iOSphere for a few hours Friday morning when a YouTube
-
 video appeared (we're not posting a link to it, you can search the site for
-
 "MrVoolp" to find it) which claimed to be "iphone 6 parts!!!. This video was
-
 filmed at the Apple Factory."
 
-
-
 Some were dazzled. At TechieNews, Abhishek Gohel burbled that "The video shows
-
 off a unibody-constructed smartphone shell, which is claimed to be of iPhone 6."
 
-
-
 Despite the graininess and blur, Gohel was able to discern Very Important
-
 Features. "The shell is of a larger form factor and seems to be made from
-
 Liquidmetal," he declared, though how he would know it's Liquidmetal isn't
-
 explained. "Further, the shell seems to be taller and in line with latest
-
 reports of a larger screened iPhone 6."
 
-
-
 BusinessInsider's Steve Kovach offered his keen-eyed appraisal, too. "While
-
 there's nothing in the video to give you a perception of how large the shell is,
-
 you can tell the ratio of the screen size is a bit wider than the iPhone 5S/5C,"
-
 he assured readers.
-
-
 
 "That likely means the screen would be larger."
 
-
-
 There you have it.
-
-
 
 Or had it, until MacRumors' Editor Eric Slivka, @wildcowboy, tweeted the
-
 following: "Video of 'iPhone 6 chassis' starting to make the rounds. It's an
-
 iPhone 4s part."
 
-
-
 The 4S height is 4.5 inches compared to the 5S height of 4.87 inches, which
-
 means the mystery part that people think shows a larger-screen iPhone...actually
-
 shows a smaller-screen iPhone.
-
-
 
 There you have it.
 
-
-
 This week another Wall Street analyst offered his guess (usually disguised as a
-
 "note to investors" or NTI) that Apple for sure will have a
-
 bigger-than-four-inch screen on the iPhone 6.
 
-
-
 AppleInsider picked up on the latest NTI, this one by Timothy Arcuri of Cowen
-
 and Company. Apparently Arcuri claims in the note that Apple has "locked down"
-
 the phone's design, which will feature a 4.8-inch display and the
-
 high-throughput 11ac Wi-Fi Apple introduced 11ac in 2013 on some Macs and router
-
 products but not yet in its phones or tablets.
 
-
-
 Acuri's predictions are based apparently on his talks with people in the supply
-
 chain, though it's not clear he means Apple's supply chain specifically or just
-
 various Asian contract manufacturers.
 
-
-
 He also predicts, that "Apple is planning 'key software innovations,'" according
-
 the AppleInsider post. "He expects the company will leverage iBeacon [a
-
 Bluetooth Low Energy radio], Touch ID [the integrated fingerprint scanner], and
-
 Passbook [which collects stuff like movie tickets, loyalty cards, coupons] as
-
 part of a push into new services with mobile payments."
 
-
-
 It seems likely that all three of these features eventually will play a role in
-
 a system of mobile payments. Whether that system - which will entail Apple
-
 partnering with an array of outside parties and possibly making some major
-
 infrastructure investments - will be ready in the latter half of 2014 remains to
-
 be seen.
 
-
-
 You may have noticed that you can buy an iPhone 5S right now for less than the
-
 "official" Apple price of $199 for the 16GB model.
 
-
-
 But you probably didn't notice the Real Meaning of the price cut. Now you do,
-
 thanks to the shrewd analysis by Monica Walken, at MotoringCrunch. The headline
-
 of her post sums it up succinctly and colorfully: "Early Release Schedule Sirens
-
 Go Off As 5S Falls Into Bargain Bin."
 
-
-
 "It was only September last year when both the iPhone 5s & 5c got launched and
-
 prices for both devices have been going down the charts ever since," she
-
 declares. "Today, both the iPhone 5s & 5c are relatively affordable and
-
 consumers can get them for a steal."
 
-
-
 One doesn't usually find "relatively affordable" equated with "a steal."
-
 Relatively affordable means that something is...well, relatively affordable. A
-
 steal is something you get for nothing, or almost nothing.
 
-
-
 "Walmart is selling away the iPhone 5c for just $27 instead of $99," Walken
-
 says. "This deal is only applicable with a two-year contract."
 
-
-
 Walken seems to be referring to the limited-time offer that Walmart launched in
-
 December. On Walmart's online site, if you search selecting "iOS," you can't
-
 find any iPhone today (Jan. 24) with a pricetag that remotely resembles $27. Or
-
 even $99.
 
-
-
 "It isn't just with Walmarts," Walken assures her readers. "Other retailers like
-
 BestBuy and Mac Mall are into it as well.
 
-
-
 The latter has the best offer for the iPhone 5S. The 32GB is going away for a
-
 mere $120 whereas the 16GB variants have a price tag of $20."
 
-
-
 Searching MacMall for "iPhone 5S" brings up results that show the cheapest
-
 iPhone 5S is a 16GB model, for $99, with a two-year Verizon Wireless Contract.
-
 At Best Buy, the same search shows the 16GB iPhone 5S being offered by AT&T
-
 Wireless, Sprint, and Verizon Wireless - all with a two-year contract -- for
-
 $150, a discount of about $50 from the regular, standard price.
 
-
-
 "It is not like these retailers are putting up offers at their own free will,"
-
 Walken asserts. "Apple is known to control the pricing of its product. Despite
-
 that fact, it is a wonder why the phone-vendor is gradually decreasing the
-
 prices of these devices."
 
-
-
 It's a wonder all right. And she has an answer to the wonderment. "Tech-savvy
-
 forums have been hinting that there will be an early iPhone 6 launch," Walken
-
 says. "This could be why Apple is giving away the iPhone 5S and 5C for a
-
 bargain."
 
-
-
 Perhaps the wailing of the early release siren is making it hard for Walken to
-
 think clearly. When one thinks of Apple, the word "bargain" isn't the first word
-
 that comes to mind. From what The Rollup recalls, the carriers and retailers buy
-
 their iPhones from Apple, which gets the money - a lot of money - upfront.
 
-
-
 For the carriers, there is a powerful "iPhone Network Effect" - subscribers with
-
 iPhones apparently do a lot more web surfing and other activities that consume
-
 data, and the carriers sell data plans. The more data that subscribers use, the
-
 more likely they are to want a data plan with a higher cap. The iPhone Network
-
 Effect is plenty of incentive to offer a range of promotions and discounts, all
-
 year long, to entice new phone users or upgraders.
 
-
-
 Neither Apple nor the carriers appear to have talked in public about what
-
 pricing constraints or requirements Apple imposes on companies reselling the
-
 iPhone.
 
-
-
 So the idea that a Walmart discount or a Walmart-and-Best Buy-and-MacMall
-
 discount is a hint, let alone proof, of the any-moment-now announcement of the
-
 iPhone 6 is a fantasy.
 
-
-
 John Cox covers wireless networking and mobile computing for Network
-
 World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: January 27, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2014 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

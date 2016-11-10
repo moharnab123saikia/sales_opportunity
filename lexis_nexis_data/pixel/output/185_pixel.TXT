@@ -1,122 +1,38 @@
-                              185 of 997 DOCUMENTS
-
-
-
-
-
-                                  Techtree.com
-
-
-
-                     October 12, 2016 Wednesday 6:30 AM EST
-
-
-
-Here's Why Google Pixel Does Not Need OIS Feature On Its Camera
-
-
-
-BYLINE: Wrik Sen
-
-
-
-LENGTH: 354  words
-
-
-
 
 
 The mystery is their software based algorithm, which helps in taking good shots
-
 in low-light conditions.
 
-
-
 With the competition in higher end of smartphone market heating up with the
-
 introduction of the Google Pixel handsets earlier this month, it is time that
-
 the nitty-gritties of the phone be scrutinized, even by the fanbase of Google
-
 and Android. This time, the issue is the absence of OIS (Optical Image
-
 Stabilization) a staple feature in most smartphones these days, including some
-
 lower cost models, including some mid-range handsets. Everyone is already
-
 wondering, what could be the reason behind it, and what trick Google has up its
-
 sleeve, since it claims that it takes the best pictures in low-light conditions,
-
 and 4K definition. The answer lies, in the software algorithm, hence EIS
-
 (Electronic Image Stabilization).
 
-
-
 On a dedicated forum for Google Pixel, an employee with user id IsaacOnCamera,
-
 detailed out the Google reason for opting out of the OIS feature on the Pixel
-
 Handsets. Though the reasoning itself omitted the technical feature like
-
 1.55-micron rear and 1.4-micron front pixel size of the cameras, which are
-
 extremely crucial to taking good quality images on the handsets, the reasoning
-
 has based on EIS.
 
-
-
 He explained, "It compensates for hand shake, allowing longer exposures in low
-
 light, but this in turn increases motion blur within the frame. And it comes
-
 with all kinds of trade-offs, starting off with its physical size (meaning it
-
 would be harder to produce the slim/small device that Pixel is." However, in
-
 comparison, the Pixel handsets use the HDR+ algorithm, which is the in-house
-
 developed algorithm from the company, to take images of that quality which other
-
 premium handsets take.
 
-
-
 For further clarifications on videos, Google Pixel is actually using EIS to
-
 improve upon the shaky videos by bringing in a consistency in framing between
-
 multiple video frames. According to IsaacOnCamera, this is the reason by despite
-
 the absence of OIS, the EIS advanced feature helps Pixel handsets take such high
-
 quality videos and pictures, even in 4K resolution, while also maintaining the
-
 slim profile.
-
-
-
-LOAD-DATE: October 12, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-            Copyright 2016 Techtree.com, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

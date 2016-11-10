@@ -1,178 +1,65 @@
-                              618 of 997 DOCUMENTS
-
-
-
-
-
-                                  Stock Watch
-
-
-
-                     February 27, 2016 Saturday 6:30 AM EST
-
-
-
-Google's PlaNet neural-network effort can identify details of photograph from
-
-its pixels
-
-
-
-BYLINE: Betty Laseter
-
-
-
-LENGTH: 581  words
-
-
-
 
 
 Google's new intelligent platform PlaNet has the ability to find out the
-
 location at which a particular photograph has been taken. To find out location
-
 of the image, the program just needs to see the image's pixels. The
-
 deep-learning machine can outperform humans to identify location a street scene
-
 or any indoor object from just an image.
 
-
-
 The project is being led by Google computer-vision specialist Tobias Weyand, who
-
 has explained as to how the researchers have trained a convolution neural
-
 network with a massive dataset of images sourced from Google+ with geo-tag data
-
 or image metadata.
 
-
-
 The new platform uses multiple visual cues, including weather patterns,
-
 vegetation, road markings, and architectural details in order to identify an
-
 exact location in some cases. The system was developed by dividing the world
-
 into a grid of 26,000.
 
-
-
 In order to train the network, the search-engine giant, Google has used a
-
 dataset of 126 million images from the web with Exif image metadata and then
-
 split off 91 million images for training and 34 million images for validation. A
-
 test was carried out in order to check how PlaNet has fared against 10
-
 well-trained humans, the researchers found that PlaNet won 28 out of 50 rounds.
 
-
-
 "One would expect that these cues, especially street signs, together with world
-
 knowledge and common sense, should give humans an unfair advantage over PlaNet,
-
 which was trained solely on image pixels and geolocations. Yet PlaNet was able
-
 to outperform humans by a considerable", affirmed experts.
 
-
-
 In order to improve its geolocation abilities, the researchers have trained the
-
 machine to do sequence location, which is to exploit the way photos are taken in
-
 sequences and the system uses the entire photo albums.
 
-
-
 In the training and testing data, the method proved to be even more effective at
-
 geolocation as researchers reported 50% higher performances than the
-
 single-image model.
 
-
-
 In a report published by the TechnologyReview, PlaNet trounced the humans.
-
 nevertheless, humans are surprisingly good at this task. To help, they bring to
-
 bear all kinds of knowledge about the world such as the type and language of
-
 signs on display, the types of vegetation, architectural styles, the direction
-
 of traffic, and so on. Humans spend a lifetime picking up these kinds of
-
 geolocation cues.
 
-
-
 "In total, PlaNet won 28 of the 50 rounds with a median localization error of
-
 1131.7 km, while the median human localization error was 2320.75 km," say Weyand
-
 and co. "[This] small-scale experiment shows that PlaNet reaches superhuman
-
 performance at the task of geolocating Street View scenes."
 
-
-
 A report published in the BusinessInsider said, a pair of Google employees have
-
 built a system called PlaNet that attempts to pinpoint the location of where a
-
 photograph was taken by analysing the pixels it contains.
 
-
-
 "We think PlaNet has an advantage over humans because it has seen many more
-
 places than any human can ever visit and has learnt subtle cues of different
-
 scenes that are even hard for a well-travelled human to distinguish,"
 
-
-
 "Google's latest product can tell where in the world a picture was taken just by
-
 loooking at it. The program, named PlaNet, uses neural network technology to
-
 analyse images and make educated estimates about where in the world they're
-
 from," according to a news report published by Independent.
 
-
-
 Google's researchers 'trained' the program by feeding it over 91 million Street
-
 View pictures from around the world, along with their associated location data.
-
-
-
-LOAD-DATE: February 27, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-          Copyright 2016 Manas Informatics, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

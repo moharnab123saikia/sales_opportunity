@@ -1,106 +1,30 @@
-                              280 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                           August 27, 2014 Wednesday
-
-
-
-US Patent granted to Google Inc. (California) on August 26 titled as "Imaging
-
-device with a plurality of depths of field"
-
-
-
-LENGTH: 233  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has granted patent no. 8,817,167, on
-
 August 26, 2014, to Google Inc. (California), titled as "Imaging device with a
-
 plurality of depths of field"
 
-
-
 Inventors: Miao; Xiaoyu (Sunnyvale, CA)
-
 Assignee: Google Inc. (Mountain View, CA)
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office: "An
-
 imaging device includes an image sensor that includes a first group of pixels
-
 and a second group of pixels disposed on a semiconductor die. The first group of
-
 pixels are arranged to capture a first image and the second group of pixels are
-
 arranged to capture a second image. The imaging device also includes a first
-
 lens configured to focus image light from a first focus distance onto the first
-
 group of pixels. The imaging device further includes a second lens configured to
-
 focus the image light from a second focus distance onto the second group of
-
 pixels and not the first group of pixels. The first lens is positioned to focus
-
 the image light from the first focus distance onto the first group of pixels and
-
 not the second group of pixels. The first focus distance is different than the
-
 second focus distance."
-
-
 
 The patent was filed on. July 13, 2012 Application no. 13/548,717
 
-
-
 For more information please visit: http://www.uspto.gov/. In case of any query
-
 regarding this article or other content needs please contact:
-
 editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: August 27, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2014 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

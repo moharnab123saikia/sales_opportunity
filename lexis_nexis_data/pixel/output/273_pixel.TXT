@@ -1,310 +1,132 @@
-                              273 of 997 DOCUMENTS
-
-
-
-
-
-                                  Techtree.com
-
-
-
-                     October 15, 2016 Saturday 6:30 AM EST
-
-
-
-Top 10 Consumer Tech Stories Of The Week - Oct 10 to Oct 15
-
-
-
-BYLINE: Team TechTree
-
-
-
-LENGTH: 1203  words
-
-
-
 
 
 Here's the roundup of the Top 10 Stories of the week...
 
-
-
 Newly launched Google Pixel smartphones and iPhone 7 along with the explosive
-
 Samsung Galaxy Note 7 seems to be the top trending stories every week. And, this
-
 week too, the legacy continues. While we compared a list of interesting stuffs
-
 you can actually avail for amount lesser than that of an iPhone 7 price tag,
-
 including Thailand holiday, we even showcased two lines of code that can
-
 actually bring the Google Assistant into your smartphone, without actually
-
 shelling out thousands for a new Pixel smartphone.
 
-
-
 Having said that, we couldn't stop ourselves from sharing the excitement of
-
 Pixel smartphones being available up on Flipkart for pre-orders. This week, we
-
 even came across Cyanogen OS's new ray of hope, a modular OS and a new CEO!
 
-
-
 Along with this, will Xiaomi's costliest phone by priced around INR 40,000? That
-
 is one more interesting thing we have come across this week, along with
-
 Samsung's announcement of halting the production of the explosive Galaxy Note 7.
 
-
-
 As usual, this week was a roller coaster ride for tech lovers, and if you had
-
 missed out a part of it, here's a list of 10 best stories we have had on
-
 TechTree this week.
-
-
 
 Is This The Costliest Xiaomi Smartphone So Far?
 
-
-
 Xiaomi is known for its budget segment smartphones that come with slew of
-
 interesting features, along with other smart products ranging from accessories
-
 to smart home appliances. However, what would the price of the costliest Xiaomi
-
 smartphone ever be? Well, there are reports stating that the Chinese smartphone
-
 company is rumoured to soon launch a new smartphone dubbed as Mi Note 2. While
-
 we have already come across many rumours about the Mi Note 2, the latest
-
 speculation is an interesting one.
-
-
 
 Read The Full Story Here
 
-
-
 Things You Can Do Instead Of Buying The iPhone 7
 
-
-
 The latest duo of iPhones sport a sleek design, waterproof body, and they don't
-
 explode like their biggest competitor. Little wonder then, the iPhone 7 and 7
-
 Plus are among the best high-end handsets in the market. However, for most of us
-
 Indians, the biggest issue with the latest iPhone is its pricing. Take for
-
 instance the iPhone 7, which is relatively cheaper than the iPhone 7 Plus. Now
-
 the 32 GB base model of the iPhone 7 costs a whopping Rs 60,000. I agree that
-
 the latest iPhone is a performance beast with classy looks.
-
-
 
 Google Pixel And Pixel XL Open For Pre-Orders On Flipkart
 
-
-
 Google Pixel has bought it's latest flagship, the Pixel and Pixel XL
-
 smart-phones in the country, and the counter for pre-orders have been opened.
-
 The orders shall be taken from mid-might on Flipkart, and the deliveries for the
-
 same ought to begin by the 26th October. Starting at Rs 57,000 for the Pixel,
-
 there are the 32GB and 128GB options available for storage, and for the colors,
-
 only the 'Very Silver' and 'Quiet Black' are open for sales. In fact, the Pixel
-
 is available in Quiet Black color only, and the special edition 'Really Blue'
-
 color is expected to come to India at a later date, but according to some
-
 sources, may not come to India at all.
-
-
 
 These Two Lines Of Code Can Bring Google Assistant To Your Phone
 
-
-
 Google Assistant has become quite popular ever since it was unveiled recently
-
 along with a Pixel smartphone by the search engine giant. But, laying hands on
-
 the Pixel smartphone is still a dream for many, all thanks to its price tag.
-
 However, you can definitely get Google Assistant to almost any smartphone that
-
 runs on Nougat. If not Nougat, then you may have to install it. And, the second
-
 important point is that you will need root access.
-
-
 
 Huawei Launches The Honor 8 For Rs 30,000
 
-
-
 Announced back in July, the Honor 8 has made its way to India. Much like the
-
 Honor 6 Plus, this handset comes with a 12-megapixel dual camera setup. While
-
 iPhone 7 Plus is yet to take full advantage of its two lenses, Honor uses the
-
 camera assembly to enable users to play with depth of field even after clicking
-
 the photograph. The phone sports a 5.2-inch Full HD IPS screen. The display
-
 glass is slightly curved for seamless swiping experience. The handset is powered
-
 by company's own Kirin 950 chip. The Honor 8 comes with 4 GB RAM and 32 GB
-
 internal storage.
-
-
 
 Modular OS From Cyanogen Released; Gets A New CEO
 
-
-
 Cyanogen is undergoing big changes; former COO Lior Tal becomes the new CEO and
-
 a member of the board, Kirk McMaster, the Co-Founder of Cyanogen, is now
-
 Executive Chairman, Steve Kondik, Co-Founder and CTO will now be Chief Science
-
 Officer. And to top it all, the launch of the Modular OS has taken place, which
-
 will have Cyanogen develop the OS only in part, and provide several modules and
-
 mods, allowing Android manufacturers customize the OS according to their ROM
-
 specifications. This development comes as a part of the company's new Mod
-
 initiative, apart from the leadership changes.
-
-
 
 Samsung Kills The Galaxy Note 7 Over Safety Issues
 
-
-
 There's no nice way to put it: Samsung's Galaxy Note 7 has been a disaster.
-
 After desperately trying to do the damage control, the Korean smartphone giant
-
 has finally pulled the plug on its latest flagship handset that was supposed to
-
 compete with the iPhone 7 during the Holiday season. After releasing to glowing
-
 reviews, the Note 7 started making headlines for all the wrong reasons. A record
-
 number of users reported that the handset sets itself on fire. After initial
-
 investigation, Samsung blamed it on the faulty batteries and initiated a
-
 replacement program with "safe" batteries.
-
-
 
 Here's Why Google Pixel Does Not Need OIS Feature On Its Camera
 
-
-
 With the competition in higher end of smartphone market heating up with the
-
 introduction of the Google Pixel handsets earlier this month, it is time that
-
 the nitty-gritties of the phone be scrutinized, even by the fanbase of Google
-
 and Android. This time, the issue is the absence of OIS (Optical Image
-
 Stabilization) a staple feature in most smartphones these days, including some
-
 lower cost models, including some mid-range handsets. Everyone is already
-
 wondering, what could be the reason behind it, and what trick Google has up its
-
 sleeve, since it claims that it takes the best pictures in low-light conditions,
-
 and 4K definition.
-
-
 
 Meizu M4 Photos Surface On TENAA
 
-
-
 Chinese smartphone company seems to be all set to soon launch a new smartphone
-
 which is reportedly being called as the M4. While there is no official
-
 announcement on the availability of the new device, it has been reported by
-
 GizmoChina via a Weibo user on TENAA. The listing showcases two photos of the
-
 Meizu M4, thereby giving us a clear picture of what we may expect from the
-
 device, that is speculated to be launched in November, this year.
-
-
 
 ZTE May Launch New Variant Of Nubia Z11 Mini On Oct 17
 
-
-
 Chinese smartphone maker ZTE has recently announced an event to be held on Oct
-
 17 in China, where, a new smartphone is expected to be launched, according to a
-
 number of reports. The rumours in-fact hint towards the launch of a new variant
-
 of the Z11 Mini. Speaking about the new device, reports also state that the
-
 company is expected to bring in a couple of new features in the camera
-
 department, where users may get a dual-rear camera setup. However, as we have
-
 said earlier, there is no official announcement that can emphasize these
-
 reports.
-
-
-
-LOAD-DATE: October 15, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-            Copyright 2016 Techtree.com, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

@@ -1,158 +1,58 @@
-                              466 of 997 DOCUMENTS
-
-
-
-
-
-                                Dailybhaskar.com
-
-
-
-                     October 16, 2014 Thursday 6:30 AM EST
-
-
-
-Google Nexus 9, a bigger, better and faster option over the Nexus 7 (2013)
-
-
-
-LENGTH: 398  words
-
-
-
 
 
 Google has launched its bigger tablet today with the HTC made Nexus 9. With this
-
 Google has ditched the larger screen (10 inch) tablet and launched a new 8.9
-
 incher.
 
-
-
 The new tablet is a bigger bet on the tablet market, and compared to the Nexus 7
-
 (2013) it is heavier by more than 150 grams. But Google does a good job as it
-
 maintains the tablet at a thinner level.
 
-
-
 The new tablet not only gets a bigger and better protected glass, but also gets
-
 a bump in display resolution. While the previous generation use a Corning
-
 Gorilla Glass first generation the latest tablet gets a 3rd generation Corning
-
 Gorilla Glass protection. The 1200 x 1920 pixels of the Nexus 7 (2013) has been
-
 increases to 2048 x 1536 pixels in the Nexus 9, but because of the bigger screen
-
 size the pixel density remains less in the Nexus 9.
 
-
-
 The bigger addition is in the processor of the tablet. With the Nexus 9 Google
-
 goes back to Nvbidia again for the processor. After the Nexus 7 (2012) which was
-
 powered by the Nvidia Tegra processor, the search giant moved to Qualcomm
-
 Snapdragon S4Pro processor for the 2013 tablet. IKt has not come back to Nvidia
-
 with its latest intensive graphics capable Tegra K1 processor.
 
-
-
 The new processor is 64-bit processing capable in contrast to the 32-bit capable
-
 processor from last year. Though the supporting RAM still remains at 2 GB, this
-
 still make the new tablet faster.
-
-
 
 Check a spec by spec comparison in this table-
 
 
-
-
-
 Specifications        Nexus 9                     Nexus 7 (2013)
-
 Dimensions            153.6 x 228.2 x 7.9 mm      200 x 114 x 8.7 mm
-
 Weight                425g (Wi-Fi), 436g (LTE)    290 g (Wi-Fi)299 g (LTE)
-
 Thinness              7.9mm                       8.7 mm
-
 Display size          8.9 inch                    7 inches
-
 Display resolution    2048 x 1536 pixels281 ppi   1200 x 1920 pixels323 ppi
-
                       pixel density               pixel density
-
 Display protection    Corning Gorilla Glass 3     Corning Gorilla Glass
-
 Processor             2. .3 GHz 64-bit NVIDIA     1.5 GHz Qualcomm Snapdragon
-
                       Tegra K1 Dual Denver        S4Pro quad-core
-
 Graphics processor    192-core Kepler GPU         Adreno 320
-
 RAM                   2 GB                        2 GB
-
 Internal memory       16 GB32 GB                  16 GB32 GB
-
 Expandable memory     No                          No
-
 Primary rear camera   8 megapixel                 5 megapixel
-
 Secondary front       1.2 megapixel               1.2 megapixel
-
 camera
-
 Battery               Non-removable Li-Po 6700    Non-removable Li-Ion 3950
-
                       mAh                         mAh battery
-
 Operating system      Android 5.0 Lollipop        Android OS, v4.3 (Jelly
-
                                                   Bean), upgradable to v4.4.4
-
                                                   (KitKat)
-
 Wireless charging     Yes                         Yes
-
 NFC                   Yes                         Yes
-
 Price                 16 GB at $39932 GB without  16 GB at US$22932 GB at
-
                       LTE at $47932 GB with LTE   US$26932 GB (LTE model) at
-
                       at $599                     US$349
-
-
-
-LOAD-DATE: October 16, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-          Copyright 2014 I Media Corp Ltd., distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

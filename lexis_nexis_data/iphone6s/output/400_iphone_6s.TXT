@@ -1,532 +1,236 @@
-                             400 of 1000 DOCUMENTS
-
-
-
-
-
-
-
-                                  The Guardian
-
-
-
-                       October 2, 2015 Friday 7:03 AM GMT
-
-
-
-iPhone 6S Plus review: barely better than the iPhone 6 Plus;
-
-Faster fingerprint sensor, slightly better camera, and novelties such as a
-
-pressure sensitive screen cannot make up for the lack of extended battery life
-
-
-
-BYLINE: Samuel Gibbs
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 1734 words
-
-
-
 
 
 Star Rating: 4 stars
 
-
-
 The iPhone 6S Plus promises richer interactions with a pressure sensitive
-
 screen, a better camera with new "Live Photos" and longer battery life, despite
-
 it having a smaller capacity battery. Does it deliver?
 
-
-
 In the tick, tock upgrade cycle, the iPhone 6S Plus is Apple's phablet tock.
-
 It's a speed bump on the design of last year's iPhone 6 Plus with a few new
-
 features thrown in to try and entice buyers.
-
-
 
 Spot the difference
 
-
-
 Side-by-side it's almost impossible to tell the difference between 2014's iPhone
-
 6 Plus and the new iPhone 6S Plus - unless you have a rose gold one that is.
 
-
-
 There's a small "S" stamped on the back, the device is 0.2mm thicker and 20g
-
 heavier, but everything else on the outside looks the same.
 
-
-
 The extra weight and thickness is noticeable compared to both the older iPhone
-
 and its competitors. At 7.3mm thick and 192g heavy, it is thicker and heavier
-
 than Samsung's 6.9mm thick, 153g Galaxy S6 Edge+ and heavier than Google's new
-
 7.3mm thick, 178g Nexus 6P.
 
-
-
 The iPhone 6S Plus feels nice to touch, but is more difficult to hold than
-
 competitors due to its relatively thick bezels. They make the phablet wider and
-
 taller than competitors with the same size, or even bigger, screens.
 
-
-
 Apple has used harder aluminium for the iPhone 6S Plus's shell than on its
-
 previous model, and while I can't attest to its durability - I've only had the
-
 iPhone a week and it is undamaged - it is a little less slippery than the 6
-
 Plus.
 
-
-
 The 5.5in 1080p screen, despite being pressure sensitive (more on that later),
-
 looks identical to the iPhone 6 Plus. The LCD display is colour accurate, but
-
 not quite as vibrant as some AMOLED rivals. It has a pixel density of 401 pixels
-
 per inch (ppi) making it similar in sharpness to phablets such as the OnePlus 2.
 
-
-
 The 5.7in screens of Samsung's and Google's new phablets both have much higher
-
 pixel densities of 518ppi, while LG's 5.5in G4 screen has 538ppi. The difference
-
 in screen density is visible side-by-side at screen sizes 5.5in and up - text
-
 appears sharper - but most users will be satisfied with the crispness of the
-
 iPhone 6S Plus's screen.
-
-
 
 Specifications
 
-
-
      ·    Screen: 5.5in 1080p (401ppi)
-
      ·    Processor: dual-core Apple A9
-
      ·    RAM: 2GB of RAM
-
      ·    Storage: 16/64/128GB; no SD card
-
      ·    Operating system: iOS 9
-
      ·    Camera: 12MP rear camera with OIS, 5MP front-facing camera
-
      ·    Connectivity: LTE, Wi-Fi, NFC, Bluetooth 4.2 and GPS
-
      ·    Dimensions: 158.2 x 77.9 x 7.3 mm
-
      ·    Weight: 192g
-
-
-
-
 
 
 
 As snappy as an iPhone can be
 
-
-
 The iPhone 6S Plus has Apple's new dual-core A9 processor with an integrated
-
 motion co-processor and 2GB of RAM. Apple says that it is 70% faster than the A8
-
 in last year's iPhones.
 
-
-
 Performance is as snappy as any iPhone can be, although still feels sluggish
-
 compared to Samsung's Galaxy S6 because of Apple's use of fixed-speed animations
-
 moving into and out of apps and other actions.
 
-
-
 The increased speed over the 6 Plus was only noticeable when loading or
-
 switching between large apps or games, or when accessing the Siri suggest
-
 features new to iOS 9. As yet, there aren't many apps written to take advantage
-
 of the extra performance, but some games are coming with better graphics for
-
 A9-equipped phones.
 
-
-
 The phone generally stays cool, but it got noticeably warm while in congested
-
 situations in London, where the mobile phone network is oversubscribed.
 
-
-
 Call quality was excellent, as was Wi-Fi calling, which worked as advertised on
-
 EE's network and could also be shared with other Apple devices such as iPads and
-
 Macs.
 
-
-
 I found battery life has managed to get both better and worse, as standby time
-
 has improved over the iPhone 6 Plus, but the battery drains slightly faster with
-
 the screen on while browsing, for instance.
 
-
-
 The iPhone 6S Plus lasted 25 hours on average with hundreds of emails and push
-
 notifications, three hours of browsing, several hours of music playback via
-
 Bluetooth headphones, a couple of pictures and light spot of gaming. You will
-
 need to charge it once a day and occasionally it won't last until bedtime.
 
-
-
 That's about the same as the iPhone 6 Plus and worse than most other competing
-
 phablets. I found the low battery mode made little impact on the remaining
-
 battery life when it hit 20%, but the milage may vary depending on how you use
-
 it. A full charge took about an hour.
-
-
 
 iOS 9
 
-
-
 The iPhone 6S Plus runs iOS 9, which is available on the iPhone 4S and all newer
-
 Apple phones. The OS is slightly more responsive on the 6S Plus in some places,
-
 including Siri suggest, but there are very few features exclusive to the new
-
 iPhones.
 
-
-
 Siri can listen out for the hotwords "Hey, Siri" and wake up the phone. This
-
 feature was available on other iPhones only when plugged in. You need a quiet
-
 environment to set it up, and even then it struggled to learn my voice,
-
 requiring repeated mutterings of the pre-defined phrases to get it locked in.
-
-
 
 For more information see the iOS 9 review.
 
-
-
 3D Touch
 
-
-
 Apple's new pressure sensitive screen is the marquee feature for the iPhone 6S
-
 Plus. It allows more gestures based on how hard you press the screen.
 
-
-
 Apple's peek and pop gestures allow you to preview an email without opening it
-
 by pressing slightly harder, or enter the email fully by releasing that
-
 increased pressure and doing it again. A similar thing can be done with
-
 messages, images, links in Safari, contacts in the phone app and so on.
 
-
-
 Most of the time it just shows you what you would see if you tapped the email,
-
 link or message normally. It's meant to be quicker than popping in and out of
-
 messages, but the only time I found it useful was previewing days in the month
-
 view of the calendar app.
 
-
-
 Icons on the homescreen can also be 3D touched to pop up a quick action menu.
-
 Mostly this means actions such as start a new message, search or view the last
-
 action. Tapping then takes you straight into the compose screen of Mail or
-
 Messages.
 
-
-
 Third-party apps can also implement it. I only found Evernote, which allows you
-
 to launch straight into the camera to create a photo note, to usefully implement
-
 the feature.
 
-
-
 More apps will come, and 3D Touch might become a killer feature, but for now
-
 it's a novelty that quickly gets old and has a relatively annoying learning
-
 curve as you stab the screen to see what works and how hard you have to press.
-
-
 
 Touch ID
 
-
-
 The iPhone 6S Plus has a new Touch ID sensor, which is much faster than that on
-
 the iPhone 6 or 5S, unlocking the phone almost immediately. It's one of the
-
 fastest and best fingerprint scanners on the market, rivalling Huawei's very
-
 fast scanner.
 
-
-
 I found it was as accurate as the iPhone 6 Plus, recognising my thumb almost
-
 every time.
-
-
 
 Taptic Engine
 
-
-
 The excellent vibration system that feels like someone is tapping you on the
-
 wrist on the Apple Watch has been added to the iPhone. It works very well in the
-
 hand, giving much sharper more defined haptic feedback. It's also quieter when
-
 on a desk, but I found it wasn't strong enough in my pocket. I missed texts and
-
 emails as the alert was over in an instant.
 
-
-
 You can change the vibration pattern to something a bit more aggressive like
-
 those used for phone calls, which helped, but then it didn't feel as good in the
-
 hand. Swings and roundabouts.
-
-
 
 Camera
 
-
-
 The new 12-megapixel camera is excellent and is one of the best on the market,
-
 with similar picture quality to Samsung's Galaxy S6 and LG's G4.
 
-
-
 It captures images with good detail and colour balance in good light, often
-
 resulting in slightly more natural, if a but muted, photos. Low light
-
 performance is also good, but neither are a vast improvement over the iPhone 6
-
 Plus.
 
-
-
 Video capture is good and the camera can record in 4K taking up around 300MB per
-
 minute, roughly three times the space required for 1080p video. The switch to
-
 enable 4K video is buried in the settings menu so most will probably never try
-
 it.
 
-
-
 The front-facing camera has been boosted to five megapixels from 1.2MP, but the
-
 photos are still not exactly fantastic. They will do fine for small shots, but
-
 are not a patch on those captured by the rear camera. The flash screen feature
-
 works OK for close-ups, but forget anything at arms length or further away.
 
-
-
 Apple's Live Photos are new for the iPhone 6S Plus. They capture 1. 5 seconds of
-
 video before and after taking a photo and are very similar to HTC's Zoe feature
-
 from 2013.
 
-
-
 They are an interesting novelty, which work OK for portraits but will likely not
-
 be used much by most. They take up twice the storage on the phone and are
-
 difficult to share or upload beyond Apple's walled garden, much like HTC's Zoe.
-
 They can be used as wallpaper on the phone, but only animate when pressed on.
 
-
-
 I also found that it could slow down the speed of the shutter, meaning I missed
-
 a couple of photo moments and more often than not caught video of the subject
-
 moving out of frame or the camera going down.
-
-
 
 Price
 
-
-
 The iPhone 6S Plus costs £619 for 16GB of storage, £699 for 64GB and £789 for
-
 128GB in silver, dark grey, gold and pink.
 
-
-
 Phablet competitors such as the Samsung Galaxy S6 Edge+ costs £600 for 32GB of
-
 storage and the LG G4 costs £325 for 32GB.
 
-
-
 No one should buy the 16GB storage version as it is just not enough space for
-
 today's apps, music, photos and video, particularly if shot in 4K or taking Live
-
 Photos.
-
-
 
 Verdict
 
-
-
 The iPhone 6S Plus is the best phablet Apple has ever made, but only just. It is
-
 not a significant upgrade over last year's 6 Plus, with most of its new features
-
 take it or leave it affairs.
 
-
-
 It is also not the best phablet available, but most prospective buyers will be
-
 upgrading from an existing iPhone and so are unlikely to consider the Android
-
 competition.
 
-
-
 The new Touch ID fingerprint scanner is significantly faster. The
-
 pressure-sensitive screen is interesting on paper, but in practice has no killer
-
 application. The Live Photos are a novelty, but difficult to share and may prove
-
 to be something tested then just left off.
 
-
-
 Users upgrading from an iPhone 5S or older iPhone are in for a treat, however,
-
 as the phone is better in almost every way.
 
-
-
 Pros: fast fingerprint scanner, good camera, good screen, Taptic Engine,
-
 extended standby time  Cons: battery life of only a day, expensive, heavier, big
-
 bezels around the screen make it more difficult to hold
-
-
 
 Other reviews
 
-
-
      ·    Samsung Galaxy S6 Edge+ review: the curvy 'iPhone 6 Plus killer'
-
      ·    LG G4 review: one of the best phablets available, boasting an
-
           impressive camera
-
      ·    Google Nexus 6 review: big is beautiful, but not manageable
-
      ·    OnePlus 2 review: a real 'flagship phablet killer'?
-
-
-
-
-
-LOAD-DATE: October 2, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: WEBGNS
-
-
-
-
-
-  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
-
-                              All Rights Reserved
-
-
-
 
 

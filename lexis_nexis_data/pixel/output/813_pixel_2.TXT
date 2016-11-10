@@ -1,126 +1,36 @@
-                              813 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                AFP - RELAXNEWS (English International Version)
-
-
-
-                             April 26, 2011 Tuesday
-
-                                  HOUSE & HOME
-
-
-
-Video time machine lets you zoom in on exact moments in time, space
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 341 words
-
-
-
 
 
 Not  content to just show people regular old boring static videos and  gigantic
-
 web-based gigapictures, the GigaPan team at Carnegie Mellon  University in
-
 America in collaboration with NASA Ames Intelligent  Robotics Group and Google
-
 have developed a time machine.
 
-
-
 The  GigaPan Time Machine takes users on a super-high-res interactive video
-
 experience. A viewing experience that -- like GigaPan's incredible  gigapixel
-
 images -- can be zoomed into, panned around and seen in  extreme detail while
-
 the video keeps on playing.
-
 "The  sophisticated cameras the GigaPan team uses for their photographs  capture
-
 hundreds or even thousands of digital pictures and stitch them  together to form
-
 an interactive panorama," explained Google in an April  22 blog post about the
-
 GigaPan Time Machine.
-
 "With  Time Machine, the cameras capture these image mosaics at regular
-
 intervals to create a video with hundreds of millions or even billions  of
-
 pixels in each frame. The result is a video that viewers have the  ability to
-
 zoom in on while it's playing and see incredible detail,"  said Google.
-
 The technology makes watching the grass grow pretty interesting joked Google.
-
 The  Time Machine has already been used to capture plant growth, a  simulation
-
 of the early universe that is 600 million light years in  width, and human
-
 anatomical datasets in billions of pixels -- all of  which can be viewed in
-
 Chrome 7.0+ or Safari 5.0+ web browsers.
-
 Users are encouraged to create their own Time Machine mashups and gigapixle
-
 scale videos.
-
 At  the bottom of Time Machine videos, users will find a Time Warp editor  that
-
 can be used to build "an animated tour through time and space to  share." Time
-
 Warps can be saved and shared with friends.
-
 GigaPan's Time Machine website and how-to wiki provides detailed information
-
 about the equipment and software needed  to create and stitch together
-
 interactive gigapixel videos.
-
 A video demonstrating the features of the GigaPan Time Machine can be found at
-
 http://youtu.be/Dk9WanUO_gg.
-
 http://timemachine.gigapan.org/wiki/Main_Page
-
-
-
-LOAD-DATE: April 27, 2011
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: relaxnews.en.
-
-
-
-
-
-                            Copyright 2011 Relaxnews
-
-                              All Rights Reserved
-
-
-
-
 

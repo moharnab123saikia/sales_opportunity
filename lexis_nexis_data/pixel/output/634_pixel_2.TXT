@@ -1,226 +1,95 @@
-                              634 of 997 DOCUMENTS
-
-
-
-                     The Guardian (London) - Final Edition
-
-
-
-                               November 24, 2005
-
-
-
-Technology: Inside IT: Ask Jack: jack.schofield@guardian.co.uk
-
-
-
-SECTION: Guardian Technology Pages, Pg. 6
-
-
-
-LENGTH: 822 words
-
-
-
 
 
 Pixel prices
 
-
-
 I have seen a digital camera with 5 megapixels for £250. The next model up, with
-
 8 megapixels, is £400. Is it worth paying £150 for the extra megapixels?
-
-
 
 Toby Wood
 
-
-
 Jack Schofield replies: Other things being equal, more megapixels will produce a
-
 more detailed picture, but they never are. For example, some pixels are bigger
-
 than others, because the camera's CCD sensor is bigger. Some pixels have a
-
 different shape, and the ones in Fujifilm's Super CCD sensors are octagonal
-
 rather than square. This isn't a bad idea, but it inflates the pixel count
-
 faster than it increases the picture quality. Some pixels are "interpolated"
-
 using software that guesses what a pixel could contain based on the pixels next
-
 to it, so a 3 megapixel sensor can produce a 6 megapixel image. If you go by the
-
 pixel count, check the sensor size, and make sure you are comparing like with
-
 like.
 
-
-
 Digital cameras take pictures that fit PC screens. If your screen is set to 1024
-
 x 768, then simple multiplication gives 786,432 pixels or 0.75 megapixels. A 5
-
 megapixel camera will take pictures that are up to 2592 x 1944 pixels, while an
-
 8 megapixel camera will probably take pictures at 3264 x 2448. This is only a
-
 26% improvement from a camera that has 60% more pixels and, in your case, costs
-
 60% more. To get an image that was twice as good as a 5 megapixel camera, you
-
 would need four times as many pixels, i.e. a 20 megapixel camera.
 
-
-
 Obviously you don't need many megapixels to fill a screen, but they are
-
 important when printing images. For example, if you want to make a 10 x 8 inch
-
 print, and print at 200 pixels per inch (ppi), then you need 2000 x 1600 pixels,
-
 or 3 megapixels. Printing at a higher resolution of 300ppi, you need 3000 x 2400
-
 pixels or 7 megapixels. Make your own calculation of how many pixels you need
-
 based on the size of the pictures you print and the quality of your printer.
 
-
-
 In general, beyond 5 megapixels, the extra pixels are of diminishing value for
-
 most people, and the difference between 5 and 8 is marginal. The benefits could
-
 easily be swamped by other factors, such as the quality of the lens and the
-
 manner in which the CCD image is converted into a JPeg. It is therefore
-
 essential to read reviews at Digital Photography Review (www.dpreview.com) and
-
 perhaps DCP Review (www.dcresource.com) before deciding. However, bear in mind
-
 that any pixels you don't capture when you take the picture are gone for ever.
-
-
 
 Getting noticed
 
-
-
 How do you get a website "spotted" by search engines? I mean spotted, as opposed
-
 to being high up the list.
-
-
 
 Nick Peed
 
-
-
 JS: The web is a network of interlinked pages and search engines use robot
-
 "spiders" to crawl it. Any website will be found if it has incoming links. The
-
 more incoming links there are, the sooner a site will be noticed and indexed, so
-
 get people to link to your site. Most search engines also allow you to submit
-
 your site's address or URL: Google's is at www. google.com/addurl/. It is also
-
 beta testing a way to submit sitemaps at www. google.com/webmasters/sitemaps/.
-
 This doesn't guarantee inclusion. If your site is no good, it may be found and
-
 ignored.
-
-
 
 Disappearing disk space
 
-
-
 I recently bought a new laptop with a 60 gigabyte hard disk. I installed
-
 Microsoft Office (with Outlook, Word, Excel, Access and PowerPoint) and the new
-
 Adobe Creative Suite, and have only 2GB left .
-
-
 
 Richard Calvert-Smith
 
-
-
 JS: A simple way to find out where your space has gone is to run Sean Werkema's
-
 freeware program, SpaceMonger (http:/tinyurl.com/34q8f). Alternatives are listed
-
 at http:/tinyurl.com/bkx8u and http:/tinyurl.com/dhrzq.
 
-
-
 On my notebook PC, Windows XP takes up about 2GB for files plus a swap file
-
 (pagefile.sys) and a hibernation file (hiberfil.sys). Microsoft Office takes up
-
 about 300MB and typical Adobe programs about 100MB each. Adobe reckons Creative
-
 Suite 2 Standard needs 7GB. Since a "60GB" drive is really a 57GB drive, that
-
 leaves about 47GB not accounted for.
-
-
 
 Backchat
 
-
-
 * Raj Panjwani wanted broadband without paying for a BT line. David Dixon points
-
 out that ADSL Guide has a list of wireless broadband providers at
-
 http:/tinyurl.com/8gqc7.
 
-
-
 * Chris Dewey asked about buying a digital recorder. Toby Wilson, a training
-
 officer, reports good results with Sanyo ICR-B175 and related devices. "They
-
 record directly into stereo MP3 format at a choice of qualities. You can plug in
-
 an external microphone or use the built-in one. We have had excellent results
-
 using them with pupils on a variety of projects." However, Dewey says he found
-
 digital recorders too expensive, and took the cheaper suggestion proposed by
-
 readers: a portable Hi-MD Sony MiniDisc recorder and an external stereo mic. He
-
 says: "The MD recorder uses its own Atrac format on the discs but this can be
-
 converted to wav format when transferred to computer using a USB cable. The
-
 recording quality is excellent."
-
-
-
-
-
-LOAD-DATE: November 24, 2005
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-                   Copyright 2005 Guardian Newspapers Limited
-
-
-
 
 

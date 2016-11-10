@@ -1,478 +1,215 @@
-                              491 of 999 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                           December 13, 2013, Friday
-
-
-
-iPhone 6 rumor rollup for the week ending Dec. 12;
-
-Curvemania, launch date boldness, Samsung nips chip slip
-
-
-
-BYLINE: John Cox
-
-
-
-LENGTH: 1769 words
-
-
-
 
 
 The iOSphere quivered with the knowledge that we are just months away from being
-
 able to caress Apple's first curveddisplay, which will appear in the iPhone 6.
-
 This sure and certain knowledge is due to the fact that Apple just received a
-
 patent for a curved display.
 
-
-
 Technically, it's a patent for a way to form a curved display. But let's not
-
 quibble with Innovation, please.
 
-
-
 Also this week: bold predictions about when iPhone 6 will be announced, which
-
 when analyzed suggest that a bit more timidity is in order; and amazement greets
-
 recycled rumors that Samsung will continue to make A8 chips for the iPhone 6.
-
-
 
 You read it here second.
 
-
-
 iPhone 6 will have a curved display because Apple just patented one The
-
 iOSphere's fascination with curved screens remains one of those inexplicable
-
 geek obsessions that instantly become Conventional Wisdom in spite of Common
-
 Sense.
 
-
-
 AppleInsider's Mikey Campbell apparently was among the first to see a new U.S.
-
 patent award to Apple, posted about.  Campbell correctly described that patent
-
 as being for a "manufacturing technique." In the words of the patent itself, it
-
 is for "A method of forming a curved touch surface." But plenty of people
-
 interpreted this as being a patent for a "curved screen."
 
-
-
 You can find Patent number 8,603,574 online, filled with fascinating details,
-
 most of which none of the posters (including this one) can explain, such as
-
 "Drive signals can be transmitted through the drive electrodes, resulting in
-
 signal (mutual) capacitances between the drive and sense electrodes at the
-
 intersection (touch pixels) of the drive electrodes and the sense electrodes."
 
-
-
 Rumors about curved screens for Apple devices have been circulating and
-
 recirculating for ... well, it seems like forever.
 
-
-
 Sometimes it's a display that curves outward (convex) or inward (concave);
-
 sometimes, it's a display with edges that curve the edges of the phone. None of
-
 these rumors really bother to explain why a curved screen - of any type -- for a
-
 phone or tablet would be a breakthrough in the mobile user experience.
 
-
-
 But CNET's Jessica Dolcourt has a review of one of the few curved screen phones
-
 on the market today: the Samsung Galaxy Round.
 
-
-
 It's a convex screen in a curved body.  "I was surprised at how much I liked the
-
 feel of the Round's curvy dimensions, which make it the most comfortable phone
-
 that's ever cupped my ear, hand, and pockets," she writes. So what does the
-
 curve add to the mobile experience?
 
-
-
 The Round is a "bit more comfortable to carry, and sit on, in jeans," and it's a
-
 "sturdier platform for holding the phone."
 
-
-
 The curve changes the way light reaches the eye in such a way, she says, that it
-
 "helps make [screen] reflections less distracting."
-
-
 
 That's it. Tight jeans wearers, take note.
 
-
-
 Campbell admits, at the end of his post, that "It is unclear if Apple will use
-
 the above-described method in a consumer product, though curved displays seem to
-
 be en vogue at the moment." The en-vogueness consists entirely of the Galaxy
-
 Round, and the recently unveiled LG G Flex.
 
-
-
 iPhone 6 will be released before the end of 2014 At Valuewalk, Vikas Shukla
-
 boldly goes where no one has gone before.  "Apple Inc. hasn't officially
-
 announced the release date (or anything for that matter) of the iPhone 6," he
-
 confesses. But.
 
-
-
 "Rumors and media reports suggest that an iPhone 6 with a larger screen could
-
 hit the market by the end of 2014."
 
-
-
 This is like saying "Rumors and media reports suggest that the final two teams
-
 in Super Bowl XLVIII will be decided before February 2014."
-
-
 
 There's more!
 
-
-
 "Apple Inc.'s next smartphone is expected to be the best smartphone ever made,
-
 nothing less," Shukla declares.
 
-
-
 And there's more, because "some analysts" are more optimistic that we won't have
-
 to wait until the very last day of 2014 to get our hands on the Best Smartphone
-
 Ever Made. "Some analysts believe that the Cupertino-based tech giant could
-
 bring the iPhone 6 sooner," Shukla says.
 
-
-
 Sooner than Dec. 31, 2014. If that isn't a great 2013 Christmas present, what
-
 is?
 
-
-
 iPhone 6 will be announced in June 2014....or fall of 2014 Like nature, the
-
 iOSphere abhors a vacuum. International Business Times steps up and steps into
-
 it.
 
-
-
 For those who might not be familiar with Apple's iPhone history, IBT's Karla
-
 Danica Figuerres offers some context. "There are not much official information
-
 about the iPhone 6 just yet, but generally Apple releases its iPhones for two
-
 years and delivers a couple of specs boosts in the second year - which is the
-
 iPhone 5s now," she explains. "With that information, the iPhone 6 will be a
-
 total revamp from its predecessor and it might be the best smartphone ever
-
 made."
 
-
-
 The Rollup isn't sure her opening statement actually rises to the level of
-
 "information" as the term is generally understood.
 
-
-
 "There is not much official information about the next U.S. Presidential
-
 election, but generally, one occurs every four years, so there's a good chance
-
 another will be held in 2016."
 
-
-
 But it's enough information for Figuerres. She deduces an urgent message for
-
 customers. "The release date and the price are two of the most important reasons
-
 why customers should wait for the next generation iPhone," she counsels.
 
-
-
 So please, please all you millions and millions of people worldwide who are
-
 buying iPhone 5C and 5S ... stop already!
-
-
 
 Anyway, what about the date?
 
-
-
 According to Figuerres, Apple is "a little bit behind the curve in terms of
-
 [smartphone] specs" so "the iPhone 6 needs to assert itself again into being the
-
 provider of premier smartphones....Given that, the iPhone 6 release date may
-
 come sooner as analysts think Apple will shorten its upgrade cycle and will
-
 release the iPhone 6 in June 2014," she explains.
 
-
-
 Except for the analysts from Citi Research who think Apple will announce an iPad
-
 Maxi, with a 12.9-inch display, by that date instead. "Based on their
-
 discussions, the iPhone 6 is likely to maintain its late-September launch,"
-
 Figuerres says, without bothering to explain why. On the other hand. "On the
-
 other hand, the iPhone 6 might be released during the Worldwide Developers
-
 Conference which Apple hosts every summer," she explains.
 
-
-
 So iPhone 6 likely could be announced in June 2014 at WWDC. Or it likely could
-
 be announced in September 2014. But we know it will be announced sometime
-
 "mainly because a new iPhone is released every year."
-
-
 
 There's no arguing that.
 
-
-
 iPhone 6 will have an A8 chip from Samsung after all For no discernable reason,
-
 this rumor is being resurrected, almost unchanged from its appearance barely two
-
 months ago.
 
-
-
 The rumor repeaters seem amazed if not stunned that Samsung, the longtime,
-
 almost exclusive source for Apple's A series processors and much else that goes
-
 into iPhones and iPads, is "still" going to be a source in 2014 for the iPhone
-
 6.
 
-
-
 The primary driver for the rumor is the Certain Conviction, unsupported by any
-
 real evidence, that because Apple and Samsung compete in smartphones, and
-
 therefore hate each other's guts, Apple must be trying to dispense with all the
-
 other Samsung business units that produce display panels, memory, processors,
-
 and more.
 
-
-
 Oddly, there never seems to be a version of this rumor wherein Samsung hates
-
 Apple so much that it's trying to drop Apple as a customer and instead find
-
 other device makers that will buy millions of its chips, displays, and other
-
 components.
 
-
-
 To Ubergizmo's Tyler Lee, it's all self-evident.  "With Samsung and Apple at
-
 each other's throats over alleged patent infringements, with both sides taking
-
 swings at each other, it is hardly a surprise that their business relationship
-
 has suffered," he declares, not bothering to cite any evidence whatsoever that
-
 their business relationship has suffered in the slightest.
 
-
-
 "While it has not been confirmed," Lee continues, "it has been often rumored
-
 that Apple is looking to distance themselves from Samsung to reduce their
-
 reliance on the South Korean tech giant, but according to recent rumors, it
-
 seems that despite Apple's attempts to phase Samsung out of their production,
-
 Samsung is reportedly going to be involved with the production of the A8 chipset
-
 which is rumored to make an appearance in the iPhone 6."
 
-
-
 Does it have to be pointed out that there is simply nothing - as in "nothing" -
-
 to this "analysis?" The only factual part of Lee's sentence is that "it has not
-
 been confirmed."
 
-
-
 Taiwan's TSMC reportedly, according to a Wall Street Journal story, signed a
-
 deal with Apple in summer 2013 to supply 20-nanometer A series chips...at some
-
 point in the future. The story cited a range of unnamed, executive-level sources
-
 (including some former executives at Apple), at various supply chain companies
-
 and TSMC. The real point of the article was about how tightly Apple and Samsung
-
 are bound together. Even from the standpoint of managing supply chain risk
-
 through multi-sourcing, unwinding that bond's threads, and finding reliable
-
 sources for high quality alternatives, is a time-consuming process.
 
-
-
 The Journal notes that Apple began looking for additional flash memory
-
 suppliers, other than Samsung, in 2008; that it started talking to TSMC in 2010.
-
 The first Samsung Galaxy S smartphone was announced in May 2010 and released a
-
 month later.
 
-
-
 Lee claims the rumors claim that Samsung will have 30 percent to 40 percent of
-
 the A8 production, with TSMC responsible for the rest. Take that with a grain of
-
 silicon.
 
-
-
 "While Cupertino has involved Taiwan Semiconductor Manufacturing Company (TSMC)
-
 into the manufacturing of its A-series processors, there is clear evidence that
-
 Samsung will be deeply involved in production of the A8 chip for the iPhone 6,"
-
 says Michael Nace, editor of the iPhone6NewsBlog.
 
-
-
 Apart from other rumors, the only "clear evidence" he cites is an unlinked
-
 reference to a Korean newspaper story (picked up in posts like this one from The
-
 Verge), which cited unnamed industry sources who claimed that Apple plans to
-
 shift 60 percent to 70 percent of A8 processing to TSMC, leaving, if you do the
-
 math, 30 percent to 40 percent with Samsung.
 
-
-
 "Samsung is definitely being phased out," Nace concludes confidently. But that
-
 depends on what one means by "phased out."
 
-
-
 There's little evidence that Apple is primarily focused on shutting down its
-
 multiple component relationships with Samsung.
 
-
-
 It may well be adjusting those, seeking to both improve and develop other
-
 component sources. Even if Apple does shift a majority of A8 chip production to
-
 TSMC, Samsung could still be a main, even a primary, source for other A series
-
 chips, and other components, in the future.
 
-
-
 John Cox covers wireless networking and mobile computing for Network
-
 World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
-
-
-
-
-
-
-
-LOAD-DATE: December 16, 2013
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2013 Network World, Inc.
-
-                              All Rights Reserved
-
-
 
 
 

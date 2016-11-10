@@ -1,116 +1,35 @@
-                              544 of 997 DOCUMENTS
-
-
-
-
-
-
-
-                                US Official News
-
-
-
-                              March 1, 2015 Sunday
-
-
-
-USPTO Published Patent application of Google Inc titled as "VIDEO CODING USING
-
-REFERENCE MOTION VECTORS"
-
-
-
-LENGTH: 265  words
-
-
 
 DATELINE: ALEXANDRIA, Va
 
 
-
-
-
 United States Patent and Trademark Office has received an application no.
-
 20150055706, published on February 26, 2015, by Google Inc, titled as "VIDEO
-
 CODING USING REFERENCE MOTION VECTORS" for the registration of patent.
 
-
-
 Inventors:   Xu; Yaowu; (Sunnyvale, CA) ; Wilkins; Paul Gordon; (Milton, UK) ;
-
 Grange; Adrian William; (Los Gatos, CA) ; Bultje; Ronald Sebastiaan; (San Jose,
-
 CA)
 
-
-
 Assignee:   Google Inc.
-
 Mountain View
-
 CA
 
-
-
 According to the abstract released by the U.S. Patent & Trademark Office:
-
 "Techniques are described to use a reference motion vector to reduce the amount
-
 of bits needed to encode motion vectors for inter prediction. One method
-
 includes identifying a candidate motion vector used to inter predict each of a
-
 plurality of previously coded blocks to define a plurality of candidate motion
-
 vectors, identifying a set of reconstructed pixel values corresponding to a set
-
 of previously coded pixels for the current block, and generating, using each
-
 candidate motion vector, a corresponding set of predicted values for the set of
-
 previously coded pixel values within each reference frame of a plurality of
-
 reference frames. A respective error value based on a difference between the set
-
 of reconstructed pixel values and each set of predicted values is used to select
-
 a reference motion vector from the candidate motion vectors that is used to
-
 encode the motion vector for the current block."
-
-
 
 The Patent was filed on August 23, 2013 under application No. 20150055706
 
-
-
 In case of any query regarding this article or other content needs please
-
 contact: editorial@plusmediasolutions.com
-
-
-
-LOAD-DATE: March 1, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newswire
-
-
-
-
-
-              Copyright 2015 Plus Media Solutions Private Limited
-
-                              All Rights Reserved
-
-
-
-
 

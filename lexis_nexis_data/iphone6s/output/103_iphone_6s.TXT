@@ -1,468 +1,203 @@
-                             103 of 1000 DOCUMENTS
-
-
-
-
-
-
-
-                                  The Guardian
-
-
-
-                      October 6, 2015 Tuesday 9:41 AM GMT
-
-
-
-iPhone 6S review: a very good phone ruined by rubbish battery life;
-
-Apple's latest iPhone has a better camera, pressure sensitive 3D Touch screen,
-
-faster processor and quick fingerprint sensor, but lives fast and dies before
-
-bed
-
-
-
-BYLINE: Samuel Gibbs
-
-
-
-SECTION: TECHNOLOGY
-
-
-
-LENGTH: 1410 words
-
-
-
 
 
 Star Rating: 4 stars
 
-
-
 The iPhone 6S is one of only a handful of smaller premium smartphones and
-
 promises fast performance, a great camera and new pressure-sensitive
-
 touchscreen.
 
-
-
 In a world of smartphones with screens larger than 5in, the 4.7in iPhone 6S is
-
 in the minority. Most smaller smartphones are cut-down budget models with Sony's
-
 4.6in Xperia Z5 Compact the exception.
-
-
 
 Small, sleek but a bit heavier
 
-
-
 The iPhone 6S is the spitting image of last year's iPhone 6. Side-to-side,
-
 back-to-back the only visible difference is a small "S" printed on the back and
-
 an extra 0.2mm in thickness. A pink version is also available, of course, if you
-
 want everyone to know you have the very latest smartphone.
 
-
-
 At 143g the iPhone 6S is 14g heavier than last year's model and the larger 5.1in
-
 138g Samsung Galaxy S6 and the 138g Sony Xperia Z5 Compact. The difference is
-
 negligible.
 
-
-
 It feels reassuringly solid and smooth in the hand compared to the iPhone 6, and
-
 it is slightly less slippery. It's right on the limit of what I can use with one
-
 hand and still reach the top of the screen, which you need to be able to do
-
 within iOS.
 
-
-
 The iPhone 6S's screen, with 326 pixels per inch, has a relatively low pixel
-
 density compared to most other flagship smartphones. The denser the pixels, the
-
 crisper the screen appears. Lower density is particularly noticeable around text
-
 and the edges of icons.
 
-
-
 The iPhone 6S's 4.7in screen is noticeably less sharp than the 5.5in 401ppi
-
 screen of the iPhone 6S Plus, or the 577ppi 5.1in screen of the Samsung Galaxy
-
 S6.
 
-
-
 While it is similar to the Sony Xperia Z5 Compact 's 323ppi screen and you may
-
 not notice the reduced clarity unless you put it side by side with a phone like
-
 the Galaxy S6, it really is time Apple increased the pixel density of its
-
 smaller flagship phone to at least match that of its phablet.
-
-
 
 Specifications
 
-
-
      ·    Screen: 4.7in 750 x 1334 pixels (326 ppi)
-
      ·    Processor: dual-core Apple A9
-
      ·    RAM: 2GB of RAM
-
      ·    Storage: 16/64/128GB; no SD card
-
      ·    Operating system: iOS 9
-
      ·    Camera: 12MP rear camera, 5MP front-facing camera
-
      ·    Connectivity: LTE, Wi-Fi, NFC, Bluetooth 4.2 and GPS
-
      ·    Dimensions: 138.3 x 67.1 x 7.1mm
-
      ·    Weight: 143g
-
-
-
-
 
 
 
 As fast as an iPhone can be
 
-
-
 The iPhone 6S has the same dual-core A9 processor and 2GB of RAM as the 6S Plus
-
 and performs similarly.
 
-
-
 It's as snappy as an Apple smartphone can currently be, limited by the fixed
-
 duration of iOS 9's animations, all of which are as smooth as they were on the
-
 iPhone 6. It's not nearly as snappy as Samsung's Galaxy S6, which is not held
-
 back by the same animation speed limit.
 
-
-
 A couple of larger apps and heavier processes, such as video or photo editing,
-
 are slightly faster to load and get work done than last year's iPhone. Switching
-
 between apps is also slightly faster and the Siri suggest screen on the
-
 left-most homescreen within iOS 9 also loads faster on the iPhone 6S compared to
-
 the iPhone 6.
 
-
-
 Apple claims the A9 is 70% faster than last year's A8 but not many apps are
-
 available yet to take advantage of the extra speed.
 
-
-
 I found the iPhone 6S became warmer than the iPhone 6S Plus, particularly when
-
 downloading or accessing content via the mobile broadband connection rather than
-
 Wi-Fi.
 
-
-
 Call quality was excellent and reliable, with no dropped calls in my testing on
-
 EE's mobile network in London. Wi-Fi calling was also excellent and only took
-
 around a second to log on when connecting to Wi-Fi.
-
-
 
 Has anyone got an iPhone charger?
 
-
-
 Battery life is the iPhone 6S's biggest problem. During the week the phone
-
 failed to make it past 11pm after leaving the charger at 7.30am in the morning.
 
-
-
 I used the iPhone as my primary device, receiving hundreds of emails and push
-
 notifications, conducting 2.5 hours of browsing, three hours of music playback
-
 via Bluetooth headphones, taking a couple of pictures and playing the odd game
-
 of Angry Birds 2 on the train home.
 
-
-
 At the weekend it spent most of the day sitting on a table untouched, but I
-
 still went to bed with only 30% charge left. Apple's new Low Power Mode made
-
 little appreciable difference in real-world use.
 
-
-
 Apple has chosen weight and thickness over battery life, which is a poor choice.
-
 Your experience may vary, but I suspect you will have to charge the iPhone 6S
-
 twice a day.
-
-
 
 iOS 9
 
-
-
 The iPhone 6S comes with iOS 9 pre-installed; the same software that runs on any
-
 iPhone from the 4S and newer. There are a few features such as Live Photos and
-
 always-listening Siri which are exclusive to this year's iPhones.
 
-
-
 iOS 9 seems better designed for the smaller phone. For example, menu options to
-
 go back are placed in the top left hand corner, which I can reach with only one
-
 hand. The tightly kernelled typeface San Francisco is also designed to fit more
-
 text on a smaller screen.
-
-
 
 For more information see the iOS 9 review.
 
-
-
 3D Touch
 
-
-
 The new pressure-sensitive screen provides options for more gestures based on
-
 pressing harder. Generally this invokes a pop-up menu similar to a right click.
-
 Homescreen icons will show a quick action menu, while Instagram shows recent
-
 photos from users when pressing harder on their username.
 
-
-
 The "peek" and "pop" gestures, as Apple calls them, allow users to preview an
-
 email, for example, without opening it by pushing harder. Releasing and pushing
-
 harder again opens it fully. It's useful in the Calendar app to preview a day in
-
 month view, but 3D Touch lacks any killer features for now.
-
-
 
 Touch ID
 
-
-
 The Touch ID fingerprint sensor under the home button is much quicker than
-
 Apple's previous efforts, unlocking in under a second and recognising my thumb
-
 99% of the time.
 
-
-
 It makes using Apple Pay a lot faster and less clumsy, although some have
-
 complained that you can't see notifications on the lockscreen because it unlocks
-
 too fast. That's what an Apple Watch is for, I suppose, or you could use another
-
 finger.
-
-
 
 Taptic Engine
 
-
-
 The Taptic Engine creates much sharper, more defined vibrations. It feels great
-
 in the hand, but I found it too weak in the pocket without switching to a much
-
 more aggressive vibration pattern in the Settings app.
-
-
 
 Camera
 
-
-
 The iPhone 6S's new 12-megapixel camera is one of the best available on a
-
 smartphone, but it is not leagues ahead of the competition anymore and only
-
 slightly improved over the iPhone 6.
 
-
-
 Photos are captured with good detail and excellent colour balance. Low light
-
 performance is good too, as is video recording, which is smooth when captured at
-
 60 frames per second.
 
-
-
 The lack of optical image stabilisation when compared to the 6S Plus was not
-
 particularly noticeable for normal shots, but video and photos shot in low light
-
 were slightly more shaky and blurred, particularly towards the end of a night
-
 out.
 
-
-
 Recording 4K video takes up 300MB of storage space per minute, producing decent
-
 if not exceptional video, while the 3MB Live Photos are an interesting novelty
-
 of which I easily became bored. I ended up shooting more videos after becoming
-
 frustrated with the poor quality and low frame rate of Live Photos.
-
-
 
 Price
 
-
-
 The iPhone 6S costs £539 for 16GB of storage, £619 for 64GB and £699 for 128GB
-
 in silver, dark grey, gold and pink.
 
-
-
 Competitors such as the Samsung Galaxy S6 costs £400 for 32GB of storage and
-
 Sony Xperia Z5 Compact is available for pre-order costing £450 for 32GB with
-
 expansion support.
 
-
-
 No one should buy the 16GB storage version as it is just not enough space for
-
 today's apps, music, photos and video, particularly if shot in 4K or taking Live
-
 Photos.
-
-
 
 Verdict
 
-
-
 The iPhone 6S has the potential to be the best smaller smartphone on the market,
-
 but its short battery life is deeply frustrating.
 
-
-
 Apple's iOS 9 fits and works better on the 4.7in screen than on the larger
-
 iPhone 6S Plus, the bezels and size of the device compared to the screen are
-
 more suited to the smaller size and it feels great in the hand.
 
-
-
 But it can't get you home on a night out, it can't pull double duty as a camera
-
 on holiday and it can't be a commuter's boredom destroyer without a top up
-
 during the day.
 
-
-
 Pros: fast fingerprint scanner, good camera, Taptic Engine, solid build, great
-
 feeling  Cons: poor battery life of less than a day, expensive, 16GB is not
-
 enough storage, no OIS like the 6S Plus, vibration not intense enough to
-
 reliably notice incoming texts
-
-
 
 Other reviews
 
-
-
      ·    iPhone 6S Plus review: barely better than the iPhone 6 Plus
-
      ·    Sony Xperia Z5 Compact review: arguably the best smaller smartphone
-
      ·    Samsung Galaxy S6 review: the iPhone killer
-
      ·    Samsung Galaxy S6 Edge review: curves for pleasure, not function
-
      ·    Huawei P8 review: thin, powerful and undercuts the competition
-
-
-
-
-
-LOAD-DATE: October 6, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-JOURNAL-CODE: WEBGNS
-
-
-
-
-
-  Copyright 2015 The Guardian, a division of Transcontinental Media Group Inc.
-
-                              All Rights Reserved
-
-
-
 
 

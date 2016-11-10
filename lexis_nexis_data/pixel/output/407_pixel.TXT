@@ -1,228 +1,93 @@
-                              407 of 997 DOCUMENTS
-
-
-
-
-
-                                Dailybhaskar.com
-
-
-
-                     October 16, 2014 Thursday 6:30 AM EST
-
-
-
-Google Nexus 6 is a major improvement over Nexus 5, here's why
-
-
-
-LENGTH: 586  words
-
-
-
 
 
 Google powered Nexus 6 is the company's latest Smartphone in the software
-
 giant's Nexus line, for which Google ditched LG to partner with Motorola as its
-
 new hardware partner. In terms of specifications, the new Nexus Smartphone is
-
 pretty different from the Nexus 5.
 
-
-
 The Motorola-build smartphone comes with a number of new features including a
-
 bigger and higher resolution display, as well as a better processor, a bumped up
-
 camera, the newest Android version and more.
 
-
-
 Here is how the new Nexus 6 is different from the previous generation Nexus
-
 smartphone, in terms of features and specifications.
-
-
 
 Display:
 
-
-
 This phone sports a 5.96-inch quad HD display which accommodates 1440x2560
-
 pixels at a pixel density of 493 pixels per inch, while the Nexus 5 comes with a
-
 4.95-inch IPS 1920x1080 pixels resolution with 445 pixels per inch. Both the
-
 displays get Corning Gorilla Glass 3 protection.
-
-
 
 Processor and memory:
 
-
-
 The phone is powered by 2.7GHz Qualcomm Snapdragon 805 quad-core processor which
-
 incorporates Adreno 420 GPU, with 3GB of RAM and in 32GB and 64GB storage
-
 options. The Nexus 5 runs on 2.3 GHz Qualcomm Snapdragon 800 quad-core chipset
-
 with 450 MHz Adreno 330 GPU and comparatively smaller 2GB of RAM and 16GB and
-
 32GB storage variants.
-
-
 
 Camera:
 
-
-
 The newest Nexus smartphone adorns a 13-megapixel rear camera with optical image
-
 stablisation, with f/2.0 lens and is capable of shooting videos at 4K
-
 resolution. It also gets a 2-megapixel front facing camera with 720p video
-
 recording capabilities. The Nexus 5 on the other hand gets an 8-megapixel
-
 primary camera with full HD video recording capabilities, and a 1.3-megapixel
-
 secondary camera.
-
-
 
 Software:
 
-
-
 The Nexus 6 is powered by the latest Android 5.0 Lollipop that debuted along
-
 with the new Nexus devices. It is the first Nexus smartphone to run the newest
-
 Android version. The Nexus 5, on the other hand, currently runs on the latest
-
 version of KitKat and will get the Lollipop update as and when Google will start
-
 rolling out the update for previous generation Nexus devices.
-
-
 
 Battery:
 
-
-
 Nexus 6 packs a 3,220mAh battery while the Nexus 5 houses a 2,300mAh battery.
-
 The new Nexus device also includes what Motorola calls as its Turbo Charger,
-
 which can offer a quick burst of power by giving six hours of battery life in
-
 just a 15-minutes-battery charge.
-
-
 
 Dimension and weight:
 
-
-
 Owing to its bigger display, the Nexus 6 measures 159.2 x 82.3 x 10mm in
-
 dimension while the Nexus 5 is thinner at 8.6mm and measures in 137.9 x 69.2 x
-
 8.6mm. The bigger size of the Nexus 6 adds to the weight, and it weighs (184
-
 grams) quite heavier that the Nexus 5 which is pretty light on hand at 130
-
 grams.
 
 
-
-
-
                   Google Nexus 6       Google Nexus 5
-
 Display size      5.96 inch            4.95 inch
-
 Display type      QHD AMOLED           IPS
-
 Display           Corning Gorilla      Corning Gorilla Glass 3
-
 protection        Glass 3
-
 Display           25601440 pixels (493 1920x1080 pixels (445 ppi)
-
 resolution        ppi)
-
 Dimensions        159.2 x 82.3 x 10mm  69.17 x 137.84 x 8.59 mm
-
 Thickness         10 mm                8.59 mm
-
 Weight            184 grams            130 grams
-
 OS                Android 5.0 Lollipop Android 4.4 KitKat
-
 Processor         2.7GHz Qualcomm      2.3 GHz Qualcomm Snapdragon
-
                   Snapdragon 805       800quad-core
-
                   quad-core
-
 Graphics          Adreno 420           Adreno 330
-
 processor
-
 RAM               3 GB                 2 GB
-
 Internal memory   32 GB, 64 GB         16 GB, 32 GB
-
 Expandable memory None                 None
-
 Primary camera    13 megapixel         8 megapixel
-
 Secondary camera  2 megapixel          1.3 megapixel
-
 LED flash         Ring flash           Single flash
-
 Network           4G, 3G               4G, 3G
-
 Battery           3220 mAh             2300 mAhTalk time up to 17
-
                                        hoursInternet time up to 8.5 hours on
-
                                        Wi-Fi
-
 Wireless charging Built-in             Built-in
-
 Colour options    Midnight BlueCloud   WhiteBlackRed
-
                   White
-
 Price             $649                 16 GB- 2899932 GB- 32999
-
-
-
-LOAD-DATE: October 16, 2014
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Web Publication
-
-
-
-
-
-          Copyright 2014 I Media Corp Ltd., distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 

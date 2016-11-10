@@ -1,164 +1,55 @@
-                              568 of 997 DOCUMENTS
-
-
-
-
-
-                         The Christian Science Monitor
-
-
-
-                            July 29, 2015 Wednesday
-
-
-
-Google adds 20 languages to instant virtual translation. How?;
-
-The search engine giant announced that it can now instantly translate 27
-
-languages, "breaking down language barriers."
-
-
-
-BYLINE: Shontee Pant Staff writer
-
-
-
-SECTION: Technology
-
-
-
-LENGTH: 497 words
-
-
-
 
 
 On Wednesday, Google announced that users can now instantly translate printed
-
 text into a total of 27 languages.
 
-
-
 The search engine giant added 20 languages to their instant virtual translation
-
 app, a big leap from the original seven languages (English, French, German,
-
 Italian, Portuguese, Russian and Spanish) people could use to instantly identify
-
 words in a foreign language. The updates to Google Translate will reach Android
-
 and iPhone devices in the next couple of days, according to a Google blog post.
 
-
-
 Additionally, if a user takes a photo of the text through camera mode, Google
-
 can translate the text into an additional 10 languages, for a total of 37.
 
-
-
 Google's secret to recognizing this vast array of languages is hidden in deep
-
 neural networks, the same networks that create hallucinative images and eerie
-
 art. By teaming up with Quest Visual, Google was "able to work with some of the
-
 top researchers in deep learning," according to Google's research blog.
 
-
-
 The images undergo a step-by-step process, which begins when the app finds
-
 letters in the image through identifying blocks of pixels with similar colors
-
 next to each other. If the blocks form a continuous line, then the app believes
-
 the pixels are most likely part of a word.
 
-
-
 But in real life, handwritten letters aren't perfect clean lines of
-
 unadulterated pixels. Oftentimes letters are sloppily written, slightly smudged,
-
 and have traces of dirt or food around them. In order to have the app still
-
 recognize imperfect letters, the Google team created "all kinds of fake 'dirt'
-
 to convincingly mimic the noisiness of the real world," according to Google's
-
 blog post.
 
-
-
 After the program has found the letters, it then looks up approximate
-
 definitions to find the correct word, but also to account for mistakes that the
-
 program might have made earlier in the process. For instance, a handwritten "s"
-
 could have been interpreted as a "5" in the translation process, but the program
-
 would still ultimately translate the mistaken "5uper" as "super."
 
-
-
 But not everyone has a data processing center with the capabilities of Google.
-
 In fact, most of the time the phones and laptops we use run far below that
-
 computing power. To counter that issue, Google had to develop a small neural net
-
 to limit the information density that the computer processor handles.
 
-
-
 This recent advance marks an innovative application of neural networks to a
-
 commonly used and practical application.
 
-
-
 "Sometimes new technology can seem very abstract, and it's not always obvious
-
 what the applications for things like convolutional neural nets could be," notes
-
 the Google research blog. "We think breaking down language barriers is one great
-
 use."
 
-
-
 And Google promises that there more barriers to be broken:  "More than half of
-
 the content on the Internet is in English, but only around 20% of the world's
-
 population speaks English. Today's updates knock down a few more language
-
 barriers, helping you communicate better and get the information you need."
-
-
-
-LOAD-DATE: July 29, 2015
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-              Copyright 2015 Christian Science Publishing Society
-
-                              All Rights Reserved
-
-
-
-
 

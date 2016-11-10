@@ -1,660 +1,304 @@
-                               46 of 64 DOCUMENTS
-
-
-
-
-
-                                 Network World
-
-
-
-                                November 3, 2008
-
-
-
-The ultimate smartphone smackdown of 2008;
-
-Smart phones get smarter, more personal
-
-
-
-BYLINE: Keith Shaw
-
-
-
-SECTION: Pg. 55
-
-
-
-LENGTH: 3579 words
-
-
-
 
 
 Next (HTC Touch Diamond) > No market has been hotter than the smart phone
-
 market. Pacesetters Research in Motion and Microsoft are battling to stay on
-
 top, PDA stalwarts Palm and HP are fighting to recapture market share, and two
-
 new powerhouses have jumped into the fray - Apple and Google.Not only has the
-
 vendor landscape changed, the products themselves have evolved. No longer can
-
 (or should) a device be considered as a "business device only" or a "consumer
-
 device only" - those lines have blurred. Today's smart phones pack as many
-
 consumer features (digital cameras, multimedia players, games) as business
-
 features (e-mail access, Office document viewing, VPN access). It's a
-
 recognition that today's mobile worker is a 24/7 employee - needing access to
-
 personal data during the day and business data at night.A recent survey
-
 conducted by Artificial Life confirms this. Its survey of 200 cell phone users
-
 showed that 46% are using their devices for entertainment purposes.
 
-
-
 In addition, 87.5% of those who own a smart phone have accessed entertainment
-
 content, including music, games and videos. One-third of those surveyed prefer
-
 to use their cell phone for entertainment over any other purpose, including
-
 e-mail, GPS or Internet browsing.With these trends in mind, choosing a device
-
 for employees can be a daunting task. Company policy regarding security and
-
 compliance is a major concern, as well as the ability to manage and configure
-
 these devices remotely and centrally. Controlling costs for services (can/should
-
 employees be allowed to download entertainment apps to the device?) is another
-
 factor to consider. While these requirements may narrow your list, things like
-
 whether a device has a removable battery may save your help desk support costs
-
 when that mobile worker calls with a dead phone.Here are reviews of six of the
-
 latest smart phones available for "business" users. (Watch a slideshow of these
-
 products as well.)~~
 
-
-
 < Previous (Introduction) | Next (Palm Treo 800w) > The skinny: At first glance,
-
 the HTC Touch Diamond is a very nice looking phone, and seems to emulate all of
-
 the cool features of the iPhone, including a touch-screen interface, slick music
-
 player, digital camera, GPS and a circular button at the bottom of the phone.
-
 But a deeper look reveals some fatal flaws - the core Windows Mobile operating
-
 system seems to be getting in the way, and hinders a lot of the nicer features.
-
 For example, the Touch FLO technology lets you access programs and some menu
-
 items with your fingers, but for other options (like accessing menus and getting
-
 back to the home screen), you have to either press a button at the bottom of the
-
 phone, or hope that your big finger hits the right tiny button on the screen. I
-
 kept forgetting that the four buttons on the bottom of the device (the Home
-
 button, Back button, and Phone on and off button) had to be pressed - because
-
 there's no physical button (the interface is flush), I kept thinking they were
-
 touch-enabled like on the LG Chocolate series. Only after a few presses did I
-
 remember that I had to push down on the icon to activate it. And like most
-
 Windows Mobile phones, this device comes with a stylus, so half the time I was
-
 trying to figure out whether I should use my finger or the stylus to get to the
-
 program or menu option that I wanted.Because the device runs on Windows Mobile,
-
 you get the Microsoft-endorsed applications that will let you do things such as
-
 access Exchange e-mail, Office documents and Windows Live search, but you're
-
 also stuck with the Mobile Internet Explorer browser. In addition, you have to
-
 use ActiveSync in order to move music over to the device, and that requires
-
 Windows Media Player 10 on your desktop machine.In the end, the Touch Diamond is
-
 stuck between two worlds. It wants to be a hip, iPhone like device, but it's
-
 stuck with a "serious" operating system that limits its ability to be cool and
-
 new. Serious hardware flaws and interface designs only make this device even
-
 more frustrating to operate.RELATED STORIES* HTC Touch Diamond: A well-designed
-
 Windows Mobile smart phone* HTC's iPhone 3G rival, the Touch Diamond* Latest
-
 news on the HTC Diamond Touch TECH SPECS:Operating system: Windows Mobile
-
 6.1Cellular network: EV-DOWi-Fi: YesDisplay: 2.8-inch touch screenNavigation:
-
 TouchFLO 3D technology offers one-touch finger control to access programs.
-
 Buttons on the bottom of the phone allow you to navigate through menu options
-
 and to access the home page or make phone calls.E-mail: Outlook e-mail with
-
 Microsoft Direct Push technology, as well as access to POP3 and IMAP e-mail,
-
 including AOL, Gmail, EarthLink and Yahoo.Contacts, Calendars, Tasks:
-
 Synchronized through ActiveSync.Office document support: Yes, through Office
-
 Mobile.Web browser: Mobile Internet ExplorerUse device as PC modem: No.GPS: Yes,
-
 with Sprint Navigation application. Live search via GPS also supported.Storage
-
 card: No, files stored on internal 4GB hard drive.Camera: 3.2 megapixel digital
-
 camera.Multimedia: Sprint Music application plays over-the-air downloads from
-
 Sprint Music Store; other applications can be sideloaded (via USB connection)
-
 through ActiveSync and Windows Media Player.Removable battery: Yes~~
 
-
-
 < Previous (HTC Touch Diamond) | Next (Nokia E71) > The skinny: The successor to
-
 the Treo 700wx model, the Treo 800w keeps the same "Palm device, but Windows OS"
-
 model. Sprint's speedy EV-DO Rev. A network provides better downloads of e-mail
-
 and Web access when mobile workers are out and about, and the built-in Wi-Fi
-
 access comes in handy when in range of a Wi-Fi network. Enterprises should
-
 appreciate the Exchange support and Office document integration, as well as the
-
 support for Microsoft's System Center Mobile Device Manager 2008, which will
-
 give IT a chance to manage a multitude of devices. VPN support and the ability
-
 to remotely wipe a device's memory if lost or stolen should also be appealing to
-
 enterprises. Because the 800w uses Windows Mobile 6.1, applications based on
-
 Microsoft's .Net Compact Framework 2.0 and SQL Server 2005 will run on the
-
 device.RELATED STORIES* The Palm Treo 800w and SQL Server: Another pleasant
-
 surprise* Palm unwraps the unlocked 3G Treo Pro smart phone* Palm, Sprint launch
-
 "business friendly" Treo 800w* Latest Palm Treo news TECH SPECS:Operating
-
 System: Windows Mobile 6.1 Professional.Cellular network: EV-DO Rev. A.Wi-Fi:
-
 Yes (802.11b/g)Display: 320 by 320 transflective touch-screen.Navigation:
-
 Five-way navigation for menus, stylus provided and QWERTY keypad.E-mail: Outlook
-
 access, Direct Push through Exchange (requires Exchange Server 2003 with SP2 or
-
 Exchange Server 2007). Internet e-mail supported, including Gmail, MSN and
-
 Yahoo.Contacts, Calendars, Tasks: Microsoft Office Outlook Mobile.Office
-
 document support: Word, Excel, PowerPoint mobile versions, and PDF viewing.Web
-
 browser: Mobile Internet ExplorerUse device as PC modem: Yes (appropriate
-
 service plan required).GPS: Yes. SprintNavigation service bundled on device;
-
 GPS-powered local search, maps and navigation available from Today
-
 screen.Storage card: MicroSD and microSDHC supported (up to 8GB).Camera: 2.0
-
 megapixel with 2x digital zoom and video capture.Multimedia: Windows Media
-
 Player Mobile, Sprint TV.Removable battery: Yes~~
 
-
-
 < Previous (Palm Treo 800w) | Next (HP iPAQ 910c) > The skinny: The best
-
 representation of the idea that mobile devices are designed for business usage
-
 and personal usage is the dual home screen feature on the Nokia E71. By pushing
-
 the "switch mode" button on the screen, E71 can switch between their business
-
 e-mail and personal e-mail, for example, as well as other options such as music
-
 player, Web browser and digital camera.Security features include support for
-
 Secure Sockets Layer, IPSec VPNs, and Pointsec file encryption on the device.
-
 The E71 includes a Symantec firewall and antivirus software, and also has a
-
 remote lock and memory card password to add additional security.
 
-
-
 IT managers can use Nokia's configuration tool and Intellisync Device Management
-
 to configure, manage and update devices.
 
-
-
 Enterprises comfortable with Symbian operating system devices can utilize the
-
 operating system to create access field service management, sales force
-
 automation and GPS applications.I do have a few concerns with the device and
-
 with Nokia's support of corporate applications. First, the device is currently
-
 unlocked, and some enterprises might want better carrier support.
 
-
-
 You can still use the device on AT&T's network, for example, but won't be able
-
 to buy the device subsidized from the carrier (some may argue that this is
-
 better, anyway, and keeps you away from new two-year agreements). Second, the
-
 company recently announced it was stopping its development of the Intellisync
-
 mobile e-mail platform in favor of platforms from Cisco, Microsoft and IBM. The
-
 company announced reallocating resources to a consumer e-mail push service (the
-
 Nokia Email Service), which would be able to aggregate messages from Gmail,
-
 Yahoo and ISP accounts directly into the phone.RELATED STORIES* Tested: Nokia
-
 E71 3G smartphone* New Nokia phones targeted at enterprises* Latest Nokia E71
-
 news TECH SPECS:Operating System: Symbian OS 9.2, S60 3.1 Edition
-
 (E-Series).Cellular network: HSDPA, Wideband CDMA 850/1900 MHz, and quad-band
-
 EGSM (850/900/1800/1900 MHz).Wi-Fi: Yes (802.11b/g)Display: 2.36-inchh display,
-
 320 x 240 pixel resolution (QVGA), with two customizable home screens. No
-
 touch-screen.Navigation: Five-way navigation and option select buttons, no
-
 stylus, QWERTY keypad.E-mail: Supports IMAP, POP, SMTP e-mail. Corporate e-mail
-
 supported through Mail for Exchange application.Contacts, Calendars, Tasks: Yes,
-
 through Mail for Exchange software.Office document support: Symbian OS supports
-
 viewing and editing of documents, spreadsheets and presentations. PDF documents
-
 can be viewed.Web browser: Nokia browser supports HTML, WAP 2.0 and
-
 JavaScript.Use device as PC modem: Yes, through Nokia PC Internet Access
-
 application.GPS: Yes, through Nokia Maps application.Storage card: MicroSD card
-
 support, up to 8GB of capacity.Camera: 3.2 megapixel digital camera with video
-
 mode.Multimedia: Nokia-based music player, video player support includes Flash
-
 video files (among others). Music can be synchronized through Windows Media
-
 Player.Removable battery: Yes~~
 
-
-
 < Previous (Nokia E71) | Next (Palm Treo Pro) > The skinny: It's been a while
-
 since the iPAQ brand name has been in the minds of smart phone users, but with
-
 the HP iPAQ 910c Business Messenger, HP is hoping it will come back to the
-
 forefront for business users. The device, backed by the support of the Windows
-
 Mobile 6.1 operating system, is clearly in the "enterprise device" category, but
-
 still has personal features such as a 3 megapixel digital camera and Windows
-
 Media Player for music and videos.The device is slightly bigger than today's
-
 smart phones, but that leaves room for the slightly larger screen and QWERTY
-
 keypad - typing on the screen wasn't as harrowing as on some smaller devices.
-
 The integrated GPS and associated Google Maps application added very nice
-
 mapping features to the device. Like other devices in the Windows Mobile camp,
-
 it integrates well with existing Windows applications, and users should be very
-
 familiar with the look and feel of this device if they've used any Windows
-
 Mobile (or even the old-school Pocket PC) devices before.Like some of the other
-
 unlocked devices, lack of specific carrier support concerns me (the unlocked
-
 phone drives up the price of the device, but then you're also not locked into a
-
 two-year agreement). Overall this is a pretty solid device - nothing to get
-
 super-excited about, but nothing that's a big deal-breaker either. RELATED
-
 STORIES* Palm Treo Pro, HP iPaq 910c Business Messenger TECH SPECS:Operating
-
 system: Windows Mobile 6.1 ProfessionalCellular network: HSDPA, drops down to
-
 GSM/GPRS/EDGE when out of HSDPA coverage area.Wi-Fi: Yes (802.11b/g)Display:
-
 2.46-inch, 320 by 240 pixel touch-screen.Navigation: Five-way navigation,
-
 stylus, and QWERTY keypad.E-mail: Supported through Outlook Mobile
-
 application.Contacts, Calendars, Tasks: Synchronized through Microsoft Outlook
-
 Mobile.Office document support: Yes, through Office Mobile (Word, Excel,
-
 PowerPoint).Web browser: Mobile Internet Explorer.Use device as PC modem:
-
 No.GPS: Yes, with Google Maps application.Storage card: MicroSD card slot, up to
-
 4GB of capacity supported.Camera: 3 megapixel digital camera.Multimedia: Yes,
-
 through Windows Media Player.Removable battery: Yes~~
 
-
-
 < Previous (HP iPAQ 910c) | Next (iPhone 3G) > The skinny: Palm's latest smart
-
 phone provides support for most enterprise functions (including a nice ability
-
 to encrypt data stored on the phone), but also provides some "personal"
-
 features, such as a digital camera and multimedia player. Mobile workers will
-
 appreciate the removable battery and the ability to edit Word and Excel
-
 documents while on the road. Because the device uses Windows Mobile 6.1,
-
 applications based on Microsoft's .Net Compact Framework 2.0 and SQL Server 2005
-
 will run on the device.The price is a bit high, so enterprises might want to
-
 wait until a carrier provides a subsidized version (although users with SIM
-
 cards that want to switch can do so without having to extend their voice/data
-
 contract). This device includes Wi-Fi for faster data access, and GPS support
-
 provides for local search and driving directions for mobile workers.RELATED
-
 STORIES* Treo Pro unlocked in bid to lower roaming costs* Palm Treo Pro: A sweet
-
 Windows smartphone* Palm Treo Pro, HP iPaq 910c Business Messenger* Latest Palm
-
 Treo news TECH SPECS:Operating System: Windows Mobile 6.1 ProfessionalCellular
-
 network: UMTS / HSDPA. Downgrades to GSM if not in UMTS/HSDPA coverage
-
 area.Wi-Fi: YesDisplay: 320 by 320, transflective color touchscreen.Navigation:
-
 Five-way navigation for getting through menus, stylus and QWERTY keypad.E-mail:
-
 Outlook access with Microsoft Direct Push and HTML support (requires Exchange
-
 Server 2003 with SP2 or Exchange Server 2007). Personal e-mail support includes
-
 Hotmail, Yahoo and Gmail.Contacts, Calendars, Tasks: Yes, through Office Outlook
-
 Mobile.Office document support: Edit native Word and Excel documents. Open and
-
 view PowerPoint, PDF and zip files.Web browser: Internet Explorer MobileUse
-
 device as PC modem: YesGPS: Yes. Additional service required for navigation and
-
 turn-by-turn navigation. TeleNav service bundled with device.Storage card:
-
 MicroSDHC supported, up to 32GB.Camera: 2.0 megapixel camera with 8x digital
-
 zoom and video capture.Multimedia: Windows Media Player MobileRemovable battery:
-
 Yes~~
 
-
-
 < Previous (Palm Treo Pro) | Next (New smartphones on the way) > The skinny:
-
 Enterprises shouldn't automatically dismiss the iPhone for mobile workers just
-
 because it's made by Apple. The company has made an effort with the
-
 second-generation iPhone to get into the enterprise, with features such as
-
 Exchange support, remote wipe and VPN access. Whether enterprises will bite is
-
 up to the company and how stringent their policies are regarding mobile devices.
-
 For example, the camera can't be disabled; and enterprise applications either
-
 need to be custom-built through Apple's SDK, or purchased through third-party
-
 applications in the App Store. Companies that want to mobilize their existing
-
 Windows applications for use on the iPhone will find this more difficult than on
-
 other devices, where Windows Mobile integration with Windows is easier. The lack
-
 of a removable battery is a deal-killer with many mobile workers. Heavy usage on
-
 the road will require additional accessories, such as snap-on battery packs or
-
 charging cables.Despite these issues, the iPhone provides the best mobile user
-
 experience - the Safari browser best emulates a PC Web session, and the ability
-
 to access thousands of third-party applications can turn this into the ultimate
-
 mobile device for work and for personal use.RELATED STORIES* 3G iPhone at a
-
 glance* Six common complaints about the iPhone 3G* Smartphone smackdowns: iPhone
-
 vs. BlackBerry Storm | The iPhone vs.
 
-
-
 the G1* Latest iPhone news TECH SPECS:Operating System: iPhone OS 2.1.Cellular
-
 network: UMTS/HSDPA, drops to GSM/EDGE when not in 3G coverage area.Wi-Fi: Yes
-
 (802.11b/g)Display: 3.5-inch widescreen, 480 by 320 touchscreen.Navigation: No
-
 stylus or hardware, navigation all done through touch screen.E-mail: Support for
-
 Microsoft Exchange (works via Outlook Web Access), Yahoo, Gmail, AOL, and most
-
 IMAP or POP mail systems.Contacts, Calendars, Tasks: Can be synchronized through
-
 Exchange.Office document support: Can view (not edit) PDF, Word, Excel and
-
 PowerPoint files.Web browser: Safari.Use device as PC modem: NoGPS: Yes. Maps
-
 application (integrated with Google Maps) includes list of turn-by-turn
-
 directions, or you can track route and view live position.Storage card: No.
 
-
-
 Memory storage on hard drive (8GB or 16GB).Camera: 2.0 megapixels with photo
-
 geo-tagging (integrated with GPS).Multimedia: IPod application plays songs and
-
 music.Removable battery: No~~
 
-
-
 < Previous (iPhone 3G) | Next (Xperia X1) > New kids on the block: BlackBerry
-
 BoldAstute readers may notice that I left out the major player in the smart
-
 phone game, Research In Motion and its BlackBerry line of devices. While I could
-
 have profiled existing devices (such as the Curve, 8800 series or even the Pearl
-
 line), they seemed "old" compared with the newer devices we tested. And the
-
 newest RIM product -- the BlackBerry Bold -- wasn't shipping in the United
-
 States when our testing was being conducted.The BlackBerry Bold was announced
-
 earlier in the year, and AT&T has said it will be the exclusive carrier of the
-
 newest generation of BlackBerry device. The Bold is the first BlackBerry to
-
 support HSDPA networks, and comes with integrated GPS and Wi-Fi (802.11a/b/g),
-
 as well as multimedia features. Running on a 624 MHz mobile processor, the Bold
-
 includes 128MB of flash memory, 1GB of on-board storage memory as well as a
-
 microSD/SDHC card slot, which is accessible via the side (earlier BlackBerry
-
 devices hid the card slot behind the battery case). The Bold features a half-VGA
-
 color screen (480 by 320 resolution), with a trackball that better mimics a
-
 mouse to make it easier to navigate and view Web sites. The Bold includes a 2
-
 megapixel digital camera with video recording features, built-in flash and
-
 digital zoom. Multimedia features include a music and video player.Since being
-
 announced in May, the Bold has appeared practically everywhere on the planet
-
 except for the United States (you can get one in Canada, the United Kingdom,
-
 Japan, Indonesia, Spain, Serbia, India, Romania, France, Spain, Luxembourg,
-
 Malaysia, Singapore, Ecuador, Turkey, Austria, Germany, Australia, Hong Kong,
-
 and Chile). A RIM spokeswoman said the Bold was being certified by AT&T
-
 Wireless, but wouldn't provide any further details.RELATED STORIES* Orange UK
-
 pulls BlackBerry Bold over 3G problems* RIM debuts Blackberry Bold* Blackberry
-
 Bold Staves Off Business iPhone Migration* Latest BlackBerry news~~
 
-
-
 < Previous (BlackBerry Bold) | Next (T-Mobile's G1) > New kids on the block:
-
 Sony Ericsson Xperia X1Another smart phone attempting to pretty up Windows
-
 Mobile is Sony Ericsson's Xperia X1 device, which made its official debut in
-
 September in the United Kingdom, with launches in Germany and Sweden as well.
-
 Other markets in Europe, Asia and Latin America are expected throughout the rest
-
 of the year. The company said availability in North America "will be announced
-
 by local markets in the coming months." The Xperia X1 is a converged
-
 "entertainment and mobile Web communication experience," and includes an
-
 arc-slider design, 3-inch touch wide-screen, and Windows Mobile (yes, Windows
-
 Mobile). Users can tap on the customizable panels to choose different programs,
-
 including checking e-mail, browsing online or enjoying music or videos. The X1
-
 includes a full QWERTY keyboard for messaging, 3.2 megapixel digital camera
-
 (with video recording), Internet Explorer and Opera 9.5 Web browser, assisted
-
 GPS, and wireless LAN capabilities. The X1 is able to access HSDPA networks and
-
 will include a microSD card slot for memory storage.RELATED STORIES* Sony
-
 Ericsson courts Windows Mobile developers* Sony Ericsson releases Xperia* Sony
-
 Ericsson & Microsoft's XPERIA: iPhone killer?
-
-
 
 ~~
 
-
-
 < Previous (Xperia X1) | Return to the beginning > New kids on the block:
-
 T-Mobile G1The current buzz is all about the T-Mobile G1, which includes the
-
 open-source Google Android operating system (based on Linux). Launched last
-
 month for $179 (for the requisite two-year agreement), the G1 made a big splash
-
 in New York in September. Like the iPhone, the system can access high-speed data
-
 networks (T-Mobile's HSPA or Wi-Fi), has a touch-screen for navigation and an
-
 HTML browser with zooming features. The "Android Market" promises the ability to
-
 add additional applications to the phone, a la the iPhone App Store, and Google
-
 is hoping that the open source nature of the operating system will stimulate
-
 lots of application development. One big question mark on this phone is the
-
 device's lack of Exchange e-mail support - but T-Mobile says that third-party
-
 development of Exchange e-mail support is likely.RELATED STORIES* Smartphone
-
 smackdown: The iPhone vs. the G1* Security flaw spotted in G1 Google phone* FAQ:
-
 What T-Mobile's new G1 phone will do for you* The 10 best Google Android apps*
-
 First look: G1* Latest Google Android news
-
-
-
-
-
-LOAD-DATE: November 24, 2008
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newsletter
-
-
-
-
-
-                       Copyright 2008 Network World, Inc.
-
-                              All Rights Reserved
-
-
-
 
 

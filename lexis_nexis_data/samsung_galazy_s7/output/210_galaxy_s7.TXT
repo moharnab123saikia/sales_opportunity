@@ -1,306 +1,128 @@
-                             210 of 1000 DOCUMENTS
-
-
-
-
-
-                                 Indian Express
-
-
-
-                           February 23, 2016 Tuesday
-
-
-
-LG G5 vs Samsung Galaxy S7: The modular smartphone looks very cool;
-
-MWC 2016: Samsung Galaxy S7 is the new flagship, and we look at how it stacks up
-
-against LG G5 in terms of specs, features and more.
-
-
-
-BYLINE: Shruti Dhapola
-
-
-
-LENGTH: 1102  words
-
-
-
 
 
 MWC 2016: Samsung Galaxy S7 is the new flagship, and we look at how it stacks up
-
 against LG G5 in terms of specs, features and more.
-
-
 
 Samsung's Galaxy S7 and the LG G5 are the most talked about smartphones at the
-
 MWC 2016 and naturally so, given they are the new flagships from their
-
 respective companies.
 
-
-
 While S7 follows the design philosophy of its predecessor, the LG G5 has
-
 generated a lot of interest thanks to its modular design and plug in features
-
 like a battery, an additional camera module, and more.There's no doubt that for
-
 hardcore geeks, the LG G5 has their attention.
 
-
-
 We compare how the S7 stacks up against LG G5 in terms of specs, features and
-
 more.
-
-
 
 The general specs: Let's get these out of the way first.
 
-
-
 The Galaxy S7 comes with a 5.1-inch Quad HD Super AMOLED display in the regular
-
 version and a 5.5-inch dual edge Quad HD Super AMOLED screen in the S7 edge.
 
-
-
 Both smartphones have an 'Always-On Display,' are IP68 water and dust resistant,
-
 run Android 6.0 (Marshmallow), come with 4GB RAM (LPDDR4) RAM with 32 and 64 GB
-
 versions. S7 series also supports micro-SD slots with up to 200 GB of extra
-
 space.
 
-
-
 Samsung hasn't revealed the processor though it's reported that one version will
-
 run the new Snapdragon 820. For now, we know that the S7 series will have two
-
 processors: one is a 64-bit octa-core processor (2.3GHz Quad + 1.6GHz Quad) and
-
 the second a 64-bit quad-core processor (2.15GHz Dual + 1.6GHz Dual).
 
-
-
 The rear camera is 12 megapixel (F1.7 aperture), the front camera is 5 megapixel
-
 with OIS . There's a 3,000 mAh battery in the regular S7, while the S7 edge has
-
 a big 3600 mAh battery.
 
-
-
 In case of the LG G5 has a slightly bigger (compared to S7) 5.3-inch Quad HD IPS
-
 Quantum Display (2560 x 1440 / 554ppi), runs the latest Qualcomm Snapdragon 820
-
 processor, has 4GB RAM, 32GB storage space (microSD expandable up to 2TB). It
-
 comes with a 2800 mAh battery, which is removable, and has USB Type-C for fast
-
 charging.
 
-
-
 The rear camera is a dual-camera set-up with a 16 megapixel camera and a
-
 wide-angle eight megapixel camera. The front camera is eight megapixels and the
-
 smartphone runs Android 6.0 Marshmallow. More on the camera below.
-
-
 
 So what's really different with the S7 and the LG G5?
 
-
-
 Camera: There's no doubt that LG G5 appears to have trumped the S7 in some ways
-
 by going for a dual-camera set-up on the back. LG says the G5 has a 135-degree
-
 wide angle lens, for a wider view. It's also added some new features to the
-
 camera such as Pop-out Picture, Film Effect and Auto Shot. Pop-out Picture
-
 combines images taken by the standard and wide angle lens to create a
-
 picture-in-a-frame effect.
 
-
-
 But what is more interesting is the LG G5's modular design, which lets users add
-
 something called a Cam Plus to the smartphone, and convert it into a digital
-
 camera. LG says the Cam Plus has buttons for power, shutter, record, zoom, LED
-
 indicator and comfortable grip, along with intuitive auto-focus and exposure
-
 lock. It gives the G5 an additional battery capacity of 1,200mAh when attached.
 
-
-
 The only problem is that we don't know much LG is going to price this camera
-
 module. But even without the camera module, the dual-rear camera sounds pretty
-
 exciting.
 
-
-
 Samsung, however, has stuck to increasing the pixel size and improving image
-
 quality in low-light settings for the S7, S7 edge. S7 comes with Dual Pixel
-
 technology, which the company claims that the pixels in its camera are bigger
-
 (around 30 per cent bigger than the iPhone 6s Plus) and thus allow for sharper,
-
 clearer pictures, even in low-light surroundings.
 
-
-
 The company adds that the dual-pixel technology works like a human eye, allowing
-
 for a faster focus while taking a picture. Samsung has also added 'Motion
-
 Panorama' which adds action to your panorama shot. It's like 'Live Photos' in
-
 Apple iPhone 6s (http://techie.indianexpress.com/apple-iphone-6s/ie5451820), but
-
 only for panorama mode.
 
-
-
 Samsung Galaxy S7's camera set-up might not sound so jazzy or different, but
-
 let's not forget that the company has been doing a great job on this front and
-
 is tough competitor to beat.
 
-
-
 Battery: LG G5 comes with a slide-out battery feature, where a user can just
-
 replace the battery in seconds. Now that's something we've not seen in a
-
 flagship. LG G5 also goes for the newer Type-C USB charging port and supports
-
 fast-charging. LG adds that its Always-on Display won't consume too much battery
-
 life either.
 
-
-
 Samsung Galaxy S7, S7 edge come with support for wireless charging, and the
-
 company has stuck with regular micro-USB charging ports. Samsung has also made
-
 the devices water and dust-resistant by sealing the ports from inside, ensuring
-
 better protection for the device's battery. The company claims that the new S7
-
 series comes with air-cooling technology to prevent the smartphone from
-
 over-heating.
 
-
-
 LG G5 and friends: The G5 has generated interested not just due to the modular
-
 design but also because LG has rolled out a host of devices to support the
-
 smartphone. For starters, there's the LG Hi-Fi Plus, an audio player, which the
-
 company has developed with B&O PLAY. The portable Hi-Fi DAC audio player offers
-
 high-quality audio, and can be attached as a module to LG G5 or as a separate
-
 Hi-Fi DAC by connecting to any smartphone or PC.
 
-
-
 There's also the LG 360 CAM, which can be connected to the smartphones allowing
-
 users to create 360-degree content. Plus an LG Smart Controller to let G5 users
-
 control certain drones, and check the video stream from the drone in real-time.
 
-
-
 Samsung S7 and its accessories: The Galaxy S7 might not have a modular design,
-
 or look very different from the S6, but it also supports a slew of accessories.
-
 Samsung has launched its own Gear 360 camera to support the S7, S7 edge, S6
-
 series and the Note 5. The camera which has dual fisheye lenses, with 15
-
 megapixel image sensors each, lets users capture high-resolution (38401920)
-
 360-degree video and 30 megapixel still images. Users can also shoot 180-degree
-
 wide angle video and images with only using one side of the camera lens.
 
-
-
 If the camera is synced with a S7 or supported smartphone, users can view the
-
 video-content in real-time.
 
-
-
 Of course, VR and VR style content is big for Samsung as was evident with Mark
-
 Zuckerberg's appearance at the launch. The company is giving Gear VR (powered by
-
 Facebook owned Oculus) free to users who pre-order S7 in some parts of the
-
 world.
-
-
 
 Conclusion
 
-
-
 There's no doubt that both the LG G5 and Galaxy S7 series are good-looking
-
 smartphones, but the former stands out, thanks to the modular design, slide-out
-
 battery feature. Of course, we'll have to wait and see if being different
-
 translates into success for LG in 2016.
-
-
-
-LOAD-DATE: February 23, 2016
-
-
-
-LANGUAGE: ENGLISH
-
-
-
-PUBLICATION-TYPE: Newspaper
-
-
-
-
-
-           Copyright 2016 Indian Express, distributed by Contify.com
-
-                              All Rights Reserved
-
-
-
-
 
