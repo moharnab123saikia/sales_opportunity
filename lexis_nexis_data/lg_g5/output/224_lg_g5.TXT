@@ -1,0 +1,33 @@
+
+
+LG Electronics (LG) announced today that the G5 and V10 smartphones have been
+certified by the U.S. National Information Assurance Partnership (NIAP) for
+compliance in meeting international security standards in corporate
+environments.
+
+NIAP administers the globally recognized Common Criteria Evaluation and
+Validation Scheme (CCEVS) for evaluating security conformance with the Common
+Criteria international standard. NIAP certification is recognized by the
+governments of 25 Common Criteria member countries such as Canada, France,
+Germany, India, Japan, South Korea and the United Kingdom
+(www.commoncriteriaportal.org/ccra/members).
+
+LG's flagship smartphones are equipped with LG's GATE technology for enhanced
+platform, network, and application security that allow for secure, reliable
+access to enterprise data. GATE, or Guarded Access to Enterprise, is LG's
+enterprise-level security platform developed in 2013 to provide a variety of
+security solutions such as anti-hacking and mobile device management systems for
+enterprise mobile devices. GATE's layered security components help to maintain
+the integrity of software components, strengthening system protection and
+safeguarding corporate data without compromising performance.
+
+What's more, LG G5 and V10 also feature Google's Android for Work which
+leverages the LG GATE network capabilities. Included in Android for Work is a
+container solution which separates and secures work apps from personal apps.
+
+"With the growing importance of higher security in business these days, we
+believe a firm security platform is a must for mobile workplace devices," said
+Chris Yie, vice president and head of marketing communications for LG Mobile
+Communications Company. "This certification is confirmation that LG smartphones
+are among the most secure mobile devices available today."
+

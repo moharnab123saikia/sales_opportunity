@@ -1,0 +1,152 @@
+
+
+iOS 8
+
+Both iPhones come with iOS 8, which has many news features.
+
+One of these upgrades is the built-in predictive QuickType Keyboard. It was
+quite good in predicting what I wanted to type, making it faster for me to write
+text or e-mail messages.
+
+You can also install third-party predictive keyboards such as SwiftKey (free) or
+Swype ($1.28). Once you download the keyboards, go to Settings >General
+>Keyboard >Keyboards. At Add Keyboard function, you will find SwiftKey or Swype
+available.
+
+Android users who are reading this are probably laughing now as they have had
+this feature for a long time. But better late than never. I found Swype to be
+really superb, as it allows me to slide my finger across the virtual keyboard
+instead of typing letter by letter. And it almost always got me the word I
+wanted and predicted the next one intelligently.
+
+You can now record and send audio or video messages within iMessages. You can
+set these audio and video clips to expire after two minutes. Listening to the
+audio clips is particularly cool, as you can just put the headset to your ear to
+hear the message instead of tapping a play button.
+
+For iPhone 6 Plus, the icons in the Home screen will rotate to match the
+orientation of the display in landscape mode. In this mode, iPhone 6 Plus apps
+such as iMessages and Mail will show two panels: one, a list of messages; and
+the other, the selected message.
+
+The Health app, which relies considerably on third-party apps for information,
+is hampered by delays till the end of the month because of a bug in the
+HealthKit framework.
+
+Certain features, such as Continuity, will come in handy only when the new OS X
+Yosemite launches. Continuity lets you continue typing an e-mail message or
+viewing a website when you switch from iPhone to Mac, for example.
+
+Display
+
+The iPhone 6 features a 4.7-inch Retina HD display with a screen resolution of
+1,334 x 750 pixels and a pixel density of 326 pixels per inch (ppi).
+
+The iPhone 6 Plus has the same display as its sibling. However, it is
+substantially bigger at 5.5 inches and has a resolution of 1,920 x 1,080 pixels.
+This gives it a pixel density of 401ppi, the highest ever in an iPhone.
+
+Its rivals the Samsung Galaxy S5 and the upcoming Samsung Galaxy Note 4 have
+432ppi and 550ppi respectively.
+
+Apple said the Retina HD displays are made of ion-strengthened glass, which is
+more resistant to scratching and shattering.
+
+Both displays use the same technology that is supposed to give you a better
+viewing experience, with deeper blacks and sharper text.
+
+Dual-domain pixels ensure colour accuracy from corner to corner for a wider
+viewing angle, while an improved built-in polariser lets you see the screen more
+clearly when you are outdoors in sunlight.
+
+Both displays looked sharp. I saw very little colour or brightness shift when
+viewing both displays from the side. Even when you are outdoors, you will be
+able to see what is displayed clearly.
+
+Because the iPhone 6 Plus has a bigger screen, its display looks brighter and
+sharper even though it has the same brightness level and its pixel density is
+only marginally higher than that of the iPhone 6. Photos and videos all look
+much better on this display than on the smaller iPhone.
+
+I think the bigger screen of the iPhone 6 Plus accentuates the whole viewing
+experience. In addition, the extra real estate provides ample space for virtual
+buttons while leaving enough to display the main action.
+
+Design
+
+The flat sides and chamfered edges of the iPhone 5/5s are things of the past. In
+the new iPhones, the front glass panel curves around the edges for a smooth and
+seamless meeting with the rounded edges of the anodised aluminium shell, a
+perfect union of glass and metal.
+
+The rear sheds the two-tone look of its predecessors for a more uniform colour.
+Only the antenna band is slightly different in colour.
+
+The Sleep/Wake button has migrated from the top to the right side of the device,
+for easier access with your right thumb.
+
+The volume buttons, which were round in the iPhone 5s, are now elongated like
+those found on the iPad Air. Rounded edges make it comfortable to hold either of
+the new iPhones in your hand.
+
+However, the iPhone 6 is much better for one-hand operation for most people.
+Being smaller, it lets you access the buttons more easily.
+
+While it may not be as easy to use the iPhone 6 Plus with one hand, a feature
+that Apple terms Readability lets you move the screen down by double tapping the
+Home button for better one-hand operation.
+
+Some of my colleagues who handled the iPhone 6 Plus had trouble reaching the
+Home button to activate this feature. I think most people may end up using the
+iPhone 6 Plus with both hands.
+
+Speed
+
+With an upgraded 64-bit A8 chip, both new iPhones operate much more speedily
+than earlier models when you open apps, browse the Internet or view photos and
+videos.
+
+In the Geekbench 3 benchmark tests, the iPhone 6 scored 1,625 (single-core) and
+2,921 (multi-core) while the iPhone 6 Plus scored 1,621 (single-core) and 2,914
+(multi-core). So it is a tie in terms of performance. Where it took 20sec to
+load Infinity Blade III on the iPhone 5s, both the new iPhones loaded the game
+in about 9sec.
+
+Camera
+
+Both the new iPhones have the same 8-megapixel f/2.2 rear camera and can shoot
+slow-motion video at 240 frames per second (fps), instead of the iPhone 5s
+camera's 120fps.
+
+Pictures and videos shot by both new iPhones were sharp with crisp details, even
+in the darker areas of the image.
+
+The iPhone 6 Plus has an optical image stabiliser which reduces the effect of
+camera shake. This is more effective than the digital image stabiliser of the
+iPhone 6. As a result, action videos shot with the iPhone 6 Plus look more
+stable and less jerky than those shot with the iPhone 6.
+
+I found the autofocusing to be faster in the iPhone 6 Plus than the iPhone 6.
+This was especially so when shooting in dim conditions.
+
+Battery life
+
+Apple has not specified the capacity of the battery. But iPhone 6 Plus is
+supposed to provide 24 hours of 3G talk time (16 days on standby), while the
+iPhone 6 is supposed to have 14 hours of 3G talk time (10 days on standby).
+
+In my tests, which included viewing Facebook and Twitter updates, e-mail
+messages and sending WhatsApp messages, I found that you would probably need to
+charge your iPhone 6 by the time you get home from work, whereas you should only
+need to charge your iPhone 6 Plus when you go to bed.
+
+In our intensive battery life test in which a 720p video is looped at full
+brightness and full volume with Wi-Fi on, the iPhone 6 lasted 6hr 55min, while
+the iPhone 6 Plus lasted 7hr 35min. In the same test, the iPhone 5s clocked 6hr
+45min.
+
+If your hands are of average size, the iPhone 6 should suffice. But if you
+prefer a larger display and a longer battery life, the iPhone 6 Plus is a must.
+If you are undecided, go and handle both iPhones at a shop before you make your
+choice.
+

@@ -1,0 +1,35 @@
+
+
+Apple has admitted to a bug with its smartphone battery meter that could see the
+iPhone 6S or iPhone 6S Plus displaying a higher charge than the phone actually
+has.
+
+The error means that the battery meter fails to update the percentage displayed,
+leading to some iPhones shutting down while still displaying full charge.
+
+According to Apple, the bug appears when users manually change the time on their
+iPhones or move between time zones, something a user might do if changing the
+clock for daylight savings or while travelling.
+
+The company said it was working on a fix, but that in the meantime users should
+first restart their iPhones, then enable the automatic time setting within the
+"Date & Time" settings.
+
+The iPhone-maker has a history of bugs linked to its time and date settings. For
+several years a bug with the smartphone's automatic daylight savings
+adjustmentbroke alarms, leaving some users late for work. Daylight savings was
+also to blame for a do not disturb bug in 2013, while a bug in the iPhone's text
+handling found last year meant anyone could instantly crash the smartphone with
+an SMS message.
+
+Apple is currently testing a new version of its iOS software that could fix the
+issue. The iOS 9.3 update, released in public beta to testers, will fix bugs and
+add a few new features including a night mode that filters out blue light to
+help users sleep and the ability to pair multiple Apple Watches with a single
+iPhone.
+
+
+     ·    Tim Cook defends Apple iPhone Smart Battery Case, says it's not a
+          'hump'
+
+

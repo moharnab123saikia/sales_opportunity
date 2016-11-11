@@ -1,0 +1,188 @@
+
+
+With Apple's annual Worldwide Developers Conference 2014 starting Monday June 2,
+it's déjà vu all over again with iPhoneand iOS rumors that have been circulating
+since the end of WWDC 2013.
+
+Most of the rumors are little more than hopes, more or less well-founded, like
+continued improvements to Apple's Maps platform in iOS, and more recently one
+genuinely new rumor that Apple will be extending iOS to handle home automation
+systems, using your iPhone like an all-purpose remote control for the Digital
+Things in your life.
+
+Also this week, a rumor that iPhone 6 will be available on Sept. 19; another
+that Foxconn will be the main iPhone 6 assembler, and a rear metal casing that
+some think belongs to the 4.7-inch iPhone 6.
+
+You read it here second.
+
++More on NetworkWorld: 20 best iPhone/iPad games of 2014 + This is less a rumor
+than a Forlorn Hope. It's widely expected that Apple will unveil iOS 8,
+because...that's what Apple does at its yearly Worldwide Developers Conference,
+which this year starts June 2.
+
+No one is expecting the Next iPhone(s) to be revealed. But there is hope new
+features in iOS, or clues embedded in the code, might at least hint at features
+in the upcoming phones.
+
+The Financial Times this past week posted a story headlined "Apple sees the
+light in push for Jetsons-style home automation."
+
+[Subscription is required to read it.]  The basic idea is that Apple seems to be
+preparing software that will turn the iPhone into a "remote control" for lights,
+security systems and other household appliances. The iBeacon specification,
+which Apple bases on Bluetooth 4.0 (also known as Bluetooth Low Energy) may be
+part of this network/internet of things. There have been a variety of software
+platforms aimed at home/office automation systems, which have achieved varying
+levels of success. Apple may intend to leverage the millions of iPhones in
+existence, and the familiar iOS user interface, to create a home automation
+platform that has almost at the start a very large user base.
+
+CiteWorld's Ryan Faas looked at Apple's published WWDC schedule, and took note
+of the many sessions that are "TBA" - to be announced after the opening keynote
+by Apple CEO Tim Cook and crew. Faas reasoned that these silences actually give
+some clues as to Apple's announcements.
+
+"The unnamed events are spread across each of the six tracks that Apple offers
+-- Frameworks, Services, Tools, Graphics and Games, Media, and Core OS -- and
+include both lecture-style sessions and interactive labs," Faas writes. "That
+implies that Apple is planning major announcements about upcoming products, OS
+features, apps, and services. It also implies that these announcements will
+directly impact many of the underlying foundations of iOS and OS X. Perhaps,
+most importantly, it indicates that whatever products, services, or future OS
+versions Apple announces, it will need the support of its developer community to
+ensure success."
+
+The last statement hardly rises above a truism: as Faas himself acknowledges,
+the whole point of WWDC is to bring the 5,000 developer attendees up to speed
+with Apple's newest OS features, apps, and services.
+
+Faas offers a round up of current speculation, with those bearing on iOS and the
+iPhone being:
+
+* Health Book, an app modeled the iOS Passbook app, but intended as a central
+location for fitness, lifestyle, and health information; possibly using
+Bluetooth LE to link with fitness and health devices.
+
+* improvements and extension to Apple's Maps app and location services.
+
+* adding Touch ID fingerprint scanning to all future iPhones and iPads, and
+extending its underlying software and opening it up to developers for
+authentication and authorization uses.The good news: we only have to wait until
+Monday afternoon June 2 to know instead of, well, Sept. 19.
+
+That's what we call precision. Not very well grounded precision, but good enough
+for the iOSphere.
+
+Numerous iOSphere websites rebroadcast a rumor that apparently first appeared on
+a German language site, ApfelPage.de, which claims to have seen internal
+documents from iPhone carrier Deutsche Telekom or as Google Translate renders it
+"documents in our internally prepare already on the iPhone 6."
+
+ApfelPage, oddly, doesn't actually quote these documents or provide a photo or
+scanned image of them, so we end up with at best a paraphrase.
+
+The German carrier "has, therefore, the call center tasked with customers, whose
+contract expires in about the launch of the model, to convince them to extend
+their tariff - But then with an iPhone 6 in the luggage. We are talking about a
+launch date of the device at September 19, 2014 at Telekom and probably the same
+in the Apple Stores."
+
+By "launch date," ApfelPage apparently means "the date when the Next iPhone
+becomes available for sale." Presumably the announcement date would be seven to
+10 days earlier.
+
+"Also, potential customers who can not be dissuaded to wait for the next iPhone
+, instead of already conclude a telecom contract are to be angeködert [?]. You
+will, so our information , even sent in exceptional cases, in July a written
+offer to contract for the iPhone 6 by Telekom - without names, of course."
+
+Typically, much is read into this vaguely-sourced claim. For Kukil Bora, at
+International Business Times, the ApfelPage post qualifies as a "report" and is
+"lending more credibility to the growing rumor that Apple Inc. could launch its
+next-generation iPhone, dubbed the iPhone 6, in September...."
+
+Bora translates the Google Translate version of the German to mean that
+"Deutsche Telekom reportedly instructed its call center representatives to tempt
+customers to stay with the carrier for the Sept. 19 launch of the highly
+anticipated iPhone 6...."
+
+Of course the best indication of a September release for iPhone 6 is simply the
+pattern of previous September releases, for the iPhone 5s and 5c (Sept. 20,
+2013) and the iPhone 5 (Sept. 20, 2012).
+
+A typically brief, and typically thinly-sourced, post at DigiTimes (which may be
+behind a subscriber paywall by the time you read this) claims that long-time
+Apple manufacturing partner Foxconn (Hon Hai Precision Industry) will assemble
+the 5.5-inch iPhone 6, and 70 percent of the 4.7-inch iPhone 6 models.
+
+The only foundation for this is usual "sources from the upstream supply chain."
+
+The post says Pegatron will handle the remaining 30 percent of the 4.7-inch
+models, with a third contract assembler, Wistron, taking over the "existing
+4-inch iPhone."
+
+AppleInsider forthrightly labeled this with a headline starting with the word
+"Rumor," but Sam Oliver reads into it more than DigiTimes did.
+
+"Apple is rumored to be finalizing its supply chain plans for this year's
+anticipated iPhone update...." he writes, suggesting that either he, or
+DigiTimes, knows more about the Apple supply chain arrangements and schedules
+than is likely.
+
+The DigiTimes post, which Oliver labels a "report," is also suggestive. "The
+report also claimed that Apple's current 4-inch iPhone size will live on, but
+referred to it as an 'existing' model, suggesting it may just utilize legacy
+hardware rather than sporting upgraded internal components."
+
+This is a false choice. There's no reason that an "existing" 4-inch iPhone model
+for 2014 can't have both legacy hardware and upgraded internal components:
+that's exactly what Apple did for the iPhone 5c, which has the same display as
+the iPhone 5 (and 5s) but shares the 5s wireless components, among other things.
+
+The only interesting thing the DigiTimes post really "suggests" is the
+unanswered question of what will Apple's 2014 iPhone line-up actually look like?
+The lower-priced, plastic-bodied 5c introduced in 2013 was Apple's first
+extension of the iPhone brand since the original was released in 2007. According
+to all the real public data that's available, the 5c has achieved at least some
+of the goals Apple set for it. [See "The great 'iPhone 5c is a failure'
+freakout: Getting the few facts available wrong."]  Assuming Apple will
+introduce a 4.7-inch model, will this eventually become the "standard" size for
+both the flagship and the "c" variants? Will the 4-inch display only be
+continued until the 2015 iPhones "upgrade" the display to the new standard?
+
+Will a larger-than-4.7-inch model be a higher-priced, lower-volume phone, such
+as an "iPhone Air" as some have speculated?
+
+Or will the "c" model feature a 4.7-inch screen and the flagship a 5.5-inch
+screen? And what will the impact be on iPhone pricing, with and without two-year
+carrier contracts?
+
+These are the real questions and so far there don't seem to be any rumors even
+speculating about the answers.
+
+The Australian Mac/iOS device repair service MacFixIt posted a photograph that
+is purported to be the rear metal housing or case of a 4.7-inch iPhone 6.
+
+And here it is.  The photo comes exclusively "from our contact in China." That's
+not the kind of source to inspire high confidence levels, given that the current
+population of China means there are about 1.3 billion candidates for "contact."
+
+Mike Beasley, regurgitating this revelation at 9to5Mac, inexplicably upgrades
+the source. He writes that the photo "allegedly comes from sources inside the
+supply chain," which makes it sound as if a flock of informed blabbers are doing
+brain downloads to MacFixIt. "This is reportedly the 4.7? model," Beasley
+assures his readers.
+
+MacFixIt actually doesn't even reportedly say that: they just eyeballed the
+photo and guessed. "Rumours claims that the iPhone 6 (due to be release later
+this year) is going to come in a larger size of 4.7" which fits the proportions
+of this photo," according to the original blogpost.
+
+This is making a molehill out an anthill.
+
+John Cox covers wireless networking and mobile computing for Network
+World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+

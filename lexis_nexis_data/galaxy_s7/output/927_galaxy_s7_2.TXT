@@ -1,0 +1,88 @@
+
+
+WHILE the Apple iPad currently dominates the tablet market, here are some
+potential iPad `killers'.
+
+1. SAMSUNG GALAXY TAB
+
+Samsung is the first company to rise to the iPad challenge. At just seven
+inches, its Galaxy Tab is slightly smaller than the iPad. This Android-based
+device has features like rear-facing 3.2-megapixel camera and a front-facing
+1.3-megapixel camera, external memory and applications from the Android
+marketplace. It also supports phone functionality, as speaker phone, via wired
+earpieces or Bluetooth earpieces.
+
+2. Motorola Xoom
+
+Xoom is the first tablet in the market to be powered by Honeycomb software that
+is crafted specifically for such devices by Google. It has been heralded as a
+viable challenger for the iPad. With a 10.1-inch screen, the Xoom is about the
+size of an iPad. It also features a front-facing 2-megapixel camera for video
+chats and a rear-facing 5-megapixel camera that also captures video. The device
+is expected to be available sometime this year.
+
+3. Blackberry PlayBook
+
+The BlackBerry PlayBook, by Research In Motion (Rim), is only 9.7mm thick and is
+the first tablet with a width below 10mm. The device is expected to run on QNX
+Neutrino. It has received positive reviews from technology critics including at
+the Consumer Electronics Show in Las Vegas. Wait for its public appearance this
+year.
+
+4. Toshiba tablet
+
+Toshiba will be introducing its version of tablet computer some time this year.
+The 10.1-inch Android Honeycomb tablet uses a Nvidia Tegra 2 dual-core
+processor, capable of doing 1,080p video. It features LED-backlit screen and
+supports multi-touch and accelerometer screen reorientation. There are also dual
+cameras fitted on this device - a 5-megapixel main camera and a 2-megapixel
+secondary camera.
+
+5. Lenovo IdeaPad Slate
+
+The IdeaPad Slate features a 10.1-inch, high-resolution screen with 1,080p video
+capability. Running on full Windows 7 operating system, it uses the Intel Oak
+Trail 1.6GHz processor chip, has a 32GB SSD drive and a microSD slot. It will be
+available in the US in May.
+
+6. The HTC Flyer
+
+Scheduled to be released in the second quarter of 2011, the Flyer will have a
+single-core 1.5 GHz and will run Android 2.4 (Gingerbread) instead of 3.0
+(Honeycomb). The device will have a seven-inch TFT display and special features
+such as pen input as well as touch input. A Wi-Fi variant is expected to be
+launched at a lower price soon after the 3G variant is released.
+
+7. LG Optimus pad
+
+LG's tablet version was showcased at the recent Mobile World Congress in
+Barcelona. The device features a 8.9-inch display and is powered by Google's
+Android 3.0 Honeycomb operating system and the NVIDIA Tegra 2 processor. It has
+two 5-megapixel cameras on the back and is capable of taking 3D video clips.
+However it only has the standard 2-D display.
+
+8. Huawei Ideos S7
+
+Not wanting to be left behind, China phone maker Huawei has come up with Ideos
+S7 Slim. The device features a seven-inch, 800 x 480 pixel touchscreen display,
+similar to Samsung Galaxy Tab and the HTC Flyer. But while Tab and Flyer use the
+newer Android OS, Ideos S7 Slim uses the previous version of Android 2.2 Froyo.
+Ideos S7 can be connected to 3G or Wi-Fi. It also has Bluetooth and GPS
+functions.
+
+9. CSL Spice Mi700 DroidPad
+
+Local phonemaker CSL's Spice Mi700 DroidPad has been available since October.
+Running on Android 2.2 Froyo with a Qualcomm 600MHz processor, it incorporates
+applications such as Azan, Qiblat and MapKing GPS navigator. Also doubles as a
+phone with 3G quadband connectivity.
+
+10. Dell Streak 7
+
+Dell's second tablet features a WVGA touchscreen with a 1.3-megapixel camera for
+video chat. Running on Android 2.2 Froyo with a dual-core NVIDIA Tegra 2
+processor, the tablet is also said to support 4G network. There is also an
+external SD card slot for up to 32GB extra space.
+
+( END )
+

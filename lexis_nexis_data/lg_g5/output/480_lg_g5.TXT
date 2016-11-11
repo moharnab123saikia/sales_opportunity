@@ -1,0 +1,48 @@
+
+
+Security flaws that could give hackers complete access to a smartphone have been
+found in the microchips of millions of Android devices, researchers claim.
+
+The computer security firm Check Point told a hacking convention in the US that
+it had found a bug - which it calls QuadRooter - that could affect up to 900
+million Android phones, including some made by BlackBerry, Google and LG among
+others, which is caused by vulnerabilities in the processor chips used in those
+phones by the US firm Qualcomm.
+
+There is no evidence that the problem has been used by cyber criminals.
+According to Check Point, if a "malicious app" installed on the affected phones
+could exploit the vulnerabilities, it could "give attackers complete control of
+devices and unrestricted access to sensitive personal and enterprise data on
+them".
+
+The alleged weakness, which is linked to the code that controls communication
+between different parts running inside a phone, is believed already to be the
+subject of a fix or "patch" being built by Qualcomm to remove the issue.
+
+The chipmaker is yet to officially comment on the issue.
+
+Check Point also suggested that the Android platform as a whole - which is open
+to dozens of different manufacturers and software developers - was part of the
+problem, with updates taking too long to pass through the system.
+
+"This situation highlights the inherent risks in the Android security model,"
+the firm said. "Critical security updates must pass through the entire supply
+chain before they can be made available to end users."
+
+The security firm has encouraged users to keep their phone's software up to date
+in order to keep it secure, and said it had also created a free app called
+QuadRooter Scanner, which can check whether a user's phone is at risk.
+
+Michael Shaulov, head of mobility product management at Check Point, told the
+BBC: "I'm pretty sure you will see these vulnerabilities being used in the next
+three to four months.
+
+"It's always a race as to who finds the bug first, whether it's the good guys or
+the bad."
+
+At risk? The models that could be vulnerable Among the models thought to be
+affected are: Nexus 5X, Nexus 6 and Nexus 6P Motorola's New Moto X (left) HTC
+One, HTC M9 and HTC 10 LG G4, LG G5, and LG V10 BlackBerry Priv Samsung Galaxy
+S7 and Samsung S7 Edge (US models) Sony Xperia Z Ultra (right) Blackphone 1 and
+Blackphone 2 OnePlus One, OnePlus 2 and OnePlus 3
+

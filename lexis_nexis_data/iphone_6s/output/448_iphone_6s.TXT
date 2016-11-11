@@ -1,0 +1,122 @@
+
+
+With its latest 16GB iPhone 6S and 6S Plus Apple has answered the question of
+what it thinks really matters: profit or user experience?
+
+The new iPhones are resplendent with new features, despite being the "tock" year
+in Apple's "tick, tock" update cycle and looking exactly the same as last year's
+iPhone 6 and 6 Plus.
+
+But the 3D Touch screen, the better camera, the Taptic engine and the faster
+processors all hide one thing - the starting iPhone 6S and 6S Plus, costing £539
+and £619 respectively, still only come with 16GB of storage.
+
+The iPhone has come with 16GB of storage since 2010's iPhone 4. Apple presumably
+wants to keep a lower price point to market its phones at, and to be able to
+upsell customers to the 64GB version - generating an extra £80 in revenue.
+
+Almost all companies do precisely this, including Apple's main handset rival
+Samsung. And you can argue that users have a choice - pay more to get more - but
+the vast majority don't appreciate how small 16GB now is. They just want an
+iPhone and buy whatever they're given by default, which is usually the cheapest.
+
+The problem is that 16GB is not enough storage for today's smartphones. After
+formatting and the OS being installed, this ends up providing around 12GB of
+storage space for the user.
+
+Back in 2012 the average app size was 23MB. Retina screens have significantly
+increased that size because each app has to have much higher-resolution imagery,
+which take up more room. Apps are also more complex, do more and provide richer
+experiences - everything that's good about a vibrant app ecosystem - but they're
+also taking up more space in the process.
+
+Apple increased the largest app size to 4GB this year, meaning a single app can
+take up a quarter of the space on the normal iPhone. Not every app is massive,
+of course. Facebook weighs in at 95.2MB, Twitter 62.7MB, Snapchat 52.9MB and the
+Guardian's app is 24.7MB.
+
+That's the size of the unopened installed app, but the moment it starts doing
+something - caching the images and data it needs to operate - the app sizes
+start to balloon.
+
+The Twitter app, for instance, can easily hit more than 240MB, for a regular
+Twitter user. The Facebook app can grow easily to that size too, while many
+others including Apple's own Messages app can start to put on data weight if
+users start sending photos.
+
+Delete those photos
+
+Speaking of photos, the iPhone 5S and 6 shoot 8MP photos that are just over 3MB
+in size each, which makes the average holiday, and the 200 or so photos that
+accompany it, a 600MB chunk of the storage.
+
+The iPhone 6S now has a 12MP camera, which means larger photos that will take up
+more storage, and Apple's new Live Photos will consume yet more space with their
+added video and audio. You can forget about shooting 4K video, which consumes
+around 300MB per minute. That 16GB of storage could easily be filled with just
+photos, let alone everything else.
+
+There are ways to offload those photos onto cloud storage, of course, but most
+users do not do that by default and are simply forced to delete some.
+
+What about music? Most people use their smartphone to listen to some sort of
+music, and while streaming is labelled as the answer, our 3G and 4G networks are
+not everywhere and cannot always be relied upon to sate our thirst for music.
+
+An average album of 12 tracks stored on an iPhone from Apple's own iTunes music
+store or Apple Music takes up around 90MB of storage. A 200-track playlist,
+therefore, takes up around 1.5GB of storage or around 12% of a 16GB iPhone.
+
+That's without talking about other media such as the movies and TV shows on
+offer from Apple's various stores; we'll gloss over those that weigh in at
+around 1GB per movie.
+
+Gaming cost
+
+The biggest offenders, of course, are games. Even a small game such as Apple's
+current favourite Crossy Road, weighs in at 74.7MB of space before being opened.
+Angry Birds 2 takes up 91.6MB, Candy Crush Saga 55MB and the critically
+acclaimed Monument Valley demands 275MB without the Forgotten Shores expansion
+pack.
+
+Those are all small compared to graphically rich games such as Real Racing 3,
+which claims at least 855MB of your storage. Even a card game such as Blizzard's
+popular Hearthstone demands a minimum of 868MB of storage. An avid player of
+Hearthstone, for instance, with all the latest content will need at least 1.3GB
+of space on their smartphone.
+
+The average user had 27 apps on their iPhone at the end of 2013 according to
+data from Nielsen, which means with apps growing in size and photos, music and
+videos becoming more compelling that 12GB of space seemed small last year, let
+alone today.
+
+Running out of storage makes the smartphone behave poorly and provides a very
+unsatisfactory user experience. Users are forced to delete precious memories,
+tracks they might want to listen to or apps and games that they can no longer
+afford to keep on your phone, and that might just be to install an update.
+
+Given that Apple does not allow users to add storage with removable cards, if it
+cared about the user experience of the vast majority of its users it should have
+increased the storage capacity of the starting iPhone.
+
+Analyst firm IHS estimated that storage cost Apple $0.42 per GB of storage.
+Adding an extra 16GB of storage to bring it to 32GB would have cost Apple just
+$6.72 extra per smartphone, something it could have easily eaten within its
+profit margins - the biggest in the industry by miles.
+
+The iPhone 6S and 6S Plus are premium smartphones, which Apple claims are the
+"most advanced smartphones in the world". Yet the rest of the industry,
+including arch-rival Samsung, has woken up to the fact that 16GB is not enough
+storage these days and either allows users to add their own storage to top-end
+smartphones or provides at least 32GB of rated space for their base models.
+
+In 2015, anyone who buys a 16GB smartphone risks quickly running out of space or
+being forced to pick and choose what apps they use. That's a problem for the
+user, but it's a problem for Apple too - its iPhone 6S innovations won't be seen
+as as good as it thinks they are if users quickly run out of space to store
+their 4K videos.
+
+· Apple supersizes its tablet with new 12.9in iPad Pro
+
+· Apple TV upgrade brings App Store into living room
+

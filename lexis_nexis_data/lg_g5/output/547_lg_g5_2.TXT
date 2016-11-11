@@ -1,0 +1,34 @@
+
+
+Meet the processor that's going to power many of this year's flagship mobile
+devices
+
+Qualcomm has unveiled the successor to the Snapdragon 820--the Snapdragon 821.
+This new mobile platform is said to deliver faster speed, improved power
+savings, and greater multitasking performance.
+
+Currently, the Snapdragon 820 powers some of the most feature-rich smartphones
+including Samsung Galaxy S7 and Galaxy S7 Edge, Xiaomi Mi 5, LG G5, HTC 10,
+LeEco LeMax 2, and Sony Xperia X.
+
+Qualcomm mentioned, "We're excited to tell you more about just how the
+Snapdragon 821 will help set a new bar for smartphones, tablets, mobile VR head
+mounted displays and other new devices. You can expect commercial devices
+powered by the 821 in the second half of 2016."
+
+The company states that the Snapdragon 821 is engineered to deliver a 10 percent
+performance increase over its predecessor, and continues to be based on their
+Kryo quad-core CPU that can now reach clock speeds of up to 2.4GHz. Also the 821
+contains a slightly faster Adreno 530 GPU compared to the 820--from 624MHz to
+650MHz, promising better graphics ability.
+
+The speed of the chips used in various implementations of the 821 across devices
+will differ, based on the strategies of the respective manufacturers--some will
+be clocked lower for better battery life while others that are skewed toward
+gaming may be set to run at their full potential. Also, the company stated that
+the 820 will continue to be used in upcoming phones, alongside its successor.
+
+The Asus Zenfone 3 Deluxe will be the first smartphone to be based on Snapdragon
+821 platform, and Google's upcoming flagship Nexus is rumored to be based on it
+as well.
+

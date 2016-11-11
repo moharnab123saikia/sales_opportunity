@@ -1,0 +1,59 @@
+
+
+A visitor to the Electronic Entertainment Expo 2016 plays Nexon's mobile game
+'Heroes of Incredible Tales,' upgraded to use Vulkan graphics technology on
+Samsung Electronics Galaxy S7 phones at the Los Angeles Convention Center, June
+14./ Courtesy of NexonBy Yoon Sung-won
+
+'Vulkan,' a mobile application programming interface (API), is catching
+attention in the smart device and mobile gaming industry for its ability to
+provide better graphic effects even in smart devices with low hardware
+specifications.
+
+As Google is planning to adopt the new technology for its next-generation
+Android mobile operating system, expectations are that this will extend further
+business opportunities to game development companies.
+
+During the Electronic Entertainment Expo (E3) held in Los Angeles last week,
+Samsung Electronics exhibited its Galaxy S7 and S7 Edge smartphones, the first
+smartphones that support the Vulkan API. At a dedicated exhibition zone, the
+company collaborated with Nexon to display its mobile game 'Heroes of Incredible
+Tales (HIT)' for the S7 series. 'HIT' is one of the first mobile games
+supporting the Vulkan technology.
+
+An executive from NAT Games, which developed 'HIT,' said, 'We have realized
+better graphics performance and boosted battery efficiency by applying the
+Vulkan API to HIT under cooperation with Samsung Electronics. This will help us
+promote HIT in the global market.' Nexon said it plans to distribute a
+Vulkan-based global version of 'HIT' in more than 140 countries.
+
+Samsung Electronics said, 'Vulkan's fast performance delivers an optimal gaming
+experience to every player providing a 30 percent increase in average frame
+rate.'
+
+The new graphics API, however, has yet to be widely distributed because the
+Galaxy S7 series is the only smartphone that supports the technology as of now.
+In the gaming industry, Super Evil Megacorp's 'Vainglory,' Electronics Arts'
+'Need for Speed' and 'HIT' are among the few mobile titles that will support the
+Vulkan API as of now.
+
+Google has said it will support the Vulkan API in the next upgrade of its mobile
+operating system, tentatively called Android N, which is expected to be released
+later this year.
+
+'As a mobile-friendly development tool, the Vulkan API uses limited system
+capacity more efficiently to provide better graphics quality with a more stable
+frame rate while playing mobile games,' an industry source said. 'All
+3D-rendered games, be it with high-quality or relatively less-sophisticated
+images, will actually benefit with the Vulkan API in gaming experience in
+general because it will reduce both battery consumption and heating.'
+
+Developed and provided by U.S. non-profit organization Khronos Group, the Vulkan
+API has been designed to produce better 3D graphics with less system overhead on
+application processors in operating systems including Android, Tizen and
+Windows, replacing the existing API standard called OpenGL.
+
+Before the Vulkan technology, the OpenGL API required massive system capacity to
+process sophisticated 3D images. For this reason, Android users needed expensive
+high-specification smartphones to play the latest mobile games.
+

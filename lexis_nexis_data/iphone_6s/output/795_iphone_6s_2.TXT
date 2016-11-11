@@ -1,0 +1,35 @@
+
+
+Looks like Apple will be sticking to its previous partnership
+
+By tbreak Staff -
+
+It was reported that the upcoming iPhones will be sporting Cat 6 LTE modems from
+Qualcomm. However, there were rumors suggesting that Apple was going to
+dismantle the partnership with the leading mobile chipset maker and turn its
+attention towards a partnership with Intel for the company's LTE modems. Turns
+out that the rumor was nothing more than a fluke because the upcoming iPhones,
+which are expected to be officially announced next month are going to sport
+Qualcomm's LTE modems.
+
+According to a report, Intel was out of luck in securing a partnership with
+Apple for the company's upcoming iPhones. However, that in no way means that the
+leading processor manufacturer for desktops, laptops and servers is going to get
+kicked out of the equation immediately because the source reports that iPhone 6c
+could be sporting the company's LTE chips, which have been fabricated on the
+28nm process. While iPhone 6c will feature the same FinFET chips as its iPhone
+6s and iPhone 6s Plus, the device will still perform lower compared to the
+flagship duo.
+
+This is perhaps the only reason why Intel's low cost LTE modems could be
+incorporated in the company's lesser performing iPhone. In addition to this, it
+is also possible that Intel secures a billion dollar deal with Apple for the
+company's iPhones that are going to be released in 2017. For the remaining two
+years, Apple will be using Qualcomm's chips mainly because they have been
+processed under TSMC's 20nm process.
+
+The smaller the lithographic process, the better the efficiency these chips will
+show, along with better performance. Both iPhone 6s and iPhone 6s Plus are going
+to be announced next month, and like always, Apple is going to have a few
+surprises under its belt so stay tuned for more details.
+

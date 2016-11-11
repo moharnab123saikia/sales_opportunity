@@ -1,0 +1,247 @@
+
+
+The extended July 4 holiday put a bit of crimp in iPhone rumoring (and delayed
+this Rollup) but not before the iOSpherefigured out a way for Apple to double
+the size of the iPhone screen without making the phone any bigger.
+
+"Just" add a second screen to the back.
+
+Also this week: glossy iPhone bodies not only signal "cheap," they look it. And
+following a signed deal with a Taiwan semiconductor alternative to Samsung, the
+iOSphere is already anticipating the A8 microprocessor in 2014, even though
+there's still no sign of the A7.
+
+You read it here second.  __________ "The rear surface of the iPhone and similar
+devices has long been wasted space, necessary simply to complete the housing but
+offering no features beyond the rear camera lens. Doubling the screen to wrap
+around to the back of the iPhone 6 would open up a world of possibilities,
+allowing the entire touchscreen interface to be reimagined."
+
+            ~ Phil Moore, StableyTimes, without apparently wondering whether
+millions and millions of iPhone users would embrace the reimagining of the
+entire touchscreen interface when they're pretty happy with the one they have.
+
+__________  iPhone 6 will have a curved and two-sided display The Fourth Law of
+Rumoring holds that the shallower the rumor the more convoluted is its genesis.
+
+Phil Moore, at StableyTimes.com ("a new kind of news" and how), asks the obvious
+question, in a post with the misleading headline "iPhone 6 will have a curved
+and two-sided display."
+
+It's misleading because Apple doesn't file "iPhone 6" patents. It files patents
+for inventions that might one day appear on a smartphone ... or on a tablet, or
+a laptop. But none of the patent filings that the iOSphere has actually covered
+has been for a specific model iPhone.
+
+The Obvious Question is: "If you're Apple and you've already delivered an iPhone
+whose screen is as dense as the human eye can see, how do you top it?"
+
+And Moore has an answer. "By delivering an iPhone 6 whose screen wraps around to
+both sides of the device, if a patent application for a flexible display is to
+be believed," he writes. "The filing calls for a curved body style most similar
+to the mid generation iPod nano, where the entire front and rear faces are
+contoured to meet each other at the edges, with no siding. The result is a
+screen that's twice as large, and a world of possibilities."
+
+A "world of possibilities." That means you can make up almost anything. Because,
+you know, almost anything is possible.
+
+One would think that Moore, or someone at StableyTimes would put in a link to
+the relevant patent or at least to some other website that covered the patent.
+But one would be wrong.
+
+The phrase "if a patent application is to be believed" is odd to say the least.
+Does Moore think Apple creates a dummy U.S.
+
+government patent application? Or submits a real application for a fake
+invention?
+
+Since at least last fall, there have been multiple Apple patent applications for
+a variety of screen technologies: flexible, curved, pressable, stressable...it's
+a wonder Apple doesn't synthesize them into a display with the properties of
+natural rubber: a large stretch ratio, high resilience, and extremely
+waterproof.
+
+There is for example, TheUnwiredView's September 2012 posting on an Apple patent
+application for flexible screens combined with "an array of piezoelectric
+actuators below the display and activating them on demand for tactile feedback.
+This way you have a perfectly smooth surface when you browse the net or read
+your e-mail. Call up a keyboard, actuators pop up and now you can feel the
+letters as you type."
+
+Others: + March 28, 2013 PatentlyApple post, "Stunning Future iPhone with
+Wraparound Display Revealed." Complete with a drawing of the stunning device
+itself.
+
++ May 21, 2013 post at the same website, regarding a "Double-Sided Touch Panel
+for iPhone." And nine days later, PatentlyApple posts about "Apple reveals new
+Flex Screen Feature with Force Detection."
+
++ In March 2013, there was even news of a Microsoft patent application for a
+"two-sided smartphone display system."
+
+Moore never says from which source this latest rumor springs. And he doesn't
+spend a lot of time contemplating the Endless Possibilities. He concentrates on
+just one.
+
+"The rear surface of the iPhone and similar devices has long been wasted space,
+necessary simply to complete the housing but offering no features beyond the
+rear camera lens," he observes. "Doubling the screen to wrap around to the back
+of the iPhone 6 would open up a world of possibilities, allowing the entire
+touchscreen interface to be reimagined."
+
+Is a World of Possibilities the same or less than Endless Possibilities?
+Whichever, it's a still a pretty short post overall given that the Possibilities
+are, you know, a lot.
+
+Moore does make one interesting point from a user interface perspective, and
+it's the only point worth any attention. "The question would become, of course,
+whether consumers would be inclined to flip the device back and forth in their
+hand to take advantage of both sides of the screen," he writes. "But it would
+allow for full screen video to play on one side of the device, for instance,
+while text messages and notifications arrive on the other side. Simply pausing
+the video and flipping the iPhone 6 over could be seen as more intuitive than
+having to exit the video or work over top of it to interact with notifications
+and messages in the current single-screen motif."
+
+Try it with whatever smartphone you're carrying right now, and he's right: even
+just pretending to watch a video in landscape mode, one can easily flip the
+phone over to "see" a back display, showing an email or call. But Moore makes it
+sound easier than, in all likelihood, it would prove to be: it would involve a
+massive hardware redesign and probably some significant UI redesign as well. And
+the hardware, and more specifically the display technology, would have to be
+implemented in just as massively redesigned large-scale manufacturing systems
+for Apple's contract suppliers and iPhone assemblers.
+
+Moore, quite sensibly, notes the potential battery and heat impact of running
+not one but two displays. Yet he doesn't ask how or even whether that problem
+could be met with current battery technology. And he doesn't ask whether both
+screens would be high-res Retina displays or whether the back one would be a
+much lower resolution devoted to receiving and processing notifications and
+alerts.
+
+The 2013 or 2014 iPhones may have big changes. It just seems unlikely that
+either year will be the Year of Seeing Double.
+
+iPhone 5S or something will have glossy colors and be cheap French-language
+website NowhereElse.com received photos that show just how glossy and bright one
+can make a polycarbonate iPhone.
+
+The website published photos showing, apparently, plastic-bodied iPhones in at
+least five colors: a peachy-toned red, a yellowish peasoup green, a
+dirty-looking white, bright blue and industrial-safety green. The photo has been
+widely interpreted as showing the long-rumored "cheap iPhone."
+
+The post by editor Steve Hemmerstoffer, via Google Translate, credits "our
+little Chinese weasel" as the source, a translation which unintentionally
+captures something of the essence of iPhone rumoring.
+
+Perhaps Google actually meant "mole."
+
+In any case, the little Chinese weasel provided a photo that shows phone "shells
+allegedly designed for plastic iPhone...in many colors," Hemmerstoffer writes.
+"Without giving us the formal proof that these shells are indeed intended to
+equip the hypothetical low-cost iPhone, this new snapshot confirms that these
+elements are now circulating in the number next to China."
+
+But at almost the same time, Barron's Tiernan Ray blogged on an analysis by
+stock analyst Steve Milunovich, of UBS, that questions whether the case for a
+cheap iPhone is as obvious as many insist.
+
+"If the high end [of the smartphone market] is slowing, the obvious answer is to
+head to lower price points," Milunovich wrote.
+
+"Although analysts are anxious for Apple to broaden the iPhone line, we think
+the company has to be careful. Its brand cannot afford significant quality
+dilution-- short-term gain could result in long-term pain. Management is very
+aware of the risk as reflected by Tim Cook's comment that Apple is about making
+the best products rather than the most."
+
+He argues that the "right way" for Apple to dive to the bottom is "to set up a
+separate brand and perhaps even a wholly- owned subsidiary."
+
+And then he adds: "But we don't expect Apple to veer from its current strategy."
+[Emphasis added] "The expected 'low-end' iPhone probably won't be priced below
+$350-400," he explains. "Even at that level the gross margin could be near 30%
+and become an example of the company's occasional willingness to accept lower
+margins to penetrate a market, as CFO Peter Oppenheimer said recently. In Figure
+9 we suggest that the $300-500 price range only will be 10% of the market in
+2014. That still means millions of incremental buyers in emerging markets but
+will not radically change Apple's market share."
+
+Back to the weasel-supplied photos. Left unanswered, assuming these shells are
+real, is what, exactly, they are: final products, prototypes at some stage in
+the development process, or even mockups or test shells for one or another
+future iPhone model?
+
+Can these be taken as "proof" of the existence of plastic-bodied 2013 iPhone?
+
+Hemmerstoffer seems to think the picture is part of a pattern that leads one to
+answer "yes" but he does raise a caution.
+
+"The shadow of a vulgar Chinese copy nevertheless still looms again over this
+mysterious colorful iPhone," he writes.
+
+When will the weasels learn to create elegant Chinese copies?
+
+iPhone 6 will have Apple's A8 processor, made by TSMC According to Softpedia's
+Filip Truta, Apple plans to launch iPhone 6 in 2014 with an A8 processor that
+will be manufactured by TSMC instead of the long-time iPhone chip supplier
+Samsung.
+
+Truta bases his post, headlined "Apple Signs with TSMC for iPhone 6 'A8' Chip
+Production and Beyond," on a recent story in The Wall Street Journal. And not
+only that, Truta also claims that Apple will release the iPhone 5S with the
+as-yet-unannounced A7 chip "with enhanced capabilities."
+
+"The A7 will be the last A-series chip made by Samsung, or so it is being
+suggested by a Wall Street Journal report which takes a close look at the Korean
+company's failing marriage with Apple," Truta explains helpfully.
+
+The only problem is that, though the July 1 Journal article in question did
+indeed take a close look at Apple's relationship with Samsung it didn't say
+anything about the iPhone 5S or the iPhone 6. And in fact, the article
+explicitly says "Despite the deal [with TSMC], Samsung will remain the primary
+supplier through next year [2014], one of these executives said."
+
+The thrust of the article is that Apple has finally signed a deal, after about
+three years of talks, with Taiwan Semiconductor Manufacturing Co. (TSMC) to
+manufacture at least some of the Apple-designed A series processors, starting in
+2014. Samsung has been the sole foundry for the chips since the advent of both
+the iPhone and iPad. According to the Journal, "The process had been beset by
+glitches preventing the [TSMC] chips from meeting Apple's speed and power
+standards, TSMC officials said."
+
+It is widely believed that the smartphone patent battles between Apple and
+Samsung, and the growing success of Samsung's Galaxy S smartphone line has
+soured the relationship and caused Apple to find alternative suppliers. But
+there's no evidence cited to show that Apple has any real complaints about
+Samsung's manufacturing, pricing, or delivery of key mobile components, which
+come from business units entirely separate from the Korean company's smartphone
+unit.
+
+By contrast, there's a powerful incentive for Samsung to keep Apple happy as a
+supplier, according to the Journal. "Apple's component orders from Samsung were
+set to hit around $10 billion last year, says Mark Newman, an analyst at Sanford
+Bernstein in Hong Kong. That represents a significant chunk of the 67.89
+trillion won ($59.13 billion) Samsung posted in sales from its component
+business, which includes chips and displays. The Apple processor, where Samsung
+is currently the sole supplier, accounted for $5 billion of purchases in 2012,
+he estimates."
+
+TSMC's first chips for Apple, according to the Journal, will be on its advanced
+20-nanometer silicon process, which promises greater performance, potentially
+smaller physical size, and more efficient power use compared to the current
+generation of A series processors, which variously use 32- and 45-nanometer.
+
+If TSMC can bring the 20nm process up to large-scale volumes in the first half
+of 2014, it might be possible to introduce those chips into mobile products
+announced in the second half of that year. On the other hand, 32- and
+28-nanometer variants of the A6 and the still unknown A7 might provide all the
+processing power Apple needs through next year.
+
+John Cox covers wireless networking and mobile computing for "Network World."
+Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com
+
+
+

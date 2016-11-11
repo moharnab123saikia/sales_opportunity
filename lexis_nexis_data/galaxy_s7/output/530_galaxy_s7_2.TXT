@@ -1,0 +1,89 @@
+
+
+
+HIGHLIGHT: News: Security enhancements aim to place Android as an enterprise
+mobility competitor to Apple.
+
+
+As expected, Samsung has announced the new Galaxy S7 and Galaxy S7 edge at
+Mobile World Congress in Barcelona, slated for a mid-March launch.
+
+Some of the features are par for the course. A better Dual Pixel camera, a new
+more ergonomic design and the inclusion of Qualcomm's more powerful Snapdragon
+820 chip mean that in general performance terms the new device is ahead of its
+predecessor.
+
+The devices run on Android 6.0, have octa core and quad core processors, with
+4GB RAM and 32 or 64GB storage. Samsung has obviously heard the complaints of
+S6-owners over its lack of expandable storage and has introduced a 200GB microSD
+card slot.
+
+Other features are closer to step-changes in the industry. There has been much
+focus on the VR capabilities of the phone. The introductions of 'fast-wired' and
+wireless charging technology come as no surprise, but are aiming to address a
+long-standing consumer frustration with mobile devices; as the power of devices
+increases the battery life has to fall down.
+
+Samsung is ahead of its rival Apple here, which has yet to introduce wireless
+charging, although there are signs that Apple is trying to perfect the
+technology before it is introduced. According to a recent Bloomberg report,
+Apple is developing wireless charging technology that will allow its devices to
+be charged from further away than the mats currently necessitate.
+
+The focus on durability shows a move towards addressing the basics rather than
+adding flashy new features. The device has IP68 water and dust resistance.
+
+New software additions include Edge UX in the edge model, which provides
+shortcuts to most used functions. There are also some add-ons specifically for
+the growing mobile gamer market.
+
+While the S7 are primarily consumer devices, Samsung is making its boldest grab
+yet for the enterprise market, which has traditionally been dominated by Apple.
+
+Android is often looked over in the enterprise environment because of its
+reputation for having worse security. The devices are coming pre-equipped with
+McAfee virus scan and anti-malware technology.
+
+However, Samsung is attempting to expand its care-taker role beyond simply
+selling devices with its Enterprise Device Program and other initiatives.
+
+The new devices will feature Android for Work hardened by Samsung KNOX.
+
+"We believe that the robustness of Android, along with the award winning
+security benefits of Samsung KNOX will help bring a new level of productivity
+for businesses that cannot be matched," said Dr. Injong Rhee, Executive Vice
+President of mobile communications at Samsung.
+
+It has also taken a step towards Apple's more carefully controlled security
+environment by extending its monthly security updates.
+
+Generally Android updates have been issued at the whim of mobile network
+operators, but with a cavalcade of Android vulnerabilities making the news in
+2015 vendors are moving to exercise tighter control over the system.
+
+The other key aspect of this is the two-year device purchase programme, which
+will allow enterprise customers to purchase the same device model up to two
+years from its market availability. It aims to simplify how customers manage
+device lifecycles.
+
+Nick McQuire, Vice President of Enterprise at CCS Insight, said that the device
+showed good signs of greater alignment with Google over security.
+
+However, he added that the S7 and S7 edge are "still premium devices and
+enterprise still needs a mid-tier device that does these things."
+
+The standard S7 costs £569 outright while the S7 edge costs £639.
+
+"You are not going to see this deployed in big roll-outs to thousands of
+employees," said McQuire, "but the improvements are a big step forward for
+enterprises."
+
+Adam Mayer, Android Team Leader at mobile consultancy and enterprise app
+developer, Mubaloo, said: "It's no surprise that Samsung's B2B unit will be
+offering services, custom apps and other products to surround its devices. This
+is reinforcing the fact that no company today can be competitive, without having
+a mobile equipped workforce."
+
+Mayer said that the security updates will "add reassurance to business customers
+that data on Samsung's enterprise programme devices are secure."
+

@@ -1,0 +1,54 @@
+
+
+Fingerprint sensors used to secure smartphones can be fooled with something as
+simple as a inkjet printer, researchers from Michigan State University have
+shown.
+
+A Samsung Galaxy S6 and a Huawei Honor 7 were unlocked successfully using a
+fingerprint printed using a standard inkjet printer loaded with special ink and
+paper by Kai Cao and Anil Jain from the department of computer science and
+engineering.
+
+The researchers took scans of several fingers and simply printed them in 2D on
+paper using conductive ink - ink which conducts a charge - and special paper
+that is typically used for printing electronic circuits and other
+charge-carrying systems.
+
+They found they could replicate the process for several different fingers for
+several different volunteers taking very little time using common equipment.
+Previous spoofing attempts that require the production of a model of the
+fingerprint in wood glue or rubber have taken at least 30 minutes to create,
+often requiring special equipment and manual manipulation skill.
+
+Cao and Jain said: "This experiment further confirms the urgent need for
+anti-spoofing techniques for fingerprint recognition systems, especially for
+mobile devices which are being increasingly used for unlocking the phone and for
+payment."
+
+The Samsung Galaxy S6 and the Huawei Honor 7 use similar fingerprint scanner
+technology to most of those used across devices from Google's Nexus smartphones
+to LG's G5. The same technique will likely be able to spoof many other
+smartphones.
+
+Some fingerprint scanners have more robust anti-spoofing technology, but even
+Apple's Touch ID system, which is regarded as one of the best, was fooled within
+days of it being available with the iPhone 5S in September 2013.
+
+The risk for your average user of this happening is very small, given that
+anyone attempting to unlock a smartphone using a printed fingerprint first
+requires a perfect, high-resolution scan of the fingerprint used to unlock the
+phone. But for law enforcement agencies, it could represent a fast and effective
+way of unlocking a suspect's smartphone without resorting to backdoors.
+
+Typically smartphone using a fingerprint sensor require the password or pin to
+be entered after 48 hours or once the phone has been powered off, but being able
+to lift a print, scan it in and print it in a matter of minutes makes 48 hours
+look like an ample window of opportunity as long as you don't reset the password
+or let the phone turn off.
+
+Samsung and Huawei did not immediately respond to request for comment.
+
+
+     ·    Samsung 'investigating' claims of fingerprint hack on Galaxy S5
+
+

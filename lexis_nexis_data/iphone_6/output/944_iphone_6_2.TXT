@@ -1,0 +1,112 @@
+
+
+Apple launched its flagship Iphone 6 and 6 Plus yesterday in a jam-packed event.
+The Cupertino based company tis time not only got a very different and easy
+design for its phone body, it also prepped up the size of the phone display.
+
+But Ron Amadeo the reviewer at ArsTechnica was not happy with the new Apple
+phone. He was quick to point out "I couldn't help myself, sorry", because the
+new Iphone 6 is like the Nexus 4 launched in 2012.
+
+In June this year with the launch of iOS 8 at the WWDC Ron wrote a detailed
+report about iOS 8 features that are inspired by Android.
+
+Telegraph also correctly pointed out the features (software features) that Apple
+is bring to the iPhone 6 Plus should have been on the iPhone 4 or 5 "to stop the
+Android tide in its tracks."
+
+It will be interesting to see how iPhone 6 stacks up against the Nexus 7 from
+Google powered by stock Android OS. Here is a quick comparison of the two
+phones.
+
+
+Spec Apple iPhone 6                     Google Nexus 4
+ific
+atio
+ns
+and
+Feat
+ures
+Disp 4.7-inch                           4.7 inches
+lay
+Disp 1334 x 750 pixels Retina HD        1280 x 768 pixels HD display
+lay  display
+reso
+luti
+on
+Disp Shatter proof glass with           Corning Gorilla Glass 2
+lay  oleophobic coating
+prot
+ecti
+on
+Thin 6.9 mm                             9.1 mm
+ness
+Weig 129 grams                          139 grams
+ht
+Body Fully metallic                     Plastic
+type
+Proc Apple A8 chipset supporting 64-bit 1.5 GHz Qualcomm APQ8064 Snapdragon
+esso processor
+r
+Numb Quad-core                          Quad-core
+er
+of
+core
+s
+Grap Motion processor                   Adreno 320
+hics
+proc
+esso
+r
+RAM  1 GB                               2 GB
+Memo 16/64/128GB                        8/16 GB
+ry
+Rear 8-megapixel iSight camera with 1.5 8-megapixel
+came pixels3x zoom
+ra
+Fron 2.1-megapixel                      1.3 Megapixel
+t
+came
+ra
+Came True Tone flashFive-element        AutofocusLED flashGeo-taggingtouch
+ra   lensHybrid IR filterBackside       focusface detectionphoto
+feat illumination sensorSapphire        spherePanorama
+ures crystal lensdigital image
+     stabilizationauto HDR for
+     photosPanorama (up to 43
+     megapixels)Burst mode
+Vide 1080p @30 or 60 FPS, @120 FPS or   1080p@30fps
+o    @240 FPS in slow motion
+Reco
+rdin
+g
+Andr iOS 8                              Android 4.2 Jelly Bean
+oid
+OS
+OS   Hey SiriiMessagePredictive         Ok GoogleMessage support via
+feat keyboardFamily sharing on multiple independent apps like
+ures devices via cloud                  whatsappPredictive keyboardStorage
+                                        on cloud enabled and could be
+                                        accessed on multiple devices, but
+                                        not by different members
+Fing Fingerprint sensor                 No
+erpr
+int
+scan
+ner
+Mobi Apple Pay via NFC on major network Not possible unless you use mobile
+le   channels and major stores in US    banking apps. Bot Google hasn't toed
+paym only. But agreement with           up with payment gateways.Though Tap
+ent  Mastercard, Visa and American      & Pay is enabled in Android 4.4
+     Express raised hopes that this     KitKat and is enabled in Nexus 5 via
+     feature will come to India as      Google Wallet in US only.
+     well.
+Sens AccelerometerThree                 AccelerometerGyroProximityCompassBar
+ors  axis-gyroProximityAmbient light    ometer
+     sensorBarometer
+Conn Wi-FiUSB 2.0NFCBluetoothVoLTEVoice Wi-FiUSB 2.0NFCBluetoothNo LTEVoice
+ecti calls over Wi-Fi                   calls over Wi-Fi via independent
+vity                                    apps
+Talk 14 hours on 3G                     15 hours on 3G
+time
+

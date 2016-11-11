@@ -1,0 +1,293 @@
+
+
+As expected, an Apple event last week proved to be a low-key affair, with the
+tech giant announcing "only" the new 4-inch iPhone SE and smaller 9.7-inch iPad
+Pro.
+
+While both were not unexpected, they are powerful products at attractive price
+points, said tech research firm Cowen and Co's managing director, Mr Timothy
+Arcuri.
+
+The iPhone SE (price starts from $658) is basically an iPhone 5s souped up with
+iPhone 6s' technologies, while the 9.7-inch iPad Pro (starts from $898) is like
+the original iPad Pro but in a smaller form factor.
+
+"The announcements demonstrate Apple's ability to successfully manage its
+product portfolio," said Mr Thomas Husson, vice-president of research company
+Forrester.
+
+"The new compact iPhone, with the powerful features of the iPhone 6s at a more
+affordable price, should help Apple hit its volume goals until the release of a
+more disruptive new device to be launched a couple of months after its developer
+conference in June," Mr Husson said.
+
+The period between March and September is usually a lull for Apple, as consumers
+wait for the next flagship iPhone to make its appearance in September.
+
+Mr Jan Dawson, chief analyst of independent consulting firm Jackdaw Research,
+told the New York Times that the lack of must-have new features in Apple's
+recent products has hurt sales growth, as many customers decided that their
+older models were good enough and postponed upgrades.
+
+"In a way, you see both devices that Apple (launched on March 21) as drivers of
+an upgrade cycle," Mr Dawson said.
+
+For iPad Air user Tarin Teo, 25, the 9.7-inch iPad Pro is an upgrade she has
+been waiting for after skipping the 12.9-inch iPad Pro, which was too big to
+carry around.
+
+"Having a 9.7-inch iPad means I can put it in most of my handbags," said the
+lifestyle reporter.
+
+The Apple iPad Pro won Editor's Choice and Readers' Choice for Best Tablet in
+this year's ST Digital Awards with its impressive 12.9-inch display and speedy
+performance. Last week, Apple announced a smaller 9.7-inch model. I tested the
+256GB version.
+
+DESIGN
+
+The 9.7-inch iPad Pro is essentially a downsized version of last year's iPad
+Pro.
+
+It has the same smooth aluminium solid unibody chassis and chamfered edges, and
+exudes a similar premium feel.
+
+Like its bigger cousin, it has four speakers - one at each of the four corners
+of its chassis. During audio playback, the balance adjusts automatically to
+provide a consistent audio output whenever you change the orientation of the
+device.
+
+TECH SPECSPRICE: $898 (32GB Wi-Fi) to $1,618 (256GB Wi-Fi + 4G, version tested),
+available tomorrow.
+
+OPERATING SYSTEM: iOS 9.3
+
+PROCESSOR: A9X chip with 64-bit architecture, M9 motion co-processor
+
+DISPLAY: 9.7 inches, 2,048 x 1,536 pixels
+
+CAMERA: 12-megapixel rear camera, 5-megapixel front-facing camera
+
+WEIGHT: 437g (Wi-Fi), 444g (Wi-Fi + 4G)
+
+RATINGFEATURES: 5/5
+
+DESIGN: 5/5
+
+PERFORMANCE: 5/5
+
+BATTERY LIFE: 4/5
+
+VALUE FOR MONEY: 4/5
+
+OVERALL: 5/5
+
+It measures 6.1mm thick, same as the iPad Air 2 and iPad mini 4, and 0.8mm
+thinner than the 12.9-inch iPad Pro. At 444g (for the Wi-Fi + 4G model), it
+weighs the same as the iPad Air 2, and is 279g lighter than its 12.9-inch
+sibling.
+
+Its svelteness makes it easier to handle, compared with the bigger iPad Pro. It
+can also be slotted easily into the tablet compartment of laptop bags.
+
+While I love big screens, I find the 9.7-inch screen a good size for a tablet.
+
+PERFORMANCE
+
+The 9.7-inch iPad Pro uses the same A9X chip as its bigger sibling. However, the
+Geekbench 3 benchmark software shows some differences: The 9.7-inch's A9X chip
+is a 2.26GHz unit with 1.92GB of system memory, while the 12.9-inch Pro has a
+2.16GHz processor and 3.89GB of system memory.
+
+In terms of Geekbench 3 scores, the 9.7-inch iPad Pro achieved 3,076 in the
+single-core test and 5,291 in the multi-core test, losing out to the 12.9-inch's
+scores of 3,236 (single-core) and 5,491 (multi-core). But it is way ahead of
+iPad Air 2's scores of 1,812 (single-core) and 4,544 (multi-core).
+
+But in real-life tests, I found no lag when editing 4K videos using iMovie, and
+editing photos using Photoshop Express and Lightroom.
+
+Graphic-intensive games, such as Infinity Blade III and Warhammer 40,000:
+Freeblade, played smoothly and without lag as well. And the graphics looked
+sharp and gorgeous.
+
+DISPLAY
+
+This iPad's 9.7-inch (2,048 x 1,536 pixels) screen is Apple's first True Tone
+display. It uses four-channel sensors to automatically adjust the display's
+white balance to match the ambient light around you, so you can get a more
+natural and accurate view.
+
+When inside a room lit by an incandescent bulb, the display automatically turns
+to a more yellowish hue with True Tone activated. When True Tone is switched
+off, the screen turns more bluish.
+
+The display is further aided by the new Night Shift feature in iOS 9.3, which
+uses the tablet's digital clock to automatically adjust the display's colours to
+reduce blue light, which is known to hamper sleep.
+
+The display is supposed to be 25 per cent brighter and 40 per cent less
+reflective than that of the iPad Air 2. The difference in brightness was
+apparent when I compared both side by side. However, you can still see yourself
+on the screen.
+
+It has the same wide colour gamut as the iMac with Retina 5K display. This makes
+it easier for photographers or graphic designers to get their colours right when
+they are editing their works on the iPad.
+
+The only downer is that the display lacks the 3D Touch support found in the
+iPhone 6s and 6s Plus.
+
+CAMERA
+
+The 9.7-inch iPad Pro has the same rear 12-megapixel camera and 5-megapixel
+front-facing camera found in iPhone 6s and 6s Plus. So, it shoots 4K videos and
+Live Photos. Image quality is on a par with that of its iPhone 6s cousins.
+
+The rear camera protrudes slightly, so the tablet does not lie flat, unless you
+use a case.
+
+While I am not a fan of using a tablet to take photos, I have found it useful to
+take photos during meetings and briefings to capture presentation slides. The
+new, better camera will certainly help in this aspect.
+
+The front-facing camera has finally been upgraded. Friends and family will be
+able to see you in full high-definition glory during FaceTime web chat. You can
+also take good selfie shots with this tablet.
+
+BATTERY
+
+In our intensive battery test (looping a 720p video with Wi-Fi switched on and
+the display at full brightness), it held on for 8hr 10min before the battery
+went flat. The bigger Pro lasted 9hr 15min.
+
+With my daily routine, which involves the occasional checking of e-mail and
+browsing articles with News or FlipBoard apps, as well as reading a digital book
+or magazine before sleep, the 9.7-inch iPad Pro needed to be charged only once
+every two days.
+
+ACCESSORIES
+
+With the smaller iPad Pro, you need a smaller Smart Keyboard ($228).
+
+The keyboard's magnetic strip has three metallic contacts that connect to the
+Smart Connector on the side of the Pro. As it is a direct connection and draws
+power from the iPad, you do not need to charge it or pair it using Bluetooth.
+Simply connect and type away.
+
+It has the same key layout as the bigger Smart Keyboard for the 12.9-inch iPad
+Pro, with the same water- and stain-resistant woven fabric on top. However,
+there is still no backlight and you can dock the iPad at only one angle - 45
+degrees.
+
+The keys are smaller and not as well spaced out as those on the bigger keyboard.
+But typing on it was still relatively typo-free for me. You can also put the
+keyboard on your lap and type without difficulty.
+
+The 9.7-inch iPad Pro also supports the Apple Pencil stylus ($148). And it works
+exactly - and as fluidly - as it did on the bigger Pro.
+
+· Verdict: With its superb display, great performance and increased portability,
+the 9.7-inch iPad Pro is the best iPad Apple has made.
+
+DESIGN
+
+The Apple iPhone SE looks just like the iPhone 5s, with the same 7.6mm-thick
+aluminium body with chamfered edges.
+
+In fact, you can use your old iPhone 5s cases on the iPhone SE.
+
+But there are subtle physical differences. The edges are matte instead of shiny,
+and the colour of rear Apple logo now matches the phone colour in stainless
+steel.
+
+Talking about colours, the iPhone SE is now available in rose gold (version
+reviewed) in addition to the usual silver, space grey and gold.
+
+TECH SPECSPRICE: $658 (16GB), $828 (64GB); all without contract, available
+tomorrow
+
+PROCESSOR: A9 with 64-bit architecture, M9 motion co-processor
+
+OPERATING SYSTEM: iOS 9.3
+
+SCREEN: 4-inch Retina display; 1,136 x 640 pixels
+
+CAMERA: 12-megapixel rear camera, 1.2-megapixel front-facing camera
+
+WEIGHT: 113g
+
+RATINGFEATURES: 4/5
+
+DESIGN: 4/5
+
+PERFORMANCE: 4/5
+
+BATTERY LIFE: 4/5
+
+VALUE FOR MONEY: 4/5
+
+OVERALL: 4/5
+
+Button placement is also similar to the iPhone 5s, with round volume buttons on
+the left-hand side and the power/wake button on the top right. This takes some
+getting used to, as I have been using the iPhone 6 Plus and 6s Plus - where the
+power/wake button is on the right side.
+
+The iPhone SE uses the same 4-inch display as the iPhone 5s. It lacks the 3D
+Touch support found in iPhone 6s and 6s Plus. As I've been used to a 5.5-inch
+display for a time, the 4-inch display just looks so tiny now.
+
+That said, one-hand texting is comfortable again. No more having to use another
+hand to reach for that top corner icon. Putting it into - and getting it out
+from - my front trouser pocket is easier.
+
+PERFORMANCE
+
+With its upgraded A9 processor, the iPhone SE is a speedy phone that is almost
+on a par in performance with the iPhone 6s.
+
+In the Geekbench 3 benchmark tests, it scored 2,546 (single-core) and 4,403
+(multi-core). Those scores are similar to that of the iPhone 6s (2,535 -
+single-core; 4,410 - multi-core). But the iPhone SE is around 2.5 times faster
+than the iPhone 5s (1,081 - single core; 1,937 - multi-core).
+
+Graphics-intensive games, such as Implosion and Warhammer 40,000: Freeblade,
+played smoothly and without lag.
+
+But I wish the display were bigger, as I find the virtual controls too small for
+my fat fingers.
+
+Also, the iPhone SE still uses the first-generation Touch ID and I found it to
+be slower than my iPhone 6s Plus by around 0.5sec during unlocking.
+
+CAMERA
+
+The iPhone SE uses the same 12-megapixel rear camera as the iPhone 6s, with the
+ability to shoot 4K videos and Live Photos. But the camera does not protrude
+
+Like the iPhone 6s, the iPhone SE lacks the optical stabiliser of the 6s Plus.
+In terms of picture quality, the iPhone SE is right up there with the iPhone 6s
+Plus. Colours and skin tones look natural with great details.
+
+Autofocusing is speedy and it snaps pictures and videos quickly. Those who have
+been using the iPhone 5s will really sense the difference in speed and quality.
+
+But the iPhone SE uses the same 1.2-megapixel front-facing camera of the iPhone
+5s. So, selfie photos lack the details of the iPhone 6s and 6s Plus.
+
+BATTERY LIFE
+
+In our intensive battery-life test where a 720p video is looped at full
+brightness and full volume, and with Wi-Fi on, the iPhone SE lasted 6hr 42min.
+In comparison, the iPhone 5s lasted 6hr 45min while my iPhone 6s Plus lasted 7hr
+10min.
+
+In normal use, the battery mileage varies. With my daily routine, which consists
+of frequent checks of e-mail, messages, Facebook and Instagram updates, the
+iPhone SE still has around 33 per cent battery life left before I go to bed.
+
+· Verdict: The iPhone SE might be the most powerful cheapest iPhone to get. But
+it is also the smallest one. Getting it depends on you preferring a small
+display or not.
+

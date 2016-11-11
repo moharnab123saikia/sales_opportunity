@@ -1,0 +1,74 @@
+
+
+The battle between Apple's newly minted iPhone 6s Plus and Samsung's rival
+premium superphones is afoot, so how do these big phablets - half phone, half
+tablet - line up?
+
+Apple's iPhone 6s Plus brings the 6s experience to the larger form factor,
+adding features such as image stabilisation and two column app layouts. It's
+stately in looks with its curved metallic sides and back but it's a tad longer,
+wider and heavier than its rival, the Galaxy S6 Edge+.
+
+The Edge+ with its curved edge screen is a beautiful phone and also one of the
+most innovative, hardware wise. The difference in thickness between the two is
+line ball but the weight difference is considerable, with the Edge+ 39 grams
+lighter.
+
+While the 6s Plus is the larger phone, the Edge+ also has the larger screen, 5.7
+inches as opposed to 5.5 inches, thanks to its incredibly thin bezel. The AMOLED
+display is finer as well: a QuadHD screen with a resolution of 1440 x 2560
+pixels at 518 pixels per inch. Apple's has a standard 1080p HD display but still
+big resolution at 401ppi.
+
+The razzle dazzle takes its toll on battery life but both Apple and Samsung have
+some tricks up their sleeves. Samsung uses an 8-core Exynos processor: four
+cores at 2.1 Gigahertz and four at 1.5 -Gigahertz, which means the phone can
+handle powerful tasks but saves energy by using the less powerful cores for
+lighter tasks such as web browsing.
+
+From teardowns we know Apple's A9 processor is dual core. In my test with AnTuTu
+benchmark v5.1.1, Apple's A9 processor rated as the more powerful overall with a
+score of 58855 against the Samsung at 51847. The A9 comes with an M9
+co-processor that is always on. That means Siri is always available, even when
+the phone is on standby, not connected to power. The 6s Plus has a 2750
+milliampere hour battery (mAh), the Edge+ has a tad bigger capacity at 3000mAh,
+but it has to drive a higher resolution display. I played video on both at 75
+per cent screen brightness. The 6s Plus lasted 11 hours 20 minutes, and the
+Edge+ 13 hours 35 minutes.
+
+The Edge+ has 16 and 5-megapixel cameras against Apple's 12 and 5MP. Apple's
+upgrade to the front-facing camera means better-quality selfies and with the
+display acting as a flash, you can take them in dark conditions. At 16MP the
+Samsung has a higher resolution main camera, which takes great photos.
+Double-clicking the Samsung's home button to launch the camera is really useful.
+But I also like the warmer, natural colours of iPhone 6s Plus. Both offer an
+array of camera modes and both shoot 4K video. Optical image stabilisation on
+the 6s Plus means smoother video.
+
+Neither device supports micro SD card storage, so you're left with either a
+finite 32GB or 64GB of RAM on the Edge+, or 16GB, 64GB or 128GB on 6s Plus.
+Personally, I wouldn't shell out more than $1000 for a phone with just 16GB of
+storage with no way of increasing it.
+
+Both make use of the extra screen real estate in portrait mode. There are two
+modes for the Edge+. You can split the screen or float apps in pop-up view. In
+iOS9, split-screen multi-tasking where you run two apps side by side is
+available only on iPads, but apps such as mail and calendar run in a two-column
+view in landscape mode.
+
+Both devices have some knockout features. For Edge+, it's the adaptive fast
+charging, which allows you to recharge a big 3000mAh battery in 90 minutes. For
+the iPhone 6s Plus it's the new pressure-sensitive screen that supports 3D
+touch. Pressing a -little harder lets you preview emails, messages and other
+media without opening them.
+
+Telsyte managing director Foad Fadaghi says that with users migrating to the
+larger phablets, lured by bigger batteries and screen sizes, Samsung has one big
+weakness: no matter how good the hardware is, it is held back against Apple by
+its reliance on Android. Samsung's own operating system Tizen can be stunning,
+as it does on its upcoming Gear S2 smartwatch, but to change to Tizen on its
+smartphones would be a massive call. Still, Samsung pushes the envelope with its
+edgy specifications, particularly its amazing high-resolution display.Meanwhile,
+Apple solidly replicates its successful iPhone experience with the 6s Plus, but
+is more conservative in its hardware offering.
+

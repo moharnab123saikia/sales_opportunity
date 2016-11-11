@@ -1,0 +1,127 @@
+
+
+TADASHI NEZU, YORIHISA OTA and MOTONOBU KAWAI, Nikkei Electronics staff writer
+and Nikkei staff writers
+
+TOKYO/KYOTO -- A teardown of Apple's new iPhone 6s models by Nikkei Electronics
+magazine reveals that Japanese and Asian electronic parts makers contribute a
+lot to the new features of the latest iPhones.
+
+The U.S. consumer electronics giant continues to rely on Japanese and other
+Asian manufacturers for key components of the iPhone, such as cameras, liquid
+crystal display panels, sensors and lithium-ion batteries.
+
+One prominent feature of the 6s is the 3D touch. It enables the new models --
+the iPhone 6s and 6s Plus -- to sense three different levels of pressure the
+user applies to the screen. What's more, the new models are equipped with the
+Taptic Engine, which gives the user a more precise level of Taptic, Apple's
+feedback vibrator.
+
+Consumer electronics makers often face a host of technical challenges when they
+bring new features to their products. To avoid this problem, it seems that Apple
+relies on Japanese electronic parts makers for their ability to deliver
+technological solutions. "Once again, I realize how much Apple depends on
+Japanese makers," said Minatake Kashio, director of Fomalhaut Techno Solutions,
+a Tokyo-based mobile equipment teardown company.
+
+Kashio believes Japanese manufacturers, such as Nippon Mektron, Nippon Steel &
+Sumikin Chemical, and JX Nippon Mining & Metals, are involved in the supply of
+pressure-sensitive sensors used to enable the 3D touch function. According to
+his analysis, the Taptic Engine is supplied by Kyoto-based motor maker Nidec and
+Chinese micro-component provider AAC Technologies Holdings.
+
+Other components makers are also involved in developing the new functions. We
+found that the pressure-sensitive sensors are made by Taiwan-based Zhen Ding
+Technology Holding.
+
+Korean parts makers have also been manufacturing iPhone parts. Inside the new
+iPhone 6s are LG Display's LCD panel, SK Hynix's flash memory, Samsung
+Electronics-made application processors and so on.
+
+Kashio pointed out that Asian countries have also played a crucial role as
+production bases. It is true that many key components are made in China and
+other countries in the region.
+
+Another new trend is that the iPhone 6s and iPhone 6s Plus have different types
+of Taptic Engine. This could indicate that the iPhone 7 will have more vibration
+device functions.
+
+The teardown also showed that a total of 96 pressure-sensitive sensor electrodes
+have been laid out in 12 rows and eight columns inside the new iPhones. The
+electrostatic capacity between these electrodes and the user's fingers helps
+determine the level of force applied to the screen.
+
+Fewer parts
+
+In addition, various features of the iPhone 6s are consolidated into its
+large-scale integrated circuit chips. This means the new models use a smaller
+number of components, which in turn helps cut production costs.
+
+For instance, the M9 coprocessor, used to process sensor data and other tasks,
+has been integrated into the A9 application processor. The A9 appears to be made
+using Samsung's 14-nanometer process or Taiwan Semiconductor Mfg.'s 16nm
+process, according to the teardown results.
+
+The new iPhones have about 200 fewer passive components, such as multilayer
+ceramic capacitors on a printed circuit board, Kashio said. But it is still hard
+to believe that the number of passive components has significantly declined, as
+the iPhones need a certain number of them to respond to a wide band of
+frequencies around the world. Many of those passive parts are suspected to have
+been built into the communications module.
+
+Kashio has also noticed that iPhone 6s models use geomagnetic sensors supplied
+by Alps Electric, instead of the ones made by Asahi Kasei Microdevices.
+
+As sales of smartphones vary among electronics makers, Japanese makers are vying
+to develop parts for iPhones, a strong seller around the globe.
+
+Taptic Engine and Nidec
+
+The Taptic Engine is one of the key new features of iPhone 6s models. Nidec is
+believed to be a major supplier of this component. Nidec's linear actuator is
+used for the Taptic Engine. The actuator's motor part repeats linear motion,
+generating quicker and finer vibrations compared with conventional vibration
+motors used in mobile phones and smartphones. Nidec's linear actuators have so
+far been used in the Apple Watch.
+
+Indeed, Nidec's two subsidiaries -- Nidec Copal and Nidec Seimitsu --
+manufacture those conventional vibration motors and boast the biggest share in
+the global micro-motor market. These two companies are mainly responsible for
+producing Nidec's linear actuators, an advanced version of these vibration
+motors. It seems that Apple highly regards Nidec's product reliability and
+quality.
+
+Analysts believe AAC Technologies also won a contract for supplying Taptic
+Engine parts for the Apple Watch. But the Chinese maker's products were found
+faulty in the initial stages of Apple Watch production. As a result, Nidec
+became the sole supplier of Taptic Engine parts to Apple for some time. This
+incident has highlighted the high quality of Nidec's products. But with the new
+iPhone models, both of these companies are believed to be supplying their
+actuators to Apple.
+
+In the smartphone sector, other manufacturers tend to follow Apple's lead and
+adopt the new features of the latest iPhone models. This means Nidec could see
+potentially huge demand for its linear actuators.
+
+These vibration devices can give the user a button-press feel when he or she
+touches the buttom of the smartphone screen. Experts expect this technology to
+have a variety of applications in the future, such as remotely controlling
+robots with a high level of Taptic feedback.
+
+Nidec's key product has long been hard-disk-drive motors, but the business is
+suffering slowing growth due to the maturing PC market. Thus, the company is
+shifting its focus to automotive parts, and industrial and home-use motors. For
+Nidec, vibration devices were not necessarily its envisioned growth pillar. "I
+never imagined that such a market would emerge," said Nidec Chairman and
+President Shigenobu Nagamori.
+
+Nagamori is known for his ability to achieve both high growth and high
+profitability by adopting and applying excellent technologies to growth markets.
+Nidec Copal suffered a huge drop in sales of its digital camera shutter parts
+due to the penetration of smartphones, but it has focused instead on automotive
+cameras and vibration devices in a bid to return to a growth track.
+
+Similarly, Nidec itself has transformed some of its overseas HDD motor factories
+to ramp up output of vibration devices, getting ready to tap into this growth
+sector.
+

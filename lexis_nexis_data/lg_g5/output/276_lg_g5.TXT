@@ -1,0 +1,71 @@
+
+
+The new Samsung Galaxy S7 duo has been announced, bringing to mind the Meatloaf
+lyrics, "two out of three ain't bad". Some will remember I sent a letter to the
+Korean electronics giant some time back, but the letter was returned to sender.
+At first I was confused by this until I remembered that job titles are of high
+importance to the Koreans and I had used the general term product manager
+instead of what the exact title was, hence the return. Despite that I suspect
+others had also contacted Samsung and provision for the SD card was returned,
+along with the S5 waterproofing. There's still no replaceable battery but for
+many that is not really an issue.
+
+As for the past couple of releases, this is an incremental upgrade with a better
+battery for models with a better screen and a faster CPU. The main memory has
+been upgraded from 3 to 4GB. Another improvement is the camera. While it is
+still rated at 12MP, each pixel is larger, which translates to brighter
+pictures, better handling of low light resolution, faster focusing and a claimed
+f-stop of 1.7, which is very good for a phone camera. The S7 still has a
+5.1-inch screen with the Edge version coming with the larger 5.5-inch version.
+No prices as of yet, but I expect they will be the same as the S6 variants were
+at release.
+
+The other new phone option to choose from is the latest LG G5 built with an
+aluminium enclosure compared to the glass-backed Samsung. The screen size is
+5.3-inches placing it right in between the S7 and S7 Edge for size. It is a tiny
+bit thicker and heavier but not so you would notice. There is a fingerprint
+sensor on the back so unlocking with one hand is easy. Screen resolution is the
+same as the latest Samsung at 2,560 x 1,440, or what some call 4K. CPUs are
+about the same and the G5 also supports a microSD slot. The LG does, however,
+have a removable battery so a win there over the S7 range. The LG is not water
+resistant so a point off there as there is no support for wireless charging. The
+camera options are also different, with the LG having two lenses on the back:
+one regular and one wide angle, so it's kind of a tie depending on what features
+are important as a camera user.
+
+The LG also has a modular accessories option to support a camera grip with an
+extended battery, an audio converter and others to come, but these add to the
+size and weight of the device. Like Samsung the LG has a VR headset in the works
+but the Samsung one comes for free with early orders. All in all it is a bit of
+a toss-up depending on what features you are looking for and how well everything
+actually performs in the real world.
+
+This week's malware story comes from Microsoft. In an interesting twist,
+researchers from FireEye security convinced the Windows EMET program designed to
+protect Windows to instead attack it. To be fair this only works on older
+Windows versions, i.e. less than 10. Also this week on the Android front, it
+turns out that about 2 billion apps, that would be data-stealing apps, have been
+downloaded by users. About 12,000 apps in the Android Store have been identified
+as containing a wide range of malware.
+
+Ingress is a location-based game from Niantic, a subdivision of Google. Imagine
+you have been playing the game since beta, been involved in various organised
+activities and even bought something from the store. Now imagine being blocked
+from playing, no warning, no reason given, and no meaningful response from the
+help desk. Remind you of any other companies? A fruity organisation comes to
+mind. Ingress and games like it are free to play but be wary of investing too
+much time on it, and don't spend your hard earned cash, because there is always
+the chance that you'll suddenly find yourself unable to play.
+
+So where do you come down on the Apple vs iPhone FBI hack story? Huawei agrees
+with Apple as do many others. The authorities disagree and want Apple to open up
+or at least allow for unlimited password tries to support a brute force attack.
+If I was living in today's US, then I would be very wary of giving the current
+administration even more ability to peer into private data.
+
+The antiterrorist in me wants any and all methods used to curtail the tide but
+the cynic says don't trust them. The analysts say that the FBI has all the info
+they need without the contents of the phone including cloud backups. The FBI
+wants all the data and they are also using this as a test case. This will be an
+interesting case to watch as it unfolds further.
+

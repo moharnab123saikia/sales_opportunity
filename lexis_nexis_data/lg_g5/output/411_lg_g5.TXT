@@ -1,0 +1,32 @@
+
+
+Quadrooter exposes 4 vulnerabilities, allowing to take control of the phones
+having Qualcomm processors.
+
+Phones running with Qualcomm processors beware! Quadrooter, a security flaw in
+phones with that brand of processors, allows hackers to take control via 4
+essential routes. According to Check Point software technologies, who informed
+of the vulnerabilities, mentioned in a blog post, "If exploited, QuadRooter
+vulnerabilities can give attackers complete control of devices and unrestricted
+access to sensitive personal and enterprise data on them. Access could also
+provide an attacker with capabilities such as keylogging, GPS tracking, and
+recording video and audio," reported TOI.
+
+What makes the situation even more tricky is that the vulnerability is exposed
+by a malicious software that would hardly need any permission of the user to
+work, which would not generate any suspicion on part of the phone user.
+
+According to the details in the Check Point blog post, Quadrooter directly
+affects a smartphone's drivers which control the communication between different
+chipset components. The issue further becomes weak as the vulnerable drivers are
+generally pre-installed by phone makers during the manufacturing process, so to
+combat the issue currently, the phone makers need to send in security patches
+for a cover up.
+
+Hence, Check Point has recommended that users download and use the latest
+Android updates as and when they become available, avoid APK files and also read
+app permission requests with care before installing and usage. Some of the more
+prominent handsets which have been lent vulnerable include Samsung Galaxy S7,
+Galaxy S7 Edge, OnePlus 3, Google Nexus 5X, Nexus 6, Nexus 6P, LG G4, LG G5 , LG
+V10, OnePlus One, OnePlus 2, OnePlus 3, apart from a few others.
+

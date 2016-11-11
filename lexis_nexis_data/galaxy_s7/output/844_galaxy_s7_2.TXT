@@ -1,0 +1,44 @@
+
+
+The OnePlus 3 smartphone has taken the top spot in the famous AnTuTu performance
+benchmark with an average score of 140.288, as of August 2016. It comes ahead of
+five other Chinese handsets, most of which are only available in Asia.
+
+Selling for just $399, the OnePlus 3 has nothing to envy of pricier, high-end
+handsets from Apple and Samsung -- the iPhone 6s and the Galaxy S7 edge -- when
+it comes to performance. With a design largely inspired by the iPhone 6s, this
+5.5-inch cell phone has a Qualcomm Snapdragon 820 processor, 16MP and 8MP Sony
+cameras and 6GB of RAM. It runs OxygenOS, a mobile operating system based on
+Android Marshmallow and developed by OnePlus.
+
+The OnePlus 3 is followed in the current AnTuTu ranking by the Vivo Xplay5 Elite
+and the LeEco Max2, both of which sell in Asian markets. The Vivo Xplay5 Elite
+is the first Chinese smartphone to get a screen with curved edges. This
+5.43-inch mobile sells for approximately $674. The LeEco Max2 is a 5.7-inch
+smartphone with features including a 21MP camera with optical image
+stabilization. In China, it sells for under $450. Note that both phones have 6GB
+of RAM.
+
+The first handset made outside of China to appear in the ranking is the Samsung
+Galaxy S7 edge, in seventh place, followed by Apple's iPhone 6s in eighth. It
+remains to be seen whether its successor, the freshly unveiled iPhone 7, will be
+able to match the performances of its Chinese competitors and their
+Apple-inspired creations.
+
+The 10 highest scoring smartphones in the AnTuTu performance benchmark
+
+1. OnePlus 3 (140.288)
+2. Vivo Xplay 5 Elite (138.706)
+3. LeECo Max 2 (138.026)
+4. Nubia Z11 (137.685)
+5. Lenovo ZUK Z2 Pro (136.853)
+6. Xiaomi 5 (136.773)
+7. Samsung Galaxy S7 edge (134.599)
+8. iPhone 6s (133.781)
+9. 360 Q5 plus (133.394)
+10. HTC 10 (133.217)
+
+AnTuTu is a Chinese benchmarking tool that compiles a multitude of data to
+establish a performance index, assessing the individual performance of all
+smartphones on the market.
+

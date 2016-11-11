@@ -1,0 +1,115 @@
+
+
+IT was not all about handsets at this year's Mobile World Congress (MWC).
+
+The MWC, held annually in Barcelona, Spain, is traditionally known for handset
+launches, and this year's did not disappoint. But a few other announcements by
+brands such as Huawei, LG and Sony, too, piqued interest at the event.
+
+Given that the global smartphone market is projected to slow, with market
+intelligence firm IDC forecasting a 9.8 per cent growth for 2015, a large drop
+from 27.5 per cent in 2014, it seemed only a natural course of action for brands
+to widen their nets.
+
+For some brands, such as Samsung and LG, that meant expanding into the Virtual
+Reality (VR) business. For others, it meant flexing their innovation muscles.
+
+Huawei, for instance, eschewed the VR trend entirely, even skipping the rumoured
+launch of the P9, which would be the latest in its P series smartphones, and
+instead announced its flagship Matebook, a laptop-tablet hybrid.
+
+Sony, on top of its Xperia X series, unveiled a series of concept gadgets that
+might just revolutionise the future. And LG introduced the modular Android
+smartphone, the G5, along with the LG Rolling Bot, a little ball of a droid -
+much like Sphero's BB-8 - that you control with your G5 remotely.
+
+On why Huawei went into the laptop-hybrid market, Henry Hsu, chief operating
+officer of the consumer business group, Southern Pacific region, said in a group
+interview with The Business Times at MWC 2016: "Last year, we did some research
+and found most of us have phones for fun and sometimes for work. We realised we
+were doing well for handphones that catered to certain needs of the customers -
+mostly play and entertainment. But when it comes to office space, Huawei is
+totally out, so we started studying the PC market."
+
+That was when they decided to develop a book for the PC market. It was also
+strategic for the brand "to create a holistic portfolio".
+
+The Matebook runs on Windows 10 and is powered by a 6th Generation Intel Core
+m-series processor and a solid-state hard drive with capacity of up to 512GB.
+The design is thin and sleek, weighing in at 640g, with a 12-inch display and a
+battery life that promises nine consecutive hours of Internet use.
+
+Despite being China's No 1 and the world's No 3 seller of smartphones, Huawei
+still struggles with its brand image.
+
+Things may have improved for it in the region, with market share in Australia
+and New Zealand having broken past the 10 per cent mark, while in Malaysia and
+the Philippines have climbed steadily over the past year, reaching 6 per cent in
+the former and 5 per cent in the latter from around one to 2 per cent a year
+earlier.
+
+In Singapore, however, it's a different story with market share at 3 per cent.
+
+"Singapore is slightly more brand conscious," Mr Hsu admits. "Huawei is not sexy
+to them as far as they're concerned . . . but as a brand develops, like it or
+not, the business centre is always the last to accept the trends. It always
+comes through the outskirts first."
+
+But Mr Hsu, who is a Singaporean and based in Kuala Lumpur, maintained that
+beyond the image of the brand, Huawei produces quality products. "I always tell
+my friends, 'Take away the logos, use our phones, and you will find our phones
+are really good and it's true'."
+
+LG's launch of the G5 came as little surprise, and neither was the launch of the
+360 CAM and 360 VR, LG's camera and VR headset. What did come as a pleasant
+surprise was the G5 accessory, the Rolling Bot, which allows you to control your
+TV and air-conditioning, use it as a laser pointer, and keep an eye on the home
+when you're not in, thanks to a built-in 8MP camera.
+
+The Rolling Bot was not in perfect working condition at the MWC demo, displaying
+a slow response to commands. But the product is still under development and is
+expected to go on shelves in five to six months.
+
+While Forrester analyst Thomas Husson was impressed with the G5, he was less so
+about LG's VR endeavours.
+
+"The LG 360 VR headset is a way to leverage the hype around Virtual Reality, and
+to further the emergence of self-created content. But don't expect VR content to
+be broadly available this year, with the exception of a small niche of gamers,"
+he said.
+
+Sony went in a different direction, revealing four concept gadgets - the Xperia
+Ear, Xperia Eye, Xperia Agent and Xperia Projector - the last of which made the
+biggest impact. The gadget projects an interactive interface on any flat, clear
+surface, allowing you to tap, type, draw and swipe on it as you would on any
+touchscreen surface.
+
+The Xperia Agent and Ear are virtual assistants of sorts. The former answers
+questions and provides notifications (much as Apple's Siri does) by projecting
+information on a flat surface The latter is an earpiece that offers similar
+functionalities to your phone dashboard, providing weather updates, event
+notifications and allowing you to make calls and send messages.
+
+In another show of VR, the Xperia Eye works much like the 360-degree cameras of
+Samsung and LG, except it comes with only one camera and is placed flat on a
+surface to capture its surroundings. All four gadgets are conceptual and have no
+specific launch date yet.
+
+Analysts noted the VR trend at the MWC, but said they are over-hyped.
+
+"Most handset manufacturers today have referred to VR initiatives. This is a
+great way to create a WOW effect but VR will only offer limited value in 2016. .
+. Like for 3D, content will be the missing piece in the beginning. Self-created
+content will help drive Virtual Reality but we're not there yet," said Mr
+Husson.
+
+"The engineering and manufacturing brilliance we will see from the likes of
+Samsung and LG will do too little to drive the type of consumer demand the
+market so badly needs to maintain past meteoric growth rates," said Forrester
+analyst Julie Ask. "New growth will come from developing markets in need of less
+expensive devices that are less power hungry more sensitive to the local
+conditions."
+
+Companies also need to "do a much better job connecting new hardware to tap into
+app and service ecosystems", Mr Husson said.
+

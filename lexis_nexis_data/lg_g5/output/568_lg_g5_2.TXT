@@ -1,0 +1,24 @@
+
+
+New leak gives away screen size and processor details
+
+While we are waiting for the latest Nexus phones from HTC to show up later this
+year, it was quite surprising to see that there arent much leaks out there,
+until now.
+
+A new leak for the HTC Nexus Sailfish, or the HTC S1 gives us details regarding
+the screen size as well as a few details about the processor as well. According
+to the leaked build.prop file for the phone, there is a mention of an "msm8996",
+which is the part number of the Snapdragon 820, the same chip you'll find in the
+OnePlus 3, HTC 10 and LG G5. There also seems to be a LCD screen density value
+of 420, which roughly amounts to a 5.2 inch screen of 1080 x 1920 resolution.
+However, the larger Nexus Marlin might have a QHD panel.
+
+Other details talk about a fingerprint scanner which will be used to unlock the
+phone as well as to authorize Google Android Pay. There are also mentions about
+the phone's support for Google Daydream. However, it is pretty obvious that the
+HTC S1 wont be a flagship device, while the 5.5 inch HTC M1/ Nexus Marlin might
+be.
+
+Source
+

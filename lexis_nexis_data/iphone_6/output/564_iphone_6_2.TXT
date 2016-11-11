@@ -1,0 +1,165 @@
+
+
+With the official announcement and, today, release of iPhone 5S and 5C, the
+iOSphere returns to its regular iPhone 6rumor nomenclature. But things would be
+simpler if Apple simply used "iPhone 2014."
+
+This week, there were rumors of new and bigger uses for those cool sapphire
+glass covers; revelations about the Biggest Things fans really, really want in
+the next iPhone (and you, too, will be underwhelmed by them); scifi rumoring
+about solar charging that cross-our-heart-and-hope-to-die actually works; and
+still more angst on the Great Apple Failure to support NFC-based mobile
+payments.
+
+You read it here second.
+
+__________"If they don't put NFC in an iPhone soon, they risk being a technology
+laggard."~ Mark Hung, analyst, Gartner (quoted in the Wall Street Journal's
+Digits blog), despite the facts that 1) Hung earlier said there are less than
+100,000 NFC readers being used in the U.S., and 2) there's no sign of an
+imminent mobile payments tsunami that will leave laggardly Apple under
+water.__________ iPhone 6 will have a sapphire touchscreen cover The advent of
+the iPhone 5S home button with its "sapphire glass" cover, and a recently
+announced Apple patent, have the iOSphere agog about a really big sapphire cover
+- one covering the display of the, yes, 2014 iPhone, now generally called iPhone
+6.
+
+Sapphire glass is actually corundum, a crystalline form of aluminum oxide. Apple
+first used the super tough, and super costly, transparent material for the
+iPhone 5 lens cover. It now covers the 5S integrated home button with Touch ID
+fingerprint scanner.
+
+The juxtaposition and extrapolation of unrelated events was effortlessly
+achieved by PhonesReview in a post announced that "use of sapphire [may be]
+expanded further so that it features in the touch screen cover as well as the
+home button."
+
+The source of this revelation? A three-paragraph post, which PhonesReview
+graciously calls a "report," at Taiwan-based DigiTimes.
+
+Citing "Taiwan-based sapphire makers," DigiTimes claims that "Apple is expected
+to extend the use of sapphire glass home keys" to its upcoming new iPads and
+"for making touch screen covers for its new iPhone to be launched in 2014."
+
+The technology basis for PhonesReview speculation is a recently published patent
+application by Apple, originally filed in March 2013. Information on the patent
+was reported by PatentlyApple in a post earlier this month.  Apple's patent is
+for a technique of laminating sheets of sapphire to both side of the glass layer
+users in mobile displays.
+
+It would create a highly scratch-resistant surface and presumably make the glass
+less subject to breaking or cracking.
+
+Whether a technology just entering the patent process in 2013 will be ready in
+2014 for the next iPhone is very much an open question. The Rollup is skeptical:
+making the technology work is one thing; making it manufacturable, on a large
+scale that's affordable and that also achieves quality goals, is another thing
+entirely.
+
+iPhone 6 needs to have four really Big Things Just in case Apple hasn't figured
+out what its fan expect for iPhone 6, Tyler McCarthy at HGN.com, explains it to
+Cupertino in a post headlined, "iPhone 6 Rumors: 4 Biggest Things Fans Expect
+for Apple's Next Smartphone."  Fans expect a larger display, because of the
+"growing trend of smartphones leaning toward bigger, phablet-sized, displays."
+
+McCarthy reminds us of a Reuters story "a few weeks back" that said Apple was
+testing a 5.7-inch phone display (they've been testing various sizes for years).
+"[I]t's not surprising that Apple would try and look into the technology," he
+says.
+
+Fans expect water and dust resistance. "This one seems like a no-brainer,"
+McCarthy says, perhaps optimistically. He seems to think that the Samsung's
+Galaxy S4 Active, with its water- and dust-resistant features, "has provided
+more rugged people with the option to keep a smartphone on them at all times."
+Apple clearly needs to reach out to the under-served More Rugged People segment.
+
+Fans also expect an Infrared Blaster on iPhone 6 to operate Apple TV, just like
+the one in Galaxy S4. Keep in mind that this is No.3 on McCarthy's list of the
+four "biggest" features that iPhone fans want.
+
+Finally, fans want a 128GB iPhone model. This is all the more urgent, McCarthy
+claims, because Apple introduced Touch ID in iPhone 5S. "With the Touch ID
+fingerprint scanner, Apple is encouraging people to keep more information on
+their smartphone now that it is supposedly safe," McCarthy explains. "With that
+[new feature,] users would likely benefit from the extra storage space now that
+they can think of it as secure."
+
+Color us under-whelmed. Plenty of people still insist Apple must, simply must,
+release an iPhone with a bigger-than-4-inch-screen, but "they" also insisted
+Apple must, simply must release a really cheap iPhone. And look what we got.
+
+iPhone 6 will have solar charging Although," Michael Nace, editor of
+iPhone6NewsBlog, tells his readers that, apparently, it is.
+
+"The first in what will most likely be a long line of rumors related to the
+iPhone 6 claims that Apple will make good on several patents related to solar
+recharging for the iPhone," announces Michael Nace, at his iPhone6NewsBlog.  And
+then his next sentence says that, actually, "the notion of a solar charging
+feature on an iPhone is nothing new." It joins the long line of rumored power
+sources, including fuel cells and curved batteries. We're holding out for the
+miniaturized fusion reactor.
+
+Nace says there are "plenty of third-party options" if you want to recharge your
+iPhone battery using solar radiation. There's one little problem, though. "None
+of these products, however, are considered to be viable enough to foster
+mainstream appeal, and for the most part, solar charging arrays for the iPhone
+tend to be used more as emergency, last-ditch-effort features for giving just a
+bit of juice to a dead iPhone," he says.
+
+He claims there is a "new rumor" that "Apple will change the face of solar
+charging for smartphones next year by implementing well-establish patents for an
+iPhone 6 battery that will feature a solar charging panel that actually works."
+
+He doesn't say where he heard or read that rumor and doesn't link to anything
+about it. But that seems like a quibble when Apple is about to change the face
+of solar charging. Talk about a new dawn.
+
+iPhone 6 will not have NFC/mobile payments...unless it does Apple just isn't
+interested in NFC, no matter what anyone says, according to Supratim Adhikari,
+writing at BusinessSpectator, based in Australia.
+
+His rather plaintive headline is: "Will Apple ever give NFC a chance?"  His
+short answer: no.
+
+"The lack of NFC capability on the latest iPhones will grate those who have been
+pinning their hopes on making payments as simple as waving a phone in front of a
+reader," he says. "For many the inclusion of the technology on the iPhone was
+seen as the seminal moment needed to take NFC primetime, but Apple isn't
+interested and it's hard to see it change its mind in a hurry."
+
+How can this be? "Everyone knows" how important NFC is: it's convenient, it will
+reduce fraud, and it's so cool: waving your phone around and buying concert
+tickets, and beer, and flat panel TVs, and new video games. Apple owes it to the
+industry, to us!
+
+But NFC is hardly a done deal, as Greg Bensinger writing at the Wall Street
+Journal's Digits blog makes clear.
+
+He cites data from Gartner analyst Mark Hung that less than 100,000 NFC-enabled
+readers are in use in the U.S. Compare that to traditional credit card and debit
+card readers, which are like everywhere, including those red Salvation Army
+donation kettles. Bensinger notes that Google's effort to create a digital
+wallet linked to NFC chips in some Sprint phones is faltering, partly because
+other carriers are creating their own NFC solution, a joint venture called Isis.
+And it's already available in two - TWO! - U.S. cities. And then there's a drove
+of startups scrambling to offer mobile apps and different payment options.
+
+And then there's Apple, with its still pretty mysterious iBeacon technology
+that's part of iOS 7. "Apple and eBay's PayPal are working on technology that
+can detect a smartphone's presence in a store through Bluetooth and send coupons
+or enable payments wirelessly," says Bensinger. "That's more flexible than NFC,
+which works through frequencies transmitted from a phone that is in close
+proximity to a reading device."
+
+But some people just can't let it go. "Apple may ultimately regret its decision
+not to include NFC in the iPhone 5, Gartner's Mark Hung said. 'If they don't put
+NFC in an iPhone soon, they risk being a technology laggard,' he said."
+
+Apple: the world-renowned technology laggard because it refuses to do what
+everyone says it ought to do.
+
+John Cox covers wireless networking and mobile computing for Network
+World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+

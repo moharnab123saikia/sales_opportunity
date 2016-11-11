@@ -3,22 +3,19 @@ from __future__ import division
 import pandas as pd
 import numpy as np
 
-def get_reviews_for_business(bus_id, df):
+def get_reviews_for_phone(data):
 	"""
-	INPUT: business id, pandas DataFrame
-	OUTPUT: Series with only texts
-	
-	For a given business id, return the review_id and 
-	text of all reviews for that business. 
+	INPUT: data dictionary. {filename : data}
+	OUTPUT: dataframe of the reviews
 	"""
-	return df.text[df.business_id==bus_id]
+	return data.values()
 
 
 def extract_aspects(reviews):
 	"""
 	INPUT: iterable of strings (pd Series, list)
 	OUTPUT: list of aspects
-	
+
 	Return the aspects from the set of reviews
 	"""
 
@@ -27,11 +24,13 @@ def extract_aspects(reviews):
 
 	# put all the sentences in all reviews in one stream
 	#sentences = []
-	#for review in reviews: 
+	#for review in reviews:
 	#	sentences.extend(get_sentences(review))
+	sentences = []
+	for review in reviews :
+			sentences.extend(get_sentences(review))
 
-	tokenized_sentences = [tokenize(sentence) for sentence in sentences
-							for sentences in get_sentences(review)]
+	tokenized_sentences = [tokenize(sentence) for sentence in sentences]
 
 	# tokenize each sentence
 	#tokenized_sentences = [tokenize(sentence) for sentence in sentences]
@@ -49,8 +48,8 @@ def score_aspect(reviews, aspect):
 	"""
 	INPUT: iterable of reviews, iterable of aspects
 	OUTPUT: score of aspect on given set of reviews
-	
-	For a set of reviews and corresponding aspects, 
+
+	For a set of reviews and corresponding aspects,
 	return the score of the aspect on the reviews
 	"""
 
@@ -59,8 +58,7 @@ def score_aspect(reviews, aspect):
 	sentiment_scorer = SentimentScorer()
 	aspect_sentences = get_sentences_by_aspect(aspect, reviews)
 	scores = [sentiment_scorer.score(sent) for sent in aspect_sentences]
-	
-	print scores
+
 	return np.mean(scores)
 
 
@@ -74,37 +72,41 @@ def aspect_opinions(reviews):
 	return dict([(aspect, score_aspect(reviews, aspect)) for aspect in aspects])
 
 
-def read_data():
+def read_data(phone):
 	"""
-	INPUT: None
-	OUTPUT: pandas data frame from file
-	"""
-	return pd.read_csv('/Users/jeff/Zipfian/opinion-mining/data/high_review_restaurants.csv')
-
-
-def main(): 
-	"""
-	The true main. 
+	INPUT: phone name
+	OUTPUT: dictionary of filename, text
 	"""
 
-	df = read_data()
+	import os
+	from os import listdir
+	from os.path import isfile, join
+
+	DATAPATH = os.getcwd()
+	DATAPATH = os.sep.join(DATAPATH.split(os.sep)[:-2])
+	DATAPATH = DATAPATH + os.sep + "lexis_nexis_data" + os.sep + phone + os.sep + "output"
+	filenames = [DATAPATH + os.sep + f for f in listdir(DATAPATH) if isfile(join(DATAPATH, f))]
+
+	data = {}
+	for f in filenames :
+		inputfile = open(f , "r")
+		data[f] = inputfile.read()
+	return data
+
+def main():
+	"""
+	The true main.
+	"""
+	phones = ['iphone_6', 'iphone_6plus', 'iphone_6s', 'iphone7', 'lg_g5', 'pixel', 'galaxy_s7']
+
 	score = {}
 
-	for business in businesses: 
+	for phone in phones:
+		data = read_data(phone)
 
-		reviews = get_reviews_for_business(business,df)
-		score[business] = aspect_opinions(reviews)
-
+		reviews = get_reviews_for_phone(data)
+		score[phone] = aspect_opinions(reviews)
+		print phone + " done"
+	print score
 if __name__ == "__main__":
-	
-	df = read_data()
-	score = {}
-
-	business = 's1dex3Z3QoqiK7V-zXUgAw'
-
-	reviews = get_reviews_for_business(business,df)
-	score[business] = aspect_opinions(reviews)
-
-
-
-
+	main()

@@ -1,0 +1,125 @@
+
+
+NOW that smartphones can do more than a million different things with apps, you
+have to wonder whether it matters when Apple adds two main new features to its
+latest iPhones.
+
+The answer, to cut to the chase, is yes. That's because when Apple incorporates
+new smartphone capabilities, the features may become widely used by consumers
+and then copied by rivals.
+
+The trend may start again this Friday, when Apple releases the iPhone 6s and 6s
+Plus, part of an S generation of iPhones that are typically known as the
+''iteration'' cycle. In an S generation, the company improves on the last model
+by sprinkling in a few new features. For the iPhone 5s, for instance, it was the
+fingerprint sensor. For the iPhone 4s, it was Siri, the voice assistant.
+
+This time, the iPhone 6s and 6s Plus are being equipped with two signature new
+tricks: 3D Touch, in which hard or soft presses on the touch screen bring up
+different functions; and Live Photos, which lets you snap photos that turn into
+miniature videos. The iPhone also now comes in a new metallic finish, a pale
+pink that Apple's marketing team insists on calling ''rose-gold.''
+
+After testing the iPhone 6s and 6s Plus for two weeks, I had mixed feelings on
+the usefulness of the new features. I found that Live Photos quickly became an
+enjoyable, integral part of shooting photos with an iPhone. But I couldn't get
+into the habit of using 3D Touch.
+
+Live Photos
+
+Live Photos works like this: When you take a photo, you capture a still frame in
+full resolution. But the iPhone camera system keeps a buffer of a second and a
+half's worth of motion frames before and after you take the photo. So while you
+get a still shot of your photo, when you press down on the image, you can also
+get the motion frames to play back, bringing the photo to life.
+
+You might wonder, why not just shoot a video? The short answer is that there
+will be tiny moments in life where you would never have guessed you wanted to
+shoot a video, and now Live Photos has a chance to capture them.
+
+I tried this by photographing my pets. In one instance, I captured a moment when
+my corgi started digging his paws into dirt on a mountain, showing a side of his
+personality you wouldn't witness in a normal photo.
+
+There is a short learning curve for Live Photos. If you move your camera
+immediately before or after taking the photo, the movement will show up in the
+animated photo. Several of my Live Photos were ruined because I put the phone
+down too quickly after taking the picture. Apple said it planned to modify the
+feature in a software update so that it did not capture those quick movements.
+
+Two other items that I'd like to see addressed in future software updates: One,
+when Live Photos are captured, they include audio. I'd like the option to
+disable that because images alone can speak loudly enough. You also can't edit
+Live Photos. You can only apply an edit to the still frame, but not the motion
+frames. It would be ideal to at least be able to make minor adjustments to Live
+Photos, like increasing brightness or contrast.
+
+The major limitation of Live Photos is that only Apple devices with the latest
+software systems -- iOS 9 for mobile devices, OS X El Capitan for Macs, and
+WatchOS 2 for the Apple Watch -- can see them. Apple says it is working with
+Facebook so users can share their Live Photos with others on the social network.
+Hopefully more platforms will support Live Photos in the near future.
+
+3D Touch
+
+In interviews, Apple executives have moaned about the pains that engineers went
+through to develop 3D Touch. Pressing lightly on an email, for example, displays
+a ''peek,'' or preview of the message; pressing harder opens the email. The
+phone also responds to your finger with a light vibration.
+
+3D Touch also works on app icons to get quick access to different actions.
+Pressing hard on the icon for the camera app gives you the options to take a
+selfie, shoot a video, record a slow-motion video or take a photo. You can also
+use 3D Touch to turn your keyboard into a trackpad to hover around a document as
+you would on a computer.
+
+It was fun experimenting with 3D Touch, but I rarely felt compelled to use it.
+With my camera, my instinct continues to be to open the camera app by swiping up
+on the shortcut on the iPhone's lock screen. When using email, I don't bother to
+peek; I just open them. Unlike past touch gestures on the iPhone, like pinching
+or swiping, I found 3D Touch, in its current state, to be limited and mostly
+unnecessary.
+
+But it's still early days, and 3D Touch has the potential to mature into a
+useful feature. Third-party companies, like Instagram and Dropbox, plan to
+support the feature in their iPhone apps. I would like to see Apple expand 3D
+Touch into other key parts of the iPhone system -- for example, it would be
+thrilling to be able to fast-forward or rewind a video or audio recording at
+different speeds, depending on how hard I press down on the screen.
+
+Buying Advice
+
+So who should buy the 6s? For owners of iPhones that are at least two years old
+(which includes the iPhone 5s and any generation before that), the new phones
+are an excellent overall upgrade. With the 6s or the 6s Plus, you're getting a
+screen that is significantly larger than those of the older iPhones. Also, the
+phone's processor, called A9, will deliver a big increase in speed.
+
+For screen size, I personally prefer the 6s with a 4.7-inch screen to the 6s
+Plus with a 5.5-inch screen, because the smaller phone is easier to pocket and
+use with one hand. But people who want a smartphone that will double as a
+tablet, for reading books or watching videos, will be better off with the 6s
+Plus's larger screen.
+
+And then there's data storage. Apple offers the new iPhones with different
+storage options and prices: The 6s costs $650 for 16 gigabytes, $750 for 64 gigs
+and $850 for 128 gigs; the big-screen 6s Plus costs $100 more, respectively, for
+each of those storage tiers.
+
+I strongly recommend against the 16-gigabyte model, largely because Live Photos
+are twice the size of a normal photo. For just $100 more, you'll get a lot more
+enjoyment out of your iPhone with 64 gigs.
+
+For those with an iPhone 6 or 6 Plus, the new 3D Touch and Live Photos perks
+aren't substantive enough to make it worth upgrading to a 6s. While Apple
+improved the camera resolution and designed the 6s and 6s Plus with stronger
+metal and glass than the last iPhones, a major component -- battery life -- was
+not improved. It would be wiser to hold off until the next version, which will
+most likely include more significant improvements.
+
+
+
+
+URL: http://www.nytimes.com/2015/09/24/technology/personaltech/testing-iphone-6s
+-3d-touch-and-live-photos-features.html
+

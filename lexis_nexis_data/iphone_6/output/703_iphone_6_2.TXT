@@ -1,0 +1,140 @@
+
+
+Finally, a "rumor" that reads like real reporting: iPhone 6 could "triple" its
+base resolution to enable Retina displaypixel densities on larger screen sizes.
+
+Also this week, what Apple's German HR policies on staff vacation reveals about
+the iPhone 6 announcement date, and misinterpreting what NFC means to Apple.
+
+You read it here second.
+
+In a fine exclusive for 9to5Mac, Mark Gurman shows how to report "rumors."
+
+"Instead of retaining the current resolution, sources familiar with the testing
+of at least one next-generation iPhone model say that Apple plans to scale the
+next iPhone display with a pixel-tripling (3X) mode," Gurman writes.
+
+He identifies multiple sources "familiar" with testing a future iPhone.
+
+The pixel triple claim is based on a rather detailed review of the iPhone's
+screen resolution history. Essentially, Gurman notes that the current Phone 5s
+"with a non-Retina (or "1X") display would have an actual resolution of 568 x
+320 (which is the 1136 x 640 resolution divided by 2). We'll call this the "base
+resolution" of the iPhone 5/5s/5c."
+
+If this base resolution is tripled, you end up with 1704 and 960, and it's that
+resolution that Gurman's sources say is being tested.
+
+Such a move means that the iPhone 6 screen keeps the same 16:9 aspect ratio as
+the iPhone 5, iPhone 5s, and iPhone 5c. And in either the rumored 4.7-inch or
+5.5-inch screen sizes, both would achieve the pixel density that qualifies as
+Apple's definition of its trademarked Retina display (300 pixels per inch or
+above): at 4.7 inches, the density is 416 pixels per inch; at 5.5 inches, 356
+PPI. 9to5Mac developed a set of screen mockups to show how iOS and some
+applications might appear on larger screens with the higher resolution.
+
+As Gurman details, if such a move is in the offing, both Apple and at least a
+select group of key application developers will be optimizing at least some
+applications to fully exploit the larger screen area and the higher resolution.
+
+"Just like with the transition to the iPhone 4?s Retina display in 2010 and the
+transition to the iPhone 5?s taller screen in 2012, Apple is preparing major
+resolution changes for the iPhone 6 that will require software changes by both
+Apple and developers, according to people briefed on the specifications of the
+new device," Gurman writes.
+
+So Gurman offers credible sources, and then realistically elaborates on what the
+rumored change would actually look like and its effect on developers and end
+users. A fine job of reporting.
+
+BGR's Zach Epstein seems to lack the word "rumor" in his vocabulary. Almost
+automatically, it seems, he translates "rumor" into "report."
+
+The latest example: "New report may finally tell us when the iPhone 6 will be
+released."  "[A] new report from German Apple blog iFun suggests that the launch
+will take place in September," Epstein reveals. "The report cites unnamed
+sources in claiming that Apple Stores in Germany will restrict employee vacation
+time in September in order to ensure that all hands are on deck for the iPhone 6
+launch."
+
+In case you're not up-to-speed on Apple's corporate HR policies, Epstein
+explains. "Apple restricts vacation time ahead of and during its iPhone launches
+each year, though it typically doesn't begin informing employees of this
+restriction until much closer to the iPhone's release date."
+
+The link is to the original iFun post in German. Here's our own Google
+Translation of it: "Employees in the German Apple Stores may appear to [not?]
+take any leave in September. If this information is true (and we have little
+reason to doubt the reliability of the source), this indicates a launch popular
+new Apple products this month. Specifically, it would be the iPhone 6, September
+was already in the last two years, Apple's "iPhone-month", while new iPads
+usually followed later in the year."
+
+That's what qualifies as a "report" in BGR Land.
+
+Epstein adds some context. "While reports attempting to pinpoint the next
+iPhone's release time frame have been all over the map during the past few
+months, the smart money has remained on a September release."
+
+That's true: the smart money has remained on September. That's because the last
+iPhone announcement was in September 2013 and because Apple almost always
+announces the next model 12 months after that.
+
+You don't even need a "report" to figure that out.
+
+The basis for this rumor, in a post at BrightWire News, almost certainly does
+not mean what many think it means.
+
+"Apple is likely to incorporate a Near Field Communication (NFC) payment
+function in the next generation iPhone and has reached an agreement with China
+UnionPay on a mobile payment service, according to a source close to the
+matter," writes BrightWire's Frank Hill.
+
+Most iOSpherians following Hill's post assume this means the iPhone 6 will
+incorporate a new wireless chip and antenna system specifically designed for
+Near Field Communications, a very short-range wireless connection that Google
+for example uses in its own smartphones to make Google Wallet as much of a
+reality as it is.
+
+Keep in mind that the BrightWire story is based on a single, unidentified
+source.
+
+"Under the deal with China UnionPay, users would be able to download the bank
+card organization's app to Passbook in their iPhones and make mobile payments on
+over 3 million China UnionPay's 'QuickPass' POS machines in China, the source
+said."
+
+Then there's this: "Currently China UnionPay is developing a system that follows
+its PBOC QuickPass standard which is compatible with Apple's iOS....In addition
+to NFC payment, the two companies will also work together on another mobile
+payment solution that can be used for purchases in Apple Stores, added the
+source."
+
+Hill notes that "Apple filed for a patent covering Near Field Communication
+(NFC) technology with the U.S. Patent and Trademark Office in January this year,
+according to earlier media reports."
+
+One of those reports was by AppleInsider. The patent in question, as the drawing
+with the AppleInsider post shows, includes an NFC chip, but only as one option
+for wireless payments and transactions: the other two are Wi-Fi and Bluetooth.
+
+Apple already has the outlines of and client-side infrastructure for a mobile
+payments system, based on its iBeacon/Bluetooth 4.0. [See "Apple's iBeacon turns
+location sensing inside out"] With iBeacon, merchants can communicate with any
+iPhone that has Bluetooth 4.0, launching a process that creates a secure
+handshake with the device, and authenticates the user. Unlike NFC, which
+requires the phone and reader to be touching or nearly touching, Bluetooth Low
+Energy (BLE) lets this take place over a much greater distance, without the need
+for buying an NFC-equipped phone or adding NFC readers at the point of sale.
+[See the slideshow: "How Apple's iBeacon location sensing technology works"]  If
+China UnionPay is working with Apple to create a wireless mobile payment system
+that's compatible with iOS, it seems more likely to be one that makes use of
+Bluetooth and iBeacon, rather than introducing on the iPhone a brand new
+technology (and much more complex infrastructure) in which Apple has shown
+almost no interest.
+
+John Cox covers wireless networking and mobile computing for Network
+World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+

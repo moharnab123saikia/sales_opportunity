@@ -1,0 +1,152 @@
+
+
+Some number of iPhone and iPad users upgrading to iOS 6 are reporting a range of
+Wi-Fi problems, as are some iPhone 5users. The solutions, when there are any,
+seems as baffling as the problems.
+
+The LTE iPhone experience: What to expect with iPhone 5 The continuing posts at
+Apple's tech support site and at online forums show users with existing iPhone
+and iPads frustrated by a flurry of different problems, including a "grayed out"
+Wi-Fi option, dropped connections, slow connection speeds, and having to connect
+manually to a Wi-Fi access point. Separately, there are posts by some owners of
+the new iPhone 5, released last Friday, also about Wi-Fi problems.
+
+Confusedly, these are problems that are unrelated to the Wi-Fi glitch last week
+when iOS 6 was first released. In that situation, the iPhone or iPad pings an
+Apple Website to determine if the device is on a hotel or airport Wi-Fi network
+and needs a network "terms of agreement" page. That webpage was temporarily
+offline, but its absence prevented a lot of users from getting Wi-Fi access for
+a few hours. But it was quickly fixed.
+
+Because of the nature of online postings, it's difficult to see patterns or to
+gain a sense of how widespread these problems are. When queried last Friday, an
+Apple PR spokesman replied via email "Thanks for bringing this to my attention."
+Two follow-up emails asking for a statement from Apple have not been
+acknowledged by either of two PR persons contacted.
+
+A typical post on Apple's own support boards is this one from bigfirefighter, in
+Ohio, who posted Tuesday morning Sept.25: "I have been through 2 levels of Apple
+Support and they can't help, they said they "kicked it up to the engineers".
+IPhone 4 updated at the same time as iPad, which works perfectly. Cannot turn on
+wifi on the phone since it is grayed out. Did several hard resets, restored
+twice, restored to factory settings once, reset network connections twice,
+nothing works..."
+
+That post was part of a thread titled "iOS 6 WiFi Disabled" which by Tuesday
+afternoon had received 70,496 views, and 835 comments.
+
+Another poster named VeeDom reported the same problem. "I called Apple Care and
+told me that they know about this issue and are working on it for a new release
+of IOS6 to fix this...Until now, we are stuck!" He added a new twist: "Also,
+just found out that aside from the greyed wifi switch, I can't seem to detect my
+[iPhone] 4S on my macbook via wifi (using personal hotspot) even if it is
+enabled. I'm not sure if it is related to the wifi issue but you may want to
+check if yours is working."
+
+Solutions seems as inexplicable as the problems. Kenishialala posted: "I had the
+same problem since yesterday but thank goodness it's back now! I've been
+restoring my iphone for I can't remember how many times now. But for the nth
+time today, it finally worked! The original plan was to downgrade to iOS 5.1.1.
+I failed twice so on the third time, I decided to bring back the iOS6. MIRACLE,
+I am now able to use the wifi again. Toggle it on and off and connect it to our
+Wifi."
+
+By Tuesday afternoon, MacRumors.com forums had 10 separate threads related to
+Wi-Fi issues with iOS 6 or the new iPhone 5: such as "Painfully slow WiFi on new
+iPhone 5," "WiFi Sync Terrible on iOS 6?," "No WiFi on certain access points,"
+and "Persistent WiFi + iOS6." But keep in mind that many of the earlier posts on
+these threads are related to the original Web-based Wi-Fi glitch.
+
+New owners of the iPhone 5 frustrated by similar problems, as posts at the
+online forums of MacRumors.com show.  Commenter otis123 wrote "My [iPhone] 5 is
+having quite a bit of trouble with my AirPort Extreme [access point]. Slow
+throughput and its having a hard time staying connected. My other iOS devices
+are fine as always, even my 3rd gen iPad on iOS 6."
+
+Another poster, vanc, had a similar experience, with his Apple Airport Express
+access point. "Throughput was horrible, and disconnected from my Airport express
+constantly. In the same location, my iPhone 4, iPad 1 & 3 all worked perfectly."
+His solution: "In order to make iPhone 5 happy, I purchased an Airport Extreme
+yesterday and used the existing Airport express as an extender. This solved the
+problem perfectly. Now on iPhone 5, I don't have random dropouts and throughput
+is inline with my other iDevices."
+
+ZenErik found a wide performance gap between his laptop and the new iPhone: "I'm
+getting 10 - 12 Mbps down on my laptop and anywhere between .3 and 10 Mbps on my
+iPhone 5. Extremely inconsistent. ping has gone anywhere from 60 - 300 ms. Up
+speed has remained between 5 and 6 Mbps for the most part."
+
+One user, urbantekreport, posted a solution -- found at iphone5issues.com -
+which restored iPhone 5 performance: "Settings> Wi-Fi > Blue icon next to the
+network you're connecting to > Scroll to the bottom > Set your device's HTTP
+Proxy to Auto (leave Url blank) After this, try speed test again! Snappy!
+
+It worked for another user, but others said it failed. One of them was danilko1,
+who reported that the new iPhone 5 worked "pretty good" out of the box and over
+the weekend, but then it failed to connect at work and then at home. "I noticed
+GPS was active. I killed all apps. Rebooted. Then not at first, but within 10
+minutes, something healed and now it's running good again. This is strange. I
+hope it's not a common thing. I hardly ever had to reboot my other iPhones."
+
+WLAN vendors, when they're willing to comment, say they're not seeing any surge
+of problems.
+
+"We have upgraded dozens if iOS devcies internally and have not seen any
+performance degradation," according to Bruce Miller, vice president of product
+marketing, networks, at Xirrus, a WLAN vendor. "We have not received any
+communications from our customers with issues related to iOS upgrades either,
+either directly into [Tech] Support or via social channels."
+
+Ruckus Wireless and Aerohive also said there have been no problem reports so
+far. Cisco declined to comment.
+
+A teacher, identified as bravescoach, started a thread on Apple's site
+describing problems at at Indianapolis-area school with 750 students and a mix
+of personally-owned mobile devices, though "hundreds" have iPhones and iPads.
+The school's Wi-Fi network is based on Cisco Aironet WLAN gear.
+
+"There is definitely an issue where iPhone 4S and iPad 3rd generation devices
+are "unable to join network" after updating to iOS 6," he writes. "Needless to
+say it is wholly impractical to revert firmware on any of these machines just to
+deal with two [types of] devices. Each of these devices were fully capable of
+connecting while on iOS 5.1.1."
+
+Other iDevices, including iPhone 3GS, iPhone 4, iPod touch 4th gen, and iPad 2
+"all work fine." According to this poster "several schools" in the area have run
+into problems. His own iPad 3 works, updated to iOS 6, works on his home
+network, with a Linksys router, but not on the school's WLAN.
+
+A variety of suggestions have been put forward including resetting or changing
+the authentication/encryption being used by the client devices and the network.
+But that's not an option for many enterprise WLANs.
+
+Users with working iPhone 5 Wi-Fi are seeing some startling increases in
+throughput, as some of the comments above show. This is due almost entirely to
+the fact that it now supports Wi-Fi connections over the 5-GHz band instead of
+just 2.4 GHz. [see "FAQ: iPhone 5 and 5GHz Wi-Fi"] Xirrus this week has run a
+series of tests with the new iPhone 5, connecting to its Wireless Array access
+point. One set of tests compared Wi-Fi performance of iPhone 5 on 2.4GHz with 20
+MHz-wide channels and on 5GHz with 40 MHz-wide channels. The second set of tests
+Wi-Fi performance of the iPhone 4S on 2.4 GHz with 20 MHz-wide channels. Each
+test measured the throughput and time to send and receive a 100MB file.
+
+For iPhone 5 on 2.4 GHz: throughput was 42.24Mbps and 19 seconds uploading, and
+38.31Mbps and 21 seconds downloading the file.
+
+The iPhone 4S had comparable numbers in 2.4 GHz: 32.18Mbps and 20 seconds
+uploading; and 40.23Mbps and 25 seconds downloading.
+
+But on 5GHz, with its uncluttered spectrum and wider channels, the iPhone 5
+showed an astounding improvement: throughput was 80.39Mbps and 9 seconds
+uploading, and 67.05Mbps and 12 seconds downloading.
+
+At least for non-streaming applications, that kind of speed can prolong battery
+life because the radio connection is active for much shorter periods of time for
+the same amount of data being transferred.
+
+John Cox covers wireless networking and mobile computing for Network World.
+
+Twitter: http://twitter.com/johnwcoxnww Email: john_cox@nww.com
+
+
+

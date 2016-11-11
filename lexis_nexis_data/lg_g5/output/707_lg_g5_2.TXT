@@ -1,0 +1,60 @@
+
+
+Chinese electronics manufacturer Lenovo has become the first to put Google's
+Project Tango spatial awareness technology into a smartphone.
+
+Its PHAB2 Pro range of phones all have cameras, sensors and software capable of
+motion tracking, depth perception and area sensing, which means it can learn and
+produce a 3D map of the inside of a building or space.
+
+The technology will enable advanced augmented reality systems that can recognise
+objects in the world around the user and overlay information in real time, a
+feature often called "Terminator vision", after the1984 film.
+
+Johnny Lee, engineering director at Google said: "Tango enables our devices to
+sense physical motion and space and, as a result, has the power to change how we
+interact with our surroundings. We believe that devices with positional tracking
+functionality will be pervasive and are happy that the PHAB2 Pro will introduce
+these new capabilities, making your phone even more useful."
+
+The Tango-infused 6.4in PHAB2 Pro will be available starting in September along
+costing from $499.
+
+Lenovo also brought out a new flagship modular smartphone, the Moto Z, which
+replaces the Motorola Moto X as the top of the manufacturer's line, after the
+Chinese firm bought Motorola from Google two years ago.
+
+The Moto Z, which comes in two versions including one with Motorola's
+shatterproof screen, have a modular design which allows users to magnetically
+attach additional so-called Mods to the back of the phones. These include a pico
+projector for displaying images on a wall, an extra battery pack and a set of
+stereo speakers.
+
+Both smartphones also lack a headphones port, relying solely on USB-C port. The
+Moto Z has a 5.5in quad HD AMOLED screen, Qualcomm's top-of-the-range Snapdragon
+820 processor, 4GB of RAM, 32GB of storage with a microSD card slot and a
+13-megapixel camera, all squeezed into a 5.2mm thick frame. The camera protrudes
+from the back, however.
+
+The 7mm-thick Moto Z Force has similar specifications, but has Lenovo's Moto
+ShatterShield screen protection, as used in the unbreakable screen of the Moto X
+Force, a larger battery and a 21-megapixel camera.
+
+Both smartphones are expected to be available in September.
+
+Lenovo is not the only one pursuing a modular smartphone design. LG's G5 has a
+slot in the bottom for adding accessories that clip in and form part of the
+phone, while Google's Project Ara aims to make almost every part of the phone a
+clip-in module.
+
+The benefit of the Moto Z's magnetic system, which has pins on the back onto
+which the modules attach, is that the phone does not need to be turned off to
+have a new module attached. But whether consumers will buy into the concept of
+modules - available at an extra cost - remains to be seen.
+
+
+     ·    Project Tango: Google is building it, but will they come?
+     ·    Motorola Moto X Force review: great phone with a screen you simply
+          can't break
+
+

@@ -1,0 +1,209 @@
+
+
+DESIGN - SAME BUT DIFFERENT
+
+Despite being a full upgrade from 6 to 7 without any "S" suffix, the iPhone 7
+and 7 Plus look almost like the previous two generations of iPhones.
+
+In fact, both iPhones share the same physical dimensions as their immediate "S"
+predecessors. Thickness, length and width are the same, with the same display
+size and pixel resolution. However, they are up to 5g lighter than their direct
+predecessors.
+
+But both new iPhones are rated at IP67, which means they are dust resistant and
+water resistant (they can be immersed in depths of up to 1m for 30min).
+
+You can practically wash the iPhone 7 and 7 Plus after the phones get dirty or
+smudgy.
+
+The big news is the phones' lack of a headphone jack. In its place is another
+set of speakers (more on the iPhones' audio later).
+
+If you choose one of the two new black models - black or jet black - you can
+hardly see the antenna bands.
+
+The other three colours - silver, gold and rose gold - have the familiar white
+fronts, while the black models have both their front and back in black.
+
+The back of the black and jet black versions are finished in matte black and
+glossy black, respectively. Both finishes picked up a fair share of smudges, but
+the jet black model is more susceptible to fingerprints and scratches.
+
+I know I am definitely going for a black iPhone 7 Plus, but I am still undecided
+on which one.
+
+TECH SPECS
+
+APPLE iPHONE 7 PLUS
+
+PRICE: $1,248 (32GB), $1,418 (128GB), $1,588 (256GB); available on Sept 16
+
+PROCESSOR: A10 Fusion chip with 64-bit architecture with embedded M10 motion
+co-processor
+
+SCREEN: 5.5-inch Retina HD display with 3D Touch; 1,920 x 1,080 pixels
+
+CAMERAS: 12-megapixel rear dual cameras (wide-angle f/1.8; telephoto f/2.8),
+7-megapixel front camera f/2.2
+
+WEIGHT: 188g
+
+RATING
+
+FEATURES: 5/5
+
+DESIGN: 5/5
+
+PERFORMANCE: 5/5
+
+BATTERY LIFE: 4/5
+
+VALUE: 4/5
+
+OVERALL: 4/5
+
+TECH SPECS
+
+APPLE iPHONE 7
+
+PRICE: $1,048 (32GB), $1,218 (128GB), $1,388 (256GB); available on Sept 16
+
+PROCESSOR: A10 Fusion chip with 64-bit architecture with embedded M10 motion
+co-processor
+
+SCREEN: 4.7-inch Retina HD display with 3D Touch; 1,334 x 750 pixels
+
+CAMERAS: 12-megapixel rear camera f/1.8, 7-megapixel front camera f/2.2
+
+WEIGHT: 138g
+
+RATING
+
+FEATURES: 4/5
+
+DESIGN: 5/5
+
+PERFORMANCE: 5/5
+
+BATTERY LIFE: 4/5
+
+VALUE: 4/5
+
+OVERALL: 4/5
+
+NEW HOME BUTTON
+
+Another design change you cannot see but can feel is the new Home button. It is
+no longer a physical button but a touch-capacitive button.
+
+Using a new Taptic Engine, the Home button gives haptic feedback when you press
+it.
+
+You can customise the strength of the haptic feedback. I put it to the highest
+strength.
+
+It takes a little while to get used to it, as you need to press slighty harder
+to unlock the phone rather than merely touching the previous Home button. Other
+than that, it is still the same Home button you use for Touch ID, Apple Pay,
+taking screenshots and Siri.
+
+However, to reboot the iPhone now, you have to press the volume down button
+(instead of the Home button) and On/Off button together.
+
+CAMERA AND DUAL-CAMERA
+
+The iPhone is the world's most popular camera, according to photo-sharing site
+Flickr. And Apple has improved on the camera of the new iPhones.
+
+Although it has the same 12 megapixels as its predecessors, the iPhone 7's rear
+camera now comes with a larger f/1.8 aperture (up from f/2.2) that allows up to
+50 per cent more light into the improved image sensor for more details.
+
+Both new iPhones also feature a quad-tone flash, instead of the previous
+dual-tone, for more natural skin tones.
+
+Previously, only the iPhone 6s Plus' rear camera had an optical image stabiliser
+(OIS). But now, both the iPhone 7 and 7 Plus' rear cameras have OIS.
+
+Present in the iPhone 7 Plus only is a dual-camera system, whereby one
+12-megapixel camera uses a wide-angle 28mm focal length and the other
+12-megapixel camera uses a telephoto 56mm focal length. This translates to a 2x
+optical zoom, but the telephoto camera lacks OIS.
+
+Both the iPhone 7 and 7 Plus deliver sharper images with greater details, even
+in the darker image areas, than their predecessors.
+
+Auto white balance is spot on, and the camera does not produce over-vivid and
+too-contrasty photos.
+
+Image quality is equally top-notch for the 2x zoom lens.
+
+Selfie lovers will like that the front-facing camera has been upgraded to seven
+megapixels from five megapixels previously, and images appear much sharper too.
+
+Using the quad-tone flash under incandescent lighting, I found the skin tones in
+the images to be more natural than those of the iPhone 6s Plus.
+
+SPEED
+
+The iPhone 7 and 7 Plus are both armed with the new A10 Fusion chip that
+features a four-core processor design. It consists of two high-performance cores
+and two high-efficiency cores for up to 40 per cent faster performance than the
+iPhone 6s and 6s Plus.
+
+The iPhone 7 scored 3,364 (single-core) and 5,314 (multi-core) points in the
+GeekBench 4 benchmark test, while the iPhone 7 Plus scored 3,322 (single-core)
+and 5,315 (multi-core) points. This is an increase in performance ranging from
+25 per cent to 49 per cent, compared to the iPhone 6s and 6s Plus respectively.
+
+Graphics-intensive games, such as Implosion and Infinity Blade 3, displayed
+great texture and played smoothly without any lag. It will certainly be more
+than enough for your Pokemon Go hunts.
+
+In addition, the storage capacities of the iPhone 7 and 7 Plus have been doubled
+from those of their predecessors. So, I can finally get a 256GB iPhone for my
+growing photo collection, which is reaching breaking point.
+
+AUDIO
+
+Like the iPad Pro, the iPhone 7 and 7 Plus deliver great stereo output from
+their built-in stereo speakers. You can easily tell which end of the phone the
+sound is emanating from, or when you switch the orientation of the iPhone.
+
+But the headphone jack is gone. I rarely listen to music on my iPhone, as I have
+an iPod touch for that purpose. So it is not much of a loss to me.
+
+However, out of the box, you get Apple's EarPods with Lightning connector and a
+Lightning-to-3.5mm headphone jack adapter. So, you can still use all of your old
+headphones.
+
+Listening to the EarPods with Lightning connector and the old EarPods using the
+adapter on an iPhone 7 Plus, I found that the Lightning EarPods have slightly
+sharper vocals and a tad more bass.
+
+Unfortunately, the Lightning EarPods do not work with my iPhone 6s Plus and iPod
+touch. So do not buy a set thinking you can use it with your current iOS
+devices.
+
+Plus, the new iPhones do not support wireless charging. I see that as an issue
+with some users who want to charge and listen to music at the same time.
+
+BATTERY LIFE
+
+To stress-test the battery, I looped a 720p video at full brightness and full
+volume, and with Wi-Fi on.The iPhone 7 lasted 7hr 40min, while the iPhone 7 Plus
+lasted 8hr.
+
+This means that both the iPhone 7 and 7 Plus lasted 50min more than their
+respective predecessors, which is no mean feat.
+
+Under normal use, which includes regularly checking Facebook updates and
+e-mails, both phones should easily last through a full working day - unless you
+are playing Pokemon Go all the time.
+
+·Verdict: The Apple iPhone 7 and 7 Plus might not have the bells and whistles or
+spanking new design of their competitors, but they are still undoubtedly some of
+the best smartphones on the market. Personally, the dual-camera of the iPhone 7
+Plus is enough reason for me to upgrade my iPhone 6s Plus. Question is, black or
+jet black'
+

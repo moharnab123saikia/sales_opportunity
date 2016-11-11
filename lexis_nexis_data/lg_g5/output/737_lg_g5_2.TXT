@@ -1,0 +1,96 @@
+
+
+At the Mobile World Congress event, smartphones are typically the stars of the
+show. But not this year.
+
+At this yearcs show, virtual reality seems to be taking center stage.
+
+For its press conference at MWC, which is held every year in Barcelona, Samsung
+provided all attendees with one of its Gear VR headsets with which to view the
+event in virtual reality. It also brought out Mark Zuckerberg, the CEO of
+Facebook, whose Oculus unit helped develop the Gear VR, to talk about the
+efforts the giant social networking company is making in virtual reality.
+
+Meanwhile,cHTC announced a price and shipping date for the Vive, its rival to
+the Rift, Oculusc upcoming VR headset. And attendees got to hear about new VR
+viewers and camerascthat can shootcvideos intended for viewing in VR headsets.
+
+Zuckerberg, in his Samsung talk, summed up the zeitgeist and Facebookcs interest
+in it.
+
+cPretty soon wecre going to live in a world where everyone has the power to
+share and experience whole scenes as if youcre just there, right there in
+person,c Zuckerberg said, according to a report in USA Today. cImagine being
+able to sit in front of a campfire and hang out with friends anytime you want.
+Or being able to watch a movie in a private theater with your friends anytime
+you want.c
+
+He continued: cAll these things are going to be possible. And thatcs why
+Facebook is investing so much early on in virtual reality. So we can hope to
+deliver these types of social experiences.c
+
+Zuckerberg announced that Facebookchas developed a new way to stream 360-degree
+videos. These are videos that allow users wearing a VR headset to see moving
+images wherever they turn.
+
+The new technology involvesckeeping track of what a viewer is actually looking
+at in a video. The technology will stream only that portion of the video in high
+resolution, instead of the entireccircular scene. The result, according to
+Facebook , is that it can offer those scenes users are watching in ultra-sharp
+resolution and it can get them to start playing faster than before. The new
+method also uses a fourth of the bandwidth previously needed, Facebook said.
+
+The company plans to roll the technology out to Gear VR headsets cin the next
+few weeks,c Facebook said.
+
+Facebook is also working a way to use VR for communication. The company has
+created a Social VR team to explore ways in which users of VR headsets could
+share virtual experiences.
+
+cWecve already helped people connect in a wide variety of ways on mobile devices
+ranging from Facebook and Instagram to Messenger and WhatsApp   and now we want
+to apply that same approach to the new medium of VR,c the company said in a
+press announcement.
+
+But Facebook was only one of many companies talking VR at the MWC. Indeed,
+perhaps the biggest virtual reality announcement at the show belonged to one of
+the rivals of Facebookcs Oculus   HTC. That company has been working with video
+game makercValvecon the Vive, a widely anticipated alternativecto Rift. On
+Sunday, HTC finally showed off the final version of Vive and announced when it
+will be available and how much it will cost.
+
+HTC will charge $799 for Vive, and the device will be in storescin early April.
+Pre-orders start on February 29.
+
+That price is $200 more than Oculus is charging for the Rift. Like the Rift, the
+Vive will ship with two games. But HTC will also throw in two handheld
+controllers specifically designed to be used with the handset and that allow
+users to cseec their hands in some games.
+
+By contrast, Oculus Rift will includeconly one Xbox One controller when it
+starts shipping in March . Users who want a virtual controller similar to those
+that will come with the Vive will have to wait until later in the year , and
+theycll likely have to pay extra for them.
+
+In both cases, though, the price of the headset understates the actual cost of
+the VR experience. To run Rift, users will need a PC that costs around $1,000 or
+more. To power the Vive, users will potentially need a PC thatcs even more
+expensive .
+
+HTC, Samsung and Oculus arenct the only players in VR, as MWC made clear.
+LGcunveiled a lightweight headset called the 360 VR   price and release date to
+be announced later   that will be powered by its new G5 smartphone. And Alcatel
+announced its own simple viewer that will accompany its new Idol 4S smartphone.
+
+And to ensure that users have something to watch on their new headsets, LG and
+Samsung both unveiled camera systems that will record 360-degree videos. Both
+devicescinclude two cameras facing in opposite directions that record video
+through fish eye lenses.
+
+Photo:cA woman reacts as she views virtual reality through a Samsung Gear VR
+headset at the Mobile World Congress conference incBarcelona, Spain, on Monday.
+(AP Photo/Emilio Morenatti)
+
+The post All eyes on virtual reality at Mobile World Congress appeared first on
+SiliconBeat .
+

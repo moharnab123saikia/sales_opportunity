@@ -1,0 +1,73 @@
+
+
+I have been using Apple Music a fair amount, although last week spent time
+catching up with podcasts I had missed while friends were here. During the week,
+a number of local users who connect to the internet at home via True were
+complaining that Apple Music was connecting badly. I had a look in iTunes on the
+Mac and found that "For You" -- perhaps the most significant part of the service
+-- would connect, but no music was being played. I also tried the Radio
+stations. While Beats 1 connected, the Classical and Alternative music stations
+connected but would play no sound (like "For You").
+
+I switched to the iPhone and the results were similar, so I turned off Wi-Fi and
+tried with DTAC 4G: perfect. Apple Music and all the radio stations worked as
+they should. Suggestions were made that True was using proxy settings not
+configured properly for Apple Music. Apple was contacted. Representations were
+made to True. The service came back piecemeal and by the weekend users had all
+features. Time to subscribe to another service provider.
+
+Around the time that Apple Music went live, updated iPods arrived. The iPod
+shuffle had new colours; the iPod nano was given a Lightning port as well as the
+colour makeover. Neither, however, was able to connect to Apple Music. The
+completely revised iPod touch can, however. I have been trying a 128GB iPod
+touch for the last few weeks and love it.
+
+The device has had a complete makeover and it now sports the same 64-bit
+processors as the iPhone 6 -- the A8 and M8 -- albeit slightly detuned. The A8
+runs at 1.1GHz per core. There are also differences in camera specifications. At
+88g, the iPod touch is smaller and lighter than the iPhone 6 (129g). A friend
+who is permanently attached to an iPad mini picked it up and asked why there was
+no iPhone this size. It fits in the hand (and the pocket) really nicely, plays
+all the music I have and it takes really good photographs.
+
+I made some direct comparisons with the iPhone 6, iPhone 6 Plus and the iPod
+touch. There was little difference in the images each was able to produce. I
+tend to use the iPhone 6 for a lot of photography these days, with the iPhone 6
+Plus as an alternative, as it is particularly good for movie clips with video
+stabilisation. I tried the nimble iPod touch for a few days and found it
+well-suited to street shots, to portraits and to classroom work. Like the iPhone
+it has slow-motion video, burst mode, time-lapse video and can create
+high-resolution panoramas as well as normal video and photo formats.
+
+Controls are familiar to users of iOS devices, but I do not understand why the
+screen Off button is on the top of the device (like iPads) while the iPhones
+have it on the right side. This caused me (left-handed) problems relearning how
+to take screen shots with the new iPhones. I prefer design consistency. Another
+missing feature, which I have on the iPad and iPhones, is Touch ID fingerprint
+access. Initially I kept trying to unlock the device with my fingers, showing
+how much I rely on fingerprint ID.
+
+The lack of a carrier signal should not be a problem for many users,
+particularly those in cities. A friend links his iPad mini to AIS Wi-Fi in
+Bangkok malls, or via a Samsung phone when the Wi-Fi is unavailable. Likewise, I
+have been running the iPhone 6 Plus without a SIM card and use the iPhone 6
+Personal Hotspot when needed. I was able to do the same with the iPod touch. At
+home, I connect all of the devices to my home Wi-Fi.
+
+Like the new iPod shuffle and iPod nano, the iPod touch comes in 6 colours:
+silver, gold, space grey, pink, blue and (Product) red. The pricing makes this
+an attractive alternative, particularly when compared to iPhones here, which are
+24,900 baht (16GB), 28,900 baht (64GB) and 32,900 baht (128GB). Equivalent iPod
+touch prices are 7,200, 10,900 and 14,500 baht. There is also a 32GB model for
+8,900 baht.
+
+With iCloud and iTunes syncing I was able to put all of my images from Photos on
+the device quite quickly as well as documents for Keynote, Numbers and Pages.
+With the adaptors I have, I can run presentations from the iPod in the same way
+I do from the iPhone or iPad. I also installed iA Writer, so I can synchronise
+writing between Macs and iOS devices, making sure I have the information I need
+all the time.
+
+I picked up an Apple Watch last week and am trying it out currently. Next week,
+I will outline some of what I have found.
+

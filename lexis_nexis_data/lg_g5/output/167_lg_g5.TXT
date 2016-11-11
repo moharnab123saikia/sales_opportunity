@@ -1,0 +1,79 @@
+
+
+The LG G5 is the first smartphone launched this year to feature a dual-camera
+system.
+
+One camera uses a 16-megapixel sensor with a wide-angle 28mm lens and big f/1.8
+aperture.
+
+The second camera uses an eight-megapixel sensor but with an ultra-wide angle
+10mm lens and a slightly smaller f/2.4 aperture.
+
+TECH SPECSPRICE: $988 (without contract)
+
+REAR CAMERAS: 16-megapixel 28mm f/1.8; eight-megapixel 10mm f/2.4
+
+SENSOR PIXEL SIZE: 1.12 microns
+
+The 10mm lens' coverage is really wide, providing a 135-degree angle of view
+that looks almost like a fish-eye lens. Only the 16-megapixel camera has optical
+image stabiliser, but both cameras allow for manual controls and use laser
+sensors for auto-focusing.
+
+Unlike the Apple iPhone 7 Plus, which uses both its two cameras at the same
+time, LG's dual-camera system uses only one camera at any one time.
+
+The G5 does not have the zooming function of the iPhone 7 Plus. There are two
+icons - wide-angle and ultra-wide - in the camera app, so you tap on one of the
+two icons to toggle the focal length.
+
+A simple test of putting your finger to block one lens while tapping on the
+wide-angle or ultra-wide icon to change focal length will prove it. You will see
+one of the views blocked by your finger.
+
+The native camera app of G5 looks simple and it starts up pretty quickly, either
+from the start screen or the home screen when tapped.
+
+In landscape orientation, there are the usual tools of shooting mode, flash,
+selfie and settings on the left side of the screen, with the shutter release,
+video recording and picture preview options on the right.
+
+The more serious photographer can switch to manual mode, where you can change
+white balance, ISO and shutter speed. But the auto mode will probably suffice
+for most.
+
+By default, there are nine autofocusing (AF) points in the middle of the screen,
+but you can always tap on the screen to focus on the subject.
+
+The AF is pretty quick for a smartphone. It locks on to a focus almost instantly
+under bright sunlight.
+
+Even in low lighting conditions, it takes at most two seconds to secure a focus.
+Image quality for both wide- and ultra-wide angle shots during daytime is
+impressive, with great details and wide dynamic range.
+
+Colours look vivid and saturated. However, the edges tend to be a tad soft upon
+closer scrutiny, especially for the ultra-wide images.
+
+In night landscape shots, the images tend to look overexposed, with the dark sky
+looking illuminated. There is also chromatic noise with some loss of details. I
+would recommend switching to manual mode and dialling down the exposure.
+
+The stitching of the different frames in a panoramic image is almost perfect
+except for one or two instances where jagged lines are evident, but the
+exposures through the stitched frame do not differ by much.
+
+Unlike the Huawei P9 and Apple iPhone 7 Plus, the G5's camera app does not have
+a bokeh effect function. You need to change the camera app's mode to manual and
+set the aperture to f/1.8 to achieve the bokeh effect.
+
+As such, the bokeh effect is not as evident compared with the P9 and iPhone 7
+Plus. However, the images look far more natural than the other smartphones in
+this round-up.
+
+Trevor Tan
+
+· Verdict: Despite being the "oldest" smartphone in this round-up, the LG G5's
+dual-lens camera system stood out on its own. With its ultra-wide angle lens, it
+caters more for landscape or travel photography.
+

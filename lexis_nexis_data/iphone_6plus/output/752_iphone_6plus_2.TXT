@@ -1,0 +1,84 @@
+
+
+For several days late last month, there was a tantalising page on the Apple
+Online Store for Thailand. Users could select the iPhone 6 model and colour of
+their choice, as well as the capacity, but the "buy" button was stubbornly
+greyed out. Until Friday.
+
+Alternative slow WiFi router.
+
+I had not been sure which model I wanted: the 4.7inch model or the iPhone 6 Plus
+with its 5.5inch screen. I weighed up my options and thought about how I use the
+iPhone. Most of the time, I carry it in the pocket of my trousers, although
+sometimes (when I am on the BTS or in a taxi) I use the top pocket of my shirt.
+The 5.5inch model might be a squeeze.
+
+While battery life has been improved for both models, the iPhone Plus wins with
+its larger capacity. There is also the feature of optical image stabilisation
+that is only available on the iPhone 6 Plus.
+
+I had intended to wait until I could handle both models, but when a marketing
+email arrived from Apple on Friday morning, the temptation was too great. A
+priority was space. As my 64GB iPhone 5s now has only 10% free, the 128GB iPhone
+6 was my choice. My budget would not stretch that extra few thousand baht needed
+for the iPhone 6 Plus with 128GB.
+
+As it turns out, my decision was probably right as I was able to handle both
+models on Saturday. The larger iPhone 6 Plus did not feel comfortable in my
+hands or against my face.
+
+This is not a matter of slavishly buying everything that Apple puts out as some
+would want you to believe. The large number of firsttime buyers should now put
+that absurd idea to rest. The iPhone is one component in my personal network  an
+integration of devices that other manufacturers can only dream about.
+
+As well as its A8 processor, these new iPhones belatedly fill a gap in the
+networking capabilities with their new WiFi features (IEEE 802.11ac). New Macs
+have been able to use such faster networks for a year or more; and I already
+have the Airport Extreme router that transmits at these speeds. This will make
+my home system faster with data transfers and synchronisation.
+
+All I need now is for an update to Apple TV to bring that in line too. The
+current Apple TV uses the slower 802.11n (up to 600 Mbs) standard, although that
+is usually fast enough for me to view movies running on the iPhone or the Mac on
+my television. That would not be the case if I were stuck with the router that
+the internet service provider (ISP) gave me: the wifi for that is a creaky
+802.11g (54Mbs).
+
+The Apple router is also better as the firewall ports used for synchronisation
+of iOS devices are not open on the router from the ISP. It was clear from my
+phone calls to technicians that they did not understand what these were and
+wanted to solve the problem (the problem they did not understand) by remotely
+logging into my computer, which I firmly but politely declined. I solved this in
+under a minute by connecting my old Apple router (now updated), which also gave
+me faster home WiFi as a bonus.
+
+With OS X 10.10, Yosemite, for a larger display of the information about any
+networks a Mac can see, press the Option key and click on the WiFi icon in the
+menu bar. If that icon is not in the menu bar, it can be added by using a
+checkbox in System Preferences. That Option key is useful with other menu bar
+icons: Bluetooth, Time Machine (when the menu is already open), Sound (speaker)
+and Power Source.
+
+On Saturday, at Central Pinklao, there were several people waiting for the
+iPhones they had ordered. By early afternoon, they were sold out. Inside the
+iStudio several cases were being offered.
+
+I was watching Bloomberg TV during the week and one of their experts opined that
+the iPhone was an "unfinished product" because a case was needed. I never use
+these as I think it limits the device, particularly when the screen is covered.
+The only protection I ever use is an old iPod sock and Apple have stopped making
+these now.
+
+While he omitted to mention the other handset makers whose customers also buy
+cases, Apple has always left this particular door open to accessory makers,
+particularly as this means the users have a wider range of options: from Hello
+Kitty to the OtterBox Defender.
+
+A few minutes after placing the online order for my iPhone, I received an SMS
+and email to show that the order was being processed. Late on Saturday, an SMS
+from Apple, followed by email, told me the item had been shipped and would be in
+my eager little hands by Friday.
+
+If anyone has an iPod sock, I would be grateful.
+

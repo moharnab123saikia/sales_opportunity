@@ -1,0 +1,27 @@
+
+
+NEW DELHI: Apple has announced that it will be adding the ability to capture RAW
+images to iPhones, starting with iOS 10. While the stock iOS camera app doesn't
+have the functionality to capture RAW images, iPhone users can use Adobe's
+Lightroom app for the same. The only requirement for being able to shoot RAW
+images is that the iPhone should be running iOS 10 and have a 12MP iSight
+camera. This means that the supported devices are iPhone 6/6 Plus, iPhone 6s /6s
+Plus, iPhone 7/7 Plus, iPhone SE and even the iPad Pro 9.7. Images captured in
+RAW format are uncompressed and don't have any post-processing effects applied
+to them, unlike those captured using the stock camera app.
+
+As a result, users can tweak or enhance the images as they like to get the best
+out of them. Adobe Lightroom captures RAW images in DNG format. It has also
+expanded its has also expanded the colour gamut to match the new displays and
+camera on the iPhone 7 and iPhone 7 Plus. Earlier this year, Adobe rolled out a
+major update for its Lightroom app for mobile photography on iOS and Android.For
+iOS users, the updated Adobe Lightroom v2.4 brings two major improvements. First
+is the ability to import images clicked in RAW format and edit them.On Android,
+Adobe Lightroom for Android v2.1 brings a new Pro mode in its built-in camera
+option under DNG RAW mode. As expected, the mode lets users take control of the
+White Balance, ISO and focus, all inside a new interface. There is also a new
+Lightroom Camera widget7 which directly fires up the Lightroom's built-in
+camera.
+
+For Reprint Rights: timescontent.com
+

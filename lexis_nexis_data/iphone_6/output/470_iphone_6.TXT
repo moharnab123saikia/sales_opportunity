@@ -1,0 +1,225 @@
+
+
+The Chinese, as everyone knows, drink a lot of tea. And with Apple's deal with
+the humungous China Mobile to offer thenew iPhones to its zillions of
+subscribers, iOSpherians are trying to read all those tea leaves. But they're
+drawing, honestly, some strange conclusions.
+
+Apparently, the Chinese, who are reputedly enamored with Big Screen Smartphones,
+are going to demand a Big Screen iPhone 6.
+
+Apple doesn't listen to Americans, but they will listen to the Chinese.   And
+that shifty Apple CEO Tim Cook, at China Mobile HQ for the launch, did a lot of
+dodging and shrugging off, because he didn't tell Chinese buyers who were busy
+buying the iPhone 5S anything about the iPhone 6.
+
+Disclosure of a new Apple patent application sent a thrill of anticipation
+through those longing for near-field communications in their favorite phone,
+apparently because they misread what the patent was actually about.
+
+Finally, the same "expectations" of a larger-screened iPhone 6, in at least two
+sizes, were recycled from last October.  They still remain just expectations.
+
+You read it here second.
+
+iPhone 6 with "massive screen" more likely because of China This is the ...
+well, let's call it the "innovative" argument by GottaBeMobile's Josh Smith.
+
+And it's simple: Apple has just started offering the iPhone to the zillions of
+subscribers on China Mobile. And Chinese people like Big Screens on their
+phones. Therefore, to please them, Apple "will likely" increase the screen for
+the iPhone 6.
+
+Here is Smith's first sentence in his blogpost: "The iPhone 6 screen size will
+likely grow in 2014 as Apple pushes to compete with growing smartphone sizes in
+the U.S. and looks to offer an iPhone with a larger screen in China."
+
+Here is Smith's second sentence: "This week the iPhone 5s and iPhone 5c launched
+on China Mobile, bringing orders in the multi-millions and spawning lines around
+buildings at China Mobile stores, including one where Tim Cook was on hand to
+sign autographs."
+
+So "multi-millions" of Chinese are buying the iPhone with its puny 4-inch
+screen, not to mention its sky high price tag, oblivious to all those "competing
+smartphones [that] range from 4.7-inches to 5.9-inches with 1280 x 720 and 1920
+x 1080 resolution displays" that are also, like, cheap! What is wrong with those
+idiots?
+
+So far, Apple has not segmented the smartphone market as it did the portable
+music player market with multiple iPod models.
+
+So far, it still puts a premium on a display size that permits one-handed use,
+and display technologies that create a high pixel density, readable text, and
+crisp images and video with very accurate color representation.
+
+Last fall, Apple introduced for the first time, a second iPhone model, the 5C
+priced $100 less than the 5S with a plastic body instead of metal, most of the
+internals of the prior iPhone 5, and the same four-inch screen. The 5C is now
+routinely offered by carriers as a very low-priced iPhone with a contract, or
+even free with a contract.
+
+Apple may decide the time is right to offer a third model, with a larger screen,
+and presumably a higher price, if it thinks it can achieve the display quality -
+including color representation and power trade-offs.
+
+But the "multi-millions" happily buying a four-inch display in China suggest
+that the iPhone is doing just fine as it is.
+
+Tim Cook dodges iPhone 6 questions What a prevaricating, evasive weasel this guy
+is. And thank heavens we have CNET's Rich Trenholm to call him out on it.
+
+Cook was in China to launch the iPhone 5S and 5C with China Mobile. He appeared
+at the carrier's headquarters with Chairman Xi Guohua, the two of them handing
+out autographed copies of the phones to early buyers.
+
+Not too surprisingly, one of them at least, asked Cook about iPhone 6. According
+to Trenholm, "Tim Cook has shrugged off questions about a bigger, badder iPhone
+." And that weasel "wouldn't confirm or deny rumours of a larger screen for the
+hotly-anticipated iPhone 6."
+
+But Cook did hint, according to Trenholm. "We have a lot to look forward to in
+2014," Cook hinted, "including some big plans that we think customers are going
+to love."
+
+Used as a verb, "dodge" means "elude or evade by a sudden shift of position or
+by strategy: to dodge a blow; to dodge a question."
+
+Trenholm based his blog post, and everything in it, on an actual news story,
+from Bloomberg. Here's Bloomberg's account of what actually happened: "Cook was
+at China Mobile's headquarters store as the world's largest carrier started
+selling the iPhone, concluding six years of negotiations with Apple. As Cook
+handed out autographed iPhones with carrier Chairman Xi Guohua, people asked him
+about bigger screens and the use of flexible displays.
+
+"We never talk about future things," Cook said. "We have great things we are
+working on but we want to keep them secret. That way you will be so much happier
+when you see it."
+
+We're not seeing much eluding and evading, or even shrugging off. Cook simply
+and politely repeated to his questioner Apple's long-standing policy on "future
+things" and repeated the kind of general, upbeat comments he's made before -
+"great things."
+
+iPhone 6 will have NFC because Apple filed a new patent application Ben Lovejoy
+at 9to5Mac noticed a newly published Apple patent filing, which unfortunately
+included the acronym "NFC" which is short for near-field communications, which
+specifically refers to a very short-range wireless communications technology but
+which almost everyone thinks means "wireless wallet and payment system."
+
+Lovejoy's own post about the filing was a model of reticence. He offered his
+opinion that "it seems likely that Apple is intending to eventually establish
+iBeacon as a wireless electronic wallet system, rather than the existing NFC
+system commonly used in parts of Europe and Asia..."
+
+That's debatable, partly because Apple hasn't said much in public about its
+iBeacon plans. iBeacon was introduced in iOS 7.
+
+It relies on a Bluetooth variant: Bluetooth Low Energy (BLE), which minimizes
+power in part by offering lower data rates.
+
+The beacons themselves are small, Bluetooth sensors placed around, say, a
+department store or museum. They connect with the Bluetooth radio in an iPhone
+or iPad. Apps and software can be used for indoor mapping, navigation,
+notifications, customized ads, and coupons. Presumably, mobile payments might be
+another app.
+
+Sonic Notify makes such beacons, supporting both iOS iBeacon and the recently
+introduced Android BLE. Two grocery chains this month began trialing the
+iBeacon-based hardware and software from InMarket.  Lovejoy's blog post also
+noted, correctly, that a patent application isn't a sure and certain sign of a
+product introduction in the next nine months. And while Apple has said little
+about its plans for electronic payments, Lovejoy is probably right when he
+concludes that "the question of using iPhones for payment is almost certainly
+when and how rather than if."
+
+Reticence in the iOSphere is rather like a snowball in hell.
+
+The patent application put Geek.com's Russell Holly into a lather of NFC
+anticipation: his blog post was titled, with unconscious irony, "iPhone 6 could
+have NFC (No really, it might happen this time)."  "Despite all of our wildest
+hopes and dreams, Apple has yet to grace the iPhone with what could end up being
+one of its most important hardware upgrades," he wrote. "Once again, however, it
+looks like there may be a chance we'll see NFC on the new iPhone."
+
+Despite all Holly's wildest hopes, the Apple patent application itself is
+actually not for NFC, but for a "commercial transaction method." The idea, as
+the document explains, is first creating a secure link between a "purchasing
+device" - a smartphone - and a point of sale device through a specified "air
+interface" - the way of transmitting information over the air between two
+radios. Then a second air interface is used to "conduct a secure commercial
+transaction."
+
+NFC is one air interface named in the patent. So is RFID, Wi-Fi, and Bluetooth.
+The real focus seems to be creating and completing a "commercial transaction
+between the purchasing device and the backend server using payment data secured
+by a shared secret known to a secure element in the purchasing device and to the
+backend server," using one, or two, of several possible radio technologies.
+
+Holly himself acknowledges what surely must be at least one of the reasons why
+Apple has not fallen all over itself to present the world with NFC on an iPhone:
+"The last two releases of Apple's flagship smartphone have been absolutely
+riddled with hope for NFC inclusion..." Holly writes. "The biggest reason Apple
+hasn't bothered yet is because no one has been able to truly justify the
+technology to users. While geeks use it to do all sorts of fun things, there's
+nothing out there aside from the hope of a future filled with smartphone
+payments that has been even a little exciting to the average consumer."
+
+Quod erat demonstrandum.
+
+iPhone 6 will have two or even three or maybe four different screen sizes Or
+maybe not.
+
+BGR's Chris Smith is excited by another "report" from NPD DisplaySearch, which
+was picked up by CNET.
+
+Smith's summary of CNET's summary is that Apple "is expected" to offer bigger
+iPhones in 2014, and DisplaySearch is "predicting" what kinds of displays they
+will be.
+
+"The researchers [meaning DisplaySearch analyst David Hsieh] mention two iPhone
+6 sizes including 4.7 inches and 5.5 inches, which could have LCD displays with
+1600 x 900 resolution (386 pixel-per-inch density or PPI,) and 1920 x 1080
+resolution (401 PPI), respectively," Smith writes.
+
+The Rollup loves those precise numbers. It makes it so much easier to overlook
+mere "expectations" and "predictions," otherwise known as "guesses."
+
+The problem with Smith's summary is that DisplaySearch made the same predictions
+in October 2013. And BGR, in the person of Zach Epstein, was equally excited to
+cover it then, too.  Here's Hsieh's October blog post, entitled, "In 2014, Apple
+Will Once Again Rely on Displays for Innovation," which essentially argues that
+Apple for some years led in display innovation, but has been trailing more
+recently compared to rivals. "Introduction of the iPhone 5S and 5C was the
+latest example that Apple has been slow in adopting the latest display
+technologies," Hsieh wrote then. "While 5-6" FHD [full high-definition]
+resolution displays are rapidly growing in the smart phone market, the iPhone
+has stayed with the 4" 1136×640 screen for over a year and a half." He predicted
+that in 2014, Apple will turn again to new display technologies, higher
+resolutions, and larger screens to again be a contender.
+
+Here is his most recent blog post, entitled "New Display Sizes and Formats to
+Look for in 2014," based on his visit earlier this month to the Consumer
+Electronics Show (CES). In this post, he shows a set of tables of "display
+models we may see in 2014. Of course, not all of the panels listed here will go
+into mass production, as panel maker strategies can change."
+
+Of course.
+
+The information, such as it is, about Apple's displays remains unchanged, as do
+their status as expectations, predictions, possibilities, mays and cans.
+
+Hsieh, in neither blog post, actually asserts what Apple's display plan is or
+even what he thinks it is. In essence, he's simply saying that Apple is likely
+to try to keep improving screen technology for its mobile devices.
+
+Unless the Apple engineers in charge of displays, and Tim Cook, have all fallen
+into a deep sleep, we can expect that Apple continues to be interested in "high
+quality" displays - according to Apple's definition of "quality" -- that realize
+an ever-improving "user experience," according to Apple's definition of "user
+experience."
+
+John Cox covers wireless networking and mobile computing for Network
+World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+

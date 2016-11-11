@@ -1,0 +1,69 @@
+
+
+Apple's iPhone 6 and 6 Plus appear to be vulnerable to so-called "touch
+disease", a hardware problem that is crippling phones, according to reports from
+users and third-party repairers.
+
+The issue, which has been observed in iPhone 6s since the beginning of the year,
+seems to affect the touchscreen controller chips, resulting in problems for the
+high-end smartphones in responding to touch input.
+
+Badly affected phones become next to useless. First the status bar becomes grey
+and flickers and the touchscreen becomes unresponsive, with users unable to
+control or use the smartphones without the touchscreen working.
+
+On the eve of Apple's unveiling of its next version of the iPhone, an extensive
+report by third-party repair resource iFixit has suggested the issue is
+widespread.
+
+iFixit repair advocate Julia Bluff said : "Of course, there's no way to tell
+exactly how many phones are afflicted with what we're calling Touch Disease, but
+every repair tech we spoke to told us that the problem is incredibly common."
+
+"This issue is widespread enough that I feel like almost every iPhone 6 or 6
+Plus has a touch of it (no pun intended) and are like ticking bombs just waiting
+to act up," Jason Villmer, owner of repair shop STS Telecom, told iFixit.
+
+A fix for the issue is possible, requiring the broken chips within the iPhones
+to be carefully replaced by workshops capable of performing so-called
+microsoldering - the use of microscopes and very fine soldering irons to remove
+and replace tiny chips on the main boards of the iPhones.
+
+The microsoldering repair specialist Jessa Jones puts the fault down to the same
+reason the iPhone 6 and 6 Plus suffered from bending issues. Their thin, wide
+bodies flex more than previous Apple smartphones and the flex point appears to
+be around where the touchscreen controllers sit within the smartphones. Apple
+has since strengthened the structure of its iPhones to correct the issue with
+2015's iPhone 6S and 6S Plus.
+
+Jones said: "Over time, normal daily use of the large, thin phone will
+eventually create a small crack or separation in one of the balls that underlie
+either of the [touchscreen control] chips on the board. At first, there may be
+no defect at all. Later you might notice that the screen is sometimes
+unresponsive, but it is quick to come back with a hard reset. As the crack
+deepens into a full separation of the chip/board bond, the periods of no touch
+function become more frequent. This is exacerbated by any drop."
+
+Pressure on the screen or twisting of the phone can work as a temporary fix, as
+can so-called reflowing of the chip, where it is heated up to try and reform
+broken bonds, reconnecting the chip to the board beneath it. But the problem
+will get worse over time, eventually rendering the touchscreen unresponsive.
+
+Jones explained that the only solution is to replace both touchscreen control
+chip, cleaning the board underneath, which should cost about the same as a
+screen replacement or a quarter of the cost of Apple's out-of-warranty
+refurbished phone replacement offer.
+
+Apple's in-store support are not capable of doing so, leaving those out of
+warranty with little recourse but to buy a new or refurbished smartphone,
+according to users of Apple's support forums.
+
+While Apple store staff have reportedly told users affected by the issue that it
+is a known problem, the company has not officially acknowledged the issue.
+
+Apple did not respond to request for comment.
+
+
+     ·    Apple apologises over Error 53 and issues fix for bricked iPhones
+
+

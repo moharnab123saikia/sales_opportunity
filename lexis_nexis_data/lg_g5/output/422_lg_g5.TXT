@@ -1,0 +1,90 @@
+
+
+SOFTWARE
+
+Virtual machine
+
+VMWARE has upgraded its core data centre virtual infrastructure management
+software, releasing VMware ESX Server 3 and VMware VirtualCenter 2.
+
+The new releases sport VMWare's recent technical innovations to improve
+availability of virtual machines, such as the ability to detect failed virtual
+machines and automatically restart them on an alternate host.
+
+ESX Server 3 can milk more power from x86-based dual-core processors and it is
+compatible with more NAS and iSCSI networked storage hardware.
+
+VMWare says the uprgraded scheduling and load balancing software can operate at
+system resource use rates of more than 80 per cent.
+
+Content manager
+
+ENTERPRISE content management software specialist Tower has updated its flagship
+product, TRIM Context 6.
+
+The software is designed to help enterprises manage their electronic document
+and records.
+
+The latest version offers a Web Service Connectivity Toolkit, which complies
+with Services Orientated Architecture development principles.
+
+The management suite covers document and records, business process integration,
+web content, email, collaboration and line-of-business applications
+
+.
+
+Data protection
+
+STORAGE specialist EMC has launched an enterprise software application that
+helps corporations to continuously protect data.
+
+The software, EMC RecoverPoint, is designed to allow data centres to roll back
+data in production environments.
+
+The software consistently monitors and captures data written to production
+environments and writes them in a parallel back-up storage space, EMC says.
+
+RecoverPoint will be available at the end of the year.
+
+HARDWARE
+
+Small-end storage
+
+STORAGE hardware specialist Quantum has released a series of disk-based backup
+and recovery systems for small-to-medium companies.
+
+The DX3000 and DX5000 back-up appliances ship as bundled disk arrays,
+controllers, interfaces and system control and management tools to minimise
+installation overheads.
+
+The systems are designed for Exchange, SQL and Oracle database users.
+
+Graphics power
+
+APPLE is skewing its Power Mac G5 workstations towards industries such as
+scientific research, that may require powerful graphics processing, such as
+animation and visual effects, not to mention rendering technology used in film,
+video, games development and 3D modelling.
+
+The G5 will soon be available with NVIDIA's Quadro FX 4500 graphics card, which
+handles up to two 30in Apple Cinema High Definition displays.
+
+The NVIDIA Quadro FX 4500 has 512MB of video memory.
+
+Triple-play wireless
+
+NETWORK equipment supplier Nortel has begun trials in Japan showcasing wireless
+technologies capable of delivering voice, video and data services.
+
+It has teamed up with LG Electronics and BB Mobile to conduct the trials
+northwest of Tokyo.
+
+The companies want to demonstrate that it is possible to roam between 3G, WiMAX
+and WLAN networks while using systems such as voice over internet protocol,
+mobile television and multimedia.
+
+"Our demonstration clearly shows that emerging wireless broadband technologies
+can be economically harnessed to provide customers with uninterrupted access to
+a wide variety of high-bandwidth applications," LGE mobile division executive
+vice-president Jae Ryung Lee says.
+

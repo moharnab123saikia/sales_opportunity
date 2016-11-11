@@ -1,0 +1,31 @@
+
+
+The app's latest update lets iPhone 6S users and up shoot and edit in
+uncompressed DNG format.
+
+Adobe has updated its Lightroom app for iOS with a major addition; support to
+capture and edit RAW files in the open-source DNG format.
+
+In Lightroom 2.5, iOS 10 users can use the app's camera tool to take a photo,
+and save the image with no loss of quality or compression. Of course, the
+feature is limited to iPhones with the 12MP iSight camera, so it'll only work on
+the iPhone 6S and 6S plus, iPhone SE, iPad Pro 9.7-inch, and the upcoming iPhone
+7 and 7 Plus.
+
+Apple's own camera app doesn't support RAW, but it does support third-party DNG
+capture, which ADobe has jumped on. Aside from the added bonus feature for
+iPhone 6S and 6S Plus users, this update is clearly aimed squarely at potential
+iPhone 7 series users. Apple's new dual 12MP rear cameras and updated image
+signal processor on the iPhone 7 Plus perfectly lend themselves to RAW capture.
+
+RAW might not be everyone's cup of tea, what with the file size and processing
+time needed, but Lightrooms 2.5 is an update that's sure to be a hit with
+professional photographers and designers. It even has the option to sync to
+Lightroom on your desktop via iCloud, if that's where you'd prefer to do your
+editing.
+
+The app is currently available for free on iTunes but you can expect more
+updates on the way. Adobe themselves said in a blog post, "we're working to
+profile the new sensors and lenses found in the iPhone 7 and 7 Plus and will
+have an update available as soon as possible."
+

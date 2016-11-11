@@ -1,0 +1,148 @@
+
+
+The iOSphere this week was filled with iPhone 6 demands, revelations,
+assertions, and advice, most of it aimed at Apple. The company was assured,
+earnestly and solemnly what iPhone 6 "needs" to avoid being accused of the
+Innovation Deficit and facing Certain Doom. In other cases, bloggers confidently
+exposed all the specific features that Apple has, obviously, already included in
+the Next iPhone. Apparently, all we're waiting for is Apple's marketing guru,
+Phil Schiller, to confirm them a year from now.
+
+Also this week: iPhone 6 fan art spoils the joy of new iPhone 5S buyers; and you
+won't have to wait 12 months because iPhone 6 will be announced in Q1 2014.
+
+You read it here second.
+
+The Rollup loves posts with headlines like "What Apple needs to offer with the
+iPhone 6," which sums up Lance Whitney's recent post at CNET.
+
+We can only hope, and pray, that Tim Cook, Jonathan Ive, and the rest of the
+innovation-challenged employees at Apple Headquarters have an RSS feed to
+Whitney's blog.
+
+The quick summary of what Whitney knows is needed: bigger screen, 802.11ac
+Wi-Fi, NFC (near field communications), higher pixel camera, 128GB storage
+option, and better battery life.
+
+If these sound familiar that's because most of them have been on lots of "What
+Apple Needs to Do" lists for the past three years, at least.
+
+For each needed feature, Whitney's rationale is so broad as to cover every
+possible contingency. Thus, the "bigger screen" needs to be bigger than the
+4-inch diagonal screen for iPhone 5S and 5C but not, like, too big. "Apple
+should avoid the huge 'phablet' size favored by some companies but still outfit
+the iPhone 6 with at least a 4.5-inch display," Whitney says. At what point does
+a smartphone screen become "huge?"
+
+Whitney is among the many who still seem convinced that Apple is just waiting
+for the right moment -- the moment of "true consumer adoption," according to
+Whitney -- to jam in a NFC chip and the massive antenna it requires so we can
+wave our iPhones around and buy stuff. The Rollup is skeptical: Apple's interest
+seems to lie in crafting a highly functional, secure, and easy to use online
+transactional experience along with exploiting Bluetooth and Wi-Fi, both of
+which are already far more widely deployed than NFC.
+
+Finally, it's entirely likely Apple will continue to improve its smartphone
+camera, but doing so in more dimensions than simply increasing the number of
+megapixels. "But with consumers craving beefier smartphone cameras, next year
+may be time for Apple to boost the megapixel count to lure in more of those
+potential Lumia buyers," Whitney says.
+
+Right. Because so many people are flocking to those high-megapixel cameras on
+Nokia's Windows Phone smartphone line. For example, in its second quarter
+earlier this year, Nokia reported it sold 7.4 million Lumia smartphones. Or,
+about 1.6 million fewer units than Apple sold in just the opening three-day
+weekend of sales for iPhone 5C and 5S.
+
+Some people have the Next iPhone all figured out. People like Trevor Sheridan at
+a site called AppleNApps, where his post deduces all kinds of things.
+
+For example, "It appears Apple has transitioned their yearly iPhone update cycle
+to September, so that means we should be seeing an all new iPhone in September
+2014." See how easy that was?
+
+"Next year will be time for an all new design, as the iPhone 5S maintained the
+external design of the iPhone 5...," he continues.
+
+"That means Apple's major focus for the iPhone 6 will be the look and feel, and
+Apple probably already has a number of design mock-ups."
+
+Sheridan is certain Apple will increase the iPhone 6 screen resolution to 1920 x
+1080 pixels, in a 4.7-inch diagonal screen, resulting in a 468 pixels per inch
+density, with an edge-to-edge display, and all of this resulting in an increase
+in the phone's overall width of precisely 0.2 inches.
+
+If the new iPhone 5C proves popular, he says, "Apple could use similar colorful
+polycarbonate real shells that are reinforced with a steel frame for the iPhone
+6." Or, it could save those shells for iPhone 6C, about which Sheridan seems to
+have doubts.
+
+Apple has made it clear that iPhone 5C simply takes over the lower-priced place
+that would have been occupied by a discounted iPhone 5.
+
+"Of course, there will be a new A8 64-bit chip building upon the super powerful
+just released 64-bit A7 chip," Sheridan reveals.
+
+Of course. Because, um, that's Apple's historical pattern with iPhone
+processors.
+
+And like CNET's Whitney, he knows Apple will have a better camera.
+
+You're probably better off not buying a new iPhone now and waiting a year.
+
+Over at IntoMobile, Blake Stimac is just thrilled by a new spate of fan art for
+iPhone 6, and one in particular.
+
+"IPhone concept designs are some of the most intriguing we've seen, and this one
+is no exception," he writes, in a post with the headline "iPhone 6 Concept Will
+Make You Regret Your 5S Purchase".  "The ultra thin design showcases a large,
+edge to edge display with the home button embedded right onto the screen," he
+says, admiringly. "We're more than aware that Apple is likely testing out a
+larger display on upcoming iPhones, and for now, it's concept designs like this
+that will be the best we'll get until (possibly) next year. While we certainly
+don't doubt Apple's design prowess, more often than not concept designs look
+better than the real deal."
+
+So the fan art is so good that you'll rue your new iPhone purchase, or postpone
+it until the iPhone 6 comes out, when you'll be disappointed again because it
+won't be as good as the fan art. Or something.
+
+One of the well-known rumor techniques is reusing older rumors, because even
+with Google search the iOSphere attention span is like a lightning flash.
+
+In a post at a site called TekRieg, which seems to focus mainly on clickbait,
+Anna Mathews confides that "There are rumours going around that Apple may launch
+the iPhone 6 during Q1 of next year says IBT [International Business Times]."
+
+And IBT did in fact say that...over six weeks ago in an Aug. 13 post, by Eric
+Pineda, who simply blends information taken from at least three other sources,
+which he generously and misleadingly calls "reports."
+
+"However, the reports seem to confirm that the iPhone 6 will not be part of the
+2013 product surprises that Apple CEO Tim Cook had implied in previous
+statements," Pineda wrote then. "Should that device become a reality, the
+earliest it will come is during the first months of 2014."
+
+But nowhere does he give a source for the first quarter 2014 release of the
+iPhone 6.
+
+And this week, IBT said it again, in a post by Kristin Dian Mariano, "3 Reasons
+Why iPhone 6 Release Date is on March 2014" who also doesn't bother to give any
+sources or evidence for her assertions.
+
+Here's one of them: "It is speculated that iPhone 5S and iPhone 5C were released
+by Apple because it has not completed the features it will include in the
+full-fledged smartphone [i.e., the iPhone 6]." The implication is that Apple is
+rushing to bring this delayed product to market ASAP, meaning early in 2014.
+
+That qualifies for the "Most Preposterous iPhone 6 Rumor of the Week"
+competition. Complex products like smartphones are designed over a period of
+years. Mariano's suggestion that Apple's original plan to announce iPhone 6 in
+fall 2013 was derailed unexpectedly and that therefore the company created not
+one but two new phones in its place is a fairytale.
+
+John Cox covers wireless networking and mobile computing for Network
+World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+

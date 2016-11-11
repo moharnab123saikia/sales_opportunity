@@ -4,6 +4,7 @@ File for aspect scoring functions
 
 from __future__ import division
 from external.my_potts_tokenizer import MyPottsTokenizer
+import os
 
 class UnsupervisedLiu():
 	"""
@@ -19,15 +20,15 @@ class UnsupervisedLiu():
     Download lexicon at: http://www.cs.uic.edu/~liub/FBS/opinion-lexicon-English.rar
 	"""
 
-	PATH_TO_LEXICONS = "/Users/vivek/Desktop/opinion-mining/data/Lexicons"
+	PATH_TO_LEXICONS = os.getcwd()
 
 	def __init__(self):
 		"""
 		Read in the lexicons.
 		"""
 
-		pos_path = self.PATH_TO_LEXICONS + "/Liu/positive-words.txt"
-		neg_path = self.PATH_TO_LEXICONS + "/Liu/negative-words.txt"
+		pos_path = self.PATH_TO_LEXICONS + "/positive-words.txt"
+		neg_path = self.PATH_TO_LEXICONS + "/negative-words.txt"
 
 		self.pos_lex = self.read_lexicon(pos_path)
 		self.neg_lex = self.read_lexicon(neg_path)
@@ -143,25 +144,10 @@ def get_sentences_by_aspect(aspect, reviews):
 	#	sentences.extend(get_sentences(review))
 
 	# tokenize each sentence
-	tokenized_sentences = [tokenize(sentence) for sentence in sentences
-							for sentences in get_sentences(review)]
+	sentences = []
+	for review in reviews :
+			sentences.extend(get_sentences(review))
+
+	tokenized_sentences = [tokenize(sentence) for sentence in sentences]
 
 	return [sent for sent in tokenized_sentences if aspect in sent]
-
-
-def demo_score_aspect():
-	"""
-	Demo the score aspect functionality
-	"""
-
-	ss = SentimentScorer()
-
-	pos_sent = "This is a good, positive sentence"
-	neg_sent = "This is a bad, negative sentence"
-
-	print "Score for '%s' is %f" % (pos_sent, ss.score(pos_sent))
-	print "Score for '%s' is %f" % (neg_sent, ss.score(neg_sent))
-
-
-if __name__ == "__main__":
-	demo_score_aspect()

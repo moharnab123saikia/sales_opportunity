@@ -1,0 +1,2608 @@
+
+DATELINE: Lahore
+
+
+
+    Washington: Public Service Commission of the District of Columbia has issued
+the following document:
+
+
+
+ APPLICATION FOR CERTIFICATION AS A}I ELIGIBLE DISTRICT OF COLT]MBIA
+
+ RENEWABLE ENERGY STANDARDS GENERATING FACILITY
+
+ t . Name of Renewable Energy Facility: 200760
+
+ Facility Address:
+
+ 3627 Minnesota Ave SE
+
+ WashingtoDn C 20019
+
+ ORISPL Plant Code:
+
+
+
+    Nameo f OwnerS: parrowhawkS olar l, LLC
+
+ Owner'sa ddresas ndc ontacitn formation:
+
+ 6611 S Las Vegas Blvd, Ste 200
+
+ Las Vegas NV 891 19
+
+ phone:888.765.2489
+
+ Fax: 702489-4232
+
+ Email;:n "ntives.S R EC@solarcityc.o m
+
+ Name of Operator: SolarCity Corporation
+
+ Operator'sa ddresas ndc ontacitn formation:
+
+ 6611 S Las Vegas Blvd, Ste 200
+
+ Las Vegas NV 891 19
+
+ Phone8:8 8.765.2489
+
+ Fax: 702-4994232
+
+ Email:
+
+ I ncentives.sREC@solarcity.com
+
+ Nameo f ContacPt ersonR: osalieM iletich,I ncentivesC oordinator
+
+ ContacPt ersonT itle, addresas ndc ontacitn formation:
+
+ 6611 S Las Vegas Blvd, Ste 200
+
+ Las Vegas NV 891 19
+
+ Phone:888'765.2489
+
+ Fax: 702499-4292
+
+ Email:I ncentivess. REC@solarcity.com
+
+ Location of Resource:
+
+ fl Witlin GeographiAc reao f PJMI nterconnectioLn.,L .C.
+
+ ! Other (speciff):
+
+ \j-)
+
+ 3.
+
+ 4.
+
+ ) .
+
+ Fuel Types (Check all that are Applicable; see Notes for Additional
+Definitions)
+
+ Tier I
+
+ tr SolarE nergy
+
+ Description of system - including type of application (e.g. photovoltaic or
+
+ therrnal), manufacturer/supplier, model name/number, system orientation (tilt
+and
+
+ azimuth) and type of meter (including model name/number):
+
+ Panel: Hanwha Q-Cells Q.PRO G4ISC 260
+
+ n
+
+ !n
+
+ nn
+
+ n
+
+ lnverterA: BB
+
+ PaneQl uantity1:1 ,9
+
+ Tilt: 35,35
+
+ PVI-4.2.OU TD-S-US.Z-A
+
+ Azimuth1:2 0,300
+
+ 7.
+
+ Wind
+
+ Qualiffing Biomass
+
+ Methanef rom the anaerobicd ecompositiono f organicm aterialsi n a landfill or
+
+ wastewater treatment plant
+
+ Geothermal
+
+ Ocean, including energy from waves, tides, currents & thermal differences
+
+ Fuel Cells producing electricity from qualifying biomass or methane as
+described
+
+ above
+
+ Tier II
+
+ n Hydroelectric Power other than Pumped Storage
+
+ n Waste-to-Energy
+
+ Rated Capacityl.S.2 Kw
+
+ Other (speciff):
+
+ If multiple fuel sources are utilized, attach the formula for computing the
+proportion of
+
+ ou@ut per fuel type by MWh (or kWh) generated.
+
+ Operational Start Date: 1 1
+
+ PEPCO, if appropriate)
+
+ /03 12015 (or dateo f approvedi ntercorurectionw ith
+
+ If co-firing with fossil fuels, co-fire start date: I /
+
+ If co-firing with fossil fuels, submit the allocation formula that indicates
+the
+
+ facility's annualp ercentageo f electricity productionf rom fossil fuels.
+
+ 9. Is the facility a behind-the-mete(rB TM) generator?
+
+ fl Yes (answer (a) below)
+
+ nNo
+
+ (a) Is netm eteringu sed?fl Yesn No
+
+ 10. As of the date of this Application, is the facility currently certified by
+another state as an
+
+ eligible generation resource to meet the renewable portfolio standards of that
+state?
+
+ !YesENo
+
+ Name of State:
+
+ State Certifi cation Agency :
+
+ State Certification Number:
+
+ Date Issued:
+
+ Required Documentation to be Attached:
+
+ E Current Certificate of Good Standing, if applicable, issued by the state in
+which the
+
+ business was formed
+
+ n One copy of U.S. Departuent of Energy, Energy Information Administration Form
+EIA-
+
+ 860, if rated capacity is &gt; 1.0 MW
+
+ E Certificate of Authorization to Conduct Business in the District of Columbia,
+if
+
+ applicable
+
+ tr Affidavit of General Compliance
+
+ n Affidavit of Environmental Compliance, if the rated capacity is greaterthan
+l0kW
+
+ n Documentation of authority to sign on behalf of Applicant
+
+ E Interconnectiona pprovall etter from PEPCO,i f applicable
+
+ ! Documentationt hat the energyo utput of the nonresidentiasl olar heating,s
+ssling, or
+
+ process heat properly systems producing or displacing greater than 10,000
+kilowatt hours
+
+ per year is determined by an on-site energy meter that meets performance
+standards
+
+ established by the International Organization of Legal Metrology (OML) and the
+solar
+
+ collectors used have a OG-100 certification from the Solar Rating and
+Certification
+
+ Corporation (SRCC), if applicable
+
+ n Documentation that the energy output of the nonresidential solar heating,
+cooling, or
+
+ process heat property systems producing or displacing 10,000, or less,
+kilowatt-hours per
+
+ year is determined by the SRCC OG-300 annual system performance rating protocol
+
+
+ applicable to the property or by an onsite energy meter that meets performance
+standards
+
+ establishedb y OIML and the solar collectorsu sedh avea OG-100 certification
+from
+
+ SRCC, if applicable
+
+ tr Documentation that the residential solar thermal system energy output is
+determined by
+
+ the SRCC OG-300 annual system performance rating protocol or by an onsite
+energy
+
+ meter that meets performance standards established by OIML and the solar
+collectors
+
+ used have a OG-l00 certification from SRCC, if applicable
+
+ AFFIDAVIT OF GENERAL COMPLIA}ICE
+
+ Stateo f py :
+
+ : ss.
+
+ County of Clark :
+
+ RosaliMe iletich , Affiant, beingd uly sworn/affirmeda ccordingto law, deposesa
+nds ayst hat:
+
+ He/shei s theAffiant (Officer/Affiant)o f SolarCityC orporation (Nameo f
+Applicant);
+
+ That he/she is authorized to and does make this affidavit for said Applicant.
+
+ That the Applicant herein certifies to the Commission under penalty of perjury
+that:
+
+ The Applicant acknowledgesth at any changei n compliances tatusc onstitutesa
+changeo f
+
+ infonnation, notice of which by Applicant is required to be filed with the
+Fublic Service
+
+ Commission immediately.
+
+ The Applicant further certifies that he/she has personally examined and is
+familiar with all
+
+ information containedi n the foregoinga pplication,i ncluding any attachmentsa
+nd appendices,
+
+ and further certifies that information to be true, correct, and complete.
+
+ ir J'THAftfBERS
+
+ $'sot*yPubh $dnof Novada
+
+ OourfiyoCf hrk
+
+ APPT. NO. lo-2035-1
+
+ MyApp.ffit Ey19,
+
+ Myc ommissioEnx pirer' 5 - l3f\t
+
+ Under penalty of perjury, the undersigned hereby affirms that he/she is
+authorized to and hereby
+
+ does make this Application for the Applicant and that based upon personal
+knowledge and
+
+ information the contents of this Application are true. (,,1' /Ll- '
+,,,-hR?osalieM iletichI,n centivesC oordinator
+
+ Signature PrintedN amea ndT itle
+
+ Notes:
+
+ Date
+
+ l) "Solar energy"m eansr adiante nergy,d irect, diffi.rse,o r reflected,r
+eceivedf rom the sun at
+
+ wavelengths suitable for conversion into thermal, chemical, or electrical
+energy, that is collected,
+
+ generatedo, r storedf or use at a later time.
+
+ 2) "Qualiffing biomass"m eansa solid, nonhazardousc,e llulosic wastem aterial
+that is
+
+ segregatedfr om other wastem aterials,a nd is derivedf rom any of the following
+forestr elated
+
+ resourcesw, ith the exceptiono f old growth timber, unsegregateds olid waste,o
+r post consumer
+
+ wastepaper:
+
+ (A) Mill residue;
+
+ (B) Precommercial soft wood thinning;
+
+ (C) Slash;
+
+ (D) Brush;
+
+ (E) Yard waste;
+
+ (F) A waste pallet, crate, or dunnage;
+
+ (G) Agricultural sourcesin cluding ffee crops,v ineyardm aterials,g rain,
+
+ legumes, sugar, and other crop by-products or residues; or
+
+ (H) Co-fired biomass.
+
+ 4
+
+ 11nm15 t@s//utility.fer shdek.oqn/hdF eMickd*M8581/pri nt
+
+ SolarCity H48581
+
+ Ticket Details
+
+ Status
+
+ Open
+
+ Agent
+
+ Natacha Caner
+
+ Assigned by
+
+ Tiffany
+
+ Priority
+
+ Low
+
+ State
+
+ DC
+
+ Source
+
+ Email
+
+ lrtility
+
+ TyPe
+
+ Group
+
+ Permissiotno Operate
+
+ Pending Date
+
+ Adjustments
+
+ by Gpc-south on Tue, 3 Nov at 12:31 PM via Email
+
+ lnterconnectioAn pplication- FinalAuthorizationto OperateF or: ROGERM ASOND,
+C,L evel1 ,
+
+ 55018655534
+
+ We suppoft renewable energy and paftner with our customers to ensure safe and
+reliable
+
+ interconnectiono f renewablee nergy into the electric Arid.
+
+ Your request is documented as follows:
+
+ Customer Name: ROGER MASON
+
+ Street Address: 3627 MINNESOTA AVE SE
+
+ City, State: WASHINGTON, DC
+
+ Account Number: 55Of8655534
+
+ Source: SPV
+
+ Generation Size: 4.2
+
+ Add-On: NO
+
+ Tariff: NET METER
+
+ Thanky ou for completingth e interconnectioanp plicationp rccessY. ours ystemi
+s nowa uthorizedfo r
+
+ operation.
+
+ ,r\ ,
+
+ t@s//tXIii ty.tcmosk.corn/h&euro;plh lrfi ckd44E5Ei/ prin [
+
+ flBflcl' hflpsJ/ntility.tehdesk.com/helpdesMick$/448581/print
+
+ Pepco DC has acceptedt he completedi nterconnectiona pplicationf or this
+system. The Net Energy
+
+ Meter for this system has been installed. Pepco DC has determined that the
+requirements for this
+
+ interconnectionr equest have been met. You are now authorizedt o interconnecta
+nd fully operatet his
+
+ renewablee nergys ystema s of 11lo3l2Ol5.
+
+ Attacheda re the completedi nterconnectiond ocumentsf or your records.T his
+finalizes the application
+
+ process. Thank you for the opportunity to facilitate your request.
+
+ Thank you for the opportunityt o assist you with your interconnectionr equest.I
+f you have any
+
+ questions or concerns, please call (202) 872-34t9. To ensure a response, please
+send all
+
+ correspondence to opc-south@oeoco.com (mailto:opc-south@peoco.com)
+
+ Zpqrco
+
+ Energyfo r a changingw orld.'"
+
+ Your Green Power Connection Team
+
+ A PHI Company
+
+ (2O2) 872-34L9 - Phone
+
+ (202) 872-3228 - Fax
+
+ Mai l ingA ddress:M ai lS top7 642,7019 th St . NW, WashingtonD, C2 0001
+
+ www. oe oco. com / GFC (http: / /www. pepco. com / GPC)
+
+ FrtQs//utIi t y.tesHesk.cqn/hd @Utickds/,148581/print
+
+ DocuSignE nvelopelD : 5944E9B1-00F7-469E-8489-21CE8FA9CFFS
+
+ DISTRICTO F COLUMBIA
+
+ CUSTOMER NET ENERGY METERING CONTRACT
+
+ (Facilitieso f 1000K ilowattso r less)
+
+ TheG reenP owerC onnectionrTMe amP epco
+
+ A PHI Company
+
+ (202)8 72-3419- Phone
+
+ (202) 872-3228 - FAX
+
+ qpc-$outh@peoco.com
+
+ (Send via
+
+ MailingA ddressM: ail
+
+ EmailF, AX,o r Mailt o
+
+ Stop7 642,701g thS t.
+
+ PepcoG, PCT eam)
+
+ NW,W ashingtonD,C 20001
+
+ DC NEM Contract FINALM ay2 014
+
+ DocuSign Envelope lD: 59zt4E9B1-00F7-469E-8489-21CEBFA9CFFS
+
+ PEPCO
+
+ CUSTOMENRE TE NERGYM ETERINGC ONTRACT
+
+ Qualifvinq facilitv of 1000 KW or less
+
+ customeNr ameR: ogerM ason
+
+ customePr epcoA cct.# '55018 6555 34
+
+ Customer AddreSS:
+
+ 3627M innesotaA ve SE,W ashingtonD, C 20019U nitedS tates
+
+ customeTr elephonNe umber'2 025810418
+
+ CustomeEr -MaiAl ddresss:m mason30l@ aol.com
+
+ Generator Manufactulsl; ABB
+
+ MOdel: PVl.4.2-oUrD-s-Us
+
+ Energyo r SourceT ype( e.9.p hotovoltaiwc,i nd,m icroturbinefu, elc ell,c
+ogeneration):
+
+ Photovoltaic
+
+ Nameplatrea tingA C andD C (KVV)D:C:5.2 AC:4.2
+
+ Location:W ashinqton . Districot f Columbia
+
+ This Contract,e nteredi nto as of the lsls ut2st2o15 is betweenth e Potomac
+
+ ElectricP owerC ompany(t heC ompanyP; epco)a, nd RogerM ason
+
+ (theC ustomerl)o cateda t
+
+ 3627 Minnesota Ave SE, Washington, DC 20019 United States
+
+ Districot f Columbiaf,o r the NetM eteringa ndi nterconnecteodp erationo f the
+
+ Customer'gse neratinegq uipmenatn dt he Company'esl ectrics ystemc ommencinogn
+
+ WHEREAS, Pepco is required to have this standard Net Energy Metering
+
+ Contracta pplicableto Customer-Generatowrhso meet the requirementsse t forth in
+
+
+ D.C.C odeS 34-1501(1 5)a nd1 518a nda pplicablreu lesa doptedb y theP ublicS
+ervice
+
+ Commissioonf theD istricot f Columbiaa;n d
+
+ WHEREASt,h e Customehr as representetdo the Companyth at it meetst hose
+
+ requirements.
+
+ DC NEM Contract FINALM ay2 014
+
+ DocuSign Envelope lD: 59tl4E9B1-00F7469E-8489-21CE8FA9CFFS
+
+ In consideratioonf the agreementsh ereinaftesr et forth,t he partiesa greea s
+
+ follows:
+
+ ARTICLEl: DEFINITIONS
+
+ Thef ollowingte rmss hallh avet hef ollowingm eaningsu ndert hisC ontract:
+
+ " " is the periodo f time (approximatetlhyi rty
+
+ (30)d ays)b etweenth e recordingo f meterede nergyd eliveredto and receivedfr
+omt he
+
+ Customer'Gs eneratioFn acility.
+
+ "9gp4i$" is the maximumo utput,e xpressedi n kilowatts,o f an electric
+
+ generatour nders pecificc onditionsd esignatedb y the manufacturear,s
+indicatedo n a
+
+ nameplatpeh ysicallayt tachedto theg enerator.
+
+ ..@.n,,'isthePub|icServiceCommissionoftheDistrictofCo|umbia'
+
+ " ' meansa personi,n cludinga n aggregator,
+
+ broker,o r marketerw, ho generatese lectricitys;e llse lectricityo; r
+purchasesb, rokers,
+
+ aranges or marketse lectricityfo r sale for retailc ustomersT: he tenn
+excludest he
+
+ following:( A) Buildingo wners,l essees,o r managersw ho managet he intemal
+
+ distributiosny stems ervings uchb uildinga ndw ho supplye lectricitsyo lelyt o
+occupants
+
+ of the buildingfo r use by the occupants(;B ) (1) Any personw ho purchasese
+lectricity
+
+ for its own use or for the use of its subsidiarieos r affiliateso; r (2) Any
+apartment
+
+ buildingo r officeb uildingm anagewr hoa ggregateesl ectrics ervicere
+quiremenftosr his
+
+ or herb uibingo r buildingso,r whod oesn ot:( a)T aket itlet o the
+electricity(b; ) Market
+
+ electrics ervicesto the individually-metertedn antso f hiso r her buildingo; r
+(c) Engage
+
+ in the resale of electric service to others; (C) Property owners who supply
+small
+
+ amountso f power,a t cost,a s accommodatioton lessorso r licenseeso f the
+property;
+
+ and (D) A consolidator.
+
+ ..@'meansaresidentia|orcommercia|customerthatowns
+
+ (or leaseso r contractsa) nd operatesa n electricg eneratingfa cilityt hat: (a)
+has a
+
+ capacityo f not moret han 1000k ilowatts(;b ) usesr enewablere sourcesc,o
+generation,
+
+ fuel cells, or microturbines(;c ) is located on the custome/s premises;( d) is
+
+ interconnectewdi th the ElectricC ompany'tsr ansmissioann d distributiofna
+cilitiesa; nd
+
+ (e) is intended primarily to offset all or part of the customer's own
+electricity
+
+ requirements.
+
+ '''.isa||oftheCustome/sp|antandequipment,
+
+ includingt he Custome/sg enerator,in verter,s toraged evices,a nd
+lnterconnection
+
+ Equipmenlto, catedo n the Custome/ss ideo f the Pointo f Delivery.
+
+ " 'is alle quipmenatn df acilitieosw ned
+
+ by the Customear ndl ocatedo n the Custome/ss ideo f the Pointo f Deliveryin
+stalledto
+
+ interconnecatn d delivere nergyt o the Company'sy stem,i ncludingb ut not
+limitedt o
+
+ connections,w itchingt,r ansformatiopnr,o tectivree layinga nds afetye
+quipment.
+
+ DC NEM Contract FINALM ay2 014
+
+ DocuSignE nvelopelD : 59,l4E9B-l 00F7469E-8489-21CE8FA9CFFS
+
+ .'''meanSacustomer-generatorWhoSenetenergy
+
+ meterings ystemf or renewablere sourcesc, ogenerationfu, el cells,a nd
+microturbines
+
+ meetsa ll applicablsea fetya ndp erformancset andards.
+
+ "Full RetailD istributionR ate"m eanst he per kilowatt-houdri stributiocnh
+arges
+
+ applicablteo then ete nergyb illingc ustomedru ringth eb illingp eriod.
+
+ " ' meanst he per kilowatt-houtrr ansmission
+
+ chargesa pplicablteo then ete nergyb illingc ustomedru ringth eb illingp eriod.
+
+
+ "Generationv alue" meanst he producot f the applicableS OSk ilowatt-hourar te
+
+ timest hen umbeor f kilowatt-houcrosn sumeadn d/ors uppliedd,u ringth et imep
+eriod(s)
+
+ associatewd iths uchu sagea nd/ors upply.
+
+ ''@',meansthedifferencebetweentheki|owatt-hours
+
+ consumedb y a customer-generaatonrd t he kilowatt-hourgse neratedb y the
+customergenerator'fsa
+
+ cilityo vera ny time periodd etermineda s if measuredb y a singlem eter
+
+ capableo f registerintgh ef lowo f electricitiyn twod irections.
+
+ '.@'.meanSabi||ingandmeteringpracticeunderwhicha
+
+ customer-generaitso br illedo n the basiso f nete nergyo vert he billingp
+eriod.
+
+ .'@'.isthe|ocationwheretheCustomer's|nterconnection
+
+ Equipmenatn dt heC ompanys'sy stema rec onnected.
+
+ "Premises" is the Custome/s building or part of a building with its
+
+ appurtenance(sa s grounds)w here the Customerta kes servicef rom the Company
+
+ undera uniquea ccounnt umber.
+
+ '','meanSthosepractices,methodsandequipment,
+
+ as changedfr omt imet o time,t hata re commonlyu sedi n prudenet lectricael
+ngineering
+
+ ando perationtso operatee lectrice quipmenlta wfullya ndw iths afetya nd
+dependability
+
+ and that are in accordancwe ith the NationaEl lectricaCl ode,t he Instituteo f
+Electrical
+
+ and ElectronicE ngineersC ode or any other applicableF ederal,S tate and Local
+
+ govemmenct odes,a nd the Company'sc onstructiosnt andardsa nd the Commission's
+
+ lnterconnectioRnu lesu nderC hapter4 0 of Title 15 of the DCMR,t he "Districot
+f
+
+ ColumbiSa malGl eneratoIrn terconnectiRonu les(" DCSGIR").
+
+ ..@'meansoneofthefo||owingsourcesofenergy:so|ar,
+
+ wind,t idal,g eothermabl,io massh,y droelectrfiacc ilitieosr digestegr as.
+
+ "StandardO ffer ServiceP rovider"m eansa provideor f standardo ffers ervice
+
+ chosenp ursuantto Chapte2r 9 of theC ommissionr'usl es.
+
+ DC NEM Contract 4 FINALM ay2 014
+
+ DocuSignE nvelopelD : 59,14E981-00F7-469E-8489-21CEBFA9CFFS
+
+ ARTICLEll : QUALIFICATIONS
+
+ It is the purpose of this Contract to set forth rates and conditions for
+
+ interconnectepda, ralleol perationo f Customeor wneda ndo peratede lectricg
+enerating
+
+ facilities(C ustomeGr eneratioFna cilityu) singR enewablRe esourcesc,o
+generatiofnu,e l
+
+ cells or microturbinesT.h is Contracti s not availablef or facilitiesh aving a
+total
+
+ generatingc apacityo f more than 1000 kW at a singleP remises. A Customer's
+
+ GenerationF acilitym ustb e locatedo n the Customer'Ps remisesa nd mustb e
+intended
+
+ primarilyto offseta ll or parto f the Custome/so wn electricitrye quirementsS.
+erviceis
+
+ providedu ndert hisC ontracst ubjectto thep rovisionlsis tedb elow.
+
+ Fort he interconnectioonf a CustomeGr eneratioFn acilityt,h e Companya ndt he
+
+ Customers hall follow the interconnectiopnr oceduress et forth in the Districto
+f
+
+ ColumbiaS mallG eneratoIrn terconnectiRonu lesC, hapte4r 0 of Title1 5o f theD
+CMR,
+
+ the "Districot f ColumbiaS mallG eneratoIrn terconnectioRnu les"p riort o
+enteringin to
+
+ thisN etE nergyM eteringC ontract.
+
+ ARTICLEll l: TERM
+
+ The termo f this Contracst hallc ommenceo n and shalle xtend
+
+ initiallyfo r one yeara nd thereafteor n a monthlyb asis,u nlesst erminatedp
+ursuantto
+
+ the terms herein.
+
+ ARTICLEIV : NETE NERGYM ETERING
+
+ Servicep rovidedu ndert his Contracits billedu ndert he Customer'nso rmally
+
+ applicablDe istricot f GolumbiSa chedule"sR ",u AE",R TM"," GSN D", nGSL V',
+"GS
+
+ 3A", "GT LV', 'GT 3A", and 'GT 38' for Customer-Generatowrsh o meet the
+
+ requiremenstse tf orthi n D.C.C odeS 34-1501(1 5)a nd1 518t;h eC ompany'Sst
+andard
+
+ Net MeteringC ontracta; nd the Commission'Ns et EnergyM eteringR ulesa doptedi
+n
+
+ OrderN o.1 5837i,s suedJ une1 1,2010.
+
+ NetE nergyB illinga pplieso nlyt o kilowatt-houusr agec hargesN. ete nergyb
+illing
+
+ customeras re responsiblfeo r all otherc hargesa pplicableto the custome/sr
+atec lass
+
+ and recoveredth roughfi xeda mountso r overu nitso thert han kilowatt-hourisn,c
+luding
+
+ customear nd/ord emandc hargesa s applicable.
+
+ Thea pplicatioonf thisR idert o Schedule"sR TM", GTL V"," GT-3A"a, nd" GT-38"
+
+ shallb e on the basiso f energyin flowo r outflowd uringe achT imeo f Usep
+ricingp eriod
+
+ rathert hano n thet otalm onthlye nergyr egistration.
+
+ Billingf or NetE nergyM eteringG ustomersw ith GompetitiveS uppliers
+
+ MonthlvG eneratioann dT ransmissioSne rvice- Creditso r charges hallb e
+
+ calculatebdy the Suppliear t ther ates pecifiedin thea greemenbt etweenth e
+Customer-
+
+ Generatoarn dt he CompetitivEel ectricitSy upplier.
+
+ DC NEM Contract FINALM ay2 014
+
+ DocuSignE nvelopelD : 5944E981-00F7469E-8489-21CE8FA9CFFS
+
+ MonthlvD istributioSne rviceC harqes- lf the meterh asr egisterende t inflowo f
+
+
+ electricitfyo r theb illingm ontht,h eC ustomer-Generastohra llb e billedf or
+the neti nflow
+
+ at thea pplicablfeu ll retailr atef or DistributioSne rvices.
+
+ lf the meterh asr egisterende to utflowo f electricitfyo r the billingm ontha,
+ndt he
+
+ Customer'gse neratinfga cilityh asa capacityo f 100k ilowattso r less,a dollarv
+alue
+
+ credits hallb e calculatebdy applyingth ef ull retailr atef or DistributioSne
+rvicee xcluding
+
+ surchargetso the neto utflowT. hisc redits hallb e appliedto the nextm onthlyb
+illa ndt o
+
+ subsequenmt onthlyb ills,if necessaryu,n tilfullye xhausted.
+
+ lf the meterh asr egisteredn et outflowo f electricitfyo r the billingm onth,a
+ndt he
+
+ Customer-Generatogre'sn eratinfga cilityis greaterth an1 00k ilowattsin size,t
+heres hall
+
+ be no creditf or DistributioSne rvicefo r the neto utflow.
+
+ Billingf or Net EnergyM eteringG ustomersw ith StandardO fferS ervice( SOS)
+
+ MonthlvG eneratioSn ervice- lf the meterh as registeredn et inflowo f
+electricity
+
+ for the billingm onth,t he Customer-Generasthoar llb e billedf or the net
+inflowa t the
+
+ applicableS OSr atef or GeneratioSn ervice.
+
+ lf the meterh as registeredn et outflowo f electricitfyo r the billingm onth,a
+dollar
+
+ valuec redits hallb e calculatedb y applyingth e full SOSr atef or GeneratioSn
+eMcet o
+
+ the net outflowT. hisc redits hallb e appliedt o the nextm onthlyb ill and to
+subsequent
+
+ monthlyb ills,if necessaryu,n tilf ullye xhausted.
+
+ MonthlvT ransmissiona nd DistributionS erviceC haroes- lf the meter has
+
+ registeredn et inflowo f electricitfyo r the billingm onth,t he CustomeGr
+eneratosrh allb e
+
+ billedf or the net inflowa t the applicablfeu ll retailr atesf or
+Transmissioann d Distribution
+
+ Services.
+
+ lf the meterh as registeredn et outflowo f electricitfyo r the billingm onth,a
+ndt he
+
+ Customer'sg eneratingfa cilityh as a capacityo f 100 kilowattso r less,a
+dollarv alue
+
+ credits hallb e calculatebdy applyingth ef ull retailr atef or Transmissioann d
+Distribution
+
+ Servicee xcludings urchargetso the neto utflowT. hisc redits hallb e appliedt o
+the next
+
+ monthlyb illa ndt o subsequenmt onthlyb ills,if necessaryu,n tilfullye
+xhausted.
+
+ lf the meterh as registeredn et outflowo f electricitfyo r the billingm onth,a
+ndt he
+
+ Customer-Generatogre'sn eratinfga cilityis greatetrh an1 00k ilowattsin size,t
+hdres hall
+
+ be no creditf or Transmissioann dD istributioSne rvicefo r the neto utflow.
+
+ ARTICLEV : INTERCONNECTEQDU IPMENT
+
+ The Customeris responsiblefo r all costsa ssociatedw ith the installationa nd
+
+ connectiono f its generatinge quipment.T he Customesr hallp rovidea nd
+maintainin
+
+ goodw orkingo rdera utomaticp rotectivee quipmenitn compliancwe ith the
+Instituteo f
+
+ Efectricaaln d ElectronicEs ngineersI,n c.'sI EEES tandard1 il7 ("IEEE1 547")a
+nd
+
+ Sections4 0024008o f the DCSGIRT. he Companys hallc onductth e appropriatLee
+vel
+
+ F# EIEIEI
+
+ DC NEM Contract FINALM ay2 014
+
+ DocuSignE nvelopelD : 5944E981-00F7.469E-8489-2lCEgFAgCFFs
+
+ of Reviewo f the automaticp rotectivee quipmenitn accordancew ith Sections4
+004-
+
+ 4007o f the DCSGIRto determinew hethers uche quipmenits fit for use with
+Pepco's
+
+ system.
+
+ ARTICLEV l: INTERCONNECTOEDPE RATION
+
+ Interconnectiownit ht he Company'sy stemr equiresth e installatioonf protective
+
+
+ equipmentA. Customer'Gs eneratinFga cilitym ustb e in compliancwe ith IEEE1 547
+
+
+ and the DCSGIRt o receiveN et EnergyM eterings erviceu ndert his Contract. The
+
+ Customer'esq uipmenmt ustb e installeadn dc onfigureidn accordancwei thI
+EEE'1547
+
+ andS ections4 0024008o f the DCSGIRto ensureth atp aralleol perationc easesp
+ert he
+
+ IEEE1 547a ndD CSGIRre quiremendtsu ringC ompanys ystemo utagesa ffectingth e
+
+ Customer'slo cation.T he Customer'sG eneratingF acilitym ust meet the
+applicable
+
+ requirementosf the NationaEl lectricaCl ode and the applicablere quirementosf
+the
+
+ applicables tandardsis suedb y the Instituteo f Electricaal nd ElectronicE
+ngineersa nd
+
+ the UnderwriterLsa boratories.
+
+ lf the Customerf ails to complyw ith any requiremenot f this Articleo f the
+
+ Contractt,h e Companym ay terminateth e Customer'ss ervicef rom the Company's
+
+ electrics ystem.I n thise vent,t he Customewr illb e providedw itha n
+opportunittyo enter
+
+ into a new net meteringc ontractb y (1) providingt he Companyw ith a notarized
+
+ statemenetx plainintgh ec auseo f thev iolatioann de videncteh att hec auseo f
+thei nitial
+
+ violationh as beenr emediedin sucha mannera s to preventit s recunencei,n
+cluding
+
+ copieso f all inspectionpse rformedo n the Gustomer'Gs enerationF acility(;2 )
+fullyr equalifyingw
+
+ itha ll provisionos f the Commission'Rs ulesa nd the net meteringc ontract;
+
+ and (3) futfillinga ny reasonablree quiremenetss tablishebdy the Companyto
+ensure
+
+ thatt he Company'sy stemis adequatelpyr otectedfr omf uturev iolationo f theA
+rticle.lf
+
+ the Customer and Pepco are unable to resolve any disputes as to whether the
+
+ Customehr as met eacho f the requirementso enteri ntoa newn et meteringc
+ontract,
+
+ the Customemr ayf ilea n informacl omplainwt itht he Gommission.
+
+ ARTICLEV ll: METERING
+
+ The Companys hallf umish,i nstall,m aintaina nd own all meteringe quipment
+
+ neededf or measuremenotf the energys upplieda nd received.T he Companyw ill
+
+ provideo ne or morem etersc apableo f "Net EnergyM etering"i,. e. a metert hat
+can
+
+ registetrh e flowo f energyb othf romt he Custometro the Company(o ut-flowa)
+ndf rom
+
+ theC ompanyto the Custome(ri n-flow),
+
+ ARTICLEV lll:A CCESS
+
+ Pleases eeA ccessu ndert he Level1 InterconnectioRne quesAt pplicationF orm
+
+ and Agreemenot r Right of Access under the Level 24 StandardA greemenfto r
+
+ Interconnectiofn S mallG eneratoFr acilitieosf the DCSGIRw, hicha re
+applicablteo
+
+ yourg eneratinfga cilityb asedo n its levelo f review.
+
+ DC NEM Contract FINALM ay2 014
+
+ DocuSignE nvelopel D: 5944E981- 00F7469E-8489-21C EBFA9CFFS
+
+ ARTICLElX : GONTINUIWO FS ERVICE
+
+ Pleases ee Disconnectiounn dert he Level1 InterconnectioRne quesAt pplication
+
+ Form and Agreemento r TemporaryD isconnectiounn der the Level 24 Standard
+
+ Agreemenfot r Interconnectioofn S mallG eneratoFr acilitieosf the DCSGIRw,
+hicha re
+
+ applicablteo yourg eneratinfga cilityb asedo n its levelo f review.
+
+ ARTICLEX : GOVERNMENTALU THORIZATIONS
+
+ TheC ustomesrh allo btaina ll governmentaaul thorizationasn dp ermitsre quired
+
+ for operationo f the Customer'Gs enerationF acilitya nd shall maintaina ll
+required
+
+ governmentaal uthorizationasn d permitsr equiredf or the Customer'sG eneration
+
+ Facility during the term hereof. The Customer shall provide copies of any such
+
+ authorizationpse, rmitsa nd licensetso the Companyin compliancwei thC hapte4r 0
+of
+
+ Title1 5o f theD CMRt,h eD CSGIR.
+
+ ARTICLEX l: INDEMNIFICATION
+
+ X1.1. Level I lndemnification
+
+ The partiess hall at all times indemnifyd, efend,a nd save the other party
+
+ harmlessfr om any and all damagesl,o sses,c laims,i ncludingc laimsa nd actions
+
+
+ relatingt o injuryt o or death of any persono r damaget o propertyd, emand,s
+uits,
+
+ recoveriesc,o stsa nd expensesc, ourtc osts,a ttorneyfe es,a nd all othero
+bligationbs y
+
+ or to thirdp artiesa, risingo ut of or resultingfr omt he otherp arty'sa ctiono
+r inactionso f
+
+ itso bligationusn derth isa greemenotn behalof f thei ndemnifyinpga rtye,
+xcepitn cases
+
+ of grossn egligencoer intentionawl rongdoinbgy the indemnifiePda rty.
+
+ X1.2. Level2 through 4 ("Level 2-{") Indemnity
+
+ xa.2.1Thipsr ovisionp rotectse achP artyf roml iabilityin cunedto thirdp
+artiesa s a
+
+ resulto f carryingo ut the provisionso f this AgreementL. iabilityu ndert his
+provisionis
+
+ exemptf rom the generall imitationso n liabilityf ound in Article6 .2 ol the
+Level2 -4
+
+ StandardA greemenfto r Interconnectioonf S mallG eneratoFr acilitiefso r the
+DCSGIR.
+
+ x,.2.2T he Partiess halla t all timesi ndemnifyd,e fenda, nd holdt he otherP
+arty
+
+ harmlessfr om,a ny and all damagesl,o sses,c laims,i ncludingc laimsa nd
+actions
+
+ relatingt o injuryt o or death of any persono r damaget o propertyd, emand,s
+uits,
+
+ recoveriesc,o stsa nde xpensesc, ourtc osts,a ttorneyfe es,a nd all other
+obligationbsy
+
+ or to thirdp artiesa, risingo ut of or resultingfr om the otherP arty'sa ctiono
+r failuret o
+
+ meeti ts obligationusn dert hisA greemenot n behalfo f the indemnifyinPga rty,e
+xceptin
+
+ caseso f grossn egligencoer intentionawl rongdoinbgy the indemnifiePda rg.
+
+ x1.2.3P romptlya fterr eceipbt y an indemnifiePd artyo f any claimo r noticeo f
+the
+
+ commencemeonft anya ctiono r administrativoer legalp roceedinogr
+investigatioans to
+
+ whicht he indemnityp rovidedfo r in this Articlem ay apply,t he indemnifiedP
+artys hall
+
+ notifyt he indemnifyinPga rtyo f suchf act.A nyf ailureo f or delayi n suchn
+otificatiosnh all
+
+ DC NEM Contract FINALM ay2 014
+
+ DocuSign Envelope lD: 5944E981-00F7'469E-8489-21CE8FA9CFFS
+
+ not affecta Pafi's indemnificatioonb ligationu nlesss uchf ailureo r delayi s
+materially
+
+ prejudiciatol t hei ndemnifyinPga rty.
+
+ x..2.4lfa n indemnifiePda rtyi s entitledto indemnificatiuond ert hisA rticlea
+s a
+
+ resulto f a claim by a third party,a nd the indemnityinPga rtyf ails, after
+noticea nd
+
+ reasonableo pportunittyo proceedu ndert his Article,t o assumet he defenseo f
+such
+
+ claim,s uchi ndemnifiedP artym ay at the expenseo f the indemnifyinPga rtyc
+ontest,
+
+ settleo r consentto thee ntryo f anyj udgmenwt ithr espectto , or payi nf ull,s
+uchc laim.
+
+ x..2.5lfa n indemnifyinPga O is obligatetdo indemnifayn dh olda nyi ndemnified
+
+ Partyh armlessu ndert hisA rticlet,h e amounot wingt o the indemnifiepde rsons
+hallb e
+
+ the amounto f such indemnifiePda rty'sa ctuall oss,n et of any insuranceo r
+other
+
+ recovery.
+
+ ARTICLEX ll: ASSIGNMENT
+
+ This Contracts hall not be assigned,p ledgedo r transfenedb y either party
+
+ withoutt he writtenc onsento f the non-assigninpga rty,w hich consents hall not
+be
+
+ unreasonablwyi thheld. All assigneesp, ledgeeso r transferees hall assumea ll
+
+ obligationosf the partya ssigningth e Contract.l f this Contracits assignedw
+ithout he
+
+ writtenc onsento f the non-assigninpga rty,t he non-assigninpga rtym ayt
+erminateth e
+
+ Contract.
+
+ ARTICLEX lll: BREACHT; ERMINATION
+
+ Exceptf or terminationo f this Contractp ursuantt o the secondp aragrapho f
+
+ ArticleV l, if the Customear t any time failst o meeta ny of the otherr
+equirementsse t
+
+ forthi n this ContractP, epcom ay immediateltye rminateth e Contract.T he
+Company
+
+ shalln ot be liablet o the Customefro r damageso f any kindr esultingfr oma
+termination
+
+ pursuantto thisp aragraph.
+
+ ARTICLEX IV: WAIVER
+
+ Anyw aivera t anyt imeb y eitherp artyo f its rightsw ithr espectto a defaultu
+nder
+
+ this Contract,o r with respectt o any other mattersa risingi n connectionw ith
+this
+
+ Contracts, halln ot be deemeda waiverw ithr especto anys ubsequendte faulto r
+other
+
+ matter.
+
+ ARTICLEX V: MODIFICATION
+
+ No modificatiotno thisC ontracst hallb e validu nlessi t is in writinga nds
+ignedb y
+
+ bothp artiesh ereto.
+
+ ARTICLEX /l: APPLICABLEL AWS
+
+ ThisC ontracits madei n accordancwe itht he lawso f the Districot f Columbiaa
+nd
+
+ shall be construeda nd interpretedin accordancew ith the laws of the Districto
+f
+
+ DC NEM Contract FINALM ay2 014
+
+ DocuSign Envelope lD: 5944E9B1-00F7-469E-8489-21CE8FA9CFFS
+
+ ColumbiaT. hee ffectiveN etE nergyM eteringru leso f the Commissioanr ea
+pplicablteo
+
+ this Contract.
+
+ ARTICLEX Vll: INTEGRATION
+
+ The termsa nd provisioncso ntainedin this Contracbt etweenth e Gustomear nd
+
+ the Companyc onstitutteh ee ntireC ontracbt etweenth e Customear ndt he
+Companyfo r
+
+ NetE nergyM eterinagn ds halls upersedael lp revioucso mmunicationresp,
+resentations,
+
+ or agreementse, itherv erbal or written,b etweent he Customera nd the Company
+
+ regardingN etE nergyM etering
+
+ ARTICLEX Vlll: INTERPRETATION
+
+ lf anyi nconsistenceyx istsb etweena nyp rovisionin ArticlesI throughX Vll of
+this
+
+ ContractP, epcom ayi n itss oled iscretionch oosew hichp rovisions hallc
+ontrol.
+
+ ARTICLEX IX: SEVERABILIW
+
+ The invalidityo f any provisiono f this Contracts hall not affectt he validi$
+or
+
+ enforceabiliotyf anyo therp rovisionse tf orthh erein.
+
+ lN WITNESSW HEREOFth, e partiesh eretoh avec ausedth isi nstrumentot be
+
+ executeda, ll as of thed aya ndy earf irsta bovew ritten.
+
+ Potomac Electric Power Company
+
+ By:
+
+ Title:
+
+ Datc:
+
+ Customer
+
+ 'tl
+
+ Homeowner
+
+ 4/29/2015
+
+ Net
+
+ By: frtA'Il';
+
+ Title:
+
+ Date:
+
+ DC NEM Contract 10 FINALM ay2 014
+
+ DocuSign Envelope lD: 59,14E981-00F7469E-8489-21CEBFA9CFFS
+
+ I
+
+ DISTRICTO F COLUMBIAL EVEL 1 INTERCONNECTION
+
+ APPLICATION& AGREEMENT
+
+ With Terms and Conditions for Interconnection
+
+ (Lab Ccrtified Invertcr-Bascd Small Gencrator Facilities Lrss Than or Equalto
+10kW)
+
+ The GreenP owerC onnectionrTMe am
+
+ Pepco
+
+ A PHI Company
+
+ (202) 872-3419 - Phone
+
+ (292) 872-3228 - FAX
+
+ opc-south(Opepco.com
+
+ (Senda pplicationvsi a Email,F AX,o r Mailt o Pepco,A ttentionG PCT eam)
+
+ MailingA ddressM: ailS top7 642,701g thS t. NW,W ashingtonD, C 20001
+
+ DC Level 1 InterconnectioAn pplication& Aqrement
+
+ Page 1 FINAL May 2014
+
+ DocuSign Envelope lD: 5944E981-00F7-469E-848$21CEBFA9CFFS
+
+ A Pl.{lCompong
+
+ Level I
+
+ PART | - District of Columbia
+
+ Interconnection Request Application Form and Agreement
+
+ An applicationfe e of $100 payablet o the EDC is requiredb eforet he
+applicationc an be processed.
+
+ Pleasev erifyt hat the fee is includedw ith the application:A pplicationfe e
+includedo
+
+ lnterconnection Customer Contact lnformation
+
+ customeNr ame:w ashington
+
+ MailingA ddress3: 627M innesotAa veS E
+
+ City:Washington State:DC Zip Code:20019
+
+ Telephone(D aytime)2: 025810418 (Mobile):
+
+ FacsimileN umber: E-MailA ddress: smmason3lO@aol.com
+
+ Alternative Contact Information (if different from Customer Gontact
+Informationl
+
+ Name:
+
+ Address:
+
+ State: Zip Code:
+
+ Telephone(D aytime): (Mobile):
+
+ FacsimileN umber: E-MailAddress:
+
+ Equioment Gontractor
+
+ Name:S olarCitCy orp
+
+ Mailing
+
+ City:_
+
+ MailingA ddress:6671L asV egasB lvdS outh
+
+ CityL: asV egas State:NV ZipC ode:8911 9
+
+ Telephon(eD aytime7):0 2-703-89(5M1o bile):
+
+ FacsimileN umber: E-MailAddressin: terconnectiodnc.@ solarcity.com
+
+ ElectricalC ontractor( if Differenftr om EquipmenCt ontractor):
+
+ Name:
+
+ Maili
+
+ City:
+
+ ng Address:
+
+ State: Zip Code:
+
+ Telephon(eD aytime): (Mobile):
+
+ FacsimilNe umber: E-MailAddress:
+
+ LicenseN umber: ActiveL icense? Yes No
+
+ DC Level 1 lnterconnectionA polication& Aqreement
+
+ Page2 FINAL May 2014
+
+ DocuSignE nvelopelD : 5944E9B1-00F7469E-8489-21CEBFA9CFFS
+
+ Facilitv Information (buildinq where the small qenerator facilitv is located)
+
+ ElectricD istributioCn ompany( EDC)S ervingF acilityS ite: 3627M innesotAa veS
+E
+
+ ElectricS upplier( if differenftr om EDC)' PEPco
+
+ AccountN umbero f Facilitys ite( existingE DCc ustomers)5' 501 8655 534
+
+ Facilitv Address (buildinq where the small qenerator facilitv is located)
+
+ Address:3627M innesotaA ve SE
+
+ City:Washington state:DC zip code:20019
+
+ Small Generator Facilitv Information
+
+ tnverteMr anufacturer.ABB ModetP: V!4.2-OUTD-S-US
+
+ NameplateR ating:[ (kW)- (kVA):19(ACV olts)
+
+ System Design Capacity:QGW)_(kVA)
+
+ PrimeM over:P hotovoltainc ReciprocatinEgn gineI FuelC elln Turbinen Other
+
+ EnergyS ource:S olarI Windo HydroI Dieseln NaturaGl as FuelO il a Other
+
+ ls the inverterla b certified?Y es El
+
+ (lf yes, attach manufacturer'csu t sheet showingl istinga nd label
+informationfr om the
+
+ appropriateli stinga uthority,e .g. UL 1741 listing.l f no, facilityi s not
+eligiblef or Level 1
+
+ Application.)
+
+ I Net Meter (Small generator facility will export power pursuant to District of
+Columbia
+
+ CustomeNr et EnergyM eteringC ontract)
+
+ EstimatedC ommissioninDga te:7119t2015
+
+ Insurance Disclosure
+
+ The attachedte rmsa nd conditionsc ontainp rovisionsre latedt o liabilitya, nd
+indemnification
+
+ and shouldb e carefullyc onsideredb y the interconnectiocnu stomer.T he
+interconnection
+
+ customeris not requiredto obtaing enerall iabilityin surancec overagea s a
+preconditiofno r
+
+ interconnectioanp proval;h owever,t he interconnectiocnu stomeri s advisedt o
+consider
+
+ obtaininga ppropriatein surancec overaget o cover the interconnectionc
+ustomer'sp otential
+
+ liabilityu ndert hisa greement.
+
+ DC Level 1 lnterconnectionA oDlication& Aqreement
+
+ Page 3 FINAL May 2014
+
+ DocuSign Envelope lD: 59tt4E9B1-00F7-469E-8489-21CEBFA9CFFS
+
+ Gustomer Siqnature
+
+ I herebyc ertifyt hat: 1) I have read and understandth e terms and conditionsw
+hich are
+
+ attachedh eretob y referencea nd are a parto f this agreement2; ) | herebya
+greet o comply
+
+ with the attachedt erms and conditionsa; nd 3) to the best of my knowledgea, ll
+of the
+
+ informationp rovidedin thisa pplicationre quesfto rm is completea nd true.
+
+ InterconnectionC ustomer
+
+ PrintedN ame:
+
+ Signature:
+
+ Title:
+
+ Date: 4/29/20L5
+
+ An applicationfe e of $100 payablet o the EDC is requiredb eforet he
+applicationc an be
+
+ processedP. leasev erifyt hatt he fee is includedw itht he application:
+
+ Applicationfe e includedI
+
+ Conditional Aqreement to Interconnect Small Genorator Facilitv
+
+ Receipto f the applicationfe e is acknowledgeadn d, by its signatureb elow,t he
+EDC has
+
+ determinedth e interconnectiorne questi s complete.I nterconnectioonf the
+smallg enerator
+
+ facilityi s conditionallayp provedc ontingenut pont he attachedt ermsa nd
+conditionso f this
+
+ agreementth e retumo f the attachedC ertificateo f Completiond uly executedv
+erificationo f
+
+ electricailn spectiona nd successfuwl itnesst esto r EDCw aivert hereof.
+
+ EDC Signature:
+
+ Date:
+
+ Printed Name:
+
+ Title:
+
+ DC Level 1 lnterconnection Aoolication & Aqreement
+
+ Page 4 FINAL May 2014
+
+ DocuSignE nvelopelD : 5944E981-00F7469E-8489-21CEBFA9CFFS frffi Level 1 PART ll
+- Small Generator Facility Interconnection
+
+ Certificate of Gompletion Forml
+
+ Interconn ection CustomerG ontactI nformation
+
+ Name: Roger Mason
+
+ MailingA ddres.s3627M innesotAa veS E
+
+ City: Washington State: DC Zip Code:20019
+
+ TelePhon(eD aYtime2)0; 258014 1I (Mobile):
+
+ E-MaiAl ddress:s mmason3lO@aol.com FaxN umber:
+
+ Equ ipment Contractor Name
+
+ Name: SolarCity Corporation
+
+ Mailing4 661sss;667L1a sV egasB lvdS outh
+
+ City:LasV egas StateN: V Zip Code:89119
+
+ Telephon(eD aytime)7:0 2 637-3608 (Mobile):
+
+ E-MaiAl ddress:i nterconnection.dc@solarcity.comFacsimilNe umber:
+
+ Final Electric lnspection and Aoplicant Siqnature
+
+ The Small Generator Facility is complete and has been approved by the local
+electric
+
+ inspectorh avingj urisdictionA. signedc opy of the electrici nspecto/sf orm
+indicatingfi nal
+
+ approval is attached. The lnterconnectionC ustomer acknowledgest hat the Small
+
+ GeneratorF acilityi s not ready for operationu ntil receipto f the final
+acceptanceo f an
+
+ approvabl y the ElectricD istributioCn ompany( "EDC')a s providedb elow.
+
+ PrintedN ame:
+
+ Signature:
+
+ Date:
+
+ Checki f copyo f signede lectricin spectionfo rmi s attachedI
+
+ Acceotancea nd FinalAoorovalo f InterconnectionI nstallation( for EDCu se onlvl
+
+
+ The interconnectioins tallationis approveda nd the SmallG eneratoFr acilityis
+approvedfo r
+
+ operationu nder the terms and conditionso f the Districto f ColumbiaS mall
+Generator
+
+ InterconnectioRnu lesa nd a dulys igneda nd executedln terconnectioAng reement.
+
+
+ EDC waives Witness Test? (lnitial) Yes (cAF No (_)
+
+ lf not waived, date of est:_ Passed: (lnitial) (_ )
+
+ EDC Signature:
+
+ PrintedN ame:
+
+ Date: 1110312015
+
+ ConstanceC hristopher Tile: AccountCoordinator
+
+ t The interconnectiosnh alln ot be deemedc ompletea nd readyf or operationu
+ntil the interconnectiocnu stomer
+
+ has completedt his form, securedt he necessarya ttachmentsa nd signatures,r
+eturned a copy to the EDCa t the
+
+ EDC'sd esignateda ddressa, nd receiveda final signeda pprovalf orm from the
+EDC.
+
+ DC Level 1 InterconnectioAn polication& Aqreement
+
+ Page 5 FINAL May 2014
+
+ DocuSignE nvelopel D: 5944E981- 00F7469E-8489-21CE8FA9CFF5
+
+ Terms and Conditions for Interconnection
+
+ 1) Constructiono f the Small GeneratorF acility.T he interconnectiocnu stomerm
+ay
+
+ proceedto construc(ti ncludingo perationatel stingn ott o exceed2 hours)t he
+small
+
+ generatofra cilityo ncet he conditionaal greementto interconnecat smallg
+enerator
+
+ facilityh as beens ignedb y the EDC.
+
+ 2) Final lnterconnectioann d OperationT. he interconnectiocnu stomerm ay
+operate
+
+ the small generatorf acilitya nd interconnecwt ith the EDC'se lectricd
+istribution
+
+ systemo ncea ll of the followingh aveo ccurred:
+
+ a) ElectricalI nspection:U pon completingc onstructiont,h e interconnection
+
+ customerw ill causet he smallg eneratofra cilityt o be inspectedb y the local
+
+ electricawl iringi nspectowr ithj urisdictionw ho shalle stablishth at the
+small
+
+ generatofra cilitym eetst he requirementosf the NationaEl lectricaCl ode.
+
+ b) Certificateo f CompletionT: he interconnectiocnu stomers hall providet he
+
+ EDC with a completedc opy of the Certificateo f Completioni,n cluding
+
+ evidenceo f the electricailn spectionp erformedb y the locala uthorityh aving
+
+ jurisdictionT. he evidenceo f completiono f the electricailn spectionm ay be
+
+ providedo n inspectionf orms used by local inspectinga uthorities.T he
+
+ interconnectionre quest shall not be finally approved until the EDC's
+
+ representativseig nst he Certificateo f Completion.
+
+ c) The EDC has either waived the right to a Witness Test in the
+
+ interconnectiorne questo, r completedit s WitnessT esta s pert he following:
+
+ i) Withint en (10) businessd ays of the estimatedc ommissionindga te,
+
+ the EDC may, upon reasonablen oticea nd at a mutuallyc onvenient
+
+ time,c onducta WitnessT est of the smallg eneratofra cilityt o ensure
+
+ that all equipmenth as been appropriatelyin stalleda nd that all
+
+ electricacl onnectionhs aveb eenm adei n accordancew itha pplicable
+
+ codes.
+
+ ii) lf the EDC does not perform the Witness Test within the 10 day
+
+ periodo r sucho thert ime as is mutuallya greedt o by the partiest,h e
+
+ Witness Test is deemed waived.
+
+ 3) IEEE 1547. The small generator facility is installed, operated, and tested
+in
+
+ accordance with the requirements of IEEE standard 1il7, "Standard for
+
+ InterconnectinDgi stributedR esourcesw ith ElectricP owerS ystems"a, s amended
+
+ and supplementeda,t the timet he interconnectiorne questis submitted.
+
+ 4) Access.T he EDCs hallh aved irect,u nabateda ccesst o the meteringe
+quipmenot f
+
+ the smallg eneratofra cilitya t all times.T he EDCs hallp rovider easonablen
+oticet o
+
+ the customewr henp ossiblep riort o usingi ts righto f access.
+
+ 5) MeteringA. ny requiredm eterings hall be installedp ursuantt o appropriateta
+riffs
+
+ andt estedb y the EDCp ursuantto the EDCsm etert estingr equirements
+
+ DC Level 1 InterconnectioAn oolication& Aqreement
+
+ Page 6 FINAL May 2014
+
+ DocuSignE nvelopelD : 5944E981-00F7469E-8489-21CEBFA9CFFS
+
+ 6) DisconnectionT.h e EDC may temporarilyd isconnectth e small generatorf
+acility
+
+ upont he followingc onditions:
+
+ a) For scheduledo utagesu ponr easonablen otice;
+
+ b) For unscheduleodu tageso r emergencyc onditions;
+
+ c) lf the smallg eneratofra cilityd oesn ot operatei n the mannerc onsistenwt
+ith
+
+ this agreement;
+
+ d) lmproperin stallatioonr failuret o passt he WitnessT est;
+
+ e) lf the smallg eneratofra cilityi s creatinga safety,r eliabilityo r a powerq
+uality
+
+ problemo; r
+
+ 0 The interconnectioenq uipmenut sedb y the smallg eneratofra cilityi s
+delistedb
+
+ y the NationallyR ecognizeTd estingL aboratoryth at providedth e
+
+ listinga t the timet he interconnectiowna s approved.
+
+ 7) IndemnificatioTnh. e partiess halla t all times indemnifyd, efend,a nd save
+the
+
+ other partyh armlessfr om, any and all damages,lo sses,c laims,i ncludingc
+laims
+
+ and actions relating to injury to or death of any person or damage to property,
+
+
+ demand,s uits,r ecoveriesc, ostsa nd expensesc, ourtc osts,a ttorneyf ees,a nd
+all
+
+ , other obligationsb y or to third parties,a risingo ut of or resultingf rom
+the other
+
+ party'sa ctiono r inactionso f its obligationsu ndert his agreemenot n behalfo
+f the
+
+ indemnifyingp arty,e xcepti n caseso f grossn egligenceo r intentionawl
+rongdoing
+
+ by the indemnifiedp arty.
+
+ 8) Limitationo f Liability.E ach party'sl iabilityt o the other party for any
+loss, cost,
+
+ claim,i njury,l iabilityo, r expense,in cludingr easonablea ttorney'sfe es,
+relatingt o
+
+ or arisingf rom any act or omissionin its performanceo f this agreements, hall
+be
+
+ limitedt o the amounto f directd amagea ctuallyi ncurred.I n no events halle
+ither
+
+ partyb e liablet o the otherp artyf or any indirecti,n cidentals,p ecial,c
+onsequential,
+
+ or punitived amageso f any kindw hatsoever.
+
+ 9) TerminationT.h isa greemenmt ayb e terminatedu ndert he followingc
+onditions:
+
+ a) By interconnectiocnu stomer- The interconnectiocnu stomerm ayt erminate
+
+ this applicationa greemenbt y providingw riftenn oticet o the EDC.
+
+ b) By the EDC- The EDCm ay terminateth is agreemenitf the interconnection
+
+ customerf ails to remedya violationo f terms of this agreemenwt ithin 30
+
+ calendard aysa ftern otice,o r sucho therd atea s may be mutuallya greedt o
+
+ priort o the expirationo f the 30 calendadr ay remedyp eriod.T he termination
+
+ date can be no less than 30 calendar days after the interconnection
+
+ customer eceivesn oticeo f its violationfr omt he EDC.
+
+ 10) Modificationo f Small GeneratorF acility.T he interconnectionc ustomer
+shall
+
+ providew rittenn otificationto the EDC before makinga ny modificationsto the
+
+ smallg eneratorfa cility.T he EDC will determineif the modificationasr e minoro
+r
+
+ non-m inori n nature.W rittena uthorizatiofnro m the EDC is requiredfo r
+non-minor
+
+ changesi f the EDC determinesth at the interconnectiocnu stomer'sm odifications
+
+
+ may havea significanitm pacto n the safetyo r reliabilityo f the electricd
+istribution
+
+ system.l f the interconnectiocnu stomerm akes such modificationsw ithoutt he
+
+ EDC's prior written authorizationth e EDC shall have the right to temporarily
+
+ disconnectth e small generatofra cilityu ntil such time as the EDC reasonably
+
+ concludesth e modificationp osesn o threatt o the safetyo r reliabilityo f its
+electric
+
+ distributionsy stem.
+
+ Etffi EI#EI
+
+ DC Level 1 Int&euro;rconnectioAn oolication& Aoreement
+
+ PageT FINAL May 2014
+
+ DocuSignE nvelopel D: 5944E9B1-0 0F7469E-8489-21C EBFA9CFFS
+
+ 11) PermanenDt isconnectioInn. t he eventt hea greemenits terminatedth, e EDCs
+hall
+
+ have the rightt o disconnecitt s facilitieso r directt he customert o
+disconnecitt s
+
+ smallg eneratofra cility.
+
+ Disputes. Each party agrees to attempt to resolve all disputes regarding the
+
+ provisionso f thesei nterconnectiopnr oceduresp ursuantt o the disputer
+esolution
+
+ provisionso f the Districot f ColumbiaS mallG eneratoIrn terconnectioRnu les
+
+ GoverningL aw, RegulatoryA uthoritya, nd Rules.T he validity,i nterpretatioann
+d
+
+ enforcemenot f this agreemenat nd eacho f its provisions hallb e governedb y
+the
+
+ lawso f the Districot f ColumbiaN. othingin this agreemenits intendedto affecta
+ny
+
+ othera greemenbt etweenth e EDCa nd the interconnectiocnu stomerH. oweveri,n
+
+ the eventt hat the provisionso f this agreemenat re in conflictw itht he
+provisionso f
+
+ the EDC'st ariff,t he EDCt ariffs hallc ontrol.
+
+ SurvivalR ights.T his agreements hall continuei n effect after terminationto
+the
+
+ extentn ecessaryto allowo r requiree itherp artyt o fulfillr ightso r
+obligationsth at
+
+ arose under the agreement.
+
+ AssignmenUTransofef rO wnershipo f the SmallG eneratoFr acilityT: hisa greement
+
+
+ shallt erminateu pont he transfero f ownershipo f the smallg eneratorfa cilityt
+o a
+
+ newo wneru nlesst he transferringo wnera ssignst he agreementto the newo wner
+
+ and so notifies the EDC in writing prior to the transfer of electric service.
+
+ DefinitionsA. ny capitalizedte rm usedh ereina nd not defineds hallh avet he
+same
+
+ meaning as the defined terms used in the District of Columbia Small Generator
+
+ lnterconnectioRnu le
+
+ Notice.U nlesso therwisep rovidedin this agreementa, ny writtenn otice,d emand,
+
+
+ or requestr equiredo r authorizedin connectionw itht his agreemen(t" Notice"s)
+hall
+
+ be deemedp roperlyg iveni f deliveredin person,d eliveredb y recognizedn
+ational
+
+ couriers erviceo, r sentb y first classm ail,p ostagep repaidt,o the persons
+pecified
+
+ below:
+
+ 13)
+
+ 14)
+
+ (lf to InterconnectioCnu stomer)
+
+ Use the contact informationp rovidedi n the agreementf or the interconnectionc
+ustomer.
+
+ The interconnectiocnu stomeri s responsiblefo r notifyingt he EDC of any
+changei n the
+
+ contactp artyi nformationin, cludingc hangeo f ownership.
+
+ (lf to EDC)
+
+ Use the contact information provided on the EDC's web page for small generator
+
+ interconnection.
+
+ 12)
+
+ 15)
+
+ 16)
+
+ 17)
+
+ DC Level 1 InterconnectioAn oolication& Aqrement
+
+ Page 8 FINAL May 2014
+
+ Eoup
+
+ Eo
+
+ puo
+
+ EL oc
+
+ l-l
+
+ o
+
+ P- 6I
+
+ tr o f; fr BtT
+
+ P. aEgI
+
+ eI
+
+ ITI
+
+ I^
+
+ sE*
+
+ FEE
+
+ lufioe#
+
+ *EE
+
+ rE= EE5
+
+ -ul
+
+ PEE
+
+ u=EEo;
+
+ *if f E e HEE
+
+ ol
+
+ zl
+
+ (u9Jlt
+
+ 5l
+
+ @@@@@@@Oolilol;l
+
+ ry I
+
+ b
+
+ 6
+
+ E
+
+ o lE
+
+ ooN
+
+ o
+
+ r
+
+ o
+
+ c{
+
+ c
+
+ E
+
+ I=
+
+ Eto
+
+ Ib
+
+ EL
+
+ e^v Dlosauur/ll
+
+ 5I
+
+ eoe
+
+ I
+
+ e$
+
+ o_
+
+ 2{
+
+ HE
+
+ #e=
+
+ ,5? "d i9- .F
+
+ l = , r i l a
+
+ lrJ
+
+ aa&gt;
+
+ gF
+
+ &lt; &lt; i &lt;
+
+ O
+
+ (o
+
+ r-r oO
+
+ c!
+
+ Im,
+
+ fl
+
+ t
+
+ I
+
+ E
+
+ l d
+
+ ! =
+
+ :E I a
+
+ 4=
+
+ Fz
+
+ &gt;
+
+ I
+
+ - lt'
+
+ a
+
+ I
+
+ t
+
+ d
+
+ o
+
+ =
+
+ ge
+
+ Ic
+
+ =
+
+ ?-x
+
+ -
+
+ gt
+
+ UR!
+
+ 65Ei
+
+ tF
+
+ lha
+
+ I
+
+ T-]
+
+ &lt;l
+
+ il{l '&lt;L i,l:Z&lt;
+
+ ?a :94
+
+ d d : d d lA.iit
+
+ FE .EE t* :*H
+
+ lg.ig
+
+ st rl
+
+ rS ,ES
+
+ I o d r gr : g l
+
+ Il , i l
+
+ &euro;&euro; ,E&euro; r! tt
+
+ bh,b
+
+ @i@
+
+ a
+
+ t$
+
+ I
+
+ d
+
+ t g
+
+ x = E 5
+
+ -Eg R1 E ets eI
+
+ : * d 6
+
+ dt - t g
+
+ E[i=
+
+ ob
+
+ EE
+
+ . . 9
+
+ I L
+
+ o
+
+ o
+
+ e \
+
+ - F
+
+ r)o
+
+ lr)
+
+ i O -
+
+ I
+
+ 9=q
+
+ 5Ee fre2
+
+ iE; IE
+
+ lrl
+
+ &lt;h o)
+
+ 9F
+
+ &lt;&lt; a(
+
+ [H .EH
+
+ 9a 9 8 :
+
+ d d : d d : iii .it I
+
+ lH ,EH,
+
+ E q E * :
+
+ iB :gtr :
+
+ [ h i l f :
+
+ lF ,lg
+
+ S: g
+
+ Irt'Ir!'
+
+ J d d d d d . i*tit**:
+
+ E E G E S T
+
+ llti-!E
+
+ H,M,
+
+ @,@.
+
+ s'icx
+
+ { I
+
+ 9s
+
+ d8
+
+ Fc
+
+ YA .:F
+
+ g5
+
+ :!
+
+ !e :
+
+ I
+
+ ?
+
+ E
+
+ lc
+
+ 33
+
+ l ;l
+
+ l ,
+
+ R :
+
+ t.a,
+
+ t
+
+ 3s: *E
+
+ ti
+
+ E$
+
+ $rlt:
+
+ ilt't'q|: EIEt
+
+ {E&euro;e
+
+ ut!
+
+ h H ' ,
+
+ @.
+
+ ;tit:
+
+ gI
+
+ Ic
+
+ Eu,
+
+ t5
+
+ O
+
+ F\
+
+ C\
+
+ Im
+
+ -)
+
+ ctI
+
+ I
+
+ I
+
+ F
+
+ I B
+
+ e =
+
+ I P
+
+ I.3ls
+
+ N
+
+ q
+
+ I
+
+ I
+
+ -
+
+ 6
+
+ I5
+
+ !*
+
+ E&lt;
+
+ aI
+
+ l
+
+ i
+
+ It
+
+ I'tl
+
+ s!-\
+
+ Ts f;ti ;3
+
+ L'
+
+ ? l
+
+ ?= t o
+
+ 3'q tE
+
+ -F
+
+ ) E
+
+ ic
+
+ ;*
+
+ l=
+
+ Initial File #: L00005I 14941
+
+ GOVERNMENT OF TIIE DISTRICT OF COLUMBIA
+
+ DEPARTMENT OF CONSUMER AND REGI.JLATORY AI'FAIRS
+
+ CORPORATIONS DTVISION
+
+ CERTIFICATE
+
+ THIS IS TO CERTIRY thata lt applicabl0p rovisionso f the Disnict of ColumbiaB
+usiness
+
+ OrganizationsC ode (Title 29) haveb eenc ompliedw ith anda ccordingly, this
+CERTIFICATE OF
+
+ GOOD STANDING is hereby issued to
+
+ SPARROWHAWK SOLAR I, LLC
+
+ WE FLJRTHER CERTIFY thatthe qualified foreign entity is registeredt o do
+businessin
+
+ the District; that all fees, and penalties owed to the District for entity
+filings collected through the
+
+ Mayor have been paid and Payment is reflected in the records of the Mayor; The
+entity's most
+
+ recentb iennialr eportr equiredb y $ 29-102.11h asb eend eliveredfo r filing to
+theM ayor;a ndt he
+
+ entity's registrationh as not beent erminatedT. his office doesn ot havea ny
+informationa boutt he
+
+ entity'sb usinessp racticesa ndf inancials tandinga ndt his certificates halln
+ot be construeda st he
+
+ entity's endorsement.
+
+ IN TESTIMONY WIIEREOF I have hereunto set my hand and caused the seal of this
+office to
+
+ be affixeda so f 314120125: 01P M
+
+ Businessa ndP rofessionaLl icensingA dministration
+
+ Superintendenotf Corporations
+
+ CorporationDsi vision
+
+ Muriel Bowser
+
+ Mayor
+
+ Tracking #: ilTwXnxT
+
+ PATRICIA E. GRAYS
+
+ f . '
+
+ Initial File #r L00005114941
+
+ GOVERI\MENT OF THE DISTRICT OF COLUMBH
+
+ DEPARTMENT OF CONST]MER AND REGULATORY AFFAIRS
+
+ CORPORATIONS DTVISION
+
+ CERTIFICATE
+
+ TIIIS IS TO CERTIF"Yt hat all applicablep rovisionso f the District of
+ColumbiaB usiness
+
+ OrganizationCs odeh aveb eenc ompliedw ith anda ccordingly,thisC ERTIFICATB OF
+
+ REGISTRATION is hereby issued to:
+
+ SPARROWHAWK SOLAR I, LLC
+
+ Effective DaE:3l4l2Ol5
+
+ IN WITNESS WIfiREOF I haveh ereuntos etm y handa ndc ausedth e sealo f this
+office to be
+
+ affixeda sof 3141201l:55 8 PM
+
+ Businessa ndP rofessionaLli censingA dministration
+
+ PATRICIA E. GRAYS
+
+ Superintendeonft C orporations
+
+ CorporationDsi vision
+
+ Muriel Bowser
+
+ Mayor
+
+ Tracking #: CWLgpdKf
+
+ DE PARTMETN O FC ONSU I I'IER& REGU LATORAYF FAIRs
+
+ District of Columbia Government
+
+ Foreign RegistrationS tatenrnt Form FN-l, Verstoln,J muary 2012.
+
+ Jset his{ otmt o registeyr our
+
+ this form.
+
+ filing entityto conduct business in the
+
+ ReJertoC orporatFe eeS chedulpeo stedo nline
+
+ SparrowhawkS olarI , LLC
+
+ Limited Liability Compmy
+
+ AltemateN ame( ift ruel egaln amei s not available)
+
+ shte or counby.
+
+ orw ills tailt nnsactingb usinesisn the Districot f
+
+ Clcanriew Way, San Matco, CA94402
+
+ T CorporatioSny stcml,0 l5 lsth Sheet,N.WS.,u itc1 000,W a*ringtonD,. C.2 0005
+
+ t4AR
+
+ - t 2015
+
+ describhee proposeadc tivityc ompanwy ill
+
+ sy$.&euro;min stallations,e llingl,e asinga ndf inancing
+
+ 3055C fearvieWw ay,S anM ateoC, A9M0Z
+
+ Manyc olpontef ilingsa rea vailablbey usingC brpOnlinSea rvice.
+
+ Got oC orpOnlisniete a th fipsJ[cop.dcra.dc-gcorqa atae profilaa,c cess
+
+ he onlinese rviceEmpaaing ea ndp roceeOd.n linfeil ersm uspt ayb yu sing
+
+ a credcita rd.
+
+ Pleasec heckd cra.dc.gotvo viewo rganizationrse quircdto registert,o searchb
+usinessn amest,o get step-bpstepg uidelinetso registear n
+
+ organlzationto, searchr egisteredo rganizadonas,n dt o downloadfo rmsa ndd
+ocumentsJ.u slc licko n "CorporatRe egistsation.'
+
+ 8030 . 0tl/ll0il0l 2 Wqlt{r Klwd Otlin
+
+ ,2 Dgfnwore ; PAl G,E
+
+ Ifu first Stete
+
+ I / .TEEEREY W. BdLLOCK, Sg,cnEEARr OE STATE. OE TEE STArt' OE
+
+ DELAWARE, N EEREBr CF,ATIry nSpARROnEAnK SOLAR It r,r,C" IS DALr
+
+ PORMED UIVDER TM IAWS OE TEE' STA'ITE OE DEI.AffiRE EIVD TS IN GOOD
+
+ SrelrDItrC AIID EAS A I'EG;AIr EXI.SEENCE SO EAR Nt TEE RECORDS oF TEIS
+
+ osrr@ sgow, As oE Tffi TErRD aay.ot uARcE, A-D. zors.
+
+ .ITtrD T N ffiREBY FURIXEER CERTTgr.ITEAT rM
+
+ 'AXNVJ|J.
+
+ T,.JTES NAW
+
+ IVOJT
+
+ DCRCAo rPD'i u'
+
+ t{AR
+
+ - l' 2015
+
+ 5660307 8300
+
+ 750306887
+
+ ,effi&euro;y w. Eullock secEtary of State 'fON: 2765854
+
+ DAW: 03-03-75
+
+ Yov ult v!.tifrt tlris celtj'ficatr on'.li?&euro;l
+
+ .X coz?. d.lawe,8e, gov/auth9rr. rlrtnl
+
+
+
+ In case of any query regarding this article or other content needs please
+contact: editorial@plusmediasolutions.com
+

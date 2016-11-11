@@ -1,0 +1,35 @@
+
+
+It is expected to roll out at 10:30PM IST.
+
+Apple's biggest OS update - iOS 10, finally rolls out tonight. It can definitely
+be coined as "The mother of iOS releases" and you have every reason to be
+excited. Here's how you can download the official iOS 10 update for your iOS
+devices. It is expected to roll out at 10 30PM IST.
+
+Will my iPhone receive iOS 10?
+
+Firstly, make sure your device is compatible. The devices which are compatible
+are the iPhone 7, iPhone 7 Plus, iPhone 6S, iPhone 6S Plus, iPhone 6, iPhone 6
+Plus, iPhone SE, iPhone 5S, iPhone 5C and iPhone 5. Additionally, the iPad Pro
+12.9-inch, iPad Pro 9.7-inch, iPad Air 2, iPad Air, iPad 4th generation, iPad
+mini 4, iPad mini 3, iPad mini 2 and the iPod Touch 6th generation is compatible
+as well.
+
+What about my data?
+
+Secondly, back up your data. You can do this by heading to your Settings >
+iCloud > Backup > Back Up Now. Be sure to be connected to the Wi-Fi while taking
+a back up of your device.
+
+How to install iOS 10?
+
+If your device is compatible, you will directly get an alert from Apple, once
+the update is available. You can head to Settings > General > Software Update >
+iOS 10 > Install now. Be sure your battery is at least charged to 50 percent.
+
+You can also download iOS 10 from iTunes. Make you have the latest version of
+iTunes installed on your PC. Connect your device to the PC, and iTunes will open
+automatically. After iTunes starts up, click on 'Summary' and select, 'Check for
+Update'. If the update appears, click 'Download and Update'.
+

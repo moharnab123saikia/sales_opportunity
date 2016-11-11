@@ -1,0 +1,117 @@
+
+
+Thursday, September 25, 2014: For consumers opting to buy Apple Inc.'s iPhone 6
+Plus rather than the iPhone 6, the additional 0.8 inches of screen size will
+cost $100 extra. However, for Apple, the iPhone 6 Plus costs only about $16 more
+to produce, delivering to the company an even heftier margin than normal for its
+wildly popular smartphone line.
+
+The bill of materials (BOM) of the iPhone 6 equipped with 16 gigabytes (GByte)
+of NAND flash memory amounts to $196.10, according to a preliminary estimate by
+the Teardown Mobile Handsets Intelligence Service at IHS Technology (NYSE: IHS).
+The cost of production rises to $200.10 when the $4.00 manufacturing expense is
+added.
+
+The BOM of the iPhone 6 Plus amounts to $211.10, and rises to $215.60 with the
+additional $4.50 manufacturing cost added. This is only $15.50 higher than the
+total for the iPhone 6.
+
+"Apple has always been adept at offering higher-end iPhone models with enhanced,
+desirable features-and then pricing those versions for maximum profitability,"
+said Andrew Rassweiler, senior director, cost benchmarking services for IHS. "In
+the past, the premium versions of iPhone offered higher memory configurations
+for additional profit. While Apple continues this memory strategy, the company
+is also taking a similar approach with the iPhone Plus, structuring its pricing
+to add bottom-line profit on models that have a very desirable feature: a large
+phablet-sized display."
+
+With a contract from a wireless operator, the 16GByte version of the iPhone 6 is
+priced at $200, while the Plus model amounts to $300. The unsubsidized pricing
+for the two phones is $649 and $749, respectively.
+
+The table attached presents the preliminary BOM and manufacturing cost estimate
+of the Phone 6 and iPhone 6 Plus. Please note that these teardown assessments
+are preliminary in nature, account only for hardware and manufacturing costs,
+and do not include other expenses such as software, licensing, royalties or
+R&D.;
+
+These findings are available in the "Teardown - Apple iPhone 6" report, from
+Materials & Cost Benchmarking solutions at IHS.
+
+Phablet fees
+
+The most obvious difference between the two new Apple smartphone models is the
+display, with the iPhone 6 sporting a 4.7-inch screen, and the Plus coming in at
+5.5 inches. However, while the larger screen is more expensive, it doesn't
+account for the entire cost differential between the two phones; the Plus also
+carries higher BOMs for its enhanced camera and battery subsystems.
+
+For both the iPhone 6 and iPhone 6 Plus models, the screens feature in-touch
+in-plane switching (IPS) liquid crystal displays (LCD) supplied by two sources:
+LG Display and Japan Display. The displays likely employ Corning's Gorilla 3
+glass, compared to Gorilla 2 in the iPhone 5S and 5C.
+
+Because of its larger size, the display/touch-screen subsystem in the iPhone 6
+Plus carries a cost of $52.50, compared to $45.00 for the iPhone 6.
+
+Both displays are also more expensive than for the smaller, 4-inch display/touch
+subsystem used in the iPhone 5S model, at $41.00, based on pricing from October
+2013.
+
+Battery boost
+
+The larger form factor of the iPhone 6 Plus allows it to employ a bigger,
+higher-capacity battery. The iPhone 6 Plus battery has a capacity of 11.1
+watt-hours (Wh), compared to 6.91 Wh for the iPhone 6. Because of this, the
+battery subsystem in the Plus is $1.00 more expensive than in the iPhone 6.
+
+Also owing to their larger sizes, the iPhone 6 and iPhone 6 Plus both have more
+capacity than the 5S, which came in at just 5.92 Wh.
+
+Furthermore, the camera of the Plus is $1.50 more expensive than in the iPhone
+6.
+
+Samsung and TSMC
+
+In a major departure in component supplier selection from previous models, the
+critical applications processor chip used in both the new iPhones is not
+supplied entirely by Samsung.
+
+The new models use the Apple-designed A8 processor, replacing the A7 employed in
+the iPhone 5S. The A8 exhibits new markings that are not consistent with
+previous A-series processors. IHS believes that Apple now is splitting its
+orders for the A8 processor between semiconductor foundry Taiwan Semiconductor
+Manufacturing Co. Ltd. (TSMC) and Samsung.
+
+The A8 integrates twice the number of transistors as in the previous-generation
+A7 processor used in the iPhone 5S, but the part is still smaller than the A7
+due to the use of more advanced semiconductor manufacturing technology. With its
+more advanced design and manufacturing, the A8 in the iPhone 6 and iPhone 6 Plus
+models costs $20.00, compared to $17.00 for the A7 in the iPhone 5S.
+
+Sensor shift
+
+The new-model iPhones also feature some key changes to the sensor/microphone
+subsystem.
+
+In the individual iPhone 6 and iPhone 6 Plus models analyzed, IHS identified a 6
+-axis sensor supplied by InvenSense. Previous iPhones torn down by IHS used
+accelerometers from Bosch Sensortec and Gyroscopes supplied by ST
+Microelectronics. The new iPhone 6 and 6 Plus feature an accelerometer from
+Bosch Sensortec and the 6-axis sensor from InvenSense. It may be possible that
+these parts are multisourced, even though the small number of samples analyzed
+by IHS does not reveal this.
+
+The new iPhones also add a barometric sensor, marking the first time Apple has
+employed this type of sensor in its smartphone line.
+
+Despite some reports to the contrary, the iPhone 6 and iPhone 6 Plus contain the
+same AKM electronic compass used in previous models.
+
+NFC champion
+
+To support the new Apple Pay feature, the new iPhones add a near-field
+communication (NFC) chip, another first for Apple's smartphones. The latest
+phones include the PN65V NFC controller from NXP Semiconductors, as well as a
+previously unseen NFC-booster integrated circuit from AMS.
+

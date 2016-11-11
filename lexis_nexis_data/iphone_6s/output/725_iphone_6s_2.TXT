@@ -1,0 +1,53 @@
+
+
+By tbreak Staff -
+
+While Intel lost out on a lucrative deal with Apple in incorporating its LTE
+chips inside iPhone 6s and iPhone 6s Plus, 2016 is going to be the company's
+year because iPhone 7 is going to feature Intel's LTE chips. According to a
+source, Intel's 7360 LTE modem chip is going to be present inside the next
+iPhone lineup. However, we are not going to count out Qualcomm out of the
+partnership deal immediately because if Intel is unable to provide a substantial
+amount of LTE chip units, then Apple would be forced to call in the cavalry in
+the form of Qualcomm.
+
+Currently, iPhone 6s and iPhone 6s Plus both feature Qualcomm's 9×45 LTE chip,
+which has been processed on the 20nm technology. The modem is able to satisfy
+Cat 6 speeds, which can download up to a speed of 300Mbps and upload up to a
+speed of 50Mbps. The upcoming iteration of chips that are going to be present
+inside iPhone 7 will no doubt be able to deliver higher speeds than this, or
+Apple could choose to retain Cat 6 LTE modems altogether.
+
+One reason why we believe that Intel is going to be chief supplier for Apple's
+LTE chips is because the former already has a foundry that manufactures 14nm
+chips, giving Apple the perfect opportunity to sign a deal and begin the design
+process. The source also mentions the following:
+
+"Sources with knowledge of the situation say that Apple eventually would like to
+create a system-on-a-chip (SoC) that includes both the phone's Ax processor and
+the LTE modem chip. A system-on-a-chip design could deliver significant returns
+in improved speed and better power management. Apple would design the SOC, which
+would carry an Apple brand name, and would license the LTE modem intellectual
+property from Intel for the SOC."
+
+Intel is already working on a 10nm process which will be used to manufacture the
+company's upcoming Canonlake lineup of processors, so Apple will be looking into
+this closely. If everything pans out well for Intel, it could mean curtains for
+Qualcomm, at least for 12 months.
+
+http://imgs.syndigate.info/232/814/94/144510358260.png
+
+
+
+http://imgs.syndigate.info/232/814/26/144510358434.png
+
+
+
+http://imgs.syndigate.info/232/814/97/144510358553.png
+
+
+
+http://imgs.syndigate.info/232/814/78/144510358687.jpg
+
+
+

@@ -1,0 +1,26 @@
+
+
+By tbreak Staff -
+
+Qualcomm's Quick Charge technology came as a savior for charging or daily
+devices, and the latest edition, Quick Charge 3.0, is debuting with some of the
+latest phones. While phones like the LG G5 with a Snapdragon 820 supports Quick
+Charge 3.0, Samsung Galaxy S7 and S7 Edge fans may not be so lucky.
+
+Samsung's latest Fast Charging capabilities on its flagships S7 and S7 Edge are
+maxed out at Quick Charge 2.0 speeds, which is just the same as the earlier
+generation of Galaxy phones, as they are all built with the same charging specs.
+The main reason behind it the fact that Samsung is using two different
+processors in the Samsung S7 and S7 Edge around the world, which does not have
+the same charging capacities. While the Galaxy S7 models sold in few regions
+like the US come with the Snapdragon 820 which is capable of Quick Charge 3.0, a
+majority of the regions run on the proprietary Exynos 8 processor, which does
+not support Quick Charge 3.0. Therefore, to keep it consistent, all the phones
+are kept on the same speed of Quick Charge 2.0.
+
+However, Quick Charge 2.0 is not all that slow as compared to the Quick Charge
+3.0. You can still charge a good amount to the battery within 15 minutes with
+the right charger or power bank, or get even faster charging by using one of
+Samsung's Fast Charge Qi wireless chargers. So, to be honest, Samsung S7 users
+are not missing out on much.
+

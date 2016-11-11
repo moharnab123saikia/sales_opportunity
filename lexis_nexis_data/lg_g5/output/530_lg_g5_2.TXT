@@ -1,0 +1,198 @@
+
+
+A quest to find out what constitutes one; and the answer is as expected - It is
+hardly perfect!!!
+
+Every "techie" who has "non-techie" friends gets asked this simple but highly
+loaded question - What phone would you recommend? Unfortunately, life is never
+black and white and especially so in today's smartphone ecosystem. Will there
+ever be one perfect android smartphone to rule them all? And, we are not even
+talking Microsoft or Apple here!
+
+I am sure readers would have understood my predicament by now. I get asked this
+question several times over and I end up coming with some gibberish in response.
+Ironically, what I presumed to be worthless turned out to be worthwhile for my
+friends, who often came back and thanked me for my 'insight.'
+
+And so it was, I sat down one evening, after downing a couple of single malts,
+to decipher what goes into a 'perfect smartphone'. Okay! Maybe, that was the
+single malt speaking. For, if I had the answer to that I'd have probably
+approached a VC by now and gotten into start-up mode. So, I will rephrase that
+sentence and state that I will attempt to decipher what goes into making a
+'perfect smartphone'.
+
+Display
+
+Smartphones have made leaps and bounds in this department since their initial
+entry into our lives. These are the most common acronyms we notice when going
+through the spec sheet of smartphones these days. OLED / AMOLED, IPS LCD, HD,
+FULL HD and 4k. What are these and which of them should we opt for?
+
+[Image Credit: Hexus]
+
+Displays by Type: OLED / AMOLED vs. IPS LCD
+
+     ·    OLED is a new technology for thin, efficient and bright displays.
+          There are two types of OLEDs: Passive-Matrix (PMOLED) and
+          Active-Matrix (AMOLED). OLEDs are made from organic light-emitting
+          materials, and do not require any backlight and filtering systems that
+          are used in LCDs. in AMOLED, individual pixels are lit separately (aka
+          active matrix) on top of a thin film transistor (TFT) array that
+          passes electricity through organic compounds (aka OLED).
+     ·    Colors are typically brighter with AMOLED, and blacks are darker
+          because portions of the screen can be effectively turned off. This
+          also leads to a theoretical improvement in battery life, but that
+          depends on exactly how you're using the screen (if all the pixels are
+          lit all the time, the inverse can be true with AMOLED being more
+          power-hungry).
+     ·    Super AMOLED is a new form of AMOLED and is better because it
+          integrates touch sensors in the display itself, removing the need for
+          an extra layer and often allowing for an overall thinner device.
+     ·    In-Plane Switching Liquid Crystal Display (IPS LCD): In essence, uses
+          polarized light which is then run through a color filter. Horizontal
+          and vertical filters on either side of the liquid crystals control the
+          brightness and whether or not each pixel is on or off. All the pixels
+          are backlit to some extent while the device is on, however, even the
+          black ones. This means contrast and blackness can suffer (if you're
+          watching a movie set in deep space, for example). On the upside,
+          pixels can give the impression of being packed more closely together,
+          aiding sharpness and clarity (something Apple is very keen on). IPS
+          LCD is often spoken of as offering more natural colors; AMOLED screens
+          can sometimes look a little over-saturated. Viewing angles often
+          aren't quite as good on IPS LCD as they are on AMOLED.
+
+
+Displays by Resolution: 720p / 1080p / 4k
+
+     ·    720p (also known as HD) is a HDTV signal format with 720 horizontal
+          lines and an aspect ratio of 16:9. 720p format typically has a
+          resolution of 1280 x 720. The number 720 stands for the 720 horizontal
+          scan lines of image display resolution (also known as 720 pixels of
+          vertical resolution), while the letter p stands for progressive scan
+          (i.e. non-interlaced).
+     ·    1080p (also known as Full HD) is a HDTV signal format with 1080
+          horizontal and an aspect ratio of 16:9. 1080p typically has a
+          resolution of 1920x1080
+     ·    The name "4K resolution" refers to a horizontal resolution of
+          approximately 4,000 pixels. The use of width to characterize the
+          overall resolution marks a switch from previous television standards
+          such as 720p and 1080p, which categorize media according to its
+          vertical dimension. Using that same convention, 4K UHD would translate
+          to 2160p.
+
+
+In my opinion, the perfect display would be a 1080p AMOLED display.
+
+Storage
+
+     ·    RAM: Android Operating systems are known for their multitasking
+          abilities. For these abilities to work for you I would like my
+          smartphone to have at least 4GB of RAM.
+     ·    ROM: Considering the "App"etite for most people these days I would
+          like my smartphone to have at least 32GB of onboard storage aka ROM.
+     ·    Expandable: Not all of us live in places with easy access to cloud
+          storage. That is why I think the perfect smartphone MUST have
+          expandable storage. Ideally, up to 200GB.
+
+
+Camera
+
+When was the last time anyone packed a point and shoot camera for their trip?
+Smartphone manufacturers today are tying their very best to phase out point and
+shoot cameras, some of them even trying the audacious feat of trying to replace
+a DSLR.
+
+Smartphone cameras have come a real long way in the past year. From packing the
+megapixels to increasing the number of lens element groups to introducing
+optical image stabilization to introducing laser auto focus to changing the type
+of flash and finally the type of post processing these smartphones do before
+delivering the image output to you.
+
+[Image Credit: Tiki-Toki]
+
+Let's take a look at a few of these "features"
+
+     ·    The Megapixels: This is one of those overhyped features. Unless you
+          are going to be printing large hoardings you do not need anything more
+          than 8 Mega Pixels. I would have liked to see HTC's UltraPixel do much
+          better because "in theory" it had the right intention. Most OEMs these
+          days make cameras with a very high mega pixel count. Today's range is
+          from 16MP to 23MP.
+     ·    Optical Image Stabilization: An optical image stabilizer, often
+          abbreviated OIS, IS, or OS, is a mechanism used in a camera that
+          stabilizes the recorded image by varying the optical path to the
+          sensor. This technology is implemented in the lens itself. The key
+          element of all optical stabilization systems is that they stabilize
+          the image projected on the sensor before the sensor converts the image
+          into digital information.
+     ·    Laser Auto Focus: There is a small laser transmitter located on the
+          back of the handset near the camera sensor. The first step involves
+          firing out a short laser light burst, which is then reflected back off
+          whatever you happen to be pointing the camera at. This light then
+          travels back towards the sensor, where the software calculates the
+          time it takes for the light to leave and return, resulting in a very
+          accurate measurement of how far away the target object is.
+     ·    The biggest benefits to laser assisted focus come from increased speed
+          and accuracy when focusing, especially at short distances where the
+          beam's bounce back is more predictable. Consistent performance in
+          darkened environments is also a big benefit, especially when compared
+          with contrast-based focus. However, lasers are not necessarily
+          reliable in every environment.
+
+
+In my opinion, the 2 top camera phone lenses out there are the LG G4 & Samsung
+Galaxy S7 . I would also like to see Sony do a better job with its f2.0 23 MP
+lens
+
+Audio
+
+     ·    Most smartphone manufacturers give equal importance to audio as they
+          do video. In my opinion, there are two way of looking at smartphone
+          audio, a) how the audio sounds via the headphones b) how the audio
+          sounds from the speakers.
+     ·    OEMs like HTC and Sony give a lot of importance to the placement of
+          their speaker grills while OEMs like LG & Samsung go for a big bang
+          approach. HTC is famous for it legendary "Boom Sound" speakers. These
+          are really great but how often do you really listen to songs from a
+          smartphone's speaker?
+     ·    LG's G5 has introduced an interesting "add-on" module for audiophiles.
+          Working with Bang & Olufsen, they have introduced a DAC module for
+          enhancing sound quality for those audiophiles out there.
+          Interestingly, this module can act as a stand-alone Digital to Analog
+          Converter. Like playing high quality audio from a computer, tablet or
+          other devices. And of course through the LG G5.
+
+
+Battery
+
+I am sure we have all had that moment when we run helter-skelter in search of a
+power outlet or a friend with a power bank. While smartphones and even smart
+wearables are growing ever more advanced, they are still limited by power. The
+battery has not advanced in decades. While chips and operating systems are
+becoming more efficient to save power we are still only looking at a day or less
+of use on a smartphone before having to recharge. We have seen a plethora of
+battery discoveries coming out of universities all over the world.
+
+A new fuel cell has been developed, which could mean phones only need to charge
+once a week. Scientists at Pohang University of Science and Technology in South
+Korea have, for the first time, combined porous stainless steel with thin-film
+electrolyte and electrodes of minimal heat capacity. The result is a battery
+that is more durable and longer lasting than lithium-ion.
+
+Scientists at MIT, working with Samsung, have discovered solid-state batteries
+that are better than current lithium-ion efforts. These batteries should be
+safer, last longer and offer more power. Current lithium-ion batteries rely on
+an electrolyte liquid to transport charged particles between the two electrodes.
+It is this liquid that can be flammable and which degrades the battery, limiting
+life. According to the MIT report, these new batteries could be charged for
+hundreds of thousands of cycles before degrading. They could also provide a 20
+to 30 per cent improvement in power density, meaning that much more charge for
+whatever they are powering.
+
+I would like to have a removable battery that lasts me a couple of days with
+average to high usage
+
+Have I missed anything? Will we ever have that perfect smartphone? What phone
+would you recommend to you friends the next time they ask you? Do let me know
+...
+

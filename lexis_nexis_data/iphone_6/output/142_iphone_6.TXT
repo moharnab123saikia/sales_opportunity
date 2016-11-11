@@ -1,0 +1,244 @@
+
+
+Just in time for Valentine's Day, blurry photos of the iPhone 6 appeared online
+and went viral thanks to social mediaand Apple Obsession Syndrome. It didn't
+even matter that they were fakes.
+
+Also this week, Apple is changing to 0.4t side-view type LEDs in iPhone 6 and
+that just has to be a Good Thing. A new "report" affirms the long-held rumor
+that Apple will release two iPhone 6 models, each with a bigger-than-four-inch
+display. And there were dueling rumors about whether or not sapphire would
+bejewel iPhone 6 in a big way.
+
+You read it here second.
+
+This leak turns out to be a complicated tale as is the social media tail that
+revealed it. It's rife with deception, betrayal, visual manipulation,
+self-serving promotion, solemn pronouncements.
+
++More on network World: 8 Productivity Gadgets You Didn't Know You Needed |
+Eye-popping Presidents' Day weekend tech bargain + In any case, according to one
+account, it began with an anonymous Twitter account posting photographs of a
+larger, thinner iPhone. The iOSphere's leading Professional Leaker, Sonny
+Dickson, helpfully tweeted attention: "Could this be Apple's next iPhone? The
+iPhone 6?" The iOSphere went into spasms of pleasure.
+
+(Dickson posted the photos at his own website, claiming to have "gotten our
+hands on some great photos of the iPhone's rear casing in Space Grey...."
+Several commenters quickly labeled them "fake" largely because the all-metal
+back casing would effectively block cellular antenna signals. That led to a
+further discussion about using the Wondrous Liquidmetal as the casing material,
+but that's another continuing rumor....) "In the full photos, a new design is
+clearly shown with a larger display and no bezel on the side," according to the
+detailed analysis by Jacob Kastrenakes, at The Verge. "Bezel on the top and
+bottom has narrowed significantly as well. The design wouldn't be out of line
+for Apple and it aligns with what early reports of the new device have
+described."
+
+Not out of line a bit with all those early "reports." This is the well-known
+"hall of mirrors effect" - an unsubstantiated rumor, including a "leaked"
+photograph - is validated because it's just like all the previous
+unsubstantiated rumors. Conversely, if the new rumor is different, it's
+validated precisely because it's different.
+
+But then some iOSpherians began raising questions, pointing out that some parts
+of the photographs seemed identical to images created by one Martin Hajek, who
+specializes, according to his website, in "visualizing the future in 3D one
+render at a time" especially with regard to future Apple products.
+
+What's really interesting is the reaction to the fake, namely the conclusion
+that it doesn't matter.
+
+At the Motley Fool, Ashraf Eassa raised the question twice. "[T]he question that
+investors and phone enthusiasts must ask themselves is this: Is this image real
+or just a very clever render?"
+
+But after his own analysis that claimed to have found all kinds of flaws, thus
+revealing it is, in fact, a fake, he adds a subhed to his post - "Is it fake?" -
+and then concludes, "At the end of the day, the iPhone 6 may very well look like
+the leak above, and the leak itself may prove legitimate. There really are only
+so many ways to make a larger, thinner iPhone, and the leaked image does look
+plausible."
+
+So even though the image, because it's a fake, is completely useless in helping
+us learn about iPhone 6, nevertheless the image, because it's a fake, helps us
+learn about the iPhone 6 because it looks plausible.
+
+Kastrenakes updated his post with among other additions this "Correction: This
+story has been updated with evidence that the iPhone 6 images are fakes." But,
+you know, useful fakes.
+
+If it's new, it must be right.
+
+In a post that mainly echoed the Dickson/Hajek revelations, Mashable's Adario
+Strange went for, you know, context. In iOSpherian terms that means using
+another set of rumors to give a new perspective on the rumors you're repeating.
+
+"Earlier on Wednesday, the South China Morning Post released a report that
+described Apple's next iPhone in similar fashion [i.e., with a larger screen],"
+Strange wrote. "Citing industry insiders, the newspaper reported that the iPhone
+will come in two sizes: 4.7 inches and 5.5 inches, respectively, and will hit
+stores in September."
+
+You can find the entirety of this ground-breaking, earth-shattering "report"
+here.  "The tech giant will roll out the iPhone 6 in two sizes - 4.7 inch and
+5.5 inch - in September, according to industry insiders who have seen the
+prototypes," according to the SCMP post.
+
+And there's more. So much more. "The new iPhone screen will be made entirely
+from scratch-resistant sapphire crystal glass, they said. Sapphire crystal,
+second to diamond as the hardest material, is now used by Apple for its iPhone
+camera lens cover and touch identification. It will also sport a new display at
+441 pixels per inch (ppi), the same as the Samsung Galaxy S4.
+
+The highest definition Apple now offers has only 326 ppi."
+
+On and on it goes, an overflowing abundance of nearly every major iPhone rumor
+for the past 12 to 18 months at least.
+
+But this time there are industry insiders who have seen prototypes of these
+big-screen iPhone 6 models.
+
+There are probably a lot of iPhone prototypes gathering dust on shelves
+throughout the Apple supply chain. Because doing prototypes is part of what's
+called the Design Process. And as others have pointed out for several years,
+it's almost certainly true that Apple routinely has been testing out different
+screen sizes for both its phone and tablet products. But there is no indication
+that the prototypes mentioned in the SCMP post are prototypes of the 2014 iPhone
+models.
+
+So is Apple testing out different sizes for iPhone screens? Sure. Will the 2014
+iPhone model or models have bigger-than-four-inch screens? Not so sure.
+
+Finally, Strange repeats another claim in the SCMP post, that "Apple will
+discontinue its cheaper iPhone 5C, but will keep the iPhone 5S in production
+using cheaper materials."
+
+This shocks, awes, and astounds him. "If that portion of the report turns out to
+be accurate, it would represent the first and biggest mobile-device misstep on
+Apple's part in the entire history of the iPhone," he assures readers, with
+"Apple admitting that it made a huge mistake...."
+
+The iPhone 5C is essentially a slightly improved iPhone 5, with a plastic case.
+As such, it fills the traditional role that the iPhone 5 would have filled after
+the release of the iPhone 5S - of the lower-priced, slightly older model. The
+meme that the iPhone 5C has "failed" is as widespread as it is - at least for
+now -- unfounded. What would be interesting to know is the unit sales of iPhone
+5C since its release, compared to unit sales of the iPhone 4S after the release
+of the iPhone 5.
+
+But Apple doesn't segment its phone sales, at least for public consumption.
+
+So that would mean that once the iPhone 6 is released, Apple indeed will
+"discontinue its cheaper iPhone 5C, but will keep the iPhone 5S in production
+using cheaper materials." Like...a plastic case.
+
+The Rollup doesn't know what that means, except that Apple is supposedly
+changing the specifications for the iPhone 6 backlight LED. And it's doing that,
+according to LEDInside, because iPhone 6 will have a larger display, at 4.7
+inches diagonal, and a "much lighter" frame," which apparently means being a
+"slimmer" phone overall.
+
+And another thing: it's going to be released in June 2014.
+
+All of this is based on "industry insiders" and/or "sources from Apple supply
+chain" and/or "industry rumors." They may be one and the same: the post doesn't
+go into details about from whence the details come.
+
+LEDInside is a market researcher that "covers the technology development, market
+trend, and financial information of the LED industry." It's a subsidiary of
+TrendForce, a market intelligence company based in Taipei, Taiwan.
+
+"In the previous generation, the iPhone used 0.6t side-view type LED, in
+contrast the new iPhone will probably be adopting 0.4t side-view type LED,"
+according to the LEDInside post.
+
+The advent of the 0.4t side view LED is exciting news no doubt (and would have
+been positively thrilling but for the use of "probably") if you believe the
+industry insiders, sources from the Apple supply chain and industry rumors.
+
+TechRadar's J. Rogerson puts this revelation in terms that even we can
+understand. "While we've never been one to call the current crop of iPhones or
+iPads chunky little things, apparently the LEDS used to light the screen are
+just too big," he writes.  Too big LEDs. What was Apple thinking?
+
+A contrarian post at a Chinese website called MyDrives.com sparked a blizzard of
+iOSphere repetitions. The original post, found here in Google Translate,
+asserted, kind of, that Apple will not be introducing a sapphire screen on the
+iPhone 6.
+
+If you're interested in background on MyDrives, you can check Alexa.com's
+traffic and related data. Most of the visitors are Chinese and male and young.
+The second largest source of visitors: the United States. The top keyword search
+sending visitors to the site: iPhone. MyDrivers "provides drivers download and
+introduction, providing the latest industry news, the latest IT hardware
+evaluation and presentation."
+
+The website claims there is a beta iPhone 6 with a sapphire screen but also
+claims it is unlikely to go into production.
+
+"Earlier today, given the news that Taiwan's industrial chain, currently there
+is indeed a beta of iPhone 6 with sapphire screen version, but from the current
+situation, it seems that Apple intends to launch it, but the reality is not very
+optimistic," according to the post.
+
+Why, you ask. Because sapphire screens are worth their weight in, well,
+sapphires to manufacture and the yields are limited.
+
+At least that's how The Rollup interprets the following: "Chain sources, the
+current constraints iPhone 6 screen, there are two main sapphire, the first is
+the manufacturing cost increase, the second is the limited production capacity,
+meanwhile, is about to meet with you iWatch will adopt sapphire glass, of
+course, for production supply, Apple is very hard."
+
+The website arrives a distinctly downbeat conclusion. "As to whether the news
+finally come true, but also Apple's face, hoping that they will bring us
+pleasant surprise."
+
+Hope is what the iOSphere is all about. With all the rumors about the virtues of
+sapphire, the deal between Apple and GTAT to run a massive sapphire foundry in
+Mesa, Arizona, hope bloomed like Valentine roses. "[E]veryone began to hope that
+the next iPhone flagship will indeed pack a sapphire screen," writes Mihai
+Matei, at GforGames.com.
+
+Of course this contradicts another post, the aforementioned one at South China
+Morning Post, which declares that both the new larger-screened iPhone 6 models
+will have sapphire screens.
+
+MacRumors is taking an agnostic approach to the contradiction, dutifully noting
+on Feb. 11 that there won't be any sapphire screens, except for the mythical
+iWatch and the next day, dutifully noting that there will be.  GforGames' Matei
+seems resigned to a cruelly disappointed hope. "As always, it's difficult know
+for sure (or t0 accurately predict) what will happen in the second half of the
+year, and the next iPhone is still quite a mystery, despite the numerous rumors
+surrounding it," he writes, perfectly summing up the epistemic dilemma of the
+iOSphere. "Whether or not we'll get to see a sapphire screen on the iPhone 6
+remains to be seen, but chances are slim."
+
+At 9to5Mac, Mark Gurman has been working with an investor, Mark Margolis, to
+track down documents about Apple's deal with GTAT. The most recent post, from
+Feb. 6, links to a redacted SEC filing by GTAT that goes into detail about the
+agreement.
+
+You can find the document online.  The Rollup doesn't agree with some of
+Gurman's specific deductions, but the SEC filing makes clear this is a massive
+Apple investment, apparently similar to the kinds of capital spending
+arrangements it has with its Asian suppliers and that it appears to commit GTAT
+to an exclusive relationship with Apple with regard to sapphire production in
+very large quantities. A reasonable conclusion is that Apple seems to be
+preparing to create sapphire displays for larger devices.
+
+Margolis this week disagreed with the GforGames conclusion that sapphire is
+still too expensive for Apple to use on the iPhone.
+
+He argues that given the dramatic cost reductions in sapphire manufacturing and
+Apple's gigantic share of smartphone profits, there is "wiggle room in their
+margin to add sapphire displays."
+
+The question remains as to when they'll be added.
+
+John Cox covers wireless networking and mobile computing for Network
+World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+

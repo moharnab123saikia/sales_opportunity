@@ -1,0 +1,55 @@
+
+
+One engineer believes that LG G5 and HTC 10 should not be purchased because they
+do not comply with USB Type-C regulations
+
+Despite the fact that both LG G5 and HTC 10 are very impressive Android phones
+in their own separate leagues, one engineer is not too optimistic of using both
+phones thanks to the USB Type-C specification. This is because not only do both
+devices support Qualcomm's Quick Charge 3.0 (thanks to featuring a Snapdragon
+820 SoC), but also because both smartphones feature the unique charging port,
+which obviously presents a great deal of a problem.
+
+According to the Googler, neither HTC 10 nor the LG G5 can be considered USB
+Type-C spec compliant due to the inclusion of Quick Charge 3.0. Now why is this
+so important? According to the person on his Google Plus account: He states
+that:
+
+"This is not a legacy cable. This time, I'm reviewing Black Squid's
+Full-Featured C-to-C cable! tl;dr: Good cable! Charges at up to 60W, connect
+your laptop to your USB 3.1 devices, drive a 4K display...All using 1 cable!
+This is the first C-to-C cable I have reviewed, and it's one that does A LOT of
+different functions. Excuse the length of this review. I tested with 3 different
+chargers, one of them actually an external display dock with a 4K screen. The
+cable allowed the Pixel 2 to charge itself, while displaying 4K 60hz video out
+and accessing the USB hub on the monitor over a single cable. Woot! For more
+information about the difference between USB 2.0 C-to-C and Full Featured C-to-C
+read my explainer:"
+
+https://plus.google.com/+BensonLeung/posts/HBWyVBmdVzw
+
+WhathemeanstosayisthatUSBType-CandQuickCharge3.0cannotworktogetherbecauseofthesp
+ecificationdifferences.However,itisalsopossiblethatType-Cspecificationshavenotbe
+enupdatedyet,sincetherehavebeenrecentchangesthatnotonlyprotectthesmartphoneandch
+argerfromgettingfriedbeyondrepairduetohighpowerdelivery,buttherearesafeguardstha
+tensurethatmalwarewillnotenterthedevices.
+
+LookslikewewillhavetowaitforofficialconfirmationfrombothHTCandLGsothatconsumersa
+rewellawareofthisbeforetheymaketheirpurchase.
+
+Google+
+
+Source
+
+http://imgs.syndigate.info/232/814/6/146143224809.jpg
+
+
+
+http://imgs.syndigate.info/232/814/58/146143225022.PNG
+
+
+
+http://imgs.syndigate.info/232/814/97/146143225304.PNG
+
+
+

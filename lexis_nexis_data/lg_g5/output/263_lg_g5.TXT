@@ -1,0 +1,43 @@
+
+
+There has been much talk of modular smartphones this spring, after LG released
+its G5 handset and Google presented a near-final version of its Project Ara.
+Modular smartphones differ from regular mobiles thanks to their "building block"
+design, made up of various interchangeable modules containing different hardware
+components. These can be switched quickly and easily to boost performance or
+replace faulty parts.
+
+The current wave of modular smartphones draws on a concept created by a Dutch
+designer, Dave Hakkens, whose Phonebloks mobile is based on a set of small
+modules (processor, hard disk, camera, etc.) that can be easily changed and
+updated. Once assembled, they form a smartphone with varying levels of
+performance and functionality, a bit like a desktop PC. As well as making
+savings for users, a modular design can also help counter planned obsolescence
+in smartphones.
+
+This idea inspired Google's Advanced Technology and Projects group (ATAP), who
+went on to develop Project Ara. Initially presented as a similar project to
+Phonebloks, comprising almost as many modules as a smartphone has components,
+the handset evolved, little by little, into a slightly less ambitious prototype
+presented at the last Google I/O conference in Mountain View, California. It now
+takes the form of a smartphone with just six interchangeable modules, including
+a second display, a camera, memory, a speaker, etc. The screen, processor and
+RAM are all grouped together in one core block that cannot be modified. A
+developers' kit is due to be released in the fall ahead of a planned consumer
+launch in 2017.
+
+Another smartphone based on the same idea hails from Finland. However, the
+PuzzlePhone hasn't been the focus of anywhere near as much media attention as
+Google's concept. This modular mobile only has three interchangeable blocks: one
+for the display, another for the battery and one main system block housing the
+processor, memory and camera. It should go on sale before the end of 2016.
+
+The only modular smartphone currently available to buy is the LG G5, unveiled at
+the 2016 Mobile World Congress in Barcelona, Spain, back in February. This
+handset has a slide-out bottom for changing the battery in just a few seconds.
+As well as its removable battery, additional interchangeable elements can be
+added to the phone, such as camera and audio modules. The LG G5 is out now
+priced at around $650.
+
+Check out Project Ara in this video: youtu.be/aWW5mQadZAY
+

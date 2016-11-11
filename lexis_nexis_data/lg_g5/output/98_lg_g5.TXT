@@ -1,0 +1,57 @@
+
+
+Nate Swanner
+
+Project Ara, Google's modular phone, will be available this Fall for developers.
+It' won't be the original modular phone moonshot we were sold on, though; in
+fact, it feels a little bit like a bait-and-switch.
+
+Rather than a completely open framework, Project Ara hardware will have static
+RAM, SoC, storage and a 5.3-inch display. Google says add-ons like a kickstand
+(wow!), non-functional 'style' bricks (amazing!), e-ink display (for
+notifications, because dual-screen phones are super popular), fingerprint
+reader, camera and speaker/microphone are coming.
+
+And it all still sounds cool, but it's time to be equitable about our critique
+and praise of modular phones. When the LG G5 was launched, many thought its
+modularity was pretty lame; instead of a skeleton where you can slip components
+in and out, the G5's bottom slips off to allow for more stuff to be added on. It
+wasn't the complete autonomy Ara promised we'd have with our smartphones, and by
+comparison was a bit laughable.
+
+Google v LG
+
+The only real discernible difference between the two devices at this point is
+form factor. Google is sticking to its skeleton, while the G5 lets you add
+components (called 'Friends') to the bottom of your device. Ara still feels a
+lot cooler than LG's design, but that's subjective.
+
+You can add manual camera controls to the G5, or swap the battery out.
+
+There's even an EQ if you're an audiophile. Like Google, LG says it's working
+with hardware partners to get more modules built (I'll be fair and note that
+some modules, like the B&O EQ, still aren't available for the G5).
+
+On launch, some derided the LG G5's modularity as being half-assed. I agreed
+with that mindset at the time, but that was before Google flipped the script on
+us about Ara. Now, LG seems downright innovative and realistic. Project Ara
+almost feels like a bait-and-switch, and would have actually been so if Google
+had ever taken pre-orders.
+
+We always knew Ara was a moonshot, and the road to true and complete modularity
+wasn't going to be easy. It was a radically different way of thinking about
+phones, and that Google couldn't - or wouldn't - execute on its own concept is
+disheartening.
+
+Ara will still be neat, and we'll definitely be interested to see a final
+product, but we should be just as eager for a second version of LG's modular
+phone concept. It was first, may be better, and is a tangible, real product you
+can own today.
+
+We're not expected to see Ara land until 2017, but who knows how real that
+timeframe is.
+
+http://imgs.syndigate.info/511/1526/79/146434517892.jpg
+
+http://imgs.syndigate.info/511/1526/79/146434517892.jpg
+

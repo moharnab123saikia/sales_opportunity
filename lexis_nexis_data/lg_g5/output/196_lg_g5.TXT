@@ -1,0 +1,31 @@
+
+
+LG's Marshmallow-based UX 5.0 was officially released with the LG G5 flagship
+smartphone in April this year.
+
+The G5 placed a lot of emphasis on being a modular smartphone, and being part of
+an ecosystem of linked devices.
+
+Hence, UX 5.0 comes with the LG Friends Manager, which can be used to connect
+the phone to other LG devices like the LG 360 Cam and the LG 360 VR.
+
+The Friends Manager can automatically detect these other devices, connect to
+them and find the appropriate software needed for the devices to work.
+
+UX 5.0 also focuses heavily on the photo-taking experience, and LG has beefed up
+the camera software with a host of features.
+
+When using the front camera, Auto Shot detects whether a user is posing for a
+picture, and automatically triggers the shutter, while Multi-View takes pictures
+with the front, rear and wide-angle cameras all at once.
+
+There is an Always Onscreen, which displays information without having to wake
+up the phone.
+
+UX 5.0 also comes with New Home, an integrated home screen where all the apps
+are located, much like Apple's iOS.
+
+And after the complaints during the beta about the lack of an apps drawer, the
+final version of UX 5.0 has an option in the Settings menu to reinstate the app
+drawer.
+

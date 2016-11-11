@@ -1,0 +1,248 @@
+
+
+As a massive blizzard enveloped the Northeast U.S. (and delayed this edition of
+The Rollup), a blizzard of rumors sweptthe iOSphere about iPhone 6.
+
+There were "reports" from such sources as a "friend at a supplier" in Apple's
+supply chain about seeing not one but two new iPhones, one with a
+bigger-than-4-inch screen. There was actually some informed speculation on how
+Apple might achieve that without disrupting its ecosystem for iOS apps.
+
+Because Samsung is rumored to be introducing "5G" Wi-Fi in its next Galaxy S
+smartphone, it logically follows that Apple will, too. And finally some sound
+advice for Apple on how to make the 2013 holiday sales of the Next iPhone even
+more successful: reduce the number of days that people can buy it.
+
+You read it here second.
+
+___________ ___________ CNET was one tech site that noticed, or noticed other
+tech sites noticing, a Chinese language blog post that declared that both the
+iPhone 5S and the 5-inch iPhone 6 "have shown up at an Apple supplier in China,"
+writes CNET's Steven Musil.  [ RELATED: iPhoneys: iPhone 6 edition ] "The models
+could be released this year, according to a post by a Sina Tech user called Old
+Yao," Musil writes. "He reports that a friend of his at a supplier has seen the
+models and says that the iPhone 5S resembles the iPhone 5, while the iPhone 6 is
+wider, longer, and thinner."
+
+"CNET has contacted Apple for comment and will update this report when we learn
+more."
+
+We're not holding our breath.
+
+We're confident Musil got the general sense of the Chinese right. If you read
+Chinese, you can have at it yourself. If not, savor the Google Translate version
+of the original blog post: "A buddy from the apple vendor to see will be
+released this year the iphone 5s and iphone iphone 5s iphone 5 is said to almost
+the iphone 6 changes, screen should be Wucun, than crazy five wider, longer,
+thinner, lighter, just people not to take pictures, otherwise everyone to
+share."
+
+We move from the ridiculous to the genuinely speculative. Apple watchers, Rene
+Ritchie at iMore, and Marco Arment, creator of Instapaper, at Marco.org,
+recently and separately put together some thoughtful analysis on how Apple could
+actually create a larger-screen phone.
+
+Essentially, they've asked the question, "If Apple did decide to create a 5-inch
+iPhone, how could they do it, what would the trade-offs be, and which design
+option would they be most likely to use?"
+
+Ritchie's most recent commentary on this, "More on a 5-inch iPhone and scaling
+the interface," reiterates his point that "stretching the screen" of the iPhone
+5 offers the simplest way to create a big-screened iPhone.
+
+"If you think of the iPad mini as a tablet that's using phone [pixel] density,
+then the big iPhone is just a phone using tablet [pixel] density," he writes.
+"[The result is that] you have phone interface at high density, phone interface
+at less-high density, tablet interface at high density, tablet interface at
+less-high density."
+
+"Then, just like there's an 11- and 13-inch MacBook Air, and a 13- and 15-inch
+MacBook Pro, there's a 4- and 5-inch iPhone, and a 7.9 and 9.7-inch iPad," he
+writes.
+
+Here's iMore's mockup of how the iPhone lineup would look. From right: the
+5-inch "iPhone maxi," the 4-inch iPhone 5, iPhone 4, and at far left, the
+original iPhone.
+
+Arment argues along similar lines in his blog post "A crazier prediction: iPhone
+Plus is real, and huge." "The iPad Mini uses iPhone 3GS-density screens at iPad
+resolution," he notes. "What if an iPhone Plus used Retina iPad screens with
+iPhone 5 resolution, keeping the rest of the design sized like an iPhone 5?" By
+"keeping the rest of the design sized like an iPhone 5," Arment seems to mean
+that the iPhone Plus would appear to be "an iPhone 5 that's proportionally
+larger."
+
+Here are the relevant current resolution and pixel densities (PPI) for
+reference:
+
+* iPad retina: resolution, 1028 x 1536; PPI, 264 * iPad 2: resolution, 1024 x
+768; PPI, 132 * iPad mini: resolution, 1024 x 768; PPI, 163 * iPhone 3GS:
+resolution, 480 x 320; PPI, 165 * iPhone 5: resolution, 1136 x 640; PPI, 326 *
+Arment's iPhone Plus: resolution, 1136 x 640; PPI, 264The Plus would have the
+iPhone 5's resolution and the retina iPad's pixel density. The screen size would
+measure 4.94 inches diagonally, Arment says. He created a Photoshop rendering
+comparing iPhone 5 and iPhone Plus.
+
+"By keeping the pixel dimensions the same as the iPhone 5, no app changes would
+be necessary," Arment writes, underscoring what is probably a vital concern for
+Apple. "While the larger screen would hinder one-handed use, two-handed use
+would actually be easier because the touch targets would all be larger, and
+UIKit's standard metrics and controls still work well at that physical size."
+The UIKit framework provides the classes needed to build and manage an iOS
+application's user interface.
+
+Why or whether Apple would create a larger phone remains an open question.
+Ritchie uses some hard data to create a useful perspective for answering it.
+
+"Almost 9 out of 10 AT&T customers bought 4-inch or smaller iPhones last quarter
+rather than all big screen Android and Windows Phones combined, and roughly 6
+out of 10 Verizon customers did the same," he writes. "So aside from geeks who
+keep posting about how they really want it, and shoppers for whom bigger as a
+feature is always better, Apple might not feel any pressing, mainstream need to
+add another screen size to the iPhone product line. Yet."
+
+And we know this because there are people who are expecting that Samsung's
+forthcoming Galaxy S IV smartphone will use a Broadcom chip that supports the
+IEEE 802.11ac standard, which can achieve 1.3Gbps. This expectation "has lead
+[sic] to speculation" that the Next iPhone will, too.
+
+Simple, eh? It's the iOSphere's idea of logic.
+
+"News that Samsung's Galaxy S4 smartphone (expected to launch this month) may
+support 802.11ac, also known as '5G Wi-Fi', has lead [sic] to speculation that
+Apple's next iPhone could support standard as well," according to Macworld
+Australia.
+
+This "news" apparently is simply a comment, presumably in a Note To Investors,
+by Evercore Partners stock analyst Patrick Wang. According to Macworld AU, Wang
+"has said that new connectivity chips from Broadcom are expected to be used in
+the Samsung's Galaxy S4, and that Apple is also believed to be in talks with
+Broadcom about new chips for its iPhone 6, as well as the rumoured low-cost
+iPhone."
+
+The passive voice covers a multitude of speculation, guesses and sheer wishful
+thinking.
+
+Macworld AU quotes Wang as saying, "We conducted a series of check that indicate
+[Broadcom's] combo chip (likely 4335, with 5G Wi-Fi, BT, FM) remains designed
+into Samsung's forthcoming Galaxy S4."
+
+One would give a great deal to be assured that "conducting a series of checks"
+entailed more than "we searched a bunch of tech rumor websites."
+
+But, Wang warns, according to the Macworld post, "that he believes Apple may
+only use Broadcom's 43342 combo chip, which works on 802.11a/b/g/n, BT, FM
+networks in its iPhone 6, alternatively dubbed iPhone 5S, with a ramp starting
+mid-2013." That would be Bad News, because we might have "only" 802.11n on a
+2013 iPhone instead of "5G Gigabit Smoking Awesome" 11ac.
+
+Yet for the initial 11ac-equipped smartphones, the chips, including Broadcom's
+BRC4335 supposedly destined for the Next Galaxy S, will only support one data
+stream. Assuming it can find an 11ac access point or router to connect with, and
+get an 80MHz-wide channel, and 256 QAM modulation, and it's not sharing the air
+with other 11ac clients, it might realize a throughput of 300Mbps.
+
+Which, no doubt about it, is pretty good.
+
+Broadcom announced its 11ac chip lineup in January 2012, with a battery of chip
+products supporting one to three spatial streams, targeted at different classes
+of products (access points, routers, PCs, smartphones, tablets, embedded
+devices); some of the chips, called "combo chips," also support Bluetooth 4.0
+and/or FM radio. The BCM4335 11ac chip announced last July and "expected" in the
+next Galaxy S is one such "combo" chip. It's due to ship in volume in Q1 2013 --
+any time now.
+
+AnandTech's Brian Klug noted in July that the BCM4335 that the BCM4335 "includes
+a number of the optional 802.11ac features including 256QAM, short guard
+interval, beamforming, low density parity check (LDPC), and space-time block
+coding (STBC).
+
+This results in a PHY rate of 433.3 Mbps [actual throughput as mentioned above
+would be about 300Mbps] with 80 MHz channels on 802.11ac."
+
+The BRC4334, which Wang fears may be Apple's choice for the Next iPhone, is also
+a combo chip, which supports 802.11n. Apple first selected it for the iPhone 5.
+It's widely used in the industry. One of its most important capabilities is that
+the iPhone 5 become the first model, and one of the first phones in the
+industry, to be able to use the uncluttered 5GHz band, instead of only the
+2.4GHz band. [see "FAQ: iPhone 5 and 5GHz Wi-Fi"] Though still in the process of
+being ratified formally by the IEEE, the 11ac standard is for all practical
+purposes finalized.
+
+The Wi-Fi Alliance will start interoperability testing and certification of 11ac
+products this spring. That could be soon enough for Apple to introduce it in an
+iPhone later this year. But Apple didn't rush into LTE: The iPhone 5 in fall of
+2012 was the first iPhone model to support it.
+
+The benefits of running 11n Wi-Fi in the 5GHz band probably will outweigh those
+offered by an 11ac phone that will find far fewer 11ac routers and access points
+and hotspots with which to connect, until home, office, and carrier networks are
+gradually upgraded to the new standard. [See "11ac will be faster, but how much
+faster really?"] So while there's little doubt that Apple is evaluating 11ac,
+there's somewhat more doubt about when it might introduce it to the iPhone.
+
+If Apple wants to succeed with the Next iPhone, it "might have better luck
+waiting until the very end of the year to announce its newest iPhone, rather
+than follow Apple's new 11-month release cycle that might see a new iPhone in
+September, or even August."
+
+That's the contention of Dave Smith, writing for International Business Times
+(IBT).
+
+Let's assume there is logic at work here.
+
+"Last year, the iPhone 5 took product hype to a new level," Smith asserts.
+"Unfortunately, despite people talking about this unknown device for more than a
+full 12 months, introducing the device only seemed to dampen excitement
+surrounding Apple."
+
+Wait. The iPhone 5 was introduced and it dampened excitement? Could this be the
+same iPhone 5 that set all-time sales records, and drove all-time revenue
+records, in Apple's first quarter? The same iPhone that, as iMore's Rene Ritchie
+pointed out above, "almost 9 out of 10 AT&T customers bought ... and roughly 6
+out of 10 Verizon customers [also bought] ..."?
+
+"The iPhone 5 has been a very successful product for Apple," Smith admits,
+somewhat confusingly. So it didn't dampen excitement?
+
+"[B]ut the company needs to reenergize its fan base if it hopes to outdo its
+iPhone 5 sales with the 2013 iPhone." Yet every iPhone model has been
+significantly more successful than the previous model, suggesting that the "fan
+base" is has been increasingly energized.
+
+"To feed the hype machine, Apple should wait for a longer-than-normal period to
+release the iPhone 6," Smith concludes.
+
+Specifically, without hashing the entire 2007-2012 history of Apple's iPhone
+release dates yet again, Smith believes that the way for Apple to even more
+successful with the Next iPhone is to delay releasing it until November 2013.
+
+In other words, Apple will sell more iPhones during the holiday season by
+selling them for a shorter holiday season.
+
+That seems, shall we say, counterintuitive.
+
+But, according to Smith, by releasing iPhone 5 in late September 2012,
+"customers were left more time to choose between Apple's latest iPhone and all
+other smartphones released during that time." So, logically, by releasing iPhone
+6 in November or possibly even December, buyers would have less time to choose
+between iPhone 6 and ... uh ... all the other phones that still could be
+released between September and December.
+
+Or something.
+
+"If Apple wants the iPhone 6 to be its best-selling smartphone ever, the company
+needs to release the phone closer to the Christmas holiday," Smith blithely
+asserts, repeating his insight that shortening the holiday buying season for the
+Next iPhone would result in higher sales. Somehow.
+
+Perhaps he's counting on the Frenzy Factor in buying, which results in the
+by-now-expected Black Friday shopping riots, visible in this handy YouTube
+compilation for 2012 or one of the free-for-alls for the latest Air Jordan
+basketball shoe.
+
+John Cox covers wireless networking and mobile computing for Network World.
+Twitter: @johnwcoxnww Email: john_cox@nww.com
+
+
+

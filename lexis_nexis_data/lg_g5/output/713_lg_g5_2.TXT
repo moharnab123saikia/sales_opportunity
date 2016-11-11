@@ -1,0 +1,83 @@
+
+
+Google's Advanced Technology and Projects (ATAP) group has recently offered more
+details on its Project Ara modular phone. The group said it will release its
+first ever smartphone for developers this fall. This edition will have Android
+running in it along with its 5.3-inch screen. On the other hand, the consumer
+edition will be out there in 2017.
+
+Those who want to get a close virtual look of the device can go to ATAP's
+dedicated Ara website and can also fill out a form revealing their choice of
+phone to be developed. The Project Ara was first introduced at I/O 2014 and
+since it has come a long way. At Google, there are more than 30 people who are
+using Ara phones as their primary device.
+
+Google is also planning to introduce another division for Ara inside Google.
+This would be done in order to give the project a designation of a real business
+that is a serious initiative at the company. The Ara technology now has received
+a frame. The phone technology is integrated into the frame that would look as it
+has CPU, battery and display. The parts will not be swappable at least with
+first versions.
+
+Ara has got six modular slots and each part is generic and one can put any
+module in any slot. The slots are interconnected via an advanced 'unipro'
+network. An engineer was recently presenting Ara on stage. The person inserted
+camera and took a photo. One can remove a module by going to settings app and
+select the module for removal or say, "Okay Google, eject the camera," which
+audience found impressive. There is a button at the side of the phone, through
+which one can overview all of the modules.
+
+According to a story published on the topic by USA Today, "The news follow two
+years of delays since Google showcased a Project Ara prototype at its I/O
+developer conference in 2014. The idea behind a phone made of removable modules
+is intriguing and potentially disruptive, while at the same time fraught with
+challenges. The way Google explains it, you can slide any Ara module into any of
+its (up to) half-dozen slot and it just works. Ara's frame houses the chips,
+antenna, sensors, battery and other key smartphone components."
+
+The plug-and-play modules, built by Google's phone partners (Samsung, Toshiba,
+Sony and others) are likely to include different types of cameras or displays,
+microphones, loudspeakers, music players, projectors, breathalyzer, extra
+batteries, thermometer, who knows what? Google says you can eject them easily,
+even in some cases with an "OK Google" command. Meanwhile, the slots on your
+phone potentially become valuable pieces of real estate for accessory makers.
+
+"After a year, Project Ara didn't have much to show for all its talk of the
+future, but it certainly inspired the smartphone old guard to run with the idea.
+This year's LG G5 adopted the modular phone principle with a removable "magic
+slot," and the upcoming Moto X and iPhone 7 are rumored to have some kind of
+modular features. Because guess what, accessories sell," according to a recent
+Gizmodo report.
+
+"Over the last year or so, the team also worked to standardize the modules, so
+that developers could actually start to build them. The key bit was redesigning
+the connectors on the back. Each one has to support constant connecting and
+reconnecting, charge things when they get plugged in, and, you know, not break
+or fall off. They created a proprietary port, but one that uses an open
+standard, UniPro. The phone has six, and each one can push up to 11.9 gigabits
+of data per second, in both directions. Ara chief Richard Woolridge spits out
+crazy edit-video-while-you-computer-vision use cases, but says the spec boils
+down to this: It can handle anything. And it only consumes a third as much power
+as USB 3."
+
+A report published in Wired News informed, "It's the how, not the what, that was
+problematic. Today, Rafa Camargo, Ara's technical project lead, wants to show me
+what he's made. He picks the black phone up from the white table in front of
+him, flips it over, and taps the power button. It turns on. Next, he picks up a
+camera module from the table, pops it into the phone, opens the camera app, and
+quickly takes a crisp photo." "There's your camera, live."
+
+Hang on. You caught that, right? It works! After years of failed demos, public
+sputters, and worrisome silence, Ara works. About 30 people within ATAP are
+using Ara as their primary phone.
+
+Camargo actually has the luxury of worrying about things like aesthetics, rather
+than whether it'll turn on. "Please pay no attention to how it looks," he tells
+me, flipping the blocky smartphone over in his hands, "because it's a
+prototype." It's not a concept, not an idea, not a YouTube video. It's a
+prototype. Developer kits for Ara will be shipping later this year, and a
+consumer version is coming in 2017. "We have now built all the key components of
+the platform," Camargo says. Ara is no longer an experimental part of ATAP: It
+just became its own division within Google. Now it's time to find out if there's
+room left for another smartphone revolution.
+

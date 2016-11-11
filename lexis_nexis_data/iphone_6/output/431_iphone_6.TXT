@@ -1,0 +1,27 @@
+
+
+An alleged set of leaked screenshots of Apple Iphone 6 5.5-inch variant shows
+that the device would be able to run software in landscape mode to offer an
+iPad-like user-interface. This set of photos has been leaked by proficient
+leakser 9to5 Mac a day ahead of Apple's unveiling of its much awaited bigger
+iPhone 4.7-inch and 5.5-inch variants, which are rumored to be called as the
+Iphone 6 Air and iPhone 6 Pro respectively.
+
+These screenshots have been tipped by developer Steven Troughton-Smith, who
+changed the setting the iOS simulator to 736x414 pixels (1,472x828 at 2x, or
+2,208x1242 at 3x), which is rumored to be the resolution for one of the two
+iPhone 6 models. And while the iPhone 6 Air with 4.7-inch is expected to work
+like the iPhone 5S however with a bigger display, it is the 5.5-inch variant of
+the next gen iPhone that is more likely to accommodate this resolution and offer
+a dual-pane interface with an iPad-like landscape orientation.
+
+With the landscape interface, the bigger iPhone would offer a more productive
+interface, as it might let a user see everything on the Calendar app to be
+displayed in a single page, or allow individual contact cards to be seen
+alongside full contacts list.
+
+While this landscape mode will make more sense on the 5.5-inch model, we wait
+for Apple to take the wraps off its new iPhones and confirm this feature.
+Meanwhile, we will keep you updated of any major rumor around the iPhone 6 and
+iWatch.
+

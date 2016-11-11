@@ -1,0 +1,207 @@
+
+
+Think of Apple's Worldwide Developer Conference this week as a giant tea cup,
+drained to the dregs of loose leaf teaand the entire iOSphere leaning-in to read
+the soggy remains and figure out what the heck is happening with iPhone 6.
+
+In the WWDC aftermath, it's clear that CEO Tim Cook has been successful in his
+pledge to "double down on secrecy." The iOSphere is reading the WWDC tea leaves
+for the future iPhone plans. But no one seems to know any more about them today
+than we knew following the announcement of iPhone 5 in October 2012.
+
+[RELATED: 10 takeaways from Apple's WWDC] [MORE: 14 manliest high-tech Father's
+Day gifts] This week: iOS 7 gives clues and cues about the Next iPhones, though
+the details are actually kind of hazy. Quite hazy, actually.
+
+Also there is no iPhone 5S. Just accept that. And the Next iPhone will have
+ginormous screens. Unless that's a fabrication or a typo.
+
+You read it here second.
+
+___________"I can't help but think that Cook, Ive, and the rest of the Apple
+team won't be able to resist matching the biggest change in iOS since its
+launch, with a big iPhone hardware change too."~ Vincent Nguyen, Slashgear,
+explaining his reasoning on why the Next iPhone will be a Big Change.__________
+iPhone 6 features revealed or at least hinted at in iOS 7...kind of Since there
+were no iPhone announcements at WWDC, the iOSphere "analyzed" iOS 7 to discover
+clues, cues, hints, indications, intimations, suggestions or traces that point
+to the next iPhones.
+
+It was a mixed bag.
+
+Slashgear started off promisingly, with the headline "iOS 7 and the rebirth of
+iPhone," a post by Vincent Nguyen. "[A]lready I'm confident that iOS 7 will
+bring me back over from Android, not to mention open the door to some hardware
+surprises later in the year," he writes.
+
+What might those surprises be, and how might they be the rebirth of the iPhone?
+Oddly, Nguyen never actually says.
+
+"What I'm left expecting, though, is something equally pivotal to run it on," he
+writes. "The current thinking is that Apple's next smartphone will be the iPhone
+5S, a more subtle update to the existing phone, with a significant refresh
+[considered to be iPhone 6] waiting until 2014. I can't help but think that
+Cook, Ive, and the rest of the Apple team won't be able to resist matching the
+biggest change in iOS since its launch, with a big iPhone hardware change too."
+
+What could this big iPhone hardware change be? Probably not a bigger screen,
+Nguyen says, surprisingly. "The display is still likely to be a 4-inch Retina
+panel, since that satisfies that all-important one-handed use issue...."
+
+His best guess? The phone will, somehow, be inspired by the new Mac Pro. "I'd
+guess at a form-factor that borrows cues from the other eye-catching part of the
+WWDC keynote, the new Mac Pro," Nguyen reasons. "That, with its crisply
+minimalistic polished aluminum enclosure, is the new pinnacle of Apple's design
+ethos, and would be a great starting point to build the new iPhone from."
+
+We're not exactly sure what he means by this. The iPhone 5 already has a pretty
+crisply minimalistic aluminum enclosure. And the photo with his post shows only
+the interior of the Mac Pro, with its vaguely steampunkish aesthetic, rather
+than the smooth, polished aluminum shell that covers it.
+
+"Which phone works most effectively for me; which implements its features in
+ways that look and operate the most successfully," Nguyen wonders. "Already, I'm
+seeing a whole lot to iOS 7 that signals it will deliver on that." But, again,
+he never really explains what the "whole lot" is that he's seeing.
+
+GottaBeMobile's Josh Smith seems convinced that iOS 7 shows or at least "hints"
+that the Next Big Thing in the Next iPhone is precisely what Nguyen discounts: a
+bigger screen. He makes his case in his post, "iPhone 6 Hints From iOS 7" but
+especially in his companion 3:47-minute YouTube video, which neatly shows some
+of the new features in the iOS 7 beta installed on his iPhone 5.
+
+Here's his main assumption: iOS 7 lets you swipe, from wider areas onscreen, to
+do more tasks "and the swipes are not limited to small touch points." Therefore,
+as he says, "All of these small changes make it easier to use a larger display
+iPhone 6 with one hand because there is not a need to reach to a corner or hit
+small touch points."
+
+He also argues that the "improved landscape support" in iOS 7, meaning when you
+hold the phone horizontally, is "a small step towards better support for
+landscape on the [future, bigger-screened] iPhone. The iPad and iPad mini offer
+landscape support throughout and it is a big part of how many use those
+devices."
+
+"Why are we talking about an iPhone 6 with a larger display already?" he asks.
+Good question. The not-very-good answer: "Well, rumors point to an iPhone 6 in
+2014 that includes a larger display."
+
+This seems kind of like the "if all you have is a hammer, then everything looks
+like a nail" idea. The problem with the iPhone, according to one group of
+critics, is that increasing the screen to 4.0 inches means it's still small
+compared to 5.0 or 5.5 or 6.0 or even 4.8. So Apple must release a larger-screen
+phone; and therefore the UI changes in iOS 7 have been made for that purpose.
+
+iPhone 5S doesn't exist so plan on the iPhone 6 The irrepressible Will Stabley,
+founder of StableyTimes, was one of the very very few in the iOSphere who could
+discern what WWDC truly revealed about the Next iPhone.
+
+His post, "iPhone 6: six things Apple, Tim Cook, and iOS 7 just told us about
+it," is a model of decisiveness: "There is no iPhone 5S."
+
+One of the six things is "What it looks like." Stabley: "During the iOS 7 demos
+Apple included the image to the left, which looks unlike any current or past
+iPhone. Either it's the iPhone 6 or Apple has now taken to using meaningless
+stub graphics of imaginary Apple devices in its keynote presentations. There is
+no iPhone 5S: Apple didn't completely redesign iOS just to have it run on the
+same old hardware, so look for the iPhone 6 to directly follow the iPhone 5."
+
+You didn't realize that the "S" in 5S stood for "same old hardware."
+
+He also discovered "When the iPhone 6 is arriving." His reasoning goes like
+this: "Apple says iOS 7 is arriving in the fall, which according to the 2013
+calendar means anywhere from September 22nd to December 20th. That's right, the
+technical definition of fall is a bit skewed from what most people commonly
+consider it to be. But Apple has never launched a new iPhone later than mid
+October. [Apple has announced exactly two of six iPhones in the fall, Oct. 2011,
+Sept. 2012.] In other words, look for the iPhone 6 in September. Unless "fall"
+was a worst case scenario estimate in case iOS 7 beta testing progresses slowly,
+in which case an August release may not be out of the question. But what Apple
+really told us is that it doesn't precisely know when it'll launch the iPhone 6.
+"
+
+Not only do we not know when the iPhone 6 is arriving, but no one at Apple does
+either.
+
+iPhone 6 will have bigger screen(s) A very carefully worded Reuters story is,
+despite that care, already being widely misinterpreted as saying that Apple is
+set to announce two new iPhones, one with a 4.7-inch screen and one with a
+5.7-inch screen.
+
+The Reuters headline is strikingly odd: "Apple looking at bigger iPhone screens,
+multiple colors - sources." It's odd because most headlines don't feature
+"sources." It's as if Reuters is assuring readers "we got more than one person
+talking to us about this! It's not a rumor! Trust us!"
+
+There are four sources, in fact: "people with knowledge of the matter" who
+shared that knowledge with Reuters reporters Clare Jim, Reiji Murai and Poornima
+Gupta.
+
+Here's the opening: "Apple Inc is exploring launching iPhones with bigger
+screens, as well as cheaper models in a range of colors, over the next year,
+said four people with knowledge of the matter, as it takes a cue from rival
+Samsung Electronics."
+
+A bit later, it adds this: "Apple is looking at introducing at least two bigger
+iPhones next year - one with a 4.7-inch screen and one with a 5.7-inch screen -
+said the sources, including those in the supply chain in Asia. They said
+suppliers have been approached with plans for the larger screens, but noted it
+is still unclear whether Apple will actually launch its flagship product in the
+larger sizes."
+
+[In the first of two posts on this story, with no links to it or even mentioning
+Reuters, Will Stabley of the eponymous StableyTimes ("a new kind of news"),
+claims this is pure rumor mongering: "So when this morning's rumor dropped that
+the iPhone 6 will be an ungodly five and three quarter inches large, instead of
+recognizing it for the fabrication of typo [apparently intended as "fabrication
+or typo"] that it is, the industry is attempting to match up the '5.7 inch
+iPhone 6' claim with their imaginary multi-billion dollar phablet market." In
+March Samsung announced the ungodly 6.3-inch Galaxy Mega.] The key words in the
+two Reuters paragraphs above are "exploring" and "looking at." It's almost a
+certainty that Apple has been exploring and looking at different screen sizes
+for the iPhone (and iPad) for years, because it takes years for complex
+electronics products to be designed, tested, redesigned, finalized, and
+manufactured, marketed, distributed and sold at scale.
+
+At bottom, the Reuters story describes not the next iPhone or even next year's
+iPhone, but the process through which Apple develops the iPhone, by working with
+an intricate network of suppliers and other partners. The story itself alludes
+to this: "'They [Apple] constantly change product specifications almost to the
+final moment, so you're not really sure whether this is the final prototype,'
+said one person with direct knowledge of the matter."
+
+As the Reuters story notes, Apple CEO Tim Cook was asked during an interview at
+May's AllThingsD conference "why Apple hasn't launched different sized iPhones."
+His reply: "We haven't so far. That doesn't shut off the future."
+
+Of course it doesn't. That reply actually says far more than it first seems to.
+Asymco's Horace Dediu offered his interpretation of Cook's full set of remarks
+on this subject.
+
+One of Dediu's points is this: "The [extended] iPhone portfolio may still
+arrive. It hasn't so far because the cost/benefit is not there for Apple. On one
+hand it would take a great deal more sourcing effort and risk while dealing with
+constraints in production. On the other it would not offer meaningful additions
+to the customer base. At least so far. The economics and the demand may change
+(or have changed) and the time will come for a broader portfolio."
+
+A cost/benefit analysis is a moving target, because the economics involved and
+demand are constantly changing. Apple is paying attention to these changes, and
+to its markets. It's clear that so far - up to the release of the iPhone 5 -
+Apple's analysis of the cost/benefit is dramatically different from that of much
+of the iOSphere.
+
+How might that portfolio extension be made? As Dediu interprets Cook, "changing
+screen size is one dimension but it has to be balanced by performance gains that
+don't detract from other dimensions. Engineering is all about compromise and
+consumers pay Apple to make these compromises in an intelligent way. Apple does
+not come to an answer to the question of balance by launching many products and
+seeing what works. It cannot afford to dilute its brand with a long list of
+failures. Other brands may not be affected by trial-and-error approaches to the
+market but they are discounted by the customer accordingly."
+
+John Cox covers wireless networking and mobile computing for Network
+World.Twitter: http://twitter.com/johnwcoxnwwEmail: john_cox@nww.com
+
+
+

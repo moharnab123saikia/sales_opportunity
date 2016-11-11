@@ -1,0 +1,41 @@
+
+
+Taipei (The China Post/ANN) - Apple fans from Taiwan and Hong Kong have
+complained that iPhone 6s smartphones made with Samsung processors perform worse
+than those made by Taiwan Semiconductor Manufacturing Company (TSMC).
+Following the release of the new iPhone 6s, it has come to light that Apple had
+dual-sourced its A9 processors for the iPhone 6s and 6s Plus from both Samsung
+and its rival TSMC. The difference between the two versions continues to be a
+point of debate.
+¿They are not created equal,¿ said tech journalist Andy Patrizio, writing on his
+blog on IT World.com.
+Users have found the TSMC chip had eight hours of battery life, while Samsung
+had six hours. In addition, some lab results have shown the TSMC chip is faster
+and runs cooler than the Samsung processor.
+Some users said on the Internet that they were insisting on ¿TSMC only,¿ while
+another user remarked, ¿If I get the Samsung version, I might as well buy a
+Samsung phone.¿ However, there are others that don't find the difference too
+significant, since they would ¿say goodbye¿ to the model in a year anyway.
+Some Hong Kong media said the two chips appear to be unequally distributed
+around the world ¿ Almost 60 per cent of iPhone 6s models sold in the United
+States and Japan were made with the TSMC chips, while over 60 per cent of chips
+in Hong Kong were provided by Samsung. As for Taiwan, over 80 per cent of iPhone
+6s¿s allegedly run on Samsung chips.
+It is not evident by looking at the packaging whether it Samsung or TSMC
+supplied the processor for an individual iPhone, nor do serial codes or barcodes
+offer any clues. Developers have created apps that can detect which chip your
+phone operates on, such as the ¿CPU Identifier¿ offered online, free of charge.
+
+Apple issued a statement on October 9, ¿Our testing and customer data show the
+actual battery life of the iPhone 6s and iPhone 6s Plus, even taking into
+account variable component differences, vary within just 2-3 per cent of each
+other.¿ Apple rebutted previous lab tests, indicating such tests were conducted
+under battery-straining conditions that would be deemed ¿unrealistic¿ for
+real-world use.
+Amid user complaints and online debate, both Samsung and TSMC have declined to
+comment on the subject.
+Hong Kong media has speculated that Apple would cut down on chip orders from
+Samsung in the future, and industry analysts predict that TSMC would likely gain
+an upper hand in a coming deal with Apple, allowing it to become the exclusive
+supplier for Apple¿s A10 processors.
+

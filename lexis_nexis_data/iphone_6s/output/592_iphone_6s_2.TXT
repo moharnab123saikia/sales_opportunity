@@ -1,0 +1,35 @@
+
+
+NEW DELHI: It looks like some Apple iPhone 6S units come with a more efficient
+chip than others.
+
+While it was rumoured that Apple's new A9 chip that powers the iPhone 6S and 6S
+Plus was sourced from two different chipmakers - Samsung and TSMC (Taiwan
+Semiconductor Manufacturing Company), some video reviewers are reporting that
+iPhones powered by TSMC made chip offers better battery backup.
+
+Video reviewers Austin Evans and Jonathan Morrison have uploaded videos
+comparing TSMC and Samsung powered models against each other and found that the
+TSMC-powered unit was more efficient. After shooting and exporting a 10 minute
+4K video with the two phones at 100% battery, Morrison found that the TSMC unit
+had 62% battery left while the Samsung one had 55%. After repeating the test the
+models had 24% and 10% battery.
+
+Evans tested the phones with the Geekbench 3 battery test with 100% brightness
+on both units. He found that the TSMC chip-powered iPhone 6S lasted 50 minutes
+longer than the Samsung chip-powered model. The reviewer also noted that the
+TSMC model ran at a cooler temperature. However, streaming videos resulted in
+similar performance and there was just a 1% difference in battery consumption
+between the two.
+
+It's worth mentioning that real world performance could be different and most
+users may not feel any difference. It's also not possible for users to know the
+manufacturer of the chip before purchasing the iPhone. The only way is to run
+some hardware tests or use an app like Lirum after setting up the phone.
+
+However, it's expected that Apple, like any other device maker, should ensure
+that all iPhone 6S units offer the same performance and battery life
+irrespective of the component maker.
+
+For Reprint Rights: timescontent.com
+

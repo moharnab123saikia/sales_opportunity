@@ -1,0 +1,61 @@
+
+
+The much-leaked iPhone7 has arrived and in large, it has been well received,
+albeit without the headphone jack, which makes way for Apple's wireless
+headphones.
+
+Rumours are already circulating about the iPhone 8 having a fully glass display,
+which is interesting as Apple were recently awarded a patent for a Glass
+enclosure.
+
+The application describes the means of building a mobile device, including a
+mobile phone, out of glass.
+
+However, design aside, the real game changer on the mobile horizon is Virtual
+Reality (VR).
+
+The next major handset release will be the Samsung Galaxy S8, which is expected
+in April 2017.
+
+The two big questions are whether the Galaxy S8 will feature a removable
+battery, similar to that of the LG G5, and have a 4K display.
+
+The 4K display may have seemed a little 'over the top' for the Sony Xperia Z5
+Premium, but the Samsung Galaxy S8 has one key reason, to enhance it's Virtual
+Reality (VR) offering.
+
+Later this year, Google and its partners will launch their own virtual reality
+headsets, Daydream, which will take Samsung's Gear VR head on.
+
+It's a big move for Google as Samsung are working on expanding its Gear VR
+support beyond standard controls, meaning that motion controllers are probably
+coming down the line.
+
+These advancements are being enabled through the miniaturisation of components,
+allowing for more technology to be built into the handset.
+
+Researchers have recently developed a method that allows the mobile antennas to
+shift from the analogue to the digital world.
+
+Antennas currently use technology developed half a century ago and that takes up
+valuable space. The new digital antennas are smaller and offer greater
+bandwidth, which will lead to faster data transfer and improved efficiency.
+
+So, how exactly is mobile VR expected to come to life? That's where the
+advancements in the vision processing unit (VPU) come in. The role of the VPU is
+to offer a helping hand to the overworked CPU and GPU chips within your phone,
+these are responsible for every task it does, from processing graphics to
+queueing up sensors.
+
+By inserting a more powerful VPU into a more central processing role, the VPU
+will make the informational assembly line more efficient, which in turn squeezes
+even more out of the hardware, enabling more to be achieved from these small
+chips.
+
+It's crystal clear that virtual reality and mobile are about to embark on a
+wonderful adventure together.
+
+- Eric Carson is director of Rainbow Communications and can be contacted via
+www.rainbowcomms.com. Rainbow Communications can also be followed on Twitter
+@Rainbow_ Comms.
+
