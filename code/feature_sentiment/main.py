@@ -98,7 +98,7 @@ def main():
 	The true main.
 	"""
 	phones = ['iphone_6', 'iphone_6plus', 'iphone_6s', 'iphone7', 'lg_g5', 'pixel', 'galaxy_s7']
-
+	#phones = ['iphone_6']
 	score = {}
 
 	for phone in phones:
