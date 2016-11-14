@@ -93,20 +93,21 @@ def read_data(phone):
 		data[f] = inputfile.read()
 	return data
 
-def main():
+def main(phone):
 	"""
 	The true main.
 	"""
-	phones = ['iphone_6', 'iphone_6plus', 'iphone_6s', 'iphone7', 'lg_g5', 'pixel', 'galaxy_s7']
+	#phones = ['iphone_6', 'iphone_6plus', 'iphone_6s', 'iphone7', 'lg_g5', 'pixel', 'galaxy_s7']
 	#phones = ['iphone_6']
 	score = {}
 
-	for phone in phones:
-		data = read_data(phone)
+	#for phone in phones:
+	data = read_data(phone)
 
-		reviews = get_reviews_for_phone(data)
-		score[phone] = aspect_opinions(reviews)
-		print phone + " done"
+	reviews = get_reviews_for_phone(data)
+	score[phone] = aspect_opinions(reviews)
+	print phone + " done"
 	print score
 if __name__ == "__main__":
-	main()
+	import sys
+	main(sys.argv[1])
