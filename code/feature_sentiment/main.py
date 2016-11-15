@@ -69,7 +69,8 @@ def aspect_opinions(reviews):
 	"""
 
 	aspects = extract_aspects(reviews)
-	return dict([(aspect, score_aspect(reviews, aspect)) for aspect in aspects])
+	return aspects
+	#return dict([(aspect, score_aspect(reviews, aspect)) for aspect in aspects])
 
 
 def read_data(phone):
@@ -93,21 +94,22 @@ def read_data(phone):
 		data[f] = inputfile.read()
 	return data
 
-def main(phone):
+
+def main():
 	"""
 	The true main.
 	"""
-	#phones = ['iphone_6', 'iphone_6plus', 'iphone_6s', 'iphone7', 'lg_g5', 'pixel', 'galaxy_s7']
+	phones = ['iphone_6', 'iphone_6plus', 'iphone_6s', 'iphone7', 'lg_g5', 'pixel', 'galaxy_s7']
 	#phones = ['iphone_6']
-	score = {}
+	features = set()
+	for phone in phones:
+		data = read_data(phone)
+		reviews = get_reviews_for_phone(data)
+		f = aspect_opinions(reviews)
+		for k in f :
+			features.add(k)
+	print features
 
-	#for phone in phones:
-	data = read_data(phone)
-
-	reviews = get_reviews_for_phone(data)
-	score[phone] = aspect_opinions(reviews)
-	print phone + " done"
-	print score
 if __name__ == "__main__":
 	import sys
-	main(sys.argv[1])
+	main()

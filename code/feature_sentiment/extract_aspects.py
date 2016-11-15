@@ -94,4 +94,5 @@ def aspects_from_tagged_sents(tagged_sentences):
 				noun_counter[word] += 1
 
 	# list of tuples of form (noun, count)
-	return [noun for noun, _ in noun_counter.most_common(50)]
+	return [noun for noun, _ in noun_counter.most_common(200)]
+	#return noun_counter.keys()

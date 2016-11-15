@@ -124,7 +124,7 @@ class SentimentScorer():
 		return pt.tokenize(sentence)
 
 
-def get_sentences_by_aspect(aspect, reviews):
+def get_sentences_by_aspect(aspect, tokenized_sentences):
 	"""
 	INPUT: string (aspect), iterable of strings (full reviews)
 	OUTPUT: iterable of strings
@@ -135,19 +135,5 @@ def get_sentences_by_aspect(aspect, reviews):
 
 	# THIS CODE IS TOTALLY COPIED FROM MAIN FILE function 'extract_aspects'
 	# TODO: REFACTOR THIS IN AN INTELLIGENT WAY.
-
-	from extract_aspects import get_sentences, tokenize, pos_tag, aspects_from_tagged_sents
-
-	# get
-	#sentences = []
-	#for review in reviews:
-	#	sentences.extend(get_sentences(review))
-
-	# tokenize each sentence
-	sentences = []
-	for review in reviews :
-			sentences.extend(get_sentences(review))
-
-	tokenized_sentences = [tokenize(sentence) for sentence in sentences]
 
 	return [sent for sent in tokenized_sentences if aspect in sent]
