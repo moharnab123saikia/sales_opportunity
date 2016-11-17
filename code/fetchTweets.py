@@ -4,10 +4,10 @@ def fetchTweet(searchterm) :
 	try:
 		deleteWords = ['sleeve', 'giveaway', 'takeaway', 'website', 'ebay', 'amazon', 'buy', 'sale', '#giveaway', 'contest', 'wallpapers', 'inkcase', 'case']
 		ts = TwitterSearch (
-			consumer_key = 'qnDfVfsAf73E7Bxyf9kVRWTVg',
-			consumer_secret = 'danStpX5V2vbHXz2uBdWEcFpEXnUdbG2jlUwU7Xd37YHJa1xWQ',
-			access_token = '17994241-c2dim0Wxxjr43n4jzot7w9gkhg9mA3cz92h1uuAf7',
-			access_token_secret = 'OimBGv92bHaTOBMozMGttKICTBktG8JCi5ZQN6z4IFHLZ'
+			consumer_key = 'boFWmv1HoOEZnxYGrIKEg3YFC',
+			consumer_secret = 'Z9tI4LP0QwNV3DKSuo56EObnBLQgZzpCXEZ59Zo8C46D2plWVt',
+			access_token = '17994241-CVhAZfY0tTVIlEafx0zGDfZ4IHqzZ7fEI8e4GLviN',
+			access_token_secret = 'FTJeiDQa6yVJrnqCvvhwQPuLr0gAwKh18P7gjpj2F2A1B'
 		)
 
 		tso = TwitterSearchOrder()
@@ -31,8 +31,8 @@ def fetchTweet(searchterm) :
 	    return []
 
 if __name__ == '__main__':
-	keywords = ['#iphone7']#, '#iphone7plus', '#iphone6s', '#iphone6splus', '#iphone6', '#iphone6plus', '#galaxys7', '#lgg5', '#googlepixel', '#googlepixelxl']
-	op = open('tweets.json', 'w')
+	keywords = ['#iphone7', '#iphone7plus', '#iphone6s', '#iphone6splus', '#iphone6', '#iphone6plus', '#galaxys7', '#lgg5', '#googlepixel',]
+	op = open('/home/vivek/Desktop/sales_opportunity/code/tweets1.json', 'a')
 	for keyword in keywords :
 		op.write(keyword)
 		tweets = fetchTweet(keyword)

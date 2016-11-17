@@ -90,9 +90,9 @@ def aspects_from_tagged_sents(tagged_sentences):
 
 	for sent in tagged_sentences:
 		for word, pos in sent:
-			if pos=='NNP' or pos=='NN' and word not in STOPWORDS and len(word) > 2:
+			if (pos=='NNP' or pos=='NN') and (word not in STOPWORDS) and (len(word) > 2) and (len(word) < 15):
 				noun_counter[word] += 1
 
 	# list of tuples of form (noun, count)
-	return [noun for noun, _ in noun_counter.most_common(200)]
-	#return noun_counter.keys()
+	#return [noun for noun, _ in noun_counter.most_common(200)]
+	return noun_counter.keys()

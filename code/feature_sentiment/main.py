@@ -103,12 +103,12 @@ def main():
 	#phones = ['iphone_6']
 	features = set()
 	for phone in phones:
+		fi = open("/home/vivek/Desktop/features_" + phone + ".txt", "w")
 		data = read_data(phone)
 		reviews = get_reviews_for_phone(data)
 		f = aspect_opinions(reviews)
 		for k in f :
-			features.add(k)
-	print features
+			fi.write(k.encode("utf-8") + "\n")
 
 if __name__ == "__main__":
 	import sys
