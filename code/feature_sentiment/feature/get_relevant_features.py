@@ -4,13 +4,13 @@ def read_feaures_csv() :
     import os
 
     DATAPATH = os.getcwd()
-    DATAPATH = DATAPATH + os.sep + "features.csv"
+    DATAPATH = DATAPATH + os.sep + "relevant_features.csv"
 
     csv = open(DATAPATH, "r")
     features = {}
     for line in csv :
         content = line.split(",")
-        features[content[0]] = content[1]
+        features[content[0]] = content[1].split("\r")[0].split("\n")[0]
     return features
 
 def read_phone_features(phone) :
@@ -22,7 +22,7 @@ def read_phone_features(phone) :
     txt = open(DATAPATH)
     features = []
     for line in txt :
-        features.append(line[:-1])
+        features.append(line.split("\r")[0].split("\n")[0])
     return features
 
 def find_similarity(feature_list1, feature_list2) :

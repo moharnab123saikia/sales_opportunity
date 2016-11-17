@@ -94,5 +94,25 @@ def aspects_from_tagged_sents(tagged_sentences):
 				noun_counter[word] += 1
 
 	# list of tuples of form (noun, count)
-	#return [noun for noun, _ in noun_counter.most_common(200)]
+	return [noun for noun, _ in noun_counter.most_common(200)]
+
+def all_aspects_from_tagged_sents(tagged_sentences):
+	"""
+	INPUT: list of lists of strings
+	OUTPUT: list of aspects
+
+	Given a list of tokenized and pos_tagged sentences from reviews
+	about a given restaurant, return the most common aspects
+	"""
+
+	STOPWORDS = set(stopwords.words('english'))
+
+	# find the most common nouns in the sentences
+	noun_counter = Counter()
+
+	for sent in tagged_sentences:
+		for word, pos in sent:
+			if (pos=='NNP' or pos=='NN') and (word not in STOPWORDS) and (len(word) > 2) and (len(word) < 15):
+				noun_counter[word] += 1
+
 	return noun_counter.keys()

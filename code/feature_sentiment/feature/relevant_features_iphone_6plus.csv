@@ -6,9 +6,9 @@ flicker,flash
 focus,focus
 meter,mms
 stylus,sensor
-radar,accelerometer
+radar,barometer
 paper,cardboard
-gauge,accelerometer
+gauge,barometer
 keyboard,sensor
 touch,touch
 defender,mp
@@ -33,8 +33,8 @@ elevation,zoom
 spectacular,performance
 gadget,sensor
 blur,image
-watch,accelerometer
-timepiece,accelerometer
+watch,barometer
+timepiece,barometer
 lcd,lcd
 fan,sensor
 compass,compass
@@ -71,7 +71,7 @@ hissing,noise
 nanometer,mms
 click,noise
 network,network
-clock,accelerometer
+clock,barometer
 thunder,noise
 cameras,camera
 sms,sms
@@ -96,14 +96,14 @@ viewfinder,autofocus
 prattle,talk
 spark,flash
 cardboard,cardboard
-altimeter,accelerometer
+altimeter,barometer
 hiss,noise
 card,cardboard
 lens,autofocus
 midi,hotspot
 vibration,vibration
 metre,mms
-timer,accelerometer
+timer,barometer
 filter,sensor
 fingerprint,fingerprint
 dialog,talk
@@ -175,7 +175,7 @@ videos,video
 demo,display
 pad,cardboard
 mike,loudspeaker
-pedometer,accelerometer
+pedometer,barometer
 titanium,sms
 ram,ram
 chat,talk

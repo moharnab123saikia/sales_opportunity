@@ -13,9 +13,7 @@ def extract_aspects():
 
 	import os
 
-	DATAPATH = os.getcwd()
-	DATAPATH = os.sep.join(DATAPATH.split(os.sep))
-	DATAPATH += os.sep + "features.txt"
+	DATAPATH = os.getcwd() + os.sep + "dynamic_features.txt"
 
 	f = open(DATAPATH)
 	for line in f :
@@ -64,11 +62,8 @@ def read_data(phone):
 	return data
 
 def main():
-	"""
-	The true main.
-	"""
 	phones = ['iphone_6', 'iphone_6plus', 'iphone_6s', 'iphone7', 'lg_g5', 'pixel', 'galaxy_s7']
-	#phones = ['iphone_6']
+
 	aspects = extract_aspects()
 	feature_scores = {}
 	for phone in phones:
@@ -80,5 +75,4 @@ def main():
 	return feature_scores
 
 if __name__ == "__main__":
-	import sys
 	main()

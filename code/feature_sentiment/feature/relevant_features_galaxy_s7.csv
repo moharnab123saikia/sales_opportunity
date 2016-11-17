@@ -5,9 +5,9 @@ fingerprint,fingerprint
 focus,focus
 meter,mms
 stylus,sensor
-radar,accelerometer
+radar,barometer
 paper,cardboard
-gauge,accelerometer
+gauge,barometer
 keyboard,sensor
 touch,touch
 take-up,sensor
@@ -30,7 +30,7 @@ touchscreen,touchscreen
 spectacular,performance
 gadget,sensor
 material,cardboard
-watch,accelerometer
+watch,barometer
 photograph,photo
 primary,primary
 lcd,lcd
@@ -38,9 +38,8 @@ fan,sensor
 compass,compass
 autofocus,autofocus
 knock,noise
-timepiece,accelerometer
+timepiece,barometer
 aluminum,sms
-daydream,daydream
 zoom,zoom
 candy,marshmallow
 magnet,sensor
@@ -48,7 +47,7 @@ stuff,cardboard
 found,pay
 blur,image
 mile,inch
-magnetometer,accelerometer
+magnetometer,barometer
 www,wlan
 representation,image
 concert,performance
@@ -65,7 +64,7 @@ nanometer,mms
 click,noise
 flower,snapdragon
 network,network
-clock,accelerometer
+clock,barometer
 thunder,noise
 cameras,camera
 sms,sms
@@ -84,7 +83,7 @@ formation,secondary
 key,sensor
 viewfinder,autofocus
 cardboard,cardboard
-altimeter,accelerometer
+altimeter,barometer
 card,cardboard
 projector,autofocus
 sub,gyro
@@ -126,7 +125,7 @@ ram,ram
 north,hotspot
 transistor,led
 photos,photo
-rangefinder,accelerometer
+rangefinder,barometer
 corning,corning
 focusing,focus
 translation,record

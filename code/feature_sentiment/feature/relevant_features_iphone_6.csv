@@ -8,9 +8,9 @@ fingerprint,fingerprint
 focus,focus
 meter,mms
 stylus,sensor
-radar,accelerometer
+radar,barometer
 paper,cardboard
-gauge,accelerometer
+gauge,barometer
 zinc,sms
 keyboard,sensor
 touch,touch
@@ -37,7 +37,7 @@ elevation,zoom
 cryptography,ips
 gadget,sensor
 blur,image
-watch,accelerometer
+watch,barometer
 account,record
 lcd,lcd
 closeup,photo
@@ -47,7 +47,7 @@ rotation,vibration
 tick,noise
 autofocus,autofocus
 knock,noise
-timepiece,accelerometer
+timepiece,barometer
 aluminum,sms
 impact,touch
 zoom,zoom
@@ -81,12 +81,11 @@ buzz,noise
 loudspeaker,loudspeaker
 material,cardboard
 network,network
-clock,accelerometer
+clock,barometer
 movie,performance
 cameras,camera
 sms,sms
 gujarat,hotspot
-demos,display
 e-mail,email
 magnitude,size
 bureau,fps
@@ -108,13 +107,13 @@ key,sensor
 tremor,vibration
 spark,flash
 cardboard,cardboard
-altimeter,accelerometer
+altimeter,barometer
 card,cardboard
 lens,autofocus
 midi,hotspot
 vibration,vibration
 kashmir,hotspot
-timer,accelerometer
+timer,barometer
 filter,sensor
 conversation,talk
 dialog,talk
@@ -173,7 +172,7 @@ distance,proximity
 photograph,photo
 laser,autofocus
 converter,sensor
-imagination,daydream
+demos,display
 science,ips
 scratching,noise
 rbs,sms
@@ -195,7 +194,7 @@ videos,video
 gallium,sms
 pic,performance
 mike,loudspeaker
-pedometer,accelerometer
+pedometer,barometer
 titanium,sms
 ram,ram
 chat,talk

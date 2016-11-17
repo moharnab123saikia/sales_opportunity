@@ -14,7 +14,6 @@ sitting,vibration
 focus,focus
 snowshoe,sensor
 fan,sensor
-daydream,daydream
 magnet,sensor
 subwoofer,loudspeaker
 cms,mms
@@ -24,7 +23,7 @@ sensation,detection
 video,video
 click,noise
 sub,gyro
-clock,accelerometer
+clock,barometer
 thunder,noise
 blur,image
 net,wlan
@@ -50,7 +49,7 @@ splash,noise
 memory,memory
 lcds,lcd
 account,record
-collision,touch
+titanium,sms
 cas,sms
 science,ips
 viewfinder,autofocus
@@ -58,7 +57,7 @@ closing,vibration
 toffee,marshmallow
 earphone,loudspeaker
 chit,ios
-titanium,sms
+collision,touch
 earpiece,loudspeaker
 snapdragon,snapdragon
 machine,sensor
@@ -88,7 +87,7 @@ talk,talk
 interpretation,image
 meter,mms
 stylus,sensor
-radar,accelerometer
+radar,barometer
 zep,gyro
 paper,cardboard
 keyboard,sensor
@@ -122,7 +121,7 @@ mms,mms
 formation,secondary
 card,cardboard
 yard,inch
-timer,accelerometer
+timer,barometer
 filter,sensor
 conversation,talk
 south,hotspot
@@ -157,7 +156,7 @@ notess,record
 hologram,photo
 rattle,noise
 ram,ram
-pedometer,accelerometer
+pedometer,barometer
 agronomy,ips
 screw,mp
 microphone,loudspeaker
@@ -166,7 +165,7 @@ hotspot,hotspot
 note,record
 equipment,camera
 lip,face
-thermometer,accelerometer
+thermometer,barometer
 performance,performance
 detector,sensor
 golan,hotspot
@@ -185,7 +184,7 @@ psychology,ips
 snapshot,photo
 gesture,vibration
 belle,ios
-gauge,accelerometer
+gauge,barometer
 defender,mp
 impact,touch
 grunt,noise
@@ -194,7 +193,7 @@ carolina,hotspot
 photographs,photo
 touchscreen,touchscreen
 jazz,talk
-watch,accelerometer
+watch,barometer
 clang,noise
 whistle,noise
 breast,face
@@ -202,7 +201,7 @@ chat,talk
 compass,compass
 ssa,fps
 secondary,secondary
-timepiece,accelerometer
+timepiece,barometer
 aluminum,sms
 stuff,cardboard
 caramel,marshmallow
@@ -223,7 +222,7 @@ spark,flash
 caledonia,hotspot
 cop,mp
 lass,ios
-speedometer,accelerometer
+speedometer,barometer
 normandy,hotspot
 buzz,noise
 protector,mp
@@ -257,7 +256,7 @@ file,record
 demo,display
 lapland,hotspot
 demos,display
-tonometer,accelerometer
+tonometer,barometer
 inspector,mp
 pat,noise
 metrology,ips
@@ -304,7 +303,7 @@ overlap,image
 e-mail,email
 noise,noise
 keeper,mp
-altimeter,accelerometer
+altimeter,barometer
 poss,sms
 surround,hotspot
 dialog,talk
@@ -340,7 +339,6 @@ videos,video
 focussing,focus
 pic,performance
 mike,loudspeaker
-imagination,daydream
 tribune,mp
 film,performance
 vista,panorama
@@ -359,4 +357,4 @@ wifi,wlan
 gorilla,gorilla
 pension,pay
 bulkiness,size
-rangefinder,accelerometer
+rangefinder,barometer

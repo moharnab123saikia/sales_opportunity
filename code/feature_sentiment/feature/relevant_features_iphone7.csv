@@ -6,7 +6,7 @@ flicker,flash
 focus,focus
 meter,mms
 stylus,sensor
-radar,accelerometer
+radar,barometer
 paper,cardboard
 keyboard,sensor
 touch,touch
@@ -26,7 +26,7 @@ crash,noise
 spectacular,performance
 gadget,sensor
 blur,image
-watch,accelerometer
+watch,barometer
 account,record
 lcd,lcd
 fan,sensor
@@ -35,7 +35,6 @@ rotation,vibration
 tick,noise
 grumbling,noise
 aluminum,sms
-daydream,daydream
 sizes,size
 zoom,zoom
 magnet,sensor
@@ -56,7 +55,7 @@ hissing,noise
 click,noise
 loudspeaker,loudspeaker
 network,network
-clock,accelerometer
+clock,barometer
 thunder,noise
 cameras,camera
 sms,sms
@@ -146,7 +145,6 @@ videos,video
 demo,display
 pic,performance
 mike,loudspeaker
-imagination,daydream
 posing,vibration
 file,record
 film,performance

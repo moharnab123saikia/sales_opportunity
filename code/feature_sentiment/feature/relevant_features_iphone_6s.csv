@@ -3,9 +3,9 @@ proximity,proximity
 focus,focus
 meter,mms
 stylus,sensor
-radar,accelerometer
+radar,barometer
 paper,cardboard
-gauge,accelerometer
+gauge,barometer
 keyboard,sensor
 touch,touch
 defender,mp
@@ -30,7 +30,7 @@ manila,cardboard
 spectacular,performance
 gadget,sensor
 blur,image
-watch,accelerometer
+watch,barometer
 account,record
 sss,fps
 lcd,lcd
@@ -65,7 +65,7 @@ popping,noise
 deputy,mp
 squirm,vibration
 network,network
-clock,accelerometer
+clock,barometer
 bulkiness,size
 maps,photo
 cameras,camera
@@ -92,7 +92,7 @@ spark,flash
 ios,ios
 card,cardboard
 lens,autofocus
-timer,accelerometer
+timer,barometer
 filter,sensor
 conversation,talk
 buzz,noise
@@ -143,7 +143,6 @@ distance,proximity
 photograph,photo
 laser,autofocus
 converter,sensor
-demos,display
 appliance,sensor
 record,record
 magnesium,sms
@@ -162,7 +161,7 @@ demo,display
 ram,ram
 mike,loudspeaker
 banging,noise
-imagination,daydream
+demos,display
 chat,talk
 crash,noise
 film,performance

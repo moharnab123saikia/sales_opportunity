@@ -6,7 +6,7 @@ flicker,flash
 focus,focus
 meter,mms
 stylus,sensor
-radar,accelerometer
+radar,barometer
 paper,cardboard
 visualisation,image
 keyboard,sensor
@@ -35,7 +35,7 @@ spectacular,performance
 metre,mms
 gadget,sensor
 material,cardboard
-watch,accelerometer
+watch,barometer
 account,record
 lcd,lcd
 touching,touch
@@ -46,7 +46,6 @@ tick,noise
 detector,sensor
 knock,noise
 aluminum,sms
-daydream,daydream
 bobby,mp
 zoom,zoom
 magnet,sensor
@@ -73,7 +72,7 @@ buzz,noise
 loudspeaker,loudspeaker
 flower,snapdragon
 network,network
-clock,accelerometer
+clock,barometer
 thunder,noise
 cameras,camera
 sms,sms
@@ -102,13 +101,13 @@ key,sensor
 viewfinder,autofocus
 spark,flash
 cardboard,cardboard
-altimeter,accelerometer
+altimeter,barometer
 card,cardboard
 lens,autofocus
 voice,sound
 roar,noise
 kashmir,hotspot
-timer,accelerometer
+timer,barometer
 filter,sensor
 fingerprint,fingerprint
 fcc,fps
@@ -138,7 +137,7 @@ projector,autofocus
 accelerometer,accelerometer
 liftoff,zoom
 system,gps
-lidar,accelerometer
+lidar,barometer
 camera,camera
 memory,memory
 sbs,sms
@@ -160,7 +159,7 @@ distance,proximity
 photograph,photo
 laser,autofocus
 converter,sensor
-imagination,daydream
+collision,touch
 science,ips
 vanilla,snapdragon
 appliance,sensor
@@ -181,7 +180,6 @@ videos,video
 demo,display
 pic,performance
 head,face
-collision,touch
 titanium,sms
 surround,hotspot
 chat,talk

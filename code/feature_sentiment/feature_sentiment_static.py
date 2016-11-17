@@ -15,7 +15,7 @@ def get_relevant_features() :
 	for line in f :
 		if len(line) > 0:
 			contents = line.split(",")
-			features[contents[0]] = contents[1].split("\r\n")[0]
+			features[contents[0]] = contents[1].split("\r")[0].split("\n")[0]
 	return features
 
 def get_reviews_for_phone(phone):
@@ -29,7 +29,6 @@ def extract_aspects(phone):
 	import os
 
 	DATAPATH = os.getcwd()
-	DATAPATH = os.sep.join(DATAPATH.split(os.sep))
 	DATAPATH += os.sep + "feature" + os.sep + "relevant_features_" + phone + ".csv"
 
 	f = open(DATAPATH, "r")
@@ -95,11 +94,7 @@ def read_data(phone):
 	return data
 
 def main():
-	"""
-	The true main.
-	"""
 	phones = ['iphone_6', 'iphone_6plus', 'iphone_6s', 'iphone7', 'lg_g5', 'pixel', 'galaxy_s7']
-	#phones = ['iphone_6']
 	relevant_features = get_relevant_features()
 
 	feature_scores = {}
