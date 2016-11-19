@@ -9,7 +9,7 @@ def fetchTweet(searchterm) :
 			access_token = '17994241-c2dim0Wxxjr43n4jzot7w9gkhg9mA3cz92h1uuAf7',
 			access_token_secret = 'OimBGv92bHaTOBMozMGttKICTBktG8JCi5ZQN6z4IFHLZ'
 		)
-		
+
 		tso = TwitterSearchOrder()
 		tso.set_keywords([searchterm])
 		tso.set_language('en')
@@ -22,15 +22,16 @@ def fetchTweet(searchterm) :
 				if word in deleteWords :
 					continue
 			tweets.append(tweet)
-		return tweets
+		print tweets
+		return str(tweets)
 	except TwitterSearchException as e:
-	    return None
+	    return "error"
 
 if __name__ == '__main__':
 	keywords = ['#iphone7', '#iphone7plus', '#iphone6s', '#iphone6splus', '#iphone6', '#iphone6plus', '#galaxys7', '#lgg5', '#googlepixel', '#googlepixelxl']
-	op = open('tweets.json', 'w')
+
 	for keyword in keywords :
+		op = open(keyword +'.json', 'w')
 		op.write(keyword)
 		op.write(fetchTweet(keyword))
 		op.write('\n\n')
-
