@@ -63,29 +63,29 @@ def table2csv(features, titles) :
     DATAPATH += os.sep
     cfile = open(DATAPATH + "twitter_counts.csv", "w")
     sfile = open(DATAPATH + "twitter_sentiments.csv", "w")
+    
+    titles = set(titles.values())
 
     cfile.write("phones")
     for title in titles :
-        cfile.write("," + titles[title])
+        cfile.write("," + title)
     cfile.write("\n")
 
     sfile.write("phones")
     for title in titles :
-        sfile.write("," + titles[title])
+        sfile.write("," + title)
     sfile.write("\n")
 
     for phone in feature_c :
         cfile.write(phone)
         counts = feature_c[phone]
         for feature in titles :
-            feature = titles[feature]
             cfile.write(",%d" % counts.get(feature, 0))
         cfile.write("\n")
 
         sfile.write(phone)
         sentiments = feature_s[phone]
         for feature in titles :
-            feature = titles[feature]
             sfile.write(",%f" % sentiments.get(feature, 0.0))
         sfile.write("\n")
 
