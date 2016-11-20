@@ -46,52 +46,13 @@ def read_feature_file(filename, master_features) :
         feature_c[phone] = phone_feature_count
     return (feature_c, feature_s)
 
-def read_dynamic_features(master_features) :
+def read_tweet_features(master_features) :
     import os
     DATAPATH = os.getcwd()
     DATAPATH = os.sep.join(DATAPATH.split(os.sep)[ : -1])
-    DATAPATH = DATAPATH + os.sep + "output" + os.sep + "sentiment_scores" + os.sep + "dynamic_feature_scores.txt"
+    DATAPATH = DATAPATH + os.sep + "output" + os.sep + "sentiment_scores" + os.sep + "twitter_data.txt"
     return read_feature_file(DATAPATH, master_features)
 
-def read_static_features(master_features) :
-    import os
-    DATAPATH = os.getcwd()
-    DATAPATH = os.sep.join(DATAPATH.split(os.sep)[ : -1])
-    DATAPATH = DATAPATH + os.sep + "output" + os.sep + "sentiment_scores" + os.sep + "dynamic_feature_scores.txt"
-    return read_feature_file(DATAPATH, master_features)
-
-def merge_dictionaries(dynamic_features, static_features, master_features) :
-    feature_c = {}
-    feature_s = {}
-
-    static_c = static_features[0]
-    static_s = static_features[1]
-
-    dynamic_c = dynamic_features[0]
-    dynamic_s = dynamic_features[1]
-
-    phones = dynamic_c.keys()
-    features = master_features.values()
-
-    for phone in phones :
-        pfeatures = {}
-        pfeaturec = {}
-        for feature in features :
-            newCount = ( int(dynamic_c[phone].get(feature, 0)) + int(static_c[phone].get(feature, 0)) )
-            if newCount > 0 :
-                static_senti = float(static_s[phone].get(feature, 0) * static_c[phone].get(feature, 0))
-                dynamic_senti = float(dynamic_s[phone].get(feature, 0) * dynamic_c[phone].get(feature, 0))
-
-                pfeatures[feature] = ( float(static_senti) + float(dynamic_senti) ) / newCount
-                if pfeatures[feature] > 1 :
-                    print phone, feature
-            else :
-                pfeatures[feature] = 0.0
-            pfeaturec[feature] = newCount
-        feature_c[phone] = pfeaturec
-        feature_s[phone] = pfeatures
-
-    return (feature_c, feature_s)
 
 def table2csv(features, titles) :
     feature_c = features[0]
@@ -100,8 +61,8 @@ def table2csv(features, titles) :
     import os
     DATAPATH = os.getcwd()
     DATAPATH += os.sep
-    cfile = open(DATAPATH + "counts.csv", "w")
-    sfile = open(DATAPATH + "sentiments.csv", "w")
+    cfile = open(DATAPATH + "twitter_counts.csv", "w")
+    sfile = open(DATAPATH + "twitter_sentiments.csv", "w")
 
     cfile.write("phones")
     for title in titles :
@@ -130,10 +91,6 @@ def table2csv(features, titles) :
 
 master_features = read_all_features()
 #print sorted(master_features.values())
-dynamic_features = read_dynamic_features(master_features)
+features = read_tweet_features(master_features)
 #print dynamic_features[1]
-static_features = read_static_features(master_features)
-#print static_features[1]
-features = merge_dictionaries(dynamic_features, static_features, master_features)
-#print features[1]
 table2csv(features, master_features)

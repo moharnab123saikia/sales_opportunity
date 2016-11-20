@@ -131,8 +131,10 @@ def aspect_opinions(tweets, aspects):
                 else :
                     aspect_to_tweets[aspect] = []
                     aspect_to_tweets[aspect].append(tweet)
-
-    return [(aspect, len(tweets), score_aspect(tweets)) for aspect, tweets in aspect_to_tweets.items()]
+    features = {}
+    for aspect, tweets in aspect_to_tweets.items() :
+        features[aspect] = [len(tweets), score_aspect(tweets)]
+    return features
 
 def main():
     aspects = read_feaures_csv()
