@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta property="og:image" content="http://lipis.github.io/bootstrap-social/assets/img/bootstrap-social.png">
+    <meta property="og:url" content="http://lipis.github.io/bootstrap-social/">
+    <title>vLibrary - crowd based library</title>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+      <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+      <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="css/bootstrap-social.css" rel="stylesheet">
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Custom CSS -->
+    <link href="css/grayscale.css" rel="stylesheet">
+
+    
+  
+    <style>
+      #sortable { list-style-type: none; margin: 0; padding: 0 0 2.5em; float: left; margin-right: 10px; }
+      #sortable li { margin: 0 5px 5px 5px; padding: 5px; font-size: 1.2em; width: 120px; }
+      </style>
+      <script>
+        $(function() {
+            $( "#sortable" ).sortable({
+             
+            }).disableSelection();
+        });
+
+        function submit(){
+           var idsInOrder = $("#sortable").sortable("toArray");
+           s = "";
+           $.each(idsInOrder, function(i, v) {
+            s = s + "," + v;
+           });
+           s = s.substring(1);
+           var buttonSelected = $('.btn-group .active input').attr("id");
+           
+           $.ajax( {
+            url : "http://192.168.1.112:5000",
+            method : "POST",
+            data : {price : buttonSelected, features : s},
+            success : function(data) {
+                console.log(data);
+            }
+           });
+        }
+
+      </script>
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <div class='bg1'></div>
+    <!-- Intro Header -->
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="brand-heading">Sales Opportunity</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="btn-group" data-toggle="buttons">
+                      <label class="btn btn-primary active">
+                        <input type="radio" name="options" id="650" autocomplete="off" checked> 600-700
+                      </label> <br/>
+                      <label class="btn btn-primary">
+                        <input type="radio" name="options" id="750" autocomplete="off"> 700-800
+                      </label><br/>
+                      <label class="btn btn-primary">
+                        <input type="radio" name="options" id="850" autocomplete="off"> 800-900
+                      </label>
+                    </div>
+                    
+                    <ul id="sortable">
+                      <li class="ui-state-highlight" id='resolution'>Resolution</li>
+                      <li class="ui-state-highlight" id='weight'>Weight</li>
+                      <li class="ui-state-highlight" id='size'>Size</li>
+                      <li class="ui-state-highlight" id='pay'>Pay</li>
+                      <li class="ui-state-highlight" id='storage'>Storage</li>
+                      <li class="ui-state-highlight" id='camera'>Camera</li>
+                      <li class="ui-state-highlight" id='pixel'>Pixel</li>
+                      <li class="ui-state-highlight" id='ram'>RAM</li>
+                      <li class="ui-state-highlight" id='headphone'>Headphone</li>
+                      <li class="ui-state-highlight" id='battery_capacity'>Battery Capacity</li>
+                    </ul>
+                     <br/>
+                     <input id='search1' type="submit" value="Submit" onclick="submit()">
+                </div>
+           
+              <div class="col-lg-8">
+              </div>    
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
