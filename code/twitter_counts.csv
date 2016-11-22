@@ -1,8 +1,8 @@
-phones,facetime,color,photo,proximity,compass,headphone,design,size,network,accelerometer,pay,sms,battery,camera,safety,quickcharge,memory,intelligence,performance,email,gps,siri,barometer,price,onedrive,imessage,otg,connectivity,smartwatch,mms,icloud,fingerprint,cardboard,sound,nfc,daydream,gyro,svoice,wallet,display,software
-iphone_6plus,0,0,1,0,2,2,0,0,0,2,0,0,4,11,0,0,2,0,1,0,2,0,2,0,0,0,0,7,0,0,0,0,0,2,0,0,0,0,2,4,1
-iphone7,0,68,21,0,14,16,15,19,5,14,0,20,20,140,3,0,18,0,459,2,6,0,14,0,0,0,0,71,0,0,0,0,13,25,0,3,1,0,7,29,1
-iphone_6,0,0,7,0,3,4,4,0,3,3,0,1,3,50,1,0,6,0,14,0,2,0,3,1,0,0,0,24,0,0,0,0,0,0,0,0,0,0,2,3,0
-iphone_6s,0,24,13,1,3,0,9,6,1,3,2,0,19,52,2,0,8,0,25,0,0,0,3,0,0,0,0,18,0,0,0,0,24,7,0,0,1,0,4,32,0
-galaxy_s7,0,0,3,0,0,0,0,0,0,0,0,1,0,12,0,0,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2,0
-pixel,0,5,41,0,17,3,41,2,2,17,0,8,2,1993,2,0,38,0,52,0,3,0,17,0,0,0,0,5,0,0,0,0,5,1,0,0,0,0,3,43,952
-lg_g5,0,0,1,0,1,0,0,1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+phones,color,photo,proximity,compass,headphone,design,size,network,accelerometer,sms,battery,camera,safety,memory,performance,gps,barometer,connectivity,cardboard,sound,wallet,display,software
+iphone_6plus,0,1,0,2,2,0,0,0,2,0,4,11,0,2,1,2,2,7,0,2,2,4,1
+iphone7,68,21,0,14,16,15,19,5,14,20,20,140,3,18,459,6,14,71,13,25,7,29,1
+iphone_6,0,7,0,3,4,4,0,3,3,1,3,50,1,6,14,2,3,24,0,0,2,3,0
+iphone_6s,24,13,1,3,0,9,6,1,3,0,19,52,2,8,25,0,3,18,24,7,4,32,0
+galaxy_s7,0,3,0,0,0,0,0,0,0,1,0,12,0,0,3,0,0,4,0,0,0,2,0
+pixel,5,41,0,17,3,41,2,2,17,8,2,1993,2,38,52,3,17,5,5,1,3,43,952
+lg_g5,0,1,0,1,0,0,1,0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,1
