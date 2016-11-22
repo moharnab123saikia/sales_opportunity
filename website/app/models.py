@@ -13,45 +13,29 @@ AuditMixin will add automatic timestamp of created and modified by who
 
 class Sentiment(Model):
     id = Column(Integer, primary_key=True)
-    phone = Column(String(50), unique = True, nullable=False)
-    sound = Column(Float)
-    fingerprint = Column(Float)
+    phones = Column(String(50), unique = True, nullable=False)
     color = Column(Float)
     headphone = Column(Float)
     design = Column(Float)
     size = Column(Float)
     network = Column(Float)
+    pay = Column(Float)
     battery = Column(Float)
     camera = Column(Float)
     safety= Column(Float)
     memory= Column(Float)
     intelligence= Column(Float)
     performance= Column(Float)
-    assistant= Column(Float)
-
-
-    def __repr__(self):
-        return self.phone
-        
-
-class Counts(Model):
-    id = Column(Integer, primary_key=True)
-    phone = Column(String(50), unique = True, nullable=False)
-    sound = Column(Float)
+    siri= Column(Float)
+    price = Column(Float)
+    connectivity = Column(Float)
+    smartwatch = Column(Float)
     fingerprint = Column(Float)
-    color = Column(Float)
-    headphone = Column(Float)
-    design = Column(Float)
-    size = Column(Float)
-    network = Column(Float)
-    battery = Column(Float)
-    camera = Column(Float)
-    safety= Column(Float)
-    memory= Column(Float)
-    intelligence= Column(Float)
-    performance= Column(Float)
-    assistant= Column(Float)
-
+    sound = Column(Float)
+    daydream = Column(Float)
+    wallet = Column(Float)
+    display = Column(Float)
+    software = Column(Float)
 
     def __repr__(self):
-        return self.phone
+        return self.phones
