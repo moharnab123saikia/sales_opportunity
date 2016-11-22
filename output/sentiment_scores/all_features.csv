@@ -127,3 +127,5 @@ radio,connectivity
 software,software
 chip,design
 jack,headphone
+camera_front,camera
+batter_capacity,battery

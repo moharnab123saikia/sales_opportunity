@@ -42,7 +42,11 @@ class SentimentModelChartView(DirectByChartView):
     }
 ]
 
+class SearchView(ModelView):
+	datamodel = SQLAInterface(Sentiment)
+
 db.create_all()
 
 appbuilder.add_view(SentimentModelView, "List Sentiments", icon="fa-folder-open-o", category="Statistics")
 appbuilder.add_view(SentimentModelChartView, "List Sentiment Chart", icon="fa-folder-open-o", category="Statistics")
+appbuilder.add_view(SearchView, "Search", icon="fa=folder-open-o", category="Search")
