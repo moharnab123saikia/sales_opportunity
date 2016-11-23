@@ -46,7 +46,7 @@
            var buttonSelected = $('.btn-group .active input').attr("id");
            
            $.ajax( {
-            url : "http://localhost:5000/search",
+            url : "http://localhost:5000",
             method : "POST",
             data : {price : buttonSelected, features : s},
             success : function(data) {

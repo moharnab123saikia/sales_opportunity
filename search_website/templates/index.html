@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <meta property="og:image" content="http://lipis.github.io/bootstrap-social/assets/img/bootstrap-social.png">
     <meta property="og:url" content="http://lipis.github.io/bootstrap-social/">
-    <title>vLibrary - crowd based library</title>
+    <title>Sales Opportunity</title>
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
       <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
       <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
@@ -27,7 +27,7 @@
   
     <style>
       #sortable { list-style-type: none; margin: 0; padding: 0 0 2.5em; float: left; margin-right: 10px; }
-      #sortable li { margin: 0 5px 5px 5px; padding: 5px; font-size: 1.2em; width: 120px; }
+      #sortable li { margin: 0 5px 5px 5px; padding: 5px; font-size: 1.2em; width: 150px; }
       </style>
       <script>
         $(function() {
@@ -47,10 +47,19 @@
            
            $.ajax( {
             url : "http://localhost:5000/search",
-            method : "POST",
+            headers : {'content-type':"application/x-www-form-urlencoded"},
+            method : "GET",
             data : {price : buttonSelected, features : s},
             success : function(data) {
-                console.log(data);
+            	data = data.replace(/u\'/g, '\'');
+            	data = data.replace(/\'/g, '\"');
+				data = $.parseJSON(data);
+				content = "<table class='table table-bordered'><tr><th>Feature</th><th>Value</th></tr>";
+				$.each(data, function(k, v) {
+					content += "<tr class='active' style='color:black'><td> " + k + " </td><td>" + v + "</td></tr>";
+				});
+				content += "</table>";
+				$("#taboutput").html(content);
             }
            });
         }
@@ -65,11 +74,23 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="brand-heading">Sales Opportunity</h1>
+                    <h1 class="brand-heading" style='font-size:50px;padding:10px;'>Sales Opportunity</h1>
+                </div>
+            </div>
+            <div class="row" style="font-size:20x; font-weight:bold;padding:10px;">
+                <div class="col-lg-2">
+                    Price Range
+                </div>
+                <div class="col-lg-2">
+                    Features Priority
+                </div>
+
+                <div class="col-lg-8">
+                    Features
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-2">
                     <div class="btn-group" data-toggle="buttons">
                       <label class="btn btn-primary active">
                         <input type="radio" name="options" id="650" autocomplete="off" checked> 600-700
@@ -81,7 +102,8 @@
                         <input type="radio" name="options" id="850" autocomplete="off"> 800-900
                       </label>
                     </div>
-                    
+                 </div>
+                 <div class="col-lg-2">
                     <ul id="sortable">
                       <li class="ui-state-highlight" id='resolution'>Resolution</li>
                       <li class="ui-state-highlight" id='weight'>Weight</li>
@@ -99,6 +121,7 @@
                 </div>
            
               <div class="col-lg-8">
+              	<div id='taboutput'></div>
               </div>    
             </div>
         </div>
