@@ -4,10 +4,10 @@ import json
 
 from twitter import Api
 
-api = Api(consumer_key = 'qnDfVfsAf73E7Bxyf9kVRWTVg',
-	consumer_secret = 'danStpX5V2vbHXz2uBdWEcFpEXnUdbG2jlUwU7Xd37YHJa1xWQ',
-	access_token_key = '17994241-c2dim0Wxxjr43n4jzot7w9gkhg9mA3cz92h1uuAf7',
-	access_token_secret = 'OimBGv92bHaTOBMozMGttKICTBktG8JCi5ZQN6z4IFHLZ'
+api = Api(consumer_key = '',
+	consumer_secret = '',
+	access_token_key = '',
+	access_token_secret = ''
 )
 
 filter1 = ['#iphone7', '#iphone6s', '#iphone6splus', '#googlepixel', '#pixel', '#iphone6', '#iphone6plus', '#galaxys7', '#lgg5', '#pixel', '#samsungs7', '#iphone7plus']

@@ -4,10 +4,10 @@ def fetchTweet(searchterm) :
 	try:
 		deleteWords = ['sleeve', 'giveaway', 'takeaway', 'website', 'ebay', 'amazon', 'buy', 'sale', '#giveaway', 'contest', 'wallpapers', 'inkcase', 'case']
 		ts = TwitterSearch (
-			consumer_key = 'boFWmv1HoOEZnxYGrIKEg3YFC',
-			consumer_secret = 'Z9tI4LP0QwNV3DKSuo56EObnBLQgZzpCXEZ59Zo8C46D2plWVt',
-			access_token = '17994241-CVhAZfY0tTVIlEafx0zGDfZ4IHqzZ7fEI8e4GLviN',
-			access_token_secret = 'FTJeiDQa6yVJrnqCvvhwQPuLr0gAwKh18P7gjpj2F2A1B'
+			consumer_key = '',
+			consumer_secret = '',
+			access_token = '',
+			access_token_secret = ''
 		)
 
 		tso = TwitterSearchOrder()
